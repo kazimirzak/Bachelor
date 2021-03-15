@@ -27,16 +27,18 @@ def insert_articles():
             date = parser.parse(match.group(2))
             with gzip.open(abs_path) as zip:
                 content = json.loads(zip.read())
+                articles = []
                 for articleId, article in content.items():
                     title = article['title'].strip()
                     description = article['description'].strip()
                     link = next(iter(article['link'])).strip()
                     if title and description:
-                        try:
-                            cursor.execute(insert_query, (outlet, date, articleId.strip(), title, description, link))
-                            db.commit()
-                        except:
-                            print(outlet, date, articleId, title, description, link, sep='\n')
+                        articles.append((outlet, date, articleId.strip(), title, description, link))
+                try:
+                    cursor.executemany(insert_query, articles)
+                    db.commit()
+                except:
+                    print(outlet, date, articleId, title, description, link, sep='\n')
 
 
 if __name__ == '__main__':
