@@ -23,7 +23,7 @@ vader = SentimentIntensityAnalyzer()
 
 # Inserts articles into the database using the DATA_PATH. Structure of data should be as described here: http://sciride.org/news.html#datacontent
 def insert_articles():
-    insert_query = "INSERT INTO articles (outlet, date, title, description, link) VALUES (%s, %s, %s, %s, %s)"
+    insert_query = "INSERT INTO articles (uniqueId, outlet, date, title, description, link) VALUES (%s, %s, %s, %s, %s, %s)"
     for path, dirs, files in os.walk(DATA_PATH):
         for f in fnmatch.filter(files, '*.gz'):
             abs_path = os.path.abspath(os.path.join(path, f))
@@ -38,7 +38,7 @@ def insert_articles():
                     description = article['description'].strip()
                     link = next(iter(article['link'])).strip()
                     if title and description:
-                        articles.append((outlet, date, title, description, link))
+                        articles.append((article_id, outlet, date, title, description, link))
                 try:
                     cursor.executemany(insert_query, articles)
                     db.commit()
@@ -93,8 +93,8 @@ def textblob_sentiment(id, text):
 if __name__ == '__main__':
     print("Lets fuck shit up!")
     start_time = time.time()
-    #insert_articles()
-    sentiment_analysis()
+    insert_articles()
+    #sentiment_analysis()
     print("--- %s seconds ---" % (time.time() - start_time))
 
 
