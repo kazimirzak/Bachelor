@@ -8,6 +8,7 @@ import json
 import time
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from textblob import TextBlob
+from math import floor
 
 DATA_PATH = "E:\\release"
 
@@ -47,54 +48,56 @@ def insert_articles():
 
 
 def sentiment_analysis():
-    insert_vader = "INSERT INTO vader (articleId, neg, neu, pos, compound) VALUES (%s, %s, %s, %s, %s)"
+    insert_vader = "INSERT INTO vader (uniqueArticleId, neg, neu, pos, compound) VALUES (%s, %s, %s, %s, %s)"
 
-    insert_textblob = "INSERT INTO textblob (articleId, polarity, subjectivity)" \
+    insert_textblob = "INSERT INTO textblob (uniqueArticleId, polarity, subjectivity)" \
                       "VALUES (%s, %s, %s)"
     limit = 5000
-    cursor.execute("SELECT MAX(id) FROM articles")
-    num_of_articles = (cursor.fetchone())[0]
-    cursor.execute("SELECT MAX(id) FROM vader")
-    start_offset = (cursor.fetchone())[0]
-    if not start_offset:
-        start_offset = 0
-    for i in range(start_offset, num_of_articles, limit):
-        vs = []
-        ts = []
-        cursor.execute(f"SELECT id, title, description FROM articles WHERE id > {i} ORDER BY id ASC LIMIT {limit}")
-        articles = cursor.fetchall()
-        for article in articles:
-            id = article[0]
-            title = str(article[1])
-            description = str(article[2])
-            vs.append(vader_sentiment(id, f"{title} {description}"))
-            ts.append(textblob_sentiment(id, f"{title} {description}"))
-        cursor.executemany(insert_vader, vs)
-        db.commit()
-        cursor.executemany(insert_textblob, ts)
-        db.commit()
-        print(f"Processed Chunk: {i / limit}/{num_of_articles / limit}!")
+    print("Fetching articles")
+    cursor.execute("SELECT DISTINCT(uniqueId), title, description FROM articles")
+    rows = cursor.fetchall()
+    print("Done!")
+    num_of_rows = len(rows)
+    print(f"Number of insertion in total: {num_of_rows}")
+    i = 0
+    vs = []
+    ts = []
+    for article in rows:
+        uniqueArticleId = article[0]
+        title = article[1]
+        description = article[2]
+        vs.append(vader_sentiment(uniqueArticleId, f"{title} {description}"))
+        ts.append(textblob_sentiment(uniqueArticleId, f"{title} {description}"))
+        if i % 5000 == 0:
+            cursor.executemany(insert_vader, vs)
+            db.commit()
+            cursor.executemany(insert_textblob, ts)
+            db.commit()
+            vs = []
+            ts = []
+            print(f"Inserting Articles: {floor(i/num_of_rows) * 100}% Done!\r")
+        i = i + 1
 
 
-def vader_sentiment(id, text):
+def vader_sentiment(uniqueArticleId, text):
     sentiment = vader.polarity_scores(text)
     # return a tuple with:
     # (articleId, neg, neu, pos, compound).
-    return (id, sentiment['neg'], sentiment['neu'], sentiment['pos'], sentiment['compound'])
+    return (uniqueArticleId, sentiment['neg'], sentiment['neu'], sentiment['pos'], sentiment['compound'])
 
 
-def textblob_sentiment(id, text):
+def textblob_sentiment(uniqueArticleId, text):
     sentiment = TextBlob(text).sentiment
     # Returns a tuple with:
     # (articleId, polarity, subjectivity)
-    return (id, sentiment.polarity, sentiment.subjectivity)
+    return (uniqueArticleId, sentiment.polarity, sentiment.subjectivity)
 
 
 if __name__ == '__main__':
     print("Lets fuck shit up!")
     start_time = time.time()
-    insert_articles()
-    #sentiment_analysis()
+    #insert_articles()
+    sentiment_analysis()
     print("--- %s seconds ---" % (time.time() - start_time))
 
 
