@@ -1,53 +1,228 @@
-import mysql.connector
+import math
+import time
+
 import matplotlib.pyplot as plt
+from pymongo import MongoClient
+from dateutil import parser
 
-db = mysql.connector.connect(
-    user="root",
-    password="",
-    database="bachelor"
-)
-cursor = db.cursor()
+client = MongoClient('mongodb://localhost:27017')
+db = client.Bachelor
 
 
-def get_data():
-    cursor.execute(f"SELECT articles.Id, outlet, polarity, compound FROM articles, textblob, vader "
-                   f"WHERE vader.articleId = articles.id AND vader.articleId = textblob.articleId AND textblob.articleId = articles.id LIMIT {92785 + 304435}")
-    query_results = cursor.fetchall()
+def get_data(pipeline):
+    # Expects the pipeline to be a pipelines used to aggregate a query in mongodb.
+    # The resulting rows must contain '_id', 'vader', 'tb'
+    # Where '_id' = labeling of said data, 'vader' = vader sentiment of the data
+    # 'tb' = textblob sentiment of the data.
+    print("---   Querying database   ---")
+    start_time = time.time()
+    data = db.Articles.aggregate(pipeline, allowDiskUse=True)
+    print("--- Done in: %.2f seconds ---" % (time.time() - start_time))
+    return create_mapping(data)
+
+
+def create_mapping(data):
     mapping = dict()
-    for result in query_results:
-        outlet = result[1]
-        id = result[0]
-        if outlet not in mapping:
-            mapping[outlet] = {
-                'tb': dict(),
-                'vader': dict()
-            }
-        mapping[outlet]['tb'][id] = result[2]
-        mapping[outlet]['vader'][id] = (result[2])
+    for item in data:
+        mapping[item['_id']] = {
+            'Vader': item['Vader'],
+            'TextBlob': item['TextBlob']
+        }
     return mapping
 
 
-def plot(mapping):
-    num_of_outlets = len(mapping.keys())
+def inverse_mapping(mapping):
+    newMapping = dict()
+    for outlet, sentiment_dict in mapping.items():
+        for sentiment_tool, l in sentiment_dict.items():
+            if sentiment_tool not in newMapping:
+                newMapping[sentiment_tool] = dict()
+            newMapping[sentiment_tool][outlet] = l
+    return newMapping
+
+
+def plot_1d(mapping, num_rows, num_columns):
     fig = plt.figure()
-    axis = fig.subplots(num_of_outlets, 2)
-    axis[0, 0].set_title('Vader')
-    axis[0, 1].set_title('TextBlob')
-    for i, (outlet, analysisTool_dict) in enumerate(mapping.items()):
-        axis[i, 0].scatter(list(range(len(analysisTool_dict['vader'].keys()))), analysisTool_dict['vader'].values(), s=0.1, c='b', marker='o', label='vader')
-        axis[i, 0].set_ylabel(outlet)
-        axis[i, 1].scatter(list(range(len(analysisTool_dict['tb'].keys()))), analysisTool_dict['tb'].values(), s=0.1, c='r', marker='o', label='textblob')
-    fig.tight_layout()
+    axis = fig.subplots(ncols=num_columns, nrows=num_rows)
+    for i, (label, sentiment_dict) in enumerate(mapping.items()):
+        keys = [x for x in sentiment_dict.keys() if x != "_id"]
+        axis[i].set_xticks(range(1, len(keys) + 1))
+        axis[i].set_xticklabels(keys)
+        axis[i].set_title(label)
+        axis[i].violinplot([sentiment_dict[x] for x in keys])
     plt.show()
 
 
-def add_subplot(axis, title, color, label, index, x, y):
-    axis[index].scatter(x, y, s=10, c=color, marker='o', label=label)
-    axis[index].set_title(title)
+def plot_2d(mapping, num_rows, num_columns):
+    fig = plt.figure()
+    axis = fig.subplots(ncols=num_columns, nrows=num_rows)
+    for i, (label, sentiment_dict) in enumerate(mapping.items()):
+        row = i // num_columns
+        col = i % num_columns
+        keys = [x for x in sentiment_dict.keys() if x != "_id"]
+        axis[row, col].set_xticks(range(1, len(keys) + 1))
+        axis[row, col].set_xticklabels(keys)
+        axis[row, col].set_title(label)
+        axis[row, col].violinplot([sentiment_dict[x] for x in keys], showmeans=True, showmedians=True)
+    plt.show()
 
 
 if __name__ == '__main__':
     print("Lets fuck shit up!")
-    mapping = get_data()
-    plot(mapping)
+    user_input = "a"
+    mapping = None
+    correctInput = False
+    pipeline = None
+    while user_input != "q":
+        user_input = input(
+            "Please choose from the list below what the data should be grouped by:\n1: Outlet\n2: Year\n3: Month\n4: Day\nQ: Exit\n").lower()
+        if user_input == "1":
+            correctInput = True
+            pipeline = [
+                {
+                    "$group":
+                        {
+                            "_id": "$uniqueId",
+                            "label": {"$first": "$outlet"},
+                            "vader": {"$first": "$vader"},
+                            "tb": {"$first": "$tb"}
+                        }
+                },
+                {
+                    "$group":
+                        {
+                            "_id": "$label",
+                            "Vader": {"$push": "$vader"},
+                            "TextBlob": {"$push": "$tb"}
+                        }
+                },
+                {
+                    "$sort":
+                        {
+                            "_id": 1
+                        }
+                }
+            ]
+        if user_input == "2":
+            correctInput = True
+            pipeline = [
+                {
+                    "$group":
+                        {
+                            "_id": {"$year": "$date"},
+                            "Vader": {"$push": "$vader"},
+                            "TextBlob": {"$push": "$tb"}
+                        }
+                },
+                {
+                    "$sort":
+                        {
+                            "_id": 1
+                        }
+                }
+            ]
+        if user_input == "3":
+            correctInput = True
+            pipeline = [
+                {
+                    "$group":
+                        {
+                            "_id": {
+                                "year": {"$year": "$date"},
+                                "month": {"$month": "$date"}
 
+                            },
+                            "vader": {"$push": "$vader"},
+                            "tb": {"$push": "$tb"}
+                        }
+                },
+                {
+                  "$sort":
+                      {
+                          "_id": 1
+                      }
+                },
+                {
+                    "$project":
+                        {
+                            "_id": {
+                                "$concat": [
+                                    {"$toString": "$_id.month"},
+                                    "/",
+                                    {"$toString": "$_id.year"}
+                                ]
+                            },
+                            "Vader": "$vader",
+                            "TextBlob": "$tb"
+                        }
+                }
+            ]
+        if user_input == "4":
+            correctInput = False
+            minDate = db.Articles.find_one(sort=[("date", 1)])["date"]
+            maxDate = db.Articles.find_one(sort=[("date", -1)])["date"]
+            print(f"Please enter start and end dates between the interval: {minDate.strftime('%x')}-{maxDate.strftime('%x')} ")
+            startDate = parser.parse(input("Start Date: "))
+            endDate = parser.parse(input("End Date: "))
+            if minDate < startDate < endDate < maxDate:
+                correctInput = True
+            else:
+                print("Wrong dates, skid!")
+            pipeline = [
+                {
+                    "$group":
+                        {
+                            "_id": {
+                                "year": {"$year": "$date"},
+                                "month": {"$month": "$date"},
+                                "day": {"$dayOfMonth": "$date"}
+
+                            },
+                            "vader": {"$push": "$vader"},
+                            "tb": {"$push": "$tb"}
+                        }
+                },
+                {
+                    "$match":
+                        {
+                            "_id.year": {"$gte": startDate.year, "$lte": endDate.year},
+                            "_id.month": {"$gte": startDate.month, "$lte": endDate.month},
+                            "_id.day": {"$gte": startDate.day, "$lte": endDate.day}
+                        }
+                },
+                {
+                    "$sort":
+                        {
+                            "_id": 1
+                        }
+                },
+                {
+                    "$project":
+                        {
+                            "_id": {
+                                "$concat": [
+                                    {"$toString": "$_id.day"},
+                                    "/",
+                                    {"$toString": "$_id.month"},
+                                    "/",
+                                    {"$toString": "$_id.year"}
+                                ]
+                            },
+                            "Vader": "$vader",
+                            "TextBlob": "$tb"
+                        }
+                }
+            ]
+        if correctInput:
+            mapping = get_data(pipeline)
+            if input("Inverse Mapping? ") == "y":
+                mapping = inverse_mapping(mapping)
+            for key, value in mapping.items():
+                print(key, "->", value.keys())
+            num_columns = math.floor(math.sqrt(len(mapping)))
+            num_rows = math.ceil(len(mapping) / num_columns)
+            if num_rows == 1 or num_columns == 1:
+                plot_1d(mapping, num_rows, num_columns)
+            else:
+                plot_2d(mapping, num_rows, num_columns)
+        correctInput = False
