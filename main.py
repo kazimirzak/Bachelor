@@ -10,16 +10,12 @@ import nltk
 from nltk.stem.wordnet import WordNetLemmatizer
 from nltk.tokenize import word_tokenize
 from dateutil import parser
-from pymongo import MongoClient
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from textblob import TextBlob
-from math import floor
 
 en_stop = set(nltk.corpus.stopwords.words('english'))
 
 DATA_PATH = "E:\\bachelor\\release\\"
-client = MongoClient('mongodb://localhost:27017')
-db = client.Bachelor
 vaccine_keywords = ['vaccine', 'vaccinate', 'vaccination', 'immunization']
 vader = SentimentIntensityAnalyzer()
 
@@ -107,24 +103,6 @@ def process_text(line):
 
 def get_lemma(word):
     return WordNetLemmatizer().lemmatize(word)
-
-
-def sentiment_analysis():
-    articles = db.Konrad.count()
-    print("Number of articles: ", articles)
-    i = 0
-    for item in db.Konrad.find({}, {"uniqueId": 0, "outlet": 0, "date": 0, "link": 0}):
-        text = f"{item['title']} {item['description']}"
-        db.Konrad.update_one({"_id": item["_id"]}, {
-            "$set": {
-                "vader": vader.polarity_scores(text)['compound'],
-                "tb": TextBlob(text).sentiment.polarity
-
-            }
-        })
-        i = i + 1
-        print(f"\rProcessing... {floor(i / articles * 100)}%", end="")
-    print()
 
 
 if __name__ == '__main__':
