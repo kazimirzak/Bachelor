@@ -14,6 +14,7 @@ from pymongo import MongoClient
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from textblob import TextBlob
 from math import floor
+
 en_stop = set(nltk.corpus.stopwords.words('english'))
 
 DATA_PATH = "E:\\bachelor\\release\\"
@@ -24,8 +25,22 @@ vader = SentimentIntensityAnalyzer()
 
 
 def insert_articles():
-    with open('result.csv', newline='') as result_file:
-        writer = csv.writer(result_file)
+    with open('result.csv', 'w', newline='', encoding='utf-8') as result_file:
+        fieldnames = [
+            "uniqueId",
+            "outlet",
+            "date",
+            "title",
+            "description",
+            "normalized_title",
+            "normalized_description",
+            "is_covid",
+            "is_vaccine",
+            "vader",
+            "tb",
+            "link"
+        ]
+        writer = csv.DictWriter(result_file, fieldnames=fieldnames)
         for path, dirs, files in os.walk(DATA_PATH):
             for f in fnmatch.filter(files, '*.gz'):
                 abs_path = os.path.abspath(os.path.join(path, f))
@@ -62,10 +77,13 @@ def insert_articles():
                                 }
                             )
                     try:
-                        db.Konrad.insert_many(articles)
+                        writer.writerows(articles)
                     except:
+                        print("------------------ ERROR ------------------")
                         print(sys.exc_info()[0])
-                        print(article_id, outlet, date, title, description, normalized_title, normalized_description, is_covid, is_vaccine, link, sep='\n')
+                        print(article_id, outlet, date, title, description, normalized_title, normalized_description,
+                              is_covid, is_vaccine, link, sep='\n')
+                        print("-------------------------------------------")
 
 
 def determine_vaccine(title, description):
@@ -98,11 +116,11 @@ def sentiment_analysis():
     for item in db.Konrad.find({}, {"uniqueId": 0, "outlet": 0, "date": 0, "link": 0}):
         text = f"{item['title']} {item['description']}"
         db.Konrad.update_one({"_id": item["_id"]}, {
-           "$set": {
-               "vader": vader.polarity_scores(text)['compound'],
-               "tb": TextBlob(text).sentiment.polarity
+            "$set": {
+                "vader": vader.polarity_scores(text)['compound'],
+                "tb": TextBlob(text).sentiment.polarity
 
-           }
+            }
         })
         i = i + 1
         print(f"\rProcessing... {floor(i / articles * 100)}%", end="")
@@ -113,7 +131,6 @@ if __name__ == '__main__':
     print("Lets fuck shit up!")
     start_time = time.time()
     insert_articles()
-    #sentiment_analysis()
+    # sentiment_analysis()
+
     print("--- %s seconds ---" % (time.time() - start_time))
-
-
