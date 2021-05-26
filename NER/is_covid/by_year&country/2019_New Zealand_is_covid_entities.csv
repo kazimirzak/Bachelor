@@ -1,0 +1,356 @@
+entity, label, count
+Christchurch, ORG, 37
+Coronation Street, FAC, 15
+Coronation Street's, FAC, 11
+two, CARDINAL, 11
+Kashmir, LOC, 8
+Auckland, GPE, 8
+West Auckland, GPE, 7
+Lockdown, ORG, 6
+One, CARDINAL, 5
+first, ORDINAL, 4
+Napier, ORG, 4
+Corona, GPE, 4
+Thailand, GPE, 4
+Nelson, PERSON, 4
+Coronation Street's, ORG, 4
+this morning, TIME, 4
+11-hour, TIME, 3
+Thursday, DATE, 3
+morning, TIME, 3
+Coro, PERSON, 3
+Indian, NORP, 3
+Hamilton, PERSON, 3
+India, GPE, 3
+NASA, ORG, 3
+Herald Video, ORG, 3
+Park Island, LOC, 2
+Palmerston, GPE, 2
+Australian, NORP, 2
+Timaru Hospital, ORG, 2
+Monday, DATE, 2
+James McDonald, PERSON, 2
+Mt Eden, GPE, 2
+overnight, TIME, 2
+Macao, GPE, 2
+20 years, DATE, 2
+China, GPE, 2
+this week, DATE, 2
+NSW, ORG, 2
+Steve McDonald, PERSON, 2
+today, DATE, 2
+Canterbury, GPE, 2
+At least 30, CARDINAL, 2
+one, CARDINAL, 2
+New Zealand, GPE, 2
+Jane Hazlegrove, PERSON, 2
+BB, GPE, 2
+Tauranga, GPE, 2
+Weatherfield, ORG, 2
+Friday, DATE, 2
+100th, ORDINAL, 2
+millions, CARDINAL, 2
+Baileys, PERSON, 2
+African, NORP, 2
+Auckland's Meadowbank School, ORG, 2
+Mexican, NORP, 2
+Wellington, GPE, 2
+Gary Windass, PERSON, 2
+Rob Mallard, PERSON, 2
+Sun, ORG, 2
+Foxton, GPE, 2
+Juan Corona, PERSON, 2
+Fiji, GPE, 2
+Robert Preston, PERSON, 2
+Herald New York Times, ORG, 2
+four, CARDINAL, 2
+Chris Hemsworth, PERSON, 2
+Five, CARDINAL, 2
+Jack P Shepherd, ORG, 2
+British, NORP, 2
+Hollywood, GPE, 2
+Paula Martin, PERSON, 1
+Polish, NORP, 1
+Jan Lozinski, PERSON, 1
+Eleven hours, TIME, 1
+summer, DATE, 1
+AOS, ORG, 1
+Napier - NZ Herald The Armed Offenders Squad, EVENT, 1
+North, PERSON, 1
+Mt Eden Corrections Facility, ORG, 1
+Mount Maunganui, LOC, 1
+Scoop News Leaders, PRODUCT, 1
+Canadian, NORP, 1
+Taiwan, GPE, 1
+Vajiralongkorn, PERSON, 1
+Saturday, DATE, 1
+May 4, DATE, 1
+three-day, DATE, 1
+multimillion-dollar, MONEY, 1
+Hindu, NORP, 1
+Buddhist, NORP, 1
+Rama X, PERSON, 1
+10th, ORDINAL, 1
+Ellerslie, PERSON, 1
+Boxing Day - NZ Herald It, EVENT, 1
+North Island, LOC, 1
+Rotorua, GPE, 1
+the school holidays, DATE, 1
+Wales, GPE, 1
+Kiwi, ORG, 1
+Mongolia, GPE, 1
+Mongolian, NORP, 1
+Levin, PERSON, 1
+Xi, PERSON, 1
+Portuguese, NORP, 1
+Herald Whangārei, ORG, 1
+Herald University, ORG, 1
+hours, TIME, 1
+Christchurch Hospital, ORG, 1
+the University of Canterbury, ORG, 1
+3-year-old, DATE, 1
+Minutes later, TIME, 1
+MITA Hunger Strike Protest Continues, PERSON, 1
+Tuesday 8 January, DATE, 1
+fourth day, DATE, 1
+Dutch, NORP, 1
+Turkish, NORP, 1
+Utrecht, GPE, 1
+eight-hour, TIME, 1
+Two, CARDINAL, 1
+9th day, DATE, 1
+a ninth day, DATE, 1
+Shona Ramsay, FAC, 1
+33-year-old, DATE, 1
+Greymouth, PERSON, 1
+more than two hours, TIME, 1
+three, CARDINAL, 1
+Coronation Street, ORG, 1
+Cambridge High School, ORG, 1
+the school day, DATE, 1
+BestStarts, ORG, 1
+Burnside, GPE, 1
+Wairakei, PERSON, 1
+Ministry of Social Development, ORG, 1
+All Ministry of Social Development, ORG, 1
+Lockdown Report, PERSON, 1
+| Scoop News, PRODUCT, 1
+The Ministry of Education, ORG, 1
+KPMG, GPE, 1
+15 March 2019, DATE, 1
+McDonald, ORG, 1
+Herald One, ORG, 1
+about 5.30pm, CARDINAL, 1
+this afternoon, TIME, 1
+St Lucia, PERSON, 1
+Four, CARDINAL, 1
+Ryan Clayton, PERSON, 1
+Josh Tucker, PERSON, 1
+last year - and, DATE, 1
+Whangārei Boys High School | Stuff.co.nz Whangārei Boys' High School, FAC, 1
+1, CARDINAL, 1
+Makoura College, ORG, 1
+Masterton, GPE, 1
+Donald Trump, PERSON, 1
+Mako Road, PERSON, 1
+this winter, DATE, 1
+five, CARDINAL, 1
+NZ, GPE, 1
+Marlborough, GPE, 1
+four-hour, TIME, 1
+Bernie, PERSON, 1
+51-year-old, DATE, 1
+South Taranaki, LOC, 1
+Hāwera, ORG, 1
+Tuesday, DATE, 1
+thousands, CARDINAL, 1
+Parliament, ORG, 1
+Cropper, ORG, 1
+Mollie Gallagher, PERSON, 1
+almost 60 years, DATE, 1
+Jason Harnett, PERSON, 1
+Ryan Prescott, PERSON, 1
+Ryan Connor, ORG, 1
+Ōtara, ORG, 1
+Lockdown, PERSON, 1
+Gore, PERSON, 1
+Longford Intermediate, PERSON, 1
+Rosetta Rawlings, ORG, 1
+Rosetta Rawlings', ORG, 1
+Cryptopia, ORG, 1
+millions of dollars, MONEY, 1
+3185, MONEY, 1
+Jake Blatchford, PERSON, 1
+Toilets, ORG, 1
+March 15, DATE, 1
+ASF, ORG, 1
+fourth, ORDINAL, 1
+half, CARDINAL, 1
+Greens, NORP, 1
+annual, DATE, 1
+James Shaw, PERSON, 1
+Armed Offenders Squad, ORG, 1
+Alexander Ave, ORG, 1
+Auckland Housing NZ and Public Trust, ORG, 1
+Melbourne, GPE, 1
+Kieran Read, PERSON, 1
+Stacey Pope, PERSON, 1
+Muslim, NORP, 1
+South Canterbury, ORG, 1
+Pleasant Point Primary, ORG, 1
+Pleasant Point Preschool, ORG, 1
+20th season, DATE, 1
+20, CARDINAL, 1
+Harry Visinoni, PERSON, 1
+Helen Worth, PERSON, 1
+Platt, PERSON, 1
+the coming months, DATE, 1
+Restaurant Brands', ORG, 1
+2000, CARDINAL, 1
+Thousands, CARDINAL, 1
+Māori, GPE, 1
+Ōtaki, GPE, 1
+Palmerston North, PERSON, 1
+early August 1923, DATE, 1
+1918, DATE, 1
+the Parker Solar Probe, ORG, 1
+Earth, LOC, 1
+the Northern Lights, LOC, 1
+The Parker Solar Probe, ORG, 1
+last year, DATE, 1
+about 15 million miles, QUANTITY, 1
+Mercury, ORG, 1
+a mere 4 million miles, QUANTITY, 1
+2025, DATE, 1
+Mummy, PERSON, 1
+Daniel Osbourne, PERSON, 1
+Alison King, PERSON, 1
+Carla Connor's, PERSON, 1
+multimillion-degree, QUANTITY, 1
+300, CARDINAL, 1
+RNZ News Police, ORG, 1
+earlier today, TIME, 1
+Manawatū, NORP, 1
+Coronation Road, LOC, 1
+Auckland Hospital, ORG, 1
+US, GPE, 1
+America, GPE, 1
+1971, DATE, 1
+the Christchurch Lockdown of Schools | Scoop News, ORG, 1
+Friday the 15th of March, DATE, 1
+Auckland's Evelyn Page Retirement Village, ORG, 1
+Principal, PERSON, 1
+Bernie Winter, ORG, 1
+6, CARDINAL, 1
+Fiij | RNZ News, ORG, 1
+Six, CARDINAL, 1
+Pacific, ORG, 1
+Hawke's Bay Hospital - NZ, ORG, 1
+Western Heights High School, ORG, 1
+Kerri Quinn, PERSON, 1
+Vicky, GPE, 1
+Pat Phelan, PERSON, 1
+Taonui School, ORG, 1
+Manawatū, PERSON, 1
+Savemart, PERSON, 1
+Nelson CBD, ORG, 1
+SaveMart, PRODUCT, 1
+Hutt City, GPE, 1
+Coronation St, LOC, 1
+Ian Foster, PERSON, 1
+NZR, ORG, 1
+The New York Times', ORG, 1
+Tens of thousands, CARDINAL, 1
+New Plymouth, GPE, 1
+Ben Price, PERSON, 1
+Nick Tilsley's, PERSON, 1
+Nick, PERSON, 1
+Maria Connor, PERSON, 1
+19-year, DATE, 1
+Stuff.co.nz Hemi Taylor, PERSON, 1
+Gemma Winter, PERSON, 1
+Shona Ramsey's, PERSON, 1
+Foxton, LANGUAGE, 1
+Foxton, PERSON, 1
+25-year-old, DATE, 1
+More than 100, CARDINAL, 1
+The Square, FAC, 1
+Tristan Gemmill, PERSON, 1
+Angela Griffin, PERSON, 1
+Fiona Middleton, PERSON, 1
+Herald Angela Griffin, PERSON, 1
+Fiona, PERSON, 1
+more than 20 years, DATE, 1
+2 April 2019, DATE, 1
+Scoop News ', ORG, 1
+Alexandra Mardell, PERSON, 1
+Emma Brooker, PERSON, 1
+Lockdown at Timaru Hospital, ORG, 1
+The lockdown&nbsp;at Timaru Hospital, ORG, 1
+Christopher Luxon's, PERSON, 1
+Air New Zealand - NZ Herald From, ORG, 1
+Byron Bay, FAC, 1
+yesterday, DATE, 1
+California, GPE, 1
+Herald Bakersfield Police, ORG, 1
+at least two, CARDINAL, 1
+Peter Ash, PERSON, 1
+the White House, ORG, 1
+Hastings, PERSON, 1
+36 hours, TIME, 1
+Freewinds, PRODUCT, 1
+St Lucia - NZ, PERSON, 1
+at least one, CARDINAL, 1
+Hawke's Bay Hospital, ORG, 1
+three-hour, TIME, 1
+Hastings, GPE, 1
+51, CARDINAL, 1
+this summer, DATE, 1
+Damien O’Connor, PERSON, 1
+Focus Live, ORG, 1
+Queensland, PERSON, 1
+Devonport, GPE, 1
+Asha Alahan, PERSON, 1
+2, CARDINAL, 1
+Focus Live: Christchurch, ORG, 1
+Herald Video Police, ORG, 1
+Joseph Alessi, PERSON, 1
+Katie McGlynn, PERSON, 1
+Queensland, GPE, 1
+5, CARDINAL, 1
+the Bay of Plenty, LOC, 1
+Best Villain, GPE, 1
+School, ORG, 1
+more than 40 minutes, TIME, 1
+RNZ News Students, ORG, 1
+Recidivist Timaru, PERSON, 1
+Mycoplasma, GPE, 1
+thousands of dollars, MONEY, 1
+Air New Zealand, ORG, 1
+Melbourne Airport, FAC, 1
+afternoon, TIME, 1
+Samoa, ORG, 1
+Tonga, GPE, 1
+six, CARDINAL, 1
+American Samoa, ORG, 1
+Kym Marsh, PERSON, 1
+Michelle Connor's, PERSON, 1
+Alpine, ORG, 1
+Michelle, PERSON, 1
+Robert, PERSON, 1
+Ōtara, GPE, 1
+Auckland, NORP, 1
+Netflix, GPE, 1
+Stowaway, ORG, 1
+12 hours, TIME, 1
+Singapore, GPE, 1
+centuries-old, DATE, 1
+seven decades ago, DATE, 1
+59,000, CARDINAL, 1
+four hours, TIME, 1
+Six month, DATE, 1
+Mikey North, PERSON, 1
+32-year-old, DATE, 1
+Views, ORG, 1
+| Scoop News The Environmental Protection Authority, PRODUCT, 1
+David Platt, PERSON, 1

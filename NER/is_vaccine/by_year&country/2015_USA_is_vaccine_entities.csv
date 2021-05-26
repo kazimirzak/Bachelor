@@ -1,0 +1,413 @@
+entity, label, count
+first, ORDINAL, 16
+Donald Trump, PERSON, 15
+HPV, ORG, 14
+GOP, ORG, 12
+Republican, NORP, 12
+CBS News, ORG, 11
+Fox News, ORG, 11
+California, GPE, 11
+The Washington Post, ORG, 10
+CDC, ORG, 10
+Ben Carson, PERSON, 10
+Guinea, GPE, 10
+The New York Times, ORG, 9
+year, DATE, 7
+West Africa, GPE, 7
+The Boston Globe, ORG, 6
+one, CARDINAL, 5
+Planned Parenthood, ORG, 5
+Vaccine, PERSON, 5
+today, DATE, 5
+Carson, PERSON, 5
+Two, CARDINAL, 4
+Mexico, GPE, 4
+USDA, ORG, 4
+thousands, CARDINAL, 4
+the World Health Organization, ORG, 4
+U.S., GPE, 4
+Rand Paul, PERSON, 4
+Australia, GPE, 3
+Shots - Health News, ORG, 3
+Africa, LOC, 3
+NPR, ORG, 3
+Americans, NORP, 3
+European, NORP, 3
+one year, DATE, 3
+last year, DATE, 3
+Florida, GPE, 3
+House, ORG, 3
+New York, GPE, 3
+Flu Vaccine, PERSON, 2
+Jon LaPook, PERSON, 2
+Manny, PERSON, 2
+decades, DATE, 2
+CBS News Experts, ORG, 2
+5, CARDINAL, 2
+NYC, LOC, 2
+Monday, DATE, 2
+Rhode Island, GPE, 2
+Thursday, DATE, 2
+Japanese, NORP, 2
+last year’s, DATE, 2
+Australian, NORP, 2
+Wednesday, DATE, 2
+Asia, LOC, 2
+India, GPE, 2
+Carly Fiorina, ORG, 2
+Hillary Clinton Arranged Meeting, PERSON, 2
+the new year, DATE, 2
+Friday, DATE, 2
+Republicans, NORP, 2
+RSV, ORG, 2
+Novavax Inc, PERSON, 2
+two, CARDINAL, 2
+Jenny McCarthy, PERSON, 2
+millions, CARDINAL, 2
+The U.S. Department of Agriculture, ORG, 2
+American, NORP, 2
+second, ORDINAL, 2
+Fiorina, ORG, 2
+Congress, ORG, 2
+Trump, PERSON, 2
+each year, DATE, 2
+season, DATE, 2
+annual, DATE, 2
+World, ORG, 2
+Mosquirix, PERSON, 2
+Trump, ORG, 2
+Clinton, PERSON, 2
+CNN, ORG, 2
+Disneyland, FAC, 2
+Ukraine, GPE, 2
+UN, ORG, 2
+Tuesday, DATE, 2
+Hillary, PERSON, 2
+a year ago, DATE, 2
+Dengue Vaccine, PERSON, 2
+2015, DATE, 2
+next year, DATE, 2
+France, GPE, 2
+Brazilian, NORP, 2
+Texas, GPE, 2
+Illinois, GPE, 2
+five, CARDINAL, 2
+Atlantic, LOC, 2
+Kenya, GPE, 2
+Russian, NORP, 2
+Orthodox, NORP, 2
+The Post, ORG, 2
+this year, DATE, 2
+UC, GPE, 1
+Camarosa, NORP, 1
+the  University of California, ORG, 1
+more than $500 million, MONEY, 1
+World Health Organization, ORG, 1
+more than 4,000, CARDINAL, 1
+The Boston Globe One, ORG, 1
+eight, CARDINAL, 1
+the age of 17, DATE, 1
+only 45%, PERCENT, 1
+60%, PERCENT, 1
+CBS News', ORG, 1
+Forbes, PERSON, 1
+Gardasil, GPE, 1
+MMR, ORG, 1
+9, CARDINAL, 1
+10, CARDINAL, 1
+Hundreds of thousands, CARDINAL, 1
+Moncef Slaoui, PERSON, 1
+more than $1 million, MONEY, 1
+Latasha George, PERSON, 1
+Louisiana, GPE, 1
+740 million, CARDINAL, 1
+Flu Shot, PERSON, 1
+Bruce Rauner, PERSON, 1
+Vaccine Injury Court, ORG, 1
+Close to Eliminating Measles Worldwide, WORK_OF_ART, 1
+pre-K, ORG, 1
+Five, CARDINAL, 1
+New York City, GPE, 1
+W. Scott Lamb, PERSON, 1
+Madonna, PERSON, 1
+Pope Francis, PERSON, 1
+Bible, WORK_OF_ART, 1
+Vermont, GPE, 1
+Fox News State, ORG, 1
+The Washington Post Probably, ORG, 1
+VSV-EBOV, ORG, 1
+6 days, DATE, 1
+Chicago Tribune, ORG, 1
+Teens Are Getting Required Vaccines :, ORG, 1
+NPR Doctors, ORG, 1
+the school year, DATE, 1
+The Washington Post Some, ORG, 1
+Fox News Asia's, ORG, 1
+Serum Institute of India, ORG, 1
+The Washington Post Finding, ORG, 1
+the Liberal Media on Vaccinations, ORG, 1
+HHS, ORG, 1
+Kathleen Sebelius, PERSON, 1
+Hundreds, CARDINAL, 1
+Californians, NORP, 1
+807, CARDINAL, 1
+Stanislaus County, GPE, 1
+LA Times State, ORG, 1
+the current flu season, DATE, 1
+amp;ldquo;anti-science&amp;rdquo;?&amp;nbsp;&amp;nbsp;&amp;nbsp, ORG, 1
+Vaccine Injury Payouts Rise - WSJ, ORG, 1
+Middle East, LOC, 1
+Fox News Biotechnology, ORG, 1
+Creationism, NORP, 1
+Ben Carson’s, PERSON, 1
+New Meningitis Strain, NORP, 1
+five million, CARDINAL, 1
+January, DATE, 1
+Trumenba, ORG, 1
+Inside Each Flu Shot, Months Of Virus Tracking And Predictions : Shots - Health News, WORK_OF_ART, 1
+NPR Scientists, ORG, 1
+yearly, DATE, 1
+N.J., GPE, 1
+last week's, DATE, 1
+67, CARDINAL, 1
+more than 36,000, CARDINAL, 1
+A few weeks ago, DATE, 1
+San Diego, GPE, 1
+English, LANGUAGE, 1
+Spanish, NORP, 1
+FLU SHOTS NOW AVAILABLE, ORG, 1
+CBS News Lawmakers, ORG, 1
+Oregon, GPE, 1
+State, ORG, 1
+Charlie Sheen, PERSON, 1
+CBS News Actress, ORG, 1
+Bird, ORG, 1
+Muslims, NORP, 1
+Muslim, NORP, 1
+Scott Walker, PERSON, 1
+Sharonville, GPE, 1
+Ohio, GPE, 1
+- Washington Times Ebola, ORG, 1
+Liberia, GPE, 1
+Fox News Mexican, ORG, 1
+about 100 million, CARDINAL, 1
+every year, DATE, 1
+Latin America, LOC, 1
+732,000, CARDINAL, 1
+Vaccination - The New York Times, ORG, 1
+1994, DATE, 1
+hundreds of thousands, CARDINAL, 1
+nearly two-thirds, CARDINAL, 1
+two months, DATE, 1
+November 2016, DATE, 1
+LA Times &, ORG, 1
+Sunday, DATE, 1
+The Washington Post Here's, ORG, 1
+First, ORDINAL, 1
+a year, DATE, 1
+Mexican, NORP, 1
+This week, DATE, 1
+Polio, PERSON, 1
+years ago, DATE, 1
+NPR The World Health Organization, ORG, 1
+next spring, DATE, 1
+Capitol Hill, ORG, 1
+a bad year, DATE, 1
+South Dakota, GPE, 1
+Kerri Lutjens, PERSON, 1
+years, DATE, 1
+Hutterites, GPE, 1
+Amish, NORP, 1
+The Boston Globe Lawmakers, ORG, 1
+Washington Post, ORG, 1
+The Washington Post Fiorina, ORG, 1
+more than 11,000, CARDINAL, 1
+First Dengue Fever Vaccine Approved, ORG, 1
+Dengvaxia, GPE, 1
+Sanofi, ORG, 1
+last year's, DATE, 1
+CBSN, ORG, 1
+Vladimir Duthiers, PERSON, 1
+TheHill, ORG, 1
+An estimated 4 million, CARDINAL, 1
+last years, DATE, 1
+Jonathan LaPook, PERSON, 1
+Fox News Regular, ORG, 1
+Bug Repellent, ORG, 1
+NPR Winter, ORG, 1
+The Washington Post Many, ORG, 1
+Steve Silberman, PERSON, 1
+Nazi, NORP, 1
+new year, DATE, 1
+Fox News New, ORG, 1
+next week, DATE, 1
+Political News, ORG, 1
+The New York Times Carly Fiorina, ORG, 1
+The Washington Post Researchers, ORG, 1
+a Flu Shot - The New York Times, PERSON, 1
+25, CARDINAL, 1
+- LA Times, ORG, 1
+more than 7,500, CARDINAL, 1
+Combat, ORG, 1
+Turing Pharmaceuticals, ORG, 1
+Cooler Uses Spacecraft Insulation, ORG, 1
+The "Cold Chain" In Hot Spots : Goats and Soda :, WORK_OF_ART, 1
+NPR Typically, ORG, 1
+100 percent, PERCENT, 1
+HP Record, PRODUCT, 1
+Bankruptcies, ORG, 1
+NPR Republican, ORG, 1
+last night, TIME, 1
+University of Illinois, ORG, 1
+I., ORG, 1
+Jeffrey Kluger, PERSON, 1
+Jeffrey Kluger / Vaccines on Time, PERSON, 1
+Nasal, ORG, 1
+U.K., GPE, 1
+2012, DATE, 1
+two to 16 years, DATE, 1
+Sarah Lemar, PERSON, 1
+Dec. 5, 1979, DATE, 1
+Memphis, GPE, 1
+Tennessee, GPE, 1
+Alice Clinton, PERSON, 1
+Days, DATE, 1
+Vaccine Issue, PERSON, 1
+Donald J. Trump, PERSON, 1
+just 30 percent, PERCENT, 1
+Wednesday-night, TIME, 1
+Jake Tapper, PERSON, 1
+CDC - Washington Times, ORG, 1
+Months, DATE, 1
+FDA Approves Flaud, ORG, 1
+New Flu Vaccine, ORG, 1
+MSNBC, ORG, 1
+Africa - Washington Times Good, ORG, 1
+last week’s, DATE, 1
+Alden, GPE, 1
+Iowa, GPE, 1
+Hewlett-Packard, ORG, 1
+California Senate, ORG, 1
+Jenna Johnson, PERSON, 1
+the Washington Post, ORG, 1
+Chickenpox, ORG, 1
+Melbourne, GPE, 1
+Fox News The World Health Organization, ORG, 1
+the University of Pennsylvania, ORG, 1
+the Middle East Respiratory Syndrome, LOC, 1
+Megan Everett, PERSON, 1
+Fox News Vaccine, ORG, 1
+four, CARDINAL, 1
+The Atlantic Daily, ORG, 1
+Olympics, EVENT, 1
+Clinton - The Atlantic, ORG, 1
+Winter Olympics, EVENT, 1
+Jeb, PERSON, 1
+New York Post, ORG, 1
+Sunday night, TIME, 1
+Democratic, NORP, 1
+US, GPE, 1
+Malaria Vaccine, PERSON, 1
+Forbes, GPE, 1
+The New Yorker, ORG, 1
+the Huffington Post, ORG, 1
+Absurd Vaccine Story, PERSON, 1
+Chelsea Edwards, ORG, 1
+Taliban, ORG, 1
+Vaccine Ambush Trump, PERSON, 1
+Vaccine Ambush, PERSON, 1
+a given season, DATE, 1
+British, NORP, 1
+Lancet, ORG, 1
+West African, NORP, 1
+The Boston Globe Global, ORG, 1
+Megan E. Everett, PERSON, 1
+Flu Myths Busted, PERSON, 1
+2016, DATE, 1
+at least one, CARDINAL, 1
+Vaccine Ingredients, PERSON, 1
+- LA Times Opponents, ORG, 1
+some 228,000, CARDINAL, 1
+next year's, DATE, 1
+The Controversial Vaccine That Could Save Apes From Ebola - The Atlantic Scientists, ORG, 1
+Vaccines Needed, ORG, 1
+Signs Vaccine, PERSON, 1
+LONDON, GPE, 1
+Pataki, NORP, 1
+Chicago Tribune Study, ORG, 1
+Teri Okita, PERSON, 1
+Baby, PERSON, 1
+This Season, DATE, 1
+NPR Public, ORG, 1
+Fox News Viewers, ORG, 1
+Jeb Bush's, PERSON, 1
+Vladimir Sorokin's, PERSON, 1
+Charlie Sheen | Time, PERSON, 1
+Playboy, WORK_OF_ART, 1
+Anita Patel, PERSON, 1
+the Centers for Disease Control, ORG, 1
+The Boston Globe Researchers, ORG, 1
+One, CARDINAL, 1
+8, CARDINAL, 1
+CBS News Researchers, ORG, 1
+Mexico Approves Sanofi’s, ORG, 1
+New York City’s, GPE, 1
+Struck Down - The New York Times, PERSON, 1
+Legislature, ORG, 1
+New Vaccine Protects Africa, ORG, 1
+Bill Posey, PERSON, 1
+GlaxoSmithKline Boosted, PERSON, 1
+New Vaccines - WSJ GlaxoSmithKline, ORG, 1
+6%, PERCENT, 1
+second-quarter, DATE, 1
+13.7, CARDINAL, 1
+NPR All, ORG, 1
+Martin Sheen, PERSON, 1
+Centrum Silver on TV, PERSON, 1
+Adam Frank, PERSON, 1
+Physicians, NORP, 1
+Obamacare, ORG, 1
+three or four, CARDINAL, 1
+Chicago Tribune Western Springs, ORG, 1
+La Grange, ORG, 1
+2018, DATE, 1
+just three years, DATE, 1
+Business Watch - WSJ, ORG, 1
+Child Protective Services, ORG, 1
+Fox News Parents, ORG, 1
+Mike Bloomberg’s, PERSON, 1
+Manhattan, GPE, 1
+Brooklyn, GPE, 1
+Bullhorns, PERSON, 1
+NPR One, ORG, 1
+DARPA, ORG, 1
+one-day, DATE, 1
+the year, DATE, 1
+Change.org, ORG, 1
+CBS News Candidates, ORG, 1
+The Washington Post Researchers at George Washington University, ORG, 1
+an estimated half, CARDINAL, 1
+Catholic Bishops, ORG, 1
+NPR Africa, ORG, 1
+WHO, ORG, 1
+NPR Two, ORG, 1
+September, DATE, 1
+last spring, DATE, 1
+Marlie Hall, PERSON, 1
+Seattle Polio Vaccine Rates Tumble, ORG, 1
+Time Vaccine, ORG, 1
+Pacific, LOC, 1
+TPP, ORG, 1
+S.C., GPE, 1
+The HPV Vaccine For Preteens : Shots - Health News, ORG, 1
+NPR Though, ORG, 1
+Less than half, CARDINAL, 1
+Common Core, ORG, 1
+less than 1 percent, PERCENT, 1
+Malaria, GPE, 1
+Fox News Researchers, ORG, 1
+Brazil, GPE, 1
+NPR But, ORG, 1
+African Trial - WSJ, ORG, 1
+North America, LOC, 1
+the United States, GPE, 1

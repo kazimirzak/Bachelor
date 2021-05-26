@@ -1,0 +1,11 @@
+entity, label, count
+Greece, GPE, 2
+two, CARDINAL, 2
+Americas, LOC, 2
+WHO, ORG, 2
+FRANCE, GPE, 1
+24, CARDINAL, 1
+Europe, LOC, 1
+first, ORDINAL, 1
+1, CARDINAL, 1
+2, CARDINAL, 1

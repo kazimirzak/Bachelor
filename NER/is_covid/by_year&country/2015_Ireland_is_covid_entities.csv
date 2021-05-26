@@ -1,0 +1,358 @@
+entity, label, count
+Coronation Street, FAC, 34
+Brussels, GPE, 30
+Paris, GPE, 16
+Coronation Street's, FAC, 10
+Coronas, ORG, 10
+Belgium, GPE, 7
+Belgian, NORP, 7
+first, ORDINAL, 6
+Coronation Street', FAC, 5
+White House, ORG, 5
+Irish, NORP, 5
+ITV, ORG, 5
+Jason Grimshaw, PERSON, 5
+Coronation Street's, ORG, 4
+Ireland, GPE, 4
+Keith Duffy, PERSON, 4
+Georgia May Foote, ORG, 4
+Monday, DATE, 4
+Sarah Platt, PERSON, 4
+Weatherfield, ORG, 3
+Christmas, DATE, 3
+two, CARDINAL, 3
+Carla, PERSON, 3
+Ken Barlow, PERSON, 3
+16, CARDINAL, 3
+Danny, PERSON, 3
+under 65 ', DATE, 3
+Audrey Roberts, PERSON, 3
+Ryan Thomas, PERSON, 3
+Thursday, DATE, 3
+Melanie Hill, PERSON, 3
+Mountjoy Prison, ORG, 2
+Ted Robbins, PERSON, 2
+2016, DATE, 2
+Joe Ward, PERSON, 2
+tonight, TIME, 2
+Leanne, ORG, 2
+Bono, PERSON, 2
+Glen Hansard, PERSON, 2
+Grafton Street, FAC, 2
+Dublin, GPE, 2
+Thanksgiving, DATE, 2
+Graham Knox, PERSON, 2
+Andrea McLean, PERSON, 2
+Nadia Sawalha, PERSON, 2
+Jane Moore, PERSON, 2
+Jamelia, PERSON, 2
+today, DATE, 2
+David Platt, PERSON, 2
+Tracy, PERSON, 2
+Belgians, NORP, 2
+fourth, ORDINAL, 2
+Strictly Come Dancing, WORK_OF_ART, 2
+Cobbles, PERSON, 2
+Les Dennis, ORG, 2
+Laura Whitmore, PERSON, 2
+Australia, GPE, 2
+Corrie, PERSON, 2
+EU, ORG, 2
+Coronation Street, LOC, 2
+Paula Lane, PERSON, 2
+Emmerdale, GPE, 2
+Corrie, GPE, 2
+Europe, LOC, 2
+one, CARDINAL, 2
+Anna, PERSON, 2
+this Christmas, DATE, 2
+Brooke Vincent, PERSON, 2
+three, CARDINAL, 2
+Dubai, GPE, 2
+Five, CARDINAL, 2
+Callum Logan, PERSON, 2
+Sarah Harding, PERSON, 2
+every week', DATE, 2
+the year, DATE, 2
+Halloween, DATE, 2
+LA, GPE, 2
+Robert, PERSON, 2
+Atlanta, GPE, 2
+yesterday, DATE, 2
+Claire King, PERSON, 2
+Phil, PERSON, 2
+Wednesday, DATE, 2
+Chas, PERSON, 2
+Germany, GPE, 2
+Vera Duckworth, ORG, 2
+Shayne Ward, PERSON, 2
+First, ORDINAL, 2
+â, PERSON, 2
+Peter Baldwin, PERSON, 2
+Mountjoy, ORG, 1
+Update, ORG, 1
+Contraband, PERSON, 1
+Salah Abdeslam Belgian, PERSON, 1
+third, ORDINAL, 1
+more than 1,000, CARDINAL, 1
+Ted Robbins', PERSON, 1
+Brendan Finch, PERSON, 1
+Mary Taylor's, PERSON, 1
+new year, DATE, 1
+Aidan Coronation Streetâs Eva Price, ORG, 1
+Aidan Connor, PERSON, 1
+Julio Cesar La Cruz, PERSON, 1
+Doha, GPE, 1
+Cuban, NORP, 1
+Julio La Cruz, PERSON, 1
+Kate, PERSON, 1
+Caz, ORG, 1
+Tony, PERSON, 1
+Liz, PERSON, 1
+REUTERS, ORG, 1
+PICS, ORG, 1
+Hozier, PERSON, 1
+Irelandâs, ORG, 1
+Emily Bishop, PERSON, 1
+1961, DATE, 1
+Shopping, ORG, 1
+Belgium&rsquo;s, ORG, 1
+last night, TIME, 1
+150, CARDINAL, 1
+Poland, GPE, 1
+LOCKDOWN, GPE, 1
+Obamas, NORP, 1
+West Wing, GPE, 1
+this afternoon, TIME, 1
+the White House, FAC, 1
+The White House, ORG, 1
+Aoife McCormick - Independent.ie Coronas, ORG, 1
+Aoife McCormick, ORG, 1
+the Bank Holiday Weekend, ORG, 1
+at least one, CARDINAL, 1
+Lenny Henry, PERSON, 1
+Asian, NORP, 1
+EastEndersâ, GPE, 1
+Charlie Hardwick, PERSON, 1
+Jack P Shepherd ', ORG, 1
+100, CARDINAL, 1
+Paris Soldiers, ORG, 1
+the third day, DATE, 1
+Lockdown, ORG, 1
+Georgia, GPE, 1
+Deirdre, PERSON, 1
+83-year-old, DATE, 1
+City, GPE, 1
+third day, DATE, 1
+Lockdown, PERSON, 1
+TheJournal.ie - Breaking Irish and International News, WORK_OF_ART, 1
+Two, CARDINAL, 1
+Coronation Street 'Coronation Street', ORG, 1
+SIX, ORG, 1
+Michael Rodwell, PERSON, 1
+MTV, ORG, 1
+2012, DATE, 1
+Wendi Peters', PERSON, 1
+7, CARDINAL, 1
+8 years, DATE, 1
+IVF - Irish Mirror Online, ORG, 1
+eight years, DATE, 1
+seven, CARDINAL, 1
+IVF, ORG, 1
+Wendi, ORG, 1
+Kenny Linden, PERSON, 1
+Gracie, PERSON, 1
+Coronation Street - News, FAC, 1
+1960, DATE, 1
+Irish Mirror Online ITV, ORG, 1
+John Whiston, PERSON, 1
+France, GPE, 1
+Sue Nicholls, PERSON, 1
+Callum, ORG, 1
+Coronation Street - Irish Mirror Online, FAC, 1
+Megan, ORG, 1
+Holly Carpenter, PERSON, 1
+Danny O'Reilly ', PERSON, 1
+Leinster, PERSON, 1
+Cian Healy, PERSON, 1
+2014, DATE, 1
+Coronation Street’s, ORG, 1
+Facebook - Irish Mirror Online, ORG, 1
+Wesley Wainwright, PERSON, 1
+a third day, DATE, 1
+Salah Abdeslam, PERSON, 1
+six, CARDINAL, 1
+this morning, TIME, 1
+O'Brien, PERSON, 1
+Melbourne Five, ORG, 1
+Aidan O'Brien's, PERSON, 1
+Ballydoyle, PERSON, 1
+the Melbourne Spring Carnival, FAC, 1
+the New Year - Irish Mirror Online, EVENT, 1
+Corrie, NORP, 1
+Mark Wright, PERSON, 1
+Sean, NORP, 1
+a weekend, DATE, 1
+Louis Walsh, PERSON, 1
+Gareth Gates, PERSON, 1
+Keith Chegwin, PERSON, 1
+Sylvester Stallone - Irish Mirror Online Warburtons, PERSON, 1
+10-second, TIME, 1
+Friday, DATE, 1
+night, TIME, 1
+Kym Marsh, PERSON, 1
+Matt Baker, PERSON, 1
+Matt, PERSON, 1
+2013, DATE, 1
+Holly Carpenter's, PERSON, 1
+Dublin Diary, ORG, 1
+pre-Christmas, DATE, 1
+this week, DATE, 1
+four, CARDINAL, 1
+tomorrow, DATE, 1
+Sophie Webster, ORG, 1
+two-month, DATE, 1
+Irish Mirror Online Police, ORG, 1
+21, CARDINAL, 1
+Liege, LOC, 1
+Sarah, PERSON, 1
+last month, DATE, 1
+McCaw, PERSON, 1
+late 2001, DATE, 1
+Shayne Ward drives, PERSON, 1
+Sean, PERSON, 1
+Christmas Eve, DATE, 1
+UK, GPE, 1
+Boyzone, ORG, 1
+2011, DATE, 1
+The French Riviera, ORG, 1
+Hollyoaks, GPE, 1
+the new year, DATE, 1
+Rosanna Davison, PERSON, 1
+Claudine Keane's, PERSON, 1
+last week, DATE, 1
+overnight, TIME, 1
+Co Kerry - Irish Mirror Online, PERSON, 1
+The Defence Forces', ORG, 1
+EOD, ORG, 1
+morning, TIME, 1
+Aston Villa, PERSON, 1
+Scott Sinclair, PERSON, 1
+DAD, ORG, 1
+Premier League, ORG, 1
+Irish Mirror Online Sinclair, ORG, 1
+Helen Flanagan, PERSON, 1
+Matilda, PERSON, 1
+June, DATE, 1
+Rob, PERSON, 1
+Weatherfield, GPE, 1
+Audrey, PERSON, 1
+Nessa, PERSON, 1
+fourth day, DATE, 1
+Irish Mirror Online Viewers, ORG, 1
+decades, DATE, 1
+Gillian Metcalf, PERSON, 1
+69, DATE, 1
+50th, ORDINAL, 1
+Manchester, LOC, 1
+Stuart Blackburn, PERSON, 1
+John Lewis - Aldi, PERSON, 1
+7, MONEY, 1
+Friday night, TIME, 1
+Brown Thomas, PERSON, 1
+evening, TIME, 1
+dozens, CARDINAL, 1
+Dot Branning, PERSON, 1
+Sinn Féin, PERSON, 1
+last year, DATE, 1
+52, DATE, 1
+Sharon, PERSON, 1
+Diane, PERSON, 1
+Robert in Coronation Street, ORG, 1
+three 10s, CARDINAL, 1
+the Blackpool Tower Ballroom, FAC, 1
+Ronnie, PERSON, 1
+Kathy, PERSON, 1
+hundreds of pounds, QUANTITY, 1
+Nick, ORG, 1
+a week, DATE, 1
+5, CARDINAL, 1
+Coronation, NORP, 1
+five, CARDINAL, 1
+Tracy Barlow, PERSON, 1
+8211, DATE, 1
+American, NORP, 1
+Obamas, LAW, 1
+US, GPE, 1
+9.30pm, CARDINAL, 1
+Shannon Lamb, PRODUCT, 1
+Ethan Schmidt, PERSON, 1
+Simon Gregson, PERSON, 1
+40-year-old, DATE, 1
+Steve McDonald, PERSON, 1
+Pat Stacey, PERSON, 1
+Deirdre Barlow, PERSON, 1
+an hour to an hour, TIME, 1
+New Zealand, GPE, 1
+Mary, PERSON, 1
+BrusselsLockdown, PRODUCT, 1
+Irish Mirror Online Hilarious, ORG, 1
+Second World War - Independent.ie Germany, EVENT, 1
+World War II, EVENT, 1
+New Year Festival Dublin, EVENT, 1
+Fatboy Slim, PERSON, 1
+NYE, ORG, 1
+Three, CARDINAL, 1
+December 31, DATE, 1
+Examiner Coronation Street, ORG, 1
+Roy Cropper, PERSON, 1
+Roy, PERSON, 1
+David Nielsen, PERSON, 1
+Cathy Matthews, PERSON, 1
+61st, ORDINAL, 1
+Muslim, NORP, 1
+76-year-old, DATE, 1
+34 years, DATE, 1
+the Lake District, LOC, 1
+Electric Picnic, ORG, 1
+Dublin, PERSON, 1
+year, DATE, 1
+7:15pm, CARDINAL, 1
+The Main Stage, ORG, 1
+Arlene Foster’s, ORG, 1
+Next, ORG, 1
+DUP, ORG, 1
+Northern Ireland’s, GPE, 1
+January, DATE, 1
+Samia Ghadie, ORG, 1
+Sylvain Longchambon, PERSON, 1
+second, ORDINAL, 1
+Tina O'Brien, PERSON, 1
+Gary, PERSON, 1
+Zeedan, PERSON, 1
+Simon, PERSON, 1
+Grandad Ken's, PERSON, 1
+Luke, PERSON, 1
+French, NORP, 1
+USA, GPE, 1
+New Coronation Street, ORG, 1
+Rhea Bailey, PERSON, 1
+California, GPE, 1
+Weatherfield - Irish Mirror Online, ORG, 1
+Corinne Bailey Rae, PERSON, 1
+five years, DATE, 1
+Sean Ward ', PERSON, 1
+Sean Ward, PERSON, 1
+Irish Mirror Online, ORG, 1
+Giovanni, ORG, 1
+CNN, ORG, 1
+Sunday, DATE, 1
+Les Dennis, PERSON, 1
+Cilla Black, ORG, 1
+Cilla Black’s, ORG, 1
+82, CARDINAL, 1
+Derek Wilton, PERSON, 1
+the age of 82, DATE, 1
+four days, DATE, 1
+the verdictâ¦, PERSON, 1
+Callum Logan's, PERSON, 1

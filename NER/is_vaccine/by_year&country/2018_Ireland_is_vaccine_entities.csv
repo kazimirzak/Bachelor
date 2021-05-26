@@ -1,0 +1,208 @@
+entity, label, count
+HPV, ORG, 50
+Ireland, GPE, 12
+first, ORDINAL, 8
+two, CARDINAL, 8
+Dublin, GPE, 7
+HSE, ORG, 7
+MMR, ORG, 7
+US, GPE, 7
+today, DATE, 6
+Irish, NORP, 6
+Limerick, GPE, 6
+next year, DATE, 5
+Laura Brennan, PERSON, 5
+one, CARDINAL, 4
+2019, DATE, 4
+13, CARDINAL, 3
+Vaccine, PERSON, 3
+TheJournal.ie - Breaking Irish and International News, WORK_OF_ART, 3
+three, CARDINAL, 3
+Robyn Smyth, PERSON, 3
+12, CARDINAL, 3
+Australia, GPE, 3
+winter, DATE, 3
+Friday, DATE, 3
+Simon Harris, PERSON, 3
+Troubles, ORG, 2
+Liadh Ní Riada, PERSON, 2
+Dublin, PERSON, 2
+UN, ORG, 2
+Ciara Kelly, PERSON, 2
+Andrew Wakefield, PERSON, 2
+Hiqa, PERSON, 2
+millions, CARDINAL, 2
+two weeks, DATE, 2
+20, CARDINAL, 2
+2011, DATE, 2
+9, CARDINAL, 2
+Zaire, GPE, 2
+Congo, GPE, 2
+20 years, DATE, 2
+Russian, NORP, 2
+Twitter, PRODUCT, 2
+American, NORP, 2
+Two, CARDINAL, 2
+Four, CARDINAL, 2
+six, CARDINAL, 2
+Democratic Republic of Congo, GPE, 2
+night, TIME, 2
+Late Late Show, WORK_OF_ART, 2
+TB, ORG, 2
+BCG, ORG, 2
+656, CARDINAL, 1
+recent weeks, DATE, 1
+Transmission, ORG, 1
+Sinn Féin MEP, ORG, 1
+MEP, ORG, 1
+Adele, PERSON, 1
+Matt, PERSON, 1
+35, DATE, 1
+the Irish Cancer Society, ORG, 1
+Eric Nolan, PERSON, 1
+about five years, DATE, 1
+about one million, CARDINAL, 1
+6in1, CARDINAL, 1
+Diphtheria, Tetanus, ORG, 1
+Phibro, ORG, 1
+150, CARDINAL, 1
+Sligo Company, ORG, 1
+Mairia Cahill, PERSON, 1
+interview Sinn Féin’s, ORG, 1
+the War of Independence, EVENT, 1
+Taoiseach, GPE, 1
+13-year-old, DATE, 1
+Negative, LOC, 1
+Japan, GPE, 1
+Denmark, GPE, 1
+July, DATE, 1
+13, DATE, 1
+ROBYN Smyth, PERSON, 1
+Bernadette, PERSON, 1
+Whitehall, GPE, 1
+this morning, TIME, 1
+1,000, CARDINAL, 1
+2030, DATE, 1
+Scally, PERSON, 1
+last week, DATE, 1
+Rubella’s, ORG, 1
+Donald Trump, PERSON, 1
+the UK seven years, DATE, 1
+60-year-old, DATE, 1
+11%, PERCENT, 1
+Vaccines, ORG, 1
+Hundreds of millions, CARDINAL, 1
+Seth Berkley, PERSON, 1
+January 6, DATE, 1
+the Irish Independent, ORG, 1
+Bill Gates, PERSON, 1
+Dublin City Council, ORG, 1
+SF MEP, ORG, 1
+Sinn Féin, ORG, 1
+Latest Ebola, ORG, 1
+as early as Wednesday, DATE, 1
+the World Health Organization (WHO, ORG, 1
+Michael Viney, PERSON, 1
+the Irish Mirror's, ORG, 1
+Marian Keyes, PERSON, 1
+Sudden Wild Enthusiasms, PERSON, 1
+summer, DATE, 1
+Harris, PERSON, 1
+11, CARDINAL, 1
+Health, ORG, 1
+the Royal College of Physicians, ORG, 1
+Just one third, CARDINAL, 1
+the last few months, DATE, 1
+Wexford, GPE, 1
+four, CARDINAL, 1
+five-fold, QUANTITY, 1
+this year, DATE, 1
+Six, CARDINAL, 1
+Ní Riada, PERSON, 1
+One, CARDINAL, 1
+26, CARDINAL, 1
+State, ORG, 1
+Health Correspondent Fergal Bowers, ORG, 1
+50, DATE, 1
+Vanuatu, ORG, 1
+’ The South Pacific, WORK_OF_ART, 1
+eight-month-old, DATE, 1
+67%, PERCENT, 1
+August last year, DATE, 1
+Third, ORDINAL, 1
+30s, DATE, 1
+42, DATE, 1
+Sick Dublin, PERSON, 1
+76, CARDINAL, 1
+Europe, LOC, 1
+Sinn Féin's, PERSON, 1
+Liadh Ní, PRODUCT, 1
+Limerick City, GPE, 1
+school year, DATE, 1
+Trump, ORG, 1
+six-fold, CARDINAL, 1
+Three, CARDINAL, 1
+John Fitzsimons, PERSON, 1
+Prime Time - Sharing, PERSON, 1
+the Irish Inde, ORG, 1
+the next school year, DATE, 1
+Thousands, CARDINAL, 1
+25, DATE, 1
+Co Clare, PERSON, 1
+Phoenix Park Worshippers, ORG, 1
+Phoenix Park, FAC, 1
+National Immunisation Office, ORG, 1
+Examiner Stanford University, ORG, 1
+Laura Brennan - Independent.ie, PERSON, 1
+15, CARDINAL, 1
+Britain, GPE, 1
+Trinity College, ORG, 1
+200, CARDINAL, 1
+last year', DATE, 1
+Pope, PERSON, 1
+the Pope’s, LOC, 1
+Approximately 500,000, CARDINAL, 1
+Dr Ida Milne, PERSON, 1
+September 2016, DATE, 1
+51% to, PERCENT, 1
+62%, PERCENT, 1
+Taoiseach Leo Varadkar, PERSON, 1
+LEO Varadkar, PERSON, 1
+Taoiseach, PERSON, 1
+65%, PERCENT, 1
+Michael Creed, PERSON, 1
+the 1990s, DATE, 1
+| Irish Examiner, ORG, 1
+The Irish Times, ORG, 1
+the Department of Health, ORG, 1
+an additional five, CARDINAL, 1
+seven, CARDINAL, 1
+10, CARDINAL, 1
+CRS, ORG, 1
+Today, DATE, 1
+Tuesday, DATE, 1
+London, GPE, 1
+Lynne Elliot, PERSON, 1
+the Vegetarian Society, ORG, 1
+Riada, ORG, 1
+First, ORDINAL, 1
+Numbers, ORG, 1
+Examiner Research, ORG, 1
+five, CARDINAL, 1
+Lisa Salmon, PERSON, 1
+11,000, CARDINAL, 1
+More than 11,000, CARDINAL, 1
+last autumn, DATE, 1
+previous years, DATE, 1
+Hungarian, NORP, 1
+WORRIED World Health Organisation, ORG, 1
+three years, DATE, 1
+centuries, DATE, 1
+The Irish Sun GETTING, WORK_OF_ART, 1
+Laura, PERSON, 1
+Terry Prone.&nbsp, PERSON, 1
+Stanford University, ORG, 1
+Irish Cancer Society, ORG, 1
+As many as 30, CARDINAL, 1
+CHOLERA, ORG, 1
+The Health Information and Quality Authority, ORG, 1

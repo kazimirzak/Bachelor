@@ -1,0 +1,30 @@
+entity, label, count
+HPV, ORG, 3
+New Zealand, GPE, 3
+Eighty, CARDINAL, 1
+More than a third, CARDINAL, 1
+Vaccine, PERSON, 1
+PAHO/, ORG, 1
+Herald Children's, ORG, 1
+GANZ, ORG, 1
+NZ, GPE, 1
+The European Medicines Agency, ORG, 1
+EMA, ORG, 1
+Japan, GPE, 1
+Gardasil, PERSON, 1
+Ireland, GPE, 1
+Australia, GPE, 1
+Massey University, ORG, 1
+Pharmac, NORP, 1
+Gardasil 9®, PERSON, 1
+Central America, LOC, 1
+Central America.&nbsp, LOC, 1
+3D, ORG, 1
+today, DATE, 1
+Victoria University, ORG, 1
+5, CARDINAL, 1
+Stuff.co.nz Graphic, PERSON, 1
+Herald Bay, ORG, 1
+up to $95, MONEY, 1
+Herald One, ORG, 1
+Waikato District Health Board, ORG, 1

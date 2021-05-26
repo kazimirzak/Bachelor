@@ -1,0 +1,412 @@
+entity, label, count
+U.S., GPE, 19
+first, ORDINAL, 15
+Philippines, GPE, 14
+Yemen, GPE, 13
+Reuters, ORG, 11
+CDC, ORG, 10
+HPV, ORG, 9
+Wednesday, DATE, 8
+French, NORP, 8
+Friday, DATE, 8
+Monday, DATE, 7
+Tuesday, DATE, 7
+Sanofi, ORG, 6
+Minnesota, GPE, 6
+one, CARDINAL, 6
+Ghana, GPE, 6
+Kenya, GPE, 6
+WHO, ORG, 6
+15, CARDINAL, 6
+Syria, GPE, 6
+Donald Trump, PERSON, 5
+Zika, PERSON, 5
+US, GPE, 5
+this year, DATE, 5
+three, CARDINAL, 5
+Robert F. Kennedy Jr., PERSON, 5
+year, DATE, 5
+Robert Kennedy Jr., PERSON, 5
+GlaxoSmithKline, PERSON, 5
+FDA, ORG, 5
+The World Health Organization, ORG, 4
+Europe, LOC, 4
+the World Health Organization, ORG, 4
+Thursday, DATE, 4
+Al Jazeera, ORG, 4
+Trump, PERSON, 4
+Vaccine, PERSON, 4
+ABC News, ORG, 4
+Africa, LOC, 4
+U.N., ORG, 4
+Rebecca Bredow, PERSON, 4
+two, CARDINAL, 4
+Saudi, NORP, 4
+Malaria, GPE, 3
+100 percent, PERCENT, 3
+50, CARDINAL, 3
+one million, CARDINAL, 3
+EU, ORG, 3
+Congo, GPE, 3
+Robert F. Kennedy, PERSON, 3
+German, NORP, 3
+Malawi, GPE, 3
+GSK, ORG, 3
+second, ORDINAL, 3
+CNN, ORG, 3
+African, NORP, 3
+Trump, ORG, 3
+Brazil, GPE, 3
+Rohingya, ORG, 3
+Sanofi, NORP, 3
+Dengvaxia, GPE, 3
+Italian, NORP, 3
+Austria, GPE, 3
+Vaccines, PERSON, 2
+next year, DATE, 2
+Anti-Vaccine Activist, ORG, 2
+TB, ORG, 2
+Measles Outbreak, PERSON, 2
+recent years, DATE, 2
+another gloomy year, DATE, 2
+January 2016, DATE, 2
+Janette Garin, PERSON, 2
+only about half, CARDINAL, 2
+Outbreak, ORG, 2
+The World Health Organisation, ORG, 2
+Mosquirix, GPE, 2
+RT World News Scientists, ORG, 2
+Florida, GPE, 2
+1st, ORDINAL, 2
+2017, DATE, 2
+RT USA News, ORG, 2
+UK, GPE, 2
+British, NORP, 2
+Donald Trump's, PERSON, 2
+50, DATE, 2
+Shingrix, ORG, 2
+Malawi, ORG, 2
+hundreds of thousands, CARDINAL, 2
+11.5 million, CARDINAL, 2
+South Sudan's, GPE, 2
+12 years old, DATE, 2
+One, CARDINAL, 2
+Herpes, NORP, 2
+NIH, ORG, 2
+Philippine, NORP, 2
+March, DATE, 2
+a few months, DATE, 2
+RT Russia &, ORG, 2
+Soviet Union, GPE, 2
+Russian, NORP, 2
+nine, CARDINAL, 2
+RT Viral, ORG, 2
+730,000, CARDINAL, 2
+more than 730,000, CARDINAL, 2
+Islamic State, ORG, 2
+The United Nations, ORG, 2
+Saturday, DATE, 2
+Michigan, GPE, 2
+9-year-old, DATE, 2
+Oakland County, GPE, 2
+Stockholm, GPE, 2
+11, CARDINAL, 2
+Detroit, GPE, 2
+MMR, ORG, 2
+RT Newsline, PERSON, 2
+Hodeidah, ORG, 2
+Protein Sciences, ORG, 2
+a month, DATE, 2
+Bangladesh, GPE, 2
+South Sudan, GPE, 2
+last year, DATE, 2
+Italy, GPE, 2
+Germany, GPE, 1
+Euronews Germany, GPE, 1
+EU Court, ORG, 1
+1st, DATE, 1
+Band-Aid, ORG, 1
+Drugmaker Sanofi, ORG, 1
+six years, DATE, 1
+Trail, GPE, 1
+NBC News, ORG, 1
+100%, PERCENT, 1
+Deutsche Welle, ORG, 1
+the University of Tübingen, ORG, 1
+Peter Kremsner, PERSON, 1
+67, CARDINAL, 1
+Baylor College, ORG, 1
+Last season's, DATE, 1
+H3N2, ORG, 1
+the University of Leeds, ORG, 1
+England, GPE, 1
+the United States, GPE, 1
+more than 380,000, CARDINAL, 1
+between 2008 and 2013, DATE, 1
+a century, DATE, 1
+Vaccine Skeptics, ORG, 1
+decades, DATE, 1
+Vaccine Debate, ORG, 1
+Vermont, GPE, 1
+Stowe, GPE, 1
+MIT, ORG, 1
+3D, ORG, 1
+Vaccine Fear, PERSON, 1
+Sends Kids to Hospital Small, ORG, 1
+the University of Nebraska, ORG, 1
+Merck, ORG, 1
+Merck & Co Inc, ORG, 1
+June, DATE, 1
+the year, DATE, 1
+400, CARDINAL, 1
+ABC News Health, ORG, 1
+more than 400, CARDINAL, 1
+West African, NORP, 1
+Medical Experts Concerned, ORG, 1
+United Nations, ORG, 1
+Vaccine Safety Trump, ORG, 1
+White House, ORG, 1
+Sean Spicer, PERSON, 1
+Tdap, PERSON, 1
+three-quarters, DATE, 1
+Somali-American, NORP, 1
+Somali, NORP, 1
+College-Bound, ORG, 1
+U.S. Travelers Skip Measles Vaccines, ORG, 1
+Gates Foundation, ORG, 1
+$460 million, MONEY, 1
+Bill Gates, PERSON, 1
+the World Economic Forum, ORG, 1
+Davos, GPE, 1
+Switzerland, GPE, 1
+48 percent, PERCENT, 1
+ABC News, WORK_OF_ART, 1
+Sanofi, WORK_OF_ART, 1
+two years ago, DATE, 1
+Cambridge, GPE, 1
+Yale, ORG, 1
+George Mason, PERSON, 1
+’ve, ORG, 1
+Liberia, GPE, 1
+three years, DATE, 1
+the United Nations, ORG, 1
+West Africa, GPE, 1
+90, CARDINAL, 1
+Reuters GlaxoSmithKline, PERSON, 1
+The University of Texas, ORG, 1
+Anderson Cancer Center, PERSON, 1
+68, CARDINAL, 1
+More than half, CARDINAL, 1
+Oregonian, NORP, 1
+early next year, DATE, 1
+about 90 percent, PERCENT, 1
+70s, DATE, 1
+80s, DATE, 1
+3, CARDINAL, 1
+Three, CARDINAL, 1
+CBS News, ORG, 1
+the European Union, ORG, 1
+Frenchman, NORP, 1
+J.W., PERSON, 1
+Donald, PERSON, 1
+Earlier in the day, TIME, 1
+Kennedy, PERSON, 1
+Joe Biden, PERSON, 1
+Obama, PERSON, 1
+CNBC, ORG, 1
+this hour, TIME, 1
+40, CARDINAL, 1
+Ministry of Health, ORG, 1
+at least 40, CARDINAL, 1
+Flu Vaccinations, ORG, 1
+26 years, DATE, 1
+Peter Thiel, PERSON, 1
+St. Kitts and Nevis, GPE, 1
+2016, DATE, 1
+between 2010 and 2012, DATE, 1
+Somali-Muslims, NORP, 1
+ABC NEWS, ORG, 1
+Minneapolis, GPE, 1
+25 years, DATE, 1
+this April, DATE, 1
+34, CARDINAL, 1
+between the ages of 0 to 5, DATE, 1
+the Minnesota Department of Health, ORG, 1
+Eleven, CARDINAL, 1
+Midwest, LOC, 1
+99%, PERCENT, 1
+attack 99 percent, PERCENT, 1
+Brazilian, NORP, 1
+Sanofi SA, ORG, 1
+Oregon Health and Science University, ORG, 1
+the National Institutes of Health, ORG, 1
+Meningitis Vaccine Protects Against Gonorrhea, ORG, 1
+New Zealand, GPE, 1
+Reuters.com, ORG, 1
+the World Health Organisation (WHO, ORG, 1
+Cox's Bazar,, ORG, 1
+The European Court of Justice, ORG, 1
+RTS, ORG, 1
+2018, DATE, 1
+Rutgers University, ORG, 1
+ABC News Mumps, ORG, 1
+recent months, DATE, 1
+children - Reuters, ORG, 1
+Tom Price, PERSON, 1
+Ohio State University, ORG, 1
+FDA Seizes Smallpox Vaccine, ORG, 1
+Stem Cell Cancer Clinic, ORG, 1
+San Diego, GPE, 1
+last week, DATE, 1
+NIAID, GPE, 1
+Vaccine Research Center, ORG, 1
+Russian, LANGUAGE, 1
+Medvedev, PERSON, 1
+Dmitry Medvedev, PERSON, 1
+PM Olga Golodets, PERSON, 1
+Golodets, ORG, 1
+Afghanistan, GPE, 1
+Oren Liebermann, PERSON, 1
+one week, DATE, 1
+the Southern Hemisphere, LOC, 1
+Three years, DATE, 1
+American, NORP, 1
+Kaiser Health News, ORG, 1
+Southern Illinois University, ORG, 1
+William Halford, PERSON, 1
+Inn Express, ORG, 1
+Crowne Plaza Hotel, FAC, 1
+last year's, DATE, 1
+7 days, DATE, 1
+Video - ABC, ORG, 1
+a week, DATE, 1
+Cleveland Clinic, ORG, 1
+Fuels Vaccine, PERSON, 1
+The Cleveland Clinic, ORG, 1
+Wellness Institute, ORG, 1
+RT World News A, ORG, 1
+France, GPE, 1
+January 1, DATE, 1
+Australia, GPE, 1
+The Wistar Institute, ORG, 1
+Philadelphia, GPE, 1
+next week, DATE, 1
+Fifteen, CARDINAL, 1
+seven days, DATE, 1
+last November, DATE, 1
+weeks, DATE, 1
+years, DATE, 1
+9-year old, DATE, 1
+James Horne, PERSON, 1
+Malawi, PERSON, 1
+130, CARDINAL, 1
+RT World News, ORG, 1
+More than 130, CARDINAL, 1
+South Tyrol, GPE, 1
+just days, DATE, 1
+Eggs Flu, ORG, 1
+24 hours, TIME, 1
+the American Academy of Pediatrics, ORG, 1
+America, GPE, 1
+Massachusetts, GPE, 1
+the University of Massachusetts, ORG, 1
+More than eight, CARDINAL, 1
+10, CARDINAL, 1
+Americans, NORP, 1
+Middle East, LOC, 1
+The Middle East's, LOC, 1
+more than 130,000, CARDINAL, 1
+Democrat, NORP, 1
+HILL, ORG, 1
+Congress, ORG, 1
+today, DATE, 1
+month, DATE, 1
+the end of November, DATE, 1
+U.S, GPE, 1
+$650 million, MONEY, 1
+70%, PERCENT, 1
+Dynavax's Heplisav, ORG, 1
+Outbreaks Experts, ORG, 1
+Shingrix, PRODUCT, 1
+Tiny, ORG, 1
+about 70%, PERCENT, 1
+the University of Bath, ORG, 1
+Caterpillar-Grown Flu Vaccine Protects, ORG, 1
+Oregon, GPE, 1
+this month, DATE, 1
+Canada, GPE, 1
+Canadian, NORP, 1
+Bill, PERSON, 1
+Melinda Gates, PERSON, 1
+Moderna Therapeutics, PERSON, 1
+A U.S. Food and Drug Administration, ORG, 1
+1, CARDINAL, 1
+first six months, DATE, 1
+the first six months, DATE, 1
+Saudi Arabia, GPE, 1
+early November, DATE, 1
+Takeda, PERSON, 1
+Japan, GPE, 1
+Takeda Pharmaceutical, ORG, 1
+20,000, CARDINAL, 1
+5, CARDINAL, 1
+thousands, CARDINAL, 1
+Learn, ORG, 1
+Ben Hirschler, PERSON, 1
+LONDON, GPE, 1
+some 1.9 million, CARDINAL, 1
+Yemeni, NORP, 1
+Sana’a, ORG, 1
+six-year-old, DATE, 1
+the World Health Organization (WHO, ORG, 1
+annual, DATE, 1
+the University of Pennsylvania, ORG, 1
+Nasal, PERSON, 1
+Study - UPI.com Seasonal, ORG, 1
+Flu Vaccine, PERSON, 1
+About Half, CARDINAL, 1
+Time, ORG, 1
+the first quarter, DATE, 1
+nearly $700 million, MONEY, 1
+Cholera, ORG, 1
+At least 900,000, CARDINAL, 1
+Down Schools, PERSON, 1
+about 70,000, CARDINAL, 1
+at least one, CARDINAL, 1
+Democratic Republic of Congo, GPE, 1
+UN, ORG, 1
+Rohingya - ABC News, ORG, 1
+Bangladesh, ORG, 1
+more than a half million, DATE, 1
+Rohingya Muslims, NORP, 1
+Myanmar, GPE, 1
+Al Jazeera Health, ORG, 1
+the University at Buffalo, ORG, 1
+72, CARDINAL, 1
+S., ORG, 1
+season, DATE, 1
+Illinois, GPE, 1
+Kitts, GPE, 1
+more than a decade, DATE, 1
+SUN, ORG, 1
+PLAGUE, ORG, 1
+millions, CARDINAL, 1
+Medieval, PERSON, 1
+one third, CARDINAL, 1
+the 13th and 14th centuries, DATE, 1
+Mosquito, PERSON, 1
+Zika, GPE, 1
+West Nile, LOC, 1
+35, CARDINAL, 1
+Thirty-five, CARDINAL, 1
+the past 12 months, DATE, 1
+367, CARDINAL, 1
+Washington State, GPE, 1
+Numbers Expected, PERSON, 1
+Vaccine Critic, ORG, 1
+China, GPE, 1
+the China Food and Drug Administration, ORG, 1
+Legal Evening News, ORG, 1
+HHS, ORG, 1
+The Department of Health and Human Services, ORG, 1
+Boston University Medical Center, ORG, 1

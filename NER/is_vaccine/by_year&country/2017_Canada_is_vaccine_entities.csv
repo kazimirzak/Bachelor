@@ -1,0 +1,239 @@
+entity, label, count
+HPV, ORG, 12
+Canadians, NORP, 10
+U.S., GPE, 10
+Alberta, GPE, 9
+Canada, GPE, 9
+first, ORDINAL, 7
+The Globe and Mail, ORG, 6
+Canadian, NORP, 6
+African, NORP, 5
+one, CARDINAL, 5
+Europe, LOC, 5
+this summer, DATE, 5
+Wednesday, DATE, 5
+year, DATE, 5
+Detroit, GPE, 4
+CBC News, ORG, 4
+Robert F. Kennedy Jr., PERSON, 4
+659, CARDINAL, 4
+the World Health Organization, ORG, 4
+Ontario, GPE, 3
+Three, CARDINAL, 3
+| CTV News, ORG, 3
+season, DATE, 3
+three, CARDINAL, 3
+Vaccine, PERSON, 3
+Ont, PERSON, 3
+15, CARDINAL, 3
+South Sudan, GPE, 3
+Toronto, GPE, 3
+Ghana, GPE, 3
+Kenya, GPE, 3
+the Ontario College of Teachers, ORG, 3
+3, CARDINAL, 2
+Philippines, GPE, 2
+CBC News Researchers, ORG, 2
+17, CARDINAL, 2
+more than 40, CARDINAL, 2
+CDC, ORG, 2
+Windsor, GPE, 2
+CBC Radio, ORG, 2
+British Columbia, GPE, 2
+Donald Trump, PERSON, 2
+Trump, PERSON, 2
+Vancouver, GPE, 2
+seven days, DATE, 2
+five, CARDINAL, 2
+Calgary, GPE, 2
+decades, DATE, 2
+Malawi, ORG, 2
+between 2010 and 2012, DATE, 2
+Arthur Potts, PERSON, 2
+Tuesday, DATE, 2
+last winter, DATE, 2
+2020, DATE, 2
+Cleveland Clinic, ORG, 2
+Italy, GPE, 2
+Gairdner Awards, ORG, 2
+Yemen, GPE, 2
+5, CARDINAL, 2
+NHL, ORG, 2
+Olympics, EVENT, 2
+Grade 6, FAC, 2
+German, NORP, 2
+Ontarians, NORP, 1
+61 per cent, MONEY, 1
+World’s, ORG, 1
+Seven days, DATE, 1
+James Horne, PERSON, 1
+Toronto Sun SAN FRANCISCO, ORG, 1
+one day, DATE, 1
+The Globe and Mail Toronto, ORG, 1
+42 per cent, MONEY, 1
+Germany, GPE, 1
+up to, CARDINAL, 1
+2,500, CARDINAL, 1
+2,800, MONEY, 1
+June 1, DATE, 1
+European, NORP, 1
+Church St., ORG, 1
+Hepatitis A | The Star Toronto Public Health, WORK_OF_ART, 1
+Church, ORG, 1
+between June 7 and 23, DATE, 1
+the University of British Columbia, ORG, 1
+Robert F. Kennedy, PERSON, 1
+Century-old, DATE, 1
+The Globe and Mail Many, ORG, 1
+Julius Youngner, PERSON, 1
+Jonas Salk, PERSON, 1
+The Globe and Mail Researchers, ORG, 1
+Tdap, GPE, 1
+91 percent, PERCENT, 1
+the first two months, DATE, 1
+CBC News Scientists, ORG, 1
+| CTV News Public, ORG, 1
+The Star Those, WORK_OF_ART, 1
+six weeks, DATE, 1
+this year, DATE, 1
+Ottawa Public Health, ORG, 1
+the City of Toronto, GPE, 1
+Robert Kennedy, PERSON, 1
+Trump, ORG, 1
+The Globe and Mail Whether, ORG, 1
+World Immunization Week, EVENT, 1
+Global News, ORG, 1
+Burnaby, ORG, 1
+B.C.’s, ORG, 1
+Romania, GPE, 1
+Hundreds, CARDINAL, 1
+this week, DATE, 1
+St. Patrick’s Day, GPE, 1
+10 years, DATE, 1
+GlobalNews.ca, ORG, 1
+MD, GPE, 1
+Eve Switzer, PERSON, 1
+B.C., GPE, 1
+this September, DATE, 1
+Timothy Sullivan, PERSON, 1
+The Globe and Mail Much, ORG, 1
+The Globe and Mail Canada, ORG, 1
+RFK Jr, ORG, 1
+Timothy Caulfield, PERSON, 1
+'The Vaccination Picture, WORK_OF_ART, 1
+Love, WORK_OF_ART, 1
+Donald Trump's, PERSON, 1
+The Associated Press's, ORG, 1
+B.C. Children's Hospital, PERSON, 1
+B.C. Children's Hospital, ORG, 1
+$15 million, MONEY, 1
+Save-On-Foods, ORG, 1
+7 days, DATE, 1
+nine-year-old, DATE, 1
+nearly 150,000, CARDINAL, 1
+an estimated 147,000, CARDINAL, 1
+each year, DATE, 1
+Monday, DATE, 1
+99 per cent, MONEY, 1
+One, CARDINAL, 1
+four-day, DATE, 1
+About 90,000, CARDINAL, 1
+The Windsor-Essex County Health Unit, ORG, 1
+almost two decades, DATE, 1
+Minnesota, GPE, 1
+Somali-American, NORP, 1
+just 42 per cent, MONEY, 1
+2014, DATE, 1
+The Globe and Mail Canada’s, ORG, 1
+FDA, ORG, 1
+Saskatchewan, GPE, 1
+1st, ORDINAL, 1
+32, CARDINAL, 1
+UN, ORG, 1
+Two, CARDINAL, 1
+Toronto Public Health, ORG, 1
+More than 70, CARDINAL, 1
+Just five minutes, TIME, 1
+Noni MacDonald, PERSON, 1
+Dalhousie University, ORG, 1
+Star, ORG, 1
+The Globe and Mail Complacency, ORG, 1
+last-minute, TIME, 1
+Conservative, NORP, 1
+Parliament, ORG, 1
+65, CARDINAL, 1
+Americans, NORP, 1
+millions, CARDINAL, 1
+four, CARDINAL, 1
+9-year-old, DATE, 1
+| Awesome Activities & Fun Facts, ORG, 1
+California, GPE, 1
+10%, PERCENT, 1
+About forty, CARDINAL, 1
+the weekend, DATE, 1
+Fifteen, CARDINAL, 1
+12 years old, DATE, 1
+South Sudan's, GPE, 1
+Friday, DATE, 1
+C.D. Howe Institute, ORG, 1
+15-20 percent, PERCENT, 1
+summer, DATE, 1
+just a few months, DATE, 1
+Paolo Gentiloni, PERSON, 1
+recent years, DATE, 1
+CBC News Planes, ORG, 1
+30,000, CARDINAL, 1
+Kingston, GPE, 1
+Cornwall, GPE, 1
+next month, DATE, 1
+the Universities of Dundee, ORG, 1
+Oxford, ORG, 1
+U.K., GPE, 1
+seven, CARDINAL, 1
+CTV National News, ORG, 1
+Saturday, December 2, 2017, DATE, 1
+Michael Flynn, PERSON, 1
+France, GPE, 1
+The Globe and Mail Government-, ORG, 1
+annual, DATE, 1
+the winter months, DATE, 1
+EU, ORG, 1
+the European Union, ORG, 1
+The Star Rebecca Bredow, WORK_OF_ART, 1
+nearly a year, DATE, 1
+Oakland County, GPE, 1
+The Globe and Mail Regional UNICEF, ORG, 1
+Geert Cappelaere, PERSON, 1
+more than 11 million, CARDINAL, 1
+Robert De Niro, PERSON, 1
+100, MONEY, 1
+the World Mercury Project, ORG, 1
+next year, DATE, 1
+Anne Van Burek, PERSON, 1
+more than a decade, DATE, 1
+two, CARDINAL, 1
+The Globe and Mail Most, ORG, 1
+Tues, PERSON, 1
+April 4, 2017, DATE, 1
+Five, CARDINAL, 1
+St. Petersburg, GPE, 1
+2018, DATE, 1
+PTSD, DATE, 1
+CBC News Public, ORG, 1
+Congo, GPE, 1
+eight, CARDINAL, 1
+B.C., PERSON, 1
+Sun B.C., PERSON, 1
+CTV News, ORG, 1
+Pearson, PRODUCT, 1
+Theresa Tam, PERSON, 1
+Alberta Health Service, ORG, 1
+hundreds of millions of dollars, MONEY, 1
+Malawi, PERSON, 1
+2, CARDINAL, 1
+Erin Henderson's, PERSON, 1
+Fort Macleod, ORG, 1
+Pincher Creek, GPE, 1
+The Globe and Mail Large, ORG, 1
+Shingrix, PRODUCT, 1
+more than 90, CARDINAL, 1

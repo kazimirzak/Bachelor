@@ -1,0 +1,339 @@
+entity, label, count
+Kashmir, LOC, 34
+India, GPE, 16
+Indian, NORP, 14
+Canada, GPE, 11
+Toronto, GPE, 8
+St. Lucia, GPE, 8
+two, CARDINAL, 7
+The Globe and Mail, ORG, 7
+Tuesday, DATE, 7
+Canadian, NORP, 7
+B.C., GPE, 6
+China, GPE, 5
+Corona, GPE, 5
+Ont, PERSON, 5
+Ottawa, GPE, 4
+Two, CARDINAL, 4
+Friday, DATE, 4
+2, CARDINAL, 4
+California, GPE, 4
+Thursday, DATE, 4
+North Korea, GPE, 4
+GlobalNews.ca, ORG, 4
+At least 2,300, CARDINAL, 4
+Pakistan, GPE, 4
+second, ORDINAL, 3
+Wednesday, DATE, 3
+Surrey, PERSON, 3
+CBC Radio, ORG, 3
+Sunday, DATE, 3
+Curacao, GPE, 3
+CBC News, ORG, 3
+Danish, NORP, 3
+Calif., GPE, 2
+Natalie Corona, PERSON, 2
+Los Angeles, GPE, 2
+this week, DATE, 2
+thousands, CARDINAL, 2
+Jammu, GPE, 2
+Trudeau, PERSON, 2
+COVID-19 | CTV News, ORG, 2
+Justin Trudeau, PERSON, 2
+9th day, DATE, 2
+The Star SRINAGAR, WORK_OF_ART, 2
+22-year-old, DATE, 2
+New Delhi, GPE, 2
+the United States, GPE, 2
+| CTV News Authorities, ORG, 2
+Dutch, NORP, 2
+Bangkok, GPE, 2
+Maha Vajiralongkorn, PERSON, 2
+night, TIME, 2
+Colorado, GPE, 2
+Texas, GPE, 2
+Six, CARDINAL, 2
+Caribbean, LOC, 2
+50, CARDINAL, 2
+Kingston, GPE, 2
+WHO, ORG, 2
+Vajiralongkorn, PERSON, 2
+Saturday, DATE, 2
+Thailand, GPE, 2
+Sun Lockdowns, PERSON, 2
+Church of Scientology, ORG, 2
+early August, DATE, 2
+| CTV News, ORG, 2
+Karen Kain, PERSON, 2
+first, ORDINAL, 2
+CannTrust, ORG, 2
+Guy Lafleur, PERSON, 2
+Const, ORG, 2
+Europe, LOC, 2
+Calgary, GPE, 2
+1, CARDINAL, 2
+Canadians, NORP, 2
+Nordea, ORG, 2
+Thai, NORP, 2
+Alberta, GPE, 2
+one, CARDINAL, 2
+Spanish, NORP, 2
+Chinese, NORP, 2
+CBC, ORG, 2
+Muslim, NORP, 2
+Milton, GPE, 2
+Bishop Reding school, ORG, 2
+Trump, ORG, 2
+House of Commons, ORG, 2
+Davis, GPE, 1
+evening, TIME, 1
+Davis, PERSON, 1
+Aug. 2, DATE, 1
+100s, CARDINAL, 1
+UCLA, ORG, 1
+Cal State, ORG, 1
+More than 1,000, CARDINAL, 1
+Modi’s Hindu, ORG, 1
+10, CARDINAL, 1
+3rd month, DATE, 1
+Police Dilbagh Singh, ORG, 1
+Anantnag, GPE, 1
+LIVE NOW, ORG, 1
+the Black Death, ORG, 1
+The Suburbs” Preview - Coroner Coming, WORK_OF_ART, 1
+Monday, DATE, 1
+Coroner, ORG, 1
+CBC Gem, ORG, 1
+9/930NT, CARDINAL, 1
+Machete Murderer', ORG, 1
+25, CARDINAL, 1
+Sun Cops, ORG, 1
+Juan Corona, PERSON, 1
+The Machete Murderer, WORK_OF_ART, 1
+The Globe and Mail The Church of Scientology, ORG, 1
+Deadly University of North Carolina, ORG, 1
+North Carolina, GPE, 1
+four, CARDINAL, 1
+Syracuse, ORG, 1
+more than 200, CARDINAL, 1
+Modi, GPE, 1
+afternoon, TIME, 1
+Mounties, ORG, 1
+25-year, DATE, 1
+more than 700, CARDINAL, 1
+Restrictions, ORG, 1
+CTV News Restrictions, ORG, 1
+nearly two weeks, DATE, 1
+28, CARDINAL, 1
+17, CARDINAL, 1
+11, CARDINAL, 1
+the Church of Scientology, ORG, 1
+New Thai, NORP, 1
+second day, DATE, 1
+three-day, DATE, 1
+Mary Thomson, PERSON, 1
+C.I., GPE, 1
+Scarborough, ORG, 1
+Charles Manson, PERSON, 1
+Leslie Van Houten, PERSON, 1
+69, DATE, 1
+the California Institute for Women, ORG, 1
+1969, DATE, 1
+South Korea, GPE, 1
+South, LOC, 1
+24-hour, TIME, 1
+Alexander Weimann, PERSON, 1
+Handel, ORG, 1
+April 14, DATE, 1
+3 p.m., TIME, 1
+Chan Centre, FAC, 1
+the Performing Arts, ORG, 1
+April 19, DATE, 1
+8 p.m., TIME, 1
+Orpheum, GPE, 1
+Columbine, ORG, 1
+Clayton Heights, GPE, 1
+The Globe and Mail Halton, ORG, 1
+Bishop Reding Catholic Secondary School, ORG, 1
+30th, ORDINAL, 1
+Communist Party's, ORG, 1
+three decades, DATE, 1
+Cornwall, PERSON, 1
+Cornwall, GPE, 1
+three-fold, QUANTITY, 1
+1975, DATE, 1
+LEVY, PERSON, 1
+more than a year, DATE, 1
+’ve, ORG, 1
+just weeks, DATE, 1
+UK, GPE, 1
+December, 2018, DATE, 1
+The Globe and Mail Outlining, ORG, 1
+Three days, DATE, 1
+centuries, DATE, 1
+North Vancouver, GPE, 1
+SAN JUAN, GPE, 1
+Puerto Rico, GPE, 1
+some 300, CARDINAL, 1
+CBC Radio People, ORG, 1
+Washington Post, ORG, 1
+Niha Masih, PERSON, 1
+Lockdown, ORG, 1
+Truro, ORG, 1
+One, CARDINAL, 1
+Nova Scotia's, ORG, 1
+Colchester County, GPE, 1
+White House, ORG, 1
+the White House, ORG, 1
+US, GPE, 1
+morning, TIME, 1
+1957, DATE, 1
+Nov. 14, 1957, DATE, 1
+Vito “, PERSON, 1
+Don Vito, WORK_OF_ART, 1
+The National Council of Canadian Muslims, ORG, 1
+Muslim Community Safety Kit, ORG, 1
+mosques, FAC, 1
+Toronto South, FAC, 1
+7-year, DATE, 1
+Tal Singh Fermah, ORG, 1
+two-and-a-half years, DATE, 1
+205 days, DATE, 1
+214 half days, DATE, 1
+The Globe and Mail Colleagues, ORG, 1
+Elizabeth II, PERSON, 1
+The World Health Organization, ORG, 1
+the next decade, DATE, 1
+Tens of thousands, CARDINAL, 1
+Streets, ORG, 1
+The Globe and Mail Eating, ORG, 1
+TSN 690 Radio, ORG, 1
+Tony Marinaro, PERSON, 1
+Ahmer Khan, PERSON, 1
+Srinagar, GPE, 1
+Delhi, GPE, 1
+Costco | CTV News, ORG, 1
+the Corona Police Department, ORG, 1
+Insomnia, GPE, 1
+Bruce Linton, PERSON, 1
+The Globe and Mail Powered, ORG, 1
+Constellation Brands Inc, ORG, 1
+US$4.5 billion, MONEY, 1
+Canopy, ORG, 1
+The Globe and Mail Students, ORG, 1
+Dartmouth High School, ORG, 1
+Find breaking Montreal & COVID-19, ORG, 1
+St. Joseph’s Morrow Park Catholic Secondary School, ORG, 1
+North York, GPE, 1
+Scott Mills, PERSON, 1
+11 a.m., TIME, 1
+Australian, NORP, 1
+North America, LOC, 1
+80, CARDINAL, 1
+African, NORP, 1
+weeks, DATE, 1
+Brooks Koepka's, PERSON, 1
+Sun FARMINGDALE, PERSON, 1
+N.Y., GPE, 1
+RCMP, ORG, 1
+Star Critical, ORG, 1
+Kam McLeod, PERSON, 1
+Bryer Schmegelsky, PERSON, 1
+Chynna Deese, PERSON, 1
+Lucas Fowler, PERSON, 1
+Kashmir | CTV News, ORG, 1
+Christchurch, ORG, 1
+3-month-old, DATE, 1
+Global Affairs, ORG, 1
+at least 12, CARDINAL, 1
+the Kashmir region, LOC, 1
+Mongolian, NORP, 1
+hundreds, CARDINAL, 1
+Brazil, GPE, 1
+Amazon, ORG, 1
+The Globe and Mail Helsinki, ORG, 1
+Brazilian, NORP, 1
+Parliament, ORG, 1
+Costco, ORG, 1
+LA, GPE, 1
+Mohawk, PERSON, 1
+at least six, CARDINAL, 1
+Jeff Edwards, PERSON, 1
+Coronation, NORP, 1
+Vancouver Sun, PERSON, 1
+UCP, ORG, 1
+Rachel Notley’s, PERSON, 1
+NDP, ORG, 1
+Jason Kenney’s, PERSON, 1
+Oakville’s Coronation Park, ORG, 1
+2020, DATE, 1
+Jan. 21, DATE, 1
+Terry Fox Run, PERSON, 1
+Kashmiri-Canadians, PERSON, 1
+Kashmiri-Canadian, ORG, 1
+Amsterdam, GPE, 1
+Air Europa, ORG, 1
+Chinese-Canadian, NORP, 1
+Coronach, GPE, 1
+Sask, PERSON, 1
+Curfew, PERSON, 1
+a fifth day, DATE, 1
+Toronto Sun, ORG, 1
+Superior Court, ORG, 1
+BC, ORG, 1
+last month, DATE, 1
+Phytophthora, PERSON, 1
+Island View Nursery, ORG, 1
+Pro-Trump Reddit, ORG, 1
+The_Donald, ORG, 1
+Reddit, NORP, 1
+The Pot Post Newsletter Signup Canadian, ORG, 1
+100 years ago, DATE, 1
+the Stanley Cup, LAW, 1
+100 years, DATE, 1
+Stanley Cup, EVENT, 1
+Montreal, GPE, 1
+Seattle, GPE, 1
+UN Security Council, ORG, 1
+Hindu, NORP, 1
+Delta, ORG, 1
+The Globe and Mail New Delhi, ORG, 1
+three, CARDINAL, 1
+British, NORP, 1
+10th, ORDINAL, 1
+Star Drug, ORG, 1
+Darrell Corona, PERSON, 1
+Ontario S, PERSON, 1
+Constellation Brands, ORG, 1
+August of last year, DATE, 1
+$5 billion, MONEY, 1
+Canopy Growth, ORG, 1
+38, CARDINAL, 1
+Democrats, NORP, 1
+U.S., GPE, 1
+Donald Trump, PERSON, 1
+Republican, NORP, 1
+next year's, DATE, 1
+The Star Police, ORG, 1
+noon, TIME, 1
+B.C., ORG, 1
+Toronto City Hall, GPE, 1
+Toronto City Hall, FAC, 1
+First Nation at York Landing, ORG, 1
+| Watch News, ORG, 1
+York Landing, ORG, 1
+Video Online, PERSON, 1
+Arisa Cox, PERSON, 1
+Season 7, TIME, 1
+Toronto Sun Big Brother, ORG, 1
+seventh, ORDINAL, 1
+fourteen, CARDINAL, 1
+a ninth day, DATE, 1
+Royal Newsletter Signup Canadian, ORG, 1
+Kashmir | CTV News Tensions, ORG, 1
+Himalayan, NORP, 1
+B.C., PERSON, 1
+Burnaby, ORG, 1
+COVID-19 - National | Globalnews.ca Get, ORG, 1
+CannTrust Holdings Inc.'s, ORG, 1
+Health Canada's, ORG, 1

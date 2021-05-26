@@ -1,0 +1,309 @@
+entity, label, count
+Brussels, GPE, 22
+Wilfrid Laurier University, ORG, 16
+Canada, GPE, 13
+Belgium, GPE, 11
+Paris, GPE, 10
+Ottawa, GPE, 9
+Carla, PERSON, 9
+Belgian, NORP, 8
+Cathy, PERSON, 7
+Sally, PERSON, 7
+Toronto, GPE, 7
+Tim, PERSON, 6
+The Globe and Mail, ORG, 6
+two, CARDINAL, 6
+Ont, PERSON, 6
+Friday, DATE, 6
+Callum, ORG, 6
+| CTV News, ORG, 6
+Michelle, PERSON, 5
+first, ORDINAL, 5
+Andrea, PERSON, 5
+Steve, PERSON, 5
+Canadian, NORP, 5
+Fredericton, GPE, 4
+Roy, PERSON, 4
+Eileen, PERSON, 4
+Liz, PERSON, 4
+Sarah, PERSON, 4
+U.K., GPE, 4
+London, GPE, 4
+Waterloo, GPE, 4
+Sophie, ORG, 4
+Canadians, NORP, 4
+four, CARDINAL, 3
+this morning, TIME, 3
+Michael, PERSON, 3
+Vancouver, GPE, 3
+Thursday, DATE, 3
+Tuesday, DATE, 3
+Robert, PERSON, 3
+Belgians, NORP, 3
+Ken, PERSON, 3
+Tracy, PERSON, 3
+Liberia, GPE, 3
+Wilfrid Laurier, ORG, 3
+CBC, ORG, 3
+three, CARDINAL, 3
+Lockdown, ORG, 3
+Ottawa-Carleton Detention Centre, ORG, 2
+More than 6,000, CARDINAL, 2
+this weekend, DATE, 2
+almost 35 years ago, DATE, 2
+French, NORP, 2
+the weekend, DATE, 2
+Savannah State University, ORG, 2
+22-year-old, DATE, 2
+six-hour, TIME, 2
+Waterloo, PERSON, 2
+Saturday, DATE, 2
+Sarah Harding, PERSON, 2
+BrusselsLockdown, ORG, 2
+165, CARDINAL, 2
+Election 2015, DATE, 2
+16, CARDINAL, 2
+Ruby, PERSON, 2
+Maddie, GPE, 2
+World Canada, ORG, 2
+UK, GPE, 2
+Chris Christie, PERSON, 2
+New Jersey, GPE, 2
+Aidan, GPE, 2
+Wednesday, DATE, 2
+House of Commons, ORG, 2
+American, NORP, 2
+Corona, GPE, 2
+Miller Genuine, ORG, 2
+France, GPE, 2
+Oregon, GPE, 2
+19-year-old, DATE, 2
+British, NORP, 2
+Mississippi, GPE, 2
+Leanne, ORG, 2
+Coronation, NORP, 2
+Hamilton, PERSON, 2
+CBC News, ORG, 1
+the first half of this year, DATE, 1
+2014, DATE, 1
+Episode 8718 - Coronation Street - CBC, PERSON, 1
+Ireland, GPE, 1
+Caitlin, PERSON, 1
+Vancouver HIV-AIDS, PERSON, 1
+2030, DATE, 1
+the afternoon, TIME, 1
+Anna and Miley, PERSON, 1
+Episode 8738 - Coronation Street - CBC Player, PERSON, 1
+Bistro, LOC, 1
+Faye, ORG, 1
+Lloyd in the, ORG, 1
+Rovers, ORG, 1
+CTV Vancouver, ORG, 1
+Abbotsford, ORG, 1
+fourth, ORDINAL, 1
+Jawad Bendaoud, PERSON, 1
+5th, ORDINAL, 1
+4th, ORDINAL, 1
+fifth, ORDINAL, 1
+19, CARDINAL, 1
+’ | The Star Website 4chan, WORK_OF_ART, 1
+Fort York, GPE, 1
+Coronation Park, LOC, 1
+Lake Ontario, LOC, 1
+Waterpark City, GPE, 1
+July, DATE, 1
+Brampton, PERSON, 1
+The Globe and Mail Report, ORG, 1
+two-hour, TIME, 1
+Wilfrid Laurier University | CTV News, ORG, 1
+Joni, PERSON, 1
+Montana, GPE, 1
+18-year-old, DATE, 1
+Marc Venema, PERSON, 1
+Star, ORG, 1
+Coronation Street', FAC, 1
+GTA, ORG, 1
+November, DATE, 1
+Twitter Sunday, LAW, 1
+Special Forces, ORG, 1
+Moscow, GPE, 1
+San Francisco, GPE, 1
+World AIDS Day - The Globe and Mail World AIDS Day, EVENT, 1
+December 1, DATE, 1
+1988, DATE, 1
+The Globe and Mail Twitter, ORG, 1
+6th, ORDINAL, 1
+Edmonton | CTV News The Correctional Service of Canada, ORG, 1
+Edmonton, GPE, 1
+Episode 8696 - Coronation Street - CBC Player, PERSON, 1
+nearly six hours, TIME, 1
+Savannah State University - National | Globalnews.ca Authorities, ORG, 1
+Georgia, GPE, 1
+Lloyd tells, ORG, 1
+Jess, PERSON, 1
+months, DATE, 1
+Europeans, NORP, 1
+Max, PERSON, 1
+Hope, PERSON, 1
+The Globe and Mail New, ORG, 1
+Monday, Nov. 23, 2015:, DATE, 1
+the American Music Awards, ORG, 1
+Wilfred Laurier University, ORG, 1
+Umbrella, ORG, 1
+today, DATE, 1
+one year later, DATE, 1
+a week, DATE, 1
+Quebec, GPE, 1
+Parliament Hill, ORG, 1
+Today, DATE, 1
+Farook, PERSON, 1
+San Bernardino, GPE, 1
+CORONA, GPE, 1
+Calif., GPE, 1
+the days, DATE, 1
+Syed Riswan Farook, PERSON, 1
+Southern California, LOC, 1
+Enrique, PERSON, 1
+late Sunday, DATE, 1
+another day, DATE, 1
+last-minute, TIME, 1
+China, GPE, 1
+Anastasia Lin, PERSON, 1
+Chinese, NORP, 1
+last May, DATE, 1
+22, DATE, 1
+Sunday, DATE, 1
+Episode 8730 - Coronation Street - CBC Player Faye, PERSON, 1
+Miley, ORG, 1
+Craig, PERSON, 1
+Tyrone, ORG, 1
+Player Eileen, PERSON, 1
+Nick, PERSON, 1
+N.J., GPE, 1
+West Africa, GPE, 1
+World’s HIV, ORG, 1
+Stephen Harper, PERSON, 1
+Conservatives, NORP, 1
+Episode 8717 - Coronation Street - CBC Player Everyone, PERSON, 1
+Lily, PERSON, 1
+Annelaure Leger, PERSON, 1
+COVID-19 - National | Globalnews.ca Get, ORG, 1
+White House, ORG, 1
+the White House, FAC, 1
+Thanksgiving, DATE, 1
+Victoria Public School, ORG, 1
+The Star Queen Victoria Public School, WORK_OF_ART, 1
+just over half, CARDINAL, 1
+Laurier, PERSON, 1
+Daniel Ransem, PERSON, 1
+Episode 8741 - Coronation Street - CBC Player David, PERSON, 1
+Nick's, ORG, 1
+Gary, PERSON, 1
+Dan Misener, PERSON, 1
+Episode 8731 - Coronation Street - CBC Player Tracy, PERSON, 1
+Lloyd., ORG, 1
+14, DATE, 1
+Jon Hendricks, PERSON, 1
+Westdale Junior, ORG, 1
+14-year-old, DATE, 1
+Anheuser-Busch, ORG, 1
+SABMiller, ORG, 1
+245B, MONEY, 1
+Busch InBev, PERSON, 1
+Budweiser, GPE, 1
+Labatt’s, ORG, 1
+SABMiller PLC, ORG, 1
+third, ORDINAL, 1
+Parisians, NORP, 1
+morning, TIME, 1
+The Globe and Mail Campus, ORG, 1
+several hours, TIME, 1
+6-hour, TIME, 1
+57-year-old, DATE, 1
+CBC Sports - Sporting, ORG, 1
+Tiernen, PRODUCT, 1
+the Royal Winnipeg Ballet School, ORG, 1
+COVID-19, PRODUCT, 1
+earlier this month, DATE, 1
+Jack P Undercover - Coronation Street - CBC, ORG, 1
+Jack P. Shepherd, PERSON, 1
+Manchester, GPE, 1
+Alex, PERSON, 1
+GlobalNews.ca, ORG, 1
+U.S., GPE, 1
+Chris Christie - The Globe and Mail, PERSON, 1
+Kaci Hickox, PERSON, 1
+last year, DATE, 1
+Sierra Leone, LOC, 1
+Leah Larocque, PERSON, 1
+Johnny, PERSON, 1
+Kate, PERSON, 1
+Central Technical School, ORG, 1
+the first day, DATE, 1
+summer, DATE, 1
+Episode 8729 - Coronation Street - CBC Player Zeedan, PERSON, 1
+Anna, PERSON, 1
+Hodges, GPE, 1
+Tony, PERSON, 1
+Todd, PERSON, 1
+Kiss - Coronation Street - CBC Player Sally, ORG, 1
+Ontario, GPE, 1
+Deirdre, PERSON, 1
+Mike Duffy Trial Canadian, PERSON, 1
+Toronto South Detention Centre, FAC, 1
+| CTV News Police, ORG, 1
+Delta State University, ORG, 1
+1, CARDINAL, 1
+South Carolina, GPE, 1
+Hello Aiden - Coronation Street - CBC Player, ORG, 1
+40%, PERCENT, 1
+StatsCan, ORG, 1
+Statistics Canada, ORG, 1
+more than 40, CARDINAL, 1
+Episode 8716 - Coronation Street - CBC Player Liz, PERSON, 1
+Lloyd and Erica, ORG, 1
+five-hour, TIME, 1
+Zeedan, PERSON, 1
+300 miles, QUANTITY, 1
+Delta State, LOC, 1
+hours later, TIME, 1
+FBI, ORG, 1
+4chan, CARDINAL, 1
+Queen, PERSON, 1
+The Star, WORK_OF_ART, 1
+age 14, DATE, 1
+Elizabeth II, PERSON, 1
+9 a.m., TIME, 1
+The Star Prisoners, WORK_OF_ART, 1
+Laurier University, ORG, 1
+Sun WATERLOO, PERSON, 1
+Toronto Sun, ORG, 1
+last week, DATE, 1
+CTV National News, ORG, 1
+3, CARDINAL, 1
+Daniele Hamamdjian, PERSON, 1
+CTV News Channel: School, ORG, 1
+Amanda Blitz, ORG, 1
+Maria, PERSON, 1
+Luke, PERSON, 1
+World, ORG, 1
+Bud, PERSON, 1
+Miller, PERSON, 1
+Anheuser-Busch InBev, ORG, 1
+Budweiser, ORG, 1
+SABMiller Plc, ORG, 1
+The Globe and Mail Police, ORG, 1
+CBC Radio, ORG, 1
+This week, DATE, 1
+Europe, LOC, 1
+Ryan Heath, PERSON, 1
+Politico, GPE, 1
+CTV News Channel, ORG, 1
+Henry Francois Gelot, PERSON, 1
+about the night, TIME, 1
+five-day, DATE, 1
+North York, GPE, 1
+hours Wednesday, TIME, 1
+17-year-old, DATE, 1
+Episode 8707 - Coronation Street - CBC Player Rita, PERSON, 1
+Adrienne Arsenault, PERSON, 1

@@ -1,0 +1,423 @@
+entity, label, count
+Brussels, GPE, 44
+Paris, GPE, 19
+White House, ORG, 14
+Thursday, DATE, 14
+Belgian, NORP, 12
+Belgium, GPE, 12
+Monday, DATE, 11
+US, GPE, 10
+Friday, DATE, 10
+U.S., GPE, 10
+Tuesday, DATE, 9
+Reuters, ORG, 8
+Wednesday, DATE, 7
+Europe, LOC, 7
+night, TIME, 6
+one, CARDINAL, 6
+West Africa, GPE, 6
+New Jersey, GPE, 6
+American, NORP, 5
+the Secret Service, ORG, 5
+two, CARDINAL, 5
+Arkansas State University, ORG, 5
+Saturday, DATE, 5
+California, GPE, 5
+Corona, GPE, 5
+first, ORDINAL, 5
+Sunday, DATE, 5
+One, CARDINAL, 5
+Chris Christie, PERSON, 5
+South Carolina, GPE, 5
+AP, ORG, 4
+Philadelphia, GPE, 4
+three, CARDINAL, 4
+Southern California, LOC, 4
+morning, TIME, 4
+Houston, GPE, 4
+Florida, GPE, 4
+Iraq, GPE, 4
+the White House, ORG, 3
+CNN, ORG, 3
+The White House, ORG, 3
+Sacramento, GPE, 3
+Texas Southern University, ORG, 3
+Belgians, NORP, 3
+Americans, NORP, 3
+ABC News, ORG, 3
+RT USA News, ORG, 3
+Georgia, GPE, 3
+Russia, GPE, 3
+Republican, NORP, 3
+the U.S. Secret Service, ORG, 3
+Chris Christie - ABC, PERSON, 3
+Beijing, GPE, 3
+Barack Obama, PERSON, 2
+Thanksgiving, DATE, 2
+Joseph Caputo, PERSON, 2
+Alabama, GPE, 2
+Squawk Box Live, PERSON, 2
+Westminster, PERSON, 2
+UK, GPE, 2
+Boston, GPE, 2
+at least one, CARDINAL, 2
+BrusselsLockdown, ORG, 2
+Three, CARDINAL, 2
+Texas College, ORG, 2
+Fairfield, GPE, 2
+Pennsylvania Avenue, FAC, 2
+BrusselsLockdown, PRODUCT, 2
+last week, DATE, 2
+North Carolina Central University, ORG, 2
+1, CARDINAL, 2
+Texas, GPE, 2
+the United States, GPE, 2
+Confederate, ORG, 2
+16, CARDINAL, 2
+Japan, GPE, 2
+Ark., GPE, 2
+Louisville, GPE, 2
+Kentucky, GPE, 2
+Bush, PERSON, 2
+Jeb Bush, PERSON, 2
+Islamic, NORP, 2
+last year, DATE, 2
+Mississippi, GPE, 2
+Delta State University, ORG, 2
+Toronto, GPE, 2
+2, CARDINAL, 2
+El Paso, GPE, 2
+Indianapolis, GPE, 2
+San Diego Airport, GPE, 2
+four days, DATE, 2
+Planned Parenthood, ORG, 2
+Colorado Springs, GPE, 2
+Kaci Hickox, PERSON, 2
+another day, DATE, 2
+Al Jazeera, ORG, 2
+EU, ORG, 2
+Pennsylvania, GPE, 2
+1918, DATE, 2
+Spanish, NORP, 2
+Zoo - That Great, PERSON, 2
+late Monday, DATE, 2
+Mk, PERSON, 2
+Jews, NORP, 2
+NASA, ORG, 2
+Solar Dynamics Observatory, ORG, 2
+Kenya, GPE, 2
+Colombia, GPE, 2
+Umpqua Community College, ORG, 2
+K-9, ORG, 1
+Arkansas State University — RT USA News, ORG, 1
+Jonesboro, GPE, 1
+Ala., GPE, 1
+Birmingham, GPE, 1
+close to an hour, TIME, 1
+Lafayette Park, GPE, 1
+Secret Service, ORG, 1
+The City of Brotherly Love, GPE, 1
+Francis, PERSON, 1
+1.5 million, CARDINAL, 1
+The Secret Service, ORG, 1
+afternoon, TIME, 1
+the "Black Death" in, LAW, 1
+the 14th century, DATE, 1
+9, CARDINAL, 1
+Partial Bridge Collapse, FAC, 1
+Nine, CARDINAL, 1
+State, ORG, 1
+Lockdown Amid Threat, PERSON, 1
+the White House, FAC, 1
+fourth, ORDINAL, 1
+a fourth day, DATE, 1
+Thousands, CARDINAL, 1
+London, GPE, 1
+Million Mask March, WORK_OF_ART, 1
+Arizona, GPE, 1
+Donald Trump, PERSON, 1
+Tempe, PERSON, 1
+the Cabinet Office, ORG, 1
+Lisa Rapaport, PERSON, 1
+Reuters Health, ORG, 1
+8 percent, PERCENT, 1
+the six months, DATE, 1
+the months, DATE, 1
+Jeff Huffman, PERSON, 1
+Massachusetts General Hospital, ORG, 1
+Harvard Medical School, ORG, 1
+Tennessee State University Campus - NBC News Campus, ORG, 1
+CATS, ORG, 1
+RT World News Amid, ORG, 1
+City College, ORG, 1
+Philadelphia campus| Reuters A, ORG, 1
+the Community College of Philadelphia, ORG, 1
+Lockdown, Suspect Sought, ORG, 1
+around 11:30 a.m., TIME, 1
+University Courtyard Apartments, ORG, 1
+Conn., GPE, 1
+Lockdown After 'Threat of Violence, PERSON, 1
+17, CARDINAL, 1
+Connecticut, GPE, 1
+Apple Core Thrown Over Fence Puts White House, ORG, 1
+Lockdown Parts, PERSON, 1
+NEW YORK POST, ORG, 1
+St. Anthony, FAC, 1
+Padua, GPE, 1
+about 11 years ago, DATE, 1
+Houston Street, FAC, 1
+5-foot, QUANTITY, 1
+Seoul, GPE, 1
+South Korea, GPE, 1
+thousands, CARDINAL, 1
+Birmingham Fire, PERSON, 1
+Rescue, ORG, 1
+University of Alabama-Birmingham Hospital, ORG, 1
+eight, CARDINAL, 1
+Lockdown After Man Draped, PERSON, 1
+Central Florida Community College, ORG, 1
+Space Coast, LOC, 1
+Eastern Florida State College, ORG, 1
+Cocoa, GPE, 1
+Lockdown Lifted, PERSON, 1
+Durham, PERSON, 1
+around 11 p.m., TIME, 1
+Central America, LOC, 1
+Guatemala, GPE, 1
+El Salvador, GPE, 1
+Honduras, GPE, 1
+Central American, NORP, 1
+Mauricio Cornejo, PERSON, 1
+18, DATE, 1
+San Salvador, GPE, 1
+MS-13, PERSON, 1
+Barrio, PERSON, 1
+18, CARDINAL, 1
+Eurasia, PERSON, 1
+CNBC, ORG, 1
+Quintana, PERSON, 1
+L'Alpe, GPE, 1
+Christopher Froome, PERSON, 1
+2015, DATE, 1
+HOUSTON, GPE, 1
+KTRK, PERSON, 1
+3500, CARDINAL, 1
+Blodgett Street, FAC, 1
+Canfield, GPE, 1
+around 11:30am, TIME, 1
+ACLU, ORG, 1
+NBC News, ORG, 1
+the last year, DATE, 1
+Polk County, GPE, 1
+Sept. 23, DATE, 1
+just hours, TIME, 1
+today, DATE, 1
+ISIS, ORG, 1
+Iran, GPE, 1
+Desert City Capitalizes, ORG, 1
+Yvonne Peach, PERSON, 1
+Yuma, GPE, 1
+159, MONEY, 1
+two nights, DATE, 1
+the Historic Coronado Motor Hotel, ORG, 1
+25, MONEY, 1
+Larry Kudlow, PERSON, 1
+Breitbart, PERSON, 1
+overnight, TIME, 1
+Stupid, ORG, 1
+Wrong, Report, ORG, 1
+Arkansas State, GPE, 1
+Yahoo News LITTLE ROCK, ORG, 1
+Modelo Especial, PERSON, 1
+Samuel Adams, PERSON, 1
+RT USA News Police, ORG, 1
+Western High School, ORG, 1
+Student Kills, PERSON, 1
+3, CARDINAL, 1
+Northern Arizona University Shooting, ORG, 1
+18-year-old, DATE, 1
+Two, CARDINAL, 1
+Sacramento City College, ORG, 1
+Service - Yahoo News, ORG, 1
+around 2:45 p.m., TIME, 1
+The Washington Post, ORG, 1
+earlier, DATE, 1
+Lockdown Over, PERSON, 1
+San Antonio, GPE, 1
+The University of the Incarnate Word, ORG, 1
+early Wednesday morning, TIME, 1
+1,000, CARDINAL, 1
+Nov. 13, DATE, 1
+130, CARDINAL, 1
+Second Day, DATE, 1
+A Public School Wants, ORG, 1
+New York City, GPE, 1
+High School for Arts and Business, ORG, 1
+Queens, GPE, 1
+New York City Council, GPE, 1
+Julissa Ferreras-Copeland, PERSON, 1
+days, DATE, 1
+Delta State, ORG, 1
+five hours, TIME, 1
+Canada, GPE, 1
+PLOS One, ORG, 1
+40-inch, QUANTITY, 1
+35 inches, QUANTITY, 1
+about an hour, TIME, 1
+more than an hour, TIME, 1
+Indianapolis Zoo, PERSON, 1
+Investigate How Cheetah Escaped Exhibit - ABC News, ORG, 1
+hour-long, TIME, 1
+the Ground | Watch, ORG, 1
+Flights Suspended, PERSON, 1
+Secret Service - Reuters, ORG, 1
+four-day, DATE, 1
+Reuters Schools, PERSON, 1
+Tampa, GPE, 1
+Gunfire, PERSON, 1
+Colorado Planned Parenthood, ORG, 1
+Anheuser-Busch Inbev, ORG, 1
+SABMiller, ORG, 1
+Constellation Brands, ORG, 1
+Student Killed, PERSON, 1
+Savannah State University - ABC News Authorities, ORG, 1
+Savannah State University, ORG, 1
+Christopher Starks, PERSON, 1
+22-year-old, DATE, 1
+Atlanta, GPE, 1
+The American Civil Liberties Union of New Jersey, ORG, 1
+Reuters.com, ORG, 1
+the work week, DATE, 1
+Rough Cut, ORG, 1
+The US Department of Energy’s, ORG, 1
+Trans, PRODUCT, 1
+five-day, DATE, 1
+Dozens, CARDINAL, 1
+Galleria, GPE, 1
+Tyler, GPE, 1
+Christie - Yahoo, PERSON, 1
+Christie, ORG, 1
+October last year, DATE, 1
+Norman Siegel, PERSON, 1
+Hickox, ORG, 1
+Belgian Capital Enters, ORG, 1
+Third Day, DATE, 1
+Lockdown After 'Imminent Threat' Schools, ORG, 1
+more than 1,000, CARDINAL, 1
+Associated Press, ORG, 1
+At least one, CARDINAL, 1
+Al Jazeera US, ORG, 1
+Colorado Springs, ORG, 1
+KKTV, ORG, 1
+JONESBORO, GPE, 1
+the Arkansas State University, ORG, 1
+Salah Abdeslam hunt, PERSON, 1
+Africa, LOC, 1
+South Africa, GPE, 1
+Savannah River, LOC, 1
+RT USA News Students, ORG, 1
+Community College of Philadelphia, ORG, 1
+the Islamic State, ORG, 1
+an extraordinary week, DATE, 1
+NATO, ORG, 1
+the Washington Post's, ORG, 1
+David DeKok, PERSON, 1
+SCHUYLKILL HAVEN, GPE, 1
+Pa., GPE, 1
+Bob Rescorla, PERSON, 1
+tens of millions, CARDINAL, 1
+Charles Michel, PERSON, 1
+Mexico, GPE, 1
+several days ago, DATE, 1
+hundreds of feet, QUANTITY, 1
+Los Angeles, GPE, 1
+10:30 a.m., TIME, 1
+about 18 miles, QUANTITY, 1
+Paris Attacks Investigation Continues, ORG, 1
+Lockdown European, PERSON, 1
+Poland, GPE, 1
+Google Glass, PERSON, 1
+Yahoo News, WORK_OF_ART, 1
+65-year-old, DATE, 1
+Riverside County, GPE, 1
+North Shore, GPE, 1
+the Salton Sea, LOC, 1
+about 100 miles, QUANTITY, 1
+San Diego, GPE, 1
+Armando Munoz, PERSON, 1
+Chinese, NORP, 1
+Xi Jinping, PERSON, 1
+2012, DATE, 1
+Yahoo News, ORG, 1
+Jackson, PERSON, 1
+Zoo, GPE, 1
+Tuesday, Sept. 15, DATE, 1
+CBS, ORG, 1
+Al Jazeera State, ORG, 1
+Islamic State - Yahoo News SIMI, ORG, 1
+Calif., GPE, 1
+Carol Ann Coronado, PERSON, 1
+32, DATE, 1
+the May 20, 2014, DATE, 1
+Mississippi A Mississippi, GPE, 1
+Ethan Schmidt, PERSON, 1
+11 a.m., TIME, 1
+about 4,000, CARDINAL, 1
+45-year-old, DATE, 1
+Netherlands, GPE, 1
+RT Business News Russia, ORG, 1
+Dutch, NORP, 1
+Rosselkhoznadzor, ORG, 1
+Crisis Centre, FAC, 1
+4, CARDINAL, 1
+Cheetah, ORG, 1
+Indianapolis Zoo, ORG, 1
+The Indianapolis Zoo, ORG, 1
+110 57mm, QUANTITY, 1
+46 30mm, QUANTITY, 1
+Maine, GPE, 1
+Hickox, NORP, 1
+David Rosenberg High-yield, PERSON, 1
+Metro Reopens, PERSON, 1
+Streets Schools, ORG, 1
+South Dakota, GPE, 1
+Kevin Lein, PERSON, 1
+Harrisburg High School, ORG, 1
+16-year-old, DATE, 1
+KELO-TV, ORG, 1
+approximately 10 miles, QUANTITY, 1
+Sioux Falls, PERSON, 1
+Arkansas State Suspect Decided Not to, ORG, 1
+Brad Kenneth Bartelt, PERSON, 1
+DAILY CALLER, ORG, 1
+Israeli, NORP, 1
+The Jerusalem Post, ORG, 1
+Rabbi Avraham Gigi, PERSON, 1
+the weekend, DATE, 1
+Hillary, PERSON, 1
+A year ago, DATE, 1
+Hillary Clinton, PERSON, 1
+Barack Obama's, PERSON, 1
+the Democratic Party, ORG, 1
+the last week, DATE, 1
+Obama, PERSON, 1
+Nairobi, GPE, 1
+Kenyan, NORP, 1
+Cartagena, PERSON, 1
+Spain, GPE, 1
+November, DATE, 1
+Miss Colombia, PERSON, 1
+Lockdown Issued, ORG, 1
+At least two, CARDINAL, 1
+thousands - CNN, CARDINAL, 1
+Will Ripley, PERSON, 1
+Tennessee State University Campus Campus, ORG, 1
+late night, TIME, 1
+Juliette Kayyem, PERSON, 1
+Gunman Sought, PERSON, 1
+North Carolina, GPE, 1
+late Sunday, DATE, 1
+Oregon, GPE, 1
+Twitter, PRODUCT, 1
+Spartanburg, GPE, 1
+S.C., GPE, 1

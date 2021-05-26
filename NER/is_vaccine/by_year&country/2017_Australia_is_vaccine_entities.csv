@@ -1,0 +1,330 @@
+entity, label, count
+Pauline Hanson, PERSON, 30
+Australia, GPE, 21
+Melbourne, GPE, 13
+ABC News, ORG, 13
+US, GPE, 10
+Sydney, GPE, 9
+Hanson, ORG, 8
+this year, DATE, 8
+One, CARDINAL, 8
+Queensland, GPE, 8
+Victoria, GPE, 7
+HPV, ORG, 7
+CSL, ORG, 7
+Australian, NORP, 7
+Greg Hunt, PERSON, 6
+NSW, ORG, 6
+Australians, NORP, 6
+Donald Trump, PERSON, 6
+Vladimir Putin, PERSON, 5
+South Australia, LOC, 5
+one, CARDINAL, 5
+Thousands, CARDINAL, 4
+Malcolm Turnbull, PERSON, 4
+Victorian, NORP, 4
+year, DATE, 4
+four, CARDINAL, 4
+first, ORDINAL, 4
+Zika, PERSON, 4
+next year, DATE, 3
+India, GPE, 3
+Europe, LOC, 3
+Robert F Kennedy, PERSON, 3
+three, CARDINAL, 3
+the Federal Government, ORG, 3
+Western Australia, LOC, 3
+Perth, PERSON, 3
+Italy, GPE, 3
+Somalia, GPE, 2
+winter, DATE, 2
+150,000, CARDINAL, 2
+12, CARDINAL, 2
+Russian, NORP, 2
+ABC, ORG, 2
+Barnaby Joyce, PERSON, 2
+Africa, LOC, 2
+Muslims, NORP, 2
+Putin, PERSON, 2
+Ian Frazer, PERSON, 2
+Qld, PERSON, 2
+season, DATE, 2
+next year's, DATE, 2
+The West Australian, LOC, 2
+Bankstown-Lidcombe Hospital, ORG, 2
+Darwin, PERSON, 2
+more than 14,000, CARDINAL, 2
+2017, DATE, 2
+Blacktown Hospital, FAC, 2
+almost 90 per cent, MONEY, 2
+South Australian, NORP, 2
+the State Government, ORG, 2
+last year, DATE, 2
+five, CARDINAL, 2
+as young as two months, DATE, 2
+More than 140,000, CARDINAL, 2
+Perth, GPE, 2
+the Australian Institute of Health and Welfare, ORG, 2
+two-year, DATE, 2
+Oxford, ORG, 2
+Central Australia, LOC, 2
+Vaccines, ORG, 2
+15-year-old, DATE, 2
+15 to 19, DATE, 2
+Bali, GPE, 2
+Vaccine, PERSON, 2
+Congo, GPE, 2
+Brazil, GPE, 2
+Islam, ORG, 2
+West Australian, NORP, 2
+5000, CARDINAL, 2
+Brad Hazzard, PERSON, 1
+Kyly Clarke, PERSON, 1
+Kelsey Lee, PERSON, 1
+MORE than half, CARDINAL, 1
+the start of last year, DATE, 1
+Federal Government, ORG, 1
+The Federal Government, ORG, 1
+ABC News Health, ORG, 1
+Ms Hanson, GPE, 1
+460,000, CARDINAL, 1
+The World Health Organisation, ORG, 1
+Somali, NORP, 1
+more than 460,000, CARDINAL, 1
+618, CARDINAL, 1
+Riley Hughes, PERSON, 1
+No Jab No Pay requires, LAW, 1
+Aussies, ORG, 1
+19, DATE, 1
+ABC News Cervical, ORG, 1
+as early as next year, DATE, 1
+Rohingya, NORP, 1
+Bangladeshi, NORP, 1
+9, CARDINAL, 1
+13-year-old, DATE, 1
+John Piesse, PERSON, 1
+Melbourne, PERSON, 1
+Pneumonia, GPE, 1
+Indian, NORP, 1
+Wholesale, ORG, 1
+Kohli, PERSON, 1
+Evening Express, ORG, 1
+March 9 Good, DATE, 1
+evening, TIME, 1
+today, DATE, 1
+North America, LOC, 1
+Nationals, LOC, 1
+NSW Labor, ORG, 1
+Childcare, ORG, 1
+Labor, ORG, 1
+Opposition, ORG, 1
+Sharia, NORP, 1
+Ten years, DATE, 1
+Steve Dickson, PERSON, 1
+Intense, NORP, 1
+7yo, ORDINAL, 1
+New South Wales, LOC, 1
+seven-year-old, DATE, 1
+weeks, DATE, 1
+The West Australian Telethon Kids Institute, LOC, 1
+Jason Waithman, PERSON, 1
+500,000, MONEY, 1
+Flu, PERSON, 1
+Robert  Booy, PERSON, 1
+Sue Rodger-Withers, PERSON, 1
+Kennedy Jr, PERSON, 1
+Bankstown Hospital, ORG, 1
+280, CARDINAL, 1
+two-year-old, DATE, 1
+last month, DATE, 1
+SA Power, ORG, 1
+2016, DATE, 1
+Family First, PRODUCT, 1
+September, DATE, 1
+AIHW, ORG, 1
+SYDNEY, GPE, 1
+MenB, CARDINAL, 1
+International, WORK_OF_ART, 1
+the World Health Organisation, ORG, 1
+RRP, ORG, 1
+three days, DATE, 1
+Bankstown-Lidcombe Hospital Babies, ORG, 1
+million, CARDINAL, 1
+State, ORG, 1
+Perth - ABC News, ORG, 1
+two, CARDINAL, 1
+12%, PERCENT, 1
+Blood, PRODUCT, 1
+first-half, DATE, 1
+12 per cent, MONEY, 1
+full-year, DATE, 1
+January, DATE, 1
+just two months, DATE, 1
+the Royal Adelaide Hospital, ORG, 1
+RAH, ORG, 1
+Tasmanian, NORP, 1
+The Royal Children's Hospital, ORG, 1
+almost 50 per cent, MONEY, 1
+Mother, PERSON, 1
+Detroit, GPE, 1
+Michigan, GPE, 1
+seven days, DATE, 1
+Perth Waldorf School - ABC News, ORG, 1
+The South Australian Government, ORG, 1
+SBS News Health, ORG, 1
+Mars, LOC, 1
+NASA, ORG, 1
+Carmel Johnston, PERSON, 1
+One Nation, ORG, 1
+days, DATE, 1
+Malcolm Turnbull's, PERSON, 1
+earlier this week, DATE, 1
+five year old, DATE, 1
+At least three, CARDINAL, 1
+W - ABC News, ORG, 1
+Eliza Bradley, PERSON, 1
+The West Australian Call, LOC, 1
+Bell Potter, ORG, 1
+Imugene Cancer, PERSON, 1
+Imugene Ltd, PERSON, 1
+The NSW Health, ORG, 1
+Rosie, PERSON, 1
+Rosie Anderson, PERSON, 1
+two months old, DATE, 1
+Vic Gay, PERSON, 1
+David Wolfe Supplements, PERSON, 1
+Mr Vitamins, PERSON, 1
+David "Avocado" Wolfe, PERSON, 1
+4-year-old, DATE, 1
+four-year-old, DATE, 1
+About 4,000, CARDINAL, 1
+2017, CARDINAL, 1
+JUST a few days ago, DATE, 1
+Jordan DeRosier, PERSON, 1
+Justin, ORG, 1
+seven-month-old, DATE, 1
+Sloan, PERSON, 1
+the Therapeutic Goods Administration, ORG, 1
+two months, DATE, 1
+daily, DATE, 1
+weekly, DATE, 1
+UK, GPE, 1
+more than 2000, CARDINAL, 1
+Therapeutic Goods Association, ORG, 1
+Dodgy, ORG, 1
+Influenza, NORP, 1
+The West Australian Babies, GPE, 1
+ABC News National, ORG, 1
+Tasmania, ORG, 1
+TGA, ORG, 1
+Kitty Flanagan, PERSON, 1
+almost 80 per cent, MONEY, 1
+ABC News Close to 80, ORG, 1
+95, CARDINAL, 1
+the Victorian Government, ORG, 1
+94.9 per cent, MONEY, 1
+five-year-olds, DATE, 1
+Australia AUSTRALIANS, ORG, 1
+April, DATE, 1
+Somalian, NORP, 1
+UN, ORG, 1
+some 360,000, CARDINAL, 1
+one month, DATE, 1
+Two-year-old, DATE, 1
+Lawrence, PERSON, 1
+B., PERSON, 1
+A year, DATE, 1
+94, CARDINAL, 1
+Breakthrough, PERSON, 1
+Italian, NORP, 1
+the European Commission, ORG, 1
+the coming months, DATE, 1
+Melbourne Controversial, ORG, 1
+Vaxxed, PERSON, 1
+The Village Cinemas, FAC, 1
+Crown, ORG, 1
+Seven, CARDINAL, 1
+five years ago, DATE, 1
+Malaria, GPE, 1
+Queensland, PERSON, 1
+Veterinarians, NORP, 1
+this week, DATE, 1
+Pauline Hanson Insiders, PERSON, 1
+ONE, CARDINAL, 1
+The West Australian, NORP, 1
+Fox, ORG, 1
+20th, ORDINAL, 1
+Century Fox, PERSON, 1
+Royal Flying Doctor Service, ORG, 1
+VIC, ORG, 1
+TOUGHER, ORG, 1
+The World Health Organization (WHO, ORG, 1
+40, CARDINAL, 1
+Brazilian, NORP, 1
+at least 40, CARDINAL, 1
+nine, CARDINAL, 1
+26, CARDINAL, 1
+Perth Waldorf, PERSON, 1
+Health Department, ORG, 1
+Johaan Kaa, PERSON, 1
+2014, DATE, 1
+State Government, ORG, 1
+all 15 to, CARDINAL, 1
+19-year-olds, DATE, 1
+Pfizer, PERSON, 1
+Prevenar 13, ORG, 1
+thousands, CARDINAL, 1
+40 per cent, MONEY, 1
+Pauline Hanson’s, PERSON, 1
+DOCTORS, ORG, 1
+more than 2,000, CARDINAL, 1
+Riann Karan, PERSON, 1
+Australian Broadcasting Corporation, ORG, 1
+at least 10, CARDINAL, 1
+the WA Health Department, ORG, 1
+Zika, NORP, 1
+the 1940s, DATE, 1
+the start of the week, DATE, 1
+Immunisation Coalition, ORG, 1
+Ruby, PERSON, 1
+Fourth, ORDINAL, 1
+Perth school, FAC, 1
+fourth, ORDINAL, 1
+Perth Waldorf School, ORG, 1
+more than a week, DATE, 1
+year 11, DATE, 1
+Bioverativ, PERSON, 1
+NEW VACCINE AGAINST HUMAN PAPILLOMAVIRUS, ORG, 1
+No Jab No Play', LAW, 1
+Families, ORG, 1
+No Jab No Play, WORK_OF_ART, 1
+6000, CARDINAL, 1
+More than 6000, CARDINAL, 1
+2040, CARDINAL, 1
+24, CARDINAL, 1
+ABC News, WORK_OF_ART, 1
+The State Government, ORG, 1
+The West Australian Almost, LOC, 1
+at least 2400, CARDINAL, 1
+JUST a year, DATE, 1
+the Queensland Government, ORG, 1
+Robert F. Kennedy, PERSON, 1
+Albany, GPE, 1
+Tasmania - ABC News Albany, ORG, 1
+Lloyd Dunham, PERSON, 1
+Tasmania, GPE, 1
+29th, DATE, 1
+29th, ORDINAL, 1
+NSW, GPE, 1
+Pauline Hanson's, PERSON, 1
+4073, DATE, 1
+1013, DATE, 1
+Doctors, ORG, 1
+Robbie Buchan's, PERSON, 1
+Three years ago, DATE, 1
+Robbie Buchan, PERSON, 1
+The West Australian, GPE, 1
+Two, CARDINAL, 1
+Gardasil, GPE, 1
+90%, PERCENT, 1
+a decade, DATE, 1

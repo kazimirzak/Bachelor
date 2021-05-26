@@ -1,0 +1,95 @@
+entity, label, count
+German, NORP, 5
+US, GPE, 4
+India, GPE, 3
+16, CARDINAL, 3
+Indian, NORP, 3
+Germany, GPE, 3
+Brexit, PERSON, 3
+French, NORP, 3
+Baden-Württemberg, GPE, 2
+Austin, GPE, 2
+Britain, GPE, 2
+Theresa, GPE, 2
+EU, ORG, 2
+White House, ORG, 2
+Spanish, NORP, 2
+New Orleans, GPE, 2
+first, ORDINAL, 2
+Tuesday, DATE, 2
+Kashmir, LOC, 2
+American, NORP, 2
+50 million, CARDINAL, 1
+North Sea, LOC, 1
+Lower Saxony's, PERSON, 1
+Nipah, ORG, 1
+at least 10, CARDINAL, 1
+Kerala, GPE, 1
+nearly 100, CARDINAL, 1
+Plane, ORG, 1
+New York′s JFK, ORG, 1
+Airbus, ORG, 1
+JFK, PERSON, 1
+Dubai, GPE, 1
+Formula, PERSON, 1
+One, CARDINAL, 1
+Hamilton′s, ORG, 1
+Raikkonen, ORG, 1
+Lewis Hamilton, PERSON, 1
+fifth, ORDINAL, 1
+third, ORDINAL, 1
+Kimi Raikkonen, PERSON, 1
+Sebastian Vettel, PERSON, 1
+fourth, ORDINAL, 1
+China, GPE, 1
+Beijing, GPE, 1
+2016, DATE, 1
+May, DATE, 1
+UK, GPE, 1
+Frank Sieren, PERSON, 1
+The Secret Service, ORG, 1
+the White House, FAC, 1
+36, CARDINAL, 1
+Cabinet, ORG, 1
+David Davis, PERSON, 1
+Donald Trump, PERSON, 1
+G7, GPE, 1
+this winter, DATE, 1
+a century ago, DATE, 1
+more than 50 million, CARDINAL, 1
+Ashley Byrne, PERSON, 1
+Jambi, GPE, 1
+USA, GPE, 1
+three, CARDINAL, 1
+Singapore, GPE, 1
+two, CARDINAL, 1
+South Korean, NORP, 1
+Trump-Kim, ORG, 1
+Trump, PERSON, 1
+North Korean, NORP, 1
+Kim, PERSON, 1
+Paris, GPE, 1
+a fourth weekend, DATE, 1
+Macron, PERSON, 1
+hundreds, CARDINAL, 1
+dozens, CARDINAL, 1
+Africa, LOC, 1
+Cameroon, ORG, 1
+Sunday, DATE, 1
+English, LANGUAGE, 1
+the African Union, ORG, 1
+Trump-Macron, ORG, 1
+30.04.2018, CARDINAL, 1
+Emmanuel Macron, PERSON, 1
+Aachen Cathedral - UNESCO World Heritage, PERSON, 1
+1978, DATE, 1
+Aachen Cathedral, PERSON, 1
+UNESCO World Heritage Site, ORG, 1
+Burhan Wani′s, PERSON, 1
+08.07.2018, CARDINAL, 1
+Burhan Wani, PERSON, 1
+Massive, PRODUCT, 1
+Bavaria | DW Travel, ORG, 1
+Bavaria, GPE, 1
+Russian, NORP, 1
+Johns Hopkins University, ORG, 1

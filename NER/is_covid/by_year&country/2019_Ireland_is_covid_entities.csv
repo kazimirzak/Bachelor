@@ -1,0 +1,1821 @@
+entity, label, count
+Coronation Street, FAC, 428
+ITV, ORG, 137
+Coronation Street's, FAC, 94
+first, ORDINAL, 76
+Coronation Street’s, ORG, 69
+tonight, TIME, 69
+Coronation Street's, ORG, 61
+Gary Windass, PERSON, 59
+CORONATION Street’s, ORG, 55
+next week, DATE, 55
+Katie McGlynn, PERSON, 46
+Alan Halsall, PERSON, 43
+Carla Connor, PERSON, 42
+Sinead Tinker, PERSON, 41
+David Platt, PERSON, 39
+Robert Preston, PERSON, 36
+The Irish Sun CORONATION Street, ORG, 32
+Brooke Vincent, PERSON, 31
+Lucy Fallon, PERSON, 31
+Jack P Shepherd, ORG, 29
+Faye Brookes, PERSON, 28
+Kym Marsh, PERSON, 27
+Peter Barlow, PERSON, 27
+Weatherfield, ORG, 26
+Michelle Connor, PERSON, 26
+Coronation Street, LOC, 26
+Nick Tilsley, PERSON, 23
+last night, TIME, 23
+Shona Ramsey, PERSON, 22
+Corrie, PERSON, 22
+Rana Habeeb, PERSON, 22
+two, CARDINAL, 21
+Rick Neelan, PERSON, 21
+Tisha Merry, PERSON, 21
+Rana, PERSON, 20
+Coronation Street, ORG, 19
+today, DATE, 19
+Christmas, DATE, 18
+Carla, PERSON, 17
+Kate, PERSON, 17
+Underworld, ORG, 16
+one, CARDINAL, 15
+Vicky, GPE, 15
+Vicky Jefferies, PERSON, 15
+three, CARDINAL, 15
+Chris Quinten, PERSON, 15
+Gemma Winter, PERSON, 15
+Daniel Osbourne, PERSON, 15
+Robert, PERSON, 14
+Sam Aston, PERSON, 14
+yesterday, DATE, 13
+CORONATION Street, ORG, 13
+Sarah Platt, PERSON, 13
+Eileen Grimshaw, PERSON, 13
+The Irish Sun CORONATION Street’s, ORG, 13
+Gary, PERSON, 13
+Coronation Street’s, FAC, 13
+Gemma, PERSON, 13
+Adam Barlow, PERSON, 13
+Tracy Barlow, PERSON, 13
+Andrew Whyment, PERSON, 13
+Roy Cropper, PERSON, 12
+Sally Metcalfe, PERSON, 12
+Yasmeen Nazir, PERSON, 12
+second, ORDINAL, 12
+Shona, ORG, 12
+seven, CARDINAL, 12
+Steve McDonald, PERSON, 12
+Tim Metcalfe, PERSON, 11
+Sinead Tinker’s, PERSON, 11
+61, DATE, 11
+Tina O'Brien, PERSON, 11
+Mikey North, PERSON, 11
+Geoff Metcalfe, PERSON, 11
+Catherine Tyldesley, PERSON, 11
+Lucy-Jo Hudson, PERSON, 11
+26-year-old, DATE, 11
+The Irish Sun, ORG, 11
+Gareth Gates, PERSON, 11
+Jane Danson, PERSON, 11
+Clayton Hibbs, PERSON, 11
+Irish, NORP, 10
+Coronas, ORG, 10
+Helen Flanagan, PERSON, 10
+CORONATION Street’s, FAC, 10
+Simon Gregson, PERSON, 10
+Michelle, PERSON, 9
+Sinead, PERSON, 9
+Briony Gardner, PERSON, 9
+27-year-old, DATE, 9
+last year, DATE, 9
+Ali Neeson, PERSON, 9
+this evening, TIME, 9
+Andy Whyment, PERSON, 9
+Bhavna Limbachia, PERSON, 9
+Clayton, PERSON, 9
+36-year-old, DATE, 9
+31-year-old, DATE, 9
+Chesney Brown, ORG, 9
+Tim, PERSON, 8
+British, NORP, 8
+Beverley Callard, PERSON, 8
+Michelle Keegan, PERSON, 8
+Daniel, ORG, 8
+Sun, ORG, 8
+The Irish Sun CORONATION Street, WORK_OF_ART, 8
+Chesney, PERSON, 8
+Adam Crofts, PERSON, 8
+Kean Bryan, PERSON, 8
+Chesney Brown, PERSON, 8
+Dubai, GPE, 8
+Kirk Sutherland, PERSON, 8
+Kate Connor, PERSON, 8
+Sophie Webster, PERSON, 8
+Hollyoaks, ORG, 8
+Liz McDonald, PERSON, 7
+13 years, DATE, 7
+four, CARDINAL, 7
+Ben Price, PERSON, 7
+Britain, GPE, 7
+25, DATE, 7
+Maria Connor, PERSON, 7
+Gemma Winter’s, ORG, 7
+Sue Cleaver, PERSON, 7
+Jack P Shepherd, PERSON, 7
+Rob Mallard, PERSON, 7
+Chris Gascoyne, PERSON, 7
+Thai, NORP, 7
+last week, DATE, 7
+31, DATE, 6
+Sally Dynevor, PERSON, 6
+Alison King, PERSON, 6
+this week, DATE, 6
+21-year-old, DATE, 6
+Eileen, PERSON, 6
+Inside Coronation Street, ORG, 6
+Sam Aston's, PERSON, 6
+Sam Aston’s, PERSON, 6
+five, CARDINAL, 6
+BBC, ORG, 6
+Michael Le, PERSON, 6
+Kevin Webster, PERSON, 6
+Briony, PERSON, 6
+Maria, PERSON, 6
+Celeb, ORG, 6
+David, PERSON, 6
+Natalie, PERSON, 6
+Sam Robertson, PERSON, 6
+Tom Leech, PERSON, 6
+Julia Goulding, PERSON, 6
+a week, DATE, 6
+Ryan Thomas, PERSON, 6
+Nicola Thorp, ORG, 6
+Caribbean, LOC, 6
+Beth Tinker, PERSON, 6
+four years, DATE, 6
+EU, ORG, 5
+CORRIE, ORG, 5
+Julia Goulding, GPE, 5
+Cobbles, PERSON, 5
+HELEN Flanagan, PERSON, 5
+Sunday, DATE, 5
+Cathy, PERSON, 5
+London, GPE, 5
+earlier this year, DATE, 5
+James Burrows, PERSON, 5
+Instagram, ORG, 5
+Cobbles, ORG, 5
+SHE, ORG, 5
+UK, GPE, 5
+35-year-old, DATE, 5
+60th, ORDINAL, 5
+9, CARDINAL, 5
+third, ORDINAL, 5
+tomorrow night, TIME, 5
+12, CARDINAL, 5
+2016, DATE, 5
+Hanni Treweek, PERSON, 5
+Fiona Middleton, PERSON, 5
+KYM Marsh, ORG, 5
+Bethany Platt, PERSON, 5
+Ryan Connor, PERSON, 5
+New York, GPE, 5
+Charlie Lawson, PERSON, 5
+Scott Sinclair, PERSON, 5
+this year, DATE, 5
+millions, CARDINAL, 5
+MICHELLE Keegan, PERSON, 5
+Tristan Gemmill, PERSON, 5
+the British Soap Awards, ORG, 5
+Evelyn, PERSON, 5
+Audrey, PERSON, 5
+Joe Duttine, PERSON, 5
+Ryan Prescott, PERSON, 5
+six, CARDINAL, 5
+Ryan Russell, PERSON, 5
+Maha Vajiralongkorn, PERSON, 5
+The Irish Sun CORRIE, ORG, 5
+21, DATE, 5
+Audrey Roberts, PERSON, 5
+Sue Nicholls, PERSON, 5
+Robyn Delabarre, PERSON, 5
+Dancing On Ice, ORG, 5
+First, ORDINAL, 5
+Alexandra Mardell, PERSON, 5
+Lisa George, PERSON, 5
+30, DATE, 5
+Christmas Day, DATE, 4
+Brexit, PERSON, 4
+Sally, PERSON, 4
+Bernie, PERSON, 4
+Bernie Winter, PERSON, 4
+Kashmir, LOC, 4
+Dublin, GPE, 4
+Friday, DATE, 4
+Rosie Webster, PERSON, 4
+Coronation, NORP, 4
+this afternoon, TIME, 4
+Ken Barlow, PERSON, 4
+months, DATE, 4
+three months, DATE, 4
+Vicky, PERSON, 4
+Billy, PERSON, 4
+Paul Foreman, PERSON, 4
+six years, DATE, 4
+Ireland, GPE, 4
+White House, ORG, 4
+US, GPE, 4
+Curly, GPE, 4
+CORONATION Street, LOC, 4
+Emma Brooker’s, ORG, 4
+Ali, PERSON, 4
+Love Island, LOC, 4
+Geoff, ORG, 4
+Abi Franklin, PERSON, 4
+Kirk, PERSON, 4
+two months, DATE, 4
+Wayne Hayes, PERSON, 4
+this weekend, DATE, 4
+Bistro, LOC, 4
+Hanni, PERSON, 4
+this summer, DATE, 4
+42, DATE, 4
+Kerri Quinn, PERSON, 4
+Malcolm Hebden, PERSON, 4
+23, CARDINAL, 4
+night, TIME, 4
+Hollywood, GPE, 4
+Norris Cole, ORG, 4
+Nick, ORG, 4
+Thailand, GPE, 4
+thousands, CARDINAL, 4
+Shayne Ward, PERSON, 4
+Derek Milligan, PERSON, 4
+Sair Khan, PERSON, 4
+Callum Harrison, PERSON, 4
+20 years, DATE, 4
+Tyrone Dobbs, PERSON, 4
+Helen Worth, PERSON, 4
+Corrie, GPE, 4
+England, GPE, 4
+Jake, PERSON, 4
+Sean Ward, PERSON, 4
+Amy Barlow, PERSON, 4
+44, DATE, 4
+Kate Ford, PERSON, 4
+Rana Nazir, PERSON, 4
+Greg Wood, PERSON, 4
+Mediterranean, LOC, 4
+CORONATION Street, FAC, 4
+43, DATE, 3
+Syria, GPE, 3
+Eiffel Tower, PERSON, 3
+Paris, GPE, 3
+Jack, PERSON, 3
+Cropper, PERSON, 3
+Carla Connor’s, PERSON, 3
+32, DATE, 3
+Charles Bronson, PERSON, 3
+Paula Williamson, PERSON, 3
+Mark Wright, PERSON, 3
+Strictly Come Dancing, WORK_OF_ART, 3
+Brian Tilsley, PERSON, 3
+DAVID Platt, PERSON, 3
+Seb, PERSON, 3
+Jan Lozinski, PERSON, 3
+Wales, GPE, 3
+Angela Griffin, PERSON, 3
+Mongolian, NORP, 3
+Antony Cotton, PERSON, 3
+Jed, PERSON, 3
+the coming weeks, DATE, 3
+Ben Silver, PERSON, 3
+Faye Windass, PERSON, 3
+Katherine Kelly’s, PERSON, 3
+Katherine Kelly, PERSON, 3
+Cheshire, GPE, 3
+TWO, CARDINAL, 3
+last night’s, TIME, 3
+This week, DATE, 3
+earlier today, TIME, 3
+Qasim Akhtar, PERSON, 3
+Kevin Kennedy, PERSON, 3
+Hope Stape, PERSON, 3
+Inside Coronation Street's, ORG, 3
+29, CARDINAL, 3
+Manchester, DATE, 3
+Shobna Gulati, ORG, 3
+Daniel Brocklebank, PERSON, 3
+the week, DATE, 3
+next year, DATE, 3
+Platt, PERSON, 3
+Roy, PERSON, 3
+seven years, DATE, 3
+LUCY Fallon, ORG, 3
+Iain Macleod, PERSON, 3
+Sally Metcalfe’s, PERSON, 3
+thousands of pounds, MONEY, 3
+Danny, PERSON, 3
+Iceland, GPE, 3
+2020, DATE, 3
+David Platt’s, PERSON, 3
+Pat Phelan, PERSON, 3
+Mikey, PERSON, 3
+BGT, ORG, 3
+EastEnders, ORG, 3
+Hollyoaks, GPE, 3
+Jim McDonald, PERSON, 3
+Manchester, GPE, 3
+half, CARDINAL, 3
+FAYE Brookes, PERSON, 3
+Jenny Bradley, PERSON, 3
+Norris, PERSON, 3
+Bernie, ORG, 3
+Gail, PERSON, 3
+Rita Sullivan, PERSON, 3
+India, GPE, 3
+Indian, NORP, 3
+Jack P. Shepherd, PERSON, 3
+Bangkok, GPE, 3
+Alina, ORG, 3
+Harry Visinoni, PERSON, 3
+STEVE McDonald, PERSON, 3
+10, CARDINAL, 3
+42-year-old, DATE, 3
+just four months, DATE, 3
+Beth Morgan, PERSON, 3
+Ryan, PERSON, 3
+hour-long, TIME, 3
+18-year-old, DATE, 3
+40-year-old, DATE, 3
+JANE Danson, PERSON, 3
+Dancing on Ice, ORG, 3
+ITV’s, ORG, 3
+Rita Tanner, PERSON, 3
+the years, DATE, 3
+Seb Franklin, PERSON, 3
+Xmas, PERSON, 3
+Sienna, PERSON, 3
+Leanne Battersby, PERSON, 3
+Imran Habeeb, PERSON, 3
+Emma, PERSON, 3
+Jim McDonald’s, PERSON, 3
+38, DATE, 3
+14-year-old, DATE, 3
+March, DATE, 3
+Corona, GPE, 3
+Two, CARDINAL, 3
+Yasmeen, ORG, 3
+Yesterday, DATE, 3
+Michelle Collins, PERSON, 3
+Emma Brooker, PERSON, 3
+Emma Brooker, ORG, 3
+Sophie, ORG, 3
+Faye Brookes, ORG, 3
+later this year, DATE, 3
+Tommy Orpington, PERSON, 3
+Mary Taylor, PERSON, 3
+BROOKE Vincent, PERSON, 3
+Kylie Platt, PERSON, 3
+15 years, DATE, 3
+Eileen Derbyshire, PERSON, 3
+Josh Tucker, PERSON, 3
+Victoria Ekanoye, PERSON, 3
+26, CARDINAL, 3
+Angie Appleton, PERSON, 3
+Manchester, PRODUCT, 3
+Rovers Return, PERSON, 3
+Gina, PERSON, 3
+Brooke Vincent’s, PERSON, 3
+Archie, LOC, 2
+Archie, PERSON, 2
+2019, DATE, 2
+Lisa Smith, PERSON, 2
+Martina Devlin, PERSON, 2
+DUP, ORG, 2
+Northern Ireland, GPE, 2
+Carla Connor's, PERSON, 2
+3, CARDINAL, 2
+Beverley Callard, ORG, 2
+Bistro, ORG, 2
+The Irish Sun CORONATION Street’s, WORK_OF_ART, 2
+Kel Hinchley, PERSON, 2
+a number of years, DATE, 2
+Rovers, ORG, 2
+Bill Tarmey’s, PERSON, 2
+Carl Piddington, PERSON, 2
+Columbine, ORG, 2
+North Carolina, GPE, 2
+Michelle Connor, ORG, 2
+21st, ORDINAL, 2
+80k, MONEY, 2
+Colson Smith, PERSON, 2
+Brian, PERSON, 2
+Kabin, PERSON, 2
+William Roache, PERSON, 2
+Mike Thalassitis, PERSON, 2
+Chris Quinten’s, PERSON, 2
+Got Talent, ORG, 2
+Barbara Nice, PERSON, 2
+Last night, TIME, 2
+Inside Coronation Street’s, ORG, 2
+Alex Bain, PERSON, 2
+five months, DATE, 2
+Simon Barlow, PERSON, 2
+Sarah, PERSON, 2
+last night's, TIME, 2
+Barbados, ORG, 2
+this morning, TIME, 2
+MacLeod, ORG, 2
+six weeks, DATE, 2
+Robert Preston's, PERSON, 2
+Sinead Tinker's, PERSON, 2
+last month, DATE, 2
+THE White House, ORG, 2
+2014, DATE, 2
+Watts, LOC, 2
+CHARLES Bronson, PERSON, 2
+Betty Driver, PERSON, 2
+John Stape, PERSON, 2
+Vicky Jefferies', PERSON, 2
+Briony Aston, PERSON, 2
+Sun HELEN Flanagan, PERSON, 2
+The Irish Sun FORMER Coronation Street, ORG, 2
+Asha, PERSON, 2
+53-year-old, DATE, 2
+another year, DATE, 2
+Hope, PERSON, 2
+Brighton, PERSON, 2
+Irish Mirror Online Coronation Street, ORG, 2
+Mikey North’s, PERSON, 2
+Rachael, PERSON, 2
+Nick’s, ORG, 2
+David’s, PERSON, 2
+36, DATE, 2
+David Neilson, PERSON, 2
+2012, DATE, 2
+48, DATE, 2
+Snow White, PERSON, 2
+Sally Metcalfe's, PERSON, 2
+Ex Coronation Street, ORG, 2
+Richard Fleeshman, PERSON, 2
+Michelle FINALLY, PERSON, 2
+May, DATE, 2
+3st, ORDINAL, 2
+Irish Mirror Online, ORG, 2
+54-year-old, DATE, 2
+Manchester, LOC, 2
+Shona, PERSON, 2
+April, DATE, 2
+Gemma Winter's, ORG, 2
+weeks, DATE, 2
+Sylvia, PERSON, 2
+more than 20 years, DATE, 2
+McDonalds, FAC, 2
+Andrew Hall, PERSON, 2
+Butterflies, PERSON, 2
+65, DATE, 2
+Monday, DATE, 2
+Yasmeen Nazir’s, PERSON, 2
+Shelley King, PERSON, 2
+Bistro, FAC, 2
+Andy, PERSON, 2
+LGBT, ORG, 2
+the weekend, DATE, 2
+32-year-old, DATE, 2
+Ryan Connor, ORG, 2
+Norris Cole's, ORG, 2
+Danny Dyer, PERSON, 2
+Jeff Hordley, PERSON, 2
+the Inside Soap Awards, ORG, 2
+Gucci, PERSON, 2
+Laura, PERSON, 2
+59, DATE, 2
+evening, TIME, 2
+Valentine, PERSON, 2
+Valentine’s Day, ORG, 2
+Parliament, ORG, 2
+Spanish, NORP, 2
+Monday night, TIME, 2
+Robyn, GPE, 2
+Chris, PERSON, 2
+eBay, ORG, 2
+as little as £5, MONEY, 2
+Scott Sinclair, ORG, 2
+25,000, MONEY, 2
+ISIS, ORG, 2
+Tyrone Dobbs, ORG, 2
+Japan, GPE, 2
+Naruhito, PERSON, 2
+Kevin Webster's, PERSON, 2
+Donald Trump’s, PERSON, 2
+Crown, ORG, 2
+Lorraine Kelly, PERSON, 2
+Theresa, GPE, 2
+Kevin Webster’s, PERSON, 2
+Debbie, PERSON, 2
+1985, DATE, 2
+23-year-old, DATE, 2
+New Year's Eve, EVENT, 2
+New Year’s Eve, EVENT, 2
+35, DATE, 2
+JACK P Shepherd, ORG, 2
+holiday, DATE, 2
+Ofcom, ORG, 2
+68, CARDINAL, 2
+Gail Platt, PERSON, 2
+Mickey Thomas, PERSON, 2
+Manchester CORONATION Street’s, ORG, 2
+Saturday, DATE, 2
+Brooke Vincent's, PERSON, 2
+Grimsby, PERSON, 2
+at least one, CARDINAL, 2
+this Christmas, DATE, 2
+TheJournal.ie - Breaking Irish and International News, WORK_OF_ART, 2
+Troubles, ORG, 2
+61-year-old, DATE, 2
+Nick, PERSON, 2
+Kal, ORG, 2
+14, DATE, 2
+Kris Jenner, PERSON, 2
+September, DATE, 2
+Killer Clayton Hibbs, PERSON, 2
+Gemma’s, ORG, 2
+Sally Carman, PERSON, 2
+fifth, ORDINAL, 2
+THREE MONTHS, DATE, 2
+50, CARDINAL, 2
+Dev, PERSON, 2
+Jimmi Harkishin, PERSON, 2
+43rd, ORDINAL, 2
+The Sun Online, ORG, 2
+America, GPE, 2
+Adam Rickitt, PERSON, 2
+Donald Trump, PERSON, 2
+British Soap Awards, ORG, 2
+300, CARDINAL, 2
+St Lucia, PERSON, 2
+Scott, PERSON, 2
+Bushtucker, ORG, 2
+Barbara Knox, PERSON, 2
+Polish, NORP, 2
+Wednesday, DATE, 2
+30-year-old, DATE, 2
+Christmas Eve, DATE, 2
+Seb Franklin, FAC, 2
+Celtic, NORP, 2
+Saffron Barker, PERSON, 2
+56, CARDINAL, 2
+Sinead Osbourne’s, PERSON, 2
+25-year-old, DATE, 2
+Bailey, PERSON, 2
+Dave McPhillips, PERSON, 2
+Tisha Merry ‘, PERSON, 2
+Idol, ORG, 2
+Alan Halsall's, PERSON, 2
+Kate Connor's, ORG, 2
+Suthida, PERSON, 2
+2013, DATE, 2
+Jade Rowan, PERSON, 2
+Tyrone, ORG, 2
+Rhodri, PERSON, 2
+Paddy Power, ORG, 2
+Temple Street Hospital, ORG, 2
+Temple Street Children's Hospital, FAC, 2
+76-year-old, DATE, 2
+Shona Ramsay, FAC, 2
+Max, PERSON, 2
+Rana Habeeb’s, PERSON, 2
+Saira, PERSON, 2
+33, DATE, 2
+hundreds, CARDINAL, 2
+Tim Dowd, PERSON, 2
+Coronation Street CORONATION Street’s, FAC, 2
+Maldives, ORG, 2
+Tracy Shaw, PERSON, 2
+16 years, DATE, 2
+Julia Goulding, LOC, 2
+Ben, PERSON, 2
+Jean Fergusson, PERSON, 2
+74, DATE, 2
+Sally Dexter, PERSON, 2
+Max Bowden, PERSON, 2
+KATIE McGlynn, PERSON, 2
+Tuesday, DATE, 2
+Alison King, ORG, 2
+Curacao, GPE, 2
+Health, ORG, 2
+Freewinds, PRODUCT, 2
+Surrey, PERSON, 2
+Matt Goss, PERSON, 2
+Gemma Winter, ORG, 2
+Katie McGylnn, PERSON, 2
+Warsaw, GPE, 2
+the Church of Scientology, ORG, 2
+Emma Brooker's, ORG, 2
+Vegas, GPE, 2
+34, DATE, 2
+FOUR, CARDINAL, 2
+Lewis Devine, PERSON, 2
+Roy’s, ORG, 2
+Tracy, PERSON, 2
+Tiny, ORG, 2
+Jan, PERSON, 2
+Aaron, PERSON, 2
+Gordon, PERSON, 2
+Dan Brocklebank, PERSON, 2
+Rick, PERSON, 2
+Cindy Beale, PERSON, 2
+six months, DATE, 2
+Nikki Sanderson, PERSON, 2
+34-year-old, DATE, 2
+Katie, PERSON, 2
+13, CARDINAL, 2
+Lucy-Jo Hudson CORONATION Street, PERSON, 2
+Julie Hesmondhalgh, PERSON, 2
+CORONATION, NORP, 2
+835,000, MONEY, 2
+Paula, PERSON, 2
+Evelyn Plummer, PERSON, 2
+PETER Barlow, PERSON, 2
+Seb Franklin’s, FAC, 2
+5, CARDINAL, 2
+Faye Brooks, PERSON, 2
+Gareth Gates, ORG, 2
+Jane Hazlegrove, PERSON, 2
+Eileen Phelan, PERSON, 2
+earlier this month, DATE, 2
+the National Television Awards, ORG, 2
+Alan Halsall’s, PERSON, 2
+30,000, MONEY, 2
+Bruno Langley, PERSON, 2
+Skins, PERSON, 2
+Liam Boyle, PERSON, 2
+Jack Shepherd, PERSON, 2
+The Irish Sun CORONATION, WORK_OF_ART, 2
+McDonald, ORG, 2
+Stephanie Davis, PERSON, 2
+28, DATE, 2
+Jeff, PERSON, 2
+Thursday, DATE, 2
+Rachel, PERSON, 2
+Holby City, GPE, 2
+Ken Morley, PERSON, 2
+SEVEN Coronation Street, ORG, 2
+the year, DATE, 2
+&#, MONEY, 2
+Denise Welch, PERSON, 2
+Natalie Horrocks, PERSON, 2
+45th, ORDINAL, 2
+Josh, PERSON, 2
+Norris Cole’s, ORG, 2
+Ken Barlow’s, PERSON, 2
+HIDDEN, ORG, 2
+Richard, PERSON, 2
+Dolly Rose-Campbell, PERSON, 2
+Alcoholics Anonymous, PERSON, 2
+Lanre, PERSON, 2
+Majorca, ORG, 2
+SEVEN, CARDINAL, 2
+Irene Sutcliffe, PERSON, 2
+18 months, DATE, 2
+Ibiza, ORG, 2
+Dev, GPE, 2
+Elizabeth II, PERSON, 2
+Geoff Metcalfe’s, PERSON, 2
+Katie McGlynn’s, PERSON, 2
+James Bond, PERSON, 2
+The X Factor All Stars, WORK_OF_ART, 2
+Leona Lewis, PERSON, 2
+Alexandra Burke, PERSON, 2
+Alex Warner, PERSON, 2
+Liam Bairstow, PERSON, 2
+Cheryl Fergison, PERSON, 2
+BBC1, PERSON, 2
+Channel 5, ORG, 2
+New Year, EVENT, 2
+Alex Oxlade-Chamberlain, PERSON, 2
+Jane Hazelgrove, PERSON, 2
+15 minutes, TIME, 2
+125,000, MONEY, 2
+Simon Lennon, PERSON, 2
+Jamaica, GPE, 2
+Sally Lindsay, PERSON, 2
+Michael Bailey, PERSON, 2
+SECOND, ORDINAL, 2
+Bertie, PERSON, 2
+Cassie Bradley, PERSON, 2
+Pat Phelan’s, PERSON, 2
+Keira Knightley, PERSON, 2
+Army, ORG, 2
+Ryan Sidebottom, PERSON, 2
+80 million, CARDINAL, 2
+less than two days, DATE, 2
+Charlie de Melo, PERSON, 2
+Steve, PERSON, 2
+Mesut Ozil’s, PERSON, 2
+Rick Neeson, PERSON, 2
+Eiffel Tower, FAC, 2
+Casualty, ORG, 2
+Denise Welch’s, PERSON, 2
+Louis Healy, PERSON, 2
+Euro 2020, DATE, 2
+19 years, DATE, 2
+Lewis Archer, PERSON, 2
+Sally Ann Matthews, PERSON, 1
+Jennie McAlphine, PERSON, 1
+Jamie Lomas, PERSON, 1
+Kylie Jenner, PERSON, 1
+The Irish Sun KYLIE Jenner, ORG, 1
+Travis Scott, PERSON, 1
+Irish Islamic State, ORG, 1
+The Irish Sun THE Eiffel Tower, ORG, 1
+Metcalfe, PERSON, 1
+Rhian Sugden, PERSON, 1
+Oliver Mellor, PERSON, 1
+The Irish Sun MODEL Rhian Sugden, ORG, 1
+Oliver M, PERSON, 1
+Jeffrey, PERSON, 1
+Teddy, PERSON, 1
+Chesney, ORG, 1
+Manchester, WORK_OF_ART, 1
+Kashmiris, LOC, 1
+11 days, DATE, 1
+New York Times, ORG, 1
+MARK Wright, PERSON, 1
+this winter, DATE, 1
+Kym Marsh, FAC, 1
+Michelle Connor CORRIE, PERSON, 1
+10-year, DATE, 1
+the age of 52, ten years, DATE, 1
+Carl, PERSON, 1
+the TRIC Awards, EVENT, 1
+20, CARDINAL, 1
+Sol Pais, PERSON, 1
+18, DATE, 1
+Charlotte, GPE, 1
+a day, DATE, 1
+last day, DATE, 1
+their wedding day, DATE, 1
+Julia Goulding, ORG, 1
+Shona Ramsay, PERSON, 1
+Gail Platt’s, PERSON, 1
+Craig Tinker, PERSON, 1
+Cobbles, NORP, 1
+FURIOUS Rita Sullivan, PERSON, 1
+Kabin, GPE, 1
+Adam Croft TINA O’Brien, PERSON, 1
+Adam Croft, PERSON, 1
+87, DATE, 1
+Brian Tilsey, PERSON, 1
+Robyn Delabarr, PERSON, 1
+YOGA, ORG, 1
+MONTHS, ORG, 1
+Peter Kay’s, PERSON, 1
+Phoenix Nights, ORG, 1
+BRITAIN, GPE, 1
+Peter Kay’s, GPE, 1
+Prince Charles, PERSON, 1
+Clarence House, ORG, 1
+Charles, PERSON, 1
+71 years old, DATE, 1
+62 years ago, DATE, 1
+Angela Griffin’s, PERSON, 1
+Victorian, NORP, 1
+the last few months, DATE, 1
+17, DATE, 1
+less than five months, DATE, 1
+17-year-old, DATE, 1
+Gary - Irish Mirror Online Coronation Street, ORG, 1
+Dozens, CARDINAL, 1
+Virgin Atlantic, LOC, 1
+Gatwick, PERSON, 1
+Gatwick Airport, FAC, 1
+Diana, PERSON, 1
+Lorna Laidlaw, PERSON, 1
+Mrs Tembe, PERSON, 1
+days, DATE, 1
+NYE, ORG, 1
+Sarah-Louise Platt, PERSON, 1
+Furious Coronation Street, ORG, 1
+FIVE, CARDINAL, 1
+FURIOUS Coronation Street, ORG, 1
+Iain MacLeod, PERSON, 1
+just a month, DATE, 1
+Sophie Coates, ORG, 1
+Azealia Banks, ORG, 1
+AZEALIA Banks, ORG, 1
+Antony Cotton CORONATION Street, PERSON, 1
+The Irish Sun BILLY Mayhew, ORG, 1
+’ NEXT WEEKEND, ORG, 1
+next weekend, DATE, 1
+Bistro, LAW, 1
+Tristan Ge, PERSON, 1
+GARY Windass’, PERSON, 1
+Reagan, PERSON, 1
+Pettman CORONATION Street’s, ORG, 1
+Faye Windass’s, PERSON, 1
+18, CARDINAL, 1
+Becky Granger, PERSON, 1
+46-year-old, DATE, 1
+David Stuckey, PERSON, 1
+Wicklow Mountains' ', LOC, 1
+1831, DATE, 1
+Weatherfield’s, ORG, 1
+Washington DC, GPE, 1
+Zeedan Nazir, PERSON, 1
+Fed, ORG, 1
+Samia Longchamb, PERSON, 1
+Boris Johnson's, PERSON, 1
+BORIS JOHNSON, PERSON, 1
+July 2019, DATE, 1
+KEVIN Kennedy, PERSON, 1
+between 1983 and 2003, DATE, 1
+Salfo, GPE, 1
+Paula Williamson's, PERSON, 1
+Paula Williamson’s, PERSON, 1
+39th, ORDINAL, 1
+Coronati, PERSON, 1
+The Irish Sun HE’S, ORG, 1
+91 in 2011, DATE, 1
+next month, DATE, 1
+Birmingham, GPE, 1
+Ker, PERSON, 1
+Dr Ali – The Irish Sun EMMA Brooker, PERSON, 1
+Alina Pop's, ORG, 1
+Ruxandra Porojnicu, GPE, 1
+25-year-, QUANTITY, 1
+Molly-Mae Hague’s, ORG, 1
+Beauty launch party, WORK_OF_ART, 1
+Instragam, NORP, 1
+Yasmeen CORONATION Street, PERSON, 1
+39-year-old, DATE, 1
+Co, PERSON, 1
+Tom, PERSON, 1
+Alfie, PERSON, 1
+Gemma Winter's ', PERSON, 1
+The Irish Sun CORONATION Streets, WORK_OF_ART, 1
+DIE, ORG, 1
+Eileen’s, ORG, 1
+EILEEN Grimshaw, PERSON, 1
+Rory Cowan, PERSON, 1
+Norris Cole’s, PRODUCT, 1
+Coronation Street - Irish Mirror, FAC, 1
+Dubliner, ORG, 1
+year, DATE, 1
+Gary’s, PERSON, 1
+Nicola Rubinstein, ORG, 1
+The Irish Sun Visit, ORG, 1
+Charlie De Melo, PERSON, 1
+Royal Sussex County Hospital, ORG, 1
+33-year-old, DATE, 1
+STRICTLY Come Dancing, LAW, 1
+Whitney Houston, PRODUCT, 1
+Houston, GPE, 1
+Pat Hou, PERSON, 1
+29-year-old, DATE, 1
+Craig H, PERSON, 1
+Cork, GPE, 1
+Richard Fitzpatrick, PERSON, 1
+Vincent Hogan, PERSON, 1
+Augusta National, ORG, 1
+the North Sea, LOC, 1
+Charley Webb & Jamie Lomas, ORG, 1
+Adam & Ryan Thomas, ORG, 1
+Kym M, ORG, 1
+Beatrice, PERSON, 1
+Harry, PERSON, 1
+William, PERSON, 1
+Edoardo Mapelli Mozzi, PERSON, 1
+July 17, 2020, DATE, 1
+Mike Pence’s, PERSON, 1
+16, CARDINAL, 1
+Shona Ramsey’s, PERSON, 1
+Kylie Platt’s, PERSON, 1
+MAJOR, ORG, 1
+24, CARDINAL, 1
+Johana Villafane, PERSON, 1
+O’Co, ORG, 1
+Ali Neeson - putting, PERSON, 1
+the coming months, DATE, 1
+MUM, ORG, 1
+Cheltenham, PERSON, 1
+ROY Cropper, ORG, 1
+Sam Robertson SOAP, PERSON, 1
+Cobbles’, ORG, 1
+62-year-old, DATE, 1
+Yasmeen Nazir, ORG, 1
+ten years, DATE, 1
+10th, ORDINAL, 1
+Gray O'Brien, PERSON, 1
+Gray O’Brien, ORG, 1
+David Platt's, PERSON, 1
+Pat, PERSON, 1
+The Irish Sun THERE’S, ORG, 1
+Rana Habeeb CORRIE, PERSON, 1
+Daniel, PERSON, 1
+Tyro, PERSON, 1
+JO Hudson, PERSON, 1
+Faye Brookes' ', ORG, 1
+Faye Brookes’, PERSON, 1
+Gerard McCarthy, PERSON, 1
+Golden Buzzer', PERSON, 1
+Golden Buzzer, PERSON, 1
+Sinead Osbourne, PERSON, 1
+NORRIS Cole, ORG, 1
+Lucy Fallon’s, PERSON, 1
+23, DATE, 1
+Equine, PERSON, 1
+174 British yards, QUANTITY, 1
+the end of the weekend, DATE, 1
+Seb Franklin CORONATION Street, FAC, 1
+Eastern European, NORP, 1
+Romanian, NORP, 1
+Ruxandra Porojnicu, PERSON, 1
+Jim McDonald -, PERSON, 1
+31, CARDINAL, 1
+39, DATE, 1
+Lucy, PERSON, 1
+date night, TIME, 1
+Manchester CORONATION Street’s, GPE, 1
+a date night, TIME, 1
+just a day, DATE, 1
+five per cent, MONEY, 1
+Kean Bryan BROOKE Vincent, PERSON, 1
+Tenerife, GPE, 1
+almost a million, CARDINAL, 1
+Brian Tisley, PERSON, 1
+Shamima Begum's, PERSON, 1
+Syrian, NORP, 1
+Tasnime Akunjee , PERSON, 1
+the Middle Eastern, LOC, 1
+Peter Barlow ', PERSON, 1
+Tokyo, GPE, 1
+Empress Masako, PERSON, 1
+hundreds of thousands, CARDINAL, 1
+Star Wars', WORK_OF_ART, 1
+Star Wars’ Han Solo, WORK_OF_ART, 1
+23 weeks, DATE, 1
+Jack Webster, PERSON, 1
+Kevin, PERSON, 1
+Tom Hanks, PERSON, 1
+TOM Hanks, PERSON, 1
+this day, DATE, 1
+Freda, PERSON, 1
+Freda, GPE, 1
+FIRE, ORG, 1
+The US Secret Service, ORG, 1
+Lolly, ORG, 1
+Rana Nazir’s, PERSON, 1
+NETFLIX, ORG, 1
+Olivia Colman, ORG, 1
+Queen Elizabeth II, PERSON, 1
+Hayley Tamaddon, PERSON, 1
+Lorraine HAYLEY Tamaddon, PERSON, 1
+Lorraine, PERSON, 1
+DEBBIE Webster, PERSON, 1
+Le Royal Meridien, FAC, 1
+Air Europa, LOC, 1
+Amsterdam, GPE, 1
+Mexx, PERSON, 1
+Kean - Irish Mirror Online, ORG, 1
+October, DATE, 1
+SEVENTH, ORG, 1
+seventh, ORDINAL, 1
+Kel Hinchley, ORG, 1
+Joe Alessi, PERSON, 1
+Manchester city, GPE, 1
+Oldham, PERSON, 1
+Oldham, GPE, 1
+Piccadilly Gardens, PERSON, 1
+Lauren Shippey, PERSON, 1
+14, CARDINAL, 1
+Gemma, GPE, 1
+Chesney’s, ORG, 1
+Last month, DATE, 1
+The White House, ORG, 1
+Washington, GPE, 1
+NBC News, ORG, 1
+Weatherfield, GPE, 1
+Phil Jones, PERSON, 1
+51, CARDINAL, 1
+Tish Merry, PERSON, 1
+Manchester on, DATE, 1
+’ Sinead Tinker, WORK_OF_ART, 1
+Amy Winehouse, PERSON, 1
+Craig Els, PERSON, 1
+Pakistan, GPE, 1
+Imran Khan, PERSON, 1
+43-year-old, DATE, 1
+the last 14 years, DATE, 1
+the Royal Gazette, ORG, 1
+66-year-old, DATE, 1
+14 months, DATE, 1
+tomorrow, DATE, 1
+Protestant, NORP, 1
+Beverl, PERSON, 1
+Billy Mayhew’s, PERSON, 1
+Blanche, ORG, 1
+Norris Cole, PERSON, 1
+Blanche Hunt, PERSON, 1
+Buddhist, NORP, 1
+Brahmin, PERSON, 1
+Alina, NORP, 1
+ITV’s Lor, ORG, 1
+Peter Ash, PERSON, 1
+New Year’s Day, EVENT, 1
+Carla Connor, PRODUCT, 1
+Weatherfield CORONATION Street, ORG, 1
+Stephen Gately's, PERSON, 1
+more than 26 years, DATE, 1
+Kylie Minogue, PERSON, 1
+UK Home Office, ORG, 1
+the Home Office, ORG, 1
+Fizz, ORG, 1
+Hayley Tamaddon ', PERSON, 1
+Lisa Dingle’s, PERSON, 1
+Del Dingle, PERSON, 1
+CORONATION Street’s Brooke Vincent, ORG, 1
+Liz McDonald's, PERSON, 1
+four months, DATE, 1
+Instagram, PRODUCT, 1
+Liz McDonald BEVERLEY Callard, PERSON, 1
+a short three week, DATE, 1
+the Irish Mirror's, ORG, 1
+Adam Barlow's, PERSON, 1
+Adam Barlow’s, PERSON, 1
+February, DATE, 1
+Paul Forman, PERSON, 1
+Billy Mayhew, PERSON, 1
+Rick Neelan CORONATION Street’s, PERSON, 1
+DJ, ORG, 1
+GARY Windass, PERSON, 1
+Joe Duttine’s, PERSON, 1
+8.30pm tonight, TIME, 1
+1918, DATE, 1
+three-day, DATE, 1
+two month, DATE, 1
+Cobbles, PRODUCT, 1
+Dev Alahan, PERSON, 1
+Maria Connor - Irish Mirror Online Coronation Street’s, PERSON, 1
+four-year-old, DATE, 1
+French, NORP, 1
+Kwik Save, PERSON, 1
+Tracy Barlow YASMEEN Nazir, ORG, 1
+last year - 21, DATE, 1
+1million, MONEY, 1
+21, CARDINAL, 1
+SINEAD Tinker, PERSON, 1
+Bethany Platt’s, PERSON, 1
+Corrie , GPE, 1
+1997-1999, DATE, 1
+Over 1,000, CARDINAL, 1
+LA, GPE, 1
+Roxanne Pallett, PERSON, 1
+PTSD, DATE, 1
+Dancing on Ice's, PERSON, 1
+Sylvain Longchambon, PERSON, 1
+DOI, ORG, 1
+Kirk’s, ORG, 1
+68, DATE, 1
+Adam, PERSON, 1
+Scott Thomas, PERSON, 1
+The Irish Sun BETWEEN, ORG, 1
+Adam Thomas, PERSON, 1
+Sinead Tinker CORONATION Street’s, PERSON, 1
+Imran CORONATION Street’s, PERSON, 1
+Imran, ORG, 1
+Robyn AnnaMarie Delabarre, ORG, 1
+TRACY Barlow, PERSON, 1
+Robert’s, PERSON, 1
+The Irish Sun SALLY Lindsay, ORG, 1
+46 year-old, DATE, 1
+Shelley Unwin, PERSON, 1
+2001, DATE, 1
+85, DATE, 1
+the seventies, DATE, 1
+85-year-old, DATE, 1
+Michelle CORONATION Street, PERSON, 1
+Rita, EVENT, 1
+Emma Brooker CORONATION Street, ORG, 1
+Alina Pop’s, ORG, 1
+30, CARDINAL, 1
+Strictly’s, ORG, 1
+19, DATE, 1
+Russian, NORP, 1
+RUSSIAN, NORP, 1
+the Dancing on Ice, ORG, 1
+week, DATE, 1
+40, CARDINAL, 1
+40, DATE, 1
+November, DATE, 1
+Sinead Osbourne's, PERSON, 1
+Johnny -, PERSON, 1
+Ian Bartholomew, PERSON, 1
+27, DATE, 1
+June, DATE, 1
+Shona Ramsey's, PERSON, 1
+David Platt CORONATION Street’s, PERSON, 1
+the past 12 years, DATE, 1
+Dave, PERSON, 1
+Six, CARDINAL, 1
+THE Six Nations, ORG, 1
+Rugby World Cup, ORG, 1
+Adam’s, PERSON, 1
+Sarah Platt KISS, PERSON, 1
+Tina O'Brien CORONATION Street’s, PERSON, 1
+Tina, PERSON, 1
+IMRAN Habeeb, PERSON, 1
+’ Adam Barlow, WORK_OF_ART, 1
+Italy, GPE, 1
+Jim McDonald EMMA Brooker, PERSON, 1
+two weeks ago, DATE, 1
+the past six weeks, DATE, 1
+37, DATE, 1
+2000, DATE, 1
+11th, ORDINAL, 1
+FUNERAL, NORP, 1
+Amy, PERSON, 1
+Tyler, PERSON, 1
+century-old, DATE, 1
+Yasmeen Na, ORG, 1
+Franklin Wolf Silver, PERSON, 1
+Shona Platt, PERSON, 1
+Franklin Wo, PERSON, 1
+Jack P Shepherd's, ORG, 1
+400, MONEY, 1
+Hanni CORONATION Street, ORG, 1
+the Dominican Republic, GPE, 1
+Michelle Keegan - News, PERSON, 1
+Tina McIntyre, PERSON, 1
+Coronation St., FAC, 1
+2008, DATE, 1
+FHM, ORG, 1
+Max George, PERSON, 1
+TOWIE, ORG, 1
+early 2015, DATE, 1
+Nightmare, ORG, 1
+Tyrone’s, ORG, 1
+The Irish Sun NIGHTMARE, ORG, 1
+Jennie McAlpine, PERSON, 1
+Jad, PERSON, 1
+Ryan Giggs, PERSON, 1
+Coronation Street', FAC, 1
+RYAN Giggs’, PERSON, 1
+41-year-old, DATE, 1
+Sweden, GPE, 1
+SUSPECTED, ORG, 1
+Swedish, NORP, 1
+Freddie Starr, ORG, 1
+2010, DATE, 1
+Max Platt’s, PERSON, 1
+Kim Vithana, PERSON, 1
+Jade Goody's, PERSON, 1
+March 2009, DATE, 1
+Sally Dynevor, FAC, 1
+Sally Webster, PERSON, 1
+Lorra, ORG, 1
+Doctors FORMER Coronation Street, ORG, 1
+Sean, PERSON, 1
+Air India, ORG, 1
+8-HOUR, TIME, 1
+the Air India, ORG, 1
+Stansted Airport, FAC, 1
+Chris Quinten's, PERSON, 1
+Mykonos CORONATION Street, ORG, 1
+Mykonos, PRODUCT, 1
+40 years, DATE, 1
+Chris’, PERSON, 1
+Sun Onl, PERSON, 1
+13-year-old, DATE, 1
+Kym Marsh ', PERSON, 1
+million, CARDINAL, 1
+The Sun’s Bizarre, ORG, 1
+Edinburgh, GPE, 1
+Lewis Archer's, PERSON, 1
+AUDREY Roberts, PERSON, 1
+Lewis Archer’s, PERSON, 1
+the Rovers CORONATION Street, ORG, 1
+two half an hour, TIME, 1
+RYAN Thomas, PERSON, 1
+40,000, MONEY, 1
+TARDIS, ORG, 1
+Maxine Peacock, ORG, 1
+YOUNGER, ORG, 1
+16 years ago, DATE, 1
+Ridden, GPE, 1
+Mikey North CORONATION Street’s, PERSON, 1
+Louise Mitchell, PERSON, 1
+Ben Mitchell, PERSON, 1
+three years, DATE, 1
+month, DATE, 1
+a month, DATE, 1
+Brit, PERSON, 1
+25 years, DATE, 1
+Marina, LOC, 1
+Dorothy Hoyle, PERSON, 1
+Emmerdale, PERSON, 1
+Inside Soap Awards, ORG, 1
+Jason Gardiner, PERSON, 1
+JASON Gardiner, PERSON, 1
+47-year-old, DATE, 1
+Mutiny, ORG, 1
+55, CARDINAL, 1
+The World Health Organization, ORG, 1
+dozens, CARDINAL, 1
+Samoa, ORG, 1
+Ray, PERSON, 1
+Feisty Michelle, PERSON, 1
+Robert’s, ORG, 1
+Faye, ORG, 1
+Suzanne Mole, PERSON, 1
+Italy - Irish Mirror Online Tina, ORG, 1
+the Lake District, LOC, 1
+their wedding, DATE, 1
+six months ago, DATE, 1
+Governments, PERSON, 1
+Pete Barlow's, PERSON, 1
+ROY CROPPER, ORG, 1
+his 24 years, DATE, 1
+Charlotte, PERSON, 1
+afternoon, TIME, 1
+Manchester’s, ORG, 1
+2006, DATE, 1
+3.5 hours, TIME, 1
+more than three, CARDINAL, 1
+daily, DATE, 1
+Peter Andre’s, PERSON, 1
+Emily, PERSON, 1
+PETER Andre, PERSON, 1
+Emily MacDonagh, PERSON, 1
+Mysterious Girl, ORG, 1
+Instagram BROS, FAC, 1
+Tracy Bar, PERSON, 1
+Vincent Kompany's, PERSON, 1
+Vincent Kompany, PERSON, 1
+123-years-old, DATE, 1
+123, CARDINAL, 1
+Tanzilya Bisembeyeva, PERSON, 1
+Nicholas II, PERSON, 1
+his third holiday in a month, DATE, 1
+Ole Gunnar Solskjaer, PERSON, 1
+Manchester United, GPE, 1
+Mauricio Pochettino, PERSON, 1
+Tottenham, PERSON, 1
+the first full season, DATE, 1
+next summer, DATE, 1
+Killer Dundon, PERSON, 1
+Aladdin, ORG, 1
+Gangland, PERSON, 1
+Wayne Dundon, PERSON, 1
+23-hour, TIME, 1
+Michael Le Vell, PERSON, 1
+Simon, PERSON, 1
+Kate McGlynn, PERSON, 1
+420, CARDINAL, 1
+hundreds of feet, QUANTITY, 1
+Poland, GPE, 1
+Prendergast, LOC, 1
+Derby, PERSON, 1
+Derby, GPE, 1
+Oaks and Coronation Cup, ORG, 1
+fourth, ORDINAL, 1
+Jacqueline Jossa, PERSON, 1
+Faye Windass AMY Barlow, PERSON, 1
+Brooke Vincent HELEN Flanagan, PERSON, 1
+two years, DATE, 1
+Shona Ramsey, PERSON, 1
+Las Vegas, GPE, 1
+QUADRUPLETS, ORG, 1
+one night, TIME, 1
+Street, ORG, 1
+TWICE, PRODUCT, 1
+Alan Halsall CORONATION Street, PERSON, 1
+Steve, GPE, 1
+this New Year's Eve -, EVENT, 1
+Paula Cunlif, PERSON, 1
+24 minute, TIME, 1
+The Irish Sun WOMEN, ORG, 1
+Corrie, LOC, 1
+28, CARDINAL, 1
+Helen, GPE, 1
+’ Emmerdale’s, WORK_OF_ART, 1
+All Star Musical, PRODUCT, 1
+Joel Dommett, PERSON, 1
+London Hughes, PERSON, 1
+Amy Walsh, PERSON, 1
+11lb, QUANTITY, 1
+Aussie, GPE, 1
+Ascot - Irish Mirror Online Coronation Street's, ORG, 1
+Royal Ascot, ORG, 1
+40 YEARS, DATE, 1
+Audrey Robert's, PERSON, 1
+Voggle, PERSON, 1
+Heartbroken Vicky, PERSON, 1
+London Bridge Acts, FAC, 1
+last week’s, DATE, 1
+PAUL Foreman, PERSON, 1
+next week's, DATE, 1
+Coronation Street’s Bethany Platt, ORG, 1
+Nathan’s, ORG, 1
+Nathan Curtis, PERSON, 1
+ROBERT Preston’s, PERSON, 1
+Michelle Connor’s, PERSON, 1
+2011, DATE, 1
+Weatherfie, PERSON, 1
+Twitter, PERSON, 1
+a decade, DATE, 1
+two-week, DATE, 1
+Corrie, PRODUCT, 1
+Manchester Pride, ORG, 1
+Ben Perryman, PERSON, 1
+Michael, PERSON, 1
+Nikki Sanderson, ORG, 1
+Maxine Minniver, PERSON, 1
+Cha, PERSON, 1
+Faye Brookes CORONATION Street, ORG, 1
+months-long, DATE, 1
+Bethany Platt’s, ORG, 1
+66, DATE, 1
+Dowd, PERSON, 1
+Drogheda, ORG, 1
+Wheatfield Prison DANGEROUS, GPE, 1
+Wheatfield Prison, FAC, 1
+Drogheda, GPE, 1
+24-year-old, DATE, 1
+just months, DATE, 1
+36-year, DATE, 1
+ONE week after first date, DATE, 1
+one week, DATE, 1
+Julie, PERSON, 1
+49, DATE, 1
+Martha, PERSON, 1
+Corrie’s, ORG, 1
+Sally Dynevor, LOC, 1
+Lucy-Jo Hudson CORONATION Street’s, PERSON, 1
+Maria Connor, ORG, 1
+Sophie Webster’s, ORG, 1
+42, CARDINAL, 1
+one-night, TIME, 1
+Daniel LIES, PERSON, 1
+Stacey Fowler, PERSON, 1
+The Irish Sun IT’S, ORG, 1
+Sarah Platt CORONATION Street’s, PERSON, 1
+Lucy Fallon's, PERSON, 1
+LUCY Fallon’s, ORG, 1
+Barcelona, GPE, 1
+Xavi Hernandez, PERSON, 1
+45 years, DATE, 1
+July, DATE, 1
+GERMAN, NORP, 1
+New Year’s, EVENT, 1
+OWN, ORG, 1
+YouTu, PERSON, 1
+Sophie CORONATION Street, ORG, 1
+June last year, DATE, 1
+Charlie de Melo ', PERSON, 1
+10 months - Irish Mirror Online, DATE, 1
+10-month, DATE, 1
+75-year-old, DATE, 1
+Lucy Jo Hudson, PERSON, 1
+Donna-Marie Quinn, PERSON, 1
+2018, DATE, 1
+Kate Connor’s, ORG, 1
+DEATH THREATS, PRODUCT, 1
+The Irish Sun STRICTLY, ORG, 1
+Tyler Jefferies, PERSON, 1
+Amy TRACY Barlow, PERSON, 1
+Tyler Jefferies, ORG, 1
+the next two weeks, DATE, 1
+Coronation Str, PERSON, 1
+Elf, ORG, 1
+Coronation Street KYM Marsh, FAC, 1
+West End, GPE, 1
+Broadway, FAC, 1
+Kym, PERSON, 1
+Kate Connor CORONATION Street, PERSON, 1
+MEDICS, ORG, 1
+Mongolia, GPE, 1
+Russia, GPE, 1
+Eleven, CARDINAL, 1
+Alina CORONATION Street, NORP, 1
+870k, PRODUCT, 1
+YouTuber, ORG, 1
+870,000, MONEY, 1
+five-year-old, DATE, 1
+Sienna-Rae, PERSON, 1
+LORRAINE KELLY, PERSON, 1
+daytime, TIME, 1
+Faye Brookes', ORG, 1
+GARETH Gates, PERSON, 1
+KATHERINE Kelly, PERSON, 1
+74, MONEY, 1
+Alan Halsall FINALLY, PERSON, 1
+Abe, PERSON, 1
+second day, DATE, 1
+Five, CARDINAL, 1
+9pm all week, DATE, 1
+the New Year, EVENT, 1
+Earlier today, TIME, 1
+the show seven days, DATE, 1
+SERIAL KILLER - Irish Mirror Online Coronation Street’s, WORK_OF_ART, 1
+Vicky ROBERT Preston’s, PERSON, 1
+Rick Neelan’s, PERSON, 1
+Earlier this month, DATE, 1
+Corrie’s R, ORG, 1
+’s, NORP, 1
+Moors Murderers, ORG, 1
+Mary, PERSON, 1
+Malcolm Hebden's, PERSON, 1
+the first of this evening’s, DATE, 1
+Corr, ORG, 1
+Adam Woodward, PERSON, 1
+The Irish Sun HOLLYOAKS, ORG, 1
+Best Soap, PERSON, 1
+a big night, TIME, 1
+Chester, ORG, 1
+eight, CARDINAL, 1
+11, CARDINAL, 1
+Gary Windass', PERSON, 1
+Gary Windass’, PERSON, 1
+RITA Tanner, PERSON, 1
+three-hour, TIME, 1
+Coronation Str, LOC, 1
+Kate Ford's, PERSON, 1
+Kate Ford’s, PERSON, 1
+Tracy Barlow’s, PERSON, 1
+Natalie Watkins, PERSON, 1
+Audrey Roberts’s, PERSON, 1
+Corrie, NORP, 1
+Evacuations, PRODUCT, 1
+about half an hour, TIME, 1
+Lisa George CORONATION Street, PERSON, 1
+EMMA Brooker, ORG, 1
+Sophie Webster's, PERSON, 1
+Taoiseach, PERSON, 1
+Ministers Government, ORG, 1
+Bodyguard, Killing Eve, ORG, 1
+Eileen Grimshaw’s, PERSON, 1
+Mexx S J Bryan, PERSON, 1
+Valentines Day, EVENT, 1
+60, CARDINAL, 1
+60s, DATE, 1
+Gail Rodwell, PERSON, 1
+Gail’s, ORG, 1
+the Maldives CORONATION Street’s, ORG, 1
+The Irish Sun IT, WORK_OF_ART, 1
+Sinead Tinker death, PERSON, 1
+JUST a few weeks ago, DATE, 1
+Charlie Condou, PERSON, 1
+Marcus Dent, ORG, 1
+between 2007 and 2014, DATE, 1
+THREE, CARDINAL, 1
+the United States, GPE, 1
+Fiona Middleton's, PERSON, 1
+Ang, ORG, 1
+David - but, PERSON, 1
+Vicki Jeffries, PERSON, 1
+Kym Marsh's, PERSON, 1
+Kym Marsh’s, ORG, 1
+two days, DATE, 1
+ALAN Halsall, PERSON, 1
+the night, TIME, 1
+three year, DATE, 1
+CORONATION Street Iain Macleod, ORG, 1
+Emily Bishop, FAC, 1
+80th, ORDINAL, 1
+Bill Roache, PERSON, 1
+Michelle Keegan CORONATION Street, PERSON, 1
+Busty Helen Flanagan, PERSON, 1
+BUSTY Helen Flanagan, PERSON, 1
+Manchester yesterday, DATE, 1
+The Irish Sun SOAP, ORG, 1
+SIMON Barlow, PERSON, 1
+Ken, PERSON, 1
+Faye Brookes QUITS, ORG, 1
+Mustang, PERSON, 1
+Mustang, GPE, 1
+45k, MONEY, 1
+Sue Cleaver’s, PERSON, 1
+55-year-old, DATE, 1
+56-year-old, DATE, 1
+Love Island's, LOC, 1
+LOVE Island’s, ORG, 1
+20-year-old, DATE, 1
+next’, DATE, 1
+Lucy Fall, PERSON, 1
+Smithfield, GPE, 1
+Fans, NORP, 1
+88, CARDINAL, 1
+88, DATE, 1
+1968, DATE, 1
+Maggie Clegg, PERSON, 1
+seven-year, DATE, 1
+tonight’s hour-long, TIME, 1
+Nic, PERSON, 1
+Appleton, PERSON, 1
+Actress Victoria Ekanoye, PERSON, 1
+ITV IT’S, ORG, 1
+Super Soap Week, EVENT, 1
+SEVEN DAYS , DATE, 1
+, GPE, 1
+PREGNANT Coronation Street, ORG, 1
+Goodnight Sweetheart, ORG, 1
+Goodnight Sweetheart, PERSON, 1
+Victor McGuire, PERSON, 1
+Ron Wheatcroft, PERSON, 1
+Clayton Hibb, PERSON, 1
+Bethany – The Irish Sun CORONATION Street, WORK_OF_ART, 1
+autumn 2020, DATE, 1
+Autumn 2020, DATE, 1
+44-year-old, DATE, 1
+Sean Tulley, PERSON, 1
+Jack P Shepherd CORONATION Street’s, PERSON, 1
+The Emily Bishop, WORK_OF_ART, 1
+Jess Murphy, PERSON, 1
+St Pat's, PERSON, 1
+0, CARDINAL, 1
+St Pat’s, PERSON, 1
+Oriel Park, FAC, 1
+Euro, FAC, 1
+first-half, DATE, 1
+NAKED, ORG, 1
+NAKED Instagram, ORG, 1
+Callum Harrison CORONATION Street’s, PERSON, 1
+Kylie Platt’, PERSON, 1
+Leah Dale, PERSON, 1
+Geoff Metcalfe's, PERSON, 1
+Josh LIES, PERSON, 1
+Rana CORONATION Street’s, ORG, 1
+Halloween, DATE, 1
+Shayne Ward, FAC, 1
+Louis Walsh CORONATION Street’s, PERSON, 1
+Louis Walsh, PERSON, 1
+Shayne, PERSON, 1
+37-year-old, DATE, 1
+200,000, MONEY, 1
+200k, MONEY, 1
+Dancing on Ice’s, ORG, 1
+Adam Crofts TINA O’Brien, PERSON, 1
+Carla Connor CORRIE’S, ORG, 1
+over two thousand, CARDINAL, 1
+seven decades, DATE, 1
+Emma Brook, LOC, 1
+Emma Broker, PERSON, 1
+just £25, MONEY, 1
+4 hours, TIME, 1
+Landlady Jenny Bradley, PERSON, 1
+just £6, MONEY, 1
+hours, TIME, 1
+15, CARDINAL, 1
+Twitter, PRODUCT, 1
+Manchester night, TIME, 1
+Gareth Gates, GPE, 1
+80, CARDINAL, 1
+GEMMA Winter, ORG, 1
+NTA Awards, ORG, 1
+Serial Drama Performance, WORK_OF_ART, 1
+Innocent Eileen, PERSON, 1
+this autumn, DATE, 1
+Chesney Brown, PRODUCT, 1
+GEMMA Winter’s, ORG, 1
+Newcomer Bernie, PERSON, 1
+Heather Trott, PERSON, 1
+between 2007 to 2012, DATE, 1
+ITV’s Coronation Street, ORG, 1
+7.30pm, CARDINAL, 1
+France, GPE, 1
+Over 80,000, CARDINAL, 1
+5,000, CARDINAL, 1
+Nasa, ORG, 1
+Sun, GPE, 1
+N, GPE, 1
+Paul Foreman’s, PERSON, 1
+Paul, PERSON, 1
+Helen Worth CORONATION Street, PERSON, 1
+Tina O’Brien, PERSON, 1
+500, MONEY, 1
+Ken Barlow', PERSON, 1
+the coming days, DATE, 1
+Katie McGlynn's, PERSON, 1
+Coronation Street EX Corrie, FAC, 1
+just five months, DATE, 1
+15 Days, DATE, 1
+Danny O'Reilly, PERSON, 1
+January' - Irish Mirror Online, DATE, 1
+NEW Coronation Street, ORG, 1
+Ellen Taylor, PERSON, 1
+Callum Logan, PERSON, 1
+PERRIE Edwards, ORG, 1
+Shona Gulati, FAC, 1
+the Shakespeare Globe Theatre, ORG, 1
+BERNIE Winter, ORG, 1
+500,000, MONEY, 1
+Coronation Street KYM Marsh, ORG, 1
+Warrington, GPE, 1
+the end of last year, DATE, 1
+The Coronation S, ORG, 1
+Maureen Lipman, PERSON, 1
+Alan Halsall MAUREEN Lipman, PERSON, 1
+Lucy Mecklenburgh's, PERSON, 1
+TONIGHT, TIME, 1
+hour, TIME, 1
+Nicola Thorp ', ORG, 1
+Hanna Treweek, PERSON, 1
+Samia Longchambon, PERSON, 1
+LOCKDOWN, ORG, 1
+Shona, GPE, 1
+Faye Brookes CORONATION Street, PERSON, 1
+CORONATION Street, GPE, 1
+Har, NORP, 1
+Platt’s, ORG, 1
+Julia Goulding's, GPE, 1
+the Britain’s, ORG, 1
+previous years, DATE, 1
+Sun NIKKI Sanderson, PERSON, 1
+Virgin Media One's, ORG, 1
+Media One’s, ORG, 1
+Irish Coronation Street, ORG, 1
+ACTRESS Beverley Callard, ORG, 1
+Beverley, PERSON, 1
+late night, TIME, 1
+The Irish Sun GARETH Gates, ORG, 1
+| Irish Examiner, ORG, 1
+Sarah Platt’s, PERSON, 1
+just days ago, DATE, 1
+I’m A Celebrity, ORG, 1
+Matt Milburn, PERSON, 1
+Greg, PERSON, 1
+LAST year, DATE, 1
+’m A Celeb, ORG, 1
+Adam Crofts', PERSON, 1
+Italian, NORP, 1
+New Year’, EVENT, 1
+Ronan, ORG, 1
+Parisian, NORP, 1
+Shelly Unwin, PERSON, 1
+between 2001 and 2006, DATE, 1
+Tyrone Dobb’s, ORG, 1
+Holly Willoughby, PERSON, 1
+This Morning, TIME, 1
+Viewers, ORG, 1
+59-year, DATE, 1
+Coronation Street - News, FAC, 1
+1960, DATE, 1
+Jill Halfpenny, PERSON, 1
+JILL Halfpenny, ORG, 1
+the gym two years ago, DATE, 1
+Heartbroken Daniel Osbourne, ORG, 1
+10,000, MONEY, 1
+The Irish Sun, WORK_OF_ART, 1
+KILLING, ORG, 1
+Robert Preston’s, PERSON, 1
+Tris, PERSON, 1
+Corrie’s Fiz and, ORG, 1
+The Irish Sun FISHY Coronation Street, ORG, 1
+Abi Franklin CORONATION Street’s, PERSON, 1
+Carla &, ORG, 1
+sixth, ORDINAL, 1
+Elle Mulvaney, PERSON, 1
+Coronation Street’s Connor McIntyre, ORG, 1
+Connor McIntyre, PERSON, 1
+The Irish Sun CORONATION Street’s Emma Brooker, ORG, 1
+Angela Griffi, PERSON, 1
+Islands, GPE, 1
+West Cork, GPE, 1
+LISA George, PERSON, 1
+Soapland, GPE, 1
+Bet Lynch, GPE, 1
+Bet Lynch, PERSON, 1
+this month, DATE, 1
+the Middle East, LOC, 1
+14-years, DATE, 1
+Aidan, GPE, 1
+a year, DATE, 1
+one-year, DATE, 1
+final day, DATE, 1
+Grand Palace, FAC, 1
+Dancing on Ice CORONATION Street, ORG, 1
+Pussycat Doll, ORG, 1
+Melody Thornton, PERSON, 1
+The Irish Sun ANDY Whyment, ORG, 1
+the I’m A Celeb, ORG, 1
+38-year-old, DATE, 1
+DEADLY, ORG, 1
+nine months last year, DATE, 1
+Cherylee Houston ', PERSON, 1
+Cherylee Houston, PERSON, 1
+Charles Bronson ', PERSON, 1
+38 today, DATE, 1
+Roy Cropper's, PERSON, 1
+Hayley, PERSON, 1
+Wayne, PERSON, 1
+Nicola Thorpe, PERSON, 1
+Nicola, ORG, 1
+EMMERDALE, ORG, 1
+16th, ORDINAL, 1
+UEFA European Champion, ORG, 1
+Peaky Blinders, PERSON, 1
+Peaky Blinders, WORK_OF_ART, 1
+Hairdresser Lyndsey Yarwood, PERSON, 1
+Sue Cleaver, FAC, 1
+The Irish Sun ARSENAL, ORG, 1
+Ozil, GPE, 1
+Sead, PERSON, 1
+25 yards, QUANTITY, 1
+Tisha, PERSON, 1
+Charles Lawson, PERSON, 1
+The Irish Sun LEGENDARY, ORG, 1
+57, DATE, 1
+Irish Mirror Online Coronation Street's, ORG, 1
+The Irish Sun ITV, ORG, 1
+South Wales, GPE, 1
+Gary Windass’s, PERSON, 1
+Ryan Thomas - Irish Mirror Online Coronation Street, PERSON, 1
+Jane, PERSON, 1
+SOPHIE, ORG, 1
+Webster, PERSON, 1
+Manchester CORONATION Street, GPE, 1
+hour-long, DATE, 1
+Maura, GPE, 1
+Curtis, ORG, 1
+MAURA Higgins, PERSON, 1
+Curtis Pritchard, ORG, 1
+The Irish Sun THIS Morning, WORK_OF_ART, 1
+Daniel’s, ORG, 1
+Daniel’s, PERSON, 1
+Lorraine Kelly’s, PERSON, 1
+1964, DATE, 1
+Michelle Keegan's, PERSON, 1
+Brassic, PERSON, 1
+MICHELLE Keegan’s, PERSON, 1
+Jan., DATE, 1
+Bethany Platt, WORK_OF_ART, 1
+2015, DATE, 1
+ROBERT Preston, PERSON, 1
+27, CARDINAL, 1
+Sarah Sugden, PERSON, 1
+North Wales, GPE, 1
+Chesn, PERSON, 1
+Audrey Roberts’, PERSON, 1
+’ night, TIME, 1
+the early hours of the morning, TIME, 1
+Insta, PERSON, 1
+the day, DATE, 1
+NEWLY, ORG, 1
+six-day, DATE, 1
+nine, CARDINAL, 1
+Chris Gascoyne CORONATION Street, PERSON, 1
+Peter, PERSON, 1
+Sally Dyvenor, PERSON, 1
+Stock Farm, ORG, 1
+Gary AND Shona, PERSON, 1
+Derek, PERSON, 1
+a Christmas Day, DATE, 1
+Coronation Streets's, ORG, 1
+Audrey Roberts CORONATION Street, PERSON, 1
+Emilie KYM Marsh, PERSON, 1
+Emilie, PERSON, 1
+Thai King, ORG, 1
+Suthida Vajiralongkorn, PERSON, 1
+Ayudhy, ORG, 1
+A Nice Pair of Puppies CORONATION Street, LAW, 1
+A Nice Pai, WORK_OF_ART, 1
+West Clare, GPE, 1
+48 hours, TIME, 1
+Doonbeg Resort, FAC, 1
+Clare, ORG, 1
+Wales CORONATION Street’s, GPE, 1
+Les Dennis, ORG, 1
+Morgan, PERSON, 1
+LES Dennis, ORG, 1
+Les’, FAC, 1
+GMB, ORG, 1
+NICK Tilsley, PERSON, 1
+Ben CORONATION Street, PERSON, 1
+Julia, GPE, 1
+March 2018, DATE, 1
+Declan Rice, PERSON, 1
+less than 24 hours, TIME, 1
+Young Player of, WORK_OF_ART, 1
+Declan Rice's, PERSON, 1
+the Republic of Ireland's, GPE, 1
+Young Player of the Year, WORK_OF_ART, 1
+Gareth Southgate, PERSON, 1
+Keith Duffy - News, PERSON, 1
+Keith Duffy, PERSON, 1
+Boyzone, PERSON, 1
+Ronan Keating, PERSON, 1
+Stephen Gately, PERSON, 1
+Mikey Graham, PERSON, 1
+Shane Lynch, PERSON, 1
+Kieran, PERSON, 1
+Games, WORK_OF_ART, 1
+Loose Women, ORG, 1
+Connie Hyde, PERSON, 1
+MICHELLE Collins, PERSON, 1
+Lockdown, ORG, 1
+the Christmas day, DATE, 1
+Sinead Tinker CORONATION Street, PERSON, 1

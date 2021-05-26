@@ -1,0 +1,287 @@
+entity, label, count
+Congo, GPE, 40
+Canada, GPE, 22
+HPV, ORG, 14
+The Globe and Mail, ORG, 9
+Monday, DATE, 8
+Canadians, NORP, 7
+first, ORDINAL, 7
+last year, DATE, 6
+| CTV News, ORG, 5
+Canadian, NORP, 5
+China, GPE, 5
+Chinese, NORP, 5
+CBC News, ORG, 5
+Congolese, NORP, 4
+U.S., GPE, 4
+season, DATE, 4
+Russian, NORP, 4
+two, CARDINAL, 4
+Vancouver, GPE, 4
+the World Health Organization, ORG, 4
+Toronto, GPE, 4
+Mbandaka, GPE, 4
+three, CARDINAL, 4
+WHO, ORG, 4
+Vancouver Sun, PERSON, 4
+this year, DATE, 3
+year, DATE, 3
+Cuba, GPE, 3
+Australia, GPE, 3
+Wednesday, DATE, 3
+2018, DATE, 3
+last week, DATE, 3
+Europe, LOC, 3
+Tuesday, DATE, 3
+Bikoro, GPE, 3
+more than 1 million, CARDINAL, 3
+B.C., PERSON, 3
+annual, DATE, 3
+B.C., ORG, 3
+Health Canada, ORG, 3
+South Sudan, GPE, 2
+Ottawa Public Health, ORG, 2
+Last year's, DATE, 2
+four, CARDINAL, 2
+First, ORDINAL, 2
+B.C., GPE, 2
+one, CARDINAL, 2
+Manitoba, GPE, 2
+H3N2, ORG, 2
+second, ORDINAL, 2
+Vancouver Sun, ORG, 2
+this season, DATE, 2
+| CTV News Health, ORG, 2
+Italy, GPE, 2
+Toronto Public Health, ORG, 2
+Lou Ferrigno, PERSON, 2
+DR, GPE, 2
+Saturday, DATE, 2
+42 per cent, MONEY, 2
+UN, ORG, 2
+Ontario, GPE, 2
+the University of Victoria, ORG, 2
+Texas, GPE, 2
+CBC Radio, ORG, 2
+Papua New Guinea, GPE, 2
+Philippines, GPE, 2
+Twitter, PRODUCT, 2
+Friday, DATE, 2
+Toronto Sun, ORG, 2
+Brazil, GPE, 2
+Ottawa, GPE, 2
+Zaire, GPE, 2
+Polish, NORP, 2
+Zambia, GPE, 2
+The World Health Organization, ORG, 1
+5, CARDINAL, 1
+Thursday, Sept. 13, 2018, DATE, 1
+Humboldt Broncos, PERSON, 1
+White Helmets, PERSON, 1
+hundreds, CARDINAL, 1
+Syria, GPE, 1
+Humboldt, NORP, 1
+Broncos, PRODUCT, 1
+April, DATE, 1
+last night, TIME, 1
+Ottawa Public Health's, ORG, 1
+| Awesome Activities & Fun Facts, ORG, 1
+the U.S. Centers for Disease Control, ORG, 1
+40 per cent, MONEY, 1
+season 2018-19, DATE, 1
+Cuban, NORP, 1
+Regina, LOC, 1
+a year, DATE, 1
+CTV News Canada, ORG, 1
+| CTV News Ebola, ORG, 1
+at least nine, CARDINAL, 1
+the New Year, EVENT, 1
+The Globe and Mail Chinese, ORG, 1
+Changsheng Biotechnology Co, ORG, 1
+The B.C. Ministry of Agriculture, ORG, 1
+France, GPE, 1
+50, CARDINAL, 1
+Mangina, GPE, 1
+Ugandan, ORG, 1
+Uganda, GPE, 1
+B | CTV News, ORG, 1
+B., PERSON, 1
+The European Centre for Disease Prevention and Control, ORG, 1
+Brian Goldman, PERSON, 1
+CBC Radio Australia, ORG, 1
+217,000, CARDINAL, 1
+June, DATE, 1
+August, DATE, 1
+West, LOC, 1
+Tara Hills, PERSON, 1
+seven, CARDINAL, 1
+65, CARDINAL, 1
+between 65 and 70, DATE, 1
+The Public Health Agency of, ORG, 1
+At least eight, CARDINAL, 1
+Muslim, NORP, 1
+Thai, NORP, 1
+Thailand, GPE, 1
+14, CARDINAL, 1
+more than 1,500, CARDINAL, 1
+September, DATE, 1
+New York, GPE, 1
+Bikoro | CTV News Officials, ORG, 1
+the beginning of May., DATE, 1
+six-fold, QUANTITY, 1
+a quarter, DATE, 1
+nine, CARDINAL, 1
+Air Canada, ORG, 1
+Zurich, GPE, 1
+March 6, DATE, 1
+12th, ORDINAL, 1
+The Globe and Mail Vaccination, ORG, 1
+1,500, CARDINAL, 1
+the Public Health Agency of, ORG, 1
+4,000, CARDINAL, 1
+26, CARDINAL, 1
+Mbandaka, PERSON, 1
+The Globe and Mail Confirmed, ORG, 1
+British Columbia, GPE, 1
+Four thousand, CARDINAL, 1
+earlier this month, DATE, 1
+Vancouver Sun KINSHASA, ORG, 1
+1.2 million, CARDINAL, 1
+| CTV News Cases, ORG, 1
+seasonal, DATE, 1
+20 per cent, MONEY, 1
+last season, DATE, 1
+42, DATE, 1
+30 percent, PERCENT, 1
+more than 30 percent, PERCENT, 1
+2016, DATE, 1
+European, NORP, 1
+Germany, GPE, 1
+Thursday, DATE, 1
+The Ottawa Hospital, ORG, 1
+H3N2, NORP, 1
+Ontario, Public Health, ORG, 1
+Surrey, PERSON, 1
+only one, CARDINAL, 1
+MMR, ORG, 1
+CDC, ORG, 1
+700, CARDINAL, 1
+K Facebook, ORG, 1
+the Centers for Disease Control, ORG, 1
+CBC Radio Texans, ORG, 1
+Vaccine Choice, ORG, 1
+@NightshiftMD, PERSON, 1
+The Globe and Mail Vaccinations, ORG, 1
+Sunday, DATE, 1
+EU, ORG, 1
+Saskatchewan, NORP, 1
+Winnipeg, PRODUCT, 1
+North |, LOC, 1
+CBC News Federal, ORG, 1
+decades, DATE, 1
+The Globe and Mail Butembo, ORG, 1
+6, CARDINAL, 1
+| CTV News Congo's, ORG, 1
+six, CARDINAL, 1
+a second day, DATE, 1
+CBC Radio Vaccines, ORG, 1
+CTV News Misinformation, ORG, 1
+more than 20 million, CARDINAL, 1
+Rio de Janeiro, GPE, 1
+Sao Paulo, GPE, 1
+Bahia, NORP, 1
+Ottawans, NORP, 1
+Ministry | CTV News Ebola, ORG, 1
+this month, DATE, 1
+35, CARDINAL, 1
+10, CARDINAL, 1
+Latest Congo, ORG, 1
+43, CARDINAL, 1
+North Kivu, GPE, 1
+36, CARDINAL, 1
+The Globe and Mail WHO, ORG, 1
+VSV-EBOV, ORG, 1
+Merck, ORG, 1
+Century, ORG, 1
+1918, DATE, 1
+millions, CARDINAL, 1
+one every five years, DATE, 1
+10 years, DATE, 1
+W. GLEN PYLE, PERSON, 1
+The Globe and Mail Whether, ORG, 1
+Federal Court, ORG, 1
+American, NORP, 1
+five, CARDINAL, 1
+Bikoro - The Globe and Mail, ORG, 1
+At least five, CARDINAL, 1
+12, CARDINAL, 1
+March, DATE, 1
+Vancouver Island, LOC, 1
+Over 5,000, CARDINAL, 1
+the previous school year, DATE, 1
+the Democratic Republic of Congo, GPE, 1
+ninth, ORDINAL, 1
+the '70s, DATE, 1
+years ago, DATE, 1
+CBC Radio Dogs, ORG, 1
+2002, DATE, 1
+a minute, TIME, 1
+The Globe and Mail Analysis, ORG, 1
+181,000, CARDINAL, 1
+between 2007 and 2003, DATE, 1
+Shingles, ORG, 1
+under 45, DATE, 1
+Adel Mahmoud, PERSON, 1
+76, DATE, 1
+The Globe and Mail One, ORG, 1
+CBC News Technology, ORG, 1
+Complaints, ORG, 1
+CEASE, ORG, 1
+The Globe and Mail Our, ORG, 1
+Pakistan, GPE, 1
+Pakistani, NORP, 1
+week, DATE, 1
+Nearly 700, CARDINAL, 1
+More than 680, CARDINAL, 1
+dozens, CARDINAL, 1
+2014, DATE, 1
+West Africa, GPE, 1
+The Globe and Mail Several, ORG, 1
+10%, PERCENT, 1
+Warsaw, GPE, 1
+The Globe and Mail Flu, ORG, 1
+1 million, CARDINAL, 1
+one million, CARDINAL, 1
+The Globe and Mail Shingrix, ORG, 1
+January, DATE, 1
+37,000, CARDINAL, 1
+Jocelyn Maffin, PERSON, 1
+up to $8.4-million, MONEY, 1
+the Coalition for Epidemic Preparedness Innovations, ORG, 1
+Britain, GPE, 1
+Imperial College, ORG, 1
+London, GPE, 1
+RNA, ORG, 1
+B.C.’s, ORG, 1
+Calii Love, ORG, 1
+the late 19th century, DATE, 1
+Two, CARDINAL, 1
+the flu days, DATE, 1
+CBC News Public, ORG, 1
+Gatineau, PERSON, 1
+two years, DATE, 1
+Quebec’s, ORG, 1
+The Globe and Mail New, ORG, 1
+$3-million, MONEY, 1
+| CTV News Congo, ORG, 1
+North Carolina, GPE, 1
+20 years, DATE, 1
+under 2 years old, DATE, 1
+2001, DATE, 1
+the Center for Disease Control, ORG, 1
+St. Louis, GPE, 1
+The Star St. Louis University, ORG, 1
+Salus Center, FAC, 1
+years, DATE, 1
+Three, CARDINAL, 1
+Philippine, NORP, 1

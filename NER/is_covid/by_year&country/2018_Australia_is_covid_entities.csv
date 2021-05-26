@@ -1,0 +1,387 @@
+entity, label, count
+US, GPE, 16
+two, CARDINAL, 12
+Australian, NORP, 12
+Australia, GPE, 12
+ABC News, ORG, 9
+Two, CARDINAL, 8
+Queensland, GPE, 7
+Melbourne, GPE, 6
+three, CARDINAL, 6
+Coronation Drive, FAC, 6
+French, NORP, 6
+ASX, ORG, 6
+Brisbane, PERSON, 6
+Coronado Coal, PERSON, 5
+Spanish, NORP, 5
+White House, ORG, 5
+Sydney, GPE, 5
+Wallaroo, PERSON, 4
+three-hour, TIME, 4
+Mackay, PERSON, 4
+BBC, ORG, 4
+Qld, PERSON, 3
+Gold Coast, LOC, 3
+The West Australian, LOC, 3
+Global Resources, ORG, 3
+this morning, TIME, 3
+one, CARDINAL, 3
+1918, DATE, 3
+Brisbane, GPE, 3
+Thai, NORP, 3
+the United States, GPE, 3
+Brisbane's Coronation Drive, ORG, 3
+last week, DATE, 3
+Donald Trump, PERSON, 3
+Friday, DATE, 3
+today, DATE, 3
+European, NORP, 3
+Elizabeth, PERSON, 3
+Carlton, GPE, 2
+South Australia, LOC, 2
+Jake Dohnt, PERSON, 2
+yesterday, DATE, 2
+Australian Broadcasting Corporation, ORG, 2
+Tuesday, DATE, 2
+morning, TIME, 2
+Goldman Sachs, ORG, 2
+1b, MONEY, 2
+Energy and Minerals Group, ORG, 2
+Monday, DATE, 2
+Christmas, DATE, 2
+Bundaberg, GPE, 2
+Carlton, ORG, 2
+Corona, GPE, 2
+$1 billion, MONEY, 2
+UBS, ORG, 2
+10, CARDINAL, 2
+the 1970s, DATE, 2
+12, CARDINAL, 2
+Auchenflower, GPE, 2
+200, CARDINAL, 2
+Emmanuel Macron, PERSON, 2
+France, GPE, 2
+the White House, ORG, 2
+Sue Hickey, PERSON, 2
+Michael Ferguson, PERSON, 2
+Tasmania, ORG, 2
+UK, GPE, 2
+as many as 33 million, CARDINAL, 2
+its first 200 days, DATE, 2
+British, NORP, 2
+Perth, GPE, 2
+$4 billion, MONEY, 2
+six-hour, TIME, 2
+1953, DATE, 2
+NSW, ORG, 2
+10-year-old, DATE, 2
+Saturday, DATE, 2
+Elizabeth II, PERSON, 2
+first, ORDINAL, 2
+Parramatta, ORG, 2
+Sydney CBD, PERSON, 2
+Adelaide, ORG, 2
+The West Australian, GPE, 2
+this year, DATE, 2
+4, MONEY, 2
+Bill Gates, PERSON, 2
+Kobe, GPE, 2
+Europe, LOC, 2
+Montem Resources, ORG, 2
+Risdon Prison, PERSON, 2
+Hobart, PERSON, 2
+year, DATE, 2
+80, CARDINAL, 2
+Hong Kong, GPE, 2
+Launceston, PERSON, 2
+Coronation, NORP, 2
+second, ORDINAL, 2
+eight, CARDINAL, 2
+Credit Suisse, ORG, 2
+ABC News Police, ORG, 1
+James Maasdorp -, PERSON, 1
+James Maasdorp, PERSON, 1
+ABC News Online, ORG, 1
+2008, DATE, 1
+South Africa, GPE, 1
+2003, DATE, 1
+Bachelor of Journalism and Bachelor of Arts, ORG, 1
+The University of Queensland, ORG, 1
+James, PERSON, 1
+A-League, ORG, 1
+Formula One, ORG, 1
+Bathurst, GPE, 1
+Grandstand, GPE, 1
+South Australian Government, NORP, 1
+Rob Lucas, PERSON, 1
+the Public Service Association, ORG, 1
+the Adelaide Remand Centre, ORG, 1
+a full month, DATE, 1
+nearly a decade, DATE, 1
+Great Mills High School, ORG, 1
+Maryland, GPE, 1
+Global Resources Goldman Sachs, ORG, 1
+10 per cent, MONEY, 1
+six weeks ago, DATE, 1
+A$1 billion, MONEY, 1
+THE World Health Organisation, ORG, 1
+Cairns Airport, FAC, 1
+Hundreds, CARDINAL, 1
+CAIRNS Airport, FAC, 1
+hundreds, CARDINAL, 1
+ABC News SA's, ORG, 1
+eleventh-hour, TIME, 1
+Healthscope, ORG, 1
+Steel, ORG, 1
+Christmas Island, LOC, 1
+Iranian, NORP, 1
+four-hour, TIME, 1
+Bell Potter Securities, ORG, 1
+United States, GPE, 1
+flu season, DATE, 1
+100 years, DATE, 1
+just weeks, DATE, 1
+the flu season, DATE, 1
+Rob Grenfell, PERSON, 1
+Quarantined, NORP, 1
+DR, GPE, 1
+Three, CARDINAL, 1
+Mbandaka, GPE, 1
+the next day, DATE, 1
+Woodford, ORG, 1
+Woodford Correctional Centre, ORG, 1
+Toyota, ORG, 1
+Mini, PERSON, 1
+Richard Glover, PERSON, 1
+ABC News Separated, ORG, 1
+Macquarie, ORG, 1
+$378m, MONEY, 1
+Firetrail A, PRODUCT, 1
+Macquarie Group, ORG, 1
+Georgy Cohen, PERSON, 1
+this week, DATE, 1
+five-hour, TIME, 1
+about 200, CARDINAL, 1
+ABC News Frogs, ORG, 1
+Carlton Drummond, PERSON, 1
+Macron, PERSON, 1
+Washington, GPE, 1
+Maverick Liberal, PERSON, 1
+Tasmania's, ORG, 1
+KILLER, ORG, 1
+tomorrow, DATE, 1
+The West Australian Police, GPE, 1
+Alfie Evans, ORG, 1
+ALFIE Evans, PERSON, 1
+several months, DATE, 1
+Pembroke Resources, ORG, 1
+Mike Pence Cairns, PERSON, 1
+Sections of Cairns, ORG, 1
+the US Secret Service, ORG, 1
+London, GPE, 1
+Coronado, ORG, 1
+4.4b, MONEY, 1
+$4.4 billion, MONEY, 1
+2011, DATE, 1
+Brisbane Bullets, ORG, 1
+New Zealand Navy, ORG, 1
+Francis Tolan, PERSON, 1
+La Longue Route, ORG, 1
+June, DATE, 1
+Thailand, GPE, 1
+School threats Brisbane, ORG, 1
+North Lakes, GPE, 1
+US Forest Service, ORG, 1
+47,000-acre, QUANTITY, 1
+ABC News, WORK_OF_ART, 1
+The US Forest Service, ORG, 1
+the Coronado National Forest, ORG, 1
+millions of dollars, MONEY, 1
+Tens of thousands, CARDINAL, 1
+American Airlines, ORG, 1
+Philadelphia, GPE, 1
+days, DATE, 1
+Emirates, GPE, 1
+fifth, ORDINAL, 1
+$4.3 billion, MONEY, 1
+almost six hours, TIME, 1
+Port Augusta Prison, FAC, 1
+nearly 16 hours, TIME, 1
+the Port Augusta Prison, FAC, 1
+11, CARDINAL, 1
+The Secret Service, ORG, 1
+the Coronado Global Resources, ORG, 1
+Malcolm Turnbull, PERSON, 1
+Lucy, PERSON, 1
+Darwin, PERSON, 1
+a year, DATE, 1
+four, CARDINAL, 1
+Northern Territory, ORG, 1
+Mullewa, PERSON, 1
+Six, CARDINAL, 1
+Mullewa District High School, ORG, 1
+Queensland Police, ORG, 1
+the Brisbane CBD, ORG, 1
+Queen, PERSON, 1
+Britain, GPE, 1
+Queen Elizabeth, PERSON, 1
+2009, DATE, 1
+Sydney Kings, PERSON, 1
+Breakers NBL, ORG, 1
+Kings, ORG, 1
+Auckland, NORP, 1
+Upper Coomera State College, ORG, 1
+UPPER Coomera State College, ORG, 1
+at least two, CARDINAL, 1
+Natasha Johnson, PERSON, 1
+Just three weeks later, DATE, 1
+$1.7 billion, MONEY, 1
+just $4, MONEY, 1
+$4 to $4.80, MONEY, 1
+Stowaway, ORG, 1
+2,500-kilometre, QUANTITY, 1
+Pacific, LOC, 1
+New Zealand, GPE, 1
+65 years ago, DATE, 1
+the Imperial State Crown, ORG, 1
+Martin Place, ORG, 1
+late Friday night, TIME, 1
+Winter Olympics 2018, EVENT, 1
+Kim, PERSON, 1
+CHLOE Kim’s, PERSON, 1
+Outlaw, GPE, 1
+NSW Police, ORG, 1
+Astell Island, LOC, 1
+Commonwealth Games |, ORG, 1
+The West Australian Paralympics, GPE, 1
+Rhiannon Clarke, PERSON, 1
+2020, DATE, 1
+Tokyo Games, EVENT, 1
+Nightjar Festival:, EVENT, 1
+MUSIC, ORG, 1
+around 150, CARDINAL, 1
+American, NORP, 1
+Steinhoff, ORG, 1
+Coronation Fund Managers, ORG, 1
+1.5b, MONEY, 1
+South Africa's, GPE, 1
+Steinhoff, GPE, 1
+MAJOR, ORG, 1
+Collins, GPE, 1
+109, CARDINAL, 1
+Racing Victoria, PERSON, 1
+Cup, EVENT, 1
+Four, CARDINAL, 1
+the Melbourne Cup, EVENT, 1
+the last six years, DATE, 1
+Europeans, NORP, 1
+Global Resources', ORG, 1
+afternoon, TIME, 1
+33 million, CARDINAL, 1
+6 months, DATE, 1
+Lamar Patterson, PERSON, 1
+Customs Lamar Patterson, PERSON, 1
+Customs, ORG, 1
+World War I., EVENT, 1
+US170, MONEY, 1
+4b, MONEY, 1
+Coal, ORG, 1
+about $US170, MONEY, 1
+the next three years, DATE, 1
+Melbourne&rsquo;s, PERSON, 1
+Chadstone Shopping Centre, ORG, 1
+almost 65 years ago, DATE, 1
+Prince Charles, PERSON, 1
+Anne, PERSON, 1
+San Leandro, PERSON, 1
+California, GPE, 1
+CALIFORNIA, GPE, 1
+almost 40, CARDINAL, 1
+Peter Doyle, PERSON, 1
+a century, DATE, 1
+WWI, ORG, 1
+675,000, CARDINAL, 1
+ABC News A, ORG, 1
+five, CARDINAL, 1
+South Coast, LOC, 1
+the South Coast Correctional Centre at South Nowra, FAC, 1
+Wednesday, DATE, 1
+Gladstone State High School, ORG, 1
+late this morning, TIME, 1
+ABC News Seizures, ORG, 1
+more than 5,000kg, QUANTITY, 1
+2017, DATE, 1
+a key to, DATE, 1
+Gerry Spindler, PERSON, 1
+Staughton College, ORG, 1
+up to, CARDINAL, 1
+Perth, ORG, 1
+ABC News Rare, WORK_OF_ART, 1
+Emmanuel Macron's, PERSON, 1
+the White House, FAC, 1
+ASX, NORP, 1
+Management of Coronado Global Resources, ORG, 1
+the weekend, DATE, 1
+David Peever's, PERSON, 1
+David Peever, PERSON, 1
+Lockdown, ORG, 1
+Brisbane A, FAC, 1
+more than six hours, TIME, 1
+University of Sydney, ORG, 1
+Richmond, GPE, 1
+David Astbury, PERSON, 1
+Tigers, ORG, 1
+America, GPE, 1
+Groote Eylandt, PRODUCT, 1
+tens of millions, CARDINAL, 1
+Artist, NORP, 1
+Santa Ana Lane, GPE, 1
+4:30pm, CARDINAL, 1
+The Energy & Minerals Group, ORG, 1
+Greenough Regional Prison, ORG, 1
+just an hour, TIME, 1
+Greenough Regional Prison, FAC, 1
+dozens, CARDINAL, 1
+1953, CARDINAL, 1
+22 years, DATE, 1
+New York, GPE, 1
+New York's, GPE, 1
+Kennedy Airport, FAC, 1
+29-year-old, DATE, 1
+$1.39 billion, MONEY, 1
+just $774 million, MONEY, 1
+Columbine, ORG, 1
+Students, ORG, 1
+Columbine High School, ORG, 1
+Denver, GPE, 1
+Kelly O'Dwyer, PERSON, 1
+Parts, PERSON, 1
+Martin Place Station, ORG, 1
+9News, CARDINAL, 1
+Aussie, GPE, 1
+Mohican, NORP, 1
+Mohicans, NORP, 1
+3b, MONEY, 1
+Trans-Pacific, ORG, 1
+$3 billion-odd, MONEY, 1
+Australian Securities Exchange, ORG, 1
+Martin Place, PERSON, 1
+Sydney, PERSON, 1
+CBD, ORG, 1
+Martin Place, FAC, 1
+the Sydney CBD, LOC, 1
+Karl Stefanovic, PERSON, 1
+Jasmine Yarbrough’s, PERSON, 1
+Karl Stefanovic’s, PERSON, 1
+Jasmine Yarbrough, PERSON, 1
+Prentice, GPE, 1
+Scott Morrison, PERSON, 1
+Jane Prentice, PERSON, 1
+Queensland, PERSON, 1
+Balga, GPE, 1
+Balga, FAC, 1
+several hours, TIME, 1
+Woodman Point, ORG, 1
+overnight, TIME, 1
+Woodman Point’s, ORG, 1
+ABC News Social, ORG, 1

@@ -1,0 +1,105 @@
+entity, label, count
+Germany, GPE, 10
+Europe, LOC, 5
+Uganda, GPE, 5
+Philippines, GPE, 5
+first, ORDINAL, 4
+thousands, CARDINAL, 3
+DRC, ORG, 3
+Africa, LOC, 3
+UN, ORG, 3
+second, ORDINAL, 3
+The World Health Organization, ORG, 2
+Pakistan, GPE, 2
+three, CARDINAL, 2
+DR Congo, ORG, 2
+the Democratic Republic of Congo, GPE, 2
+the World Health Organization, ORG, 2
+French, NORP, 2
+Costa Rica, GPE, 2
+Afghanistan, GPE, 2
+last year, DATE, 2
+1,000, CARDINAL, 2
+Congo, GPE, 2
+German, NORP, 2
+34,000, CARDINAL, 1
+two months, DATE, 1
+more than 34,000, CARDINAL, 1
+the first two months of 2019, DATE, 1
+Just this week, DATE, 1
+At least three, CARDINAL, 1
+April, DATE, 1
+one, CARDINAL, 1
+6, CARDINAL, 1
+Pacific, LOC, 1
+Samoan, ORG, 1
+last month, DATE, 1
+Malaria, GPE, 1
+the United States, GPE, 1
+US Congress | News, ORG, 1
+06.03.2019, DATE, 1
+Ethan Lindenberger, PERSON, 1
+the US Congress, ORG, 1
+5-year-old, DATE, 1
+five years, DATE, 1
+Sudan, GPE, 1
+Abdalla Hamdouk, PERSON, 1
+two, CARDINAL, 1
+dozens, CARDINAL, 1
+Cameroon, LOC, 1
+the Gulf of Guinea, LOC, 1
+March, DATE, 1
+Inside Europe, LOC, 1
+Media Center, ORG, 1
+British, NORP, 1
+Theresa, GPE, 1
+Brexit, PERSON, 1
+Macron, PERSON, 1
+Poland, GPE, 1
+Pawel Adamowicz, PERSON, 1
+Israeli, NORP, 1
+Hungary, GPE, 1
+Danube River, LOC, 1
+week, DATE, 1
+Samoa, ORG, 1
+two days, DATE, 1
+200,000, CARDINAL, 1
+62, CARDINAL, 1
+decades, DATE, 1
+SPD, ORG, 1
+Karl Lauterbach, PERSON, 1
+New York, GPE, 1
+this year, DATE, 1
+Ana P. Santos, PERSON, 1
+Manila, GPE, 1
+19.06.2019, DATE, 1
+33%, PERCENT, 1
+DR, GPE, 1
+Mike Ryan, PERSON, 1
+Uganda | Africa, ORG, 1
+Three, CARDINAL, 1
+March 2020, DATE, 1
+the Health Ministry, ORG, 1
+′Dangerous′, GPE, 1
+Almost 20 million, CARDINAL, 1
+2018, DATE, 1
+millions, CARDINAL, 1
+66 million, CARDINAL, 1
+HPV, ORG, 1
+Millions, CARDINAL, 1
+2010, DATE, 1
+48 hours, TIME, 1
+Almost a million, CARDINAL, 1
+Italy, GPE, 1
+13.03.2019, DATE, 1
+Across Italy, ORG, 1
+the Green party, ORG, 1
+the beginning of the year, DATE, 1
+2017, DATE, 1
+The World Health Organization (WHO, ORG, 1
+Some 166,000, CARDINAL, 1
+World Health Organization, ORG, 1
+European, NORP, 1
+world′s, GPE, 1
+Hundreds, CARDINAL, 1
+African, NORP, 1

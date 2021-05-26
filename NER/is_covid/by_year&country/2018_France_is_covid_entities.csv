@@ -1,0 +1,32 @@
+entity, label, count
+Spanish, NORP, 2
+Germany, GPE, 2
+dozens, CARDINAL, 2
+a century, DATE, 1
+A century ago this month, DATE, 1
+months, DATE, 1
+at least 50 million, CARDINAL, 1
+today, DATE, 1
+Ivory Coast's, GPE, 1
+Laurent Gbagbo - Eye, PERSON, 1
+Laurent Gbagbo, PERSON, 1
+Cameroon, LOC, 1
+Erdogan, GPE, 1
+Turkish, NORP, 1
+Tayyip Erdogan, PERSON, 1
+Saturday, DATE, 1
+Cologne, GPE, 1
+JFK, PERSON, 1
+Emirates, GPE, 1
+Dubai, GPE, 1
+New York’s, GPE, 1
+John F. Kennedy, PERSON, 1
+Wednesday, DATE, 1
+morning, TIME, 1
+New York, GPE, 1
+At least eight, CARDINAL, 1
+Ouagadougou - Eye on Africa, ORG, 1
+tonight, TIME, 1
+Burkina Faso's, PERSON, 1
+Ouagadougou, GPE, 1
+at least eight, CARDINAL, 1

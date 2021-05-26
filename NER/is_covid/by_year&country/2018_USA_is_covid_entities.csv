@@ -1,0 +1,1785 @@
+entity, label, count
+Corona, GPE, 108
+Wednesday, DATE, 39
+Friday, DATE, 37
+Corona Centennial, ORG, 32
+Monday, DATE, 27
+California, GPE, 26
+Tuesday, DATE, 26
+Saturday, DATE, 24
+U.S., GPE, 23
+2, CARDINAL, 22
+The Washington Post, ORG, 22
+Southern Section, ORG, 21
+Thursday, DATE, 21
+3, CARDINAL, 21
+three, CARDINAL, 20
+1, CARDINAL, 19
+Fox News, ORG, 18
+25, CARDINAL, 18
+White House, ORG, 16
+first, ORDINAL, 16
+1918, DATE, 16
+Mater Dei, PERSON, 15
+CDC, ORG, 15
+AP, ORG, 15
+NASA, ORG, 14
+two, CARDINAL, 13
+four, CARDINAL, 13
+CBS News, ORG, 13
+The Boston Globe, ORG, 12
+morning, TIME, 12
+one, CARDINAL, 12
+Two, CARDINAL, 12
+Dubai, GPE, 12
+seven, CARDINAL, 12
+Indian, NORP, 12
+Florida, GPE, 11
+night, TIME, 11
+2009, DATE, 10
+6, CARDINAL, 10
+Strasbourg, GPE, 10
+French, NORP, 10
+JFK, PERSON, 10
+16, CARDINAL, 10
+4, CARDINAL, 10
+Kashmir, LOC, 10
+5, CARDINAL, 9
+New York, GPE, 9
+Parker Solar Probe, ORG, 9
+Maryland, GPE, 9
+8, CARDINAL, 9
+France, GPE, 9
+Chicago, GPE, 9
+2018, DATE, 9
+week, DATE, 9
+Fla., GPE, 8
+Lin-Manuel Miranda, PERSON, 8
+the United States, GPE, 8
+11, CARDINAL, 8
+The New York Times, ORG, 8
+last year, DATE, 7
+Elizabeth, PERSON, 7
+Constellation Brands, ORG, 7
+Sunday, DATE, 7
+First, ORDINAL, 7
+Newport Harbor, FAC, 7
+India, GPE, 7
+1, MONEY, 6
+afternoon, TIME, 6
+St. John Bosco, GPE, 6
+26, CARDINAL, 6
+Americans, NORP, 6
+Washington, GPE, 6
+Dana Hills, PERSON, 6
+this week, DATE, 6
+Santa Ana, GPE, 6
+American, NORP, 6
+Rancho Christian, NORP, 6
+Atlantic, LOC, 6
+Sun, ORG, 6
+1First, CARDINAL, 5
+Laguna Beach, GPE, 5
+Congo, GPE, 5
+Three, CARDINAL, 5
+America, GPE, 5
+2017, DATE, 5
+7, CARDINAL, 5
+US, GPE, 5
+Christmas, DATE, 5
+100, CARDINAL, 5
+BIG VIII LEAGUE, ORG, 5
+the White House, FAC, 5
+Canadian, NORP, 5
+Trump, PERSON, 5
+Macron, PERSON, 5
+13, CARDINAL, 5
+Christian, NORP, 5
+millions, CARDINAL, 5
+Southern California Regional, LOC, 5
+Bill Gates, PERSON, 5
+15, CARDINAL, 5
+Spanish, NORP, 5
+25-21, DATE, 5
+10, CARDINAL, 5
+New York's, GPE, 5
+Mayan, NORP, 5
+Donald Trump, PERSON, 5
+Yountville, GPE, 5
+Parkland, GPE, 4
+Mexican, NORP, 4
+El Dorado, GPE, 4
+Mexico, GPE, 4
+Somerville, GPE, 4
+Massachusetts, GPE, 4
+Pennsylvania, GPE, 4
+7 p.m., TIME, 4
+JSerra, PERSON, 4
+Paris, GPE, 4
+- Washington Times, ORG, 4
+Huskies, LOC, 4
+the White House, ORG, 4
+Elizabeth II, PERSON, 4
+Los Alamitos, PERSON, 4
+4, MONEY, 4
+CALIFORNIA, GPE, 4
+25-19, DATE, 4
+25-17, DATE, 4
+33, CARDINAL, 4
+Ohio, GPE, 4
+six, CARDINAL, 4
+Republican, NORP, 4
+$4 billion, MONEY, 4
+Los Alamitos, GPE, 4
+five, CARDINAL, 4
+Irvine University, ORG, 4
+The White House, ORG, 4
+Campbell Hall, ORG, 4
+Guatemala, GPE, 4
+Tikal, PERSON, 4
+Riverside County, GPE, 4
+Southern Section Division, ORG, 4
+March, DATE, 4
+CNN, ORG, 4
+year, DATE, 3
+Winter Olympics, EVENT, 3
+Videos, ORG, 3
+32, CARDINAL, 3
+San Diego, GPE, 3
+2016, DATE, 3
+Bud Light, PERSON, 3
+Michelob Ultra, PERSON, 3
+Centennial, ORG, 3
+Twinkle, WORK_OF_ART, 3
+Congress, ORG, 3
+17, CARDINAL, 3
+Palos Verdes, ORG, 3
+Texas, GPE, 3
+Houston, GPE, 3
+Colorado, GPE, 3
+Santa Fe, ORG, 3
+CBS News', ORG, 3
+WASHINGTON, GPE, 3
+Utica College, ORG, 3
+Chino Hills, PERSON, 3
+Wednesday night, TIME, 3
+Haiti, GPE, 3
+San Clemente, GPE, 3
+Huntington Beach, GPE, 3
+Pyeongchang, GPE, 3
+20, CARDINAL, 3
+The Secret Service, ORG, 3
+a day, DATE, 3
+Charlie D'Agata, PERSON, 3
+thousands, CARDINAL, 3
+Corona Santiago, ORG, 3
+Mission Viejo, PERSON, 3
+Loyola, GPE, 3
+23-25, DATE, 3
+Red Sox, ORG, 3
+scores - Los Angeles Times, ORG, 3
+71, CARDINAL, 3
+World Cup, EVENT, 3
+One, CARDINAL, 3
+17-year-old, DATE, 3
+third, ORDINAL, 3
+- Los Angeles Times, ORG, 3
+14, CARDINAL, 3
+Maine, GPE, 3
+Europe, LOC, 3
+Lockdown, ORG, 3
+Matt Logan, PERSON, 3
+Canada, GPE, 3
+1Consolation, CARDINAL, 3
+Vanilla Ice, ORG, 3
+31, CARDINAL, 3
+Valley Christian, NORP, 3
+Newport Harbor, GPE, 3
+River Forest, ORG, 3
+two-year, DATE, 3
+Second, ORDINAL, 3
+Parker, ORG, 3
+Bakersfield, GPE, 3
+D.C., GPE, 3
+9, CARDINAL, 3
+25-20, DATE, 3
+La Corona, FAC, 3
+Kaanul, GPE, 3
+58, CARDINAL, 3
+Boston, GPE, 3
+season, DATE, 3
+the year, DATE, 3
+Dos Pueblos, PERSON, 3
+Bill Newlands, PERSON, 3
+Emirates, GPE, 3
+San Marino, LOC, 3
+Emmanuel Macron, PERSON, 3
+South Korea, GPE, 2
+dozens, CARDINAL, 2
+3, MONEY, 2
+Heritage Park, FAC, 2
+18, CARDINAL, 2
+Narbonne, PERSON, 2
+Fenway, ORG, 2
+300, CARDINAL, 2
+Indiana, GPE, 2
+14-year-old, DATE, 2
+Broadway, FAC, 2
+Modelo, GPE, 2
+Corona Extra, ORG, 2
+third-quarter, DATE, 2
+83, CARDINAL, 2
+Sierra Canyon, LOC, 2
+Huskies, LAW, 2
+second, ORDINAL, 2
+Memphis, GPE, 2
+Tennessee, GPE, 2
+Wakefield, GPE, 2
+Little Star, PERSON, 2
+National School Walkout, ORG, 2
+March 14, DATE, 2
+Firebaugh, ORG, 2
+47, DATE, 2
+The Coronation, WORK_OF_ART, 2
+fourth, ORDINAL, 2
+Calif., GPE, 2
+Northern California, LOC, 2
+Chico, GPE, 2
+1,200, CARDINAL, 2
+José Nino, PERSON, 2
+Los Angeles Times, GPE, 2
+50 years, DATE, 2
+Michelle Malkin, PERSON, 2
+BASELINE LEAGUE, ORG, 2
+CAMINO REAL LEAGUE Cantwell-Sacred Heart, ORG, 2
+the Southern Section Division, ORG, 2
+Air Videos, ORG, 2
+Nikki Battiste, PERSON, 2
+3 p.m., TIME, 2
+100-acre, QUANTITY, 2
+Mets, ORG, 2
+Brodie Van Wagenen, PERSON, 2
+Citi Field, FAC, 2
+$3.8 billion, MONEY, 2
+seven decades, DATE, 2
+N.Y., GPE, 2
+about $3.8 billion, MONEY, 2
+Round Lake, LOC, 2
+12:45 p.m., TIME, 2
+Trump, ORG, 2
+the weekend, DATE, 2
+May 19, DATE, 2
+Edison, GPE, 2
+Aliso Niguel, ORG, 2
+Coronas, ORG, 2
+Ken Calvert, PERSON, 2
+Grace Brethren, PERSON, 2
+Mikey Zele, PERSON, 2
+Mar - Los Angeles Times, ORG, 2
+The Boston Globe A, ORG, 2
+24, CARDINAL, 2
+36, DATE, 2
+Randy Fox, PERSON, 2
+Muslim, NORP, 2
+1953, DATE, 2
+Mark Redman, PERSON, 2
+byeRancho Cucamonga, GPE, 2
+NorthwoodVista Murrieta, ORG, 2
+San ClementeLong Beach, GPE, 2
+La MiradaDana Hills, FAC, 2
+JSerraBeckman at Chino HillsWestlake, ORG, 2
+HartMillikan, ORG, 2
+Santa Margarita, GPE, 2
+byeEsper, ORG, 2
+21-25, DATE, 2
+25-18, DATE, 2
+Rebecca Zahau, PERSON, 2
+De Leon, PERSON, 2
+Los Angeles, GPE, 2
+Centennial 84, DATE, 2
+Woodbridge, PERSON, 2
+Rancho Cucamonga, GPE, 2
+911, CARDINAL, 2
+Air Force, ORG, 2
+65 years, DATE, 2
+Queen Elizabeth's, PERSON, 2
+Andrew Moore, PERSON, 2
+AI, ORG, 2
+5 p.m., TIME, 2
+#1, MONEY, 2
+hours, TIME, 2
+as many as 100 million, CARDINAL, 2
+Evan Mobley, PERSON, 2
+Newport Beach, GPE, 2
+Irvine, PERSON, 2
+John F. Kennedy International Airport, PERSON, 2
+New York City, GPE, 2
+Sonia Shah, PERSON, 2
+57, DATE, 2
+the Secret Service, ORG, 2
+Katie Wong, PERSON, 2
+José Rivera, PERSON, 2
+Oscar, PERSON, 2
+The Untranslatable Secrets of Nikki Corona, WORK_OF_ART, 2
+Salisbury, GPE, 2
+London, GPE, 2
+the regular season, DATE, 2
+Corona Centennial's, ORG, 2
+DeLorean, PERSON, 2
+Northwestern, GPE, 2
+Northwestern University, ORG, 2
+6 p.m., TIME, 2
+6, MONEY, 2
+8, MONEY, 2
+5, MONEY, 2
+65 years ago, DATE, 2
+Jonathan Vigliotti, PERSON, 2
+$4 Billion, MONEY, 2
+Tustin, PERSON, 2
+Harvard, ORG, 2
+Baltimore County, GPE, 2
+DIVISION Semifinals, ORG, 2
+Butler High School, ORG, 2
+evening, TIME, 2
+this year, DATE, 2
+8-week-old, DATE, 2
+Tanner McKee, ORG, 2
+SOUTHERN, NORP, 2
+El Toro, ORG, 2
+2014, DATE, 2
+CAPE CANAVERAL, GPE, 2
+15 million miles, QUANTITY, 2
+24 million kilometers, QUANTITY, 2
+World’s Fair, EVENT, 2
+Kremlin, ORG, 2
+The Parker Solar Probe, ORG, 2
+today, DATE, 2
+22-year-old, DATE, 2
+12, CARDINAL, 2
+World War I, EVENT, 2
+Orange Lutheran, PERSON, 2
+Long Beach Poly, GPE, 2
+275, CARDINAL, 2
+1 Quarterfinals, ORG, 2
+25-22, DATE, 2
+25-20, CARDINAL, 2
+22-25, DATE, 2
+25-23, DATE, 2
+The U.S. Secret Service, ORG, 2
+Great Mills High School, ORG, 2
+81, CARDINAL, 2
+Ethan Garbers, PERSON, 2
+Chase, ORG, 2
+Knicks, ORG, 2
+anti-India, NORP, 2
+Finland, GPE, 2
+China, GPE, 2
+Australia, GPE, 2
+34, CARDINAL, 2
+nearly 30, CARDINAL, 2
+Philippines, GPE, 2
+seventh, ORDINAL, 2
+World Series, EVENT, 2
+David Price, PERSON, 2
+Britain, GPE, 2
+Queen Elizabeth, PERSON, 2
+nearly 65 years ago, DATE, 2
+the Smithsonian Channel, ORG, 2
+29, CARDINAL, 2
+The Washington Post Pennsylvania, ORG, 2
+Geffen Playhouse, ORG, 2
+Kennedy Airport, FAC, 2
+at least 10, CARDINAL, 2
+Bishop Amat, ORG, 2
+DJ Davis, PERSON, 2
+Notre Dame, FAC, 2
+Joseph Comegna, PERSON, 2
+21-year, DATE, 2
+SRINAGAR, GPE, 2
+127, CARDINAL, 2
+Fantasy Fest, PERSON, 2
+The Associated Press, ORG, 2
+Van Dyke, ORG, 2
+Brandon Browning, PERSON, 2
+100 years, DATE, 2
+Sam Altman, PERSON, 2
+Robert Redfield, PERSON, 2
+The week ahead, DATE, 2
+SoCal, ORG, 2
+Sept. 9-16, DATE, 2
+Echo Theater Company, ORG, 2
+48, CARDINAL, 2
+Coca-Cola, ORG, 2
+Caltrans, ORG, 2
+More than 4 million, CARDINAL, 2
+The Washington Post Authorities, ORG, 2
+Disney World, ORG, 2
+Loyola, PERSON, 2
+Central Michigan University, ORG, 2
+- Chicago Tribune, ORG, 2
+Corona Centennial’s, ORG, 2
+Richton Park, GPE, 2
+Arkansas, GPE, 2
+Rob Sands, PERSON, 2
+Constellation’s, ORG, 2
+La Mesa, GPE, 2
+Upland, ORG, 2
+Avery Bradley, PERSON, 2
+Patrick Beverley, PERSON, 2
+The Veterans Home, ORG, 2
+Sanjay Gupta, PERSON, 2
+Concordia University Chicago, ORG, 2
+Constellation Brands', ORG, 2
+Cape Canaveral, GPE, 2
+Murrieta Valley, LOC, 2
+MOUNTAIN PASS LEAGUE Hemet, ORG, 2
+SOUTH COAST LEAGUE, LOC, 2
+New Jersey, GPE, 2
+Brazil, GPE, 2
+Canopy Growth, ORG, 2
+Hurricane Irma, EVENT, 2
+Louisiana, GPE, 2
+more than a thousand, CARDINAL, 1
+a few days, DATE, 1
+Mar#6 Los Alamitos, PERSON, 1
+Mater Dei#7, PERSON, 1
+Consolation, ORG, 1
+Feb. 20, DATE, 1
+Feb. 21, DATE, 1
+Latest News, ORG, 1
+Fox News Raw, ORG, 1
+Orlando, GPE, 1
+Melbourne International Airport, FAC, 1
+American Airlines, ORG, 1
+the Democratic Republic of Congo, GPE, 1
+Long Beach, GPE, 1
+City Hall Long Beach City Hall, FAC, 1
+Friday night, TIME, 1
+Oaks Christian, PERSON, 1
+Birmingham, PERSON, 1
+Eagle Rock, GPE, 1
+Garfield, PERSON, 1
+New York’s, GPE, 1
+the fall of 1918, DATE, 1
+an estimated 50 million, CARDINAL, 1
+30,000, CARDINAL, 1
+New Yorkers, NORP, 1
+The Boston Globe A Boston, ORG, 1
+Simmons University, ORG, 1
+2:38 p.m., TIME, 1
+$9.5 million, MONEY, 1
+Jose Susumo Azano Matsura, PERSON, 1
+$9.49 million, MONEY, 1
+Gillian Jeffords, PERSON, 1
+Tipster, PERSON, 1
+FridayWarren 1, PRODUCT, 1
+Harvard-Westlake 0San Clemente, ORG, 1
+Century, ORG, 1
+Edison 0Cathedral 6, ORG, 1
+East Valley 2, LOC, 1
+El Rancho 0Santa Ana 3, ORG, 1
+Mar 1Downey 1, DATE, 1
+Fountain Valley, LOC, 1
+Vi, GPE, 1
+CBS News Students, ORG, 1
+Coronado, GPE, 1
+U.S. Embassy, ORG, 1
+Cairo, GPE, 1
+son - Washington Times, ORG, 1
+Maryland High School, ORG, 1
+more than $350 billion, MONEY, 1
+the Beer Institute, ORG, 1
+National Beer Wholesalers Association, ORG, 1
+Last year, DATE, 1
+more than 208 million barrels, QUANTITY, 1
+1.1%, PERCENT, 1
+less than the year before, DATE, 1
+Hispanic, NORP, 1
+16.2%, PERCENT, 1
+15.4%, PERCENT, 1
+5.3%, PERCENT, 1
+$5.6 billion, MONEY, 1
+Coors Light, PRODUCT, 1
+Budweiser, PRODUCT, 1
+Miller, PERSON, 1
+the prior year, DATE, 1
+Modelo Especial, PERSON, 1
+21.3%, PERCENT, 1
+1.35 million, CARDINAL, 1
+7.7 million, CARDINAL, 1
+2.9%, PERCENT, 1
+3.6%, PERCENT, 1
+Michelob Ultra, ORG, 1
+23.6%, PERCENT, 1
+$1.6 billion, MONEY, 1
+24/7, CARDINAL, 1
+one-year, DATE, 1
+Beer Marketer’s Insights, ORG, 1
+Massachusetts School Creates Lockdown Lullaby for School Shootings, ORG, 1
+five-year-olds, DATE, 1
+Cassius Stanley, ORG, 1
+Corona Centennial - Los Angeles Times Cassius Stanley, ORG, 1
+Trailblazers, NORP, 1
+Tuesday night, TIME, 1
+Connecticut, GPE, 1
+New York City After Mysterious, GPE, 1
+September 23, 1869, DATE, 1
+Illinois State, ORG, 1
+World War I - The Washington Post, EVENT, 1
+1915 to 1918, DATE, 1
+The Boston Globe Flu-like, ORG, 1
+the past two decades, DATE, 1
+Ryan Bernard, PERSON, 1
+The Boston Globe Police, ORG, 1
+The Pennsylvania Department of Corrections, ORG, 1
+Manchester City, GPE, 1
+Manchester United, ORG, 1
+Delay Pep Guardiola's, PERSON, 1
+Premier League, ORG, 1
+Manchester United, GPE, 1
+TheHill, ORG, 1
+Response Robert Kadlec, PERSON, 1
+Rapper Everlast, PERSON, 1
+$1.13 million, MONEY, 1
+House of Pain, ORG, 1
+Nearly a decade, DATE, 1
+Bullet, ORG, 1
+Cal State San Bernardino, LOC, 1
+San Bernardino, GPE, 1
+Thursday, August 23rd, DATE, 1
+Saddleback Valley Christian, LOC, 1
+Mar 28, DATE, 1
+El Toro 26, EVENT, 1
+Ganesha, NORP, 1
+La Palma Kennedy, PERSON, 1
+40, DATE, 1
+Smithsonian Channel's, ORG, 1
+that day, DATE, 1
+San Francisco Police Arrest 4, ORG, 1
+Johns Hopkins, ORG, 1
+the Johns Hopkins Center for Health Security, ORG, 1
+900 million, CARDINAL, 1
+Dennis Intermediate School Shooting Live Updates: Teenage Suspect Dead, ORG, 1
+Indiana Police Report All, ORG, 1
+Outbreak, ORG, 1
+CHICO, GPE, 1
+Butte County, GPE, 1
+Lisa Almaguer, PERSON, 1
+the Neighborhood Church, ORG, 1
+close quarters, DATE, 1
+South Korea Tries To Stamp, ORG, 1
+days, DATE, 1
+the Opening Ceremony, ORG, 1
+several dozen, CARDINAL, 1
+Valentine, PERSON, 1
+Day 2017, DATE, 1
+Mike Coffman, PERSON, 1
+At least 4, CARDINAL, 1
+The European Parliament, ORG, 1
+Brethren Christian, PERSON, 1
+Hills 5, DATE, 1
+BAY LEAGUE Mira, ORG, 1
+Bishop Montgomery, ORG, 1
+weeks, DATE, 1
+St. John, GPE, 1
+Bosco, PERSON, 1
+Lockdown Ahead of Planned Protests | Time Around, ORG, 1
+Wall Street, ORG, 1
+the full year, DATE, 1
+February, DATE, 1
+Fox News High, ORG, 1
+Leila Butler, ORG, 1
+at least three, CARDINAL, 1
+one-third, CARDINAL, 1
+the last century, DATE, 1
+Georgia School Evacuated After Teacher Barricaded Himself, ORG, 1
+Ajani Dartiguenave, PERSON, 1
+12, DATE, 1
+Washington Fox, GPE, 1
+Fox, ORG, 1
+Melvin Gresham, PERSON, 1
+the Metropolitan Police Department, ORG, 1
+Friendship Heights, LOC, 1
+Fox 5, DATE, 1
+Upstate New York, FAC, 1
+Hours later, TIME, 1
+Jessica R. Ford, PERSON, 1
+35, DATE, 1
+La Vergne, GPE, 1
+Tenn., GPE, 1
+about 20 miles, QUANTITY, 1
+50-49, DATE, 1
+’ Phaquan Davis, PERSON, 1
+Cleveland National Forest, ORG, 1
+the Cleveland National Forest, ORG, 1
+0%, PERCENT, 1
+The Washington Post Congress, ORG, 1
+LAS VEGAS, GPE, 1
+Omar Minaya, PERSON, 1
+Corona Jedi, PERSON, 1
+Constellation Brands Inc., ORG, 1
+Victor, GPE, 1
+Canopy Growth Corp., ORG, 1
+The U.S. Embassy, ORG, 1
+Port, GPE, 1
+600, CARDINAL, 1
+West Nippersink Road, LOC, 1
+1200, CARDINAL, 1
+Olympic Village, GPE, 1
+American University, ORG, 1
+Twitter, PRODUCT, 1
+Foundation, ORG, 1
+$12 Million, MONEY, 1
+NPR, ORG, 1
+21st century, DATE, 1
+about 40 million, CARDINAL, 1
+the Gates Foundation, ORG, 1
+San Juan Hills, GPE, 1
+Villa Park, ORG, 1
+Tesoro, GPE, 1
+Diamond Ranch, PERSON, 1
+Lollapalooza, NORP, 1
+Bomba Estéreo, PERSON, 1
+BØRNS, ORG, 1
+Freya Ridings, PERSON, 1
+Jessie Reyez, PERSON, 1
+Manchester Orchestra, PERSON, 1
+Neighbourhood, ORG, 1
+Post Animal, PERSON, 1
+Rebelution, GPE, 1
+TroyBoi, PERSON, 1
+Luis-Morales, PERSON, 1
+31, DATE, 1
+WaterFix, ORG, 1
+years, DATE, 1
+Sacramento, GPE, 1
+49, CARDINAL, 1
+Mar Last month, DATE, 1
+JSerra’s, ORG, 1
+Redondo Beach, GPE, 1
+Lions, ORG, 1
+the Sea Kings’, LOC, 1
+CBS News Police, ORG, 1
+Fox News Dozens, ORG, 1
+Winter Olympic, EVENT, 1
+Corona Thinks So - WSJ, PERSON, 1
+Pentagon, ORG, 1
+The New York Times Schools, ORG, 1
+Illinois, GPE, 1
+next season, DATE, 1
+Southern California - Los Angeles Times, LOC, 1
+Southern California, LOC, 1
+The Washington Post Time, ORG, 1
+Saturday, November 24th CITY DIVISION I CHAMPIONSHIP San Pedro 22, DATE, 1
+Dorsey, PERSON, 1
+DIVISION III CHAMPIONSHIP Santee, ORG, 1
+52, DATE, 1
+Rancho Verde, ORG, 1
+Mar 14 DIVISION 6 CHAMPIONSHIP South Hills 23, DATE, 1
+White House - CBS News, ORG, 1
+Reddit Quarantines, ORG, 1
+Reddit, GPE, 1
+two-week, DATE, 1
+the school year, DATE, 1
+John Blackstone, PERSON, 1
+the week ending February 3, DATE, 1
+Hero, ORG, 1
+Shaun White’s, PERSON, 1
+Shaun White, PERSON, 1
+four years, DATE, 1
+Sochi, GPE, 1
+just four months, DATE, 1
+the N.F.L. Playoffs, ORG, 1
+New England, LOC, 1
+Steve Davis, PERSON, 1
+PATH, ORG, 1
+Hollywood, GPE, 1
+NYC, GPE, 1
+MetroCard, PERSON, 1
+the Queens Night Market, ORG, 1
+weekly, DATE, 1
+Ernie, PERSON, 1
+UPS, ORG, 1
+Jason Coronado, PERSON, 1
+Providence Place, FAC, 1
+Plane, PERSON, 1
+The Washington Post Plane, ORG, 1
+14 million, CARDINAL, 1
+15 years, DATE, 1
+Corona Councilman, PERSON, 1
+Sharia, WORK_OF_ART, 1
+at least 50 million, CARDINAL, 1
+British, NORP, 1
+Pittsburgh School, ORG, 1
+TIME, ORG, 1
+The New York Times Deaths, ORG, 1
+Aug. 17, DATE, 1
+the summer season, DATE, 1
+Rajon Rondo, ORG, 1
+Chris Paul, PERSON, 1
+Brandon Ingram, ORG, 1
+Kuiper, ORG, 1
+LeBron James, PERSON, 1
+Los Angeles Laker, GPE, 1
+Washington Post, ORG, 1
+Sun, GPE, 1
+Corona Means Auroras, ORG, 1
+September 11, DATE, 1
+one month, DATE, 1
+400, CARDINAL, 1
+Eastern Europe, LOC, 1
+South America, LOC, 1
+50, DATE, 1
+26-24, DATE, 1
+18-25, DATE, 1
+28, CARDINAL, 1
+Carlsbad La, PERSON, 1
+15-11, DATE, 1
+La Joll, PERSON, 1
+33 million, CARDINAL, 1
+Tycoon, GPE, 1
+more than $5 million, MONEY, 1
+Superior Court, ORG, 1
+2011, DATE, 1
+51-year-old, DATE, 1
+Feinstein, ORG, 1
+85, DATE, 1
+the U.S. Senate, ORG, 1
+Des Moines, GPE, 1
+CBS News Highline College, ORG, 1
+Alliance Bloomfield, PERSON, 1
+58, DATE, 1
+Murrieta Mesa, ORG, 1
+Royal 40 Cate 72, ORG, 1
+52, CARDINAL, 1
+Millikan, GPE, 1
+Mar 67, DATE, 1
+50 Crespi, TIME, 1
+KANSAS CITY, GPE, 1
+Mo., GPE, 1
+Arrowhead Stadium, FAC, 1
+the University of Kansas Hospital, ORG, 1
+Kylian Mbappe, ORG, 1
+June 30, DATE, 1
+Argentina, GPE, 1
+Lionel Messi, PERSON, 1
+Chris Street, FAC, 1
+JSerra Chris Street, FAC, 1
+last season, DATE, 1
+Shakobe Harper, PERSON, 1
+110 yards, QUANTITY, 1
+Ohio - Chicago Tribune Authorities, ORG, 1
+Warren Girls' Div, ORG, 1
+South Pasadena, GPE, 1
+Westminster, PERSON, 1
+#4 Sunny Hills, MONEY, 1
+Corona Girls' Div, ORG, 1
+Rialto, ORG, 1
+#1 San Gabriel Mission, MONEY, 1
+Desert Mirage, PERSON, 1
+Guitarist Jimmy Page, PERSON, 1
+Led Zeppelin CORONA, PERSON, 1
+Jimmy Page, PERSON, 1
+50 years ago, DATE, 1
+1959, DATE, 1
+Excalibur, ORG, 1
+the wildly eventful year of 1968, DATE, 1
+Yardbirds, ORG, 1
+Led Zeppelin, PERSON, 1
+just two months later, DATE, 1
+Los Angeles Times, ORG, 1
+Santa, GPE, 1
+up to 100, CARDINAL, 1
+Vanilla Ice, PERSON, 1
+2:40 a.m., TIME, 1
+Christophe Castaner, PERSON, 1
+early Wednesday, TIME, 1
+350, CARDINAL, 1
+Brazilian, NORP, 1
+Lidia Karine Souza's, ORG, 1
+four weeks, DATE, 1
+Elizabeth -, PERSON, 1
+Flushing Meadows-Corona Park, ORG, 1
+about 7:30 p.m., TIME, 1
+PyeongChang - The Washington Post, ORG, 1
+Californian, PERSON, 1
+World War I. -, EVENT, 1
+The Washington Post Winning World War I, ORG, 1
+Chicago Tribune Worse, ORG, 1
+Mexico Border, GPE, 1
+NPR Constellation Brands, ORG, 1
+Mexicali, PERSON, 1
+Between 1918 and 1919, DATE, 1
+more than 50 million, CARDINAL, 1
+15 months, DATE, 1
+7 p.m. San Diego Westview, TIME, 1
+Loyola La Jolla, ORG, 1
+#2 Newport Harbor, MONEY, 1
+II, CARDINAL, 1
+7-foot, QUANTITY, 1
+Platinum Division, ORG, 1
+Classic, PRODUCT, 1
+79-52, DATE, 1
+Satu, ORG, 1
+Daily Pilot News, ORG, 1
+Costa Mesa, GPE, 1
+weather - Los Angeles Times, ORG, 1
+Irvine, GPE, 1
+United Arab Emirates, ORG, 1
+the United Arab Emirates, GPE, 1
+Macron, ORG, 1
+Gift Tree Gone, PERSON, 1
+White House Lawn, ORG, 1
+Says, PERSON, 1
+In Quarantine :, WORK_OF_ART, 1
+World War, EVENT, 1
+Mbandaka, PERSON, 1
+Medecins Sans Frontieres', ORG, 1
+NYC, ORG, 1
+Another New Yorker, ORG, 1
+Lachtman Ramnanan, PERSON, 1
+Queens, ORG, 1
+North Lawn, PERSON, 1
+roughly 40 minutes, TIME, 1
+Juan Corona, PERSON, 1
+Coach Manny, PERSON, 1
+New York Post Active, ORG, 1
+Joy Levinson, PERSON, 1
+UC Riverside, ORG, 1
+the UC Riverside, ORG, 1
+Corona Fire Capt, ORG, 1
+Jim Steiner, PERSON, 1
+Los Angeles Police Sgt, GPE, 1
+Chicago Tribune Health, ORG, 1
+Olympics, EVENT, 1
+Dozens, CARDINAL, 1
+Synagogues Across, PERSON, 1
+Pittsburgh, GPE, 1
+Nikki Corona', FAC, 1
+The Motorcycle Diaries, WORK_OF_ART, 1
+the Geffen Playhouse, ORG, 1
+The Best Weapon Against Norovirus, ORG, 1
+Bleach, PERSON, 1
+NPR Norovirus, ORG, 1
+BANGOR, ORG, 1
+Susan Collins, PERSON, 1
+Supreme Court, ORG, 1
+Brett Kavanaugh, PERSON, 1
+Thomas Daffron, PERSON, 1
+WABI-TV, ORG, 1
+Daffron, GPE, 1
+Labrador, ORG, 1
+Pepper, ORG, 1
+Salisbury Shopping Centre and Hospital Quarantined, ORG, 1
+England, GPE, 1
+St., GPE, 1
+John Bosco-Mater Dei, PERSON, 1
+the Southern Section, ORG, 1
+Emirates Air, ORG, 1
+Harvard’s, ORG, 1
+The Boston Globe Harvard University, ORG, 1
+Quarantined Airplane, PERSON, 1
+the past two years, DATE, 1
+50, CARDINAL, 1
+12-day, DATE, 1
+Longtime Hotel, PERSON, 1
+- Los Angeles Times Longtime Hotel, ORG, 1
+Worsen - WSJ, ORG, 1
+Evanston, GPE, 1
+Ill., GPE, 1
+November, DATE, 1
+the Future Speaks During Accidental Alert at, ORG, 1
+Elementary School, ORG, 1
+Fifth, ORDINAL, 1
+MarSeventh, PERSON, 1
+Santiago Canyon College, ORG, 1
+Third, ORDINAL, 1
+Foothill , PERSON, 1
+CHAMPIONSHIPSSaturday, DATE, 1
+Quarantined Emirates Plane, ORG, 1
+203, CARDINAL, 1
+Elizabeth II's, PERSON, 1
+65 years later, DATE, 1
+the first day of the season, DATE, 1
+Malik Scurlock, PERSON, 1
+285-pound, QUANTITY, 1
+Corona Owner’s, ORG, 1
+The New York Times Constellation’s, ORG, 1
+Canopy, ORG, 1
+11 a.m., TIME, 1
+Div, PERSON, 1
+Diamond Ranch, ORG, 1
+Garden Grove, GPE, 1
+1:30 p.m. Div, TIME, 1
+4 p.m. Div, TIME, 1
+6:30, TIME, 1
+the Broad Institute, ORG, 1
+Reseda, PERSON, 1
+the San Fernando Valley, GPE, 1
+the University of Nebraska, ORG, 1
+Concordia University, ORG, 1
+Chicago Tribune Police, ORG, 1
+four-hour, TIME, 1
+one-fourth, CARDINAL, 1
+1.4 billion, CARDINAL, 1
+Reports - Washington Times, ORG, 1
+Loch Raven High School, ORG, 1
+Towson, GPE, 1
+La Puente Bishop Amat, ORG, 1
+NPR Hospitals, ORG, 1
+tomorrow, DATE, 1
+as many as 33 million, CARDINAL, 1
+its first 200 days, DATE, 1
+Campbell Hall, FAC, 1
+Arcadia 8, ORG, 1
+Costa 9, DATE, 1
+Aliso Niguel, PERSON, 1
+Kendrick Lamar, PERSON, 1
+Jay Z, PERSON, 1
+Bruno Mars, LOC, 1
+Coronado Bridge, FAC, 1
+the National Security Council, ORG, 1
+hundreds of thousands, CARDINAL, 1
+Gonzaga’s, ORG, 1
+Four, CARDINAL, 1
+JFK Airport After Report of Sick Passengers, FAC, 1
+Stanford, ORG, 1
+Mormon, NORP, 1
+Tanner McKee of Corona Centennial, ORG, 1
+German, NORP, 1
+This the Day, DATE, 1
+the Florida School Shooting - The New York Times Teachers, ORG, 1
+Bishop Amat 3, ORG, 1
+Hart 0 Foothill 2, LAW, 1
+Costa 1, LAW, 1
+South Hills, GPE, 1
+5, DATE, 1
+3:15 p.m., TIME, 1
+La Mirada, EVENT, 1
+Lanternflies Eat Everything, PERSON, 1
+3,000 square miles, QUANTITY, 1
+Parker, PERSON, 1
+26.6 million miles, QUANTITY, 1
+43 million kilometers, QUANTITY, 1
+1976, DATE, 1
+next week, DATE, 1
+the next seven years, DATE, 1
+just 3.8 million miles, QUANTITY, 1
+6 million kilometers, QUANTITY, 1
+New York Food Festival Aims, ORG, 1
+1960s, DATE, 1
+1964-65, DATE, 1
+Flushing Meadows, PRODUCT, 1
+Corona Park, GPE, 1
+Bakersfield, ORG, 1
+hours-long, TIME, 1
+Putin’s, ORG, 1
+4th Term, ORG, 1
+Vladimir V. Putin, PERSON, 1
+Mafia, ORG, 1
+Whitey Bulger - CBS News, PERSON, 1
+West Virginia, GPE, 1
+Whitey Bulger, PERSON, 1
+1st, ORDINAL, 1
+just 2 1/2 months, DATE, 1
+213,000 mph, QUANTITY, 1
+342,000, CARDINAL, 1
+3,800 Year-Old Teeth, DATE, 1
+nearly five months, DATE, 1
+Harvard-Westlake 4 Bishop Amat 5, ORG, 1
+El Toro 3, ORG, 1
+La Mirada 6, EVENT, 1
+Moorpark, GPE, 1
+Corona Centennial 83-67 - Los Angeles Times, ORG, 1
+five-month, DATE, 1
+Chatsworth Sierra Canyon, PERSON, 1
+Millions, CARDINAL, 1
+The Washington Post School, ORG, 1
+STAT, ORG, 1
+Gates, ORG, 1
+nearly an hour, TIME, 1
+Lockdown Drills, PERSON, 1
+4.1 million, CARDINAL, 1
+Corona Centennial 0, ORG, 1
+EMPIRE LEAGUE Cypress 7, ORG, 1
+FREEWAY LEAGUE, ORG, 1
+Sonora 2 Sunny Hills, ORG, 1
+La Habra, ORG, 1
+Buena Park, FAC, 1
+GOLD COAST LEAGUE Sierra, ORG, 1
+A hundred years ago, DATE, 1
+Richard Ripley, PERSON, 1
+Westchester, GPE, 1
+Westchester, ORG, 1
+Fall Off a Funding Cliff - The Atlantic, ORG, 1
+Prep Zone, FAC, 1
+Fox Sports West’s, ORG, 1
+The Corona Centennial, ORG, 1
+Orange Coast College, ORG, 1
+Calabasas, GPE, 1
+three-year, DATE, 1
+Modelo Going, ORG, 1
+Drink Mexicali, PERSON, 1
+more than $1 billion, MONEY, 1
+Fort Lauderdale, GPE, 1
+Suspicious Package', ORG, 1
+Fort Lauderdale-, GPE, 1
+Terminal 4, EVENT, 1
+the Broward Sherriff's Office, ORG, 1
+Fourteen, CARDINAL, 1
+the Pyeongchang Olympics, FAC, 1
+the Korean Centers for Disease Control and Prevention, ORG, 1
+53, CARDINAL, 1
+Obama’s, PERSON, 1
+20-25, DATE, 1
+Mira Costa, PERSON, 1
+15-25, DATE, 1
+Tesoro, ORG, 1
+weekend, DATE, 1
+PARIS, PERSON, 1
+the Eiffel Tower, LOC, 1
+Louvre., LAW, 1
+CBS News Authorities, ORG, 1
+At least three, CARDINAL, 1
+Vladimir Duthiers, PERSON, 1
+Anne-Marie Green, PERSON, 1
+One hundred years ago, DATE, 1
+50 to 100 million, CARDINAL, 1
+42, DATE, 1
+Bell, ORG, 1
+39, CARDINAL, 1
+44, CARDINAL, 1
+Canonsburg, GPE, 1
+Pa., GPE, 1
+Canon-McMillan, PERSON, 1
+Carlsbad La, FAC, 1
+Costa Canyon, LOC, 1
+Great Oak 60 Chaparral 63, EVENT, 1
+El Cajon Valley, GPE, 1
+Cleveland, GPE, 1
+Crossroads, GPE, 1
+Mar 78, DATE, 1
+the Corona City Council, ORG, 1
+The U.S. Constitution, WORK_OF_ART, 1
+Lockdown After Secret Service Alerted to Vehicle, ORG, 1
+Checkpoint Secret Service, ORG, 1
+2012, DATE, 1
+Tre Watson, PERSON, 1
+Jane Brody’s, PERSON, 1
+16-year-old, DATE, 1
+Ethan, PERSON, 1
+The Washington Post Student, ORG, 1
+Kindergarten Classroom, ORG, 1
+Georgy Cohen, PERSON, 1
+Cole, PRODUCT, 1
+Orange Lutheran, ORG, 1
+National High School Invitational, ORG, 1
+the National High School Invitational, ORG, 1
+Cary, GPE, 1
+N.C., GPE, 1
+Cole Winn, PRODUCT, 1
+nine, CARDINAL, 1
+Florence, GPE, 1
+Corona Santiago, PERSON, 1
+Corona Giant Bets Billions, ORG, 1
+The Washington Post Bradley Beal, ORG, 1
+Austin Rivers, PERSON, 1
+Corona Boss, PERSON, 1
+Wine Sales - WSJ, PERSON, 1
+Fox News Armed, ORG, 1
+a straight second day, DATE, 1
+BASEBALL BASELINE LEAGUE Etiwanda 10, ORG, 1
+Mary Star, PERSON, 1
+DEL REY LEAGUE Bishop Amat 12, ORG, 1
+St Paul 0, PERSON, 1
+DEL RIO LEAGUE, ORG, 1
+El Rancho 1, EVENT, 1
+HACIENDA LEAGUE, ORG, 1
+INLAND VALLEY LEAGUE Arl, ORG, 1
+Chinese, NORP, 1
+month-long, DATE, 1
+1 Irvine University, ORG, 1
+#3 Arcadia #2, MONEY, 1
+Costa 14, LAW, 1
+Santa Monica, GPE, 1
+Oaks Christian 8 Santa Margarita, ORG, 1
+Flight 203, PRODUCT, 1
+JFK International Airport, FAC, 1
+Airbus, ORG, 1
+United Arab Emirates, GPE, 1
+9:18 a.m., TIME, 1
+84, CARDINAL, 1
+Oak Hills, GPE, 1
+55, DATE, 1
+Ayala, PERSON, 1
+Norco 44, LAW, 1
+Bloomington Christian, PERSON, 1
+Redlands Adventist, ORG, 1
+Calvary Murrieta, PERSON, 1
+67, CARDINAL, 1
+Canoga Park 79, FAC, 1
+Animo Bunche, PERSON, 1
+Mar 48, DATE, 1
+Diamond Bar, GPE, 1
+Philippine, NORP, 1
+COTABATO, ORG, 1
+last-minute, TIME, 1
+New Year's Eve, EVENT, 1
+at least two, CARDINAL, 1
+South, LOC, 1
+Cotabato city, GPE, 1
+Chloe Kim, PERSON, 1
+PYEONGCHANG, GPE, 1
+Torrance, GPE, 1
+Jackson Local School District, ORG, 1
+Hundreds, CARDINAL, 1
+550 million, CARDINAL, 1
+Obama - The Washington Post Obamus, ORG, 1
+half a billion years ago, MONEY, 1
+Dodgers, PERSON, 1
+just three, CARDINAL, 1
+Dodger, NORP, 1
+this Sunday, DATE, 1
+June 1953, DATE, 1
+Calvin Coolidge, PERSON, 1
+World War II, EVENT, 1
+Dwight D. Eisenhower, PERSON, 1
+the Federal-Aid Highway Act, ORG, 1
+1956, DATE, 1
+José Rivera's, PERSON, 1
+The Untranslatable Secrets of, WORK_OF_ART, 1
+Nikki Corona', ORG, 1
+The Untranslatable Secrets of Nikki Corona"at, ORG, 1
+Jo Bonney, PERSON, 1
+Symptoms Highest Percentage, ORG, 1
+Jalen Ramsey, PERSON, 1
+Jaguars, ORG, 1
+The Washington Post Once, ORG, 1
+four decades, DATE, 1
+An estimated 80,000, CARDINAL, 1
+Drs, PERSON, 1
+Natalie Azar, PERSON, 1
+Dave Campbell, PERSON, 1
+Joe, PERSON, 1
+Virginia Transgender Student Denied Entry, ORG, 1
+Virginia, GPE, 1
+about 10, CARDINAL, 1
+5,000-year-old, DATE, 1
+Sweden, GPE, 1
+the end of the Stone Age, DATE, 1
+more than 100 million, MONEY, 1
+Fox News Health, ORG, 1
+more than 40, CARDINAL, 1
+BASEBALLACADEMY LEAGUESage Hill, PRODUCT, 1
+Oxford Academy, ORG, 1
+Linfield Christian, PERSON, 1
+Savanna 2, PRODUCT, 1
+PACIFIC COAST, LOC, 1
+Mar 11, DATE, 1
+El Chapo Trial:, ORG, 1
+Schedule, ORG, 1
+Background, PERSON, 1
+Brooklyn, GPE, 1
+four-week, DATE, 1
+PyeongChang, ORG, 1
+The Washington Post Soldiers, ORG, 1
+Harbor City Narbonne, ORG, 1
+Las Vegas Bishop Gorman, ORG, 1
+San Fernando, GPE, 1
+Notre Dame - Los Angeles Times, FAC, 1
+between two top 25, CARDINAL, 1
+Jaylen Clark, PERSON, 1
+Anthony Holland, PERSON, 1
+23, CARDINAL, 1
+Baltimore, GPE, 1
+Baltimore County Police, ORG, 1
+2017-2018 School Year, DATE, 1
+Analysis More than 25,300, CARDINAL, 1
+94, CARDINAL, 1
+Randy Burgess, PERSON, 1
+the Coronado Unified School District, ORG, 1
+Burgess, LOC, 1
+Cienega Las Tlayudas de Oaxaca - The New York Times, FAC, 1
+Queens, GPE, 1
+tlayudas, DATE, 1
+700,000, MONEY, 1
+roughly $700,000, MONEY, 1
+Hemet, GPE, 1
+Cathedral City, GPE, 1
+one week, DATE, 1
+Mater Dei No, PERSON, 1
+JSerra No, ORG, 1
+1/8, CARDINAL, 1
+CBS Evening News -, ORG, 1
+Oprah, PERSON, 1
+Golden Globes, PERSON, 1
+2020, DATE, 1
+anti-India, ORG, 1
+At least seven, CARDINAL, 1
+over three dozen, CARDINAL, 1
+anti-India, GPE, 1
+California Flu, FAC, 1
+this winter, DATE, 1
+the early 21st century, DATE, 1
+The Florida Keys', ORG, 1
+10-day, DATE, 1
+Key West, GPE, 1
+1979, DATE, 1
+Key Westers, ORG, 1
+between summer and winter, DATE, 1
+almost 100, CARDINAL, 1
+Zombie Bike Ride, WORK_OF_ART, 1
+Pet Masquerade, PERSON, 1
+next Friday's, DATE, 1
+The Fantasy Fest Parade, ORG, 1
+next Saturday night, TIME, 1
+more than 60,000, CARDINAL, 1
+Soak, PERSON, 1
+Club Mud, PERSON, 1
+everyone - LA Times, ORG, 1
+Guatemala-Mayan Altar, ORG, 1
+GUATEMALA CITY, GPE, 1
+Sept. 14, DATE, 1
+Chak Took Ich'aak, WORK_OF_ART, 1
+the La Corona, FAC, 1
+Chicago Tribune, ORG, 1
+Chicago Public Schools, ORG, 1
+Tijuana River, LOC, 1
+the Silver Strand, ORG, 1
+Imperial Beach, GPE, 1
+the San Diego County Department of Environmental Health, ORG, 1
+The Boston Globe The Black Death, ORG, 1
+1300s, DATE, 1
+about 60 percent, PERCENT, 1
+Russian, NORP, 1
+Week Six, EVENT, 1
+September 27th, DATE, 1
+Adelanto, GPE, 1
+7 p.m. EMPIRE LEAGUE Placentia Valencia, TIME, 1
+Crean Lutheran, PERSON, 1
+7 p.m. GARDEN, TIME, 1
+Loara, PERSON, 1
+7 p.m. Garden Grove S, TIME, 1
+The Southern Section, ORG, 1
+Division 2, ORG, 1
+Brett Sheward of Orange Lutheran, ORG, 1
+A century, DATE, 1
+tens of millions, CARDINAL, 1
+ARROWHEAD LEAGUE Carnegie 12, ORG, 1
+Upland Christian 1, ORG, 1
+CAMINO REAL LEAGUE St. Monica 1, ORG, 1
+Bishop Montgomery 0, ORG, 1
+HACIENDA LEAGUE Los Altos, ORG, 1
+El Monte, GPE, 1
+MONTVIEW LEAGUE Sierra Vista, ORG, 1
+ORANGE LEAGUE Cen, ORG, 1
+Coroner, ORG, 1
+DUI, ORG, 1
+Waukegan - Chicago Tribune, ORG, 1
+42-year-old, DATE, 1
+Jose Socorro Arroyo-Zavala, PERSON, 1
+Waukegan, PERSON, 1
+41-year-old, DATE, 1
+Laura Orozco Corona, PERSON, 1
+Moroleon, ORG, 1
+Guanajuato, GPE, 1
+Combinator, ORG, 1
+Altman, ORG, 1
+Melinda Gates, PERSON, 1
+Targets Opioids, PERSON, 1
+Pandemics - WSJ, ORG, 1
+News-Journal, ORG, 1
+Volusia County Sheriff’s, ORG, 1
+Spain, GPE, 1
+Capitol, ORG, 1
+The Denver Police Department, ORG, 1
+Native Gardens, WORK_OF_ART, 1
+Pasadena Playhouse, ORG, 1
+the Hollywood Pantages Theatre, ORG, 1
+Griot Theatre's, FAC, 1
+fifth, ORDINAL, 1
+a Year of Women Running, DATE, 1
+Oregon, GPE, 1
+Kate Brown, PERSON, 1
+Knute Buehler, PERSON, 1
+Democrats, NORP, 1
+70, DATE, 1
+Great Oak 47, EVENT, 1
+Justin Hill, PERSON, 1
+Julian Williams, PERSON, 1
+56, DATE, 1
+Verdugo Hills, GPE, 1
+Noah McKenzie, PERSON, 1
+Oak Park 58, LOC, 1
+Sylmar, GPE, 1
+Clark Slajchert, PERSON, 1
+Eagles, GPE, 1
+Molson Coors, PERSON, 1
+San Diego-Coronado Bridge Resident, GPE, 1
+2017-18 school year, DATE, 1
+2017-2018 school year, DATE, 1
+Meghan Markle, PERSON, 1
+The Boston Globe Markle’s, ORG, 1
+TMZ, ORG, 1
+HHS, ORG, 1
+Gunfire, PERSON, 1
+Moreno Valley Mall Police, FAC, 1
+Moreno Valley Mall, FAC, 1
+the Riverside County Sheriff’s Department, ORG, 1
+Deyshia Hargrave, ORG, 1
+Montgomery College’s, ORG, 1
+Putin, PERSON, 1
+4th, ORDINAL, 1
+Custodian, NORP, 1
+Hamlet, WORK_OF_ART, 1
+about 15 miles, QUANTITY, 1
+Providence, GPE, 1
+p.m.#1 Servite, PERSON, 1
+byeHarvard-Westlake, ORG, 1
+WarrenCentury, ORG, 1
+San ClementePalos Verdes, FAC, 1
+EdisonSherman Oaks Notre Dame, ORG, 1
+CathedralParamount, ORG, 1
+El DoradoRedlands East Valley, ORG, 1
+El Rancho#4 Millikan, ORG, 1
+byeCorona, GPE, 1
+the Battle of the Beach, ORG, 1
+seven-on-seven, TIME, 1
+Edison The, FAC, 1
+the Battle of the Beach, WORK_OF_ART, 1
+this summer, DATE, 1
+Saturday, July 7, DATE, 1
+Cajon, GPE, 1
+Cathedral Catholic, ORG, 1
+L.A. Cathedral, ORG, 1
+Charter Oak, PERSON, 1
+JSerra, GPE, 1
+La Habra, GPE, 1
+Mater D, PERSON, 1
+Mar-a-Lago, TIME, 1
+last week, DATE, 1
+two-day, DATE, 1
+The Boston Globe China, ORG, 1
+16-day, DATE, 1
+the National People’s Congress, ORG, 1
+Xi Jinping, PERSON, 1
+Haitians, NORP, 1
+Thursday, October 25th, DATE, 1
+SOUTHERN SECTION ACADEMY LEAGUE Fairmont, ORG, 1
+64, CARDINAL, 1
+Eastvale Roosevelt, PERSON, 1
+0, CARDINAL, 1
+CHANNEL LEAGUE, ORG, 1
+Santa Barbara, GPE, 1
+24, DATE, 1
+Elizabeth Shares Secrets, PERSON, 1
+Coronation, NORP, 1
+more than two pounds, QUANTITY, 1
+YouTuber, ORG, 1
+Tony, PERSON, 1
+Hamilton, PERSON, 1
+Francisco, PERSON, 1
+Anaheim, ORG, 1
+Anaheim, GPE, 1
+5-2, PERCENT, 1
+Pitcher Ryan Taurek, PERSON, 1
+Feds, NORP, 1
+The Boston Globe Data, ORG, 1
+the day, DATE, 1
+Final, GPE, 1
+Mass., GPE, 1
+The Boston Globe The Souza-Baranowski Correctional Center, ORG, 1
+five days, DATE, 1
+the Women’s, ORG, 1
+Worries, ORG, 1
+Richard Bailey, PERSON, 1
+The Washington Post Kramer Middle School, ORG, 1
+Fairlawn, PRODUCT, 1
+Breitbart Miami, PERSON, 1
+AFP, ORG, 1
+at least 37, CARDINAL, 1
+Saugus 51, LAW, 1
+Santa Monica, LOC, 1
+Adrian McIntyre, PERSON, 1
+19, CARDINAL, 1
+Saugus, ORG, 1
+Staten Island, LOC, 1
+Susan E. Wagner, PERSON, 1
+Chatsworth High School Chatsworth High School, ORG, 1
+Vernon Hills, GPE, 1
+K9, PERSON, 1
+Dockless, ORG, 1
+the years, DATE, 1
+New York Post, ORG, 1
+Salt Lake City, GPE, 1
+Fernando Coronado, PERSON, 1
+Carolina High School Bomb Threat Update:, ORG, 1
+Nashville Airport Quarantine Latest, FAC, 1
+Mike Huckabee, PERSON, 1
+Nashville International Airport, FAC, 1
+an estimated one-third, CARDINAL, 1
+up to 100 million, CARDINAL, 1
+The Biggest Threat, ORG, 1
+Humanity Little, ORG, 1
+Jim Al-Khalili, PERSON, 1
+Corona Brewer - WSJ, ORG, 1
+Victor, PRODUCT, 1
+March 1, DATE, 1
+Mar 4, DATE, 1
+San Marcos, GPE, 1
+6 p.m, PERCENT, 1
+Three weeks, DATE, 1
+the Southern Section, LOC, 1
+John Bosco, PERSON, 1
+House, ORG, 1
+Republicans, NORP, 1
+| TheHill Department of Homeland Security, ORG, 1
+Kirstjen Nielsen, PERSON, 1
+Russia, GPE, 1
+last year's, DATE, 1
+White House Briefly Put, ORG, 1
+NPR The Secret Service, ORG, 1
+The Boston Globe “Lockdown, ORG, 1
+Lock, PERSON, 1
+Shut, PERSON, 1
+Earth, LOC, 1
+Las Vegas, GPE, 1
+Sara Ross, PERSON, 1
+16, DATE, 1
+The Coronado High School Student, ORG, 1
+Oct. 1, DATE, 1
+more than 700, CARDINAL, 1
+Fellow Classmate, PERSON, 1
+North Carolina High School, GPE, 1
+approximately 9:15 a.m.', TIME, 1
+Lorde Covers, PERSON, 1
+Kanye West's, PERSON, 1
+Love Lockdown, Runaway, WORK_OF_ART, 1
+Kanye West, PERSON, 1
+any year since 1999, DATE, 1
+Jim Axelrod, PERSON, 1
+a second straight day, DATE, 1
+Srinagar, GPE, 1
+Kashmiri, PRODUCT, 1
+JRL, ORG, 1
+Kashmiris, GPE, 1
+early Thursday, DATE, 1
+2-year-old, DATE, 1
+MOUNTAIN PASS LEAGUE Tahquitz 11, ORG, 1
+Beaumont, GPE, 1
+SOUTH COAST LEAGUE Mission, ORG, 1
+NONLEAGUE Corona, PERSON, 1
+Mar 8, DATE, 1
+Woodcrest Christian, NORP, 1
+Hills 7, ORG, 1
+GARDEN GROVE LEAGUE Los Amig, ORG, 1
+JFK - Washington Times, ORG, 1
+1990s, DATE, 1
+30 Million, CARDINAL, 1
+USWNT, ORG, 1
+England, PERSON, 1
+The Washington Post Plus, ORG, 1
+Joe Corona's, PERSON, 1
+Red Bulls', ORG, 1
+Tijuana, GPE, 1
+the Clippers - Los Angeles Times, ORG, 1
+Clippers, ORG, 1
+South Torrance, GPE, 1
+Valencia, PERSON, 1
+25-19, TIME, 1
+Quartz Hill, PERSON, 1
+25, DATE, 1
+NBC, ORG, 1
+Katy Tur, PERSON, 1
+Miguel Almaguer, PERSON, 1
+Georgia, GPE, 1
+Dalton High School, ORG, 1
+Fentanyl, PERSON, 1
+New Day, EVENT, 1
+4-hour, TIME, 1
+Concordia University - Chicago Tribune, ORG, 1
+33-year-old, DATE, 1
+Oct. 17, DATE, 1
+2017-18 flu season, DATE, 1
+Q&A, ORG, 1
+Winnetka, GPE, 1
+Atlanta High School After Student, ORG, 1
+Benjamin E. Mays High School, PERSON, 1
+Atlanta, GPE, 1
+Jackson Memorial Middle School:, ORG, 1
+Jackson Local Schools - CBS News, ORG, 1
+Jackson Township, GPE, 1
+Sun’s, GPE, 1
+Cleveland Hospital Placed, ORG, 1
+Lockdown Medina Police, ORG, 1
+Ohio Hospital, ORG, 1
+Los Angeles Times GIRLS', ORG, 1
+Palos Verdes 4, ORG, 1
+San Diego Canyon Crest, GPE, 1
+Fresno Clovis North, ORG, 1
+Mar 6, DATE, 1
+Encinitas San Dieguito Academy, ORG, 1
+Friday Arcadia 4, DATE, 1
+Palos Verdes 3, ORG, 1
+27, CARDINAL, 1
+Downey, PERSON, 1
+Tustin 25-23, PERSON, 1
+San Gabriel Academy, ORG, 1
+Thursday, September 27th, DATE, 1
+Centennial 59, DATE, 1
+Adelanto, ORG, 1
+EMPIRE LEAGUE Placentia, ORG, 1
+34, DATE, 1
+Crean, NORP, 1
+GARDEN GROVE LEAGUE, ORG, 1
+54, CARDINAL, 1
+Bolsa Grande, ORG, 1
+Alamitos, PERSON, 1
+Garden Grove Santiago, GPE, 1
+HACIENDA L, ORG, 1
+Temecula Valley, LOC, 1
+Yucaipa, ORG, 1
+Palm Springs, GPE, 1
+Alta Loma, ORG, 1
+2 Mayfield 11, DATE, 1
+Plane, ORG, 1
+Yountville Veteran's, PERSON, 1
+Napa Valley, LOC, 1
+council - Los Angeles Times, ORG, 1
+Councilman, NORP, 1
+American University Lockdown: Reports of Armed Intruder Near D.C. Campus, ORG, 1
+Radio Atlantic, ORG, 1
+A century ago, DATE, 1
+five percent, PERCENT, 1
+the hundred years, DATE, 1
+MISSION LEAGUE Sherman, ORG, 1
+Dame 5, DATE, 1
+St. Francis 1, GPE, 1
+Citrus Hill, GPE, 1
+ORANGE LEAGUE Katella, ORG, 1
+23, DATE, 1
+Magnolia, GPE, 1
+800,000, MONEY, 1
+roughly $800,000, MONEY, 1
+Norco, ORG, 1
+Veterans, NORP, 1
+$65 Million, MONEY, 1
+Kennedy Airport Sits Empty - The New York Times, FAC, 1
+the Port Authority, ORG, 1
+Highline College, ORG, 1
+The Washington Post Police, ORG, 1
+150 million, CARDINAL, 1
+Victims, NORP, 1
+Synagogue Attack, PERSON, 1
+anti-Semitic, NORP, 1
+first-quarter, DATE, 1
+quarterly, DATE, 1
+full-year, DATE, 1
+Los Alamitos Championship, PERSON, 1
+#7 San Marcos, MONEY, 1
+Mirada 1, EVENT, 1
+Corona Santiago 1Santa Margarita 2, ORG, 1
+Los Osos 0Upland 1, GPE, 1
+Harvard-Westlake, ORG, 1
+3 or 5 p.m.JSerra, TIME, 1
+La, GPE, 1
+#3 Santa Margarita, MONEY, 1
+FridayCypres, ORG, 1
+St. Louis, GPE, 1
+the St. Louis Children's Hospital, ORG, 1
+South Carolina, GPE, 1
+same day, DATE, 1
+Northwestern University’s, ORG, 1
+CPD, ORG, 1
+QB Tanner McKee, ORG, 1
+San Antonio, GPE, 1
+São Paulo, GPE, 1
+Mormon Mission, ORG, 1
+Portuguese, NORP, 1
+Deroy Murdock, PERSON, 1
+Herb London, PERSON, 1
+Herbert Ira London, PERSON, 1
+Ph.D., WORK_OF_ART, 1
+age 79, DATE, 1
+Sarah Backus, PERSON, 1
+New Mexico, GPE, 1
+Pan Artesanal - Chicago Tribune Ina Pinkney, ORG, 1
+Pan Artesanal Bakery, ORG, 1
+Coffee Shop, ORG, 1
+Gallops Island -, LOC, 1
+The Boston Globe Gallops Island, ORG, 1
+Boston Harbor, FAC, 1
+seven-year, DATE, 1
+several million degrees, QUANTITY, 1
+Fahrenheit, ORG, 1
+DIVISION II Final, PERSON, 1
+Escondido Classical Academy, ORG, 1
+25-13, DATE, 1
+DIVISION III Final, ORG, 1
+Murrie, PERSON, 1
+nearly a decade, DATE, 1
+nearly 10 years ago, DATE, 1
+between 50 and 100 million, CARDINAL, 1
+Corona Brewer Bets, ORG, 1
+Millionaire, ORG, 1
+Adam Shacknai, PERSON, 1
+L.A. middle school Gunshots, ORG, 1
+Sal Castro Middle School, ORG, 1
+L.A., GPE, 1
+2019, DATE, 1
+Phalaen Chang, PERSON, 1
+the California School of the Arts, ORG, 1
+less than a minute, TIME, 1
+40, CARDINAL, 1
+Riley Battin's, PERSON, 1
+Oak Park, LOC, 1
+Oak Park High’s, GPE, 1
+eight, CARDINAL, 1
+Southern Section Open Division, ORG, 1
+Vista Murrieta, ORG, 1
+3 Ayala, PERSON, 1
+Charter Oak 3 Hart 13, LAW, 1
+Righetti 5, DATE, 1
+Vista Murrieta, PERSON, 1
+La Serna Ayala, FAC, 1
+Rowland Hart, ORG, 1
+Long Beach Poly Riverside, GPE, 1
+Eighth-Grader Attacks, DATE, 1
+Stabs, NORP, 1
+Georgia School, ORG, 1
+more than 100, CARDINAL, 1
+more than 90 days, DATE, 1
+El Toro, FAC, 1
+Sherman Oaks Notre Dame, FAC, 1
+Norco, PERSON, 1
+Newport Harbor, ORG, 1
+John Chau, PERSON, 1
+The Washington Post Chau, ORG, 1
+The Miami Herald, FAC, 1
+Parker Solar Probe| Latest News, ORG, 1
+Fox News Scientists, ORG, 1
+Arcadia 4 Mira, LAW, 1
+Mar 9 (Mira Costa, DATE, 1
+Harvard-Westlake 13, ORG, 1
+Anaheim Canyon 6, ORG, 1
+Arroyo Gran, PERSON, 1
+Tewksbury, GPE, 1
+The Boston Globe The Public Health Museum, ORG, 1
+the American Red Cross, ORG, 1
+John F. Kennedy Airport, PERSON, 1
+Don Dahler, PERSON, 1
+Elizabeth Met, PERSON, 1
+| Time, PERSON, 1
+eleven, CARDINAL, 1
+Support, GPE, 1
+Reject Own Poll, ORG, 1
+April 27, DATE, 1
+Reuters, ORG, 1
+Steven Portnoy, PERSON, 1
+CBS News Radio, ORG, 1
+CBSN, WORK_OF_ART, 1
+19 Wednesday, TIME, 1
+Concordia, GPE, 1
+nearly four hours, TIME, 1
+Queensland, GPE, 1
+the middle of school holidays, DATE, 1
+Idaho, GPE, 1
+Sheriff Jay Heward, PERSON, 1
+Fox, PERSON, 1
+the Baltimore County Police Department, ORG, 1
+the Eastern Technical High School, ORG, 1
+Essex, GPE, 1
+Md., GPE, 1
+Anthony Catalano, PERSON, 1
+Nate Kettingham, PERSON, 1
+Richard Leghorn, PERSON, 1
+98, DATE, 1
+Cold War, EVENT, 1
+Boston Globe, ORG, 1
+Leghorn, PERSON, 1
+Itek Corp., ORG, 1
+Lexington, GPE, 1
+CBS News Video, ORG, 1
+DIY, ORG, 1
+The Boston Globe Scare, ORG, 1
+The Southern Section Division, ORG, 1
+Santa Ana Stadium, GPE, 1
+Fox Sports West, ORG, 1
+8:30 p.m., TIME, 1
+DC, GPE, 1
+Orange County, GPE, 1
+El Morro Elementary School, ORG, 1
+Border Patrol, ORG, 1
+Crystal Cove State Park, LOC, 1
+Veterans Home, ORG, 1
+at least one, CARDINAL, 1
+Winter Olympics -, EVENT, 1
+21, CARDINAL, 1
+the Civil Security Staff, ORG, 1
+11%, PERCENT, 1
+the comparable quarter, DATE, 1
+a year ago, DATE, 1
+$1.38 billion, MONEY, 1
+Ted Cruz's, PERSON, 1
+Ted Cruz, PERSON, 1
+Cruz, PERSON, 1
+Lisa Elizabeth Corona, PERSON, 1
+more than $30, MONEY, 1
+FEMA, ORG, 1
+more than $30,000, MONEY, 1
+the Department of Justice, ORG, 1
+the Sun'|, ORG, 1
+Fox News Sapling, ORG, 1
+Inland Empire, GPE, 1
+Mercy Hospital, ORG, 1
+Mercy Hospital Southwest, ORG, 1
+7 Arcadia 12, DATE, 1
+Northwood, GPE, 1
+Claremont, ORG, 1
+La Canada, FAC, 1
+2 p.m., TIME, 1
+Mar 13, DATE, 1
+Sage Hill, WORK_OF_ART, 1
+the Central Michigan University, ORG, 1
+Meg Oliver, PERSON, 1
+$41 billion, MONEY, 1
+CGC, ORG, 1
+Bruce Linton, PERSON, 1
+Business Insider, ORG, 1
+Chicago Tribune Experts, ORG, 1
+University of Utah, ORG, 1
+Arcadia, ORG, 1
+2, MONEY, 1
+Costa 12, DATE, 1
+Marlborough, GPE, 1
+about 2:20 p.m., TIME, 1
+Corona Centennial 2, ORG, 1
+Norco 4, ORG, 1
+EXPRESS LEAGUE Fairmont, ORG, 1
+St. Michael’s, GPE, 1
+San Jacinto, GPE, 1
+ORANGE LEAGUE Savanna, ORG, 1
+The Battle of the Bay, WORK_OF_ART, 1
+6:30 p.m., TIME, 1
+Argentina Tells, PERSON, 1
+More than 22,000, CARDINAL, 1
+FBI, ORG, 1
+Tony Dokoupil, PERSON, 1
+AWOL, ORG, 1
+Fox News Paris, ORG, 1
+early Saturday, DATE, 1
+Sale, PERSON, 1
+HOUSTON, GPE, 1
+Craig Kimbrel, PERSON, 1
+Jackie Bradley Jr., PERSON, 1
+MVP, ORG, 1
+the Red Sox, ORG, 1
+the World Series, EVENT, 1
+Chris Sale, PERSON, 1
+Alex Cora, PERSON, 1
+Kyle Fuller's, PERSON, 1
+41, CARDINAL, 1
+Bills - Chicago Tribune, ORG, 1
+Kyle Fuller, PERSON, 1
+Bills, GPE, 1
+The Washington Post Researchers, ORG, 1

@@ -1,0 +1,571 @@
+entity, label, count
+The Globe and Mail, ORG, 40
+Toronto, GPE, 27
+Canada, GPE, 26
+Canadian, NORP, 22
+B.C., GPE, 22
+B.C., PERSON, 19
+Canadians, NORP, 18
+first, ORDINAL, 17
+Vancouver, GPE, 15
+U.S., GPE, 14
+this year, DATE, 13
+CBC News, ORG, 12
+Ottawa, GPE, 12
+Tuesday, DATE, 11
+one, CARDINAL, 11
+Wednesday, DATE, 10
+MMR, ORG, 10
+Vancouver Sun, PERSON, 10
+| CTV News, ORG, 9
+New York, GPE, 9
+Congo, GPE, 9
+Ontario, GPE, 8
+CBC Radio, ORG, 8
+Jessica Biel, PERSON, 8
+two, CARDINAL, 8
+New Brunswick, GPE, 7
+CTV News, ORG, 6
+The World Health Organization, ORG, 6
+2019, DATE, 6
+Thursday, DATE, 6
+second, ORDINAL, 6
+Toronto Public Health, ORG, 6
+Germany, GPE, 6
+the World Health Organization, ORG, 6
+HPV, ORG, 6
+year, DATE, 5
+British Columbia, GPE, 5
+Pakistan, GPE, 5
+Robert F. Kennedy Jr., PERSON, 5
+12, CARDINAL, 5
+New York City, GPE, 5
+WHO, ORG, 5
+California, GPE, 5
+Madagascar, GPE, 5
+10, CARDINAL, 5
+Monday, DATE, 5
+season, DATE, 5
+Washington, GPE, 5
+New Brunswick, PERSON, 4
+Vaccine, PERSON, 4
+Ukraine, GPE, 4
+Two, CARDINAL, 4
+Friday, DATE, 4
+Vancouver Island, GPE, 4
+Mozambique, ORG, 4
+September, DATE, 4
+GlobalNews.ca, ORG, 4
+last year's, DATE, 3
+French, LANGUAGE, 3
+UN, ORG, 3
+Adrian Dix, PERSON, 3
+Philippines, GPE, 3
+Zambia, GPE, 3
+16, CARDINAL, 3
+the United States, GPE, 3
+5, CARDINAL, 3
+B.C., ORG, 3
+Public Health Ontario, ORG, 3
+RCMP, ORG, 3
+Brooklyn, GPE, 3
+more than 1,200, CARDINAL, 3
+Mozambicans, NORP, 3
+Beira, GPE, 3
+1,400, CARDINAL, 3
+2nd, ORDINAL, 3
+Vancouver Sun, ORG, 3
+five, CARDINAL, 3
+Quebec, GPE, 3
+Ontario, PERSON, 2
+this season, DATE, 2
+25 years, DATE, 2
+France, GPE, 2
+last year, DATE, 2
+Californian, ORG, 2
+The Globe and Mail Measles, ORG, 2
+50, CARDINAL, 2
+2018, DATE, 2
+3,000, CARDINAL, 2
+Samoa, ORG, 2
+The Globe and Mail Health, ORG, 2
+months, DATE, 2
+Americans, NORP, 2
+Alberta, GPE, 2
+25, CARDINAL, 2
+decades, DATE, 2
+Assembly, ORG, 2
+Orthodox, NORP, 2
+Calgary, GPE, 2
+Theresa Tam, PERSON, 2
+the Public Health Agency of, ORG, 2
+Europe, LOC, 2
+this week, DATE, 2
+$10 million, MONEY, 2
+Kentucky, GPE, 2
+115,000, CARDINAL, 2
+hundreds, CARDINAL, 2
+this winter, DATE, 2
+above 1,400, CARDINAL, 2
+hundreds of thousands, CARDINAL, 2
+Natasha Crowcroft, PERSON, 2
+Congolese, NORP, 2
+12 months old, DATE, 2
+Philippine, NORP, 2
+McMaster University, ORG, 2
+House, ORG, 2
+Zaire, GPE, 2
+the U.S. Centers for Disease Control and Prevention, ORG, 2
+1995, DATE, 2
+three, CARDINAL, 2
+Health, ORG, 2
+years, DATE, 2
+BC, ORG, 2
+139, CARDINAL, 2
+more than 50, CARDINAL, 2
+The Globe and Mail Province, ORG, 2
+Justin Timberlake, ORG, 2
+136, CARDINAL, 2
+Afghanistan, GPE, 2
+15, CARDINAL, 2
+The Globe and Mail A, ORG, 2
+Yemen, GPE, 2
+Canterbury, GPE, 2
+Uganda, GPE, 2
+Malaysia, GPE, 2
+27 years, DATE, 2
+72%, PERCENT, 1
+last year’s, DATE, 1
+The Globe and Mail Adults, ORG, 1
+San Diego, GPE, 1
+More than 300, CARDINAL, 1
+the first two months of this year, DATE, 1
+2017, DATE, 1
+Congress, ORG, 1
+The World Health Organization (WHO, ORG, 1
+Denmark, GPE, 1
+over 11 years, DATE, 1
+The Globe and Mail Officials, ORG, 1
+Rockland County, GPE, 1
+more than 150, CARDINAL, 1
+Christine Boudreau, PERSON, 1
+the New Brunswick Pharmacists’ Association, ORG, 1
+more than half, CARDINAL, 1
+500%, PERCENT, 1
+the previous four years, DATE, 1
+nearly five, CARDINAL, 1
+Trudeau, PERSON, 1
+hundreds of millions, MONEY, 1
+More than 58,000, CARDINAL, 1
+only half, CARDINAL, 1
+Sabrina Bacchus, PERSON, 1
+day, DATE, 1
+The National's Jonathon Gatehouse, ORG, 1
+Japan, GPE, 1
+20 million, CARDINAL, 1
+Almost 20 million, CARDINAL, 1
+United Nations, ORG, 1
+September, 2021, DATE, 1
+Pearson, ORG, 1
+Jan. 27, DATE, 1
+One, CARDINAL, 1
+Dix, PERSON, 1
+the last two months, DATE, 1
+Togo, PERSON, 1
+Chad, GPE, 1
+The Star Toronto’s, WORK_OF_ART, 1
+last school year, DATE, 1
+St. Lucia, GPE, 1
+The Globe and Mail The Church of Scientology, ORG, 1
+Vaccine Choice Canada, ORG, 1
+four, CARDINAL, 1
+Ted Kuntz, PERSON, 1
+CBC News Parents, ORG, 1
+15 per cent, MONEY, 1
+More than 140,000, CARDINAL, 1
+almost a decade, DATE, 1
+Winston Peters, PERSON, 1
+Gatineau, PERSON, 1
+three-year-old, DATE, 1
+earlier this month, DATE, 1
+Public Health | CTV News The Public Health Agency of, ORG, 1
+Thailand, GPE, 1
+Edmonton, PERSON, 1
+Monday Apr. 15, 2019, DATE, 1
+| CTV News Health, ORG, 1
+Uganda - The Globe and Mail, ORG, 1
+More than 1,800, CARDINAL, 1
+Toronto Public Health’s, ORG, 1
+Malawi, ORG, 1
+Malawi, PERSON, 1
+100, MONEY, 1
+Sexy Mom', PERSON, 1
+100,000, MONEY, 1
+Sexy Mom, PERSON, 1
+nearly 2,000, CARDINAL, 1
+2, CARDINAL, 1
+Vancouver Island, LOC, 1
+A dozen, CARDINAL, 1
+New York State, GPE, 1
+Democrat, NORP, 1
+Senate, ORG, 1
+four to six weeks, DATE, 1
+NYC, ORG, 1
+Jewish, NORP, 1
+between 1970, DATE, 1
+the early 1990s, DATE, 1
+at least one, CARDINAL, 1
+New Zealand, GPE, 1
+SNC-Lavalin, ORG, 1
+OPP, ORG, 1
+Doug Ford, PERSON, 1
+Alcatraz, FAC, 1
+a Baltic Sea, LOC, 1
+Nazis, NORP, 1
+German, NORP, 1
+2006, DATE, 1
+the first seven months of the year, DATE, 1
+the same period in, DATE, 1
+The B.C. Centre for Disease Control, ORG, 1
+early October, DATE, 1
+the Alberta Children’s Hospital, FAC, 1
+almost two years, DATE, 1
+Cora Constantinescu, PERSON, 1
+YouTube, ORG, 1
+The Globe and Mail ‘Misinformation, ORG, 1
+under 12 months of age, DATE, 1
+Sarah Wilson, PERSON, 1
+2007, DATE, 1
+dozens, CARDINAL, 1
+Push, PERSON, 1
+414, CARDINAL, 1
+71, CARDINAL, 1
+China, GPE, 1
+Asia, LOC, 1
+| CTV News The World Health Organization, ORG, 1
+nearly 90,000, CARDINAL, 1
+the first half of 2019, DATE, 1
+Manitoba, GPE, 1
+The University of Manitoba, ORG, 1
+Toronto Sun, ORG, 1
+Ontario’s, ORG, 1
+today, DATE, 1
+The Star Toronto’s, ORG, 1
+N.B., GPE, 1
+The Globe and Mail People’s Alliance, ORG, 1
+Kris Austin, PERSON, 1
+David Coon, PERSON, 1
+CBC Radio New York City, ORG, 1
+Bill de Blasio, PERSON, 1
+nearly 300, CARDINAL, 1
+last fall, DATE, 1
+New York Times, ORG, 1
+Donald G. McNeil Jr, PERSON, 1
+Ginette Petitpas Taylor, PERSON, 1
+The Kentucky Board of Medical Licensure, ORG, 1
+Mount Sterling, GPE, 1
+Indiana, GPE, 1
+Ohio, GPE, 1
+Gavin Newsom, PERSON, 1
+Twenty-four, CARDINAL, 1
+Liberals, NORP, 1
+8, CARDINAL, 1
+Madagascar, PERSON, 1
+California Senate - The Globe and Mail, ORG, 1
+Capitol, FAC, 1
+157, CARDINAL, 1
+Kelley Watson Snyder, PERSON, 1
+9, CARDINAL, 1
+Ipsos, PERSON, 1
+Vancouver Sun BEIRA, FAC, 1
+2,750, MONEY, 1
+660,000, MONEY, 1
+The Globe and Mail While, ORG, 1
+The Globe and Mail Report, ORG, 1
+Board of Health, ORG, 1
+Ontario's, ORG, 1
+Ministry of Health, Health Canada, ORG, 1
+Vancouver Coastal Health, ORG, 1
+third, ORDINAL, 1
+one tenth, CARDINAL, 1
+750,000, CARDINAL, 1
+| Awesome Activities & Fun Facts, ORG, 1
+Thousands, CARDINAL, 1
+March, DATE, 1
+Waterloo Public Health - Kitchener, ORG, 1
+over 6,000, CARDINAL, 1
+Over 200,000, CARDINAL, 1
+Merck Ebola, ORG, 1
+The Globe and Mail Figures, ORG, 1
+204,044, CARDINAL, 1
+August 8, DATE, 1
+Facebook - The Globe and Mail, ORG, 1
+The Globe and Mail Engaging, ORG, 1
+5-year-old, DATE, 1
+a day, DATE, 1
+nearly two decades, DATE, 1
+Globe, ORG, 1
+GTA, ORG, 1
+Vaccine Choice, ORG, 1
+the Greater Toronto Area, LOC, 1
+Gates Foundation, ORG, 1
+Montreal, GPE, 1
+$3 million, MONEY, 1
+the National Research Council, ORG, 1
+NDP, ORG, 1
+95 per cent, MONEY, 1
+April to June, DATE, 1
+the school year, DATE, 1
+Thursday, Feb. 21, 2019, DATE, 1
+Intense, NORP, 1
+at least 126, CARDINAL, 1
+Merck’s, ORG, 1
+EU, ORG, 1
+The Globe and Mail Merck’s, ORG, 1
+annual, DATE, 1
+2-year-old, DATE, 1
+Robert F. Kennedy, PERSON, 1
+| CTV News Mozambique's, ORG, 1
+517, CARDINAL, 1
+two decades, DATE, 1
+1998, DATE, 1
+Health Canada, ORG, 1
+TPH, ORG, 1
+the Board of Health, ORG, 1
+MSF, ORG, 1
+More than 2,100, CARDINAL, 1
+the Democratic Republic of the Congo, GPE, 1
+2,000, CARDINAL, 1
+2,500, CARDINAL, 1
+two months, DATE, 1
+Vera Etches, PERSON, 1
+Merck, ORG, 1
+FDA, ORG, 1
+EVD, ORG, 1
+18 years, DATE, 1
+15,796, CARDINAL, 1
+2nd year, DATE, 1
+4, CARDINAL, 1
+Sun B.C., PERSON, 1
+almost 20 years this week, DATE, 1
+Sask, PERSON, 1
+Regina, LOC, 1
+Toronto Sun WINNIPEG, ORG, 1
+weeks, DATE, 1
+Matthew Miller, PERSON, 1
+McMaster’s, GPE, 1
+Eric Cadesky, PERSON, 1
+Alexa, ORG, 1
+The Star, WORK_OF_ART, 1
+B.C. SPCA, ORG, 1
+The B.C. SPCA, ORG, 1
+The Star The World Health Organization, WORK_OF_ART, 1
+Sun Nineteen, PERSON, 1
+next month, DATE, 1
+Trille, GPE, 1
+New Twitter, PERSON, 1
+N.S., GPE, 1
+Twitter, PRODUCT, 1
+21 days, DATE, 1
+this school year, DATE, 1
+the Journal of Infectious Diseases, ORG, 1
+more than 500, CARDINAL, 1
+Video Online, PERSON, 1
+The Globe and Mail Previous, ORG, 1
+over 100, CARDINAL, 1
+the last year, DATE, 1
+Sixty-seven, CARDINAL, 1
+500, MONEY, 1
+The Globe and Mail Nine, ORG, 1
+Vietnam, GPE, 1
+Takeda, ORG, 1
+Regardless of Previous Dengue, ORG, 1
+The Globe and Mail About, ORG, 1
+97.5, CARDINAL, 1
+Oregon, GPE, 1
+CBC News Distribution, ORG, 1
+up to $1,000, MONEY, 1
+nine, CARDINAL, 1
+Metro Vancouver, FAC, 1
+The Globe and Mail The New Westminster School Board, ORG, 1
+72 per cent, MONEY, 1
+Kristen O'Meara, PERSON, 1
+| CTV News Cholera, ORG, 1
+nearly 1 million, CARDINAL, 1
+eight-eight-year-old, DATE, 1
+Last week, DATE, 1
+Vaughan Mills, ORG, 1
+March 20, DATE, 1
+New York's, GPE, 1
+as many as 2.9, CARDINAL, 1
+Sun Union, ORG, 1
+70 per cent, MONEY, 1
+The Star OLYMPIA, WORK_OF_ART, 1
+Wash. -, GPE, 1
+the Pacific Northwest, LOC, 1
+33,000, CARDINAL, 1
+April, DATE, 1
+six, CARDINAL, 1
+The Globe and Mail Epidemic, ORG, 1
+The Health Ministry, ORG, 1
+August, DATE, 1
+October, DATE, 1
+New Brunswick’s, ORG, 1
+Jennifer Russell, PERSON, 1
+New Brunswickers, GPE, 1
+More than 500, CARDINAL, 1
+last month's, DATE, 1
+598, CARDINAL, 1
+CBC News Vaccine, ORG, 1
+Gatineau, GPE, 1
+Que, PERSON, 1
+| CTV News Samoa, ORG, 1
+Pacific, LOC, 1
+77, CARDINAL, 1
+8,400, CARDINAL, 1
+Afghan Taliban, ORG, 1
+Red Cross, ORG, 1
+Richard Pan, PERSON, 1
+Kenneth Austin Bennett, PERSON, 1
+Oly Ilunga, GPE, 1
+Johnson & Johnson, ORG, 1
+New Brunswick's, GPE, 1
+the Canadian Constitution's, EVENT, 1
+CBC News Vaccinations, ORG, 1
+University of Manitoba, ORG, 1
+Xiangguo Qiu, PERSON, 1
+Keding Cheng, PERSON, 1
+106-per-cent, DATE, 1
+a year ago, DATE, 1
+CBC Radio Peace Corps, ORG, 1
+Lon Kightlinger , PERSON, 1
+Torontonians, NORP, 1
+The Star Toronto Public Health, ORG, 1
+465, CARDINAL, 1
+19, CARDINAL, 1
+New Brunswick Education, ORG, 1
+New Brunswick, ORG, 1
+Social, NORP, 1
+Sun Eliminate, PERSON, 1
+Supriya Dwivedi, PERSON, 1
+Western University, ORG, 1
+Schulich School of Medicine & Dentistry, ORG, 1
+the Canada Foundation for Innovation, ORG, 1
+N.Y.C., ORG, 1
+Orthodox Jewish, NORP, 1
+the summer of 2017, DATE, 1
+the United Nations, ORG, 1
+the Horn of Africa, LOC, 1
+1963, DATE, 1
+Alvin Law, PERSON, 1
+Law, PERSON, 1
+| CTV News Samoa's, ORG, 1
+the past day, DATE, 1
+British, NORP, 1
+LONDON, GPE, 1
+Measles, PERSON, 1
+World Health, ORG, 1
+25-year, DATE, 1
+61, CARDINAL, 1
+late last week, DATE, 1
+667, CARDINAL, 1
+2014, DATE, 1
+Brantford, GPE, 1
+Ont, PERSON, 1
+287,000, CARDINAL, 1
+the Democratic Republic of Congo, GPE, 1
+one-year, DATE, 1
+CBC News Quebec, ORG, 1
+Sun Chemical, ORG, 1
+40 C, CARDINAL, 1
+Twenty-two, CARDINAL, 1
+two-month, DATE, 1
+nearly eight weeks, DATE, 1
+The Globe and Mail Shares, ORG, 1
+more than 3, CARDINAL, 1
+40.84, MONEY, 1
+New Jersey Assembly’s, ORG, 1
+The Globe and Mail New Jersey, ORG, 1
+Malaria, GPE, 1
+Malawi, GPE, 1
+| CTV News Vaccinations, ORG, 1
+this summer, DATE, 1
+’ - National | Globalnews.ca Vaccine, ORG, 1
+Christine Elliott, PERSON, 1
+300,000, CARDINAL, 1
+1.2 million, CARDINAL, 1
+Vancouver, PERSON, 1
+Laura Secord Elementary, ORG, 1
+Sun Health, ORG, 1
+The Globe and Mail Adrian Dix, ORG, 1
+five years ago, DATE, 1
+5 years, DATE, 1
+Toronto Board of Health, ORG, 1
+City Hall - The Globe and Mail Dozens, FAC, 1
+City Hall, FAC, 1
+B.C.’s, ORG, 1
+The Globe and Mail There, ORG, 1
+54, CARDINAL, 1
+Washington State, GPE, 1
+this month, DATE, 1
+CBC News Tensions, ORG, 1
+National, ORG, 1
+Salomon Nduhi Kambale, PERSON, 1
+30-year-old, DATE, 1
+New Zealand’s, GPE, 1
+20, CARDINAL, 1
+The Globe and Mail With, ORG, 1
+late February, DATE, 1
+Sunday, DATE, 1
+18,000, CARDINAL, 1
+CBC News Health Canada's, ORG, 1
+over 23,000, CARDINAL, 1
+years earlier, DATE, 1
+Trump, ORG, 1
+Mexico - The Globe and Mail, FAC, 1
+Sun Ontario’s, PERSON, 1
+The Surrey Board of Trade, ORG, 1
+2018-19, DATE, 1
+91 per cent, MONEY, 1
+between the ages of 1 and 8, DATE, 1
+the BC Centre for Disease Control, ORG, 1
+| CTV News Public, ORG, 1
+29, CARDINAL, 1
+Hundreds, CARDINAL, 1
+more than 197,000, CARDINAL, 1
+11, CARDINAL, 1
+CTV National News, ORG, 1
+Saturday, February 16, 2019, DATE, 1
+U.K., GPE, 1
+Alison Braley-Rattai of Brock University, PERSON, 1
+The Star BEIRA, WORK_OF_ART, 1
+Mozambique - Mozambicans, ORG, 1
+Angela Price’s, PERSON, 1
+Angela, PERSON, 1
+Bob Sears, PERSON, 1
+Sun Biel, PERSON, 1
+N.Y., GPE, 1
+New York City's, GPE, 1
+next week, DATE, 1
+Sept. 1, 2021, DATE, 1
+June, DATE, 1
+New Brunswick, LOC, 1
+American, NORP, 1
+Pakistani, NORP, 1
+Taliban, ORG, 1
+Ottawa, ORG, 1
+2009, DATE, 1
+their first five years, DATE, 1
+Sun B.C.'s, PERSON, 1
+3,155, CARDINAL, 1
+last September, DATE, 1
+60, CARDINAL, 1
+Oak Bay, LOC, 1
+Virginia Ashberry, PERSON, 1
+over 1,800, CARDINAL, 1
+CBC News Quebec's, ORG, 1
+The Public Health Agency of, ORG, 1
+FluMist, ORG, 1
+Borneo, LOC, 1
+3-month-old, DATE, 1
+Videos & Articles Mandatory Vaccination, ORG, 1

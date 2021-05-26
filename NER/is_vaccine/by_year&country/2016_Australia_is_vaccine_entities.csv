@@ -1,0 +1,243 @@
+entity, label, count
+Zika, PERSON, 17
+ABC News, ORG, 13
+Queensland, GPE, 11
+Australia, GPE, 9
+US, GPE, 9
+China, GPE, 9
+one, CARDINAL, 5
+Australian, NORP, 5
+UK, GPE, 5
+Western Australia, LOC, 5
+South Australian, NORP, 4
+two, CARDINAL, 4
+Melbourne, GPE, 4
+at least 15, CARDINAL, 4
+Americas, LOC, 4
+Mark Kendall, PERSON, 3
+Barack Obama, PERSON, 3
+first, ORDINAL, 3
+three, CARDINAL, 3
+four, CARDINAL, 3
+Australians, NORP, 3
+Tasmanian, NORP, 3
+Quetta, GPE, 3
+Pakistan, GPE, 3
+Australian Broadcasting Corporation, ORG, 3
+2016, DATE, 3
+French, NORP, 3
+Victoria, GPE, 3
+Angola, GPE, 3
+Catherine, PERSON, 3
+Greg Hughes, PERSON, 3
+last year, DATE, 3
+Childcare, ORG, 3
+130, CARDINAL, 3
+100%, PERCENT, 3
+NSW, ORG, 3
+Jill Hennessy, PERSON, 2
+Health, ORG, 2
+Congress, ORG, 2
+Brazil, GPE, 2
+one to two months later, DATE, 2
+SA Health, ORG, 2
+Austrian, NORP, 2
+the Institut Pasteur, ORG, 2
+the next 12 months, DATE, 2
+Pakistani, NORP, 2
+CSL, ORG, 2
+Zika, NORP, 2
+HPV, ORG, 2
+John Day, PERSON, 2
+135, CARDINAL, 2
+Chinese, NORP, 2
+Vaccine, PERSON, 2
+Dementia, ORG, 2
+Indonesians, NORP, 2
+TB, ORG, 2
+Hundreds, CARDINAL, 2
+Guinea, GPE, 2
+up to, CARDINAL, 2
+weeks, DATE, 2
+third, ORDINAL, 2
+dozens, CARDINAL, 2
+one year, DATE, 2
+the Health Australia Party, ORG, 2
+Vaccination, ORG, 2
+Baby Riley's, PERSON, 2
+Qld, PERSON, 2
+Canberra, PERSON, 2
+ACT, ORG, 2
+NSW Senate, ORG, 2
+the World Health Organisation, ORG, 2
+at least 18 months, DATE, 2
+Queensland, PERSON, 1
+Nanopatch, ORG, 1
+Nanop, PRODUCT, 1
+FDA, ORG, 1
+Push, PERSON, 1
+25, CARDINAL, 1
+90 per cent, MONEY, 1
+One, CARDINAL, 1
+More than a quarter of older, DATE, 1
+Koala, GPE, 1
+six-week, DATE, 1
+this winter, DATE, 1
+Pakistan A, FAC, 1
+15, CARDINAL, 1
+recent years, DATE, 1
+Islamic, NORP, 1
+100 per cent, MONEY, 1
+Wi-Fi, LOC, 1
+hundreds of dollars, MONEY, 1
+week, DATE, 1
+Adelaide, PRODUCT, 1
+Victorian, NORP, 1
+Election 2016, DATE, 1
+Australian School Vaccination Register - ABC News, ORG, 1
+Medicare, ORG, 1
+Paul Perreault, PERSON, 1
+5, CARDINAL, 1
+Chikungunya, ORG, 1
+ABC News University of Queensland, ORG, 1
+Toddler, ORG, 1
+| SBS News Parents, ORG, 1
+US Army, ORG, 1
+Wednesday, DATE, 1
+the US Army, ORG, 1
+Noosa, PERSON, 1
+Paddington, GPE, 1
+Michael Douglas, PERSON, 1
+July, DATE, 1
+DR Congo, ORG, 1
+Congo, GPE, 1
+millions, CARDINAL, 1
+Asia, LOC, 1
+Cuba, GPE, 1
+Zuby Malik, PERSON, 1
+78-year-old, DATE, 1
+Chicago, GPE, 1
+three and 15 months, DATE, 1
+May 21, DATE, 1
+AP - China, ORG, 1
+22, CARDINAL, 1
+2002, DATE, 1
+2013, DATE, 1
+‘three years, DATE, 1
+Gold Coast, LOC, 1
+Victoria - ABC News Horse, ORG, 1
+More than 12,000, CARDINAL, 1
+year-long, DATE, 1
+40, CARDINAL, 1
+Robert De Niro, PERSON, 1
+Vaxxed, GPE, 1
+ROBERT De Niro, PERSON, 1
+just a week, DATE, 1
+Massachusetts Institute of Technology, ORG, 1
+Indonesian, NORP, 1
+4-week-old, DATE, 1
+Riley, PERSON, 1
+up to 100, CARDINAL, 1
+the World Health Organization (WHO, ORG, 1
+Friday, DATE, 1
+West, LOC, 1
+ABC News A, ORG, 1
+Angolan, GPE, 1
+Eritrean, NORP, 1
+United States, GPE, 1
+University of Adelaide, ORG, 1
+last month, DATE, 1
+five-year-old, DATE, 1
+the December quarter, DATE, 1
+more than $60, MONEY, 1
+Healthy Tasmanian, PERSON, 1
+More than 30, CARDINAL, 1
+Adam Bandt, PERSON, 1
+Solar, PRODUCT, 1
+Baby Riley’s, PERSON, 1
+Perth, PERSON, 1
+decades, DATE, 1
+Labor, ORG, 1
+ABC News Central, ORG, 1
+recent weeks, DATE, 1
+National Health Performance Authority, ORG, 1
+yearly, DATE, 1
+APVMA, ORG, 1
+12 months', DATE, 1
+six months, DATE, 1
+1.8bn, MONEY, 1
+up to US$1.8 billion, MONEY, 1
+West Australian, NORP, 1
+Western Australian, NORP, 1
+More than 20,000, CARDINAL, 1
+AMA, ORG, 1
+Health Australia Party, ORG, 1
+The Australian Medical Association, ORG, 1
+coming weeks, DATE, 1
+12-year-old, DATE, 1
+Marco Arturo, PERSON, 1
+his two months, DATE, 1
+two-year-old, DATE, 1
+hours, TIME, 1
+Immunised Tasmanian, ORG, 1
+last week, DATE, 1
+South Australia, LOC, 1
+Andrew Forrest, PERSON, 1
+Andrew “Twiggy” Forrest, PERSON, 1
+Flinders University, ORG, 1
+the next two to three years, DATE, 1
+the US Government, ORG, 1
+Year-long, DATE, 1
+France, GPE, 1
+Valneva, PERSON, 1
+winter season, DATE, 1
+this year, DATE, 1
+37, CARDINAL, 1
+Thirty seven, CARDINAL, 1
+C&K, ORG, 1
+about $US90 million, MONEY, 1
+$A116.68 million, MONEY, 1
+77, CARDINAL, 1
+1994, DATE, 1
+PBS, ORG, 1
+Jack Snelling, PERSON, 1
+Zika, GPE, 1
+Tuesday, DATE, 1
+the seventh month, DATE, 1
+Up to one, CARDINAL, 1
+ten, CARDINAL, 1
+30 per cent, MONEY, 1
+each year, DATE, 1
+Japan, GPE, 1
+Takeda Pharmaceuticals, ORG, 1
+$US38 million, MONEY, 1
+$A51.65 million, MONEY, 1
+Melinda Gates Foundation, ORG, 1
+9News, CARDINAL, 1
+last year's, DATE, 1
+season, DATE, 1
+the University of Sydney, ORG, 1
+the New South Wales, ORG, 1
+$US34 million, MONEY, 1
+$A44.14 million, MONEY, 1
+the National Institutes of Health, ORG, 1
+$US47 million, MONEY, 1
+the Biomedical Advanced Research and Development Authority, ORG, 1
+Gold Coast, ORG, 1
+GOLD Coast, LOC, 1
+More than 50, CARDINAL, 1
+10 years, DATE, 1
+election 2016, DATE, 1
+mosquito-borne, QUANTITY, 1
+Canada, GPE, 1
+Chile, GPE, 1
+Tasmania, GPE, 1
+ABC News Biosecurity Tasmania, ORG, 1
+Indonesia, GPE, 1
+Wulansari, GPE, 1
+East Jakarta, GPE, 1
+2012, DATE, 1
+WHO, ORG, 1
+ABC News Large, ORG, 1
+2015 season, DATE, 1
+Victor, PERSON, 1

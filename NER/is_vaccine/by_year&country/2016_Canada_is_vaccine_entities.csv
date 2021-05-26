@@ -1,0 +1,322 @@
+entity, label, count
+HPV, ORG, 36
+Zika, PERSON, 26
+U.S., GPE, 18
+Canadian, NORP, 15
+The Globe and Mail, ORG, 14
+first, ORDINAL, 13
+| CTV News, ORG, 11
+Canada, GPE, 11
+Brazil, GPE, 9
+Costco, ORG, 8
+Ottawa, GPE, 7
+South Africa, GPE, 6
+Vaccine, PERSON, 5
+Wednesday, DATE, 5
+Pfizer, PERSON, 5
+Africa, LOC, 5
+China, GPE, 5
+Alberta, GPE, 5
+Australian, NORP, 5
+CBC News, ORG, 5
+Tuesday, DATE, 5
+B.C., PERSON, 5
+two, CARDINAL, 4
+Zika, NORP, 4
+2014-15, DATE, 4
+Congo, GPE, 4
+1 million, CARDINAL, 4
+the World Health Organization, ORG, 4
+Ontario, GPE, 4
+Thursday, DATE, 4
+5, CARDINAL, 4
+Cuba, GPE, 4
+one, CARDINAL, 4
+Brazilian, NORP, 3
+McMaster University, ORG, 3
+2014-15 flu season, DATE, 3
+annual, DATE, 3
+Congress, ORG, 3
+Angola, GPE, 3
+decades, DATE, 3
+Quebec, GPE, 3
+Friday, DATE, 3
+Nigeria, GPE, 3
+13, CARDINAL, 3
+FDA, ORG, 3
+Toronto, GPE, 3
+Hepatitis A, WORK_OF_ART, 3
+Hamilton, PERSON, 2
+Mexico, GPE, 2
+130, CARDINAL, 2
+U.S. Army, ORG, 2
+FluMist, ORG, 2
+three, CARDINAL, 2
+Dilma Rousseff, PERSON, 2
+The Globe and Mail Study, ORG, 2
+Gatineau, PERSON, 2
+The Globe and Mail Researchers, ORG, 2
+coming weeks, DATE, 2
+more than a decade, DATE, 2
+Ontarians, NORP, 2
+UN, ORG, 2
+Thousands, CARDINAL, 2
+Ottawa Public Health, ORG, 2
+thousands, CARDINAL, 2
+Health Canada, ORG, 2
+Guinea, GPE, 2
+British Columbia, GPE, 2
+McGregor, PERSON, 2
+one million, CARDINAL, 2
+each year, DATE, 2
+Grade 7, FAC, 2
+Eric Hoskins, PERSON, 2
+CTV News, ORG, 2
+Nigerian, NORP, 2
+American, NORP, 2
+26, DATE, 2
+the U.S.-based Merck & Co., ORG, 2
+Latin America, LOC, 2
+Australia, GPE, 2
+13-year-old, DATE, 2
+at least 18 months, DATE, 2
+this week, DATE, 2
+Ottawa, ORG, 2
+the Canadian Food Inspection Agency, ORG, 2
+California, GPE, 2
+Vancouver Island, LOC, 2
+Jenny McCarthy, PERSON, 2
+U.S. Congress, ORG, 1
+1.8B, MONEY, 1
+Zika - National, ORG, 1
+Monday, DATE, 1
+few years, DATE, 1
+150, CARDINAL, 1
+April 17 to May 1, DATE, 1
+some 150, CARDINAL, 1
+ON, ORG, 1
+The Globe and Mail Vanilla, ORG, 1
+Southern Ontario, LOC, 1
+early 2016, DATE, 1
+12, CARDINAL, 1
+Philippines, GPE, 1
+next week, DATE, 1
+India, GPE, 1
+| CTV News Doctors Without Borders, ORG, 1
+Indian, NORP, 1
+Chinese, NORP, 1
+more than 20,000, CARDINAL, 1
+France, GPE, 1
+Sanofi, ORG, 1
+13 years ago, DATE, 1
+3, CARDINAL, 1
+the Canadian Medical Association Journal, ORG, 1
+Health Ministry, ORG, 1
+Anna Taddio, PERSON, 1
+Calgary, GPE, 1
+Craig Jenne, PERSON, 1
+the University of Calgary, ORG, 1
+the Stollery Children’s Hospital, FAC, 1
+CBC News Babies, ORG, 1
+six months of age, DATE, 1
+morning, TIME, 1
+11.8 per cent, MONEY, 1
+16.1, CARDINAL, 1
+The Globe and Mail University of Texas, ORG, 1
+$1.9-million, MONEY, 1
+the next five years, DATE, 1
+Last season, DATE, 1
+H3N2, ORG, 1
+the fall, DATE, 1
+at least Friday, DATE, 1
+Hamilton, GPE, 1
+$5M, MONEY, 1
+GAVI, PERSON, 1
+$5 million, MONEY, 1
+the end of 2017, DATE, 1
+Alberta Health, ORG, 1
+IVF, ORG, 1
+Barack Obama, PERSON, 1
+The Associated Press, ORG, 1
+The Ontario Ministry of Natural Resources and Forestry, ORG, 1
+Universite Laval, GPE, 1
+the U.S. Food and Drug Administration, ORG, 1
+The Globe and Mail We, ORG, 1
+the early 1930s, DATE, 1
+year, DATE, 1
+this fall, DATE, 1
+Faye, ORG, 1
+Valentine’s Day, ORG, 1
+11 days, DATE, 1
+British, NORP, 1
+Marie-Paule Kieny, PERSON, 1
+WHO, ORG, 1
+more than 80, CARDINAL, 1
+South African, NORP, 1
+later years, DATE, 1
+University of Victoria, ORG, 1
+30 years, DATE, 1
+seven, CARDINAL, 1
+Just a decade, DATE, 1
+the next few decades, DATE, 1
+Linda, PERSON, 1
+27, CARDINAL, 1
+8220;She, MONEY, 1
+Grade, GPE, 1
+8, CARDINAL, 1
+Joyce Locke, PERSON, 1
+Elgin St. Thomas Health, ORG, 1
+Two, CARDINAL, 1
+about 70 per cent, MONEY, 1
+Medecins, ORG, 1
+Frontiers, ORG, 1
+MSF, ORG, 1
+The Globe and Mail Canadian Cancer Society, ORG, 1
+the past 20 years, DATE, 1
+56 per cent, MONEY, 1
+17 per cent, MONEY, 1
+CTV News Screening, ORG, 1
+hundreds, CARDINAL, 1
+Britain, GPE, 1
+15, CARDINAL, 1
+more than 10,000, CARDINAL, 1
+5 years, DATE, 1
+The Globe and Mail Ontario, ORG, 1
+Health, ORG, 1
+Toronto General Hospital, ORG, 1
+2011, DATE, 1
+| CTV News Military, ORG, 1
+Boko Haram, PERSON, 1
+Pakistan | CTV News, ORG, 1
+Pakistan, GPE, 1
+14, CARDINAL, 1
+70, CARDINAL, 1
+recent months, DATE, 1
+51, CARDINAL, 1
+19, CARDINAL, 1
+BC Children's Hospital, ORG, 1
+$15 million, MONEY, 1
+Vancouver Sun, ORG, 1
+the fall of 2017, DATE, 1
+$15-million, MONEY, 1
+Save-On-Foods, ORG, 1
+Grade 7, PRODUCT, 1
+24,000, CARDINAL, 1
+seven years, DATE, 1
+four years, DATE, 1
+More than 150, CARDINAL, 1
+CBC News FluMist, ORG, 1
+Quebec City, GPE, 1
+well over half, CARDINAL, 1
+Peter Akman, PERSON, 1
+The Star Anthony Fauci, WORK_OF_ART, 1
+National Institute of Allergy and Infectious Diseases, ORG, 1
+| CTV News Parents, ORG, 1
+the Public Health Agency of Canada, ORG, 1
+Cutting-Edge Pharmaceuticals, ORG, 1
+Americans, NORP, 1
+| CTV News The World Health Organization, ORG, 1
+more than 6 million, CARDINAL, 1
+February, DATE, 1
+the following month, DATE, 1
+about 1 million, CARDINAL, 1
+The Star Vaccine, WORK_OF_ART, 1
+The Globe and Mail Experts, ORG, 1
+Americas, LOC, 1
+CDC, ORG, 1
+Malaysia, GPE, 1
+Malaysian, NORP, 1
+five, CARDINAL, 1
+Democratic Republic of Congo, GPE, 1
+more than 400, CARDINAL, 1
+the World Health Organization (WHO, ORG, 1
+the United States, GPE, 1
+65 to 70, DATE, 1
+dozens, CARDINAL, 1
+| CTV News Police, ORG, 1
+37, CARDINAL, 1
+year's end, DATE, 1
+the end of the year, DATE, 1
+more than 50,000, CARDINAL, 1
+Hepatitis A | The Star Store, WORK_OF_ART, 1
+Nature’s Touch Organic, ORG, 1
+Berry Cherry Blend, PERSON, 1
+Saturday, DATE, 1
+25 million, CARDINAL, 1
+Boko Haram, FAC, 1
+Victoria, GPE, 1
+Isra Levy, PERSON, 1
+the Board of Health, ORG, 1
+June, DATE, 1
+Winnipeg, PRODUCT, 1
+days, DATE, 1
+Tuesday April 19, 2016, DATE, 1
+election day, DATE, 1
+Manitoba, GPE, 1
+the Trans-Pacific Partnership, ORG, 1
+Doris Roberts, PERSON, 1
+the age of 90, DATE, 1
+European, NORP, 1
+African, NORP, 1
+The Globe and Mail Save the Children, ORG, 1
+hour, TIME, 1
+an hour, TIME, 1
+a number of years now, DATE, 1
+more than 800, CARDINAL, 1
+nearly 20,000, CARDINAL, 1
+Promoli McGee, PERSON, 1
+last month, DATE, 1
+this winter, DATE, 1
+The Globe and Mail Laval University, ORG, 1
+the Ottawa Catholic School Board, ORG, 1
+Conseil, ORG, 1
+nearly 600, CARDINAL, 1
+One, CARDINAL, 1
+Save the Children, ORG, 1
+113 million, CARDINAL, 1
+the National Capital Region, ORG, 1
+Swedish, NORP, 1
+The Lancet Neurology, WORK_OF_ART, 1
+Mick Phillips, PERSON, 1
+more than five years ago, DATE, 1
+Wisconsin, GPE, 1
+150,000, CARDINAL, 1
+months-long, DATE, 1
+four, CARDINAL, 1
+last year, DATE, 1
+CTV News Final, ORG, 1
+the years, DATE, 1
+Zika vaccine - The Globe and Mail, PERSON, 1
+three years, DATE, 1
+the first three years, DATE, 1
+the next several years, DATE, 1
+$1.8 billion, MONEY, 1
+GlobalNews.ca, ORG, 1
+Dec. 23, 2016, DATE, 1
+Jeopardy | CTV News Five, ORG, 1
+Christmas Day, DATE, 1
+Donald Trump, PERSON, 1
+New Brunswick, PERSON, 1
+Brisbane, GPE, 1
+Citizen, ORG, 1
+VSV-EBOV, ORG, 1
+the International Development Research Centre, ORG, 1
+CONAKRY, ORG, 1
+Alseny, GPE, 1
+GTA, ORG, 1
+The Globe and Mail Unlike, ORG, 1
+every year, DATE, 1
+The Globe and Mail CMA’s, ORG, 1
+58-per-cent, QUANTITY, 1
+The Globe and Mail Natural, ORG, 1
+| CTV News Medical, ORG, 1
+2,600, CARDINAL, 1
+weeks, DATE, 1
+The Globe and Mail Inovio Pharmaceuticals, ORG, 1
+two-year-old, DATE, 1
+Jill Promoli, PERSON, 1
+December, DATE, 1
+Haiti - National | Globalnews.ca The World Health Organization (WHO, ORG, 1
+Haiti, GPE, 1
+Canadian Cancer Society, ORG, 1
+the Canadian Cancer Society, ORG, 1

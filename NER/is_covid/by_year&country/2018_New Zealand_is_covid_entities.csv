@@ -1,0 +1,189 @@
+entity, label, count
+Coronation Street, FAC, 13
+New Zealand, GPE, 6
+two, CARDINAL, 5
+1918, DATE, 5
+Three, CARDINAL, 5
+one, CARDINAL, 5
+US, GPE, 4
+Christchurch, ORG, 4
+Coro, PERSON, 4
+Herald Video, ORG, 4
+Wellington, GPE, 4
+Qantas, ORG, 3
+hours, TIME, 2
+two hours, TIME, 2
+Corona Sunsets Presents, ORG, 2
+Kiwi, ORG, 2
+Black November 1918, EVENT, 2
+UK, GPE, 2
+5000, MONEY, 2
+first, ORDINAL, 2
+Auckland, GPE, 2
+Pat Phelan, PERSON, 2
+Nelson, PERSON, 2
+Five, CARDINAL, 2
+44, CARDINAL, 2
+19,000, CARDINAL, 2
+Lockdowns, PERSON, 2
+King's College, ORG, 2
+Otahuhu College, ORG, 2
+18 months, DATE, 2
+NZ, GPE, 2
+Allan Richardson, PERSON, 2
+eight hours, TIME, 2
+9000, PRODUCT, 2
+Vanilla Ice, ORG, 2
+Tauranga, GPE, 2
+Misheard, ORG, 1
+10 Years of Sustainable Coastlines, DATE, 1
+10 Years of Sustainable Coastlines w/, DATE, 1
+The Black Seeds & L.A.B., ORG, 1
+Historic Coronation Street, ORG, 1
+Anna Paquin, PERSON, 1
+Heathrow, FAC, 1
+Kiwi, PERSON, 1
+Twitter, PERSON, 1
+Scoop News Victoria University of Wellington’s, ORG, 1
+the 100 year anniversary, DATE, 1
+Kerryn Palmer, PERSON, 1
+November 1918, DATE, 1
+Onekawa, GPE, 1
+Napier, ORG, 1
+William Colenso, PERSON, 1
+Herald Spoiler, PERSON, 1
+Alert, PERSON, 1
+this week, DATE, 1
+Quarantined, ORG, 1
+Stratford High School, ORG, 1
+Three hours, TIME, 1
+Complaint, ORG, 1
+Corona Beer, ORG, 1
+Advertising Standards Authority - NZ Herald The, ORG, 1
+100 years, DATE, 1
+100 years ago, DATE, 1
+Taranaki High School, ORG, 1
+Taranaki, GPE, 1
+Northland, ORG, 1
+Technician, NORP, 1
+Palmerston, GPE, 1
+North 29 March 2018 - Shamma, DATE, 1
+Santa Agata, GPE, 1
+REAL.AC.NZ, CARDINAL, 1
+Laboratory Technician, ORG, 1
+Qantas, NORP, 1
+Christchurch Airport, FAC, 1
+Herald Passengers, ORG, 1
+about two hours, TIME, 1
+Herald Scientists, ORG, 1
+Tracy Barlow, PERSON, 1
+Neighbours, ORG, 1
+Ryan Thomas, PERSON, 1
+Coronation Street for Ramsay Street, FAC, 1
+Kiwi Coronation Street, ORG, 1
+18 month, DATE, 1
+this Sunday, DATE, 1
+JFK International Airport, FAC, 1
+New York, GPE, 1
+Dubai, GPE, 1
+Auckland, NORP, 1
+around two, CARDINAL, 1
+Lockdown, GPE, 1
+Ngawha Prison, GPE, 1
+a week, DATE, 1
+Herald Kiwi, ORG, 1
+British, NORP, 1
+Coronation, NORP, 1
+Corona, GPE, 1
+three weeks, DATE, 1
+the last three weeks, DATE, 1
+Hamilton, ORG, 1
+Hillcrest High, GPE, 1
+Hillcrest, GPE, 1
+Coronation Road, Hillcrest, LOC, 1
+Friday 27 April, 2018, DATE, 1
+Tennex, ORG, 1
+San-i-pak, GPE, 1
+The Commerce Commission, ORG, 1
+Tennex Capital Limited, ORG, 1
+San-i-pak Limited, GPE, 1
+Tens of thousands, CARDINAL, 1
+tomorrow, DATE, 1
+Parata, ORG, 1
+Auckland-Wellington, PERSON, 1
+Herald New, ORG, 1
+Wairarapa College, ORG, 1
+BBC Documentary, ORG, 1
+BBC, ORG, 1
+Houses of Parliament - NZ Herald The Houses of Parliament, ORG, 1
+John Kirwan, PERSON, 1
+Mycoplasma Bovis, PERSON, 1
+M Bovis, PRODUCT, 1
+Auckland's Rosehill College, ORG, 1
+Social Snapshot, ORG, 1
+Winter Pride, ORG, 1
+Queenstown, PERSON, 1
+fir few weeks, DATE, 1
+65th, ORDINAL, 1
+more than a year, DATE, 1
+New Zealand's, GPE, 1
+Palmerston North, ORG, 1
+Coronation Street’s, FAC, 1
+Connor McIntyre, PERSON, 1
+The Herald Premium Content, ORG, 1
+Miriyana Al, PERSON, 1
+three-month-old, DATE, 1
+Herald Small, ORG, 1
+White House, ORG, 1
+North Lawn - NZ, GPE, 1
+Herald Staff, ORG, 1
+six minutes, TIME, 1
+Waikato Hospital - NZ Herald Doctors, ORG, 1
+Australian, NORP, 1
+Coronas, ORG, 1
+Brisbane - NZ Herald Six hours, ORG, 1
+Mycoplasma, GPE, 1
+Gucci, PERSON, 1
+Customs, ORG, 1
+160 years, DATE, 1
+Māori, GPE, 1
+week-long, DATE, 1
+Māori, PERSON, 1
+Xavier La Canna, PERSON, 1
+Cabin, PERSON, 1
+Sharemilker, ORG, 1
+Stuff.co.nz Footbaths, PERSON, 1
+Hamilton, PERSON, 1
+Nawton, GPE, 1
+Friday, DATE, 1
+100 years ago - NZ, DATE, 1
+Herald National, ORG, 1
+Coronation Street's, FAC, 1
+Peter Barlow, PERSON, 1
+Chris Gascoyne, PERSON, 1
+Michael Le, PERSON, 1
+53-year-old, DATE, 1
+Michael Le Vell, PERSON, 1
+Northland, GPE, 1
+James Brown, PERSON, 1
+Mitsubishi, ORG, 1
+Coronation Street, LOC, 1
+Weatherfield, ORG, 1
+last year, DATE, 1
+50 million, CARDINAL, 1
+757, CARDINAL, 1
+Karori Cemetery, PERSON, 1
+Jack P Shepherd, PERSON, 1
+TVNZ, PERSON, 1
+Nadine Higgins, ORG, 1
+Sophie Webster's, PERSON, 1
+Paula Cunliffe, PERSON, 1
+Sally, PERSON, 1
+Flight 203, PRODUCT, 1
+New Plymouth, GPE, 1
+Sunday, DATE, 1
+evening, TIME, 1
+Aquinas College, ORG, 1
+Hutt Hospital, ORG, 1
+three-hour, TIME, 1
+Lower Hutt, LOC, 1

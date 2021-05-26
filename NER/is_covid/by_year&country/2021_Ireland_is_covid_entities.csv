@@ -1,0 +1,8130 @@
+entity, label, count
+Ireland, GPE, 1194
+first, ORDINAL, 444
+Irish, NORP, 398
+today, DATE, 368
+UK, GPE, 310
+EU, ORG, 258
+Dublin, GPE, 252
+US, GPE, 212
+Covid, PERSON, 207
+one, CARDINAL, 203
+AstraZeneca, ORG, 188
+Northern Ireland, GPE, 143
+5, CARDINAL, 131
+this evening, TIME, 129
+two, CARDINAL, 128
+third, ORDINAL, 120
+Covid, NORP, 119
+2020, DATE, 114
+State, ORG, 112
+three, CARDINAL, 105
+Europe, LOC, 103
+four, CARDINAL, 101
+last year, DATE, 96
+2021, DATE, 91
+Coronation Street, FAC, 91
+second, ORDINAL, 87
+France, GPE, 86
+next week, DATE, 85
+this week, DATE, 85
+yesterday, DATE, 84
+the Department of Health, ORG, 84
+HSE, ORG, 78
+Britain, GPE, 78
+ICU, ORG, 76
+GAA, ORG, 76
+Brazil, GPE, 74
+this year, DATE, 71
+January, DATE, 71
+five, CARDINAL, 69
+daily, DATE, 68
+Cabinet, ORG, 68
+Leo Varadkar, PERSON, 66
+Three, CARDINAL, 64
+One, CARDINAL, 63
+London, GPE, 61
+last week, DATE, 60
+Germany, GPE, 60
+China, GPE, 59
+10, CARDINAL, 59
+British, NORP, 59
+Biden, PERSON, 58
+The Department of Health, ORG, 58
+Boris Johnson, PERSON, 56
+Two, CARDINAL, 54
+Stephen Donnelly, PERSON, 54
+April, DATE, 54
+England, GPE, 53
+French, NORP, 52
+ITV, ORG, 51
+Five, CARDINAL, 51
+European, NORP, 50
+Taoiseach, PERSON, 49
+Oxford, ORG, 49
+NPHET, ORG, 49
+the National Public Health Emergency Team, ORG, 48
+Christmas, DATE, 48
+Brexit, PERSON, 48
+Taoiseach, ORG, 48
+April 5, DATE, 46
+last night, TIME, 46
+March, DATE, 46
+100,000, CARDINAL, 45
+six, CARDINAL, 45
+Wuhan, GPE, 45
+North, LOC, 44
+Paul Reid, PERSON, 44
+Australia, GPE, 43
+The Irish Times, ORG, 43
+TheJournal.ie - Breaking Irish and International News, WORK_OF_ART, 42
+Tony Holohan, PERSON, 41
+summer, DATE, 40
+Covid, ORG, 40
+Six, CARDINAL, 40
+Kate Garraway, PERSON, 40
+February, DATE, 40
+Sunday, DATE, 40
+Pfizer, PERSON, 40
+14, CARDINAL, 39
+Joe Biden, PERSON, 39
+Friday, DATE, 39
+tomorrow, DATE, 38
+fourth, ORDINAL, 38
+17, CARDINAL, 38
+Monday, DATE, 37
+a year, DATE, 36
+First, ORDINAL, 36
+thousands, CARDINAL, 36
+tonight, TIME, 36
+13, CARDINAL, 36
+100, CARDINAL, 35
+zero, CARDINAL, 35
+Reuters, ORG, 35
+South Africa, GPE, 34
+St Patrick’s Day, PERSON, 34
+16, CARDINAL, 34
+Saturday, DATE, 33
+Tuesday, DATE, 33
+Italy, GPE, 32
+Scotland, GPE, 32
+Explainer, PERSON, 32
+20, CARDINAL, 31
+next month, DATE, 31
+eight, CARDINAL, 31
+PUP, PRODUCT, 31
+IRELAND, PERSON, 31
+5km, QUANTITY, 31
+14-day, DATE, 30
+Vaccine, PERSON, 30
+months, DATE, 30
+South African, NORP, 29
+week, DATE, 29
+May, DATE, 29
+Micheal Martin, PERSON, 29
+Australian, NORP, 28
+Gardaí, PERSON, 28
+Irish Mirror Online, ORG, 28
+this afternoon, TIME, 28
+18, CARDINAL, 28
+Wednesday, DATE, 27
+this summer, DATE, 27
+June, DATE, 27
+Johnson, PERSON, 27
+year, DATE, 27
+12, CARDINAL, 27
+Brazilian, NORP, 26
+one year, DATE, 26
+11, CARDINAL, 26
+Lockdown Ireland, PERSON, 25
+Four, CARDINAL, 25
+Health, ORG, 25
+Galway, GPE, 25
+December, DATE, 25
+this month, DATE, 25
+Thousands, CARDINAL, 25
+evening, TIME, 24
+Johnson & Johnson, ORG, 24
+Thursday, DATE, 24
+Mike Ryan, PERSON, 23
+Zero, CARDINAL, 23
+Lockdown, ORG, 23
+Micheál Martin, PERSON, 22
+German, NORP, 22
+Derek Draper, PERSON, 22
+33, CARDINAL, 22
+weeks, DATE, 22
+Varadkar, ORG, 22
+Russia, GPE, 22
+nine, CARDINAL, 22
+23, CARDINAL, 22
+September, DATE, 22
+Hundreds, CARDINAL, 21
+Netherlands, GPE, 21
+Martin, PERSON, 21
+New Zealand, GPE, 21
+30, CARDINAL, 21
+the year, DATE, 21
+half, CARDINAL, 21
+seven, CARDINAL, 21
+the coming weeks, DATE, 21
+Garda, PERSON, 21
+Moderna, GPE, 21
+Gardai, PERSON, 20
+EMA, ORG, 20
+Nine, CARDINAL, 20
+Israel, GPE, 20
+25, CARDINAL, 19
+Tánaiste Leo Varadkar, PERSON, 19
+six months, DATE, 19
+2019, DATE, 19
+Derek, PERSON, 19
+St Patrick's, PERSON, 19
+morning, TIME, 19
+Eight, CARDINAL, 19
+50, CARDINAL, 19
+19, CARDINAL, 19
+Dutch, NORP, 19
+millions, CARDINAL, 19
+Easter, ORG, 18
+47, CARDINAL, 18
+annual, DATE, 18
+Leaving Cert, PERSON, 18
+Easter, PERSON, 18
+RTE, ORG, 18
+CSO, ORG, 18
+hundreds, CARDINAL, 18
+days, DATE, 18
+500,000, CARDINAL, 17
+Oireachtas, ORG, 17
+Arlene Foster, PERSON, 17
+15, CARDINAL, 17
+two weeks, DATE, 17
+CMO, ORG, 17
+Seven, CARDINAL, 17
+Q&A, ORG, 17
+Covid - Independent.ie, PERSON, 17
+Ronan Glynn, PERSON, 17
+Dublin Airport, FAC, 17
+Taoiseach Micheál Martin, PERSON, 16
+26, CARDINAL, 16
+Limerick, GPE, 16
+March 5, DATE, 16
+last month, DATE, 16
+Today, DATE, 16
+Beacon Hospital, ORG, 16
+2,000, CARDINAL, 16
+July, DATE, 16
+Johnny Briggs, PERSON, 16
+this morning, TIME, 15
+weekly, DATE, 15
+Coronation Street's, FAC, 15
+WHO, ORG, 15
+a week, DATE, 15
+winter, DATE, 15
+575, CARDINAL, 15
+Chinese, NORP, 15
+Dubai, GPE, 15
+the past year, DATE, 15
+Covid Ireland, PERSON, 15
+Wales, GPE, 15
+years, DATE, 15
+Northern Ireland's, GPE, 15
+This week, DATE, 15
+Independent.ie Ireland, GPE, 15
+Level, ORG, 15
+Simon Barlow, PERSON, 14
+High Court, ORG, 14
+ten, CARDINAL, 14
+Brits, NORP, 14
+Gardai, NORP, 14
+April 5th, DATE, 14
+the Republic of Ireland, GPE, 14
+Ten, CARDINAL, 14
+85, DATE, 14
+night, TIME, 14
+April 12, DATE, 14
+Simon Harris, PERSON, 14
+525, CARDINAL, 14
+Leanne Battersby, PERSON, 14
+Philip Nolan, PERSON, 14
+54, CARDINAL, 14
+the past 24 hours, TIME, 14
+America, GPE, 13
+3,000, CARDINAL, 13
+Last week, DATE, 13
+Americans, NORP, 13
+Taoiseach Micheál Martin, ORG, 13
+Tullamore, PERSON, 13
+52, CARDINAL, 13
+Cork, GPE, 13
+Moderna, PERSON, 13
+Donald Trump, PERSON, 13
+Dr Ronan Glynn, PERSON, 13
+the end of March, DATE, 13
+400, CARDINAL, 13
+the coming days, DATE, 13
+Limerick, ORG, 13
+Spain, GPE, 13
+the weekend, DATE, 13
+Sweden, GPE, 13
+the United States, GPE, 13
+Italian, NORP, 12
+Taoiseach, GPE, 12
+Belfast, GPE, 12
+Martin, ORG, 12
+St Patrick's Day, PERSON, 12
+last March, DATE, 12
+Helen McEntee, PERSON, 12
+the last two weeks, DATE, 12
+Irish Times, ORG, 12
+Ryan Tubridy, PERSON, 12
+Susanna Reid, PERSON, 12
+Offaly, GPE, 12
+recent weeks, DATE, 12
+Paris, GPE, 12
+Portugal, GPE, 12
+Ireland, PERSON, 12
+the European Union, ORG, 12
+Washington, GPE, 12
+56, CARDINAL, 12
+Helen Flanagan, PERSON, 11
+NI, GPE, 11
+Melbourne, GPE, 11
+1, CARDINAL, 11
+1,000, CARDINAL, 11
+539, CARDINAL, 11
+Level 5, FAC, 11
+November, DATE, 11
+40, CARDINAL, 11
+World Cup, EVENT, 11
+Almost half, CARDINAL, 11
+100, MONEY, 11
+29, CARDINAL, 11
+Mexico, GPE, 11
+60, CARDINAL, 11
+500, CARDINAL, 11
+Miriam Stoppard, PERSON, 11
+mid-February, DATE, 11
+Level 5, EVENT, 11
+Yasmeen, ORG, 11
+Aer Lingus, ORG, 11
+2022, DATE, 10
+22, CARDINAL, 10
+200, CARDINAL, 10
+35, CARDINAL, 10
+90, CARDINAL, 10
+14 days, DATE, 10
+21, CARDINAL, 10
+PCR, ORG, 10
+93, CARDINAL, 10
+Mairead Ronan, PERSON, 10
+Fianna Fáil, ORG, 10
+520, CARDINAL, 10
+Taoiseach Micheal Martin, PERSON, 10
+the last year, DATE, 10
+45, CARDINAL, 10
+Love Island, LOC, 10
+368, CARDINAL, 10
+Mary Lou McDonald, PERSON, 10
+28, CARDINAL, 10
+Tokyo, GPE, 10
+BBC, ORG, 10
+afternoon, TIME, 10
+359, CARDINAL, 10
+Tánaiste, ORG, 10
+Ireland Health, GPE, 10
+six weeks, DATE, 10
+the summer, DATE, 10
+Mike Baldwin, PERSON, 10
+624, CARDINAL, 9
+Michael D Higgins, PERSON, 9
+Olympics, EVENT, 9
+Alan Kelly, PERSON, 9
+the end of the month, DATE, 9
+Spanish, NORP, 9
+Kerry, PERSON, 9
+Central Bank, ORG, 9
+Lidl, PERSON, 9
+UL, ORG, 9
+Katie Price, PERSON, 9
+Govt, ORG, 9
+81, CARDINAL, 9
+COVID-19, PERSON, 9
+Tanaiste, GPE, 9
+Premier League, ORG, 9
+Congress, ORG, 9
+Brussels, GPE, 9
+4,000, CARDINAL, 9
+at least one, CARDINAL, 9
+a month, DATE, 9
+Half, CARDINAL, 9
+this weekend, DATE, 9
+ESRI, ORG, 9
+Hugh, GPE, 9
+March 2020, DATE, 9
+Glynn, PERSON, 9
+mid-December, DATE, 9
+Dublin, PERSON, 9
+606, CARDINAL, 9
+3, CARDINAL, 9
+Denmark, GPE, 9
+3,394, CARDINAL, 9
+Norway, GPE, 9
+311, CARDINAL, 9
+Barcelona, GPE, 9
+604, CARDINAL, 9
+574, CARDINAL, 9
+557, CARDINAL, 9
+the week, DATE, 9
+almost a year, DATE, 9
+34, CARDINAL, 9
+North’s, GPE, 8
+25%, PERCENT, 8
+Holohan, ORG, 8
+Valentine’s Day, ORG, 8
+Norma Foley, PERSON, 8
+the Pandemic Unemployment Payment, ORG, 8
+India, GPE, 8
+Hollywood, GPE, 8
+Republican, NORP, 8
+24, CARDINAL, 8
+Róisín Ingle, PERSON, 8
+these days, DATE, 8
+39, CARDINAL, 8
+next year, DATE, 8
+the day, DATE, 8
+Wexford, GPE, 8
+GMB, ORG, 8
+5,000, CARDINAL, 8
+37, CARDINAL, 8
+The European Commission, ORG, 8
+Northern Ireland’s, GPE, 8
+Dozens, CARDINAL, 8
+646, CARDINAL, 8
+4,962, CARDINAL, 8
+522, CARDINAL, 8
+Celtic, NORP, 8
+42, CARDINAL, 8
+The European Medicines Agency, ORG, 8
+300,000, CARDINAL, 8
+New York, GPE, 8
+612, CARDINAL, 8
+Russian, NORP, 8
+Poland, GPE, 8
+Japan, GPE, 8
+8211, DATE, 8
+weekend, DATE, 8
+543, CARDINAL, 8
+NHS, ORG, 8
+Michael McGrath, PERSON, 8
+Thirteen, CARDINAL, 8
+Ryan Andrews, PERSON, 8
+Healthcare, ORG, 8
+Catholic, NORP, 8
+584, CARDINAL, 8
+Francis, PERSON, 8
+American, NORP, 7
+Higgins, PERSON, 7
+Florida, GPE, 7
+12 months, DATE, 7
+New Year’s Eve, EVENT, 7
+Canadian, NORP, 7
+Caribbean, LOC, 7
+COVID-19, PRODUCT, 7
+month, DATE, 7
+’ve, ORG, 7
+928, CARDINAL, 7
+another six weeks, DATE, 7
+South America, LOC, 7
+650, CARDINAL, 7
+David McWilliams, PERSON, 7
+2,001, CARDINAL, 7
+100%, PERCENT, 7
+2, CARDINAL, 7
+English, LANGUAGE, 7
+AstraZeneca, LAW, 7
+White House, ORG, 7
+EU, GPE, 7
+Second, ORDINAL, 7
+the Beacon Hospital, ORG, 7
+FDA, ORG, 7
+John Horan, PERSON, 7
+85, CARDINAL, 7
+Love, WORK_OF_ART, 7
+6%, PERCENT, 7
+57, CARDINAL, 7
+UCD, ORG, 7
+Tesco, ORG, 7
+J&J, ORG, 7
+921, CARDINAL, 7
+The Irish Sun, ORG, 7
+decades, DATE, 7
+53, DATE, 7
+non-Covid, NORP, 7
+AstraZeneca’s, ORG, 7
+Ulster Bank, ORG, 7
+55, DATE, 7
+Jane Danson, PERSON, 7
+Department of Health, ORG, 7
+70%, PERCENT, 7
+the Irish Independent, ORG, 7
+Iceland, GPE, 7
+4, CARDINAL, 7
+Tom Moore, PERSON, 7
+827, CARDINAL, 7
+55, CARDINAL, 7
+October, DATE, 7
+Charlene McKenna, PERSON, 7
+Lockdowns, PERSON, 7
+Auckland, GPE, 7
+1,006, CARDINAL, 7
+Christmas Eve, DATE, 7
+Piers Morgan, PERSON, 7
+two-week, DATE, 7
+631, CARDINAL, 7
+Defence Forces, ORG, 7
+Republic, GPE, 7
+788, CARDINAL, 7
+Last year, DATE, 7
+349, CARDINAL, 7
+582, CARDINAL, 7
+mid-April, DATE, 7
+683, CARDINAL, 7
+a year ago, DATE, 6
+Beijing, GPE, 6
+700,000, CARDINAL, 6
+Austria, GPE, 6
+hours, TIME, 6
+Colm Henry, PERSON, 6
+500, MONEY, 6
+Michelle O'Neill, PERSON, 6
+1,047, CARDINAL, 6
+Ursula von, PERSON, 6
+Leyen, GPE, 6
+Katie McGlynn, PERSON, 6
+Gemma Greene, PERSON, 6
+16, DATE, 6
+Garraway, PERSON, 6
+the European Medicines Agency, ORG, 6
+the Johnson & Johnson, ORG, 6
+Matt Hancock, PERSON, 6
+More than half, CARDINAL, 6
+one day, DATE, 6
+Covid-hit, PERSON, 6
+2,121, CARDINAL, 6
+Peter Andre, PERSON, 6
+TikTok, ORG, 6
+Senate, ORG, 6
+371, CARDINAL, 6
+592, CARDINAL, 6
+Taylor, PERSON, 6
+82-year-old, DATE, 6
+James Bond, PERSON, 6
+30,000, CARDINAL, 6
+77, CARDINAL, 6
+462, CARDINAL, 6
+next Monday, DATE, 6
+Serbia, GPE, 6
+6, CARDINAL, 6
+Tánaiste, PERSON, 6
+Johns Hopkins University, ORG, 6
+94, CARDINAL, 6
+Amazon, ORG, 6
+Rita Ora, PERSON, 6
+33-year-old, DATE, 6
+Harry, PERSON, 6
+New Zealand's, GPE, 6
+Holly Willoughby, PERSON, 6
+Berlin, GPE, 6
+1,378, CARDINAL, 6
+Michael, PERSON, 6
+10 days, DATE, 6
+New Year, EVENT, 6
+Munster, PERSON, 6
+2,371, CARDINAL, 6
+David Coleman, PERSON, 6
+CUH, ORG, 6
+two million, CARDINAL, 6
+1,024, CARDINAL, 6
+recent days, DATE, 6
+THREE, CARDINAL, 6
+The European Union, ORG, 6
+Mark Eden, PERSON, 6
+66, CARDINAL, 6
+NI, ORG, 6
+Angela Merkel, PERSON, 6
+seven days, DATE, 6
+744, CARDINAL, 6
+384, CARDINAL, 6
+769, CARDINAL, 6
+7,836, CARDINAL, 6
+Belgium, GPE, 6
+507, CARDINAL, 6
+the last 10 days, DATE, 6
+three weeks, DATE, 6
+2,608, CARDINAL, 6
+Waterford, ORG, 6
+30 years, DATE, 6
+five months, DATE, 6
+the last 12 months, DATE, 6
+27, CARDINAL, 6
+70s, DATE, 6
+1,335, CARDINAL, 6
+Derry, PERSON, 6
+Covid vaccine, PERSON, 6
+738, CARDINAL, 6
+566, CARDINAL, 6
+the last ten days, DATE, 6
+mid-March, DATE, 6
+Michael Clifford, PERSON, 6
+TWO, CARDINAL, 5
+the age of 85, DATE, 5
+Justice, ORG, 5
+Sydney, GPE, 5
+Sputnik, ORG, 5
+the Health Service Executive, ORG, 5
+UAE, GPE, 5
+the Irish Sun, ORG, 5
+437, CARDINAL, 5
+late December, DATE, 5
+six more weeks, DATE, 5
+43, CARDINAL, 5
+Carl Woods, PERSON, 5
+Covid Placentitis, PERSON, 5
+Gemma Collins, PERSON, 5
+CDC, ORG, 5
+Paschal Donohoe, PERSON, 5
+Pat Leahy, PERSON, 5
+North, PERSON, 5
+Harris, PERSON, 5
+Asha Alahan, PERSON, 5
+Tyrone Dobbs, ORG, 5
+more than half, CARDINAL, 5
+Beacon, LOC, 5
+coming weeks, DATE, 5
+Swedish, NORP, 5
+866, CARDINAL, 5
+20%, PERCENT, 5
+Enda O'Dowd, PERSON, 5
+Anthony Fauci, PERSON, 5
+Africa, LOC, 5
+PPE, ORG, 5
+James Argent, PERSON, 5
+Monaghan, PERSON, 5
+The Irish Times Women's Podcast - Ep, ORG, 5
+European Union, ORG, 5
+Beacon, GPE, 5
+50, DATE, 5
+Wicklow, GPE, 5
+RTE Fair City, PERSON, 5
+Sorcha Furlong, PERSON, 5
+1,500, CARDINAL, 5
+75, CARDINAL, 5
+Level Five, FAC, 5
+the World Health Organisation, ORG, 5
+32-year-old, DATE, 5
+Dolores Cahill, PERSON, 5
+8, CARDINAL, 5
+LOVE Island, LOC, 5
+100 million, CARDINAL, 5
+6,888, CARDINAL, 5
+Coronation Street’s, ORG, 5
+the end of the year, DATE, 5
+the Health Protection Surveillance Centre, ORG, 5
+European Commission, ORG, 5
+Mairead McGuinness, PERSON, 5
+1,013, CARDINAL, 5
+776, CARDINAL, 5
+Simon Coveney, PERSON, 5
+Róisín, PERSON, 5
+Eamon Ryan, PERSON, 5
+the World Health Organisation (WHO, ORG, 5
+Los Angeles, GPE, 5
+Covid, GPE, 5
+Trump, PERSON, 5
+Trump, ORG, 5
+40, DATE, 5
+half a million, CARDINAL, 5
+Coveney, PERSON, 5
+overnight, TIME, 5
+Phillip Schofield, PERSON, 5
+$1.9 trillion, MONEY, 5
+4,929, CARDINAL, 5
+Manchester City, GPE, 5
+5k, CARDINAL, 5
+DPP, ORG, 5
+Ciaran Hancock, PERSON, 5
+Ciaran, GPE, 5
+24 hours, TIME, 5
+88, DATE, 5
+Bill Roache, PERSON, 5
+Covid vaccines, PERSON, 5
+This year, DATE, 5
+Turkey, GPE, 5
+three months, DATE, 5
+three-week, DATE, 5
+Rangers, ORG, 5
+Mayo, ORG, 5
+92, CARDINAL, 5
+442, CARDINAL, 5
+Latest, ORG, 5
+1,078, CARDINAL, 5
+CORONATION Street’s, ORG, 5
+three days, DATE, 5
+California, GPE, 5
+Germans, NORP, 5
+later this year, DATE, 5
+Golfgate, ORG, 5
+Insurer, GPE, 5
+a few days, DATE, 5
+Digital, ORG, 5
+51, CARDINAL, 5
+the Oireachtas Health Committee, ORG, 5
+four weeks, DATE, 5
+March 5th, DATE, 5
+Harvey, ORG, 5
+Sam, PERSON, 5
+Fianna Fail, ORG, 5
+Perth, GPE, 5
+Coronavirus, ORG, 5
+April 12th, DATE, 5
+100-year-old, DATE, 5
+HELEN Flanagan, PERSON, 5
+European Medicines Agency, ORG, 5
+1,610, CARDINAL, 5
+the end of June, DATE, 5
+6,000, CARDINAL, 5
+79, CARDINAL, 5
+Greece, GPE, 5
+Madrid, GPE, 5
+NIAC, ORG, 5
+2008, DATE, 5
+1,372, CARDINAL, 5
+2023, DATE, 5
+month-long, DATE, 5
+65, CARDINAL, 5
+Zoom, LOC, 5
+Belmullet, ORG, 5
+Iraq, GPE, 5
+15 years, DATE, 5
+The National Public Health Emergency Team, ORG, 5
+Paddy Doherty, ORG, 5
+post-Covid, NORP, 5
+the Irish Mirror, ORG, 5
+Geoff, ORG, 5
+411, CARDINAL, 5
+one million, CARDINAL, 5
+Kathy Sheridan, PERSON, 5
+240, CARDINAL, 4
+101, CARDINAL, 4
+only one, CARDINAL, 4
+1,000, MONEY, 4
+300, CARDINAL, 4
+2007, DATE, 4
+Henry, PERSON, 4
+post-Covid, PERSON, 4
+Sister Andre, PERSON, 4
+1,247, CARDINAL, 4
+Dingle, PERSON, 4
+Co Kerry, PERSON, 4
+Grafton Street, FAC, 4
+UN, ORG, 4
+66%, PERCENT, 4
+the end of January, DATE, 4
+Manchester City’s, GPE, 4
+the last week, DATE, 4
+the last 24 hours, TIME, 4
+76, CARDINAL, 4
+Harvey, GPE, 4
+Ireland NPHET, GPE, 4
+Mia, PERSON, 4
+last summer, DATE, 4
+30-year-old, DATE, 4
+FIVE, CARDINAL, 4
+1.7 million, CARDINAL, 4
+9, CARDINAL, 4
+Phil Spector, PERSON, 4
+Fine Gael, PERSON, 4
+2018, DATE, 4
+100th, ORDINAL, 4
+Tanzania, GPE, 4
+PUP, ORG, 4
+Santry, GPE, 4
+the coming months, DATE, 4
+Tokyo Olympics, EVENT, 4
+89%, PERCENT, 4
+Sinn Fein, ORG, 4
+Bobby Storey, PERSON, 4
+More than 30, CARDINAL, 4
+3.0, CARDINAL, 4
+Longford, GPE, 4
+Leinster House, ORG, 4
+Jacinda Ardern, PERSON, 4
+Paul Hosford, PERSON, 4
+Level Five, ORG, 4
+8,248, CARDINAL, 4
+ONE, CARDINAL, 4
+1,910, CARDINAL, 4
+Oxford University, ORG, 4
+10,000, CARDINAL, 4
+monthly, DATE, 4
+40th, ORDINAL, 4
+Terry Prone, PERSON, 4
+Passengers, ORG, 4
+the same day, DATE, 4
+two months, DATE, 4
+a day, DATE, 4
+Annie Lynch, ORG, 4
+Lucien Laviscount, PERSON, 4
+DUP, ORG, 4
+Corey, PERSON, 4
+100k, CARDINAL, 4
+Varadkar, PERSON, 4
+CAO, ORG, 4
+30, DATE, 4
+158, CARDINAL, 4
+Daily, DATE, 4
+DIY, ORG, 4
+10%, PERCENT, 4
+IRFU, ORG, 4
+2.2 million, CARDINAL, 4
+5,325, CARDINAL, 4
+first week, DATE, 4
+Paul Mescal, PERSON, 4
+821, CARDINAL, 4
+Scottish, NORP, 4
+Sarah Everard, PERSON, 4
+Donegal, GPE, 4
+Dundalk, GPE, 4
+Swiss, NORP, 4
+San Diego, GPE, 4
+March last year, DATE, 4
+Yesterday, DATE, 4
+Twitter, PRODUCT, 4
+Late Late Show, WORK_OF_ART, 4
+53-year-old, DATE, 4
+68, CARDINAL, 4
+556, CARDINAL, 4
+Ireland Public, ORG, 4
+679, CARDINAL, 4
+Cheltenham Festival, ORG, 4
+1,452, CARDINAL, 4
+four months, DATE, 4
+Groundhog Day, EVENT, 4
+Michelle, PERSON, 4
+Trinity, ORG, 4
+August, DATE, 4
+94%, PERCENT, 4
+Hospitalisations, PERSON, 4
+Border, ORG, 4
+sixth, ORDINAL, 4
+10,000, MONEY, 4
+This Morning, TIME, 4
+The World Health Organization, ORG, 4
+76%, PERCENT, 4
+Donohoe, PERSON, 4
+Irishman, NORP, 4
+GARDAI, PERSON, 4
+last April, DATE, 4
+1,754, CARDINAL, 4
+829, CARDINAL, 4
+last spring, DATE, 4
+five days, DATE, 4
+7,000, CARDINAL, 4
+the coming week, DATE, 4
+last weekend, DATE, 4
+Covid-related, PERSON, 4
+Hungary, GPE, 4
+Sun, ORG, 4
+12, DATE, 4
+AstraZeneca Covid, ORG, 4
+Alison O'Connor, PERSON, 4
+1,062, CARDINAL, 4
+15,500, CARDINAL, 4
+Kate, PERSON, 4
+June 30, DATE, 4
+12 weeks, DATE, 4
+Oklahoma, GPE, 4
+125, CARDINAL, 4
+five weeks, DATE, 4
+Oxford AstraZeneca, ORG, 4
+mid-January, DATE, 4
+Government, ORG, 4
+ECB, ORG, 4
+Ken Barlow, PERSON, 4
+Polish, NORP, 4
+Peter Barlow, PERSON, 4
+350, CARDINAL, 4
+ten years, DATE, 4
+39, DATE, 4
+YouTube, ORG, 4
+University College Dublin, ORG, 4
+Paschal Donohoe, ORG, 4
+Joe Swash, PERSON, 4
+Taoiseach Micheál Martin, EVENT, 4
+Darina Allen, PERSON, 4
+Jack, PERSON, 4
+Adam Rothenberg, PERSON, 4
+Gardai, ORG, 4
+earlier this week, DATE, 4
+Liverpool, GPE, 4
+up to 72 hours, TIME, 4
+Vicky Phelan, PERSON, 4
+VHI, ORG, 4
+686, CARDINAL, 4
+6,110, CARDINAL, 4
+Julian Benson, PERSON, 4
+5,000, MONEY, 4
+Cork University Hospital, ORG, 4
+nearly half, CARDINAL, 4
+Canada, GPE, 4
+more than 2,000, CARDINAL, 4
+150, CARDINAL, 4
+800, CARDINAL, 4
+May 1, DATE, 4
+Charlie Lawson, PERSON, 4
+Earlier this week, DATE, 4
+Tony Holohan's, PERSON, 4
+3,569, CARDINAL, 4
+30s, CARDINAL, 4
+Dubliner, ORG, 4
+Oxford-AstraZeneca, ORG, 4
+more than 30, CARDINAL, 4
+8am, TIME, 4
+1,620, CARDINAL, 4
+4,842, CARDINAL, 4
+Third, ORDINAL, 4
+Australians, NORP, 4
+the second year in a row, DATE, 4
+15%, PERCENT, 4
+ECDC, ORG, 4
+Covid’, PERSON, 4
+Kingston Mills, PERSON, 4
+Drew Harris, PERSON, 4
+Policing Authority, ORG, 4
+11 January, DATE, 4
+Leo, PERSON, 4
+Level, GPE, 4
+more than 220, CARDINAL, 4
+one year ago, DATE, 4
+10km, QUANTITY, 4
+McDonald, ORG, 4
+70, DATE, 4
+60-year-old, DATE, 4
+2km, QUANTITY, 4
+61, CARDINAL, 4
+5 April, DATE, 4
+48, DATE, 4
+recent years, DATE, 4
+97, CARDINAL, 4
+last year’s, DATE, 4
+David Nabarro, PERSON, 4
+more than 100,000, CARDINAL, 4
+Brian Pinker, PERSON, 4
+4,300, CARDINAL, 4
+three years, DATE, 4
+46, CARDINAL, 4
+3,086, CARDINAL, 4
+Chris Johns, PERSON, 4
+Moderna Covid, PERSON, 4
+90%, PERCENT, 4
+80%, PERCENT, 4
+North, GPE, 4
+the new year, DATE, 4
+1.2, CARDINAL, 4
+613, CARDINAL, 4
+over 18,000, CARDINAL, 4
+Amanda Holden, PERSON, 4
+NZ, GPE, 4
+50%, PERCENT, 4
+Finding Derek, PERSON, 4
+just hours, TIME, 4
+at least April 5, DATE, 4
+100pc, ORDINAL, 4
+full-year, DATE, 4
+173, CARDINAL, 4
+1,414, CARDINAL, 4
+Morgan, PERSON, 4
+Dublin’s, ORG, 4
+ANGELA Merkel, PERSON, 4
+50th, ORDINAL, 4
+the World Health Organization, ORG, 4
+two-thirds, CARDINAL, 4
+Joe Biden's, PERSON, 4
+AIB, ORG, 4
+LIVE Ireland, GPE, 4
+687, CARDINAL, 4
+Austrian, NORP, 4
+30 million, CARDINAL, 4
+Botox, ORG, 4
+Sinn Féin, PERSON, 4
+Noel Gallagher, PERSON, 4
+AFP, ORG, 4
+Yasmeen Nazir, PERSON, 4
+Bill Gates, PERSON, 4
+Vitamin D, ORG, 4
+48, CARDINAL, 4
+1,254, CARDINAL, 4
+Covid A, PERSON, 4
+3,231, CARDINAL, 4
+Valentine, PERSON, 4
+up to two weeks, DATE, 4
+80km, QUANTITY, 4
+Christians, NORP, 4
+March 8, DATE, 4
+Geoff Metcalfe, PERSON, 4
+Mike Denver, PERSON, 4
+Nick Tilsley, PERSON, 4
+almost four, CARDINAL, 4
+New Year’s, EVENT, 3
+Carla Connor, PERSON, 3
+next winter, DATE, 3
+Covid regulations, PERSON, 3
+138, CARDINAL, 3
+New Year's Eve, EVENT, 3
+Stacey Solomon, PERSON, 3
+Easter, GPE, 3
+Bergamo, ORG, 3
+8am this morning, TIME, 3
+THOUSANDS, CARDINAL, 3
+Budapest, GPE, 3
+Champions League, ORG, 3
+one-third, CARDINAL, 3
+Finn McRedmond, PERSON, 3
+four days, DATE, 3
+Zoom, GPE, 3
+this past year, DATE, 3
+11-year-old, DATE, 3
+€160m, MONEY, 3
+Tifco Hotel Group, ORG, 3
+The Tifco Hotel Group, ORG, 3
+Kilkenny, PERSON, 3
+Households, ORG, 3
+dozens, CARDINAL, 3
+48-year-old, DATE, 3
+the 1960s, DATE, 3
+Padraig Harrington, PERSON, 3
+Alan Halsall, PERSON, 3
+Alina, ORG, 3
+St Vincent's, PERSON, 3
+80,000, CARDINAL, 3
+Macron, PERSON, 3
+Emmanuel Macron, PERSON, 3
+Bank’s, ORG, 3
+IDA, ORG, 3
+Karina Butler, PERSON, 3
+Almost 1,000, CARDINAL, 3
+UCC, GPE, 3
+Coombe Hospital, ORG, 3
+66, DATE, 3
+More than 100,000, CARDINAL, 3
+the Premier League, ORG, 3
+the past week, DATE, 3
+The Irish Government, ORG, 3
+Jair Bolsonaro, PERSON, 3
+Johnson & Johnson’s, ORG, 3
+EU Covid, ORG, 3
+1,410, CARDINAL, 3
+Donald Trump’s, PERSON, 3
+the Central Statistics Office, ORG, 3
+30%, PERCENT, 3
+Pilita Clark, PERSON, 3
+Philippines, GPE, 3
+Dermot Desmond's, PERSON, 3
+Dermot Desmond, PERSON, 3
+Corrie, PERSON, 3
+54, DATE, 3
+70, CARDINAL, 3
+A year, DATE, 3
+49-year-old, DATE, 3
+Aldi, ORG, 3
+Revolut, ORG, 3
+Co Offaly, GPE, 3
+BRAZIL, GPE, 3
+Sao Paulo, GPE, 3
+24, DATE, 3
+Ryanair, PERSON, 3
+last Thursday, DATE, 3
+1.2bn, MONEY, 3
+Trinity College Dublin, ORG, 3
+455, CARDINAL, 3
+Government Buildings, ORG, 3
+Larry McCarthy, PERSON, 3
+Mollie Gallagher, PERSON, 3
+ZERO, PERSON, 3
+CHINA, GPE, 3
+Jake Merriman, PERSON, 3
+20 years, DATE, 3
+Dublin, ORG, 3
+2017, DATE, 3
+more than a quarter, DATE, 3
+Monaghan, GPE, 3
+Thai, NORP, 3
+January 1st, DATE, 3
+Sarah Crosby, PERSON, 3
+Commission, ORG, 3
+40,000, CARDINAL, 3
+3,955, CARDINAL, 3
+the National Immunisation Advisory Committee, ORG, 3
+8 March, DATE, 3
+CCTV, ORG, 3
+Meghan, PERSON, 3
+Maura Higgins, PERSON, 3
+Europeans, NORP, 3
+Pat Kenny, PERSON, 3
+Hilary Fannin, PERSON, 3
+Sharp, ORG, 3
+late January, DATE, 3
+Megan Barton-Hanson, PERSON, 3
+Jennifer Bray, PERSON, 3
+Jack Horgan-Jones, PERSON, 3
+one week, DATE, 3
+Up to 1,000, CARDINAL, 3
+Derek, ORG, 3
+Derek Draper’s, PERSON, 3
+the Coombe Hospital, ORG, 3
+Oireachtas, GPE, 3
+UCC, ORG, 3
+Cillian de Gascun, PERSON, 3
+5 March, DATE, 3
+Dr Fauci, PERSON, 3
+PE, ORG, 3
+a single day, DATE, 3
+billions, CARDINAL, 3
+the last month, DATE, 3
+Article 16, LAW, 3
+Garda Commissioner, PERSON, 3
+Hundreds of thousands, CARDINAL, 3
+37, DATE, 3
+Co Wexford, PERSON, 3
+Brendan Gleeson, PERSON, 3
+Sabina, GPE, 3
+Seanad, PERSON, 3
+Lions, ORG, 3
+Millions, CARDINAL, 3
+59, DATE, 3
+Liz Hurley, PERSON, 3
+two thirds, CARDINAL, 3
+Gwyneth Paltrow, PERSON, 3
+Fabien Galthié, ORG, 3
+Claire Byrne Live, PERSON, 3
+the next two weeks, DATE, 3
+Lockdown, GPE, 3
+Bruce Jones, PERSON, 3
+Les Battersby, PERSON, 3
+98%, PERCENT, 3
+C&C, ORG, 3
+last two weeks, DATE, 3
+32, CARDINAL, 3
+tens of thousands, CARDINAL, 3
+Coleen, CARDINAL, 3
+June 21, DATE, 3
+427, CARDINAL, 3
+Group, ORG, 3
+past month, DATE, 3
+Engelbert Humperdinck, PERSON, 3
+Deirdre McGlone, PERSON, 3
+Galway, ORG, 3
+Grainne Gallanagh, PERSON, 3
+fifth, ORDINAL, 3
+CORONAVIRUS, ORG, 3
+44, DATE, 3
+21, DATE, 3
+Ireland Covid, PERSON, 3
+Una Healy, PERSON, 3
+at least 70, CARDINAL, 3
+Long Covid, PERSON, 3
+two years, DATE, 3
+More than 200, CARDINAL, 3
+John Magnier, PERSON, 3
+Mitchells & Butlers, ORG, 3
+£350m, MONEY, 3
+Pope, PERSON, 3
+Will Mellor, PERSON, 3
+105-year-old, DATE, 3
+later today, TIME, 3
+160, CARDINAL, 3
+Visa, ORG, 3
+Aaron Connolly, PERSON, 3
+Brighton, PERSON, 3
+Chelsea, ORG, 3
+past year, DATE, 3
+Level, PRODUCT, 3
+the National League, ORG, 3
+Pharmacists, NORP, 3
+2bn, MONEY, 3
+University Hospital Limerick, ORG, 3
+Rob Kearney, PERSON, 3
+Coronation Street's, ORG, 3
+the University of Limerick, ORG, 3
+Bank of Ireland, ORG, 3
+at least the end of the month, DATE, 3
+QAnon, ORG, 3
+121,900, CARDINAL, 3
+Liz Bonnin, PERSON, 3
+March 1, DATE, 3
+Stephen Collins, PERSON, 3
+BioNTech, GPE, 3
+University College Cork, ORG, 3
+three-day, DATE, 3
+March 7, DATE, 3
+901, CARDINAL, 3
+the European Commission, ORG, 3
+last March’, DATE, 3
+10 months, DATE, 3
+6,521, CARDINAL, 3
+39-year-old, DATE, 3
+Mary Horgan, PERSON, 3
+second year, DATE, 3
+Novak Djokovic, PERSON, 3
+63, CARDINAL, 3
+Man City, GPE, 3
+1,421, CARDINAL, 3
+under 18, DATE, 3
+at least March 5, DATE, 3
+Foley, PERSON, 3
+secondary, ORDINAL, 3
+Eileen Whelan, PERSON, 3
+WWII, EVENT, 3
+two-month, DATE, 3
+over 1,000, CARDINAL, 3
+50,000, CARDINAL, 3
+the National Virus Reference Laboratory, ORG, 3
+University of Limerick, ORG, 3
+2,944, CARDINAL, 3
+Michael McBride, PERSON, 3
+Oliver, PERSON, 3
+the Leaving Cert, ORG, 3
+5-year-old, DATE, 3
+January 31, DATE, 3
+350,000, CARDINAL, 3
+1,442, CARDINAL, 3
+World Health Organisation, ORG, 3
+Republicans, NORP, 3
+New Year’s Day, EVENT, 3
+Advisory, ORG, 3
+Stamford Bridge, FAC, 3
+Childcare, ORG, 3
+Sean Moncrieff, PERSON, 3
+Week, DATE, 3
+Republic of Congo, ORG, 3
+Charlie, PERSON, 3
+Daniel McConnell, PERSON, 3
+2,000, MONEY, 3
+same-day, DATE, 3
+28 days, DATE, 3
+Seán Moran, PERSON, 3
+Irish Coursing Club, ORG, 3
+nearly a year, DATE, 3
+Mark Paul, PERSON, 3
+April 19, DATE, 3
+420, CARDINAL, 3
+the Cabinet Committee, ORG, 3
+up to, CARDINAL, 3
+Letterkenny University Hospital, ORG, 3
+CORONATION Street’s, FAC, 3
+600, CARDINAL, 3
+the end of this week, DATE, 3
+Naomi O'Leary, PERSON, 3
+Expert, PERSON, 3
+Mayo GP, ORG, 3
+Jimmy, PERSON, 3
+FRANCE, GPE, 3
+Level 2, FAC, 3
+at least six, CARDINAL, 3
+the second year, DATE, 3
+Harry Styles, PERSON, 3
+Argentinian, NORP, 3
+Sinn Féin TD, PERSON, 3
+nearly 2,000, CARDINAL, 3
+Lloyds, ORG, 3
+nearly three-quarters, CARDINAL, 3
+Lauren Goodger, PERSON, 3
+527, CARDINAL, 3
+the Northern Ireland Executive, ORG, 3
+Jim, PERSON, 3
+Miriam Stoppard - Irish Mirror Online, PERSON, 3
+six days, DATE, 3
+last year's, DATE, 3
+John Waters, PERSON, 3
+the next few months, DATE, 3
+House, ORG, 3
+less than 1%, PERCENT, 3
+360, CARDINAL, 3
+Bray, ORG, 3
+117th, ORDINAL, 3
+June 21st, DATE, 3
+Dail, ORG, 3
+early next month, DATE, 3
+57, DATE, 3
+2,488, CARDINAL, 3
+Volkswagen, ORG, 3
+Scarlett, PERSON, 3
+Boris Johnson’s, PERSON, 3
+Pat Spillane, PERSON, 3
+five-day, DATE, 3
+under 65, DATE, 3
+149, CARDINAL, 3
+SHE, ORG, 3
+33, DATE, 3
+Patrick, PERSON, 3
+144, CARDINAL, 3
+New Zealand’s, GPE, 3
+Paralympics, ORG, 3
+Sinn Féin, ORG, 3
+21 June, DATE, 3
+Jo Whiley, PERSON, 3
+almost a million, CARDINAL, 3
+Gok Wan, PERSON, 3
+up to two years, DATE, 3
+Hollyoaks, GPE, 3
+NORTHERN Ireland’s, GPE, 3
+Almost 5,000, CARDINAL, 3
+Limerick, PERSON, 3
+Anthea Turner, PERSON, 3
+31, CARDINAL, 3
+That&#8217;s, ORG, 3
+recent months, DATE, 3
+40%, PERCENT, 3
+24-hour, TIME, 3
+28, DATE, 3
+Blindboy Boatclub, PERSON, 3
+Nurses, ORG, 3
+South American, NORP, 3
+Sudden, GPE, 3
+the North, LOC, 3
+Jean Castex, PERSON, 3
+Crown, ORG, 3
+More than 850,000, CARDINAL, 3
+The European Union’s, ORG, 3
+Tories, NORP, 3
+Ryan, PERSON, 3
+Tottenham, PERSON, 3
+11 days, DATE, 3
+15 million, CARDINAL, 3
+Charlotte Dawson, PERSON, 3
+823, CARDINAL, 3
+355, CARDINAL, 3
+Robin Swann, PERSON, 3
+republican, NORP, 3
+Nina Lucas, PERSON, 3
+more than 100, CARDINAL, 3
+a few years ago, DATE, 3
+mid-summer, DATE, 3
+223, CARDINAL, 3
+761, CARDINAL, 3
+Ryan Thomas, PERSON, 3
+8220;very, MONEY, 3
+Josh Adams, PERSON, 3
+a weekend, DATE, 3
+Gardaí , PERSON, 3
+200,000, CARDINAL, 3
+1.1, CARDINAL, 3
+FOUR, CARDINAL, 3
+1,985, CARDINAL, 3
+Cork GAA, PERSON, 3
+Aston Villa, PERSON, 3
+April 2020, DATE, 3
+hÉireann, ORG, 3
+1,466, CARDINAL, 3
+Tom Cruise, PERSON, 3
+Netflix, GPE, 3
+Nearly one, CARDINAL, 3
+Instagram, ORG, 3
+IAG, ORG, 3
+9, MONEY, 3
+96, CARDINAL, 3
+Miriam Stoppard - Irish Mirror Online Dr, PERSON, 3
+224, CARDINAL, 3
+600,000, CARDINAL, 3
+over 100, CARDINAL, 3
+8pm last night, TIME, 3
+705, CARDINAL, 3
+Sturgeon, ORG, 3
+the month, DATE, 3
+Bridgerton, ORG, 3
+UEFA, GPE, 3
+Two weeks ago, DATE, 3
+973, CARDINAL, 3
+4am, TIME, 3
+year’, DATE, 3
+Boohoo, ORG, 3
+Anna Daly, PERSON, 3
+Rochelle, GPE, 3
+Kamala Harris, PERSON, 3
+up to 30%, PERCENT, 3
+St Gerard’s School, ORG, 3
+every week, DATE, 3
+Covid death, PERSON, 3
+72, CARDINAL, 3
+Emma Willis, PERSON, 3
+Andy Murray, PERSON, 3
+Bryan O'Brien, PERSON, 3
+227, CARDINAL, 3
+IOC, ORG, 3
+Muireann O'Connell, PERSON, 3
+3,576, CARDINAL, 2
+last October, DATE, 2
+Vitamin, PERSON, 2
+177, CARDINAL, 2
+Kelly, PERSON, 2
+Peru, GPE, 2
+Martin Breheny, PERSON, 2
+Tom Hanks, PERSON, 2
+Texas, GPE, 2
+Covid-safe, PERSON, 2
+Marcelo, PERSON, 2
+1 million, CARDINAL, 2
+242, CARDINAL, 2
+post-Covid, EVENT, 2
+Byrne, PERSON, 2
+Co Kildare, GPE, 2
+opening hours, TIME, 2
+Fórsa, ORG, 2
+Fair City, GPE, 2
+more than six months, DATE, 2
+William Servat, PERSON, 2
+Newbridge, GPE, 2
+second half of 2021, DATE, 2
+The Central Bank, ORG, 2
+up to eight weeks, DATE, 2
+Outbreak, ORG, 2
+98, DATE, 2
+Irish Sun, ORG, 2
+Sarah, PERSON, 2
+African, NORP, 2
+3.7 million, CARDINAL, 2
+Mario Draghi, PERSON, 2
+Sr Stan, PERSON, 2
+Niamh Griffin, GPE, 2
+May 17, DATE, 2
+summer holidays, DATE, 2
+65, DATE, 2
+Borussia Monchengladbach, ORG, 2
+DAA, ORG, 2
+The next few weeks, DATE, 2
+Court, ORG, 2
+As many as one, CARDINAL, 2
+more than 80, CARDINAL, 2
+42-year-old, DATE, 2
+Carl, PERSON, 2
+Social Democrats, NORP, 2
+a decade ago, DATE, 2
+12.5%, PERCENT, 2
+Dublin City, GPE, 2
+Michael Moynihan, PERSON, 2
+GEMMA Collins, ORG, 2
+Covid’s, ORG, 2
+the first 100 days, DATE, 2
+Bucharest, GPE, 2
+Beverley Callard, ORG, 2
+last-minute, TIME, 2
+Covid - Irish Mirror, ORG, 2
+Marie Sherlock, PERSON, 2
+Some nine, CARDINAL, 2
+O'Neill, ORG, 2
+the third week, DATE, 2
+OnlyFans, ORG, 2
+the first quarter, DATE, 2
+Charlie Condou, PERSON, 2
+Leaving Certificate, ORG, 2
+2003, DATE, 2
+Vanessa Feltz, PERSON, 2
+1,546, CARDINAL, 2
+Pádraig Harrington, PERSON, 2
+Sean Sagar, PERSON, 2
+University Hospital, ORG, 2
+Kathleen Harris, PERSON, 2
+Irish school - Irish Mirror Online, ORG, 2
+480,000, CARDINAL, 2
+Over 10,000, CARDINAL, 2
+Crowne Plaza, FAC, 2
+the Crowne Plaza in, ORG, 2
+44-year-old, DATE, 2
+257, CARDINAL, 2
+Roche, ORG, 2
+7%, PERCENT, 2
+the middle of March, DATE, 2
+Gothenburg, GPE, 2
+ZERO IRELAND’S, PERSON, 2
+484, CARDINAL, 2
+Edele Lynch, PERSON, 2
+260, CARDINAL, 2
+Youghal, GPE, 2
+Novavax, PERSON, 2
+Aisling Bea, PERSON, 2
+988, CARDINAL, 2
+276, CARDINAL, 2
+the end of last year, DATE, 2
+Khan, PERSON, 2
+PETER Andre, PERSON, 2
+13-year-old, DATE, 2
+FRENCH, NORP, 2
+1.9trn, MONEY, 2
+Zimbabwe, GPE, 2
+Co Down, PERSON, 2
+PSNI, ORG, 2
+46%, PERCENT, 2
+Barry Cowen, PERSON, 2
+4.30pm, CARDINAL, 2
+Callum Highway’s, PERSON, 2
+Over 100, CARDINAL, 2
+nearly 1,000, CARDINAL, 2
+later this week, DATE, 2
+Aoife Moore, ORG, 2
+38, DATE, 2
+almost 600, CARDINAL, 2
+TCD, ORG, 2
+2016, DATE, 2
+week-long, DATE, 2
+Pierce Brosnan, PERSON, 2
+Hawaii, GPE, 2
+007, CARDINAL, 2
+a challenging week, DATE, 2
+last Sunday, DATE, 2
+84 years, DATE, 2
+Tom Hennigan, PERSON, 2
+early March, DATE, 2
+Washington DC, GPE, 2
+Co Cork, GPE, 2
+a few months, DATE, 2
+a few pounds, QUANTITY, 2
+Some 30,000, CARDINAL, 2
+More than 100, CARDINAL, 2
+Covid shutdown - Independent.ie Construction, PERSON, 2
+Andy Whyment, PERSON, 2
+Caribbean, NORP, 2
+Hancock, PERSON, 2
+More than 20 million, CARDINAL, 2
+Helen, GPE, 2
+the years, DATE, 2
+42, DATE, 2
+Terry Prone's, PERSON, 2
+Jeni Pim, PERSON, 2
+12-day, DATE, 2
+Groundhog Day, LAW, 2
+Bill Murray, PERSON, 2
+Social, NORP, 2
+34-year-olds, DATE, 2
+12%, PERCENT, 2
+579, CARDINAL, 2
+Dunnes Stores, ORG, 2
+Gabriel, PERSON, 2
+more than 3pc, CARDINAL, 2
+number three, CARDINAL, 2
+the night, TIME, 2
+West Kerry Community Hospital, ORG, 2
+the Mater Hospital, ORG, 2
+Alexa, ORG, 2
+Co Donegal, GPE, 2
+PUP, FAC, 2
+The European Union's, ORG, 2
+Johnson & Johnson's, ORG, 2
+41%, PERCENT, 2
+More than three-quarters, CARDINAL, 2
+his first 100 days, DATE, 2
+between now and, DATE, 2
+11am, TIME, 2
+1985, DATE, 2
+PAYE, ORG, 2
+United States, GPE, 2
+Putin, PERSON, 2
+Olivia Attwood, ORG, 2
+Insta, PERSON, 2
+89-year-old, DATE, 2
+New York City, GPE, 2
+Éireann, ORG, 2
+Labour Party, ORG, 2
+INM, ORG, 2
+Dad, PERSON, 2
+55, MONEY, 2
+Ben Shephard, PERSON, 2
+John Magufuli, PERSON, 2
+1,750, CARDINAL, 2
+2 million, CARDINAL, 2
+14 day, DATE, 2
+March 24, DATE, 2
+Bruno Fernandes, PERSON, 2
+109, CARDINAL, 2
+Vatican, FAC, 2
+Muiris Houston, PERSON, 2
+Gerry Thornley, PERSON, 2
+more than €17,000, MONEY, 2
+GARDAI, ORG, 2
+Co Limerick, GPE, 2
+summer 2020, DATE, 2
+a couple of months, DATE, 2
+580, CARDINAL, 2
+70,000, CARDINAL, 2
+4,000, MONEY, 2
+Five Minute Therapy, TIME, 2
+the next month, DATE, 2
+Less than half, CARDINAL, 2
+2.2, CARDINAL, 2
+200 million, CARDINAL, 2
+Ireland New, FAC, 2
+John Creedon, PERSON, 2
+Zoom, PERSON, 2
+day, DATE, 2
+Mary Lou, PERSON, 2
+Ben Dunne, PERSON, 2
+Blanchardstown, GPE, 2
+30th, ORDINAL, 2
+March 3rd, DATE, 2
+Kathy, PERSON, 2
+Oprah, PERSON, 2
+Eighteen, CARDINAL, 2
+NUI Galway, ORG, 2
+Micheal D Higgins, PERSON, 2
+Axa, ORG, 2
+David Kelly, PERSON, 2
+Dealgan House, ORG, 2
+Vaccine Ireland, PERSON, 2
+Category 2, CARDINAL, 2
+A year ago, DATE, 2
+Iran, GPE, 2
+seventh, ORDINAL, 2
+30pc, ORDINAL, 2
+17-year-old, DATE, 2
+36th, ORDINAL, 2
+41-year-old, DATE, 2
+Michael Sheen, PERSON, 2
+late 2019, DATE, 2
+Irish Sea, LOC, 2
+Peter Phillips, PERSON, 2
+Zara, PERSON, 2
+under 60, DATE, 2
+this time of year, DATE, 2
+the awards season, DATE, 2
+Micheál Martin’s, PERSON, 2
+Alex Bain, PERSON, 2
+80 years, DATE, 2
+Zero Covid, PERSON, 2
+Harry McGee, PERSON, 2
+89, DATE, 2
+88, CARDINAL, 2
+The United Kingdom, GPE, 2
+Oscar, PERSON, 2
+Ibec, ORG, 2
+Comreg, ORG, 2
+up to €5m, MONEY, 2
+Netflix, PERSON, 2
+Gregg Wallace, PERSON, 2
+EU’s, ORG, 2
+Morning, TIME, 2
+Neil Michael, PERSON, 2
+12 to 15, DATE, 2
+€6.7m, MONEY, 2
+Luke O’Neill - Independent.ie, PERSON, 2
+Luke, PERSON, 2
+Stella Kyriakides, PERSON, 2
+More than 4,000, CARDINAL, 2
+anti-Covid, NORP, 2
+Kevin Webster, PERSON, 2
+Northern Ireland Protocol, GPE, 2
+this Saturday, DATE, 2
+Des Bishop, GPE, 2
+Van Morrison, PERSON, 2
+Meath, ORG, 2
+an hour, TIME, 2
+9pm, TIME, 2
+Beetham Tower, FAC, 2
+30s, DATE, 2
+74, CARDINAL, 2
+Salford, GPE, 2
+Phil, PERSON, 2
+58, DATE, 2
+Sabina, PERSON, 2
+81%, PERCENT, 2
+Fiz Brown, ORG, 2
+Willie O’Dea, PERSON, 2
+the end of September, DATE, 2
+Pennsylvania, GPE, 2
+Democrat, NORP, 2
+HSA, ORG, 2
+Jim Corr, PERSON, 2
+27%, PERCENT, 2
+just five days, DATE, 2
+Fintan O'Toole, PERSON, 2
+Benn Dunne, PERSON, 2
+Melanie Hill, PERSON, 2
+Daisy, PERSON, 2
+Jenny Connor, PERSON, 2
+Covid case, PERSON, 2
+Mark Wright's, PERSON, 2
+TOWIE, ORG, 2
+Eddie Wright, PERSON, 2
+the Christmas, DATE, 2
+Shamrock Rovers, ORG, 2
+pre-season, DATE, 2
+Dan Osborne, PERSON, 2
+Nolan, ORG, 2
+Country, ORG, 2
+Sarah Ryan, PERSON, 2
+Patrick, ORG, 2
+Herbert Park, GPE, 2
+420,000, CARDINAL, 2
+Mark Drakeford, PERSON, 2
+Kate Middleton, PERSON, 2
+300 million, CARDINAL, 2
+18-year-old, DATE, 2
+almost half, CARDINAL, 2
+Matt Smith, PERSON, 2
+250,000, CARDINAL, 2
+Irishtown Garda Station, FAC, 2
+last week's, DATE, 2
+75%, PERCENT, 2
+Airbnbs, NORP, 2
+1,875, MONEY, 2
+Restrictions, ORG, 2
+Next week, DATE, 2
+several months, DATE, 2
+Katie Price’s, PERSON, 2
+117, CARDINAL, 2
+Andrew Cuomo, PERSON, 2
+Morning Ireland, GPE, 2
+Tommy Fury, PERSON, 2
+Storm Christoph, PERSON, 2
+March 31, DATE, 2
+the Irish Freedom Party, ORG, 2
+earlier this year, DATE, 2
+Patricia, PERSON, 2
+Covid - Irish Mirror Online, ORG, 2
+Patricia Humperdinck, PERSON, 2
+Von Der Leyen, ORG, 2
+Last night, TIME, 2
+Catholics, NORP, 2
+Johnson Covid, PERSON, 2
+Joe Schmidt, PERSON, 2
+Bank, ORG, 2
+Alexei Navalny, ORG, 2
+Alexei Navalny, PERSON, 2
+Vladimir Putin, PERSON, 2
+2,186, CARDINAL, 2
+Kerry Group, ORG, 2
+Stars contestant, WORK_OF_ART, 2
+later in the year, DATE, 2
+Michael D. Higgins, PERSON, 2
+Spring, DATE, 2
+Lucy, PERSON, 2
+Nigel Pim, PERSON, 2
+Sean Ward, PERSON, 2
+April 5 - Irish Mirror Online, DATE, 2
+13, DATE, 2
+end of month, DATE, 2
+Transmission, ORG, 2
+379, CARDINAL, 2
+20 million, CARDINAL, 2
+European Central Bank, ORG, 2
+85s, DATE, 2
+almost 6%, PERCENT, 2
+Des Manahan, GPE, 2
+Sputnik, PERSON, 2
+Lancet, ORG, 2
+Tsunami, GPE, 2
+Thailand, GPE, 2
+Gerry Killeen, PERSON, 2
+Exchequer, ORG, 2
+19bn, MONEY, 2
+Spencer, PERSON, 2
+Philip Nolan - Independent.ie, PERSON, 2
+1.9tn dollar, MONEY, 2
+Wisconsin, GPE, 2
+Reit, PERSON, 2
+An Garda Síochána, LOC, 2
+JAPAN, GPE, 2
+7 March, DATE, 2
+1 March, DATE, 2
+350, MONEY, 2
+JP McManus, ORG, 2
+401, MONEY, 2
+Catherine Murphy, PERSON, 2
+Steve McDonald, PERSON, 2
+83, CARDINAL, 2
+Ballygar, GPE, 2
+seven-year-old, DATE, 2
+Billy Kelleher, PERSON, 2
+Punchestown Racecourse, ORG, 2
+290,000, CARDINAL, 2
+the age of 16, DATE, 2
+Abbey Clancy, PERSON, 2
+34-year-old, DATE, 2
+264, CARDINAL, 2
+west Cork, GPE, 2
+March 1st, DATE, 2
+10-year-old, DATE, 2
+Battle, PERSON, 2
+700, CARDINAL, 2
+Alcohol Action Ireland, ORG, 2
+Gabriel Scally, PERSON, 2
+68, DATE, 2
+Inside Politics, WORK_OF_ART, 2
+Jennifer, PERSON, 2
+11 months, DATE, 2
+last June, DATE, 2
+713, CARDINAL, 2
+Derek Draper's, PERSON, 2
+Jess Redden, PERSON, 2
+GARDAI, NORP, 2
+€100 fines, MONEY, 2
+More than 400, CARDINAL, 2
+Brooke Vincent, PERSON, 2
+61, DATE, 2
+World Health Organization, ORG, 2
+9,600, CARDINAL, 2
+The Irish Nurses and Midwives Organisation, ORG, 2
+One million, CARDINAL, 2
+Maria Liman, PERSON, 2
+26, DATE, 2
+Karen Koster, PERSON, 2
+covid-19, PERSON, 2
+Asian, NORP, 2
+Asia, LOC, 2
+Ronan Glynn's, PERSON, 2
+16-year-old, DATE, 2
+Stormont, ORG, 2
+Republic’s, ORG, 2
+Calais, PERSON, 2
+Portuguese, NORP, 2
+Malcolm MacArthur, PERSON, 2
+Rosanna Davison, PERSON, 2
+More than 2,500, CARDINAL, 2
+Shelley King, PERSON, 2
+Tommy Bowe, PERSON, 2
+10-month-old, DATE, 2
+Outbreaks, ORG, 2
+’ - Farming Independent, ORG, 2
+Department, ORG, 2
+140,000, MONEY, 2
+earlier this month, DATE, 2
+February 2020, DATE, 2
+Clifden, GPE, 2
+Coronavirus - News, ORG, 2
+October 2019, DATE, 2
+50-year-old, DATE, 2
+Nigel, PERSON, 2
+Kildare, ORG, 2
+Alan, PERSON, 2
+73, DATE, 2
+85-year-old, DATE, 2
+Joe Wicks, PERSON, 2
+Joe, PERSON, 2
+earlier today, TIME, 2
+34, DATE, 2
+Zara Holland, PERSON, 2
+Barbados, PERSON, 2
+Vatican, ORG, 2
+Plea, PERSON, 2
+Droimnín Nursing Home, ORG, 2
+8220;A, MONEY, 2
+Royal College of Surgeons, ORG, 2
+Japanese, NORP, 2
+DJ, PERSON, 2
+Tuur Dierckx, ORG, 2
+up to, QUANTITY, 2
+Gwyneth Paltrow’s, PERSON, 2
+Nadine Coyle, ORG, 2
+Jason Bell, PERSON, 2
+the White House, ORG, 2
+Kathryn Thomas, PERSON, 2
+77,000, CARDINAL, 2
+between 2.4 and 3, CARDINAL, 2
+article 16, LAW, 2
+Coronavirus Ireland, GPE, 2
+TDs, ORG, 2
+Joyce Fegan, PERSON, 2
+One year ago, DATE, 2
+Killeline Care Centre, ORG, 2
+Neil Hall, PERSON, 2
+the year ahead, DATE, 2
+George, PERSON, 2
+Shamrock Rovers’, ORG, 2
+Tech, ORG, 2
+Mary Wilson, PERSON, 2
+a year later, DATE, 2
+Taoiseach Taoiseach, PERSON, 2
+Shannon, FAC, 2
+Covid-free, PERSON, 2
+Dublin HQ, ORG, 2
+The Irish Council for Civil Liberties, ORG, 2
+208, CARDINAL, 2
+91, DATE, 2
+the end of the week, DATE, 2
+10am, TIME, 2
+Saturday, October 10 last - five days, DATE, 2
+April 26, DATE, 2
+Michelle Kingston, PERSON, 2
+231, CARDINAL, 2
+5,766, CARDINAL, 2
+Finance, ORG, 2
+the age of, DATE, 2
+80, CARDINAL, 2
+12,000, CARDINAL, 2
+Matt Williams, PERSON, 2
+Welsh, PERSON, 2
+Six more weeks, DATE, 2
+Normal People, PERSON, 2
+Connell, ORG, 2
+Passport Service, ORG, 2
+Department of Children, ORG, 2
+Super Bowl, EVENT, 2
+NFL, ORG, 2
+Traveller, PERSON, 2
+Democrats, NORP, 2
+1.9 trillion dollar, MONEY, 2
+168, CARDINAL, 2
+the hours, TIME, 2
+75-year-old, DATE, 2
+Jabs, PERSON, 2
+Martin Taoiseach, PERSON, 2
+Ghana, GPE, 2
+International Women’s Day, ORG, 2
+Bernie Hackett, PERSON, 2
+Scientists, NORP, 2
+Paul Cullen, PERSON, 2
+Alex Scott, PERSON, 2
+Sam Robertson, PERSON, 2
+The White House, ORG, 2
+up to £10,000, MONEY, 2
+Simon Cowell, PERSON, 2
+Ben Miller, PERSON, 2
+Ben, PERSON, 2
+Leanne Battersby’s, PERSON, 2
+five-year-old, DATE, 2
+Fifty, CARDINAL, 2
+3,498, CARDINAL, 2
+600,000, MONEY, 2
+the Special Criminal Court, ORG, 2
+14 March, DATE, 2
+Sites, ORG, 2
+4,422, CARDINAL, 2
+18%, PERCENT, 2
+GPA, ORG, 2
+Gary Windass, PERSON, 2
+EAGLE-EYED Coronation Street, ORG, 2
+Government - Irish Mirror Online, ORG, 2
+Wexford General Hospital, ORG, 2
+Astrazeneca, NORP, 2
+Jess Casey, PERSON, 2
+Thomas Moore, PERSON, 2
+AW21, ORG, 2
+216, CARDINAL, 2
+Brian, PERSON, 2
+70pc, ORDINAL, 2
+almost seven, CARDINAL, 2
+51, DATE, 2
+Las Vegas, GPE, 2
+Roy, PERSON, 2
+81, DATE, 2
+the next few days, DATE, 2
+Holohan, PERSON, 2
+up to 1,000, CARDINAL, 2
+worst year, DATE, 2
+The last year, DATE, 2
+the Defence Forces, ORG, 2
+Hollyoaks, ORG, 2
+Robert Beck, PERSON, 2
+Fergus Collins, PERSON, 2
+more than 1,000, CARDINAL, 2
+The Real Health Podcast, ORG, 2
+the end of, DATE, 2
+13,600, CARDINAL, 2
+Larry King, PERSON, 2
+the New Year, EVENT, 2
+Kate Spencer, PERSON, 2
+Grace Vickers, ORG, 2
+35,000, CARDINAL, 2
+9,000, CARDINAL, 2
+Showcase Ireland, GPE, 2
+1.25, CARDINAL, 2
+Charlotte Crosby, PERSON, 2
+the University of Oxford, ORG, 2
+INMO - Independent.ie Healthcare, ORG, 2
+369, CARDINAL, 2
+Seventeen, CARDINAL, 2
+172, CARDINAL, 2
+More than 1,000, CARDINAL, 2
+Blue Whisp, ORG, 2
+472, CARDINAL, 2
+676, CARDINAL, 2
+Leon Jordaan, PERSON, 2
+An Post, ORG, 2
+Steve Arnott, PERSON, 2
+European Council, ORG, 2
+Charles Michel, PERSON, 2
+People Before Profit, ORG, 2
+US Embassy, ORG, 2
+four million, CARDINAL, 2
+Covid’s, PERSON, 2
+Co Roscommon, PERSON, 2
+late February, DATE, 2
+60,000, CARDINAL, 2
+Student Health, ORG, 2
+North-South, LOC, 2
+Brazilians, NORP, 2
+Danny Willett, PERSON, 2
+St Patricks’s Day, PERSON, 2
+Marian Keyes, PERSON, 2
+June or July, DATE, 2
+161, CARDINAL, 2
+at least 5 April, DATE, 2
+more than 15,000, CARDINAL, 2
+Victoria Ekanoye, PERSON, 2
+Elaine Crowley, PERSON, 2
+NI Executive, ORG, 2
+Settle, PERSON, 2
+Six Nations, ORG, 2
+Aviva Stadium, FAC, 2
+Solson Payyappillil Saviour, PERSON, 2
+Triona McCarthy, PERSON, 2
+450 million, CARDINAL, 2
+Bumble, GPE, 2
+Ray Coyne, PERSON, 2
+2.5%, PERCENT, 2
+The Ireland’s, GPE, 2
+Fittest Family, ORG, 2
+25pc, ORDINAL, 2
+Data, ORG, 2
+6.6%, PERCENT, 2
+MILLIONS, CARDINAL, 2
+GERMANY, GPE, 2
+just weeks, DATE, 2
+Mayo University Hospital, ORG, 2
+Kinsale RNLI, ORG, 2
+two-day, DATE, 2
+Queen, PERSON, 2
+Riverdance, ORG, 2
+more like a decade, DATE, 2
+Covid surge, PERSON, 2
+Three-quarters, DATE, 2
+the past seven days, DATE, 2
+Lockdown 3.0, PERSON, 2
+next decade, DATE, 2
+each evening, TIME, 2
+Prince Philip, PERSON, 2
+99-year-old, DATE, 2
+116-year-old, DATE, 2
+Birmingham, GPE, 2
+Johnson British, PERSON, 2
+1,022, CARDINAL, 2
+€91m, MONEY, 2
+early February, DATE, 2
+The World Health Organisation's, ORG, 2
+Neil Watt, PERSON, 2
+Kris Reid, PERSON, 2
+Paul McDermott, PERSON, 2
+41, CARDINAL, 2
+the Central Bank, ORG, 2
+Boris Johnson's, PERSON, 2
+Moffatt, PERSON, 2
+Anglo, NORP, 2
+David Drumm, PERSON, 2
+Got Talent, ORG, 2
+second year in a row, DATE, 2
+Dublin GAA, PERSON, 2
+Ibrox, GPE, 2
+Corrie, GPE, 2
+Daniel Brocklebank, PERSON, 2
+143,000, CARDINAL, 2
+David McRedmond, PERSON, 2
+December 2020, DATE, 2
+the same period last year, DATE, 2
+Catholic Church, ORG, 2
+Micheál Martin, ORG, 2
+Tiger King, PERSON, 2
+Faye Brookes, PERSON, 2
+Irish Government's, ORG, 2
+RSA, ORG, 2
+January 6, DATE, 2
+coming days, DATE, 2
+1,914, CARDINAL, 2
+60th, ORDINAL, 2
+Danish, NORP, 2
+Leitrim, ORG, 2
+three million, CARDINAL, 2
+106-year-old, DATE, 2
+Blanchardstown, ORG, 2
+100km, QUANTITY, 2
+Europol, ORG, 2
+Woman, PERSON, 2
+January 11, DATE, 2
+earlier this morning, TIME, 2
+Micheal Martin's, PERSON, 2
+Almost one million, CARDINAL, 2
+Tom Ellis, PERSON, 2
+Cystic Fibrosis, ORG, 2
+47-year-old, DATE, 2
+Bill, PERSON, 2
+475, CARDINAL, 2
+The Department of Public Health, ORG, 2
+the past two weeks, DATE, 2
+Tom Ryan, PERSON, 2
+Perrie Edwards, PERSON, 2
+U.S, GPE, 2
+million, CARDINAL, 2
+third quarter, DATE, 2
+A year of Covid, DATE, 2
+Evelyn Plummer, PERSON, 2
+Maureen Lipman, PERSON, 2
+1970s, DATE, 2
+Daniel McDonnell, PERSON, 2
+Toulon, ORG, 2
+589, CARDINAL, 2
+next Sunday, DATE, 2
+Nursing, PERSON, 2
+MAJOR, ORG, 2
+Amanda Holden ', ORG, 2
+96%, PERCENT, 2
+Belgian, NORP, 2
+3 March, DATE, 2
+Nigeria, GPE, 2
+Sam McConkey, PERSON, 2
+11 weeks, DATE, 2
+6,035, CARDINAL, 2
+BTYSTE, ORG, 2
+76 Days, DATE, 2
+World Bank, ORG, 2
+Lebanon, GPE, 2
+the start of the year, DATE, 2
+pre-Covid, PERSON, 2
+four years, DATE, 2
+a number of years, DATE, 2
+US Congress, ORG, 2
+At least three, CARDINAL, 2
+Indian, NORP, 2
+Ciaran, PERSON, 2
+Joe Brennan, PERSON, 2
+DONALD Trump, PERSON, 2
+More than 300,000, CARDINAL, 2
+Kay, PERSON, 2
+Clontarf Castle, FAC, 2
+Guinness Six Nations, ORG, 2
+Kate Garraway's, PERSON, 2
+more than 10, CARDINAL, 2
+Limerick City, GPE, 2
+Rob Kearney’s, PERSON, 2
+48 hours, TIME, 2
+Ireland Ireland, GPE, 2
+London Fashion Week, FAC, 2
+Richard Harrington, PERSON, 2
+Deliveroo, ORG, 2
+45, DATE, 2
+the San Diego Zoo Safari Park, ORG, 2
+€150m, MONEY, 2
+the Sunday Independent, ORG, 2
+Covid-crisis, PERSON, 2
+Cork City, GPE, 2
+up to €1,400, MONEY, 2
+NEW, ORG, 2
+St Mary’s Hospital, ORG, 2
+the Phoenix Park, FAC, 2
+Ronan McGreevy, PERSON, 2
+Margaret Power, PERSON, 2
+more than 300, CARDINAL, 2
+mid-June, DATE, 2
+Cork, ORG, 2
+Robert, PERSON, 2
+Louisa Lytton, PERSON, 2
+342, CARDINAL, 2
+Martin Cormican, PERSON, 2
+Fine Gael, FAC, 2
+59, CARDINAL, 2
+autumn, DATE, 2
+Nicola Thorp, ORG, 2
+later this month, DATE, 2
+140k, MONEY, 2
+Lana Clarkson, PERSON, 2
+27-year-old, DATE, 2
+3,666, CARDINAL, 2
+Rome, GPE, 2
+Drinks, ORG, 2
+John Prenty, PERSON, 2
+1 April, DATE, 2
+John Lahart, PERSON, 2
+the last twelve months, DATE, 2
+Greg O'Shea, PERSON, 2
+Greg O’Shea, PERSON, 2
+Virgin Media's, PERSON, 2
+Mediterranean, LOC, 2
+Peaky Blinders, PERSON, 2
+ovid-19, DATE, 2
+non-US, GPE, 2
+1,792, CARDINAL, 2
+the Crowne Plaza Hotel, ORG, 2
+235,078, CARDINAL, 2
+4,667, CARDINAL, 2
+Claire Byrne, PERSON, 2
+763, CARDINAL, 2
+640, CARDINAL, 2
+one-year, DATE, 2
+Katherine Ryan, PERSON, 2
+Mirror, ORG, 2
+Finland, GPE, 2
+38, CARDINAL, 2
+176, CARDINAL, 2
+Covid Lockdown, PERSON, 2
+HPV, ORG, 2
+Leinster, PERSON, 2
+FLORIDA, GPE, 2
+Spring Breakers, ORG, 2
+Church, ORG, 2
+Syria, GPE, 2
+Mam, LOC, 2
+Coombe, PERSON, 2
+Dev Alahan, PERSON, 2
+Paddy McKillen, PERSON, 2
+Anne Borrowman, PERSON, 2
+56th, ORDINAL, 2
+Government’s, ORG, 2
+Citizens Information Service, ORG, 2
+Tens of thousands, CARDINAL, 2
+Close, PERSON, 2
+Jonathan Joseph, PERSON, 2
+Irish Mirror Online News, ORG, 2
+Roisin Kiberd, PERSON, 2
+third week, DATE, 2
+Ryanair, ORG, 2
+Jake Wood, PERSON, 2
+April 1, DATE, 2
+2.7%, PERCENT, 2
+Ella, ORG, 2
+Denmark, ORG, 2
+Palestinians, NORP, 2
+fourth quarter, DATE, 2
+Maeve Higgins, PERSON, 2
+an evening, TIME, 2
+Covid vaccine - Independent.ie, PERSON, 2
+CHINESE, NORP, 2
+1,850, CARDINAL, 2
+the Workplace Relations Commission, ORG, 2
+2%, PERCENT, 2
+YASMEEN Nazir, ORG, 2
+33,355, CARDINAL, 2
+3.3bn, MONEY, 2
+Scott Sinclair, PERSON, 2
+Fine Gael, LOC, 2
+28-day, DATE, 2
+the HSE’s, ORG, 2
+Peter Brown, PERSON, 2
+coming months, DATE, 2
+SIPTU, ORG, 2
+Green Party, ORG, 2
+Publicans, NORP, 2
+Covid hospitalisations, PERSON, 2
+Kennedy, PERSON, 2
+23-year-old, DATE, 2
+172, MONEY, 2
+Israeli, NORP, 2
+Global Recycling Day, ORG, 2
+McConnell, PERSON, 2
+Pelosi, LOC, 2
+€19 billion, MONEY, 2
+50 million, CARDINAL, 2
+tUachtarán, ORG, 2
+States, GPE, 2
+Phoenix Park, GPE, 2
+55-year-old, DATE, 2
+2013, DATE, 2
+Charles, PERSON, 2
+1,929, CARDINAL, 2
+the Ku Klux Klan, FAC, 2
+Frontline, PRODUCT, 2
+TANAISTE, GPE, 2
+Primary, PERSON, 2
+the other day, DATE, 2
+the People’s Pork, ORG, 2
+Dún Laoghaire, LOC, 2
+Yotam Ottolenghi, PERSON, 2
+Yorkshire Ripper, PERSON, 2
+this day, DATE, 2
+1,256, MONEY, 2
+The National Immunisation Advisory Committee, ORG, 2
+Jennifer McWilliams, PERSON, 2
+just days, DATE, 2
+12 days, DATE, 2
+CBI, ORG, 2
+433, CARDINAL, 2
+Alisson, PERSON, 2
+midnight, TIME, 2
+the Black Death, ORG, 2
+Jeff Brazier, PERSON, 2
+16-69, DATE, 2
+INMO, ORG, 2
+Tony Tormey, PERSON, 2
+Primark, LOC, 2
+Mar, PERSON, 2
+Moe Dunford, PERSON, 2
+€1.2 billion, MONEY, 2
+Atlantic, LOC, 2
+one night, TIME, 2
+Mary Berry, PERSON, 2
+1,295, CARDINAL, 2
+Cornwall, GPE, 2
+Maisie Smith, PERSON, 2
+HRVY, ORG, 2
+Amanda Kloots, ORG, 2
+The Irish Mirror, ORG, 2
+World Book Day, EVENT, 2
+392, CARDINAL, 2
+Tom, PERSON, 2
+Longford, PERSON, 2
+Schools Ireland, GPE, 2
+1,700, CARDINAL, 2
+30-day, DATE, 2
+Garda Síochána, PERSON, 2
+Leinster Council, ORG, 2
+Stockholm, GPE, 2
+More than 20, CARDINAL, 2
+817, CARDINAL, 2
+' this week, DATE, 2
+Opposition, ORG, 2
+259, CARDINAL, 2
+as high as 1, CARDINAL, 2
+Thelma Barlow, PERSON, 2
+Dermot, GPE, 2
+Gaynor Faye, PERSON, 2
+49, DATE, 2
+the start of January, DATE, 2
+Siptu, NORP, 2
+Cavan, GPE, 2
+Paddy Holohan, PERSON, 2
+Microsoft, ORG, 2
+159, CARDINAL, 2
+Kendall Jenner, PERSON, 2
+Alcatraz, FAC, 2
+San Francisco, GPE, 2
+Tesco, GPE, 2
+five kilometres, QUANTITY, 2
+Jennifer Zamparelli, PERSON, 2
+December 2019, DATE, 2
+Limerick street, FAC, 2
+the next three months, DATE, 2
+Uefa, GPE, 2
+Financial Fair Play, ORG, 2
+44%, PERCENT, 2
+last 14 days, DATE, 2
+The Floating Voter:, WORK_OF_ART, 2
+Gaza, GPE, 2
+2,126, MONEY, 2
+over five, CARDINAL, 2
+another year, DATE, 2
+Paddy Holohan, ORG, 2
+Édouard Roger-Vasselin, PERSON, 2
+91st, ORDINAL, 2
+Euro, ORG, 2
+Iraqi, NORP, 2
+Jessie Buckley, PERSON, 2
+Phoebe Dynevor, ORG, 2
+Adam King, PERSON, 2
+More than 200 million, CARDINAL, 2
+England’s, GPE, 2
+2,500, MONEY, 2
+Garda, LOC, 2
+Glanbia, GPE, 2
+7, CARDINAL, 2
+Wendell Pierce, PERSON, 2
+up to €2,500, MONEY, 2
+six-month, DATE, 2
+263, CARDINAL, 2
+Ross O'Carroll-Kelly - ‘, PERSON, 2
+just a week, DATE, 2
+Steve, PERSON, 2
+87%, PERCENT, 2
+Border, PRODUCT, 2
+Giovanna, PERSON, 2
+Buzz, PERSON, 2
+Aimsir, ORG, 2
+Jordan Bailey, PERSON, 2
+Majken Bech-Bailey, PERSON, 2
+Michelin, PERSON, 2
+Nicola Sturgeon, PERSON, 2
+Mary Robinson, PERSON, 2
+2006, DATE, 2
+Fausto Gresini, PERSON, 2
+60, DATE, 2
+227,163, CARDINAL, 2
+a new decade, DATE, 2
+Nobel Prize, WORK_OF_ART, 2
+Angela Scanlon, PERSON, 2
+Gail’s, PERSON, 2
+Mike, PERSON, 2
+Elizabeth Gannon, PERSON, 2
+Tanya Sweeney, PERSON, 2
+46,500, CARDINAL, 2
+Lockdown 3, PERSON, 2
+670, CARDINAL, 2
+Matt Damon, PERSON, 2
+Thor, GPE, 2
+AstraZeneca Covid, NORP, 2
+Several thousand, CARDINAL, 2
+Kassel, PRODUCT, 2
+the Irish Government, ORG, 2
+more than two months, DATE, 2
+Neil Lennon, PERSON, 2
+822, CARDINAL, 2
+Jennifer O’Connell, PERSON, 2
+Kitty Holland, PERSON, 2
+Felicia Olusanya, PERSON, 2
+Last March, DATE, 2
+IKEA, ORG, 2
+Eurovision, PERSON, 2
+'The Wild Rover', WORK_OF_ART, 2
+Living with Covid plan, WORK_OF_ART, 2
+MEP, ORG, 2
+Clare, ORG, 2
+Dream Factory, ORG, 2
+2,500, CARDINAL, 2
+36, DATE, 2
+Southern Asia, LOC, 2
+MistaKay, ORG, 2
+Radio 1, ORG, 2
+the next six weeks, DATE, 2
+Swedes, NORP, 2
+Alpine, PERSON, 2
+Paraguay, ORG, 2
+Ennis Hospital, ORG, 2
+Co Wicklow, PERSON, 2
+January 9, DATE, 2
+Raphael Ibanez, PERSON, 2
+426, CARDINAL, 2
+Orthodox, NORP, 2
+163, CARDINAL, 2
+108, CARDINAL, 2
+'six more weeks, DATE, 2
+Belmullet, GPE, 2
+Covid campaign - Independent.ie, PERSON, 2
+Bahamas, GPE, 2
+HALF, CARDINAL, 2
+Wednesday night, TIME, 2
+Catherine Tyldesley, PERSON, 2
+Months, DATE, 2
+3,650, CARDINAL, 2
+Antarctica, LOC, 2
+James McClean, PERSON, 2
+Stoke City, GPE, 2
+Gladiator Girl, PRODUCT, 2
+CYPRUS, ORG, 2
+Brit, ORG, 2
+Matt, PERSON, 2
+Shannon Airport, FAC, 2
+up to 10,000, CARDINAL, 2
+Ford, ORG, 2
+115, CARDINAL, 2
+226, CARDINAL, 2
+Jason Sudeikis, PERSON, 2
+Elaine, ORG, 2
+Benjamin Mendy Covid, PERSON, 2
+Roy Keane, PERSON, 2
+United, ORG, 2
+Frank Mills, PERSON, 2
+Billy Williams, PERSON, 2
+Midsomer Murders, GPE, 2
+Leeds, GPE, 2
+Holly Carpenter, PERSON, 2
+MasterChef, ORG, 2
+’ fall, DATE, 2
+Dawn French, PERSON, 2
+370, CARDINAL, 2
+Tom Grennan, PERSON, 2
+IVF, ORG, 2
+the end of May, DATE, 2
+Athens, GPE, 2
+European Championships, ORG, 2
+Estonia, GPE, 2
+Hammerson, PERSON, 2
+Niall Horan, PERSON, 2
+Macnas, PERSON, 2
+DEADLIER, ORG, 2
+Grey's, ORG, 2
+Aoibhin Garrihy, PERSON, 2
+65s, DATE, 2
+LeBron James, PERSON, 2
+Galway City Council, ORG, 2
+Bum Bum, PERSON, 2
+3%, PERCENT, 2
+Andrew Cuomo’s, PERSON, 2
+Jim Lucey, PERSON, 2
+Wimbledon, EVENT, 2
+Kerrie Leonard, PERSON, 2
+Michael Cullen, PERSON, 2
+Louvre as ‘this Sleeping Beauty’, LAW, 2
+Dancing On Ice, ORG, 2
+AZ, ORG, 2
+Majorca, ORG, 2
+Michael O'Leary, PERSON, 2
+B.117, ORG, 2
+Stephen Fry, PERSON, 2
+Michelle Collins, PERSON, 2
+Eileen Grimshaw, PERSON, 2
+Kirk, PERSON, 2
+eight-year-old, DATE, 2
+700, MONEY, 2
+Capitol, ORG, 2
+400,000, CARDINAL, 2
+Covid-linked, PERSON, 2
+Sean Boylan, PERSON, 2
+Jason Derulo, PERSON, 2
+Manchester United, ORG, 2
+Clontarf Castle Hotel, ORG, 2
+Marcel Somerville, LOC, 2
+five-hour, TIME, 2
+THIRD, ORDINAL, 2
+Fianna Fail, PERSON, 2
+Tel Aviv, GPE, 2
+114,029, CARDINAL, 1
+the last seven days, DATE, 1
+1,269, CARDINAL, 1
+Lisbon Covid, ORG, 1
+past two days, DATE, 1
+St Stephen&#8217;s Day, EVENT, 1
+Totalitarian, NORP, 1
+$4 trillion, MONEY, 1
+VITAMIN, ORG, 1
+Beacon - Independent.ie, FAC, 1
+Prof Nolan, ORG, 1
+1,196, CARDINAL, 1
+Lapland, GPE, 1
+Disney World, ORG, 1
+Fianna Fáil , PERSON, 1
+Headfort Arms Hotel, ORG, 1
+Kells, GPE, 1
+over five months, DATE, 1
+Sligo Dr, PERSON, 1
+Nearly 1,000, CARDINAL, 1
+the Helix Theatre , FAC, 1
+Gross, PERSON, 1
+2.3%, PERCENT, 1
+the darkest day, DATE, 1
+February 2, 2021, DATE, 1
+Every, PERSON, 1
+San Diego Zoo, ORG, 1
+the middle of next month, DATE, 1
+79-year age, DATE, 1
+the Government’s, ORG, 1
+Living with Covid strategy, WORK_OF_ART, 1
+Varadkar Experts, ORG, 1
+Leo Varadkar ', PERSON, 1
+the start of next month, DATE, 1
+SF, GPE, 1
+360,000, MONEY, 1
+Chloe Ferry & Georgia Steel, ORG, 1
+Landlord of Cork 'Covid, ORG, 1
+Fachtna, PERSON, 1
+Model Farm Rd, ORG, 1
+Let&#8217;s, CARDINAL, 1
+Forty-one years ago last Sunday, DATE, 1
+the Dublin County Convention, ORG, 1
+The Masked Singer Final, ORG, 1
+the week ahead, DATE, 1
+Over 9,000, CARDINAL, 1
+OVER 9,000, CARDINAL, 1
+ÃÃÂ¢, ORG, 1
+Calls to Men’s Aid Ireland, ORG, 1
+35%, PERCENT, 1
+Rod Phillips, PERSON, 1
+Real Madrid's, ORG, 1
+four-hour, TIME, 1
+MADRID, ORG, 1
+Mos, PERSON, 1
+Cork GAA HQ, ORG, 1
+Páirc, GPE, 1
+up to 3,000, CARDINAL, 1
+Louise McSharry, PERSON, 1
+all those years, DATE, 1
+AFL, ORG, 1
+Mark O'Connor, PERSON, 1
+Stacey Solomon - Independent.ie, PERSON, 1
+another minute, TIME, 1
+Music, GPE, 1
+the Royal Irish Academy of Music, ORG, 1
+2010, DATE, 1
+Mimi, PERSON, 1
+La Bohème, GPE, 1
+Ranelagh, PERSON, 1
+Dermot Desmond-backed, PERSON, 1
+Gahcho Kué, GPE, 1
+Canadian Arctic, LOC, 1
+at least 19, CARDINAL, 1
+Up to 23,000, CARDINAL, 1
+Dermot Bannon, PERSON, 1
+Tesco & SuperValu, ORG, 1
+KPMG, GPE, 1
+Bill Michael, PERSON, 1
+Trade, ORG, 1
+412, CARDINAL, 1
+North Students, GPE, 1
+Holland, GPE, 1
+early today – weeks, DATE, 1
+7,269, CARDINAL, 1
+Field, ORG, 1
+the Centers for Disease Control and Prevention, America’s, ORG, 1
+Rochelle Walensky, PERSON, 1
+Angry, PERSON, 1
+Over 50%, PERCENT, 1
+Immediate, ORG, 1
+GREAT, ORG, 1
+an additional 1,247, CARDINAL, 1
+Ballsbridge, ORG, 1
+Donnybrook, ORG, 1
+Irish &#, ORG, 1
+2 million Toll ‘, CARDINAL, 1
+Facilities, ORG, 1
+Tullamore, PRODUCT, 1
+Irish Medical Journal, ORG, 1
+Focus Ireland, ORG, 1
+More than one, CARDINAL, 1
+One fifth, CARDINAL, 1
+the Wicklow Mountains, LOC, 1
+500-plus, CARDINAL, 1
+Republic Number, GPE, 1
+Collins Report, ORG, 1
+Tom Collins, PERSON, 1
+at least 5 March, DATE, 1
+First Mother’s Day, ORG, 1
+Garda Band, PERSON, 1
+Covid Members, PERSON, 1
+120, CARDINAL, 1
+340, CARDINAL, 1
+Young, PERSON, 1
+seconds, TIME, 1
+Esther Rantzen, PERSON, 1
+ChildLine, PRODUCT, 1
+The Silver Line, ORG, 1
+an ­annual Bank, ORG, 1
+a national day, DATE, 1
+­victims, ORDINAL, 1
+the Pacific Ocean, LOC, 1
+New Zealanders, NORP, 1
+Leyen EU Commission, ORG, 1
+EU Commission, ORG, 1
+Borussia Monchengladbach, PERSON, 1
+Deliver CORONATION Street’s, GPE, 1
+Stand, GPE, 1
+27, DATE, 1
+the next few weeks, DATE, 1
+past 24 hours, TIME, 1
+the Department of ..., ORG, 1
+Claire Hastie, PERSON, 1
+Lucille Whiting, ORG, 1
+More than 170 million, CARDINAL, 1
+the first nine months of last year, DATE, 1
+seven million, CARDINAL, 1
+the same period, DATE, 1
+469,000, CARDINAL, 1
+€140.34 million, MONEY, 1
+a recent holiday, DATE, 1
+Covid-era, PERSON, 1
+Indo, ORG, 1
+KATIE Price’s, PERSON, 1
+Dems, NORP, 1
+Imelda May's, PERSON, 1
+OECD’s, ORG, 1
+23,700, CARDINAL, 1
+the end of last week, DATE, 1
+16 to 69 years, DATE, 1
+Frida Kahlo, PERSON, 1
+Kenmare, ORG, 1
+about an hour, TIME, 1
+Killarney, PERSON, 1
+Corkonians, NORP, 1
+Covid-, PERSON, 1
+’ 44th, DATE, 1
+Towie, PERSON, 1
+first 100 days, DATE, 1
+JOE Biden, PERSON, 1
+100million, CARDINAL, 1
+Lorraine Kelly, PERSON, 1
+LORRAINE Kelly, PERSON, 1
+Fulfil, PERSON, 1
+Romanian, NORP, 1
+214, CARDINAL, 1
+ICU HSE, ORG, 1
+more than 400, CARDINAL, 1
+Electric Picnic, ORG, 1
+Melvin Benn, PERSON, 1
+Beverley Callard, PERSON, 1
+Liz McDonald, PERSON, 1
+RTE HQ ANTI, ORG, 1
+Transport, ORG, 1
+Grant Shapps, PERSON, 1
+Grace Walsh, PERSON, 1
+Covid - with, PERSON, 1
+Cliff Taylor, PERSON, 1
+600k, PRODUCT, 1
+second quarter, DATE, 1
+JOHNSON & Johnson, ORG, 1
+175.6, CARDINAL, 1
+Coleen Nolan, FAC, 1
+Kylie Biss, PERSON, 1
+32, DATE, 1
+Central Bank - Independent.ie, ORG, 1
+US Budget, ORG, 1
+the first four months, DATE, 1
+Department of an, ORG, 1
+94,000, CARDINAL, 1
+Covid Book, PERSON, 1
+Gavin Francis, PERSON, 1
+Rachel Clarke, PERSON, 1
+Ciara McDonnell, PERSON, 1
+Fittest Family, PRODUCT, 1
+Pakistani, NORP, 1
+Imran Khan, PERSON, 1
+Marcus Dent, ORG, 1
+’ as England eases lockdown Certain, WORK_OF_ART, 1
+European Professional Club Rugby, ORG, 1
+EPCR, ORG, 1
+Wicklow - Irish, ORG, 1
+the Wild Woman of Borneo, ORG, 1
+Mike Ryan's, PERSON, 1
+Twitter - Independent.ie, GPE, 1
+Trócaire, ORG, 1
+Romero Award, PERSON, 1
+Medical Council, ORG, 1
+Gerard Waters, PERSON, 1
+age 81, DATE, 1
+Asian Americans, NORP, 1
+1,511, CARDINAL, 1
+Ben Ofoedu, PERSON, 1
+59-yea, DATE, 1
+THE European Medicines Agency, ORG, 1
+Eat, ORG, 1
+57%, PERCENT, 1
+Eat Takeaway’s, ORG, 1
+Jitse Groen, PERSON, 1
+€1.13 million, MONEY, 1
+161,500, CARDINAL, 1
+the Suez Canal, LOC, 1
+a National Remote Working Strategy, ORG, 1
+Corey Bent, PERSON, 1
+2749.8, CARDINAL, 1
+AT&T, ORG, 1
+Pro-Am, PERSON, 1
+1938, DATE, 1
+Eileen Nangle, PERSON, 1
+the Leaving Cert, WORK_OF_ART, 1
+Ruxandra Porojnicu's, ORG, 1
+Alina Pop CORONATION Street, ORG, 1
+Ruxandra Por, PERSON, 1
+Jesy Nelson ', PERSON, 1
+Jesy Nelson, PERSON, 1
+Magufuli, GPE, 1
+up to six months, DATE, 1
+TOASTER, GPE, 1
+under 500, DATE, 1
+THE White House, ORG, 1
+Plans, NORP, 1
+Searches, ORG, 1
+Dublin SEARCHES, ORG, 1
+2pm…, TIME, 1
+Ireland Over 1,500, GPE, 1
+HPRA, ORG, 1
+less than, CARDINAL, 1
+about 500 to 600, CARDINAL, 1
+fourth-quarter, DATE, 1
+Sonia O’Sullivan:, PERSON, 1
+between 16 and 69, DATE, 1
+Covid vaccine Residents of Republic, PERSON, 1
+18,157, CARDINAL, 1
+755, CARDINAL, 1
+B*WITCHED, ORG, 1
+Koala, GPE, 1
+under 37 seconds - can, TIME, 1
+37 seconds, TIME, 1
+NI’s Department of Health, ORG, 1
+Ronan McCarthy’s, ORG, 1
+Some 81, CARDINAL, 1
+Notes, PRODUCT, 1
+60 million, CARDINAL, 1
+up to 10 days, DATE, 1
+Covid - Independent.ie Ireland, PERSON, 1
+More than 398,200, CARDINAL, 1
+Anthony Fauci - Ireland, PERSON, 1
+eight weeks, DATE, 1
+Over 80,000, CARDINAL, 1
+Irish Mirror Online Level, ORG, 1
+Macron, ORG, 1
+€, CARDINAL, 1
+The US Senate, ORG, 1
+1.59trn, MONEY, 1
+around three dozen, CARDINAL, 1
+Barney Gumble, PERSON, 1
+Cuthbert Tura Arutura, PERSON, 1
+Ballygowan, GPE, 1
+9.9%, PERCENT, 1
+Sonia O’Sullivan: Attending the Zatopek, PERSON, 1
+Annual, DATE, 1
+just 1,000, CARDINAL, 1
+ARLENE Foster, ORG, 1
+NI&, ORG, 1
+SECOND, ORDINAL, 1
+Helen Flanagan's, PERSON, 1
+Rixo, ORG, 1
+Derry-born, PERSON, 1
+Orlagh McCloskey, PERSON, 1
+Kate Moss, PERSON, 1
+Bianca Jagger, PERSON, 1
+Ballygowan, ORG, 1
+the three months, DATE, 1
+Ireland Coveney, PERSON, 1
+Jerusalema Garda, PERSON, 1
+Deutsche Bank, ORG, 1
+29%, PERCENT, 1
+State Six, EVENT, 1
+Auckland, ORG, 1
+seven-day, DATE, 1
+Tuesday night, TIME, 1
+Friday March 5th, DATE, 1
+last weeks, DATE, 1
+- Independent.ie Britain, GPE, 1
+344, CARDINAL, 1
+Irish Mirror Online Towie, ORG, 1
+Serena Williams, PERSON, 1
+Williams, PERSON, 1
+three year-old, DATE, 1
+Olympia, PERSON, 1
+Bernard Tomic’s, PERSON, 1
+Barbara, PERSON, 1
+Gwen Taylor, PERSON, 1
+EastEnders, ORG, 1
+Stuart, ORG, 1
+Violet, GPE, 1
+Heartbeat, GPE, 1
+Helix, NORP, 1
+a World Health Organization, ORG, 1
+at least a week, DATE, 1
+Block of Mountjoy Prison, ORG, 1
+Mountjoy Prison, ORG, 1
+Botswana, PERSON, 1
+A WOMAN, ORG, 1
+UCC’s 98.3FM, ORG, 1
+€2.8m, MONEY, 1
+between 145, CARDINAL, 1
+Golf Ireland, GPE, 1
+up to €25,000, MONEY, 1
+Examinerships, ORG, 1
+Anna Haugh, PERSON, 1
+Myrtle, GPE, 1
+A few healthy years, DATE, 1
+the long hours, TIME, 1
+Co Monaghan, PERSON, 1
+the last three weeks, DATE, 1
+Samaritans Volunteers, ORG, 1
+almost 73,000 hours, TIME, 1
+Covid crisis, PERSON, 1
+Irish Mirror Online Ireland, ORG, 1
+Beacon Hospital Inoculation, ORG, 1
+Caroline Foran, PERSON, 1
+Naked: Ten Truths to Change Your Life, WORK_OF_ART, 1
+Foran, PERSON, 1
+months-long, DATE, 1
+May - Irish Mirror Online, ORG, 1
+76, DATE, 1
+PhD, WORK_OF_ART, 1
+the University of Social Media, ORG, 1
+82, DATE, 1
+late night, TIME, 1
+Leaders, PERSON, 1
+Trump Germany, ORG, 1
+Jens Spahn, PERSON, 1
+World View - Corruption, EVENT, 1
+72%, PERCENT, 1
+Contingency, PERSON, 1
+post-Covid Central Bank, ORG, 1
+BRESSIE, ORG, 1
+Westland Row, PERSON, 1
+February 2017, DATE, 1
+Croke Park, LOC, 1
+141, CARDINAL, 1
+2025, DATE, 1
+the Irish Tourism Industry Confederation (ITIC, ORG, 1
+95-year-old, DATE, 1
+Knocknagree, PERSON, 1
+2,292, CARDINAL, 1
+the beginning of the year, DATE, 1
+SUSANNA Reid, PERSON, 1
+three days later, DATE, 1
+Almost 225,000, CARDINAL, 1
+Millbury Nursing Home, ORG, 1
+Jerusalema, PERSON, 1
+Jeremy Clarkson, PERSON, 1
+The Grand Tour, ORG, 1
+Les Bleus’, FAC, 1
+Hugh Linehan, PERSON, 1
+Stylist, NORP, 1
+Numbers, ORG, 1
+CORONATION, NORP, 1
+Andy, PERSON, 1
+Kirk Sutherland, PERSON, 1
+Surge Covid, PERSON, 1
+SURGE, PERSON, 1
+days later', DATE, 1
+HEARTBROKEN, ORG, 1
+just days later, DATE, 1
+Rob Hurley, PERSON, 1
+ten days, DATE, 1
+Eric Pollard's, PERSON, 1
+Eric Pollard’s, PERSON, 1
+Christopher Chittell, PERSON, 1
+Intensive Care, ORG, 1
+Orla Mollo, PERSON, 1
+the last Department of Health, ORG, 1
+Tetra, PRODUCT, 1
+SOME 1,500, CARDINAL, 1
+Draconian, ORG, 1
+Yvonne Murray, PERSON, 1
+1,318, CARDINAL, 1
+over 200,000, CARDINAL, 1
+CROWDS, ORG, 1
+almost two, CARDINAL, 1
+Wexford, PERSON, 1
+the Liam MacCarthy Cup, ORG, 1
+Cohort 4, PRODUCT, 1
+Punxsutawney Phil, PERSON, 1
+10-minute, TIME, 1
+Infections, ORG, 1
+TSB, PERSON, 1
+€166 million, MONEY, 1
+The 75%, PERCENT, 1
+€155 million, MONEY, 1
+Highland, GPE, 1
+Porter, PERSON, 1
+Malin Head, PERSON, 1
+the Inishowen Peninsula, LOC, 1
+Pedigree Highland, LOC, 1
+Push, PERSON, 1
+Summer tourist season, DATE, 1
+Covid MAY, PERSON, 1
+Peter Ben Em, PERSON, 1
+Just 6%, PERCENT, 1
+the Social Activity Measure, ORG, 1
+275, CARDINAL, 1
+a quarter, DATE, 1
+OnlyFans, NORP, 1
+just one year, DATE, 1
+Gracey Kay, PERSON, 1
+18k, DATE, 1
+one month, DATE, 1
+The World Health Organisation , ORG, 1
+Christmas opening hours, TIME, 1
+the festive season, DATE, 1
+Down, PERSON, 1
+mid-week, DATE, 1
+Tralee, ORG, 1
+Hospital, ORG, 1
+some 176,839, CARDINAL, 1
+2,708, CARDINAL, 1
+23,364, CARDINAL, 1
+Shortall Co, PERSON, 1
+another few months, DATE, 1
+Luxembourg IRELAND, GPE, 1
+Stephen Kenny’s, PERSON, 1
+Sil Fox, PERSON, 1
+Inter Milan, ORG, 1
+next four months, DATE, 1
+CMO Ronan Glynn, PERSON, 1
+four more months, DATE, 1
+a Department of Health, ORG, 1
+March to September last year, DATE, 1
+two-year, DATE, 1
+between season five and season six, DATE, 1
+Parvus, GPE, 1
+Ryanair - Independent.ie Hedge, ORG, 1
+Edoardo Mercadante, PERSON, 1
+Donal Skehan’s, ORG, 1
+a rocky three years, DATE, 1
+More than 120, CARDINAL, 1
+200, MONEY, 1
+̶, ORG, 1
+Daniel O'Donnell, PERSON, 1
+Pat Ward, PERSON, 1
+Arranmore Island, LOC, 1
+Labour, ORG, 1
+Duncan Smith, PERSON, 1
+HSE Board, ORG, 1
+Columnist, NORP, 1
+Fergus Finlay, ORG, 1
+at least the middle of June, DATE, 1
+the next five years, DATE, 1
+Garda Joe Waldron, PERSON, 1
+a busy day, DATE, 1
+Electoral Commission, ORG, 1
+Darragh, PERSON, 1
+Woodie’s, ORG, 1
+Grafton Group, ORG, 1
+three-quarters, CARDINAL, 1
+holiday weekend, DATE, 1
+Irish Mirror Online Restrictions, ORG, 1
+a fifth consecutive day, DATE, 1
+15 March Progress, DATE, 1
+Paris France's, ORG, 1
+Knowledge Quiz Questions, PERSON, 1
+Philip Ryan, PERSON, 1
+Merrion Square, FAC, 1
+Around 1,800, CARDINAL, 1
+the National Public Health Emerg, ORG, 1
+up to three weeks, DATE, 1
+€10 million, MONEY, 1
+Mini Eggs, ORG, 1
+NOW, ORG, 1
+as early as November 22, DATE, 1
+early December for Christmas, DATE, 1
+72 hours, TIME, 1
+­Ireland, GPE, 1
+McCarthy, PERSON, 1
+Ireland Private, GPE, 1
+'hundreds of thousands, CARDINAL, 1
+Meath East TD, LOC, 1
+Rises, PRODUCT, 1
+Robert Holsman, PERSON, 1
+CORONATION Street’s Nina Lucas, ORG, 1
+About 1,500, CARDINAL, 1
+over past two weeks Travel, DATE, 1
+Varadkar Hotels, PERSON, 1
+Aerosols, ORG, 1
+The Seven Oaks Hotel, ORG, 1
+Dawn Nolan, PERSON, 1
+several months ago, DATE, 1
+Belle, PERSON, 1
+Barker’s, ORG, 1
+483, CARDINAL, 1
+TOTAL 11, PRODUCT, 1
+ZERO, GPE, 1
+Tullamore, GPE, 1
+days - two months, DATE, 1
+the Irish Examiner, ORG, 1
+the University of Limerick (UL, ORG, 1
+week - holiday, DATE, 1
+’ Ask the Expert: ‘, WORK_OF_ART, 1
+Dublin D, ORG, 1
+Gordon Ramsay, LOC, 1
+GORDON Ramsay, FAC, 1
+Covid GOOD Morning, PERSON, 1
+Covid Tanzania's, PERSON, 1
+Tundu Lissu, PERSON, 1
+Michael Jackson, PERSON, 1
+€6.35 million, MONEY, 1
+Ballinacurra House's, ORG, 1
+Des, PERSON, 1
+Lisa McGahan, PERSON, 1
+25-acre, QUANTITY, 1
+Kevin Owens, PERSON, 1
+Sneaker Cleaner, PERSON, 1
+4,824, CARDINAL, 1
+a million years ago, DATE, 1
+1485.7, CARDINAL, 1
+Licensed Vintners Association, ORG, 1
+VW’s, ORG, 1
+BMW’s, ORG, 1
+this past week, DATE, 1
+Lockdown 5km, PERSON, 1
+100 percent, PERCENT, 1
+FIFA, ORG, 1
+Fernandes and Silva, ORG, 1
+Azerbaijan, GPE, 1
+Bernardo Silva, PERSON, 1
+Martha Pope ahead, PERSON, 1
+1997, DATE, 1
+NI Brexit, ORG, 1
+Downing Street, FAC, 1
+Two decades, DATE, 1
+Paul Hardy, PERSON, 1
+ServiceNow, ORG, 1
+Ash, PERSON, 1
+Ernie, PERSON, 1
+Ernie, ORG, 1
+last May., DATE, 1
+473,413, CARDINAL, 1
+Peter Foster, PERSON, 1
+the Financial Times, ORG, 1
+TD Peadar Tóibín, ORG, 1
+231,484, CARDINAL, 1
+Irela, GPE, 1
+summer 2021, DATE, 1
+the end of this month, DATE, 1
+a possible month, DATE, 1
+Kerstin Mey, PERSON, 1
+Twitter this afternoon, LAW, 1
+Forgotten, PERSON, 1
+the beginning of the month, DATE, 1
+Dakota, ORG, 1
+nearly a full year later, DATE, 1
+Dakota Johnson's, PERSON, 1
+at least another six weeks, DATE, 1
+PwC, ORG, 1
+McGuinness Ireland's, GPE, 1
+an additional 1,013, CARDINAL, 1
+Wheatfield Prison Outbreak, FAC, 1
+the first week of March, DATE, 1
+Brazilian Covid, PERSON, 1
+Niall Muldoon, PERSON, 1
+Roughly 40,000, CARDINAL, 1
+Joint EU, PERSON, 1
+Some 1,334, CARDINAL, 1
+203, CARDINAL, 1
+Tonight, TIME, 1
+50 years, DATE, 1
+mid-2022, DATE, 1
+more than 20 million, CARDINAL, 1
+the &#8216;category, ORG, 1
+1,750, MONEY, 1
+last Saturday’s, DATE, 1
+Irishtown Garda Station, PERSON, 1
+Marc MacSharry's, PERSON, 1
+KKK, GPE, 1
+Covids, ORG, 1
+the Common Travel Area, ORG, 1
+Thirty, CARDINAL, 1
+the Rathkeale Rovers, ORG, 1
+Hairdressers, WORK_OF_ART, 1
+Latvia, GPE, 1
+Amárach Research, ORG, 1
+River Shannon, FAC, 1
+the River Shannon, LOC, 1
+Ger Purcell, PERSON, 1
+Notting Hill, FAC, 1
+Ms Everard, PERSON, 1
+Clapham, GPE, 1
+about 9pm on, TIME, 1
+The Met Police, ORG, 1
+40 years, DATE, 1
+Aoife McLysaght, PERSON, 1
+Holly Cairns, PERSON, 1
+Social Democrat, NORP, 1
+Gabrielle Colleran, PERSON, 1
+the Irish Hospital Consultants Association, ORG, 1
+about this, DATE, 1
+Patrick Freyne, PERSON, 1
+the Women’s Podcast, ORG, 1
+Leinster’s, ORG, 1
+Northampton, PERSON, 1
+Covid outbreak Saints, ORG, 1
+Premiership, PERSON, 1
+Leicester Tigers, ORG, 1
+’ summer, DATE, 1
+Clarence Hotel, ORG, 1
+Ryan​​​​​​​​​​​​​​ - Independent.ie Stricter, ORG, 1
+CJ Stander' - Independent.ie, ORG, 1
+Sakura, PERSON, 1
+Huanan, GPE, 1
+Aoife, ORG, 1
+the end of November, DATE, 1
+St Moritz, PERSON, 1
+90 and 86, DATE, 1
+last May' - Irish Mirror Online, DATE, 1
+Slovenia, GPE, 1
+’ A WORLD Health Organisation, WORK_OF_ART, 1
+Dominic Dwyer, PERSON, 1
+hundreds of millions, CARDINAL, 1
+the Commercial Court, ORG, 1
+Over 230,000, CARDINAL, 1
+over 230,000, CARDINAL, 1
+Friday, February 5th, DATE, 1
+151,212, CARDINAL, 1
+79,554, CARDINAL, 1
+Rosalinda Randall, PERSON, 1
+An Garda Síochána, PERSON, 1
+Piedmont, GPE, 1
+393,600, CARDINAL, 1
+a man hours, TIME, 1
+the Republic of Ireland’s, GPE, 1
+Cuba, GPE, 1
+67,599, CARDINAL, 1
+THIS Morning’s Holly Willoughby, WORK_OF_ART, 1
+Hugh Montgomery, PERSON, 1
+the age of 18, DATE, 1
+Chris van Tulleken, PERSON, 1
+Luke Evans, PERSON, 1
+LUKE Evans, PERSON, 1
+Staged, ORG, 1
+STAGED, ORG, 1
+51-year-old, DATE, 1
+The worst days, DATE, 1
+Mike Pompeo, PERSON, 1
+Covid-like, PERSON, 1
+Last One At, ORG, 1
+The Party by Bethany Clift and Open Water, ORG, 1
+Nelson, PERSON, 1
+Dale McLaughlan, PERSON, 1
+27-mile, QUANTITY, 1
+Covid breaches Mass, PERSON, 1
+Philip Griffiths, PERSON, 1
+250, CARDINAL, 1
+Arching, PERSON, 1
+460-miles, QUANTITY, 1
+43, DATE, 1
+Lindsay Wallace, PERSON, 1
+GRACE, ORG, 1
+Peter James’, PERSON, 1
+last Monday's, DATE, 1
+More than 130, CARDINAL, 1
+Success, ORG, 1
+the Covid Oscars, FAC, 1
+Golden Globes, PERSON, 1
+Screen Actors Guild, ORG, 1
+Oscars, FAC, 1
+Taoiseach’s, ORG, 1
+Viruskiller Clean Air Technology Viruskiller, LAW, 1
+Barnardos CHILDREN, PERSON, 1
+Barnardos, PERSON, 1
+Suzanne Connolly, PERSON, 1
+the Irish Cancer Society, ORG, 1
+€2m, MONEY, 1
+Simon Barlow’s, PERSON, 1
+Coronation, NORP, 1
+PUP - Independent.ie CLOSE to, PRODUCT, 1
+Barton-Hanson, ORG, 1
+'months, DATE, 1
+the Commission of Investigation, ORG, 1
+Baby Homes, PERSON, 1
+Tony Holohan’s, PERSON, 1
+Sunday, March 21, DATE, 1
+Cillian De Gascun - Independent.ie, PERSON, 1
+FED, ORG, 1
+Etta Doonan, PERSON, 1
+Owen, PERSON, 1
+Swanlinbar, GPE, 1
+Co Cavan, PERSON, 1
+1yr, DATE, 1
+10, DATE, 1
+Waterford GP, ORG, 1
+Ireland Over 320,000, GPE, 1
+the North&#8217;s Department of Health, ORG, 1
+Liz Ca, PERSON, 1
+AMATEUR, ORG, 1
+The British Horseracing Authority, ORG, 1
+over €40,000, MONEY, 1
+TheJournal.ie Covid Placentitis, PERSON, 1
+Constitution, LAW, 1
+Mark Cassidy, PERSON, 1
+Paul Greengrass, PERSON, 1
+Aon, PERSON, 1
+Peter Brady, PERSON, 1
+Aon’s, ORG, 1
+number one, CARDINAL, 1
+Secondly, ORDINAL, 1
+Virologist Dr Cillian de Gascun, PERSON, 1
+Co. Offaly, LOC, 1
+the past 14 days, DATE, 1
+BP, ORG, 1
+Shell, ORG, 1
+Next, ORG, 1
+Comreg, PERSON, 1
+the next 12 weeks, DATE, 1
+Steve Cutler, PERSON, 1
+Katie McCabe, PERSON, 1
+Wildean, NORP, 1
+the last four years, DATE, 1
+Corrie’s, GPE, 1
+Bandon, GPE, 1
+West Cork, GPE, 1
+more than 150, CARDINAL, 1
+Rotterdam, GPE, 1
+ANP, ORG, 1
+Albania, GPE, 1
+AFA, ORG, 1
+Boris Johnson - Irish, PERSON, 1
+Marseille’s Stade Vélodrome EPRC, ORG, 1
+the May 21 and 22, DATE, 1
+Cork GAA Games Development Administrators, ORG, 1
+183, CARDINAL, 1
+Neil, PERSON, 1
+Mary Favier, PERSON, 1
+Heidi Klum, PERSON, 1
+HEIDI Klum, PERSON, 1
+Tellybox, PERSON, 1
+Jen Hatton, PERSON, 1
+Emma Doran, PERSON, 1
+five to 11, DATE, 1
+PFIZER, ORG, 1
+591, CARDINAL, 1
+the State Coronavirus, ORG, 1
+Celtic Football Club, ORG, 1
+£5.9m, MONEY, 1
+the first half, DATE, 1
+financial year, DATE, 1
+£24.2m, MONEY, 1
+a year earlier, DATE, 1
+60,916, CARDINAL, 1
+the United Kingdom, GPE, 1
+9am this morning, TIME, 1
+2,023, CARDINAL, 1
+Brian Keegan, PERSON, 1
+Michael Le Vell's, PERSON, 1
+Foster, PERSON, 1
+Dublin District Court, ORG, 1
+about 1,600, CARDINAL, 1
+Slow, ORG, 1
+Hannah Berner, PERSON, 1
+eight-months, DATE, 1
+St Patrick’s Day Biden-Martin, PERSON, 1
+the Good Friday Agreement’, DATE, 1
+Alfie, PERSON, 1
+Tom Pitfield, PERSON, 1
+HSE Centres, ORG, 1
+Terry, PERSON, 1
+'The Right Thing', WORK_OF_ART, 1
+78-year-old, DATE, 1
+Michael Delaney, PERSON, 1
+seven weeks last year, DATE, 1
+under 70, DATE, 1
+20.3%, PERCENT, 1
+16 to 69, DATE, 1
+21 February, DATE, 1
+Ciara O'Connor, PERSON, 1
+Facebook - Independent.ie, FAC, 1
+the Olympic Games, EVENT, 1
+Manchester city, GPE, 1
+Deansgate, ORG, 1
+Friday 12 February, DATE, 1
+20s, DATE, 1
+FPN, ORG, 1
+GMP’s, ORG, 1
+Operation Ocean, LOC, 1
+14 February 2021).A, DATE, 1
+185, CARDINAL, 1
+several £800 fines, MONEY, 1
+18th, ORDINAL, 1
+at least 30, CARDINAL, 1
+Newton Heath, ORG, 1
+More than 70, CARDINAL, 1
+Tipsy Holly Willoughby, PERSON, 1
+This Morning, WORK_OF_ART, 1
+Schofield, GPE, 1
+Cheeky Holly, PERSON, 1
+midday, TIME, 1
+only 4,000, CARDINAL, 1
+Theresa May, PERSON, 1
+19,228, CARDINAL, 1
+October 2018, DATE, 1
+295, MONEY, 1
+More than 550, CARDINAL, 1
+more than 16,500, CARDINAL, 1
+more than €2.2m, MONEY, 1
+1,110, CARDINAL, 1
+12 January 2021, DATE, 1
+Australia Italy, ORG, 1
+between 700 and 800, CARDINAL, 1
+between 6,500 and 7,000, CARDINAL, 1
+&#8220;President Higgins, ORG, 1
+GP.&#8221, PERSON, 1
+DOCTORS, ORG, 1
+STI, ORG, 1
+Randox Confidante, PERSON, 1
+143, MONEY, 1
+Kantar, PERSON, 1
+the start of this year, DATE, 1
+Kildare to Tubthumping, ORG, 1
+Levels, ORG, 1
+Glenveagh Dublin, ORG, 1
+ALINA, ORG, 1
+Doonbeg, GPE, 1
+Bewley’s, ORG, 1
+Peter Flood, PERSON, 1
+mid-season, DATE, 1
+50808, DATE, 1
+Wuhan World, GPE, 1
+Oliver Schultz, PERSON, 1
+Latrobte, GPE, 1
+up to a year, DATE, 1
+More than 9,000, CARDINAL, 1
+more than 400,000, CARDINAL, 1
+Rúaidhrí O'Connor, PERSON, 1
+Lions, PERSON, 1
+Central Statistics Office, ORG, 1
+November 2020, DATE, 1
+almost two-fifths, CARDINAL, 1
+this Valentine&#8217;s Day, DATE, 1
+Civilian, ORG, 1
+Jean-Yves Le, PERSON, 1
+Live Register, ORG, 1
+Granny, PERSON, 1
+Copper Face Jacks', WORK_OF_ART, 1
+27bn, ORDINAL, 1
+the hour, TIME, 1
+M11, ORG, 1
+Gorey, Co. Wexford, ORG, 1
+Salford CORONATION Street, ORG, 1
+Charley Jordan, PERSON, 1
+the Fiscal Advisory Council, ORG, 1
+Cliona Murphy, PERSON, 1
+the Institute of Obstetricians, ORG, 1
+31-year-old, DATE, 1
+more than 14,400, CARDINAL, 1
+Extra, ORG, 1
+4.6bn, MONEY, 1
+9,000, MONEY, 1
+Elizabeth Hurley, PERSON, 1
+Slaney Foods, ORG, 1
+Alison Tait, ORG, 1
+Twelve, CARDINAL, 1
+Sadiq Khan, PERSON, 1
+120,000, MONEY, 1
+Mark Wright’s, PERSON, 1
+AstraZeneca Total, ORG, 1
+2,355, CARDINAL, 1
+Covid-19, PERSON, 1
+Roadmap, PERSON, 1
+Ted, PERSON, 1
+Gail Platt, PERSON, 1
+Over 2,000, CARDINAL, 1
+STUDENT, ORG, 1
+couple die days, DATE, 1
+Bradley, PERSON, 1
+Stephen Bradley, PERSON, 1
+Leo Varadkar’s, PERSON, 1
+Monday night, TIME, 1
+the ‘bulls**t’ third, EVENT, 1
+DAN Osborne, PERSON, 1
+Land Development Agency, ORG, 1
+John Moran, PERSON, 1
+Ryan Murphy, PERSON, 1
+Ryan Murphy’s, PERSON, 1
+Qatar, GPE, 1
+March 30th, DATE, 1
+14-days, DATE, 1
+Poitín, GPE, 1
+Latest KBC Bank, ORG, 1
+Cahill, ORG, 1
+South, LOC, 1
+Liam Herrick, PERSON, 1
+at least end of, DATE, 1
+Fujifilm, ORG, 1
+Hold Still, WORK_OF_ART, 1
+A Portrait Of Our Nation, WORK_OF_ART, 1
+65pc, ORDINAL, 1
+Olga, PERSON, 1
+all day, DATE, 1
+Abroad, GPE, 1
+last December, DATE, 1
+five years, DATE, 1
+late at night, TIME, 1
+the past three weeks, DATE, 1
+Tiong Kit Tan, PERSON, 1
+Pramila Rijal, PERSON, 1
+The Pirbright Institute, ORG, 1
+under 45, DATE, 1
+Jack P Shepherd, ORG, 1
+Jack P. Shepherd, PERSON, 1
+New Dublin-Belfast Economic Council, ORG, 1
+Sinkhole, ORG, 1
+Naples, GPE, 1
+the Hospital of the Sea, FAC, 1
+48, MONEY, 1
+Covid charge Pubs, PERSON, 1
+More than 1,400, CARDINAL, 1
+MORE than 1,400, CARDINAL, 1
+the Health Protection Surveillance Centre , ORG, 1
+1,403, CARDINAL, 1
+Stephen Donnelly's, PERSON, 1
+Rehab Logistics, ORG, 1
+a turbulent year, DATE, 1
+a very strange, DATE, 1
+the months, DATE, 1
+United Kingdom, GPE, 1
+12-night, TIME, 1
+Mairead Ronan’s, ORG, 1
+€60 million, MONEY, 1
+over a month, DATE, 1
+Copenhagen, ORG, 1
+Oprah Winfrey’s, PERSON, 1
+all this week, DATE, 1
+Denis Staunton, PERSON, 1
+John Gibney, PERSON, 1
+the Royal Irish Academy’s Documents on Irish Foreign Policy, ORG, 1
+Monarchy, ORG, 1
+Tuesday, March 16th, DATE, 1
+up to eight, CARDINAL, 1
+University Maternity Hospital Limerick, ORG, 1
+Ceremony, PERSON, 1
+Kate Garraway’s, PERSON, 1
+Covid Europe's, PERSON, 1
+Alaska, GPE, 1
+Team Tea Tanya Sweeney, ORG, 1
+56%, PERCENT, 1
+Grid, GPE, 1
+Spark Amp, PERSON, 1
+40-watt, QUANTITY, 1
+Molly-Mae Hague, ORG, 1
+Mae Hague, GPE, 1
+Ireland - Independent.ie MOTORISTS, PERSON, 1
+the next 24 hours, TIME, 1
+Carla Connor's, PERSON, 1
+Simon Barlow CORONATION Street, PERSON, 1
+Alison King, PERSON, 1
+Lockdown, PRODUCT, 1
+Price, ORG, 1
+early last year, DATE, 1
+Social Protection Heather Humphreys, ORG, 1
+PU, ORG, 1
+Nigel Pim’s, PERSON, 1
+Jeni, PERSON, 1
+McConkey Outbreaks, PERSON, 1
+Johnson Boris Johnson, PERSON, 1
+Donnelly, PERSON, 1
+HSE and Department of Health, ORG, 1
+Renua, PERSON, 1
+last February, DATE, 1
+Orient Express, ORG, 1
+May People under 65, DATE, 1
+All-Ireland, GPE, 1
+the Department of Taoiseach Liz Canavan, ORG, 1
+Loughan House, FAC, 1
+Co Cavan, FAC, 1
+The Economic and Social Research Institute, ORG, 1
+70-year, DATE, 1
+Friday night, TIME, 1
+Less than a year, DATE, 1
+31%, PERCENT, 1
+last 7 days, DATE, 1
+45,770, CARDINAL, 1
+A Cork GP, WORK_OF_ART, 1
+American Archdiocese, ORG, 1
+Archdiocese, NORP, 1
+New Orleans, GPE, 1
+Harvey's Point, ORG, 1
+Lough Eske, PERSON, 1
+â€˜gamechangerâ€, GPE, 1
+22.5%, PERCENT, 1
+almost 66%, PERCENT, 1
+Irish Ferries, ORG, 1
+BoI, PRODUCT, 1
+next six to eight weeks, DATE, 1
+several weeks, DATE, 1
+five, DATE, 1
+Questions, PERSON, 1
+the Department of Health , ORG, 1
+World View - Who, EVENT, 1
+A few months ago, DATE, 1
+Novichok, NORP, 1
+Dan McLaughlin, PERSON, 1
+Four Courts, LOC, 1
+just two weeks, DATE, 1
+Health Protection Surveillance Centre, ORG, 1
+More than 1,500, CARDINAL, 1
+8220;we&#8217;re, MONEY, 1
+the middle of the third, DATE, 1
+Kazuo Ishiguro, PERSON, 1
+’ Nobel, WORK_OF_ART, 1
+48-week, DATE, 1
+John Moylan, PERSON, 1
+10pc, DATE, 1
+11.7pc fall, DATE, 1
+Sinn Féin’s Stanley, ORG, 1
+Garda Detective Colm Horkan, ORG, 1
+âDancingâ, NORP, 1
+Universe, PERSON, 1
+69-year-olds, DATE, 1
+Dub Smith, PERSON, 1
+Jack Smith, PERSON, 1
+last winter, DATE, 1
+St., GPE, 1
+Spring 2021, DATE, 1
+Bríde / St. Brigid’s Day, ORG, 1
+St. Brigid’s Feast Day, FAC, 1
+Brigid, GPE, 1
+St. Brigid’s Day, ORG, 1
+the beginning of Spring, DATE, 1
+Hannah, PERSON, 1
+Quaker, ORG, 1
+January 14th, DATE, 1
+Selina Cartmell, PERSON, 1
+Frank McGuinness, PERSON, 1
+Ciara Kelly, PERSON, 1
+Aoibhín Garrihy, PERSON, 1
+Monaghan - Farming Independent, ORG, 1
+Gary O’Hanlon, PERSON, 1
+Covid WHETHER, PERSON, 1
+Facebook A COUPLE, WORK_OF_ART, 1
+Muintir, ORG, 1
+Tíre, GPE, 1
+FILE, ORG, 1
+the Director of Public Prosecutions, ORG, 1
+Alan Carr, PERSON, 1
+ALAN Carr, PERSON, 1
+Apprentice, ORG, 1
+Lottie Lion, PERSON, 1
+THE Apprentice’s Lottie Lion, ORG, 1
+Galway GARDAI, ORG, 1
+the Ballygar Health, ORG, 1
+Stephen Donnelly - Independent.ie, PERSON, 1
+more than 70,000, CARDINAL, 1
+the next three weeks, DATE, 1
+ICU - WexfordPeople.ie, ORG, 1
+St John's Hospital in Enniscorthy, ORG, 1
+John Bannon, PERSON, 1
+62, DATE, 1
+October 7 last year, DATE, 1
+John, PERSON, 1
+South East, LOC, 1
+Leaving Cert, ORG, 1
+Ciaran Hancock - Construction, PERSON, 1
+HidraMed Solutions, ORG, 1
+the Irish Times Innovation, ORG, 1
+Hidradenitis Suppurativa, PERSON, 1
+HidraMed, ORG, 1
+Suzanne Maloney, PERSON, 1
+Eoin Burke Kennedy, PERSON, 1
+James Benson, PERSON, 1
+the Irish Home Builders Association, ORG, 1
+IHBA, ORG, 1
+8,000, CARDINAL, 1
+SOME 99 per cent, MONEY, 1
+Great Blasket Island - Independent.ie, LOC, 1
+Great Blasket Island, LOC, 1
+the age of 86, DATE, 1
+nearly year-long, DATE, 1
+Joseph Flavill, PERSON, 1
+Covid - Independent.ie Thousands, ORG, 1
+Tanaiste Leo, PERSON, 1
+68,000, CARDINAL, 1
+Phuket, GPE, 1
+July 1, DATE, 1
+the Independent Scientific Advocacy Group, ORG, 1
+ISA, ORG, 1
+’ - Reid, WORK_OF_ART, 1
+5.5%, PERCENT, 1
+the first three months of this year, DATE, 1
+Fawlty Towers, PERSON, 1
+Fawlty Power, PRODUCT, 1
+Basil Martin, PERSON, 1
+Sybil Varadkar, PERSON, 1
+Bill Roache, ORG, 1
+CORRIE, ORG, 1
+Nearly 2.8 million, CARDINAL, 1
+More than 600,000, CARDINAL, 1
+next weekend', DATE, 1
+Covid-cure, PERSON, 1
+Vodafone, ORG, 1
+Kia Motors, ORG, 1
+Marks, ORG, 1
+More than 360, CARDINAL, 1
+RTB, ORG, 1
+a summer, DATE, 1
+first day, DATE, 1
+UNHAPPINESS, ORG, 1
+UNA Healy, LOC, 1
+Health & Safety Authority, ORG, 1
+Covid Impact, PERSON, 1
+up to €250,000, MONEY, 1
+the Revenue Commissioners, ORG, 1
+as thousands, CARDINAL, 1
+May 1st, DATE, 1
+Blanchardstown, PERSON, 1
+IP, ORG, 1
+Marie Dixon, PERSON, 1
+Marie, PERSON, 1
+Yew Grove, PERSON, 1
+€50m-, MONEY, 1
+Kimberly Hart-Simpson, ORG, 1
+KIMBERLY Hart-Simpson, WORK_OF_ART, 1
+Nic, PERSON, 1
+Switzerland, GPE, 1
+the Swiss Federal Police, ORG, 1
+Living with Covid Plan, WORK_OF_ART, 1
+the Johns Hopkins University, ORG, 1
+SIX, CARDINAL, 1
+Cork city, GPE, 1
+UK Estimated, ORG, 1
+1.3, CARDINAL, 1
+between third quarter of 2019, DATE, 1
+More than 240, CARDINAL, 1
+Hollyoak, ORG, 1
+Panama, GPE, 1
+Cape Verde, GPE, 1
+TWO YEARS, DATE, 1
+DIPLOMATS, GPE, 1
+the US Embassy, ORG, 1
+Milford Garda, PERSON, 1
+North’s, ORG, 1
+1,895, CARDINAL, 1
+JP McManus, PERSON, 1
+Steve PETER Barlow, PERSON, 1
+12 hour, TIME, 1
+328, CARDINAL, 1
+12-hour, TIME, 1
+flames days, DATE, 1
+Myleene Klass, PERSON, 1
+Seven-year-old, DATE, 1
+Azzam Al Abdullah, PERSON, 1
+27-year-, QUANTITY, 1
+as over 15, CARDINAL, 1
+9,765, CARDINAL, 1
+Fianna, PERSON, 1
+Ireland South, ORG, 1
+Norwegian Air, ORG, 1
+Airline, PRODUCT, 1
+4,666, CARDINAL, 1
+234,541, CARDINAL, 1
+Close to 300, CARDINAL, 1
+Vincent de Paul, PERSON, 1
+Two years, DATE, 1
+less than one third, CARDINAL, 1
+Romania, GPE, 1
+over 500,000, CARDINAL, 1
+Peter Crouch, PERSON, 1
+Mondays, DATE, 1
+Get Buzzin, EVENT, 1
+the second half of this year, DATE, 1
+Season 3, DATE, 1
+Ban, PERSON, 1
+between June 2020 and January 2021, DATE, 1
+Social Protection, ORG, 1
+Maria L, PERSON, 1
+European summer holidays ', DATE, 1
+SUMMER holidays, DATE, 1
+Morgan Stanley, ORG, 1
+Dublin Several, ORG, 1
+1,213, CARDINAL, 1
+More than 34,000, CARDINAL, 1
+more than 1,200, CARDINAL, 1
+4.7%, PERCENT, 1
+Bono’s One Campaign Launches ‘Pandemica’ Series to Raise Awareness, ORG, 1
+Vaccine Access Crisis - Independent.ie Bono’s One Campaign Launches ‘Pandemica’ Series to Raise Awareness, WORK_OF_ART, 1
+Vaccine Access Crisis, WORK_OF_ART, 1
+Last Sunday, DATE, 1
+Northern, LOC, 1
+three decades, DATE, 1
+Scottish Premiership Fans, ORG, 1
+more than €30 million, MONEY, 1
+the Society of St Vincent De Paul, ORG, 1
+Comedian Jarlath Regan, PERSON, 1
+COMEDIAN Jarlath Regan, PERSON, 1
+The Irish Human Rights and Equality Commission, ORG, 1
+Eddie Hobbs - Hunkering, PERSON, 1
+Eddie Hobbs, PERSON, 1
+Mick Clifford, PERSON, 1
+Covid-infected, PERSON, 1
+Hotels, ORG, 1
+Munster GAA, PERSON, 1
+834,732, MONEY, 1
+GlaxoSmithKline, PERSON, 1
+CureVac, ORG, 1
+Revenue, ORG, 1
+€458m, MONEY, 1
+Tuesday, February 23, DATE, 1
+St Patrick’s Bridge, PERSON, 1
+March - Irish Mirror Online, DATE, 1
+Stacey, PERSON, 1
+Lusk, PERSON, 1
+Covid surge - Irish Mirror Online Dr Nolan, PERSON, 1
+8,244, CARDINAL, 1
+Lightseekers by, ORG, 1
+Femi Kayode, PERSON, 1
+Brown Baby, PERSON, 1
+nine months ago, DATE, 1
+almost a year later, DATE, 1
+Alan Bradley, PERSON, 1
+Sue Nicholls, PERSON, 1
+Audrey Roberts, PERSON, 1
+GP’s, ORG, 1
+One-third, CARDINAL, 1
+one-quarter, CARDINAL, 1
+between the ages of, DATE, 1
+Seagulls, PERSON, 1
+Graham Potter, PERSON, 1
+Newcastle, GPE, 1
+Nazis, NORP, 1
+24,000, CARDINAL, 1
+31 March Employment Wage Subsidy Scheme, DATE, 1
+Over 481,000, CARDINAL, 1
+0.35 per cent, MONEY, 1
+€144 million, MONEY, 1
+Porto, PERSON, 1
+Sevilla, ORG, 1
+Estadio Ramon Sanchez-Pizjuan, PERSON, 1
+CHELSEA, ORG, 1
+last-eight, DATE, 1
+Porto, GPE, 1
+Sevilla’s, ORG, 1
+Estadio Sanchez-Pizjuan, PERSON, 1
+Ballymaloe, GPE, 1
+the State Person, ORG, 1
+the days over Christmas, DATE, 1
+Leyen European Commission, ORG, 1
+Mariter Tarugo, PERSON, 1
+St Vincent’s Hospital, ORG, 1
+a week ago, DATE, 1
+Margaret Brady’s, PERSON, 1
+Paul Moynagh, PERSON, 1
+Wednesday - 176, DATE, 1
+Sputnik V Covid vaccine ', ORG, 1
+Filipino, NORP, 1
+Mariter Tarugo, ORG, 1
+Tasia Stephens, PERSON, 1
+Kim Kardashian’s, PERSON, 1
+Sinn Féin’s Michelle, PERSON, 1
+PPS, ORG, 1
+between June and September 2020, DATE, 1
+Food Safety Authority, ORG, 1
+The Food Safety Authority of Ireland, ORG, 1
+138pp, MONEY, 1
+468, CARDINAL, 1
+past six years, DATE, 1
+SOME 468, CARDINAL, 1
+the past six years, DATE, 1
+Tallaght University Hospital, ORG, 1
+12-days, DATE, 1
+early 2021, DATE, 1
+just under €3bn, MONEY, 1
+74%, PERCENT, 1
+year-on-year, DATE, 1
+6.9bn, MONEY, 1
+the middle of next week, DATE, 1
+Inside University Hospital Limerick: 'Seeing, ORG, 1
+Castle Leslie - Independent.ie, PERSON, 1
+Castle Leslie, ORG, 1
+Irish Mirror Online Health, ORG, 1
+Robbie Keane, PERSON, 1
+Rovers, NORP, 1
+E484K, PRODUCT, 1
+25 years, DATE, 1
+LOCKDOWN, ORG, 1
+Ky Hoyle, PERSON, 1
+four-month, DATE, 1
+DISASTER &, ORG, 1
+Marine Le Pen, PERSON, 1
+Marine Le Pen, FAC, 1
+Offload, GPE, 1
+Ireland XV, PERSON, 1
+Rent Supplement, ORG, 1
+March 31, 2021, DATE, 1
+Childline , PERSON, 1
+Tadhg Furlong, PERSON, 1
+almost 12k, DATE, 1
+almost 12,000, CARDINAL, 1
+the High Court, ORG, 1
+Zenit St Petersburg, PERSON, 1
+ZENIT St Petersburg, PERSON, 1
+Akhmat Grozny, PERSON, 1
+Supp, PERSON, 1
+Sophie, ORG, 1
+this spring, DATE, 1
+just 300,000, CARDINAL, 1
+only around 300,000, CARDINAL, 1
+Days later, DATE, 1
+Five-day, DATE, 1
+Kingston Mills - Irish Mirror Online Kingston Mills, PERSON, 1
+Villière, GPE, 1
+Les Bleus, FAC, 1
+the Six Nations, EVENT, 1
+February 28th, DATE, 1
+University College Galway, ORG, 1
+Deni, PERSON, 1
+Lisa Mooney, PERSON, 1
+10.3 million, CARDINAL, 1
+18.4 million, CARDINAL, 1
+Up to 5,000, CARDINAL, 1
+each month, DATE, 1
+Co Wexford, GPE, 1
+Charlie McConalogue’s, ORG, 1
+Playboy, WORK_OF_ART, 1
+Liman, PERSON, 1
+Gettysburg, GPE, 1
+21st, ORDINAL, 1
+Focus Ireland, GPE, 1
+the Lunar New Year - Independent.ie Chinese New Year, EVENT, 1
+Lunar New Year, EVENT, 1
+February 12th this year, DATE, 1
+mid 40s, DATE, 1
+the end of the year - Independent.ie, DATE, 1
+World Health Organisation (WHO, ORG, 1
+’ Sinn Féin, ORG, 1
+KELLY, ORG, 1
+The I Believe I Can Fly, WORK_OF_ART, 1
+Covid You, PERSON, 1
+One year, DATE, 1
+the one year anniversary, DATE, 1
+The Republic, GPE, 1
+almost a year ago, DATE, 1
+Anthony Bourdain, PERSON, 1
+Anthony Bourdain's, PERSON, 1
+Kitchen Confidential, PERSON, 1
+15-day, DATE, 1
+January 15th, DATE, 1
+90pc, ORDINAL, 1
+Louis Copeland - Independent.ie, PERSON, 1
+Louis Copeland's, PERSON, 1
+just 41 years of age, DATE, 1
+Gareth Grainger, PERSON, 1
+Tallaght University Hospital (TUH, ORG, 1
+Cathy Halloran, PERSON, 1
+Down Syndrome, ORG, 1
+94-year-old, DATE, 1
+Ulster, ORG, 1
+Stormont Assembly, ORG, 1
+early next week, DATE, 1
+G7, FAC, 1
+58-year-old, DATE, 1
+HER GEMMA Collins, ORG, 1
+Towie, ORG, 1
+Ireland Reads Day, GPE, 1
+Yasmeen Nazir’s, ORG, 1
+65-year-old, DATE, 1
+iSure, ORG, 1
+day one, DATE, 1
+the Cheltenham Festival, EVENT, 1
+several years, DATE, 1
+Dublin - Independent.ie Hundreds, ORG, 1
+Married At First Sight - now, WORK_OF_ART, 1
+Ally Acklan, PERSON, 1
+Paul Todd, PERSON, 1
+ten-month-old, DATE, 1
+Mid-West The Department of Public Health, LOC, 1
+Nearly one year, DATE, 1
+American Express, ORG, 1
+Kaiser Chiefs' Ricky Wilson, ORG, 1
+Grace, ORG, 1
+KAISER Chiefs, ORG, 1
+Ricky Wilson, PERSON, 1
+Carol Vorderman, PERSON, 1
+CAROL Vorderman, PERSON, 1
+Countdown, ORG, 1
+57pc year-on-year, DATE, 1
+the first month of the year, DATE, 1
+65, MONEY, 1
+Commercial Court, ORG, 1
+Holly Willowy Booby, PERSON, 1
+Hampshire, GPE, 1
+Marks & Spencer, ORG, 1
+the Republic - Independent.ie, GPE, 1
+Connecticut, GPE, 1
+CONNECTICUT, ORG, 1
+Thur, PERSON, 1
+Singleton, PERSON, 1
+19 August last year, DATE, 1
+Co Galway, PERSON, 1
+the Daily Mirror, ORG, 1
+Dr Colm Henry, PERSON, 1
+Deaths, PERSON, 1
+19-year-old, DATE, 1
+Sophia Egan, PERSON, 1
+Tokyo World, ORG, 1
+Reid, PERSON, 1
+MUM, ORG, 1
+Chloé Siler’s, PERSON, 1
+three-month-old, DATE, 1
+Marcelo Pitt, PERSON, 1
+Áine Kenny, PERSON, 1
+July 1 ', DATE, 1
+Paul Treyvaud, PERSON, 1
+Aaron Smyth - Independent.ie, PERSON, 1
+a long-ago, DATE, 1
+Ireland Music Week, ORG, 1
+Aaron Smyth, PERSON, 1
+Justin Bieber, PERSON, 1
+32,000, CARDINAL, 1
+Pfizer Inc, ORG, 1
+the New England Journal of Medicine, ORG, 1
+Hannah Emerson, PERSON, 1
+Medical and Health Sciences, ORG, 1
+Gemma Collins', PERSON, 1
+nine days, DATE, 1
+Taoiseach Martin, PERSON, 1
+Anthony Fauci - Irish Mirror, PERSON, 1
+JOE Wicks, ORG, 1
+Oisin McConville, PERSON, 1
+Childcare, PERSON, 1
+Fitter, PERSON, 1
+Marie Therese, PERSON, 1
+Last December, DATE, 1
+Liam, PERSON, 1
+36 years, DATE, 1
+five more weeks, DATE, 1
+May 8, 2020, DATE, 1
+Love Island’s, ORG, 1
+No Time To Die's, LAW, 1
+JAMES Bond, PERSON, 1
+No Time To Die’s, LAW, 1
+Early last year, DATE, 1
+Roz Purcell, PERSON, 1
+550, CARDINAL, 1
+Michael Martin, PERSON, 1
+past week, DATE, 1
+fewer than 10, CARDINAL, 1
+Margaret Lynch, PERSON, 1
+Gender, ORG, 1
+920, CARDINAL, 1
+Vaccines, ORG, 1
+Covid breach - Irish Mirror Online Exclusive, PERSON, 1
+the Ballymaloe Cookery School, ORG, 1
+almost 10,000, CARDINAL, 1
+nearly 10,000, CARDINAL, 1
+Charlie Weston, PERSON, 1
+the ‘war’, EVENT, 1
+iPads, ORG, 1
+’ Ombudsman for Children Niall Muldoon, WORK_OF_ART, 1
+6 per cent, MONEY, 1
+A few years ago, DATE, 1
+less than two, CARDINAL, 1
+3,000 miles, QUANTITY, 1
+Daniel Craig, PERSON, 1
+Daniel Craig's, PERSON, 1
+The Coombe, ORG, 1
+their special days, DATE, 1
+29 February, 2020, DATE, 1
+Seattle, GPE, 1
+an additional 3.3, CARDINAL, 1
+Laois, GPE, 1
+less than a week, DATE, 1
+97pc, DATE, 1
+Donald J Trump, PERSON, 1
+45th, ORDINAL, 1
+Rod Baker, PERSON, 1
+Roger Preston, PERSON, 1
+the Medical Council, ORG, 1
+Junior Certificate, ORG, 1
+the University of Southampton, ORG, 1
+The Real Health Podcast: Life, ORG, 1
+Neven Maguire - Independent.ie Neven Maguire, PERSON, 1
+205, CARDINAL, 1
+301, CARDINAL, 1
+the last two weeks, DATE, 1
+Club Brugge, FAC, 1
+KVC Westerlo, ORG, 1
+Hostelworld, GPE, 1
+€57.3m, MONEY, 1
+Russian Sputnik, PERSON, 1
+about 2,000, CARDINAL, 1
+the 28th, DATE, 1
+4,363, CARDINAL, 1
+Wednesday the 30th, DATE, 1
+2.6 billion, CARDINAL, 1
+European Parliament, ORG, 1
+CDU, ORG, 1
+Armin Laschet, PERSON, 1
+election year, DATE, 1
+Larry, PERSON, 1
+Amid, NORP, 1
+Larry Donnelly, PERSON, 1
+Beauty, WORK_OF_ART, 1
+Christine McTiernan, PERSON, 1
+PUP - Independent.ie, PRODUCT, 1
+early 40s, DATE, 1
+about 18 months, DATE, 1
+Kerry Men, PERSON, 1
+Kerry Gaeltacht, PERSON, 1
+More than 6,500, CARDINAL, 1
+Siobhán McSweeney, PERSON, 1
+six-year-old, DATE, 1
+Saoirse Ronan’s, GPE, 1
+Spielberg’s, ORG, 1
+a tough year, DATE, 1
+Cian Tracey, PERSON, 1
+The Cabinet Committee, ORG, 1
+between 500 and 600, CARDINAL, 1
+Padraig McLoughlin, PERSON, 1
+two-year-old, DATE, 1
+almost a week, DATE, 1
+the Milton Keynes University Hospital, ORG, 1
+Von der Leyen, ORG, 1
+Almost 300,000, CARDINAL, 1
+Jim McDonald, PERSON, 1
+GEMMA Collins, PERSON, 1
+Chri, PERSON, 1
+Almost 10,000, CARDINAL, 1
+the Crowne Plaza Hotel in Santry, ORG, 1
+Public Health, ORG, 1
+VACCINATION, PERSON, 1
+eighth week, DATE, 1
+Greenhouse, LOC, 1
+Pavee Point, ORG, 1
+Lockdown Protest, PERSON, 1
+State Nphet, ORG, 1
+4am this morning, TIME, 1
+Conor McGregor's, PERSON, 1
+Kavanagh, PERSON, 1
+Hal, PERSON, 1
+Leo Varadkar's, PERSON, 1
+article 16 of the, LAW, 1
+Niamh McEvoy, GPE, 1
+Niamh McEvoy's, ORG, 1
+10/10, CARDINAL, 1
+St Valentine’s Day, PERSON, 1
+Susan Mulligan, PERSON, 1
+621, CARDINAL, 1
+three hours, TIME, 1
+Eugene Co, PERSON, 1
+tumultuous year, DATE, 1
+nearly 250, CARDINAL, 1
+4,164, CARDINAL, 1
+RTE Morning Ireland, PERSON, 1
+Drivetime, ORG, 1
+Global Covid, PERSON, 1
+2.1, CARDINAL, 1
+100 million yester day, MONEY, 1
+Irish Mirror Online Medics, ORG, 1
+Merlin Park University Hospital, ORG, 1
+€12m, MONEY, 1
+Louth GAA, PERSON, 1
+Republic SOME, ORG, 1
+six more months, DATE, 1
+Miriam Stoppard - Irish Mirror Online Virologists, PERSON, 1
+the University of Nottingham, ORG, 1
+SVP People, ORG, 1
+Airline, ORG, 1
+OVER 200, CARDINAL, 1
+Heartbroken Ronaldinho, ORG, 1
+Miguelina Eloi Assis, PERSON, 1
+Santos, PERSON, 1
+Pearse Doherty, ORG, 1
+the age of 92, DATE, 1
+the months ahead, DATE, 1
+Anne Hathaway, PERSON, 1
+’ The Locked Down, WORK_OF_ART, 1
+more than £32 million, MONEY, 1
+Fermanagh, PERSON, 1
+Klopp, ORG, 1
+Klopp, PERSON, 1
+Michelle O’Dowd, PERSON, 1
+Co Sligo, PERSON, 1
+Caprice Bourret, PERSON, 1
+Boris Johnson - Independent.ie, PERSON, 1
+Conservative Party, ORG, 1
+1922, DATE, 1
+Chef’s, ORG, 1
+Camilla Moccia, PERSON, 1
+22, DATE, 1
+about 66%, PERCENT, 1
+Taoiseach Micheal Martin, FAC, 1
+the first couple of years, DATE, 1
+Smart Money, ORG, 1
+Lawmakers, ORG, 1
+Golf, PERSON, 1
+Covid-closures, PERSON, 1
+FSAI, ORG, 1
+Chelmsford Tesco, PERSON, 1
+Mercy, LOC, 1
+Only 30, CARDINAL, 1
+Lockdown 3 · TheJournal.ie Read, PERSON, 1
+our national holiday tomorrow, DATE, 1
+Toyah CORONATION Street, GPE, 1
+nearly 80%, PERCENT, 1
+a month UK COVID, DATE, 1
+nearly 80 per cent, MONEY, 1
+65 per cent, MONEY, 1
+last month’s, DATE, 1
+World View - Will Lula's, EVENT, 1
+Bolsonaro, ORG, 1
+Luiz Inácio Lula da Silva's, PERSON, 1
+Lula, PERSON, 1
+Bernie Waterhouse, PERSON, 1
+the last ten months, DATE, 1
+Liam Harrington, PERSON, 1
+the World Trade Centre Mayo, ORG, 1
+Malahide, GPE, 1
+Benjamin Mendy’s, PERSON, 1
+Grand National at Aintree, EVENT, 1
+the Randox Grand National, ORG, 1
+Mirror Racing's, PERSON, 1
+David Yates, PERSON, 1
+Sorry Meghan, PERSON, 1
+365 days, DATE, 1
+Kevin McGahern, PERSON, 1
+’ Soundtrack of My Life: The Clear History, WORK_OF_ART, 1
+Tallaght Stadium, Irishtown Stadium, WORK_OF_ART, 1
+Blanchardstown Cen, PERSON, 1
+About 340,000, CARDINAL, 1
+Fifteen, CARDINAL, 1
+over €100,000, MONEY, 1
+70-hours, TIME, 1
+Ombudsman for Children, WORK_OF_ART, 1
+Irish Mirror Online A Government, ORG, 1
+NORMA Foley, PERSON, 1
+Monday April, DATE, 1
+RTE’s, ORG, 1
+€11 million, MONEY, 1
+up to €200,000, MONEY, 1
+Margaritis Schinas, PERSON, 1
+Lockdown, PERSON, 1
+Pep Guardiola, PERSON, 1
+Marianne, PERSON, 1
+McGrath The, PERSON, 1
+at least 29 March, DATE, 1
+A couple of weeks ago, DATE, 1
+January 11th Latest, DATE, 1
+Tampa Bay Buccaneers, ORG, 1
+The Tampa Bay Buccaneers, WORK_OF_ART, 1
+Kansas City Chiefs, ORG, 1
+Covid relief bill, PERSON, 1
+St John's Church, ORG, 1
+200-400, CARDINAL, 1
+Nphet Deaths, PERSON, 1
+Nolan, PERSON, 1
+Health Committee, ORG, 1
+Australia Day, DATE, 1
+four weeks', DATE, 1
+the US Food and Drug Administration, ORG, 1
+Covid  - Independent.ie, PERSON, 1
+Direct Provision, ORG, 1
+Only 61, CARDINAL, 1
+the Office of the Ombudsman, ORG, 1
+Breakdown, PERSON, 1
+Covid Variants, PERSON, 1
+Anne Doyle, PERSON, 1
+the Covid Restrictions Support Scheme, ORG, 1
+405,400, CARDINAL, 1
+405,399, CARDINAL, 1
+Hopes, PERSON, 1
+yesterday as days, DATE, 1
+sub-zero, CARDINAL, 1
+Irish Mirror Online School, ORG, 1
+8220;enslave&#8221, MONEY, 1
+Easter Covid, ORG, 1
+Merkel, ORG, 1
+Dublin Fire Brigade, ORG, 1
+just two days, DATE, 1
+three weeks ago, DATE, 1
+Appliance of Science: Why, ORG, 1
+Naomi Lavelle, PERSON, 1
+Passport Office, ORG, 1
+The Passport Office, ORG, 1
+Times, ORG, 1
+3.4%, PERCENT, 1
+Nearly 500, CARDINAL, 1
+HSE Health, ORG, 1
+IWD, ORG, 1
+19-24, DATE, 1
+ICU’ –, ORG, 1
+Mark Mellett, PERSON, 1
+the other week, DATE, 1
+Third Wave, LOC, 1
+more than 12 weeks, DATE, 1
+Ursula von der Leyen, ORG, 1
+Amy Fitzpatrick, PERSON, 1
+Covid battle -, PERSON, 1
+Lucas Torreira's, PERSON, 1
+Arsenal, ORG, 1
+Uruguay ARSENAL, ORG, 1
+Lucas Torreira’s, PERSON, 1
+Viviana Di Pascua, ORG, 1
+Uruguay, GPE, 1
+Autumn, DATE, 1
+McCavana, PERSON, 1
+VHI , PRODUCT, 1
+Mary Poppins, PERSON, 1
+Irish Cancer Society, ORG, 1
+non-EU, GPE, 1
+6,100, CARDINAL, 1
+the Huanan Seafood Market, ORG, 1
+Arts Council, ORG, 1
+Lynk Ireland, GPE, 1
+National Maternity Hospital, ORG, 1
+VETERAN Corrie, ORG, 1
+Trinity College’s, ORG, 1
+last January, DATE, 1
+Clare Reilly, PERSON, 1
+Kevin Cunningham, PERSON, 1
+Alex, ORG, 1
+35, DATE, 1
+Ken Barlow’s, PERSON, 1
+Adam, PERSON, 1
+Fr, WORK_OF_ART, 1
+Ireland TAOISEACH, FAC, 1
+189 days, DATE, 1
+27 weeks, DATE, 1
+Lockdown Rave, PERSON, 1
+15-minute, TIME, 1
+Lauren Silverman SIMON Cowell, PERSON, 1
+Lauren Silverman, PERSON, 1
+DEATH, ORG, 1
+Richard Poole, PERSON, 1
+Netf, GPE, 1
+Jason O&#8217;Sullivan, PERSON, 1
+Institute of Obstetricians, ORG, 1
+Gynaecologists, NORP, 1
+next year - NI, DATE, 1
+Annmarie Sliney, PERSON, 1
+Jacob’s, ORG, 1
+Leanne’s, ORG, 1
+Oliver CORONATION, PERSON, 1
+at least March, DATE, 1
+another four weeks, DATE, 1
+Regeneron, ORG, 1
+Roche’s, ORG, 1
+the Dublin Society for Prevention of Cruelty to Animals, ORG, 1
+312, CARDINAL, 1
+GP, ORG, 1
+’ Ronan Glynn, WORK_OF_ART, 1
+the North East, LOC, 1
+The Department , ORG, 1
+more than €600,000, MONEY, 1
+eight months ago, DATE, 1
+the ‘panic years’, DATE, 1
+Europe Czech, NORP, 1
+Slovak, GPE, 1
+Recovery 2021:, PERSON, 1
+Women’s Six Nations, ORG, 1
+English Premiership, LOC, 1
+LEO Varadkar, PERSON, 1
+40-year-old, DATE, 1
+more than 300,000, CARDINAL, 1
+Ronan O'Gara's, PERSON, 1
+La Rochelle, FAC, 1
+Penaud, NORP, 1
+Donovan Taofifenua, PERSON, 1
+Julien Delbouis, PERSON, 1
+February 29th, 2020, DATE, 1
+Bernard O'Shea, PERSON, 1
+Bernard's Working Comics, ORG, 1
+Bernard O’Shea, PERSON, 1
+Bernard’s Working, ORG, 1
+the toughest year, DATE, 1
+ten months, DATE, 1
+Grammy Awards, ORG, 1
+Grammy Awards, EVENT, 1
+31 January, DATE, 1
+39 million, CARDINAL, 1
+49, CARDINAL, 1
+2,000 dollar, MONEY, 1
+1,462, MONEY, 1
+Brexit Lockdown, PERSON, 1
+8%, PERCENT, 1
+final day of January, DATE, 1
+at least five months, DATE, 1
+MEDICAL, ORG, 1
+the same night, TIME, 1
+3.1%, PERCENT, 1
+Industry, ORG, 1
+21 hours, TIME, 1
+almost a full day, DATE, 1
+Paul Flynn, PERSON, 1
+Mikey North, PERSON, 1
+The Rathmullan Film Festival, WORK_OF_ART, 1
+City, GPE, 1
+up to €500, MONEY, 1
+77-year-old, DATE, 1
+Co Clare, GPE, 1
+Gorey, ORG, 1
+Abbie Doyle, PERSON, 1
+Some 65.7%, PERCENT, 1
+March 12th, DATE, 1
+765, CARDINAL, 1
+the past two days, DATE, 1
+1,718, CARDINAL, 1
+Margaret Ferrier, PERSON, 1
+the University of Bristol and King’s, ORG, 1
+Brisbane, GPE, 1
+Brisbane, PERSON, 1
+previous days, DATE, 1
+the Time of Corona, FAC, 1
+Mad Men’s, WORK_OF_ART, 1
+John Slattery, PERSON, 1
+at least May, DATE, 1
+last May, DATE, 1
+more than £13.5 million, MONEY, 1
+€15.5 million, MONEY, 1
+Irish Mirror Online Ireland's, ORG, 1
+5-day, DATE, 1
+2,007, CARDINAL, 1
+Dublin HSE, ORG, 1
+Citywest, ORG, 1
+550, MONEY, 1
+Simone Rocha, PERSON, 1
+H&M, GPE, 1
+1,823, CARDINAL, 1
+ICU Prof Philip Nolan, ORG, 1
+Dickie Murphy, PERSON, 1
+Francesca McDonagh, PERSON, 1
+Alex Ba, PERSON, 1
+Guy Brice, ORG, 1
+Amazon’s, ORG, 1
+Aruká Juma, PERSON, 1
+between 86, DATE, 1
+Lottie Moss, PERSON, 1
+Ursula Von der Leyen, ORG, 1
+Covid19, ORG, 1
+EU Commision, ORG, 1
+Leyen, ORG, 1
+’ Mental Health Reform, ORG, 1
+Fiona Coyle, PERSON, 1
+App, ORG, 1
+Pete Lunn, PERSON, 1
+the Easter period', ORG, 1
+the weeks, DATE, 1
+Mountjoy, ORG, 1
+Abigail Pugh, PERSON, 1
+46, DATE, 1
+Kevin Davidson, PERSON, 1
+Lewes, GPE, 1
+East Sussex, PERSON, 1
+four nights, DATE, 1
+Rudy, PERSON, 1
+the last 12 months - Irish Mirror Online, DATE, 1
+a year after, DATE, 1
+Siegfried, PERSON, 1
+Fischbacher’s, ORG, 1
+Roy Horn, PERSON, 1
+652, CARDINAL, 1
+137, CARDINAL, 1
+Pete the, PERSON, 1
+Vet, GPE, 1
+Pete Wedderburn, PERSON, 1
+LOCKDOWNS, PERSON, 1
+World Health Organisation’s, ORG, 1
+Dr Ryan, PERSON, 1
+3.3%, PERCENT, 1
+0.9%, PERCENT, 1
+1,414, MONEY, 1
+the final three months of 2020, DATE, 1
+John Twomey, PERSON, 1
+the 1950s, DATE, 1
+86, CARDINAL, 1
+Monday February 22, DATE, 1
+kiss - Irish Mirror, ORG, 1
+Molly Gallagher, PERSON, 1
+the last few months, DATE, 1
+Construction Industry Federation, ORG, 1
+€2 billion, MONEY, 1
+breaking month, DATE, 1
+225, CARDINAL, 1
+HSE Unions, ORG, 1
+Fianna Fáil, PERSON, 1
+Greens, NORP, 1
+Baker Tilly, PERSON, 1
+Paula Wilcox, PERSON, 1
+Februar, ORG, 1
+Linnea Dunne, PERSON, 1
+Swede, NORP, 1
+a same-day, DATE, 1
+MRBI, ORG, 1
+St. George's Hospital, GPE, 1
+between 800 and 1,600, CARDINAL, 1
+Jimmy Carr, PERSON, 1
+JIMMY Carr, PERSON, 1
+879, CARDINAL, 1
+198,424, CARDINAL, 1
+Interpol, ORG, 1
+The Green Party, ORG, 1
+Neasa Hourigan, PERSON, 1
+Green Party TD, ORG, 1
+Dublin Central, ORG, 1
+Angela Dorgan, PERSON, 1
+the National Campaign for the Arts, ORG, 1
+Ian Goldin, PERSON, 1
+Oxford, GPE, 1
+Horan, NORP, 1
+Dubliner, PERSON, 1
+The year, DATE, 1
+The last 12 months, DATE, 1
+worst week, DATE, 1
+an Institute of International, ORG, 1
+European Affairs, ORG, 1
+summer holiday, DATE, 1
+Grenfell, ORG, 1
+Jeremy Brown, PERSON, 1
+more than a dozen, CARDINAL, 1
+FBD Insurance, ORG, 1
+some 1,000, CARDINAL, 1
+Level 5 Covid, LAW, 1
+97-year-old, DATE, 1
+3.3 million, CARDINAL, 1
+The UCD Smurfit Graduate School of Business, ORG, 1
+Food, ORG, 1
+Sophie Healy-Thow, PERSON, 1
+April - Irish Mirror Online, DATE, 1
+4,931, CARDINAL, 1
+Martin US, PERSON, 1
+35 kg, QUANTITY, 1
+Baarack, PERSON, 1
+more than 35 kilograms, QUANTITY, 1
+many a year, DATE, 1
+More than half a million, CARDINAL, 1
+IRELAND , PERSON, 1
+2.47bn, MONEY, 1
+BB, GPE, 1
+Daniel Byrne, PERSON, 1
+Killian Sundermann, PERSON, 1
+800, MONEY, 1
+Covid - Independent.ie Cadets, ORG, 1
+Beacon, PERSON, 1
+Republic State, GPE, 1
+71, CARDINAL, 1
+SIMON Barlow, PERSON, 1
+Brookside, ORG, 1
+Tris, PERSON, 1
+101-year-old, DATE, 1
+3,600, CARDINAL, 1
+More than 477,000, CARDINAL, 1
+David Cullinane, PERSON, 1
+George's Street Arcade, ORG, 1
+Jim Power, PERSON, 1
+Gwen Layden, GPE, 1
+Arcade, LOC, 1
+Covid vaccine ', PERSON, 1
+AstraZeneca BORIS Johnson, PRODUCT, 1
+the House of Commons, ORG, 1
+Tokyo Olympic Games, EVENT, 1
+only January, DATE, 1
+January - Independent.ie, GPE, 1
+European Championship, ORG, 1
+Fauci Top US, PERSON, 1
+the Royal College of Physicians, ORG, 1
+Kimberley Wilson - Independent.ie, PERSON, 1
+Barry’s Tea, ORG, 1
+PWC, ORG, 1
+fourth day, DATE, 1
+the fourth day in a row, DATE, 1
+Tedros Ghebreyesus, PERSON, 1
+his year, DATE, 1
+More than 400,000, CARDINAL, 1
+Departmen, GPE, 1
+Johns Hopkins Some, ORG, 1
+the Government, ORG, 1
+the week of 22, DATE, 1
+approximately 360, CARDINAL, 1
+Garda Covid, PERSON, 1
+just after midnight, TIME, 1
+87, DATE, 1
+Grace O'Sullivan, PERSON, 1
+The Green MEP, ORG, 1
+more than 200, CARDINAL, 1
+82, CARDINAL, 1
+Dialysis, PERSON, 1
+Up to 15,000, CARDINAL, 1
+Paul Murphy, PERSON, 1
+The RISE TD, ORG, 1
+Marginal, GPE, 1
+308, CARDINAL, 1
+the New Year Celebrations, EVENT, 1
+previous years, DATE, 1
+All Ireland, GPE, 1
+Aussie, GPE, 1
+The first week, DATE, 1
+the Australian Football League Women's, ORG, 1
+some days, DATE, 1
+SEVEN, CARDINAL, 1
+Tess Giddings, ORG, 1
+1am, TIME, 1
+Lidl Ireland, PERSON, 1
+LIDL Ireland, GPE, 1
+Michael Bailey’s, PERSON, 1
+Derby Theatre, ORG, 1
+1,294, CARDINAL, 1
+Almost 10%, PERCENT, 1
+their first year, DATE, 1
+Micheal, PERSON, 1
+Airline, GPE, 1
+Peter Ben Embarek, PERSON, 1
+202,694, CARDINAL, 1
+World View - Can Mario Draghi, EVENT, 1
+Chris Dooley, PERSON, 1
+Texans, NORP, 1
+thousands of dollars, MONEY, 1
+2pc, CARDINAL, 1
+2pc to €1.9bn, MONEY, 1
+Burgundy, PERSON, 1
+Prestbury Park, FAC, 1
+16:8, CARDINAL, 1
+St. Patrick’s Day, GPE, 1
+Testing Oversight Group, ORG, 1
+More than 13, CARDINAL, 1
+€161.5m, MONEY, 1
+Thiago Alcântara, PERSON, 1
+AstraZenec, ORG, 1
+Derek Draper, ORG, 1
+year-long, DATE, 1
+219,000, CARDINAL, 1
+350,322, CARDINAL, 1
+219, CARDINAL, 1
+Katie Wright, PERSON, 1
+Linda Nolan, PERSON, 1
+Kildare Village, GPE, 1
+€15.6m, MONEY, 1
+Dancing With The Stars, WORK_OF_ART, 1
+Irish Mirror Online Geordie Shore, ORG, 1
+UK & EU, ORG, 1
+Django Django’s, PERSON, 1
+Covid-negative, PERSON, 1
+Marc MacSharry, PERSON, 1
+7 days, DATE, 1
+Crosby, PERSON, 1
+Jess Aldridge, PERSON, 1
+Ryan Shelton, PERSON, 1
+Donie Cassidy, PERSON, 1
+Bodycam, GPE, 1
+more than £15,000, MONEY, 1
+Metropolitan Police Service, ORG, 1
+Stephen Fry - the, PERSON, 1
+more than three quarters, DATE, 1
+Scorsese, NORP, 1
+25 years ago, DATE, 1
+M&M, ORG, 1
+Giuliani, PERSON, 1
+'90s, DATE, 1
+Times Square, FAC, 1
+Manhattan, GPE, 1
+Mecca, GPE, 1
+Keith Begg, PERSON, 1
+’ eight-week, DATE, 1
+another nine weeks, DATE, 1
+Super Rugby, ORG, 1
+Past two weeks, DATE, 1
+Concert, PERSON, 1
+108th, ORDINAL, 1
+As many as 4,000, CARDINAL, 1
+GCSE, ORG, 1
+Simon Harris - Independent.ie, PERSON, 1
+Medical Advisory Group, ORG, 1
+up to 1,300, CARDINAL, 1
+Doherty, ORG, 1
+January Nphet, DATE, 1
+McKillen, PERSON, 1
+Johnson vaccine - Irish Mirror Online, PERSON, 1
+Mercer, PERSON, 1
+Covid disruption Investors, ORG, 1
+Tailteann Cup, EVENT, 1
+St Peter's College, PERSON, 1
+Goodbody Stockbrokers, PERSON, 1
+4pc, ORDINAL, 1
+More than 25%, PERCENT, 1
+Covid-positive, PERSON, 1
+Sunbeam House, ORG, 1
+Sweden Legal, GPE, 1
+the past day, DATE, 1
+103, CARDINAL, 1
+PREMIER League, ORG, 1
+the longest winter, DATE, 1
+Bernard Laporte, PERSON, 1
+earlier in the day, TIME, 1
+CJ Stander - Independent.ie Grainne Seoige’s, ORG, 1
+28BILLION, MONEY, 1
+the end of year, DATE, 1
+28 billion euro, MONEY, 1
+95, CARDINAL, 1
+more than 2, CARDINAL, 1
+1.7, CARDINAL, 1
+Smooth Radio, ORG, 1
+Nphet Exit, PERSON, 1
+the past few weeks, DATE, 1
+Covid - Independent.ie Taxes, PERSON, 1
+Ciaran Hancock - The, PERSON, 1
+Danny McCoy, PERSON, 1
+Desmond, PERSON, 1
+Martin Compston, PERSON, 1
+Covid variants Travellers, PERSON, 1
+up to €4,000, MONEY, 1
+4,628, CARDINAL, 1
+232,164, CARDINAL, 1
+Tommy Tiernan, FAC, 1
+Navan, ORG, 1
+the Freedom of Information Act, LAW, 1
+Michael Rosen, PERSON, 1
+48 days, DATE, 1
+more than 4,000, CARDINAL, 1
+BBC Radio 4, ORG, 1
+Cairn Homes, PERSON, 1
+€261.9m, MONEY, 1
+€435.3m, MONEY, 1
+Galway Total, ORG, 1
+previous five days, DATE, 1
+Ray Kennedy, PERSON, 1
+up to €2,000, MONEY, 1
+ELEVEN, ORG, 1
+Up to 150, CARDINAL, 1
+Dr Stephanie, PERSON, 1
+Joe Galvin, PERSON, 1
+Ivan Yates, PERSON, 1
+Ryan Tubridy's, PERSON, 1
+Rory O'Neill, PERSON, 1
+Panti Bliss - Independent.ie, PERSON, 1
+Rory O'Neill - otherwise, PERSON, 1
+Panti Bliss, PERSON, 1
+Dublin Port, FAC, 1
+year Company, ORG, 1
+just 3.4%, PERCENT, 1
+166, CARDINAL, 1
+sixth week in a row, DATE, 1
+Nisra, ORG, 1
+’ Atmosphere, WORK_OF_ART, 1
+David Ireland’s, PERSON, 1
+Sadie, PERSON, 1
+Lyric Theatre for TV, ORG, 1
+Mahony, PERSON, 1
+Rhona Mahony, PERSON, 1
+post-Christmas, EVENT, 1
+‘The Path Ahead’, WORK_OF_ART, 1
+over three years, DATE, 1
+WFH, ORG, 1
+Harvey LEANNE Battersby, ORG, 1
+Irish Mirror, ORG, 1
+Ciara Phelan, PERSON, 1
+Trish Dromey, PERSON, 1
+Almost 150, CARDINAL, 1
+Flying Elephant, ORG, 1
+an affair two years ago, DATE, 1
+about 10, CARDINAL, 1
+Central Mental Hospital, ORG, 1
+169, CARDINAL, 1
+28 February, DATE, 1
+February’, DATE, 1
+Diet Covid, PERSON, 1
+almost €20,000, MONEY, 1
+6pm to 6am curfew, TIME, 1
+6pm to, TIME, 1
+at least 15 days, DATE, 1
+135, MONEY, 1
+Tyrone’s, ORG, 1
+Harvey’s, ORG, 1
+Ronnie, PERSON, 1
+Weatherfield, ORG, 1
+Simon’s, ORG, 1
+Roughly two million, CARDINAL, 1
+up to 5,000, CARDINAL, 1
+Lockdown Rave', PERSON, 1
+121, CARDINAL, 1
+another three months, DATE, 1
+GB, GPE, 1
+an additional 1,006, CARDINAL, 1
+$1.9 trillion dollar, MONEY, 1
+World War Three' - Irish Mirror, EVENT, 1
+Gerry Mellett, PERSON, 1
+the Ardattin Inn, ORG, 1
+Ardattin, PERSON, 1
+Dark Red, ORG, 1
+’ MEGAN Barton-Hanson, WORK_OF_ART, 1
+Geraldine Renton, PERSON, 1
+Ethan, PERSON, 1
+June - Irish Mirror Online, ORG, 1
+June', DATE, 1
+EU &, ORG, 1
+Galway University Hospital, ORG, 1
+1991, DATE, 1
+Howard Corscadden, PERSON, 1
+MEDIC, ORG, 1
+Brad Pitt, PERSON, 1
+Jennifer Aniston's, PERSON, 1
+Jennifer Aniston - who, PERSON, 1
+16 years, DATE, 1
+U20s, ORG, 1
+The Six Nations, ORG, 1
+U-20s, PERSON, 1
+Science, ORG, 1
+Beech Park, FAC, 1
+Two more months, DATE, 1
+second quarter of 2021, DATE, 1
+Viet Thanh Nguyen, ORG, 1
+Emma Dabiri, PERSON, 1
+Kerri ní Dochartaigh, ORG, 1
+Elaine Feeney, PERSON, 1
+Max Porter, PERSON, 1
+Zoom Eucharist, ORG, 1
+Prof Sam McConkey, PERSON, 1
+the Royal College of Surgeons, ORG, 1
+TDs - Independent.ie, ORG, 1
+late October, DATE, 1
+year-end, DATE, 1
+Outpatient, ORG, 1
+January 15, DATE, 1
+Nearly 85,000, CARDINAL, 1
+Instagram Tickets, PRODUCT, 1
+Status Yellow, PERSON, 1
+Joe Biden’s, PERSON, 1
+Virgin Media's, ORG, 1
+850, CARDINAL, 1
+12 February, DATE, 1
+275,237, CARDINAL, 1
+Ballymaloe Cookery School, ORG, 1
+up to 30, CARDINAL, 1
+Willie O'Dea, PERSON, 1
+Bergamo, GPE, 1
+Briefing, GPE, 1
+10 per cent, MONEY, 1
+Newark, GPE, 1
+Delaware, GPE, 1
+Houzz, NORP, 1
+Kilclooney, PERSON, 1
+the Ulster Unionist Party, ORG, 1
+’ St Patrick’s Day, WORK_OF_ART, 1
+440, CARDINAL, 1
+TheJournal.ie Chaos, PERSON, 1
+22 days, DATE, 1
+just three weeks ago, DATE, 1
+the Grand Slam, FAC, 1
+John Grey, PERSON, 1
+84, CARDINAL, 1
+DAD, ORG, 1
+Raymond Lloyd, PERSON, 1
+Plymouth, GPE, 1
+Revenue, WORK_OF_ART, 1
+Taxpayers, ORG, 1
+end-year, DATE, 1
+26st, ORDINAL, 1
+Olivier Veran, PERSON, 1
+DIY de-fuzzing, PERSON, 1
+about 66 days, DATE, 1
+about five years, DATE, 1
+Brian Pluck, PERSON, 1
+Mark Rutte, PERSON, 1
+The Student Health Centre, ORG, 1
+just 37 days old, DATE, 1
+Greek, NORP, 1
+Kyriakos Mitsotakis, PERSON, 1
+Animal Crossing, PERSON, 1
+Nintendo, ORG, 1
+More than seven million, CARDINAL, 1
+Animal Crossing:, WORK_OF_ART, 1
+New Horizons, ORG, 1
+Ciaran Hancock - Dublin, ORG, 1
+Dublin Bus, ORG, 1
+Broadstone, GPE, 1
+last mile, QUANTITY, 1
+More than 825,000, CARDINAL, 1
+Firsthand, ORG, 1
+Jim Clarken, PERSON, 1
+Oxfam, PERSON, 1
+Gongzhuling, GPE, 1
+more than 29, CARDINAL, 1
+Jonathan Hill, PERSON, 1
+Shay Byrne, PERSON, 1
+Kieran Lucid, PERSON, 1
+All-Island League, GPE, 1
+Taiwan Bars, ORG, 1
+7.1%, PERCENT, 1
+National Indoor Championships, ORG, 1
+Irish Mirror Online Athletics Ireland, ORG, 1
+the European Indoor Championships, ORG, 1
+Taoiseach Michel Martin, PERSON, 1
+Apri, ORG, 1
+Ursula, GPE, 1
+the European Union , ORG, 1
+25 to 34, CARDINAL, 1
+the 17th century, DATE, 1
+Blair House, ORG, 1
+Invest, PERSON, 1
+Smart Money: Savings, ORG, 1
+WhatsApp, ORG, 1
+over 70s, DATE, 1
+at least 1,000, CARDINAL, 1
+4,172, CARDINAL, 1
+the Department of Defence, ORG, 1
+Jacqui McCrum, PERSON, 1
+Freya, PERSON, 1
+10-fold, QUANTITY, 1
+December to January, DATE, 1
+Paul Johnston, PERSON, 1
+Vaccinating Ireland, GPE, 1
+Patrick McGarty, PERSON, 1
+Colin O'Riordan, PERSON, 1
+Sydney Swans, NORP, 1
+Tipperary fairytale, WORK_OF_ART, 1
+just eight, CARDINAL, 1
+Tipperary's, WORK_OF_ART, 1
+less than 33, CARDINAL, 1
+Sean Boylan's, PERSON, 1
+Three-day, DATE, 1
+nearly six months, DATE, 1
+between 0.4, CARDINAL, 1
+between 0.5, CARDINAL, 1
+0.8, CARDINAL, 1
+25-years-old, DATE, 1
+Irish Mirror Online ITV, ORG, 1
+UK Finance, ORG, 1
+Office, ORG, 1
+NEW Zealand, GPE, 1
+Waitangi, ORG, 1
+Dr Max Pemberton, PERSON, 1
+early last week, DATE, 1
+earlier in the year, DATE, 1
+10 million, CARDINAL, 1
+Three weeks, DATE, 1
+Donnelly - Independent.ie, ORG, 1
+over-85, DATE, 1
+Nike, ORG, 1
+Sportswear, PERSON, 1
+the last quarter, DATE, 1
+North America, LOC, 1
+the last days, DATE, 1
+the days, DATE, 1
+THONG, ORG, 1
+the summer of 2019, DATE, 1
+A month, DATE, 1
+Paul O'Connell, PERSON, 1
+May last year, DATE, 1
+New Year Mental Health Commission, ORG, 1
+Dunnes Stores Group’s, ORG, 1
+€1.1m, MONEY, 1
+1.2 MILLION, CARDINAL, 1
+Michelle Obama, PERSON, 1
+Pressure, ORG, 1
+Gemma O'Doherty, PERSON, 1
+Jessica Manning, PERSON, 1
+Vicky Shaw, PERSON, 1
+284,000, MONEY, 1
+Elmhurst Nursing Home, ORG, 1
+Glasnevin, PERSON, 1
+a few seconds, TIME, 1
+1,662, CARDINAL, 1
+Covid Vaccine, PERSON, 1
+Almost one-fifth, CARDINAL, 1
+Biden’s, ORG, 1
+Europe Central European, LOC, 1
+Balkan, NORP, 1
+Baltic, NORP, 1
+40s, DATE, 1
+Academy Award, PERSON, 1
+Connemara’, PERSON, 1
+Djokovic, PERSON, 1
+Andy Murray Australian, PERSON, 1
+Covid Andy Murray Australian, PERSON, 1
+more than 90 million, MONEY, 1
+Brexit’s, ORG, 1
+McGuinness, PERSON, 1
+' 4th, DATE, 1
+Chair of Applied Pathogen Ecology, ORG, 1
+Reid The HSE's, PERSON, 1
+one hundred, CARDINAL, 1
+Malt, PERSON, 1
+noon, TIME, 1
+Pope Francis, PERSON, 1
+Latest, PERSON, 1
+the previous 10 months, DATE, 1
+the same period the year before, DATE, 1
+Trudeau, PERSON, 1
+the past years, DATE, 1
+Conor, ORG, 1
+Purple House Cancer Support Centre, ORG, 1
+the next decade, DATE, 1
+Alphabet, GPE, 1
+Google’s, ORG, 1
+2pc, ORDINAL, 1
+Q2 2020, DATE, 1
+a few days', DATE, 1
+Duke of Edinburgh, ORG, 1
+Buckingham Palace, FAC, 1
+Buried, ORG, 1
+Bernards, ORG, 1
+Cosbys, GPE, 1
+Over 1,150, CARDINAL, 1
+1,151, CARDINAL, 1
+University Hospital Waterford, ORG, 1
+The Most Depressing Day Of The Year, WORK_OF_ART, 1
+Oxford/AstraZeneca, ORG, 1
+a holiday, DATE, 1
+Sergio Aguero, PERSON, 1
+Man City’s, GPE, 1
+Under 45s, DATE, 1
+Scally, ORG, 1
+vaccinate 40%, PERCENT, 1
+Fauci, NORP, 1
+America Letter, WORK_OF_ART, 1
+Women’s Aid, ORG, 1
+Derek Draper ', PERSON, 1
+last Monday to Sunday, DATE, 1
+81,843, CARDINAL, 1
+Numbers - Independent.ie, ORG, 1
+the 29th of February 2020, DATE, 1
+27th Janurary 2021, DATE, 1
+0.18%, PERCENT, 1
+Slower, ORG, 1
+253, CARDINAL, 1
+THE Government’s, ORG, 1
+more than one million, CARDINAL, 1
+Carlingford, PERSON, 1
+Ma Bakers, ORG, 1
+Damien Hirst, PERSON, 1
+Kate Ferdinand, PERSON, 1
+29-year-old, DATE, 1
+Asha, PERSON, 1
+Seventeen, ORG, 1
+five to 83, CARDINAL, 1
+Simon Coveney - Independent.ie, PERSON, 1
+28-year-old, DATE, 1
+Noleen Thompson, PERSON, 1
+West Belfast, GPE, 1
+13 March, DATE, 1
+the Brazilian Foreign Ministry, ORG, 1
+Paddy Power, ORG, 1
+Iseq, NORP, 1
+Hans Kluge, PERSON, 1
+Hiqa, PERSON, 1
+60+, QUANTITY, 1
+Tilda, PERSON, 1
+National Trust Castle Ward, ORG, 1
+the next six months, DATE, 1
+70k a day, DATE, 1
+the Centers of Disease Control and Prevention, ORG, 1
+Sarah Everard Organisers, PERSON, 1
+the Middle East, LOC, 1
+The next two months, DATE, 1
+17 February, DATE, 1
+Mark Ferguson, PERSON, 1
+the third quarter, DATE, 1
+Boyzone, PERSON, 1
+Keith Duffy, PERSON, 1
+earlier in, TIME, 1
+Brian McFadd, PERSON, 1
+fewer than 10%, PERCENT, 1
+More than 10,000, CARDINAL, 1
+age 18, DATE, 1
+796, CARDINAL, 1
+10 years, DATE, 1
+up to 10 years, DATE, 1
+Tuesday Two, DATE, 1
+Mike Ryan Dr Ryan, PERSON, 1
+Harvey's Point in Co Donegal, ORG, 1
+Marc Gysling, PERSON, 1
+Wayne Rooney, PERSON, 1
+Derby, PERSON, 1
+Championship, ORG, 1
+Chorley, PERSON, 1
+7 months, DATE, 1
+Caspar Jopling ELLIE Goulding, PERSON, 1
+30 weeks, DATE, 1
+Gloucestershire, GPE, 1
+Caspar Jopling, PERSON, 1
+Co Derry, GPE, 1
+the Six Nations,, ORG, 1
+About 40,000, CARDINAL, 1
+More than 5,000, CARDINAL, 1
+The I’m A Celeb, ORG, 1
+March 11th and 12th last year, DATE, 1
+Anglo Irish Bank, ORG, 1
+Jolanta Burke, PERSON, 1
+Amanda Holden, ORG, 1
+Cornwall - Irish Mirror Online, ORG, 1
+more than 200 miles, QUANTITY, 1
+Sligo, PERSON, 1
+St Pat’s, PERSON, 1
+ON once, ORG, 1
+May TURKEY, GPE, 1
+Turkish, NORP, 1
+60 years, DATE, 1
+CRUFTS, ORG, 1
+more than 60 years, DATE, 1
+The Kennel Club, ORG, 1
+the State Pause of, ORG, 1
+Inside Coronation Street, ORG, 1
+Leach, PERSON, 1
+20th, ORDINAL, 1
+Faye Windass, PERSON, 1
+nearly one year, DATE, 1
+the early days, DATE, 1
+February of last year, DATE, 1
+some three months, DATE, 1
+Wyvern Lingo, PERSON, 1
+the beginning of March, DATE, 1
+2020 2020, DATE, 1
+Czech Republic World, GPE, 1
+Dessie Farrell, ORG, 1
+Dessie Farrell, PERSON, 1
+Wetherspoon, GPE, 1
+Tim Martin, PERSON, 1
+998, CARDINAL, 1
+12 full months, DATE, 1
+the Royal London Hospital, ORG, 1
+Jack-Horgan Jones, PERSON, 1
+Brexit &#, ORG, 1
+norm,&#8221, ORG, 1
+Tom Talbot, PERSON, 1
+Kevin Brosnan, PERSON, 1
+Easing Lockdown, PERSON, 1
+early January, DATE, 1
+St Mirren, PERSON, 1
+Dundee United, ORG, 1
+2021 summer, DATE, 1
+More than 150,000, CARDINAL, 1
+Austerlitz, ORG, 1
+WG Sebald, PERSON, 1
+May Face the Rising Sun, WORK_OF_ART, 1
+John McGahern, PERSON, 1
+the Time of Cholera, ORG, 1
+Gabriel Garcia Marquez, PERSON, 1
+Ciaran Hancock - “, PERSON, 1
+14 million, CARDINAL, 1
+An Post’s, ORG, 1
+GPO, ORG, 1
+Catholic Archbishops, ORG, 1
+Holy Week, EVENT, 1
+Vaccinate 70%, PERCENT, 1
+Joe Exotic’s, ORG, 1
+year&#8217;s, DATE, 1
+Greenpark Nursing Home, ORG, 1
+Tuam, GPE, 1
+Four million, CARDINAL, 1
+Mrs Brown’s Boys, ORG, 1
+Dr Keshav Sharma, PERSON, 1
+Sauvignon Blanc, PERSON, 1
+the Dancing On Ice, ORG, 1
+over 622,000, CARDINAL, 1
+Covid", PERSON, 1
+93-year-old, DATE, 1
+Beryl Gaye, PERSON, 1
+Resident of Bethany House, ORG, 1
+CDC’s, ORG, 1
+Savannah, GPE, 1
+Georgia, GPE, 1
+Lansin, GPE, 1
+less than eight months, DATE, 1
+Brian Cowen’s, PERSON, 1
+ten years ago, DATE, 1
+Tánaiste Leo Varadkar’s, PERSON, 1
+&, ORG, 1
+the National Ploughing Championships, ORG, 1
+Aid, PERSON, 1
+3.3, CARDINAL, 1
+About 670,000, CARDINAL, 1
+Ireland Northern Irish, ORG, 1
+Sunday January 24, DATE, 1
+two more months, DATE, 1
+Northern Ireland Department of Health, GPE, 1
+Loophole, PERSON, 1
+Centres, ORG, 1
+Monaghan, Cavan and Kildare, ORG, 1
+More than 154,000, CARDINAL, 1
+97%, PERCENT, 1
+Seven-day, DATE, 1
+the following week, DATE, 1
+Post-Covid Ireland, ORG, 1
+The past 12 months, DATE, 1
+Covid - Independent.ie HSE, PERSON, 1
+RCSI, ORG, 1
+FBD, ORG, 1
+5.1%, PERCENT, 1
+Drinks Ireland, GPE, 1
+6.6 per cent, MONEY, 1
+Isle of Man, ORG, 1
+THE Isle of Man, ORG, 1
+2020 than 2019, DATE, 1
+’ The Tánaiste, WORK_OF_ART, 1
+England’s, ORG, 1
+2pm every day, DATE, 1
+almost 200,000, CARDINAL, 1
+less than 1,000, CARDINAL, 1
+984, CARDINAL, 1
+McGrath, ORG, 1
+Wuhan�, FAC, 1
+Cherokee Nation The Cherokee Nation, PRODUCT, 1
+Native Americans, NORP, 1
+The New York Times, ORG, 1
+Children, PERSON, 1
+the Children's Right's Alliance, ORG, 1
+Martin Matthews, PERSON, 1
+67, CARDINAL, 1
+the past 12 months, DATE, 1
+more than 2,700, CARDINAL, 1
+Almost 17,000, CARDINAL, 1
+the Toy Show, WORK_OF_ART, 1
+St Patrick's Day night, PERSON, 1
+an additional two, CARDINAL, 1
+Erna Solberg, PERSON, 1
+the middle of last summer, DATE, 1
+HOLLY Willoughby, PERSON, 1
+Scandi, ORG, 1
+TD Pearse Doherty, ORG, 1
+Post-Covid, ORG, 1
+anti-Malaria, ORG, 1
+a WHO Guideline Development Group, ORG, 1
+Around 3%, PERCENT, 1
+around 3%, PERCENT, 1
+EIGHT, CARDINAL, 1
+the Christmas period, DATE, 1
+John Maughan's, PERSON, 1
+John Maughan, PERSON, 1
+Friday week, DATE, 1
+Co Leitrim, PERSON, 1
+Operation Fanacht, FAC, 1
+Rhian Sugden, PERSON, 1
+six billion, CARDINAL, 1
+15 per cent, MONEY, 1
+Holmes, PERSON, 1
+Covid John Wilson, PERSON, 1
+Simon Tyrrell, PERSON, 1
+3 million, CARDINAL, 1
+59,937, CARDINAL, 1
+Half of fifth, CARDINAL, 1
+sixth year, DATE, 1
+Vestry, GPE, 1
+St Conal’s Campus, FAC, 1
+Letterkenny, ORG, 1
+Employer, ORG, 1
+James Arthur, PERSON, 1
+JAMES ARTHUR, PERSON, 1
+the last eight years, DATE, 1
+Dessie Ellis, ORG, 1
+Covid battle - Irish Mirror Online Exclusive, PERSON, 1
+The Sinn Fein TD, ORG, 1
+Scott Morrison, PERSON, 1
+Scott Morrison’s, PERSON, 1
+Dr Hilary, PERSON, 1
+the Republic, GPE, 1
+Covid JO Whiley, PERSON, 1
+Covid crisis Warning, PERSON, 1
+Institute for Fiscal Studies, ORG, 1
+March 3, DATE, 1
+April 19th, DATE, 1
+Dublin GAA’s, ORG, 1
+Covid-breach, PERSON, 1
+Frustrated Rory McIlroy, PERSON, 1
+Genesis Invitational, ORG, 1
+Rory McIlroy, PERSON, 1
+The Genesis Invitational, ORG, 1
+Riviera Country Club, ORG, 1
+Over 20,000, CARDINAL, 1
+46-year-old, DATE, 1
+Beaumont Hospital, FAC, 1
+under 18s, DATE, 1
+’ Soundtrack of My Life:, WORK_OF_ART, 1
+Tamzin Outhwaite, ORG, 1
+over six months, DATE, 1
+Florence, ORG, 1
+Marnie, PERSON, 1
+at least the first six months of the year, DATE, 1
+303, CARDINAL, 1
+Limerick’s, FAC, 1
+almost 340,000, CARDINAL, 1
+England - Independent.ie, GPE, 1
+Oasis Academy Coulsdon, ORG, 1
+1,376, CARDINAL, 1
+' April, DATE, 1
+SIMON Harris, PERSON, 1
+the summer months, DATE, 1
+Social Justice Ireland, ORG, 1
+Citroen, PERSON, 1
+Richard, PERSON, 1
+Tony Costello, PERSON, 1
+McDonald - Independent.ie, PERSON, 1
+Brophy, PERSON, 1
+the Health Ministe, ORG, 1
+one-year anniversary, DATE, 1
+the Holy Ghost Fathers, ORG, 1
+a few days’, DATE, 1
+January - Irish Mirror Online, DATE, 1
+Newton Emerson, ORG, 1
+Cross-Border, ORG, 1
+State Challenge, ORG, 1
+‘year, DATE, 1
+year two, DATE, 1
+Almost 460,000, CARDINAL, 1
+61,715, CARDINAL, 1
+& ICU, ORG, 1
+17 days later, DATE, 1
+17 days, DATE, 1
+Danubia Leida, PERSON, 1
+eight months, DATE, 1
+YouTuber Grace Victory, ORG, 1
+Covid YOUTUBE, PERSON, 1
+Grace Victory, ORG, 1
+Christmas Day, DATE, 1
+North Tipperay, GPE, 1
+5,200, CARDINAL, 1
+WUHAN, ORG, 1
+Forty-seven, CARDINAL, 1
+North The, LOC, 1
+3.50, MONEY, 1
+March 15 last year, DATE, 1
+two-kilometre, QUANTITY, 1
+March 27, DATE, 1
+mid-February - Donnelly Community, DATE, 1
+Western Force, ORG, 1
+15 seasons, DATE, 1
+More than three, CARDINAL, 1
+Germany Merkel, GPE, 1
+three-month, DATE, 1
+84-year-old, DATE, 1
+Tom McNamara, PERSON, 1
+four decades, DATE, 1
+Nenagh hospital Patients, ORG, 1
+Ennis, ORG, 1
+23bn, ORDINAL, 1
+Mix, PERSON, 1
+Regina Doherty - Independent.ie Taoiseach's, ORG, 1
+Caleb Followill, PERSON, 1
+Irony, PERSON, 1
+the Covid Advisory Group, ORG, 1
+Sanda Ojiambo, ORG, 1
+just minutes, TIME, 1
+Scentech Medical, ORG, 1
+401, CARDINAL, 1
+Adapt, ORG, 1
+Harlequin, PERSON, 1
+Castle Market, ORG, 1
+40pc, CARDINAL, 1
+49,100, CARDINAL, 1
+as many as 607,000, CARDINAL, 1
+nearly 2.7 million, CARDINAL, 1
+€8bn, DATE, 1
+club-first season, DATE, 1
+34, MONEY, 1
+Ger Mulryan, PERSON, 1
+the summer of 2022, DATE, 1
+M&S, ORG, 1
+25.1%, PERCENT, 1
+last year', DATE, 1
+they&#8217;ve, CARDINAL, 1
+Northern Ireland Five, GPE, 1
+313, CARDINAL, 1
+Sinopharm, ORG, 1
+2,286, CARDINAL, 1
+March 10th, DATE, 1
+Kenneth Egan, PERSON, 1
+Kenny Egan, PERSON, 1
+74-year-old, DATE, 1
+Twitter, LANGUAGE, 1
+Tubridy, PERSON, 1
+Met Eireann, PERSON, 1
+Tuesday, January 26, DATE, 1
+Crowne Plaza Hotel, FAC, 1
+Eleven, CARDINAL, 1
+Mitch McConnell, PERSON, 1
+Nancy Pelosi, PERSON, 1
+9,800, CARDINAL, 1
+Pfizer Vaccine, PERSON, 1
+Sophie Webster’s, PERSON, 1
+half a year’, DATE, 1
+the Licensed Vintners Association, ORG, 1
+Donall, PERSON, 1
+OFF, ORG, 1
+LEINSTER, ORG, 1
+French, LANGUAGE, 1
+first quarter, DATE, 1
+the first three months of the year, DATE, 1
+Brian MacCraith, PERSON, 1
+Varadkar Tánaiste, PERSON, 1
+up to 50%, PERCENT, 1
+Joan Durney, PERSON, 1
+Daily Mail, ORG, 1
+Free, PERSON, 1
+Chris, PERSON, 1
+Some 2.2 million, CARDINAL, 1
+Coillte’s, ORG, 1
+between March and December 2020, DATE, 1
+Parish, NORP, 1
+A&E, ORG, 1
+Israel Covid, PERSON, 1
+Oceanview Nursing Home , FAC, 1
+KBC Ireland, GPE, 1
+€48m, MONEY, 1
+the current 21 days, DATE, 1
+PUP - Independent.ie Parents, PRODUCT, 1
+John Whelan, PERSON, 1
+Euler Hermes, ORG, 1
+780, CARDINAL, 1
+the Premier Division, ORG, 1
+Galthie, PERSON, 1
+Theme, NORP, 1
+Lanzarote, ORG, 1
+Marc MacSharry’s, PERSON, 1
+mid-October, DATE, 1
+Irish Independent, ORG, 1
+February 15, DATE, 1
+Peaky Blinders, ORG, 1
+Peaky Blinders, PRODUCT, 1
+Tommy Shelby, PERSON, 1
+Steven Knight, PERSON, 1
+the sixth season, DATE, 1
+Carrigstown - Irish, GPE, 1
+McCoy’s, ORG, 1
+Vino’s', ORG, 1
+’ Hao Wu, PERSON, 1
+some 5,500, CARDINAL, 1
+Garda’s, ORG, 1
+Model, PERSON, 1
+Ilona Kotelyukh, PERSON, 1
+‘Living with Covid’, WORK_OF_ART, 1
+Elite Gaelic, ORG, 1
+the Department of Transport, ORG, 1
+the Oxford University, ORG, 1
+Sam Foster, PERSON, 1
+Oxford University Hospitals NHS Foundation Trust’s, ORG, 1
+Shirley, PERSON, 1
+St Patrick’s Day – Molly Malone, PERSON, 1
+Arlo Parks, PERSON, 1
+Generation Z’, ORG, 1
+B&B, ORG, 1
+The Washington Post, ORG, 1
+Guardian, ORG, 1
+‘Reckless’, WORK_OF_ART, 1
+Ireland Covid, ORG, 1
+Declan Finnegan, PERSON, 1
+€50 million, MONEY, 1
+over a third, CARDINAL, 1
+the previous year, DATE, 1
+Coursing, GPE, 1
+The US Congress, ORG, 1
+’ - Blindboy - Independent.ie, WORK_OF_ART, 1
+Covid vaccine Trading, PERSON, 1
+Eamon Dunphy, PERSON, 1
+Broadcaster Eamon Dunphy, PERSON, 1
+the last 44 weeks, DATE, 1
+Eamo, PERSON, 1
+Gardai RTE’S, ORG, 1
+Ciaran Hancock - Irish, PERSON, 1
+Revolut / Pandemic TV A, ORG, 1
+N26, ORG, 1
+Synch Payments, PERSON, 1
+TSB, ORG, 1
+KBC, ORG, 1
+the Competition and Consumer Protection Commission, ORG, 1
+Hesus Inoma, PERSON, 1
+Grant Thornton's, ORG, 1
+Financial Services Advisory, ORG, 1
+Laura Slattery, PERSON, 1
+Michael Gove, PERSON, 1
+Article 16 of the, LAW, 1
+months ago, DATE, 1
+Taoiseach Micheál Martin’s, ORG, 1
+Hospitalisation, LAW, 1
+since week ending January 15th, DATE, 1
+Marvin Hagler's, PERSON, 1
+Covid vaccine MARVIN HAGLER, PERSON, 1
+Tommy Hearns, PERSON, 1
+Marvelous Marvin, PERSON, 1
+Hagler, PERSON, 1
+Ireland - Irish Mirror Online, ORG, 1
+Tallaght St, WORK_OF_ART, 1
+March 26, DATE, 1
+Hibs, ORG, 1
+10pc, ORDINAL, 1
+S&P, ORG, 1
+Global, ORG, 1
+UK Republic, GPE, 1
+Manaus, GPE, 1
+DUBLIN, ORG, 1
+4,313, CARDINAL, 1
+4,651, CARDINAL, 1
+week before Christmas December 24th, DATE, 1
+Jane Johnstone, PERSON, 1
+Some 20, CARDINAL, 1
+Mary Immaculate, PERSON, 1
+2,970, CARDINAL, 1
+Oireachtas Committee, ORG, 1
+1,770, CARDINAL, 1
+Macron European, PERSON, 1
+Craig Tiley, PERSON, 1
+the Grand Slam, ORG, 1
+Drugmaker AstraZeneca, ORG, 1
+2.6%, PERCENT, 1
+1,564, CARDINAL, 1
+August of last year, DATE, 1
+over two hundred, CARDINAL, 1
+Matt Damon ', PERSON, 1
+2-3 years, DATE, 1
+28,000, CARDINAL, 1
+Noel McNally, PERSON, 1
+McNally’s, ORG, 1
+Carrickmacross, GPE, 1
+just five weeks, DATE, 1
+Katie Ann McGuigan, PERSON, 1
+every season, DATE, 1
+the coming decade, DATE, 1
+Pulmonary, PERSON, 1
+Mario Kinsella, PERSON, 1
+30-40 years, DATE, 1
+Rise, PERSON, 1
+Sky, WORK_OF_ART, 1
+Bono & Penelope Cruz, ORG, 1
+BONO, ORG, 1
+18.5 million, CARDINAL, 1
+& EU, ORG, 1
+PARIS, ORG, 1
+four-week, DATE, 1
+midnight tomorrow, TIME, 1
+between March and September, DATE, 1
+Fabian Galthié, PERSON, 1
+Johnson & Johnson Covid, ORG, 1
+72pc, ORDINAL, 1
+66pc, CARDINAL, 1
+As many as eight, CARDINAL, 1
+Renaissance Distillery, ORG, 1
+Renaissance, ORG, 1
+Shane Richie's, PERSON, 1
+Shane Richie’s, PERSON, 1
+Shane, ORG, 1
+St Thomas More Church, FAC, 1
+Swiss Cottage, LOC, 1
+the late 1960s, DATE, 1
+John Ryan, PERSON, 1
+56 days, DATE, 1
+a few nights ago, DATE, 1
+Samaritans, NORP, 1
+Defence Force, ORG, 1
+the Ireland Strategic Investment Fund, ORG, 1
+17,260, CARDINAL, 1
+12 months later, DATE, 1
+1.9 million, CARDINAL, 1
+Olga Freeman, PERSON, 1
+Dylan Freeman, PERSON, 1
+Cumberland Park, GPE, 1
+Acton, GPE, 1
+10 this evening, TIME, 1
+4,509, CARDINAL, 1
+post-Christmas Covid, EVENT, 1
+past 12 months, DATE, 1
+Department of Social Protection, ORG, 1
+210bn, MONEY, 1
+Colchicine, ORG, 1
+Covid Payment, PERSON, 1
+a full year, DATE, 1
+at least 60, CARDINAL, 1
+Michael McDowell, PERSON, 1
+Mass Declan Ganley, PERSON, 1
+Constitutional, LAW, 1
+the last year - Independent.ie One year, DATE, 1
+Auschwitz, PERSON, 1
+Lockdown 2.0, FAC, 1
+4pm, TIME, 1
+Independent.ie Travel, ORG, 1
+Taoiseach Micheal Martin, WORK_OF_ART, 1
+Kevin, PERSON, 1
+Abi, PERSON, 1
+Eamonn Macdonncha, PERSON, 1
+115bn, MONEY, 1
+John Collison, PERSON, 1
+Michael Harding, PERSON, 1
+Fred West, PERSON, 1
+Up to 4 million, CARDINAL, 1
+up to four million, CARDINAL, 1
+last ten days, DATE, 1
+today’s Department of Health, ORG, 1
+lower than previous month, DATE, 1
+the National Public Health Emergency Team, ORG, 1
+Little Big Day, DATE, 1
+300km, QUANTITY, 1
+Brian O'Connor, PERSON, 1
+51%, PERCENT, 1
+almost £20bn, MONEY, 1
+22.8bn, MONEY, 1
+Klopp City, GPE, 1
+just 311, CARDINAL, 1
+the last six months, DATE, 1
+18-54, DATE, 1
+between 18 and 54, DATE, 1
+Debbie Chapman, PERSON, 1
+Montenotte Hotel, PERSON, 1
+Covid vaccine RTE, PERSON, 1
+North Minister, NORP, 1
+David Attenborough, PERSON, 1
+67 years, DATE, 1
+A Perfect Planet, WORK_OF_ART, 1
+Up to 600, CARDINAL, 1
+the earliest days, DATE, 1
+George’s St, PERSON, 1
+’ Gwen Layden, WORK_OF_ART, 1
+up to €500,000, MONEY, 1
+Johnny Briggs CORONATION Street’s, PERSON, 1
+ITV’s, ORG, 1
+Briggs, PERSON, 1
+Day IRELAND, PERSON, 1
+BRENDAN Gleeson, PERSON, 1
+St Patric, PERSON, 1
+Headline, PERSON, 1
+Elaine Doyle, PERSON, 1
+Simpson, PERSON, 1
+202, CARDINAL, 1
+1,954, CARDINAL, 1
+Christine Lagarde, PERSON, 1
+Aussie Rules, PERSON, 1
+more than a third, CARDINAL, 1
+9.3 million, CARDINAL, 1
+Kyra King, PERSON, 1
+Courtney Johnson, PERSON, 1
+Partygoers, ORG, 1
+Sarah Everard's, PERSON, 1
+Julia Hartley-Brewer, ORG, 1
+More than 500,000, CARDINAL, 1
+the first quarter of last year, DATE, 1
+Finghin Collins, PERSON, 1
+Music for Galway, FAC, 1
+Association, ORG, 1
+nearly week, DATE, 1
+West Ham, ORG, 1
+Erik Lamela, PERSON, 1
+Sergio Reguilon, PERSON, 1
+Giovani Lo Celso, PERSON, 1
+Una, ORG, 1
+David Breen, PERSON, 1
+Spector, PERSON, 1
+Beatles, GPE, 1
+Garda Jerusalema, PERSON, 1
+the 'worst weekend', DATE, 1
+MEGAN Barton-Hanson, ORG, 1
+Almost 477,700, CARDINAL, 1
+the Department of Social Protection, ORG, 1
+Section 2 of the Criminal Justice (Drug Trafficking) Act 1996, LAW, 1
+Wales, ORG, 1
+Almost 3,000, CARDINAL, 1
+1,919, CARDINAL, 1
+210, PRODUCT, 1
+Kino, PERSON, 1
+Washington Street, FAC, 1
+May 14th Country, DATE, 1
+Corona, GPE, 1
+13bn, MONEY, 1
+Covid disruption, PERSON, 1
+The first eight days, DATE, 1
+Ireland A, FAC, 1
+the last 11 days, DATE, 1
+1,900, MONEY, 1
+21-day, DATE, 1
+just two, CARDINAL, 1
+ITALIAN, NORP, 1
+55pc, ORDINAL, 1
+PPAI, PERSON, 1
+Press, ORG, 1
+24%, PERCENT, 1
+months', DATE, 1
+up to six, CARDINAL, 1
+St Thomas' Hospital, ORG, 1
+Leonie Cornelius, PERSON, 1
+this last year, DATE, 1
+the last full month, DATE, 1
+the middle of summer, DATE, 1
+the middle of the summer, DATE, 1
+Covid This, PERSON, 1
+Lisa Peterson, PERSON, 1
+The Associated Press, ORG, 1
+Postmortems, NORP, 1
+26 today, TIME, 1
+Ciara Doherty, ORG, 1
+the Rotunda Hospital, FAC, 1
+Malta, GPE, 1
+Covid ban Cork, PERSON, 1
+Brexit Infrastructure, ORG, 1
+Aecom, ORG, 1
+Angela Merkel CANCELS, ORG, 1
+Jolene, GPE, 1
+the Green Party, ORG, 1
+Cypriot, NORP, 1
+42 per cent, MONEY, 1
+almost a decade ago, DATE, 1
+Almost a year, DATE, 1
+152,200, CARDINAL, 1
+Steven Gerrard, PERSON, 1
+Aramark, GPE, 1
+Frank Gleeson, PERSON, 1
+150.5, CARDINAL, 1
+US Covid, PERSON, 1
+Nenagh, ORG, 1
+another two to three months - Independent.ie, DATE, 1
+the next two to three months, DATE, 1
+1,112, CARDINAL, 1
+1,460, CARDINAL, 1
+75s, CARDINAL, 1
+75-year-olds, DATE, 1
+Around 20, CARDINAL, 1
+Easter - Irish Mirror Online Ireland, ORG, 1
+Hugh, PERSON, 1
+More than 40%, PERCENT, 1
+North Two, LOC, 1
+Lions Tour, ORG, 1
+holiday, DATE, 1
+TV3, GPE, 1
+Hazel Chu, PERSON, 1
+Irish Mirror Online Ireland’s, ORG, 1
+13,171, CARDINAL, 1
+Bonnie Tyler, PERSON, 1
+69, DATE, 1
+SINGER Bonnie Tyler, PERSON, 1
+69-year-old, DATE, 1
+Heartache, ORG, 1
+Derek’s, ORG, 1
+Family-of-five, LAW, 1
+45 minutes, TIME, 1
+Fr John Joe Duffy, WORK_OF_ART, 1
+Mulhuddart, PERSON, 1
+minutes, TIME, 1
+Meyer Turku, ORG, 1
+More than 15 million, CARDINAL, 1
+School, ORG, 1
+Lockdown Three, PERSON, 1
+280, CARDINAL, 1
+her late 90s, DATE, 1
+IHBA Construction, ORG, 1
+Dr Scally, PERSON, 1
+Tokyo Games, FAC, 1
+The Olympic Games, EVENT, 1
+July 23 and end, DATE, 1
+August 8, DATE, 1
+August 24-September 5, DATE, 1
+Adejinmi, PERSON, 1
+Fianna Fáil’s, ORG, 1
+5.6bn, MONEY, 1
+St Stephen’s Green, GPE, 1
+the coming summer, DATE, 1
+Covid variants, PERSON, 1
+9,030, CARDINAL, 1
+Katherine Furman, PERSON, 1
+Coach, ORG, 1
+North Dublin, GPE, 1
+Lusk Community Nursing Unit, ORG, 1
+Coombe hospital, ORG, 1
+37%, PERCENT, 1
+EASTER COVID, ORG, 1
+37 per cent, MONEY, 1
+6,391, CARDINAL, 1
+343, CARDINAL, 1
+’ at Christmas, DATE, 1
+John Sheedy, PERSON, 1
+Wharf, GPE, 1
+Fort Lauderdale, GPE, 1
+AstraZeneca tomorrow, LAW, 1
+390, CARDINAL, 1
+Covid battle - Irish Mirror, PERSON, 1
+less than three weeks, DATE, 1
+UNICEF&#8217;s Ettie Higgins, ORG, 1
+Claire McKeever, PERSON, 1
+Mary Lou McDonald’s ‘, PERSON, 1
+Spiritans, NORP, 1
+Covid Denise Kennerney, PERSON, 1
+Sheriff Street, FAC, 1
+791,531, MONEY, 1
+Business Today, ORG, 1
+between 18 and 64, DATE, 1
+Blathnaid Treacy, ORG, 1
+North More than 600,000, GPE, 1
+880,000, CARDINAL, 1
+Asha CORONATION Street’s, ORG, 1
+Jimmi Harkishin, PERSON, 1
+Tomorrow, DATE, 1
+Election 2020, DATE, 1
+Roy Curtis, PERSON, 1
+Johnny Sexton, PERSON, 1
+Johnny Sexton’s, PERSON, 1
+March 14, DATE, 1
+Ballybrit, GPE, 1
+nearly a half, CARDINAL, 1
+AstraZeneca , PRODUCT, 1
+EU Ireland, GPE, 1
+Humphreys, PERSON, 1
+the Union at Cork University Hospital, ORG, 1
+Covid vaccine , PERSON, 1
+World Sleep Day, EVENT, 1
+March 17th, DATE, 1
+Debbie Webster's, PERSON, 1
+Debbie Webster’s VERY, PERSON, 1
+Kevin’s, PERSON, 1
+Sue Devaney, PERSON, 1
+Blackrock Abbey, ORG, 1
+MORE than 300,000, CARDINAL, 1
+Leaving Cert S, PERSON, 1
+Reno, GPE, 1
+Nevada, GPE, 1
+846, CARDINAL, 1
+Sharon Horgan, PERSON, 1
+Liam Gallagher, PERSON, 1
+Action For Children, ORG, 1
+New ‘day, DATE, 1
+Marianne Faithfull, PERSON, 1
+’ Irish Independent, ORG, 1
+February 26, DATE, 1
+second half of year, DATE, 1
+Some 40,000, CARDINAL, 1
+January, February, DATE, 1
+Tim Cahill, PERSON, 1
+Grayling Properties, ORG, 1
+World, ORG, 1
+New Garda, LOC, 1
+16 year-old, DATE, 1
+Irish Mirror Online Feeling, ORG, 1
+this New Year's Day, EVENT, 1
+5%, PERCENT, 1
+some 238,000, CARDINAL, 1
+Albert Bourla, PERSON, 1
+the EPP Group, ORG, 1
+late November, DATE, 1
+80 next month, DATE, 1
+Peter Andre's, PERSON, 1
+Covid PETER Andre’s, PERSON, 1
+Emily, PERSON, 1
+LEANNE Battersby, PERSON, 1
+Leanne, ORG, 1
+Pieta House Health, ORG, 1
+Arlene Foster Northern Ireland’s, ORG, 1
+Clinical, ORG, 1
+Six-month, DATE, 1
+Post, ORG, 1
+Over 400,000, CARDINAL, 1
+341, CARDINAL, 1
+Swann, ORG, 1
+Jennifer O'Connell, PERSON, 1
+Over 3,000, CARDINAL, 1
+3,484, CARDINAL, 1
+the Health Products Regulatory Authority, ORG, 1
+500km, QUANTITY, 1
+Teachers, ORG, 1
+at least three, CARDINAL, 1
+Independence Day, EVENT, 1
+4 July, DATE, 1
+Cabinet Committee, ORG, 1
+This afternoon, TIME, 1
+1,032, CARDINAL, 1
+the previous 24, DATE, 1
+3 more weeks, DATE, 1
+Commission, GPE, 1
+hundreds of kilometres, QUANTITY, 1
+Champions Cup, EVENT, 1
+the Champions Cup, EVENT, 1
+Outdoor, GPE, 1
+England , LOC, 1
+Blatant, PERSON, 1
+Northern Ireland Michelle, GPE, 1
+€859 million, MONEY, 1
+24/7, CARDINAL, 1
+Gran Turismo, FAC, 1
+Sony, ORG, 1
+North Ministers, GPE, 1
+Christmas Christmas Day, DATE, 1
+8 March Finland, DATE, 1
+Sanna Marin, PERSON, 1
+two or three weeks, DATE, 1
+Dublin HQ Staff, ORG, 1
+Juvenile, PERSON, 1
+Ireland HSE, GPE, 1
+Philip, PERSON, 1
+Inflamed AstraZeneca row, PERSON, 1
+Jurgen Klopp's, PERSON, 1
+Elisabeth, PERSON, 1
+Jurgen Klopp, PERSON, 1
+early April, DATE, 1
+Electrolux, GPE, 1
+more than €540,000, MONEY, 1
+up to 40, CARDINAL, 1
+more than 40pc, CARDINAL, 1
+330k Rolls Royce EX-Coronation Street, PRODUCT, 1
+330,000, MONEY, 1
+Rolls Royce, FAC, 1
+36-year-old, DATE, 1
+Blankets of Hope, ORG, 1
+More than 127 million, CARDINAL, 1
+60%, PERCENT, 1
+Fintan, ORG, 1
+IOU, ORG, 1
+more than 3,000, CARDINAL, 1
+next weekend, DATE, 1
+the end of next week, DATE, 1
+Stephen Donn, PERSON, 1
+DREAM, ORG, 1
+Noel, PERSON, 1
+Ten-year-old, DATE, 1
+Martin Gibson O’Gara, PERSON, 1
+Bridie McCabe’s, ORG, 1
+Bridie, PERSON, 1
+Paud, PERSON, 1
+Max Branning, PERSON, 1
+early morning, TIME, 1
+Niall McNamara, PERSON, 1
+a second Easter, Covid, ORG, 1
+1,293, CARDINAL, 1
+Ronan Glynn - Independent.ie Ireland, PERSON, 1
+21 days, DATE, 1
+Irish Patients Association, ORG, 1
+the Irish Patients Association, ORG, 1
+Almost 400,000, CARDINAL, 1
+IPA, ORG, 1
+Merkel, PERSON, 1
+between 20 and 30, CARDINAL, 1
+McGuinness EU, ORG, 1
+Maireád McGuinness, PERSON, 1
+BBC/, PERSON, 1
+Andrew Marr Show, PERSON, 1
+Almost 800, CARDINAL, 1
+Covid All, PERSON, 1
+1,748, CARDINAL, 1
+December 30th, DATE, 1
+Covid Vaccination, PERSON, 1
+the Residential Tenancies, ORG, 1
+Stephen McWilliams, PERSON, 1
+Ola Jordan’s, PERSON, 1
+Covid crisis OLA Jordan, PERSON, 1
+at least nine months, DATE, 1
+almost 460,000, CARDINAL, 1
+459,921, CARDINAL, 1
+the Armed Forces, ORG, 1
+Adam Idah, PERSON, 1
+9%, PERCENT, 1
+Glastonbury, ORG, 1
+Emily Eavis, PERSON, 1
+210,000, CARDINAL, 1
+the United Nations Covax, ORG, 1
+West Bank, GPE, 1
+more than 30%, PERCENT, 1
+Sinn Féin's, PERSON, 1
+O'Neill, PERSON, 1
+British Army, ORG, 1
+Sinn Fein's, ORG, 1
+20,000, MONEY, 1
+Covid ‘, PERSON, 1
+Daft, ORG, 1
+Covid Laws, PERSON, 1
+Slow Cabins, PERSON, 1
+Sunday’s Six Nations, DATE, 1
+Budapest The Champions League, ORG, 1
+February 24, DATE, 1
+the Puskas Arena, FAC, 1
+Love Island’, WORK_OF_ART, 1
+Fourteen-day, DATE, 1
+Approximately 1,500, CARDINAL, 1
+Ethan Kross, PERSON, 1
+John Kierans, PERSON, 1
+Covid - and, PERSON, 1
+Ozark, GPE, 1
+Atlanta, GPE, 1
+Peaky Blinders, WORK_OF_ART, 1
+Nama’s, ORG, 1
+The National Asset Management Agency, ORG, 1
+71%, PERCENT, 1
+the odd month, DATE, 1
+Roe McDermott, PERSON, 1
+Filomena Kaguako, PERSON, 1
+First Dates, FAC, 1
+the Women’s Podcast 'Big Night, ORG, 1
+7pm on Saturday March 6th, TIME, 1
+Mary McAleese, PERSON, 1
+Tolu Makay, ORG, 1
+Simon Watchorn, PERSON, 1
+the start of 2021, DATE, 1
+3pm this afternoon, TIME, 1
+About 64%, PERCENT, 1
+Surprise Yo-Yo Ma, PERSON, 1
+Yo-Yo Ma , PERSON, 1
+Ms McEntee, PERSON, 1
+Nearly 12 months, DATE, 1
+a second day in a row, DATE, 1
+Empire, GPE, 1
+Thirty minutes later, TIME, 1
+Sports Direct, ORG, 1
+a lost year, DATE, 1
+187,000, MONEY, 1
+Arrest, PERSON, 1
+73, CARDINAL, 1
+Labour’s, ORG, 1
+Aodhán Ó Ríordáin, ORG, 1
+Covid ', PERSON, 1
+more than 2,300, CARDINAL, 1
+3,712, MONEY, 1
+Spads, PERSON, 1
+422,000, CARDINAL, 1
+World View - The Foreign Affairs Podcast - EU Vaccine Rollout: Who's, EVENT, 1
+David McKechnie, PERSON, 1
+more than €36, MONEY, 1
+first 11 months of year, DATE, 1
+Regina Bushell, PERSON, 1
+Bolsonaro, PERSON, 1
+260,000, CARDINAL, 1
+Geoff Metcalfe’s, PERSON, 1
+China Ten WHO, ORG, 1
+Covid DEADLY, PERSON, 1
+CEPI, ORG, 1
+Bloom, PRODUCT, 1
+Aer Lingus urged Government, ORG, 1
+Globally, ORG, 1
+half a trillion dollars, MONEY, 1
+Misinformation, ORG, 1
+Shane Creevy, PERSON, 1
+over a year, DATE, 1
+Some 3,000, CARDINAL, 1
+David Hall, PERSON, 1
+475,360, CARDINAL, 1
+Musicians, ORG, 1
+the Music & Entertainment Association, ORG, 1
+MEAI, ORG, 1
+around 5,000, CARDINAL, 1
+FTSE, ORG, 1
+0.2%, PERCENT, 1
+the next day, DATE, 1
+Covid-compromised, PERSON, 1
+8220;We&#8217;re, MONEY, 1
+Nearly 200,000, CARDINAL, 1
+Michael Ring, PERSON, 1
+Jamie Dornan, PERSON, 1
+JAMIE Dornan, PERSON, 1
+73 on Monday, DATE, 1
+38-year-old, DATE, 1
+Skibbereen, CARDINAL, 1
+the State Daily, ORG, 1
+as low as 100, CARDINAL, 1
+Humphrey, PERSON, 1
+82pc, ORDINAL, 1
+Bill The Cabinet, WORK_OF_ART, 1
+4,500, CARDINAL, 1
+About 4,500, CARDINAL, 1
+€40m, MONEY, 1
+5,564, CARDINAL, 1
+More than 5,500, CARDINAL, 1
+over 2,000, CARDINAL, 1
+the age of 65, DATE, 1
+HOUR &, ORG, 1
+the National Women's Council, ORG, 1
+754, CARDINAL, 1
+almost five, CARDINAL, 1
+almost six, CARDINAL, 1
+Six months, DATE, 1
+Angela Merkel's, PERSON, 1
+Josh Dunne, PERSON, 1
+1.24, CARDINAL, 1
+ONLY 1.1 million, CARDINAL, 1
+1.24 million, CARDINAL, 1
+Nearly 500,000, CARDINAL, 1
+GP Family, PRODUCT, 1
+Holohan CMO, PERSON, 1
+Peter Foley - Independent.ie, PERSON, 1
+More than 15,000, CARDINAL, 1
+Susan Boyle, PERSON, 1
+The Sun’s Jabs Army, ORG, 1
+504, CARDINAL, 1
+North ‘Interim, LOC, 1
+North, Republic, GPE, 1
+last Wednesday, DATE, 1
+SIPTU Health Divisional Organis, ORG, 1
+Large Garda, PERSON, 1
+Socialists, NORP, 1
+53 per cent, MONEY, 1
+Balkans, LOC, 1
+Merkel A, ORG, 1
+Scott Sinclair’s, ORG, 1
+32nd, ORDINAL, 1
+Yew, PERSON, 1
+the Women’s, ORG, 1
+over-85-year-olds, DATE, 1
+Midlands Prison Prison Officers Association, FAC, 1
+Kinahan, NORP, 1
+last Saturday, DATE, 1
+Kelsey Townsend, ORG, 1
+Madison, GPE, 1
+28 January, DATE, 1
+60 minutes, TIME, 1
+Rita Ora’s, ORG, 1
+Ovaltine, GPE, 1
+more than 50, CARDINAL, 1
+many thousands, CARDINAL, 1
+Hospitality, ORG, 1
+102%, PERCENT, 1
+Auckland, NORP, 1
+3,674, CARDINAL, 1
+132, CARDINAL, 1
+Iain Henderson, PERSON, 1
+almost €4tn, MONEY, 1
+Just over a million, CARDINAL, 1
+Hyannis Port, FAC, 1
+Red C, ORG, 1
+St Vincent de Paul, PERSON, 1
+Central, LOC, 1
+Páirc Uí Chaoimh, FAC, 1
+Matthew Dinneen, PERSON, 1
+Michael Fry, PERSON, 1
+more than 20, CARDINAL, 1
+Carl O’Brien, PERSON, 1
+8km, QUANTITY, 1
+first year, DATE, 1
+an unusual first year, DATE, 1
+Shelley, PERSON, 1
+Galtié, GPE, 1
+more than half a million, CARDINAL, 1
+Israelis, NORP, 1
+Fuad Hussein, PERSON, 1
+Iraqis, NORP, 1
+quarterly, DATE, 1
+the fourth quarter of last year, DATE, 1
+Mary, ORG, 1
+Irish Mirror Online Soap, ORG, 1
+Mary Taylor, PERSON, 1
+Tracy McDonald, PERSON, 1
+Kate Ford, PERSON, 1
+Backgrounder, PERSON, 1
+eight years, DATE, 1
+Hugh Wallace - Independent.ie, PERSON, 1
+Hugh Wallace, PERSON, 1
+Verona Murphy, PERSON, 1
+Independent TD Verona Murphy, ORG, 1
+Irish Catholic, ORG, 1
+Soviet-era, DATE, 1
+Liverpool FA Cup, ORG, 1
+Dean Smith’s, ORG, 1
+PM, PERSON, 1
+BBC Radio 4’s Today, ORG, 1
+1.1 per cent, MONEY, 1
+2.4 per cent, MONEY, 1
+the start of December, DATE, 1
+'summer, DATE, 1
+the Leaving Cert - Independent.ie, WORK_OF_ART, 1
+January last year, DATE, 1
+final-year, DATE, 1
+Lee Stafford LOCKDOWN, PERSON, 1
+Lee Stafford, PERSON, 1
+Old Trafford, FAC, 1
+Manchester United, GPE, 1
+Ashley Grimes, PERSON, 1
+Anti-Corruption Ireland, ORG, 1
+€2.5 billion, MONEY, 1
+One quarter, DATE, 1
+Dublin Tánaiste, ORG, 1
+1,621, CARDINAL, 1
+the Social Impact, ORG, 1
+ESRI &#8211, ORG, 1
+Fhéile Pádraig, PERSON, 1
+Uachtarán, ORG, 1
+D., NORP, 1
+Saidhbhín, ORG, 1
+Baile Átha Cliath, PERSON, 1
+TWENTY-six, CARDINAL, 1
+European Union Health, ORG, 1
+’ - Eamonn, DATE, 1
+Susanna Reid', PERSON, 1
+Twitter he̵, LAW, 1
+Forrest Gump, ORG, 1
+6,000 square metre, QUANTITY, 1
+march 5th, DATE, 1
+Covid Effective, PERSON, 1
+Nigerian, NORP, 1
+Noel King, PERSON, 1
+the Women’s National League NOEL KING, ORG, 1
+the Irish Heart Foundation, ORG, 1
+Camilla, ORG, 1
+an outdoor summer, DATE, 1
+the next five days, DATE, 1
+the era of, DATE, 1
+Lockdown One, PRODUCT, 1
+anti-Covid, PERSON, 1
+Orlando Bloom’s, ORG, 1
+a second consecutive day, DATE, 1
+79pc, ORDINAL, 1
+197,553, CARDINAL, 1
+Ireland Nphet, GPE, 1
+Politicians, NORP, 1
+The Passport Service, ORG, 1
+13,500, CARDINAL, 1
+86%, PERCENT, 1
+the Women’s Prize for Fiction, ORG, 1
+Naoise Dolan, PERSON, 1
+Kathleen MacMahon, PERSON, 1
+Booker Prize, PERSON, 1
+Bernardine Evaristo, PERSON, 1
+Independent Scientific Advocacy Group, ORG, 1
+1tn, MONEY, 1
+UK Six, EVENT, 1
+Marcelo Rebelo de Sousa, PERSON, 1
+Andrew Quinn, PERSON, 1
+around 10,000, CARDINAL, 1
+every year, DATE, 1
+74, DATE, 1
+June of last year, DATE, 1
+Over 90%, PERCENT, 1
+ISIF, ORG, 1
+1859, DATE, 1
+Lemon & Duke, ORG, 1
+8,313, CARDINAL, 1
+Randox’s, ORG, 1
+next-day, DATE, 1
+38pc, ORDINAL, 1
+24.6bn, MONEY, 1
+Castle Ward, GPE, 1
+Middle Eastern, NORP, 1
+The Middle East, LOC, 1
+Peter Sutcliffe’s, PERSON, 1
+More than 640, CARDINAL, 1
+MORE than 640, CARDINAL, 1
+St James’s Hospital, PERSON, 1
+more than two-thirds, CARDINAL, 1
+Just 56,000, CARDINAL, 1
+more than 170,000, CARDINAL, 1
+Tenerife, NORP, 1
+Government Cabinet, PERSON, 1
+Warning, PERSON, 1
+Bantry House, ORG, 1
+another 6 weeks & ', DATE, 1
+six or seven weeks, DATE, 1
+Dr Catherine, PERSON, 1
+years - Irish Mirror Online, DATE, 1
+at least 10%, PERCENT, 1
+up to 250,000, CARDINAL, 1
+Government Ireland’s, GPE, 1
+Covid ICU, PERSON, 1
+the beginning of January, DATE, 1
+Rebel Wilson’s, ORG, 1
+18kg, QUANTITY, 1
+95%, PERCENT, 1
+2.7 per cent, MONEY, 1
+Almost 350,000, CARDINAL, 1
+the European Medicine Agency’s, ORG, 1
+6pm curfew, TIME, 1
+Ireland’, FAC, 1
+December 22, DATE, 1
+More than 60%, PERCENT, 1
+HAP, ORG, 1
+Homeless, NORP, 1
+Simon Communities, PERSON, 1
+Engelbert Humperdinck's, PERSON, 1
+Longford GALWAY City, PERSON, 1
+1,292, CARDINAL, 1
+Galway City Central, ORG, 1
+City East, LOC, 1
+a Department of Foreign Affairs, ORG, 1
+More than 30 million, CARDINAL, 1
+3,527,481, CARDINAL, 1
+33,678,768, CARDINAL, 1
+over 170,000, CARDINAL, 1
+LIVERPOOL, ORG, 1
+Jose Agostinho Becker, PERSON, 1
+Day Garda, PERSON, 1
+Nolan - Independent.ie, PERSON, 1
+over 13,000 fines, QUANTITY, 1
+Golden Globe Awards 2021, ORG, 1
+Chadwick Boseman, PERSON, 1
+Luke O'Neill, PERSON, 1
+1918-19, DATE, 1
+Keith Barry, PERSON, 1
+the Department of Agriculture - Independent.ie ', ORG, 1
+John Doe', PERSON, 1
+the darkest month, DATE, 1
+the darkest hour, TIME, 1
+Dublin’s Grand Canal, ORG, 1
+Manchester, PERSON, 1
+Lucy Mecklenburgh, PERSON, 1
+mid year, DATE, 1
+Donohoe Minister, PERSON, 1
+Europe Restrictions, LOC, 1
+Schengen, PERSON, 1
+Watchdog, PERSON, 1
+Tommy Cawley, PERSON, 1
+Bellmullet, ORG, 1
+Tommy, PERSON, 1
+Russians, NORP, 1
+68-year-old, DATE, 1
+year to, DATE, 1
+20-week, DATE, 1
+Rotunda, PERSON, 1
+136, CARDINAL, 1
+the fifth day, DATE, 1
+The High Court, ORG, 1
+Insurer FBD, PERSON, 1
+EU Johnson & Johnson, ORG, 1
+55 million, CARDINAL, 1
+the second quarter of the year, DATE, 1
+Nancy Pelosi, GPE, 1
+the US House, ORG, 1
+Phoenix Park, FAC, 1
+Wellington, GPE, 1
+Cabin, PERSON, 1
+Freddie, ORG, 1
+Freddie, PERSON, 1
+Jade Goody, PERSON, 1
+Gibraltar Gibraltar, ORG, 1
+Prada, ORG, 1
+’ For Coillte, WORK_OF_ART, 1
+Martin The Cabinet, PERSON, 1
+Midlands Prison, GPE, 1
+Midlands Prison, LOC, 1
+Sam Bennett, PERSON, 1
+a few years, DATE, 1
+Cyclist, NORP, 1
+Texas Chainsaw - Independent.ie, ORG, 1
+Bolivian, NORP, 1
+70 hours, TIME, 1
+Openness, ORG, 1
+Tanaiste Leo Varadkar, PERSON, 1
+an additional 901, CARDINAL, 1
+Dublin International Film Festival: ‘We, ORG, 1
+the Dublin International Film Festival, ORG, 1
+Storm Emma, PERSON, 1
+James McInerney, PERSON, 1
+Last summer, DATE, 1
+Lilly Higgins, PERSON, 1
+1990, DATE, 1
+the National Archives, ORG, 1
+20-year, DATE, 1
+Darina Allen's, PERSON, 1
+St Anton am, PERSON, 1
+Arlberg, PERSON, 1
+BRAZIL’s, ORG, 1
+Covid explosion, PERSON, 1
+Some 41,346, CARDINAL, 1
+3,35, CARDINAL, 1
+Irishmirror.ie, ORG, 1
+this week January 21st-27th, DATE, 1
+Winter Nights, EVENT, 1
+Samuel Beckett, PERSON, 1
+Karl Spain, PERSON, 1
+340,000, CARDINAL, 1
+Royal Hospital Donnybrook Outbreaks, ORG, 1
+193, CARDINAL, 1
+Cornwall, ORG, 1
+Late April, DATE, 1
+Ana Paula Faria, PERSON, 1
+1,012, CARDINAL, 1
+4th, ORDINAL, 1
+Tara Boyle, PERSON, 1
+another hard week, DATE, 1
+the Red Death – Rediscovering, ORG, 1
+1964, DATE, 1
+15,314, CARDINAL, 1
+BT Young Scientist Exhibition 2021 - Independent.ie, ORG, 1
+the BT Young Scientist and Technology Exhibition, ORG, 1
+17, DATE, 1
+279, CARDINAL, 1
+Ursula von, NORP, 1
+Turner & Townsend, ORG, 1
+Operation Transformation, ORG, 1
+Covid - Irish Mirror Online Exclusive, ORG, 1
+Sumi Dunne, PERSON, 1
+Unilever, ORG, 1
+3% to 5%, PERCENT, 1
+€55m, MONEY, 1
+the National Vaccination Programme, ORG, 1
+Schools, ORG, 1
+Cantillon, ORG, 1
+TIMES, ORG, 1
+The Irish Times Women's Podcast - Ep 461, ORG, 1
+the longest year, DATE, 1
+The Women’s Podcast, ORG, 1
+The year 2020, DATE, 1
+Black Lives Matter, LAW, 1
+Baby Home, ORG, 1
+Catherine Motherway, PERSON, 1
+Olwen Fouéré, PERSON, 1
+Black Lives Matter)https://soundcloud.com, ORG, 1
+Fat Cow, PERSON, 1
+Fat Chance - Jenni Murrayhttps://soundcloud.com/irishtimes-women/ep-423-fat-cow-fat-chanceEp, PERSON, 1
+Records, ORG, 1
+446, CARDINAL, 1
+US Election, ORG, 1
+John Brennan, PERSON, 1
+Park Hotel, ORG, 1
+CANNOT, PERSON, 1
+3am, TIME, 1
+almost 2,000, CARDINAL, 1
+Ofcom, ORG, 1
+Michael Mosley, PERSON, 1
+3bn, MONEY, 1
+& 3, CARDINAL, 1
+the Wellington Monument, FAC, 1
+the Living With Covid, WORK_OF_ART, 1
+Chelsea, PERSON, 1
+’ St Vincent's Hospital, WORK_OF_ART, 1
+JO Whiley, PERSON, 1
+Radio 2, ORG, 1
+a matter of hours, TIME, 1
+34,000, CARDINAL, 1
+Teigen, ORG, 1
+Jerusalema Challenge, PERSON, 1
+Jersalema Challenge, ORG, 1
+Dublin Airport, ORG, 1
+Covid - Irish Mirror Online EXCLUSIVE, ORG, 1
+MCD Productions, ORG, 1
+THE weekend of February 6, DATE, 1
+2,877, CARDINAL, 1
+Buyer, PERSON, 1
+Corey ASHA, PERSON, 1
+Nina, GPE, 1
+Maximus Evans, PERSON, 1
+1,575, CARDINAL, 1
+the sixth day in a row, DATE, 1
+Over half, CARDINAL, 1
+the Global Drugs Survey, ORG, 1
+Far East, LOC, 1
+Finn, PERSON, 1
+under-45, DATE, 1
+Gemma O’Doherty, PERSON, 1
+Gemma O'Doherty's, PERSON, 1
+De Gea, PERSON, 1
+Hammers, ORG, 1
+Ole Gunnar Solksjaer, PERSON, 1
+LAST night, TIME, 1
+Seamus McCormack's, PERSON, 1
+Dancing, GPE, 1
+Seamus, GPE, 1
+Veronica, PERSON, 1
+Dan Murphy’s, PERSON, 1
+NMH, ORG, 1
+6 months, DATE, 1
+’ - Arnie, WORK_OF_ART, 1
+Arnold Schwarzenegger, PERSON, 1
+73-year-old, DATE, 1
+@Schwarzen, ORG, 1
+The Irish Times Women's Podcast - Ep 488 Brain, ORG, 1
+Beating Brain Fog:, WORK_OF_ART, 1
+Sabina Brennan, PERSON, 1
+Brennan, PERSON, 1
+Joanna Leszczuk, PERSON, 1
+Jack Clifford, PERSON, 1
+Mona Carlisle, PERSON, 1
+a couple of weeks, DATE, 1
+Republic Eleven, ORG, 1
+an additional 14, CARDINAL, 1
+an additional 543, CARDINAL, 1
+Republic, ORG, 1
+3 months, DATE, 1
+Early morning, TIME, 1
+Shanahan, GPE, 1
+about two weeks ago, DATE, 1
+his mid-70s, DATE, 1
+Reynolds, ORG, 1
+Michael Reynolds, PERSON, 1
+June Fianna Fáil, PERSON, 1
+McEntee - Independent.ie, PERSON, 1
+three to four week, DATE, 1
+Hickey, PERSON, 1
+Situation, PERSON, 1
+Foster Michelle, PERSON, 1
+Covid Chronicles, PERSON, 1
+Childline, PERSON, 1
+Lee Daly, PERSON, 1
+the past three days, DATE, 1
+Last weekend's, DATE, 1
+Dublin City Centre, GPE, 1
+Andy Friend, PERSON, 1
+Connacht’s Leinster, ORG, 1
+Northern Ireland Hospitals, GPE, 1
+€500 fines, MONEY, 1
+Ireland &#, ORG, 1
+Dublin Garda, ORG, 1
+CervicalCheck, ORG, 1
+WORSE, ORG, 1
+Covid MONKEY, PERSON, 1
+St Stephen’s Green, PERSON, 1
+Japan City, GPE, 1
+1,300, CARDINAL, 1
+€8.5 billion, MONEY, 1
+Investec, NORP, 1
+Years, DATE, 1
+2010-2019, DATE, 1
+decade, DATE, 1
+Over 34,400, CARDINAL, 1
+818,000, CARDINAL, 1
+up to $1,400, MONEY, 1
+the darkest days, DATE, 1
+COMMUNITY, ORG, 1
+Spoonville, GPE, 1
+Benchspace Cork, ORG, 1
+Leo Varadkar - Independent.ie, PERSON, 1
+over €6.3bn, MONEY, 1
+€11.5 billion, MONEY, 1
+over 850,000, CARDINAL, 1
+David Metcalfe, PERSON, 1
+David Metcalfe’s, PERSON, 1
+three to 88, CARDINAL, 1
+the last minute, TIME, 1
+Noteworthy, ORG, 1
+early December, DATE, 1
+Graham Fry, PERSON, 1
+Lead Medical Consultant, ORG, 1
+the Tropical Medicine Bureau, ORG, 1
+Covid Anniversary, PERSON, 1
+Zara McDermott, PERSON, 1
+almost 28,000, CARDINAL, 1
+Tokyo Olympics Decision, EVENT, 1
+Arbour Hill, FAC, 1
+June - Martin Easing, PERSON, 1
+BRITAIN, GPE, 1
+second week of year, DATE, 1
+Denis McDonald, PERSON, 1
+Mullingar, PERSON, 1
+TWENTY-three, CARDINAL, 1
+over 400, CARDINAL, 1
+Frontline Valentine's, WORK_OF_ART, 1
+Sligo, GPE, 1
+those glum days, DATE, 1
+€10m, MONEY, 1
+Covid surge - Independent.ie Hospitals, PERSON, 1
+Bubbles, GPE, 1
+Covid London Letter, PERSON, 1
+Weatherfield’s, ORG, 1
+Mavis Riley, PERSON, 1
+26 yea, MONEY, 1
+McGrath - Independent.ie, PERSON, 1
+Cork Garda, PERSON, 1
+41 years, DATE, 1
+Some 55%, PERCENT, 1
+Growing Up, GPE, 1
+Johnny Connor, PERSON, 1
+JOHNNY Connor, ORG, 1
+Almost 500,000, CARDINAL, 1
+Logan Ury, PERSON, 1
+Hinge, NORP, 1
+PROTESTOR, ORG, 1
+11th, ORDINAL, 1
+Syndicate, ORG, 1
+below 100 as 401, CARDINAL, 1
+99, CARDINAL, 1
+Parks, PERSON, 1
+Loughan House Open Centre, ORG, 1
+the Irish Prison Service, ORG, 1
+Pep, PERSON, 1
+234, CARDINAL, 1
+Tenerife - Irish Mirror Online, ORG, 1
+John McClean, PERSON, 1
+Dan Carter’s, PERSON, 1
+Harry Byrne, PERSON, 1
+almost 1,000, CARDINAL, 1
+Monday week, DATE, 1
+Covid outbreaks - Siptu - Independent.ie, PERSON, 1
+Mike Ryan - Independent.ie Mental, PERSON, 1
+Kingspan, PERSON, 1
+SIG, ORG, 1
+Kingspan, GPE, 1
+the Department of Agriculture, ORG, 1
+Cornwall, PERSON, 1
+430 miles, QUANTITY, 1
+Citywest, GPE, 1
+€750,000, MONEY, 1
+Landmark Dublin, ORG, 1
+PADDY’S, ORG, 1
+Joe Ward, PERSON, 1
+’ Jan, DATE, 1
+the hardest days, DATE, 1
+University Hospital Kerry, ORG, 1
+last September, DATE, 1
+an extra week, DATE, 1
+CRH, ORG, 1
+the fourth quarter, DATE, 1
+Covid vaccines - Independent.ie, PERSON, 1
+THOUGHTFUL, ORG, 1
+Paul Ryan, PERSON, 1
+Greystones, GPE, 1
+’ January, DATE, 1
+Dublin Airport -, FAC, 1
+Kiernan Wong, PERSON, 1
+Edinburgh Airport, FAC, 1
+The Galway City Central Local Electoral Area, ORG, 1
+767.7, CARDINAL, 1
+the two weeks to last Monday, DATE, 1
+Images, GPE, 1
+Eamon McCourt, PERSON, 1
+Jacqueline Jossa ', PERSON, 1
+Jacqueline Jossa, PERSON, 1
+The NI Department of Health, ORG, 1
+Derek KATE, PERSON, 1
+DCU, ORG, 1
+Tánaiste Restrictions, ORG, 1
+Francesco Pelle, PERSON, 1
+Calabria, GPE, 1
+Connolly Hospital, ORG, 1
+Decline, PERSON, 1
+Myanmar, GPE, 1
+Myawaddy TV, ORG, 1
+last November’s, DATE, 1
+Pascal Soriot, PERSON, 1
+Banks, PERSON, 1
+12 years, DATE, 1
+BPFI, GPE, 1
+Downing Street, ORG, 1
+Derry’s, ORG, 1
+21st-century, DATE, 1
+Andy McNulty, PERSON, 1
+TEK United, ORG, 1
+Leinster Senior League, ORG, 1
+at least one month, DATE, 1
+January 31st, DATE, 1
+1945, DATE, 1
+3,780, CARDINAL, 1
+Covid deaths Country’s, ORG, 1
+Initiative, ORG, 1
+The Irish Medical Organisation, ORG, 1
+the &#8220;rapid, ORG, 1
+Formula, PERSON, 1
+43%, PERCENT, 1
+Sport, ORG, 1
+€727 million, MONEY, 1
+Liberty Media, ORG, 1
+Will Mellor CORONATION Street’s, ORG, 1
+TEENAGER, ORG, 1
+Some 31, CARDINAL, 1
+30 seconds, TIME, 1
+Booterstown, PERSON, 1
+Niamh Reilly, PERSON, 1
+Some 5,000, CARDINAL, 1
+2,400, CARDINAL, 1
+Covid 19, PERSON, 1
+Stars, PERSON, 1
+Twenty-one, CARDINAL, 1
+2,103, CARDINAL, 1
+just under 100, CARDINAL, 1
+a fortnight ago, DATE, 1
+Southern, NORP, 1
+Paschal Sheehy, PERSON, 1
+BLOCK Bruno Fernandes, ORG, 1
+Prem, ORG, 1
+Azerbai, ORG, 1
+4-year, DATE, 1
+Easter Coronavirus, ORG, 1
+Yasmeen’s, ORG, 1
+Carla Connor’s, ORG, 1
+Geoff’s, ORG, 1
+the same week, DATE, 1
+Sandyford, GPE, 1
+COVID - Irish Mirror Online, ORG, 1
+the Bill wasn&#8217;t, LAW, 1
+Inditex, ORG, 1
+around 15%, PERCENT, 1
+No fall, DATE, 1
+North’s, LOC, 1
+Dun Laoghaire, ORG, 1
+Patrick Finlay, PERSON, 1
+Sligo, ORG, 1
+New Year's Day, 2020, EVENT, 1
+Sligo GAA, PERSON, 1
+65%, PERCENT, 1
+annual fall, DATE, 1
+pre-Brexit, PERSON, 1
+South Korea, GPE, 1
+The Dancing With The St…, WORK_OF_ART, 1
+Controversial University College Dublin, ORG, 1
+Covid British, PERSON, 1
+millions of pounds, MONEY, 1
+At least 4,000, CARDINAL, 1
+five week, DATE, 1
+THE National Public Health Emergency Team, ORG, 1
+up to 1,500, CARDINAL, 1
+Maharashtra, NORP, 1
+Union, ORG, 1
+Sorcha, PERSON, 1
+Free Legal Advice Centre, ORG, 1
+Jennifer Rothwell, PERSON, 1
+under 65s, DATE, 1
+Covid Donnelly, PERSON, 1
+the last three months, DATE, 1
+Sunshine State, GPE, 1
+24 per cent, MONEY, 1
+Oliver LEANNE Battersby, PERSON, 1
+SSIA, ORG, 1
+5bn, MONEY, 1
+Ireland Air, ORG, 1
+Gareth Kane, PERSON, 1
+David Keenan, PERSON, 1
+October 2020, DATE, 1
+Irish Kidney Association, ORG, 1
+Organ Donor Awareness Week, ORG, 1
+19,000, CARDINAL, 1
+Ella Roberts, PERSON, 1
+Aveley, GPE, 1
+Covid Health, ORG, 1
+Freedom Ireland, GPE, 1
+St Anton, PERSON, 1
+up to €2,180, MONEY, 1
+’m, NORP, 1
+Coronation Street , LOC, 1
+six years, DATE, 1
+Cork, PERSON, 1
+389, CARDINAL, 1
+State Department, ORG, 1
+ANAL, ORG, 1
+the State Department, ORG, 1
+Baltimore, GPE, 1
+Maryland, GPE, 1
+more than 93 million, CARDINAL, 1
+Menopause, ORG, 1
+Almost half a million, CARDINAL, 1
+the Fifth Horseman, PRODUCT, 1
+Matt Proudfoot, PERSON, 1
+Euro, FAC, 1
+Tuesday, February 16, 2021, DATE, 1
+Angela Burke, PERSON, 1
+Time, ORG, 1
+Louise Byrne, PERSON, 1
+a sunny, MONEY, 1
+South Leinster, ORG, 1
+Cork University Hospital ‘, ORG, 1
+Leinster House, GPE, 1
+February 8 and 9, DATE, 1
+The Irish Fiscal Advisory Council, ORG, 1
+Nearly 58,000, CARDINAL, 1
+About 335,600, CARDINAL, 1
+Monday, March 1 after months, DATE, 1
+GoMo, PRODUCT, 1
+this week’, DATE, 1
+Some 10,000, CARDINAL, 1
+a Fine Gael Junior, ORG, 1
+’ Wedding Band Association, ORG, 1
+the worst days, DATE, 1
+Patrick Coveney, PERSON, 1
+Ikea, ORG, 1
+11,700, CARDINAL, 1
+Almost one-third, CARDINAL, 1
+Mexico Covid, ORG, 1
+33%, PERCENT, 1
+Villa v Everton, ORG, 1
+Villa, ORG, 1
+Kennedy Wilson, PERSON, 1
+2,599, MONEY, 1
+Roaring Twenties - Irish Mirror Online Oasis, ORG, 1
+Covid IT’S, PERSON, 1
+a tough 12 months, DATE, 1
+Covid spread - Irish Mirror Online Government, PERSON, 1
+NPHET - Irish Mirror Online, ORG, 1
+AGAIN, ORG, 1
+Tánaiste Varadkar, ORG, 1
+ESA, ORG, 1
+the European Space Agency, ORG, 1
+about half, CARDINAL, 1
+Another year, DATE, 1
+Colm Henry - Independent.ie, PERSON, 1
+last 10 days, DATE, 1
+Ireland HEALTH, FAC, 1
+over 200, CARDINAL, 1
+18-24, DATE, 1
+Nollaig, PERSON, 1
+mBan, ORG, 1
+the end of winter, DATE, 1
+Behavioural, ORG, 1
+Seamus Heaney, PERSON, 1
+4,534, CARDINAL, 1
+Slow, PERSON, 1
+more than 70, CARDINAL, 1
+MYSTERIOUS, ORG, 1
+Covid DID, PERSON, 1
+the following six weeks, DATE, 1
+an additional 7,836, CARDINAL, 1
+2,299, CARDINAL, 1
+Andrea Smith, PERSON, 1
+14,229, CARDINAL, 1
+a single week, DATE, 1
+5.0%, PERCENT, 1
+this time 12 months ago, DATE, 1
+8pm, TIME, 1
+Covid , PERSON, 1
+€18bn, DATE, 1
+last year - Independent.ie Irish Government, DATE, 1
+1bn, MONEY, 1
+13pc, CARDINAL, 1
+almost €1bn, MONEY, 1
+the Irish Venture Capital Association, ORG, 1
+IVCA, ORG, 1
+Holy Ghost Fathers, ORG, 1
+the BreastCheck Programme, ORG, 1
+Granard, PERSON, 1
+Ballymun, PERSON, 1
+the Dingle Peninsula, LOC, 1
+nine months, DATE, 1
+Coronation Street - News, FAC, 1
+1960, DATE, 1
+Newstalk, GPE, 1
+Ellen DeGeneres, PERSON, 1
+Madonna, PERSON, 1
+Wild Mountain Thyme, LOC, 1
+St Vincent's Private, PERSON, 1
+Manchester yesterday, DATE, 1
+100th day, DATE, 1
+Ciaran Hancock - When, PERSON, 1
+the second quarter of 2021, DATE, 1
+John Galligan, PERSON, 1
+the Irish Hotels Federation, ORG, 1
+Fitzgerald Kane, PERSON, 1
+Rebel City, GPE, 1
+Discovering Cork, ORG, 1
+Ethel Crowley, PERSON, 1
+Covid Measures, PERSON, 1
+Romeo & Juliet, ORG, 1
+end-2022, DATE, 1
+1.75bn, MONEY, 1
+early June, DATE, 1
+2.1bn, MONEY, 1
+The Department of Finance, ORG, 1
+€2.1 billion, MONEY, 1
+€2.7 billion, MONEY, 1
+18 per cent, MONEY, 1
+FF, ORG, 1
+Daphne, PERSON, 1
+Sally - Irish Mirror Online PICTURE EXCLUSIVE, ORG, 1
+Sally Dynevor, PERSON, 1
+Tibetan, NORP, 1
+National Hugging Day, EVENT, 1
+65 million, CARDINAL, 1
+19 million, CARDINAL, 1
+eight million, CARDINAL, 1
+Reading Prison, ORG, 1
+Create Escape, PERSON, 1
+The One Show, WORK_OF_ART, 1
+Arsenal’s, ORG, 1
+The Irish Sun FOR, ORG, 1
+The Department, ORG, 1
+the European Centre for Disease Control & Prevention, ORG, 1
+the previous 72 hours, TIME, 1
+Govt’s, ORG, 1
+Credit Guarantee Scheme, ORG, 1
+the Department of Enterprise, ORG, 1
+240.4, CARDINAL, 1
+Some 41, CARDINAL, 1
+Alan Harris, PERSON, 1
+39%, PERCENT, 1
+Clondalkin, PERSON, 1
+BirdWatch Ireland, GPE, 1
+450, CARDINAL, 1
+20 per cent, MONEY, 1
+€143.8 million, MONEY, 1
+ten weeks, DATE, 1
+just nine days, DATE, 1
+70 days later, DATE, 1
+ICCL, ORG, 1
+Fifty-two, CARDINAL, 1
+Pregnancy, PERSON, 1
+BioNtech, ORG, 1
+Grim, ORG, 1
+Christmas week, DATE, 1
+Meghan Markle's, PERSON, 1
+MEGHAN Markle’s, ORG, 1
+Oprah Winfrey, PERSON, 1
+Covid-19.French, NORP, 1
+Three weeks later, DATE, 1
+two days', DATE, 1
+under 25, DATE, 1
+John Riordan, PERSON, 1
+1,846, CARDINAL, 1
+Irish-American, NORP, 1
+Launch, NORP, 1
+heritage month, DATE, 1
+Vladimir Rodikov, PERSON, 1
+Diana Rodikova, PERSON, 1
+Mark Wright, PERSON, 1
+91-year old, DATE, 1
+Covid US, PERSON, 1
+just over 20 minutes, TIME, 1
+Up to 2,500, CARDINAL, 1
+One-quarter, DATE, 1
+December 20th, DATE, 1
+Covid Placentitis, PERSON, 1
+Garda, GPE, 1
+500,000, MONEY, 1
+Garda College, ORG, 1
+Templemore, ORG, 1
+Chris Fitzpatrick, PERSON, 1
+46k, CARDINAL, 1
+46,000, CARDINAL, 1
+Shankill Road, WORK_OF_ART, 1
+Food and Drug Administration, ORG, 1
+CNBC, ORG, 1
+AI, ORG, 1
+Some 40%, PERCENT, 1
+National Immunisation Advisory Committee, ORG, 1
+Alya Nazir, PERSON, 1
+Yasmeen Metcalfe, PERSON, 1
+Sair Khan, PERSON, 1
+day nine, DATE, 1
+five days earlier, DATE, 1
+4,600 fines, QUANTITY, 1
+TD, ORG, 1
+Mary Clarke, PERSON, 1
+John Wilson, PERSON, 1
+the Weekend:, DATE, 1
+90MILLION, CARDINAL, 1
+, GPE, 1
+Toyota, ORG, 1
+Les Mans, ORG, 1
+The GR010 Hybrid, WORK_OF_ART, 1
+Rory Gallagher, PERSON, 1
+Fianna, GPE, 1
+the beginning of May., DATE, 1
+a later date, DATE, 1
+66pc, ORDINAL, 1
+the start of last year, DATE, 1
+Heather Humphreys, PERSON, 1
+THE United States, GPE, 1
+the Irish Church, ORG, 1
+British-Swedish, NORP, 1
+first two months of the year, DATE, 1
+€800m, MONEY, 1
+less than same period, DATE, 1
+Noel O'Leary's, PERSON, 1
+Galvin, PERSON, 1
+Cathy Matthews, PERSON, 1
+Tracy, PERSON, 1
+Tracy, GPE, 1
+Cathy, PERSON, 1
+William, PERSON, 1
+Cambridge, GPE, 1
+Ulster University, ORG, 1
+Abigail McGarvey, PERSON, 1
+Nearly 800, CARDINAL, 1
+26pc, ORDINAL, 1
+Southern Europe's, LOC, 1
+Hebei province, GPE, 1
+almost 12 months, DATE, 1
+Victoria Gallardo, PERSON, 1
+The Stormont Executive, ORG, 1
+Barchester Group, ORG, 1
+Emma, PERSON, 1
+Covid Jab, PERSON, 1
+Met Eireann, ORG, 1
+BEVERLEY Callard, ORG, 1
+The Air Corps, ORG, 1
+53%, PERCENT, 1
+18-25, DATE, 1
+5,784, CARDINAL, 1
+Ciaran Hancock - Interview, PERSON, 1
+Dalkey, ORG, 1
+Twinlite, NORP, 1
+Rick Larkin, PERSON, 1
+around a third, CARDINAL, 1
+Over 180, CARDINAL, 1
+at least 184, CARDINAL, 1
+a third night, TIME, 1
+more than 1 million, CARDINAL, 1
+17.9%, PERCENT, 1
+the four weeks to December 27th, DATE, 1
+Clapham - Irish Mirror Online, ORG, 1
+Clapham Common, PERSON, 1
+Stephen Donnelly’s, PERSON, 1
+first full day, DATE, 1
+his first hours, TIME, 1
+the Oval Office, ORG, 1
+Yasmeen CORONATION Street, ORG, 1
+Duds’ Army, ORG, 1
+Micheál Mainwaring’s, PERSON, 1
+Tova Friedman, PERSON, 1
+Nazi, NORP, 1
+PETER Barlow, PERSON, 1
+Walt Disney Studios, ORG, 1
+Disney, ORG, 1
+Clara Ferreira, PERSON, 1
+Aldi, PERSON, 1
+the Dublin District Court - Criminal Courts of Justice, ORG, 1
+Andrew Pollard, PERSON, 1
+State’s, ORG, 1
+Tom Fletcher's, PERSON, 1
+Tom Fletcher, PERSON, 1
+Covid times - Independent.ie Fine, PERSON, 1
+Cliff at Lyons in Kildare, ORG, 1
+Quarter, CARDINAL, 1
+Bláthnaid Treacy - Independent.ie RTÉ’s, PERSON, 1
+Sarah Richards, PERSON, 1
+Tramore’s, ORG, 1
+Donald, PERSON, 1
+Melania Trump, PERSON, 1
+Melania, GPE, 1
+the White House, FAC, 1
+14, DATE, 1
+Year 9, DATE, 1
+Scotland Nicola Sturgeon, ORG, 1
+Glasgow, GPE, 1
+Robinson, PERSON, 1
+North School, GPE, 1
+DCC, ORG, 1
+next month’s, DATE, 1
+24 years, DATE, 1
+Fiji, GPE, 1
+Fijian, NORP, 1
+More than 4,800, CARDINAL, 1
+MORE than 4,800, CARDINAL, 1
+Belgrade, GPE, 1
+Gresini, PERSON, 1
+Bologna, PERSON, 1
+the Health Information Quality Authority, ORG, 1
+Mick McCarthy, PERSON, 1
+Capital Breakfast, LOC, 1
+Roman Kemp, PERSON, 1
+Anne-Sophie Flury, ORG, 1
+KEMP, ORG, 1
+the I’m A Celeb, ORG, 1
+Women’s, ORG, 1
+Workers, PERSON, 1
+Leicester, FAC, 1
+Lamborghini Man, ORG, 1
+Lamborghini, ORG, 1
+our long year’s, DATE, 1
+John Maguire, PERSON, 1
+Store Street, FAC, 1
+Mattress Mick, PERSON, 1
+Michael Flynn, PERSON, 1
+Chrissie Russell, PERSON, 1
+THE Policing Authority, ORG, 1
+An Garda Siochana, PERSON, 1
+Authority, ORG, 1
+Bo, PERSON, 1
+8220;a, MONEY, 1
+Innovation, ORG, 1
+more than 227,000 days, DATE, 1
+the Guinness Six Nations, ORG, 1
+the Welsh Rugby Union, ORG, 1
+UpdatedUK Government, ORG, 1
+2,332, MONEY, 1
+the 2010s, 2020, DATE, 1
+up to £4,000, MONEY, 1
+Corners Festival, EVENT, 1
+post-Covid world - Independent.ie, LAW, 1
+1973, DATE, 1
+Tim Colleran, PERSON, 1
+Pearse Street Garda Station, FAC, 1
+more than 90pc, CARDINAL, 1
+the Holiday Inn - Independent.ie Lockdown, ORG, 1
+BRAVE, ORG, 1
+Mary Doyle Kent, PERSON, 1
+Aidan Kent, PERSON, 1
+Peta Todd COMFORT, PERSON, 1
+Sainsbury, ORG, 1
+Cristiano Ronaldo, PERSON, 1
+Juventus, ORG, 1
+WW2, GPE, 1
+Vietnam War, EVENT, 1
+Korean War, EVENT, 1
+the Second World War, EVENT, 1
+Korea, GPE, 1
+Vietnam, GPE, 1
+Blue Hall, FAC, 1
+Carrefour, ORG, 1
+Dail, GPE, 1
+SINN Fein, ORG, 1
+Northern Ireland Northern, GPE, 1
+Kerry, ORG, 1
+the Killarney Community Hospital, ORG, 1
+Steve McDonald’s, PERSON, 1
+Simon Gregson, PERSON, 1
+Tim, PERSON, 1
+close to €1 billion, MONEY, 1
+current financial year, DATE, 1
+College American Football, ORG, 1
+Aviva Stadium, ORG, 1
+€70 million, MONEY, 1
+The University of Illinois, ORG, 1
+Nebraska, GPE, 1
+the Aviva Stadium, FAC, 1
+August 28, DATE, 1
+a good six weeks, DATE, 1
+Robbie Williams ', PERSON, 1
+Robbie Williams, PERSON, 1
+January TWO, DATE, 1
+233,937, CARDINAL, 1
+Irel, ORG, 1
+Jose Mourinho, PERSON, 1
+Cafe, ORG, 1
+1,500, MONEY, 1
+Covid - Independent.ie Demand, ORG, 1
+the ninth consecutive day, DATE, 1
+443.8, CARDINAL, 1
+Vitamin D, PERSON, 1
+Daniel McCartney, PERSON, 1
+Covid rules - Independent.ie, PERSON, 1
+Almost six, CARDINAL, 1
+57.1%, PERCENT, 1
+Vogue Williams, PERSON, 1
+Spencer Matthews - Independent.ie, PERSON, 1
+98-year-old, DATE, 1
+Johnson’s, ORG, 1
+Up to 40,000, CARDINAL, 1
+’ - Independent.ie, ORG, 1
+Maverick, PERSON, 1
+Tinseltown, GPE, 1
+The Irish Times Women's Podcast - Ep 470, ORG, 1
+Roisin, GPE, 1
+Laura Kennedy, PERSON, 1
+Erin McGathy, PERSON, 1
+Jen Hogan, PERSON, 1
+Roisin, NORP, 1
+Jan Brierton, PERSON, 1
+A Place In The Sun, WORK_OF_ART, 1
+A Place, WORK_OF_ART, 1
+more than a million, MONEY, 1
+Montenegro Bay, FAC, 1
+the start of 2020, DATE, 1
+Montenegro, GPE, 1
+Adriatic, NORP, 1
+Families, ORG, 1
+MARVIN Humes, ORG, 1
+JLS, PRODUCT, 1
+31, DATE, 1
+Nolan Ireland, PERSON, 1
+the Chair, ORG, 1
+NPHET Epidemiological Modelling Advisory Group , ORG, 1
+Europe Italy’s, LOC, 1
+the start of March, DATE, 1
+Elizabeth, PERSON, 1
+Everton, PERSON, 1
+Everton, ORG, 1
+At least nine, CARDINAL, 1
+Dean Smith, PERSON, 1
+just under five, CARDINAL, 1
+two weeks ago, DATE, 1
+the Kinsale Road Direct, FAC, 1
+Covid Data, PERSON, 1
+Johnny Briggs', PERSON, 1
+Coronation Street, LOC, 1
+Johnny Briggs’, PERSON, 1
+63 EIGHTEEN, CARDINAL, 1
+Covid - listing, PERSON, 1
+Northern Irish, NORP, 1
+Simon Byrne, PERSON, 1
+Dungannon, Co Tyrone, ORG, 1
+two to 85, CARDINAL, 1
+235, CARDINAL, 1
+Kildare, GPE, 1
+an extra €2bn, MONEY, 1
+500k, ORG, 1
+IRELAND, GPE, 1
+3 am, TIME, 1
+Ciara O'Connor's, PERSON, 1
+Ivan Perry, PERSON, 1
+Mycro, ORG, 1
+some 28 years, DATE, 1
+10 minutes, TIME, 1
+Leaving Certs, ORG, 1
+Government U-turn - Independent.ie, GPE, 1
+Elizabeth Brint, PERSON, 1
+310, CARDINAL, 1
+Gardaí Coivd, PERSON, 1
+Northern Ireland Current, GPE, 1
+Nursing, ORG, 1
+The Irish Times Women's Podcast - Ep 463, ORG, 1
+the GAA year, DATE, 1
+This weekend, DATE, 1
+12 months ago, DATE, 1
+Level 5, PRODUCT, 1
+The Central Statistics Office, ORG, 1
+Brown, PERSON, 1
+Tyrone &, ORG, 1
+COVID-19 Ireland, GPE, 1
+McKillen’s Press, ORG, 1
+April 26th, DATE, 1
+Agency, ORG, 1
+Penelope Cruz, PERSON, 1
+JaackMaate, PERSON, 1
+THE EU Commission, ORG, 1
+Naked Festival, WORK_OF_ART, 1
+The Hadaka Matsuri, ORG, 1
+Salisbury Cathedral, ORG, 1
+490,000, CARDINAL, 1
+17%, PERCENT, 1
+Emissions, ORG, 1
+42pc, ORDINAL, 1
+Tuesday last week, DATE, 1
+12-15 year olds, DATE, 1
+100 per cent, MONEY, 1
+12 to 15 year olds, DATE, 1
+Lesley Roy ', PERSON, 1
+SINGER Lesley Roy, PERSON, 1
+102-year-old, DATE, 1
+John Hegarty, PERSON, 1
+Donegal, DATE, 1
+Williamson, PERSON, 1
+Gavin Williamson, PERSON, 1
+Asos, PERSON, 1
+Victoria Beckham's, PERSON, 1
+13, MONEY, 1
+Victoria Beckham, PERSON, 1
+Miami, GPE, 1
+Louise Adams, PERSON, 1
+March 8th, DATE, 1
+10kms, CARDINAL, 1
+Sonny, PERSON, 1
+Russia &, ORG, 1
+MEP Clare Daly, PERSON, 1
+Julian Assange, ORG, 1
+SSE Arena, ORG, 1
+116, CARDINAL, 1
+’ Irish Council of Civil Liberties, ORG, 1
+'week, DATE, 1
+Maura Burke, PERSON, 1
+County Wicklow, PERSON, 1
+Narita Airport, FAC, 1
+Disneyland Paris', FAC, 1
+DISNEYLAND Paris, PERSON, 1
+Emer Currie, PERSON, 1
+Covid - Independent.ie Tributes, ORG, 1
+Social Research Institute, ORG, 1
+Amar Taoualit, PERSON, 1
+some 84,000, CARDINAL, 1
+Nokias - Irish Mirror Online, ORG, 1
+month-old, DATE, 1
+EMILY Brown, PERSON, 1
+Tennessee, GPE, 1
+USA, GPE, 1
+Josh, PERSON, 1
+Tucker, PERSON, 1
+SA, GPE, 1
+92.6%, PERCENT, 1
+St Patricks Day, PERSON, 1
+San Diego Zoo Safari Park, ORG, 1
+Irish Mirror Online Ministers, ORG, 1
+his thirties, DATE, 1
+Kieran Cunliffe, PERSON, 1
+25, DATE, 1
+40 million, CARDINAL, 1
+Wuhan Experts, ORG, 1
+21 weeks ago, DATE, 1
+six-week, DATE, 1
+Meghan Markle, PERSON, 1
+the Golden Globes Drama 'Nomadland', FAC, 1
+the Golden Globes, FAC, 1
+World War, EVENT, 1
+Day Two Wednesday March 17th, DATE, 1
+THE Cheltenham Festival, EVENT, 1
+Ministers, ORG, 1
+next six weeks, DATE, 1
+Skehan, GPE, 1
+Sofie, PERSON, 1
+Idre, ORG, 1
+more than a year, DATE, 1
+weekday, DATE, 1
+Viennese, NORP, 1
+ski season, DATE, 1
+Gruyère, PERSON, 1
+Alpine, ORG, 1
+Protesters, ORG, 1
+Asunción, PERSON, 1
+the University of Limerick hospital, ORG, 1
+up to 300 million, CARDINAL, 1
+Moderna European Commission, ORG, 1
+World Book Day 2021, EVENT, 1
+more than 2,500, CARDINAL, 1
+the Christmas holidays, DATE, 1
+Derek Maguire, PERSON, 1
+each year, DATE, 1
+Coleen Nolan, PERSON, 1
+last March' - Independent.ie, DATE, 1
+More than 12,000, CARDINAL, 1
+HSE HSE, ORG, 1
+Somebody McSomebody, PERSON, 1
+two days, DATE, 1
+Eileen’s, ORG, 1
+63 years, DATE, 1
+Eileen Gallagher, PERSON, 1
+Independent.ie Healthcare, ORG, 1
+Malie Coyne, PERSON, 1
+NUI Galway, FAC, 1
+another summer, DATE, 1
+Prof Ivan Perry, PERSON, 1
+Daniel Storey, PERSON, 1
+Marine, NORP, 1
+the FA Cup, LAW, 1
+the North - Independent.ie, ORG, 1
+the best hours, TIME, 1
+Sixteen, CARDINAL, 1
+Tianjin Municipality, GPE, 1
+One week, DATE, 1
+more than 10%, PERCENT, 1
+more than 250, CARDINAL, 1
+the three weeks, DATE, 1
+John Porteous, PERSON, 1
+the Castle Park, FAC, 1
+Lisna, ORG, 1
+Govt, PERSON, 1
+100,000, MONEY, 1
+around €100,000, MONEY, 1
+TESCO, ORG, 1
+Some 50, CARDINAL, 1
+Stretford, GPE, 1
+Greater Manchester, PERSON, 1
+Merkel’s, ORG, 1
+Ireland Holly Carpenter, PERSON, 1
+Gwyneth, PERSON, 1
+Jürgen Klopp, PERSON, 1
+Nabarro, ORG, 1
+West Cork Chamber Music Festival, ORG, 1
+Francis Humphrys, PERSON, 1
+Kate Bush - Independent.ie, PERSON, 1
+This day, DATE, 1
+LA Music, ORG, 1
+Leeside, ORG, 1
+5.4pc, CARDINAL, 1
+only a few million, CARDINAL, 1
+Some seven, CARDINAL, 1
+Februa, PERSON, 1
+DFA, ORG, 1
+WW – Weight Watchers Reimagined, ORG, 1
+seasonal, DATE, 1
+WW, ORG, 1
+the Leaving Certificate 2020, FAC, 1
+Covid-specific, PERSON, 1
+just over five hours, TIME, 1
+Older Persons, WORK_OF_ART, 1
+between late April and June, DATE, 1
+1%, PERCENT, 1
+Virus, ORG, 1
+a year’ - Independent.ie Tánaiste Leo Varadkar, DATE, 1
+the next year, DATE, 1
+the second week, DATE, 1
+Peer, PERSON, 1
+83%, PERCENT, 1
+more than 14,000 kilometres, QUANTITY, 1
+Republic Acute, ORG, 1
+156, CARDINAL, 1
+16,000, CARDINAL, 1
+up to 16,000, CARDINAL, 1
+Reductions, WORK_OF_ART, 1
+’ Life, WORK_OF_ART, 1
+99pc, ORDINAL, 1
+690, CARDINAL, 1
+St Gerard’s, PERSON, 1
+AGSI, ORG, 1
+Hong Kong, GPE, 1
+Dublin International Film Festival Best, ORG, 1
+Dail Committee, ORG, 1
+just four, CARDINAL, 1
+Lauren Arris Cartwright, FAC, 1
+Sam SIMON Barlow, PERSON, 1
+Up to 40, CARDINAL, 1
+Home School Hub:, ORG, 1
+Makers, ORG, 1
+Aggregated, NORP, 1
+Niamh Arthurs, PERSON, 1
+World Obesity Day, WORK_OF_ART, 1
+Niamh Arthurs, ORG, 1
+seven-night, TIME, 1
+674, CARDINAL, 1
+Moderna’s, ORG, 1
+4%, PERCENT, 1
+94,539, CARDINAL, 1
+44, CARDINAL, 1
+the turn of the year, DATE, 1
+3.25 million, CARDINAL, 1
+3.2 million, CARDINAL, 1
+Conservatives, NORP, 1
+fewer than 1%, PERCENT, 1
+Complex, NORP, 1
+more than 99 million, CARDINAL, 1
+Ads Safety Report, ORG, 1
+A few weeks ago, DATE, 1
+last Monday, DATE, 1
+Holiday Inn, ORG, 1
+Eva Price, PERSON, 1
+Fota, GPE, 1
+Simon Coveney Two, PERSON, 1
+the National Public He, ORG, 1
+94pc, ORDINAL, 1
+Rioting, PERSON, 1
+almost every hour, TIME, 1
+Fergal Bowers, PERSON, 1
+the Health Ministry, ORG, 1
+84,245, CARDINAL, 1
+Ms von der Leyen, PERSON, 1
+Ireland The Department of Health, ORG, 1
+422, CARDINAL, 1
+previous 24 hours, TIME, 1
+St James' Hospital, ORG, 1
+64%, PERCENT, 1
+1,100, CARDINAL, 1
+less than four weeks, DATE, 1
+just four weeks, DATE, 1
+Tim Metcalfe, PERSON, 1
+TIM, ORG, 1
+Colm Keys, PERSON, 1
+Covid Advisory Committee, PERSON, 1
+€2.3 million, MONEY, 1
+12,336, CARDINAL, 1
+100-euro, QUANTITY, 1
+PAC, ORG, 1
+about €14m, MONEY, 1
+Which, GPE, 1
+Colm O'Rourke, PERSON, 1
+All Ireland Football Championship COLM, ORG, 1
+All Ireland Football Championship, ORG, 1
+Covid The, PERSON, 1
+SOME 13,600, CARDINAL, 1
+around 12 weeks, DATE, 1
+Chile, GPE, 1
+Mandy Finlay, PERSON, 1
+EV, ORG, 1
+John Conlon, PERSON, 1
+last November, DATE, 1
+the previous March, DATE, 1
+Rotunda Hospital  , ORG, 1
+Bill Murray's, PERSON, 1
+Johnny Connor's, ORG, 1
+Johnny Connor’s, ORG, 1
+Richard Hawley, PERSON, 1
+five-fold, QUANTITY, 1
+3pc, ORDINAL, 1
+BORIS Johnson, PERSON, 1
+Covid19 Vaccine, PERSON, 1
+Nearly 400, CARDINAL, 1
+the Oxford University/AstraZeneca, ORG, 1
+Derry The PSNI, ORG, 1
+Covid Advisory, PERSON, 1
+Pat O'Connor, PERSON, 1
+Eli Lilly's, ORG, 1
+Covid hospital, PERSON, 1
+ANTIBODY, ORG, 1
+Eli Lilly & Co, ORG, 1
+87 per cent, MONEY, 1
+January 1 to December 31, 2020, DATE, 1
+148, CARDINAL, 1
+Camogie, ORG, 1
+Anna Geary, PERSON, 1
+Dermot Bannon, FAC, 1
+’ – Toy Show Star Adam King, WORK_OF_ART, 1
+Late Late Toy Show, WORK_OF_ART, 1
+four-day week, DATE, 1
+146, CARDINAL, 1
+8220;freer, MONEY, 1
+8,000, MONEY, 1
+Tanaiste Leo Varadkar - Independent.ie, PERSON, 1
+century', DATE, 1
+their early 20s, DATE, 1
+North Department of Health, ORG, 1
+Smithsonian, ORG, 1
+National Museum of American History, ORG, 1
+Level 5:, FAC, 1
+14 months' -, DATE, 1
+Sean O'Brien, PERSON, 1
+Seán O'Brien, PERSON, 1
+surpasses 2,000, CARDINAL, 1
+Pat Flanagan, PERSON, 1
+Pat Flanagan - Irish Mirror Online, PERSON, 1
+67pc, ORDINAL, 1
+up to 12 weeks, DATE, 1
+at least five days, DATE, 1
+28 years, DATE, 1
+225pp, MONEY, 1
+Sa, PERSON, 1
+EMMA Willis, NORP, 1
+St John’s Ambulance, ORG, 1
+£210m, MONEY, 1
+Welshman, PERSON, 1
+€56m, MONEY, 1
+210, MONEY, 1
+the following day, DATE, 1
+Wuhan Further, GPE, 1
+Tedros, PERSON, 1
+Planet Business:, ORG, 1
+St Mary’s, PERSON, 1
+FAMILIES, ORG, 1
+above 2,000, CARDINAL, 1
+Covid Figures, PERSON, 1
+Route 66, FAC, 1
+Journey, PRODUCT, 1
+Heartland, LOC, 1
+Holohan - Independent.ie, ORG, 1
+Kassidi Kurill, PERSON, 1
+Fauci, ORG, 1
+Trump NO, ORG, 1
+ANTHONY Fauci, PERSON, 1
+Donald Trump’s Operation Warp Speed, ORG, 1
+Fauci, PERSON, 1
+CNN, ORG, 1
+J&#038;J, PERSON, 1
+John Manning, PERSON, 1
+Italians, NORP, 1
+Anna Daly - Independent.ie TV, PERSON, 1
+No Time to Die delayed, LAW, 1
+Daniel Craig’s, PERSON, 1
+Pour Moi, PERSON, 1
+HELEN Flanagan’s, PERSON, 1
+Aaron Koay, PERSON, 1
+Laurie Laybourn-Langton, PERSON, 1
+2,063, CARDINAL, 1
+three-days-a-week, DATE, 1
+Students, ORG, 1
+Olivia Wilde, ORG, 1
+17 years, DATE, 1
+British Cathedral, ORG, 1
+Lichfield Cathedral, PRODUCT, 1
+’ five months later, DATE, 1
+five months later, DATE, 1
+Northern Ireland Additional, GPE, 1
+2,066, CARDINAL, 1
+112, MONEY, 1
+Pat McCann, PERSON, 1
+McCann, ORG, 1
+Dermot Crowley, PERSON, 1
+211, CARDINAL, 1
+330, CARDINAL, 1
+About 1.9%, PERCENT, 1
+September 2021, DATE, 1
+Liz Bonnin ', PERSON, 1
+Covid death - Independent.ie Scientist, PERSON, 1
+National Enterprise Awards Live, ORG, 1
+Mansion House, FAC, 1
+11th February, DATE, 1
+50,000, MONEY, 1
+over 2,300, CARDINAL, 1
+15,358, CARDINAL, 1
+2,300, CARDINAL, 1
+The Northern Ireland Executive, ORG, 1
+the Yellow Card, PERSON, 1
+BeWILDerwood, ORG, 1
+Cheshire, GPE, 1
+162, CARDINAL, 1
+Hamelin Lower, PERSON, 1
+Saxony, GPE, 1
+Covid-weary, PERSON, 1
+Vogue, GPE, 1
+Anne-Marie Tomchak, PERSON, 1
+ShareJoy, ORG, 1
+Brian Agnew, PERSON, 1
+FAMILY, ORG, 1
+Teena Gates, PERSON, 1
+95-year-ol, DATE, 1
+Move, ORG, 1
+Man United, FAC, 1
+Darren Fletcher, PERSON, 1
+The Lockdown Tactics YouTube, ORG, 1
+Keane, ORG, 1
+14 April, DATE, 1
+Joint, NORP, 1
+more than 180 miles, QUANTITY, 1
+pre-Christmas, DATE, 1
+Holles Street, FAC, 1
+nearly 37 weeks, DATE, 1
+more than, CARDINAL, 1
+fall 22pc, DATE, 1
+Glanbia, ORG, 1
+22.6pc, CARDINAL, 1
+A third, CARDINAL, 1
+Tánaiste &#, ORG, 1
+Covid Crisis, PERSON, 1
+750k Covid, PERSON, 1
+'end of weekend', DATE, 1
+SOME 750,000, CARDINAL, 1
+the end of the weekend, DATE, 1
+2024, DATE, 1
+Clare Wenham, PERSON, 1
+London School of Economics, ORG, 1
+669, CARDINAL, 1
+220,000, CARDINAL, 1
+second-quarter, DATE, 1
+less than half, CARDINAL, 1
+the second quarter, DATE, 1
+nearly four months, DATE, 1
+the Beacon Hospital's, ORG, 1
+1,631, CARDINAL, 1
+100,162, CARDINAL, 1
+93 -  , TIME, 1
+the age of 93, DATE, 1
+February 11, DATE, 1
+the Ombudsman for Children Dr Niall Muldoon, ORG, 1
+Crans, NORP, 1
+Montana, GPE, 1
+Roger Moore, PERSON, 1
+Covid curfew - Independent.ie, PERSON, 1
+Vaccine Tracker, PERSON, 1
+Covid Culture, PERSON, 1
+Cherrywood Construction of 304, ORG, 1
+the Boyne/ And Partition, ORG, 1
+John Torode, PERSON, 1
+Nadia Power, ORG, 1
+Covid Athlete, PERSON, 1
+Fewer than 100, CARDINAL, 1
+just 87, DATE, 1
+this winter, DATE, 1
+2 days, DATE, 1
+Chris Moore, PERSON, 1
+The Sneem Health Centre, ORG, 1
+Ireland Cabinet, FAC, 1
+last seven days, DATE, 1
+Brokerage, ORG, 1
+Government Coalition, ORG, 1
+a night, TIME, 1
+Gogglebox, PERSON, 1
+VACCINATIONS, ORG, 1
+Bicep, PERSON, 1
+Ross, PERSON, 1
+Lego VICAR of Dibley, ORG, 1
+Lego, ORG, 1
+63-year-old, DATE, 1
+Dublin Hospital, ORG, 1
+GP, WORK_OF_ART, 1
+Liveline, NORP, 1
+Michelle Keegan, PERSON, 1
+MICHELLE Keegan, PERSON, 1
+Tina McIntyre, PERSON, 1
+Du, PERSON, 1
+St, PERSON, 1
+Menswear, NORP, 1
+Suit Direct, ORG, 1
+No 83-85, DATE, 1
+England Plan, GPE, 1
+Paula Cogan, PERSON, 1
+Covid crisis Paula Cogan, PERSON, 1
+Scarlett Moffatt, PERSON, 1
+Rotunda Hospital Major, ORG, 1
+Pat, PERSON, 1
+The Huanan Seafood Market, ORG, 1
+THE Department of Health, ORG, 1
+Latest Health Protection Surveillance Centre, ORG, 1
+651.6, CARDINAL, 1
+February 8th, DATE, 1
+Covid-19.Meanwhile, ORG, 1
+Paul Reid - Independent.ie, PERSON, 1
+the end of this quarter, DATE, 1
+Aston Villa's, PERSON, 1
+Villains, PERSON, 1
+Weeks, DATE, 1
+Slow Down Day - Independent.ie, PERSON, 1
+this Friday, DATE, 1
+Kardashians, ORG, 1
+Kim, PERSON, 1
+Kourtney, PERSON, 1
+Khloe Kardashian’s, ORG, 1
+World View - Brazil's, EVENT, 1
+the past month, DATE, 1
+over 60,000, CARDINAL, 1
+Sao Paolo, GPE, 1
+Excel, PRODUCT, 1
+Rita O'Reilly, PERSON, 1
+Dwight Yorke, PERSON, 1
+Katie, PERSON, 1
+€139 million, MONEY, 1
+3,418, CARDINAL, 1
+Torchwood, ORG, 1
+Kai Owen, PERSON, 1
+Kai Owens, PERSON, 1
+KOPT, ORG, 1
+last August, DATE, 1
+World Health Organisation-China, ORG, 1
+Covid - organ, PERSON, 1
+Capitol, FAC, 1
+Giusy La Mantia, PERSON, 1
+two months earlier, DATE, 1
+Cillian Murphy, PERSON, 1
+Up to half, CARDINAL, 1
+Service, ORG, 1
+Inside/Out:, EVENT, 1
+a week after first, DATE, 1
+late April, DATE, 1
+Comedian Jason Byrne, PERSON, 1
+February 24 last year, DATE, 1
+Last August, DATE, 1
+Waterford, GPE, 1
+January 14, DATE, 1
+Tom Mohan’s, PERSON, 1
+Bosnia, GPE, 1
+Dave Con, PERSON, 1
+GCSE, PRODUCT, 1
+EXPIRY, ORG, 1
+Beacon - Independent.ie The Irish Independent, LOC, 1
+Co Wickow, PERSON, 1
+an additional 646, CARDINAL, 1
+Bond, ORG, 1
+Earlier today, TIME, 1
+over 3,000, CARDINAL, 1
+Grafton Street - Independent.ie Anti, FAC, 1
+more than 21,000, CARDINAL, 1
+Up to 23, CARDINAL, 1
+As many as 23, CARDINAL, 1
+Ireland Cramped, GPE, 1
+NESC, ORG, 1
+almost 60%, PERCENT, 1
+More than 10, CARDINAL, 1
+anti-Catholic Church, ORG, 1
+Mullahoran, PERSON, 1
+Gilgamesh, PERSON, 1
+today to February 11, DATE, 1
+GRA, ORG, 1
+the Garda Representative Association, ORG, 1
+More than 77,000, CARDINAL, 1
+Darragh O'Brien's, PERSON, 1
+Miguel Nicolelis, PERSON, 1
+an additional 575, CARDINAL, 1
+The World Health Organisation (WHO, ORG, 1
+5 Ireland, QUANTITY, 1
+a spring and a summer, DATE, 1
+building’-, GPE, 1
+Chandra Wilson's, PERSON, 1
+Miranda Bailey, PERSON, 1
+Chandra Wilson, PERSON, 1
+16 years ago, DATE, 1
+Archbishop Eamon Martin, PERSON, 1
+the Isle of Man, LOC, 1
+Fianna Fáil TD - Independent.ie, PERSON, 1
+Oxygen, NORP, 1
+Thefts, PERSON, 1
+Perth - Independent.ie Strong, GPE, 1
+150, MONEY, 1
+Less than 100, CARDINAL, 1
+MORE than three, CARDINAL, 1
+Caroline O'Donoghue, PERSON, 1
+a whole year', DATE, 1
+More than 35, CARDINAL, 1
+Eamon Ryan - Independent.ie, PERSON, 1
+Cancellation, ORG, 1
+Covid19 Data, PERSON, 1
+Covid Vaccines, PERSON, 1
+'33%, PERCENT, 1
+1,434, CARDINAL, 1
+Inside Ireland's, GPE, 1
+December 30, DATE, 1
+Rory McNab, PERSON, 1
+W, GPE, 1
+Danielle de Wolfe, ORG, 1
+110,000, CARDINAL, 1
+another 110,000, CARDINAL, 1
+Jan Bednarek, PERSON, 1
+Irish Mirror Online Poland, ORG, 1
+Robert Lewandowski, PERSON, 1
+Wembley, PERSON, 1
+Grzegorz Krychowiak, PERSON, 1
+Ned O’Sullivan, PERSON, 1
+99%, PERCENT, 1
+Nick Kyrgios, PERSON, 1
+NBA, ORG, 1
+Value, ORG, 1
+St Vincent’s University Hospital, ORG, 1
+€306 million, MONEY, 1
+the last three months of 2020, DATE, 1
+35-year, DATE, 1
+’ - HSE’s, WORK_OF_ART, 1
+Caroline Quentin, PERSON, 1
+CAROLINE Quentin, ORG, 1
+The Men Behaving Badly, ORG, 1
+Sean Moran, PERSON, 1
+almost 60,000, CARDINAL, 1
+455.5, MONEY, 1
+Ed Woodward, PERSON, 1
+Old Trafford, ORG, 1
+1,180, CARDINAL, 1
+John Fitzgerald, PERSON, 1
+Bord Bia, PERSON, 1
+Easter OVER 80 per cent, ORG, 1
+Less than a quarter, DATE, 1
+75, DATE, 1
+a tough few weeks ahead, DATE, 1
+Discarded, ORG, 1
+Covid - Independent.ie, ORG, 1
+Black Death, ORG, 1
+the end March, DATE, 1
+Martin’s, ORG, 1
+Covid agenda - Independent.ie, PERSON, 1
+Helen, PERSON, 1
+At least 1,000, CARDINAL, 1
+The Irish Times Women's Podcast - Ep 462, ORG, 1
+1996, DATE, 1
+Felicia, PERSON, 1
+Penthouse, ORG, 1
+Technology, ORG, 1
+Rio Ferdinand, PERSON, 1
+RIO Ferdinand, ORG, 1
+Castletroy, PERSON, 1
+the last 52 weeks, DATE, 1
+Michael Callaghan, PERSON, 1
+Carraig Donn, GPE, 1
+NatWest, ORG, 1
+Front, ORG, 1
+Bishop of, ORG, 1
+The Catholic Church, ORG, 1
+Living with Covid plan?, WORK_OF_ART, 1
+post-Covid world -, EVENT, 1
+Buffett, PERSON, 1
+Last Wednesday, DATE, 1
+Covid tests - Independent.ie, PERSON, 1
+Coalition’s, ORG, 1
+Kawasaki, GPE, 1
+’ A BABY, WORK_OF_ART, 1
+Hugo Dato, PERSON, 1
+April 2nd, DATE, 1
+March 7th, DATE, 1
+335th, ORDINAL, 1
+Lockdown 1, PERSON, 1
+4.47, CARDINAL, 1
+June Legislation, ORG, 1
+CHEEKY, ORG, 1
+January days, DATE, 1
+Marie Brennan, PERSON, 1
+Clontarf, ORG, 1
+91.6%, PERCENT, 1
+Sputnik V &#, ORG, 1
+500 Nphet, CARDINAL, 1
+Martin Experts, ORG, 1
+Co Wexford, PERSON, 1
+Buggans, NORP, 1
+Solo Run Taoiseach, PERSON, 1
+Saccharine Simon, PERSON, 1
+Richard Bruton, PERSON, 1
+€4,000 fines, MONEY, 1
+206,400, CARDINAL, 1
+Inside Business - Dublin, ORG, 1
+Colm Keena, PERSON, 1
+Daryl Hanberry, PERSON, 1
+Deloitte, ORG, 1
+Ronan Lyons, PERSON, 1
+Ronan, PERSON, 1
+Yasmeen CORONATION Street’s, ORG, 1
+Ian Bartholomew, PERSON, 1
+between 10 and 14 days, DATE, 1
+The British Medical Journal, ORG, 1
+Cillian, NORP, 1
+this coming week, DATE, 1
+1,923, CARDINAL, 1
+195, CARDINAL, 1
+Covid   - Independent.ie, PERSON, 1
+Covid outbreaks - Siptu - Farming Independent, PERSON, 1
+’ - Independent.ie BANK, ORG, 1
+15 April, DATE, 1
+881, CARDINAL, 1
+Gerry Devaney’s, PERSON, 1
+Two days, DATE, 1
+Gerry Devaney, PERSON, 1
+Tusla, PERSON, 1
+Lucey, PERSON, 1
+30-year, DATE, 1
+30 January, DATE, 1
+Covid Smart Money, PERSON, 1
+Eoin MacDonncha, PERSON, 1
+NUI, ORG, 1
+More than one-quarter, CARDINAL, 1
+between €100 and €500, MONEY, 1
+almost €1.8m., MONEY, 1
+25 or under and three- quarters, DATE, 1
+The New Year’s Eve, EVENT, 1
+Maeve Culloty, PERSON, 1
+Hewlett Packard Enterprise, ORG, 1
+the middle of Sunday, DATE, 1
+Simona Halep, PERSON, 1
+Roger, PERSON, 1
+Barriers, PRODUCT, 1
+Charles Dowding , PERSON, 1
+the 1980s, DATE, 1
+the Cohort 4, LAW, 1
+Legislation, ORG, 1
+Candidate, ORG, 1
+Astra, NORP, 1
+Zeneca, NORP, 1
+Beaumont Hospital, ORG, 1
+AstraZeneca-Oxford, NORP, 1
+Kelly Neelan, PERSON, 1
+KELLY Neelan, PERSON, 1
+US , FAC, 1
+Beacon Hospital: 'Weekend, ORG, 1
+More than two-thirds, CARDINAL, 1
+Leonard, PERSON, 1
+Co Meath, PERSON, 1
+Surrey, PERSON, 1
+Paralympic, ORG, 1
+day two, DATE, 1
+IOC Session, EVENT, 1
+mid-May, DATE, 1
+Stephen Donnelly - Irish Mirror Online, PERSON, 1
+Ferrari, PERSON, 1
+Ferraris, GPE, 1
+Maria Buffini, PERSON, 1
+Radio City Music Hall, ORG, 1
+25th, ORDINAL, 1
+Giorgio Agamben, PERSON, 1
+REFUSE Covid, PERSON, 1
+Macron’s, ORG, 1
+Emmanuel Macron’s, PERSON, 1
+the World Health Organization's International Health Regulations, ORG, 1
+Beacon - Donnelly, ORG, 1
+Everyman, ORG, 1
+Sophie Motley, ORG, 1
+Kevin Lunney's, PERSON, 1
+John Maynard Keynes, PERSON, 1
+Covid Fines, PERSON, 1
+130, CARDINAL, 1
+Vials of Pfizer, WORK_OF_ART, 1
+Sunday March 7, DATE, 1
+at least six months, DATE, 1
+Unions, ORG, 1
+WRC, ORG, 1
+Covid BANNED, PERSON, 1
+Underworld, ORG, 1
+Ben Price, PERSON, 1
+LOCALS, ORG, 1
+Jett, PERSON, 1
+5, DATE, 1
+Micheál Martin's, PERSON, 1
+Covid-affected, PERSON, 1
+a traumatic day, DATE, 1
+Almost 6,400, CARDINAL, 1
+Vitamin D ', ORG, 1
+Joe Warren-Plant, PERSON, 1
+Vanessa Bauer, PERSON, 1
+Inside Business Podcast, ORG, 1
+Sarah Keane, PERSON, 1
+Alan Milton, PERSON, 1
+Michael O'Keeffe, PERSON, 1
+Pfizer-BioNtech, ORG, 1
+Geordie, PERSON, 1
+ten year, DATE, 1
+England World Cup, ORG, 1
+CORONATION Street, ORG, 1
+7.30pm, CARDINAL, 1
+8.30pm, CARDINAL, 1
+Love Island, WORK_OF_ART, 1
+this June, DATE, 1
+The Year Of Covid, DATE, 1
+1,400, CARDINAL, 1
+Seána Glennon, PERSON, 1
+' February, DATE, 1
+75-95 years, DATE, 1
+2020, CARDINAL, 1
+mid-year, DATE, 1
+September 21st, DATE, 1
+Trainee Garda, PERSON, 1
+Donegal - Irish Mirror, GPE, 1
+Phil Ní Sheaghdha, PERSON, 1
+Nine months, DATE, 1
+22%, PERCENT, 1
+Mick, PERSON, 1
+the Border - Independent.ie The Government’s Living, FAC, 1
+Almost 12,000, CARDINAL, 1
+Comedian, NORP, 1
+Westminster Abbey, FAC, 1
+Waterways Ireland, PERSON, 1
+Sunbeam House, FAC, 1
+Covid-stricken, PERSON, 1
+SCHOOLGIRL, ORG, 1
+Ana, GPE, 1
+Clara Macedo, PERSON, 1
+Santos, GPE, 1
+Campinas, ORG, 1
+Mar-a-Lago, TIME, 1
+Covid outbreak, PERSON, 1
+Philip Nolan , PERSON, 1
+a National Public Health Emergency Team, ORG, 1
+Poppulo, ORG, 1
+77,300, CARDINAL, 1
+Ruairí Brugha, PERSON, 1
+Public Health and Epidemiology, ORG, 1
+Beaconsfield, PERSON, 1
+160bn, MONEY, 1
+over-13, DATE, 1
+the next 36 hours, TIME, 1
+the coming 36 hours, TIME, 1
+Pricewatch, PERSON, 1
+Capitol Hill - Independent.ie, ORG, 1
+North British, NORP, 1
+HSE’s, ORG, 1
+Michael McAteer, PERSON, 1
+Grant Thornton, PERSON, 1
+Independent.ie, ORG, 1
+the Labour Party, ORG, 1
+more than 100 hours, TIME, 1
+424.6, CARDINAL, 1
+Twitter, PERSON, 1
+Cindy Beale, PERSON, 1
+a decade, DATE, 1
+Kenneth Branagh, PERSON, 1
+This Sceptred Isle, WORK_OF_ART, 1
+Tory, NORP, 1
+Sky Atlantic, LOC, 1
+This morning, TIME, 1
+Pagan, GPE, 1
+Longford, ORG, 1
+Over 478,000, CARDINAL, 1
+Virgin Media, PERSON, 1
+VIRGIN Media, PERSON, 1
+Muireann, PERSON, 1
+1,285, CARDINAL, 1
+107, CARDINAL, 1
+Jason Williamson, PERSON, 1
+more than €11.5bn, MONEY, 1
+another challenging year, DATE, 1
+years', DATE, 1
+January 7th, 2021, DATE, 1
+June 27th, DATE, 1
+the second half of last year, DATE, 1
+‘second, DATE, 1
+Taoiseach Micheál Martin - Independent.ie, PERSON, 1
+England Scientific, ORG, 1
+Gambling Ireland, GPE, 1
+50pc, ORDINAL, 1
+Tony, PERSON, 1
+Barry Grant, PERSON, 1
+Lockdown Laws, PERSON, 1
+Lewis Northern Ireland, PERSON, 1
+’s, GPE, 1
+a nondescript day, DATE, 1
+1918 to 1920, DATE, 1
+30th June 2021.The, DATE, 1
+LONGFORD, ORG, 1
+567.1, CARDINAL, 1
+14-year-old, DATE, 1
+the European Medicines Agency , ORG, 1
+12 July, DATE, 1
+12 April, DATE, 1
+only 17%, PERCENT, 1
+Jacinta Keegan, ORG, 1
+David McCormack, PERSON, 1
+Drogheda, GPE, 1
+29 years old, DATE, 1
+Hennessy, PERSON, 1
+BRUTAL, ORG, 1
+Housemate, GPE, 1
+1.3bn, MONEY, 1
+Paul Costelloe, PERSON, 1
+Dunnes Stores Designer, ORG, 1
+London Fashion Show, EVENT, 1
+winter 2021, DATE, 1
+35th year, DATE, 1
+50s, DATE, 1
+O'Leary Ryanair, ORG, 1
+the end of this year, DATE, 1
+47,700, MONEY, 1
+217, CARDINAL, 1
+January 21, DATE, 1
+8-10, CARDINAL, 1
+Dublin GP, ORG, 1
+Anna O’Sullivan, PERSON, 1
+the past century’s, DATE, 1
+€30 million, MONEY, 1
+Sean Tully, PERSON, 1
+SEAN Tully, ORG, 1
+Sean, PERSON, 1
+Prince Harry's, PERSON, 1
+James Corden ', PERSON, 1
+James Corden, PERSON, 1
+East Cork, GPE, 1
+Peugeot, ORG, 1
+6,500, CARDINAL, 1
+Up to 700,000, CARDINAL, 1
+World View - How Andrew Cuomo, EVENT, 1
+Suzanne Lynch, PERSON, 1
+New York State, GPE, 1
+GALWAY City, GPE, 1
+126, CARDINAL, 1
+More than 100 fines, CARDINAL, 1
+months of ', DATE, 1
+12 January, DATE, 1
+Living With Covid, WORK_OF_ART, 1
+7,500, CARDINAL, 1
+19-25, DATE, 1
+Trump’s, ORG, 1
+Donald Trump's, PERSON, 1
+Banksy - Independent.ie Street, ORG, 1
+Banksy, PERSON, 1
+Oscar Wilde, PERSON, 1
+Reading Prison, GPE, 1
+Daffodil Day - Independent.ie, EVENT, 1
+Hemingway, PERSON, 1
+COVID-19 Explained, PERSON, 1
+Euro 2020, DATE, 1
+an additional 84, CARDINAL, 1
+Second night, TIME, 1
+688, CARDINAL, 1
+175, CARDINAL, 1
+164, CARDINAL, 1
+Irish College, ORG, 1
+Dr Nuala, PERSON, 1
+Grey, ORG, 1
+Deadwater Fell, PERSON, 1
+Lisa Appleton, PERSON, 1
+LISA Appleton, PERSON, 1
+52 -year-old, DATE, 1
+Alain Robert, PERSON, 1
+Andy Murray’s, PERSON, 1
+€35 billion, MONEY, 1
+well over 93,000, CARDINAL, 1
+just over four months, DATE, 1
+only six, CARDINAL, 1
+Covid surge - Independent.ie, PERSON, 1
+General Government, ORG, 1
+Budget, ORG, 1
+62-acre, QUANTITY, 1
+26 days, DATE, 1
+about one-fifth, CARDINAL, 1
+800,000, CARDINAL, 1
+Operation Fanacht, PERSON, 1
+nearly 12 months, DATE, 1
+Covid Almost, PERSON, 1
+Diane Dodds, PERSON, 1
+Neanderthal, NORP, 1
+28 March, DATE, 1
+'hours, TIME, 1
+PADDY Doherty, ORG, 1
+the Tifco Hotel Group, ORG, 1
+Covid - Independent.ie Beware, PERSON, 1
+Partygoers, NORP, 1
+Irish Coronation Street, ORG, 1
+Anne Clarke, PERSON, 1
+Irish Home Builders Association, ORG, 1
+six days', DATE, 1
+Covid battle - Independent.ie Legendary Meath, PERSON, 1
+Trevor Georges, PERSON, 1
+Michael Georges, PERSON, 1
+Ed Bailey, PERSON, 1
+WRONG, ORG, 1
+SCHOOL, ORG, 1
+Ilkley Grammar School, ORG, 1
+West Yorkshire, GPE, 1
+Jesse Lingard’s, PERSON, 1
+Ridin’ Solo, PERSON, 1
+Jena Frumes, PERSON, 1
+Childline, ORG, 1
+100-day, DATE, 1
+Irish Mirror Online Childline, ORG, 1
+1,325, CARDINAL, 1
+Chris Whitty, PERSON, 1
+the Government’s Living, ORG, 1
+Grace Vickers, PERSON, 1
+24-year-old, DATE, 1
+Boris, PERSON, 1
+1.2 per cent, MONEY, 1
+Dublin City Centre, ORG, 1
+377, CARDINAL, 1
+the past four to five weeks, DATE, 1
+Department of Public Health, ORG, 1
+the first few days, DATE, 1
+the Hare Krishnas, ORG, 1
+the French Riviera, ORG, 1
+under weekend, DATE, 1
+at least two weeks, DATE, 1
+Johns Hopkins University - Independent.ie, ORG, 1
+about 600,000, CARDINAL, 1
+Longer opening hours, TIME, 1
+Carla, PERSON, 1
+Chris Gascoyne, PERSON, 1
+Les Bleus, ORG, 1
+Ant Middleton, PERSON, 1
+Channel 4, ORG, 1
+ANT Middleton, ORG, 1
+SAS, ORG, 1
+Counsel NS, PERSON, 1
+Johnstown, GPE, 1
+Killiney, PERSON, 1
+UK Covid, ORG, 1
+Covid lockdown - Independent.ie, PERSON, 1
+The Irish Coursing Club (, ORG, 1
+Fine Gael, GPE, 1
+Ireland Eleven, FAC, 1
+National Public Health Emergency Team, ORG, 1
+Cillian De Gascun, PERSON, 1
+De Gascun, PERSON, 1
+the National Virus Refer, ORG, 1
+Bobby Lee, PERSON, 1
+Messages, GPE, 1
+Catherine Dawson, PERSON, 1
+White House - Independent.ie, ORG, 1
+A quiet month, DATE, 1
+Shawna Scott, PERSON, 1
+12 hours, TIME, 1
+Universe Ireland, PERSON, 1
+WORLD Health Organisation, ORG, 1
+May 1 - 2 weeks, DATE, 1
+WESTLIFE, ORG, 1
+Love Island's, LOC, 1
+LOVE Island’s, LOC, 1
+Superhero, ORG, 1
+12-year-old, DATE, 1
+Greystones, ORG, 1
+One one, PRODUCT, 1
+Covid death toll, PERSON, 1
+Jo Whiley's, PERSON, 1
+Varadkar Uncertainty, PERSON, 1
+Over 200 million, CARDINAL, 1
+at least 107, CARDINAL, 1
+new year, DATE, 1
+24-hours, TIME, 1
+the High Level Task Force, ORG, 1
+Vaccination, ORG, 1
+Centre, FAC, 1
+438,000, CARDINAL, 1
+199,800, CARDINAL, 1
+More than 700,000, CARDINAL, 1
+nearly four, CARDINAL, 1
+first six months of 2021, DATE, 1
+Antigen, ORG, 1
+Gordon Ramsay, PERSON, 1
+GOK Wan, PERSON, 1
+The US Embassy, ORG, 1
+£32 million, MONEY, 1
+Stella Cinema Dublin, PERSON, 1
+Jessica Taylor, PERSON, 1
+Why Women Are Blamed For Everything, WORK_OF_ART, 1
+Victim Focus - an, PERSON, 1
+Rape Crisis Network Ireland, ORG, 1
+Jessica, PERSON, 1
+SIX, ORG, 1
+Itali, GPE, 1
+Denis Eustace-Minding, PERSON, 1
+Covid Since, PERSON, 1
+Denis Eustace, PERSON, 1
+later this morning, TIME, 1
+Clare Island, LOC, 1
+62-year-old, DATE, 1
+Lola - Independent.ie Dogs, ORG, 1
+34 years, DATE, 1
+21st century, DATE, 1
+Inside Politics - Davy, ORG, 1
+MHQ, ORG, 1
+the Central Bank fined Davy, ORG, 1
+€4.1 million, MONEY, 1
+Cormac McQuinn, PERSON, 1
+the Irish Times, ORG, 1
+Malaga, GPE, 1
+around €2,000, MONEY, 1
+Oliver Callan, PERSON, 1
+Irish Mirror Online Callan, ORG, 1
+RTE Radio One, ORG, 1
+Allyssha Moore’s, ORG, 1
+Coole, NORP, 1
+Texel, PERSON, 1
+€634m, MONEY, 1
+634, MONEY, 1
+This evening, TIME, 1

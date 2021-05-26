@@ -1,0 +1,27 @@
+entity, label, count
+India, GPE, 2
+Mexico, GPE, 2
+first, ORDINAL, 2
+two, CARDINAL, 2
+one, CARDINAL, 2
+Dengue Fever, PERSON, 1
+years, DATE, 1
+Guinea, GPE, 1
+"more than 11,000", CARDINAL, 1
+10.12.2015, CARDINAL, 1
+40,000, CARDINAL, 1
+Twenty-two thousand, CARDINAL, 1
+every year, DATE, 1
+more than 300, CARDINAL, 1
+DR Congo, GPE, 1
+14.08.2015, CARDINAL, 1
+almost 320, CARDINAL, 1
+at least 20,000, CARDINAL, 1
+the Democratic Republic of Congo, GPE, 1
+UN, ORG, 1
+Three, CARDINAL, 1
+DW, PERSON, 1
+Malaria, GPE, 1
+This week, DATE, 1
+Germany, GPE, 1
+US, GPE, 1

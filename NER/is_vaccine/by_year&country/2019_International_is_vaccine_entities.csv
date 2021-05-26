@@ -1,0 +1,905 @@
+entity, label, count
+U.S., GPE, 51
+HPV, ORG, 32
+New York, GPE, 29
+Thursday, DATE, 28
+California, GPE, 27
+US, GPE, 22
+Brooklyn, GPE, 21
+first, ORDINAL, 20
+two, CARDINAL, 20
+Tuesday, DATE, 20
+New York City, GPE, 20
+CDC, ORG, 19
+one, CARDINAL, 18
+ABC News, ORG, 17
+Monday, DATE, 17
+Reuters, ORG, 17
+second, ORDINAL, 16
+Merck, ORG, 16
+Vaccine, PERSON, 16
+Pakistan, GPE, 15
+Washington, GPE, 15
+Wednesday, DATE, 14
+Al Jazeera, ORG, 14
+Madagascar, GPE, 13
+Congo, GPE, 13
+2019, DATE, 13
+CNN, ORG, 13
+Americans, NORP, 13
+African, NORP, 12
+UK, GPE, 11
+the United States, GPE, 11
+10, CARDINAL, 11
+Germany, GPE, 11
+Jessica Biel, PERSON, 10
+25 years, DATE, 10
+Ohio, GPE, 10
+China, GPE, 10
+Europe, LOC, 10
+thousands, CARDINAL, 10
+Jewish, NORP, 9
+this year, DATE, 9
+Friday, DATE, 9
+FDA, ORG, 9
+this week, DATE, 8
+Ethan Lindenberger, PERSON, 8
+the World Health Organization, ORG, 8
+Senate, ORG, 8
+WHO, ORG, 8
+UN, ORG, 8
+German, NORP, 8
+New York City's, GPE, 8
+British, NORP, 8
+Philippines, GPE, 7
+Kentucky, GPE, 7
+European, NORP, 7
+Samoa, ORG, 7
+Bill de Blasio, PERSON, 7
+Amazon, ORG, 7
+last year, DATE, 7
+hundreds, CARDINAL, 7
+MMR, ORG, 7
+Chinese, NORP, 7
+GSK, ORG, 7
+AP, ORG, 6
+year, DATE, 6
+five, CARDINAL, 6
+October, DATE, 6
+each year, DATE, 6
+Texas, GPE, 5
+50, CARDINAL, 5
+Johnson & Johnson, ORG, 5
+100, CARDINAL, 5
+NEW YORK, GPE, 5
+20 million, CARDINAL, 5
+Orthodox, NORP, 5
+France, GPE, 5
+Seattle, GPE, 5
+YouTube, ORG, 5
+Donald Trump, PERSON, 5
+the World Health Organization (WHO, ORG, 5
+Rockland County, GPE, 5
+Trump, PERSON, 5
+2nd, ORDINAL, 4
+Italian, NORP, 4
+three, CARDINAL, 4
+winter, DATE, 4
+four, CARDINAL, 4
+the Democratic Republic of Congo, GPE, 4
+Williamsburg, GPE, 4
+American, NORP, 4
+ten, CARDINAL, 4
+Temple University, ORG, 4
+2020, DATE, 4
+2000, DATE, 4
+Pacific, LOC, 4
+New Jersey, GPE, 4
+St. Lucia, GPE, 4
+The U.S. Food and Drug Administration, ORG, 4
+Oregon, GPE, 4
+Philippine, NORP, 3
+Ervebo, PERSON, 3
+Arkansas, GPE, 3
+Chickenpox, ORG, 3
+NBC News, ORG, 3
+Kenneth Frazier, PERSON, 3
+Prevnar, GPE, 3
+January, DATE, 3
+EU, ORG, 3
+Marianne Williamson, PERSON, 3
+Johnson, PERSON, 3
+DR Congo, ORG, 3
+Africa, LOC, 3
+RT USA News, ORG, 3
+Italy, GPE, 3
+Newsweek, ORG, 3
+Bill Gates, PERSON, 3
+Democratic Republic of Congo, GPE, 3
+5, CARDINAL, 3
+weeks, DATE, 3
+Two, CARDINAL, 3
+Millions, CARDINAL, 3
+GlaxoSmithKline, PERSON, 3
+Britain, GPE, 3
+season, DATE, 3
+Nearly 1,000, CARDINAL, 3
+decades, DATE, 3
+Pinterest, ORG, 3
+22, CARDINAL, 3
+millions, CARDINAL, 3
+Keytruda, ORG, 3
+Orthodox Jewish, NORP, 3
+Nigeria, GPE, 3
+hours, TIME, 3
+RT World News, ORG, 3
+French, NORP, 3
+MSF, ORG, 3
+Groups, ORG, 3
+State, ORG, 3
+Muslim, NORP, 3
+18, DATE, 3
+Reddit, NORP, 3
+Thousands, CARDINAL, 3
+Pete Buttigieg, PERSON, 3
+The United States, GPE, 3
+The World Health Organization, ORG, 3
+DRC, ORG, 3
+SOUNDBITE, ORG, 3
+English, LANGUAGE, 3
+more than 1,200, CARDINAL, 2
+summer, DATE, 2
+a year, DATE, 2
+quarterly, DATE, 2
+first-quarter, DATE, 2
+The Vaccine Safety Handbook, WORK_OF_ART, 2
+40, CARDINAL, 2
+Newark Airport, FAC, 2
+Al Jazeera Vaccine, ORG, 2
+NYC, LOC, 2
+12, CARDINAL, 2
+Caribbean, LOC, 2
+At least three, CARDINAL, 2
+Gardasil, GPE, 2
+Rwanda, GPE, 2
+Australia, GPE, 2
+U.N., ORG, 2
+Saturday, DATE, 2
+August, DATE, 2
+Hundreds, CARDINAL, 2
+Ky. - United Parcel Service Inc, ORG, 2
+Two months ago, DATE, 2
+four-year-old, DATE, 2
+three years ago, DATE, 2
+More than 20 million, CARDINAL, 2
+84, CARDINAL, 2
+RT Russia &, ORG, 2
+Soviet Union, GPE, 2
+Russia, GPE, 2
+YouTube Taking Steps, ORG, 2
+Marianne Williamson's, PERSON, 2
+53, CARDINAL, 2
+Fed, ORG, 2
+New York Fed, ORG, 2
+John Williams, PERSON, 2
+the New York Fed, ORG, 2
+last week, DATE, 2
+Williamsburg, PERSON, 2
+Brexit, PERSON, 2
+Catholic, NORP, 2
+Anthony Fauci, PERSON, 2
+Reuters.com, ORG, 2
+1989, DATE, 2
+Thailand, GPE, 2
+RT World News Vaccination, ORG, 2
+25-year, DATE, 2
+Measles, ORG, 2
+full-year, DATE, 2
+Robert F. Kennedy Jr., PERSON, 2
+eight, CARDINAL, 2
+next week, DATE, 2
+50, DATE, 2
+Canada, GPE, 2
+Ukraine, GPE, 2
+Homeland Security, ORG, 2
+1st, ORDINAL, 2
+second-quarter, DATE, 2
+One, CARDINAL, 2
+500, CARDINAL, 2
+| Democratic Republic of the, GPE, 2
+Search, NORP, 2
+a half dozen, CARDINAL, 2
+Department of Health, ORG, 2
+England, GPE, 2
+New Zealand, GPE, 2
+RT World, ORG, 2
+Takeda, PERSON, 2
+nearly 400 million, CARDINAL, 2
+Maine, GPE, 2
+Shingrix, ORG, 2
+NIH, ORG, 2
+North America, LOC, 2
+Jack Dorsey, PERSON, 2
+Pakistani, NORP, 2
+CIA, ORG, 2
+bin Laden, PERSON, 2
+136, CARDINAL, 2
+more than 50, CARDINAL, 2
+Young, PERSON, 2
+Merck & Co, ORG, 2
+standout quarter, DATE, 2
+second quarter, DATE, 2
+Christmas, DATE, 2
+Samoan, ORG, 2
+$1.3 billion, MONEY, 2
+six, CARDINAL, 2
+the U.S. Centers for Disease Control and Prevention, ORG, 2
+Venezuelan, NORP, 2
+Non-Hodgkin's, ORG, 2
+CNBC, ORG, 2
+Vermont, GPE, 2
+last month, DATE, 2
+Jens Spahn, PERSON, 2
+Mylan NV, ORG, 2
+Ghana, GPE, 2
+Florida, GPE, 2
+Europeans, NORP, 2
+US & Canada, ORG, 2
+Pakistan News, ORG, 2
+next month, DATE, 2
+tens of thousands, CARDINAL, 2
+Gavin Newsom, PERSON, 2
+Daily Mail, ORG, 2
+America, GPE, 2
+Explainer, PERSON, 2
+White House, ORG, 2
+Indianapolis, GPE, 2
+Morgan Stanley, ORG, 2
+2,800, MONEY, 2
+100%, PERCENT, 2
+Al Jazeera WHO, ORG, 2
+92 percent, PERCENT, 2
+MIT, ORG, 2
+N.Y., GPE, 2
+Congress, ORG, 2
+Mozambicans, NORP, 1
+ABC News Mozambicans, ORG, 1
+Beira, GPE, 1
+nearly 900,000, CARDINAL, 1
+5-year-old, DATE, 1
+a day, DATE, 1
+nearly two decades, DATE, 1
+ABC News After, ORG, 1
+Houston Chronicle, ORG, 1
+the University of Texas Medical Branch, ORG, 1
+Galveston, PERSON, 1
+Jerome Kunkel's, PERSON, 1
+AMBALAVAO, ORG, 1
+115,000, CARDINAL, 1
+18 years old, DATE, 1
+Eighteen-year-old, DATE, 1
+the Senate Health Committee, ORG, 1
+South Pacific, LOC, 1
+decade, DATE, 1
+U.S. Customs and Border Protection, ORG, 1
+Lester Holt Melody Butler, PERSON, 1
+Nurses Who Vaccinate, ORG, 1
+De Blasio's, ORG, 1
+the Association of American Physicians and Surgeons, ORG, 1
+78 percent, PERCENT, 1
+NBC News Medical Writer, ORG, 1
+Shamard Charles, PERSON, 1
+World, ORG, 1
+360,000, CARDINAL, 1
+Some 360,000, CARDINAL, 1
+Imran Khan's, PERSON, 1
+Yahoo Finance, ORG, 1
+Del Bigtree's, PERSON, 1
+Sept. 12, 2019, DATE, 1
+This week, DATE, 1
+Del Bigtree, PERSON, 1
+Evee Clobes, PERSON, 1
+six-month-old, DATE, 1
+less than 48 hours, TIME, 1
+February of 2019, DATE, 1
+Catie Clobes, PERSON, 1
+Eliquis, PERSON, 1
+3, CARDINAL, 1
+More than half, CARDINAL, 1
+seven, CARDINAL, 1
+19 months of age, DATE, 1
+age 3, DATE, 1
+one-third, CARDINAL, 1
+Washington county, GPE, 1
+the US Food and Drug Administration, ORG, 1
+Vaccine,, ORG, 1
+First, ORDINAL, 1
+Reuters Britons, PERSON, 1
+Boris Johnson, PERSON, 1
+Terminal C.  , ORG, 1
+| Democratic Republic of the Congo, GPE, 1
+Johnson &, ORG, 1
+50%, PERCENT, 1
+three-year, DATE, 1
+earlier this month, DATE, 1
+Protests, NORP, 1
+nearly two hours, TIME, 1
+Department of Justice, ORG, 1
+April 24, DATE, 1
+1991, DATE, 1
+390, CARDINAL, 1
+Johnson & Johnson's, ORG, 1
+Vaccine U-turn, PERSON, 1
+More than a century, DATE, 1
+| Reuters Trust, ORG, 1
+Orange County, GPE, 1
+Saint Lucia, PERSON, 1
+Lawrence Knipel, PERSON, 1
+Three, CARDINAL, 1
+US Customs, ORG, 1
+CBP, ORG, 1
+Tara Narula, PERSON, 1
+RT World News Italian, ORG, 1
+500, MONEY, 1
+This Feb. 4, DATE, 1
+seventh, ORDINAL, 1
+nine, CARDINAL, 1
+Oklahoma, GPE, 1
+Kagame, PERSON, 1
+Paul Kagame, PERSON, 1
+the African Union, ORG, 1
+2063, DATE, 1
+More than 100, CARDINAL, 1
+just months, DATE, 1
+145, CARDINAL, 1
+Jinhu county, GPE, 1
+Jiangsu province, GPE, 1
+a modern day, DATE, 1
+Polio, PERSON, 1
+Biel, PERSON, 1
+under 18, DATE, 1
+1,390, CARDINAL, 1
+half, CARDINAL, 1
+Hameedullah Khan's, PERSON, 1
+Glastonbury, ORG, 1
+Bestival, GPE, 1
+this summer, DATE, 1
+Public Health England, ORG, 1
+Afghan Taliban, ORG, 1
+Red Cross, ORG, 1
+The Afghan Taliban, ORG, 1
+the Red Cross, ORG, 1
+Seth Berkley, PERSON, 1
+The United Kingdom, GPE, 1
+Each year, DATE, 1
+more than 20 million, CARDINAL, 1
+ABC News Germany's, ORG, 1
+SUN, ORG, 1
+WLWT, ORG, 1
+Ashley Kirklen, PERSON, 1
+Staph, PERSON, 1
+Russian Health ministry &, ORG, 1
+the Health Ministry, ORG, 1
+NBC News Signal - February 21st, ORG, 1
+Jussie Smollett, PERSON, 1
+Roger Stone, PERSON, 1
+Yellow Vest, PERSON, 1
+the Academy Awards, ORG, 1
+African American, NORP, 1
+Oscars, FAC, 1
+The U.S. Centers for Disease Control and Prevention, ORG, 1
+159, CARDINAL, 1
+almost 20 million, CARDINAL, 1
+Al Jazeera Officers, ORG, 1
+Lower Dir, LOC, 1
+CHICAGO, GPE, 1
+recent months, DATE, 1
+Tuilaepa Sailele Malielegaoi, PERSON, 1
+Yahoo News, ORG, 1
+Measles Outbreak Scientology, PERSON, 1
+doesn&#39;t, PERSON, 1
+Mark Zuckerberg, PERSON, 1
+The Salzburg Statement, ORG, 1
+the Journal of Health Communication, ORG, 1
+A decade, DATE, 1
+the past 10 years, DATE, 1
+Tel Aviv, GPE, 1
+Tel Aviv University, ORG, 1
+annually, DATE, 1
+Tusk, PERSON, 1
+the European Union's, ORG, 1
+European Council, ORG, 1
+Donald Tusk, PERSON, 1
+73, CARDINAL, 1
+ABC News, WORK_OF_ART, 1
+Archdiocese, NORP, 1
+2021, DATE, 1
+Drs, PERSON, 1
+Susan Buchbinder, PERSON, 1
+Sahara, LOC, 1
+Adré, PERSON, 1
+Chad, PERSON, 1
+This morning, TIME, 1
+Chad, GPE, 1
+Alphabet, GPE, 1
+Jim Cramer, PERSON, 1
+recent years, DATE, 1
+first week, DATE, 1
+the first week, DATE, 1
+Tiananmen Square, FAC, 1
+Al Jazeera Attack, ORG, 1
+2012, DATE, 1
+at least 95, CARDINAL, 1
+months, DATE, 1
+ABC News The World Health Organization, WORK_OF_ART, 1
+465, CARDINAL, 1
+285, CARDINAL, 1
+Queens, GPE, 1
+Alok Patel, PERSON, 1
+Pediatrician, NORP, 1
+NewYork-Presbyterian, ORG, 1
+Columbia University Irving Medical Center. &, ORG, 1
+Patel, PERSON, 1
+Terminal C. A, ORG, 1
+the past eight years, DATE, 1
+| Reuters Merck & Co Inc, ORG, 1
+Washington Senate, ORG, 1
+five years, DATE, 1
+74, CARDINAL, 1
+Roald Dahl's, PERSON, 1
+Olivia, GPE, 1
+Reuters Drugmaker Indivior Plc, ORG, 1
+Sai Bo Song, PERSON, 1
+Zhejiang Pukang Biotechnology Co. Ltd, ORG, 1
+up to $122.5 million, MONEY, 1
+1994, DATE, 1
+Marc Siegel, PERSON, 1
+at least 30%, PERCENT, 1
+just two weeks, DATE, 1
+nearly 20 years, DATE, 1
+the National Institutes of Health, ORG, 1
+Boko Haram, PERSON, 1
+ISIS, ORG, 1
+as many as 66,000, CARDINAL, 1
+Borno, GPE, 1
+4%, PERCENT, 1
+2016, DATE, 1
+more than 4 percent, PERCENT, 1
+Twitter, PRODUCT, 1
+At least 67, CARDINAL, 1
+Cyclone Idai, ORG, 1
+the World Health Organisation (WHO, ORG, 1
+HB 1638, ORG, 1
+N.J. Assembly, ORG, 1
+at least three, CARDINAL, 1
+900,000, CARDINAL, 1
+GlaxoSmithKline Plc, PERSON, 1
+Shingrix, PRODUCT, 1
+27 years, DATE, 1
+Carl, PERSON, 1
+Jodi Krawitt, PERSON, 1
+Asia, LOC, 1
+the U.S. Department of Homeland Security, ORG, 1
+Indian, NORP, 1
+India, GPE, 1
+RT Op-ed, PERSON, 1
+Paul, PERSON, 1
+Rand Paul, PERSON, 1
+Nina Dos Santos, PERSON, 1
+| Reuters Merck & Co Inc <MRK.N>, ORG, 1
+January 15, DATE, 1
+Whaley, GPE, 1
+Whaley, ORG, 1
+Parliament, ORG, 1
+Jonathan Albright, PERSON, 1
+Columbia University, ORG, 1
+News Feed, ORG, 1
+Capitol Hill, LOC, 1
+- Reuters Maine, ORG, 1
+329, CARDINAL, 1
+RFK Jr.'s, ORG, 1
+Kennedys, GPE, 1
+Robert Kennedy Jr., PERSON, 1
+Denmark, GPE, 1
+1999, DATE, 1
+2010, DATE, 1
+East African, NORP, 1
+Islamic, NORP, 1
+Islam, NORP, 1
+between the ages of 6 months and 6 years, DATE, 1
+19-year, DATE, 1
+Elizabeth Cohen, PERSON, 1
+34,000, CARDINAL, 1
+2 months - CNN Measles, DATE, 1
+GSK&#39;s, ORG, 1
+the US Centers for Disease Control and Prevention, ORG, 1
+New Zealand’s, GPE, 1
+a World Health Organization, ORG, 1
+Lancet, ORG, 1
+' this year, DATE, 1
+ABC News The World Health Organization (WHO, ORG, 1
+NZ, GPE, 1
+72, CARDINAL, 1
+NZ$1 million, MONEY, 1
+640,700, MONEY, 1
+1,200, CARDINAL, 1
+Rockland County Executive Ed Day, ORG, 1
+more than 500, CARDINAL, 1
+2017, DATE, 1
+Kim Nelson, PERSON, 1
+Greenville, GPE, 1
+South Carolina, GPE, 1
+Maine Senate, ORG, 1
+Reuters Merck & Co, ORG, 1
+the third quarter of 2020, DATE, 1
+South America, LOC, 1
+The National Institutes of Health, ORG, 1
+North and South America, GPE, 1
+Twitter, PERSON, 1
+Ben Greenfield Dorsey's, PERSON, 1
+Greenfield, PERSON, 1
+Reuters Pinterest, ORG, 1
+97.5%, PERCENT, 1
+April 16, DATE, 1
+1,290, CARDINAL, 1
+833, CARDINAL, 1
+8,400, CARDINAL, 1
+annual, DATE, 1
+American Academy of Neurology, ORG, 1
+at least 101, CARDINAL, 1
+Clark County, GPE, 1
+Elizabeth Brockway, PERSON, 1
+The Daily Beast/GettyA, ORG, 1
+Jiangsu, GPE, 1
+at least 145, CARDINAL, 1
+the Global Times, ORG, 1
+At least 922, CARDINAL, 1
+2, CARDINAL, 1
+14-year-old, DATE, 1
+Pediatrics, ORG, 1
+nearly a quarter century, DATE, 1
+six-month, DATE, 1
+the end of October, DATE, 1
+26, CARDINAL, 1
+Times, ORG, 1
+the United Kingdom, GPE, 1
+Martin Gore, PERSON, 1
+67, DATE, 1
+Venezuelans, NORP, 1
+Colombia, GPE, 1
+Venezuela, GPE, 1
+Syria, GPE, 1
+Shingrix - Reuters GlaxoSmithKline, ORG, 1
+WalletHub, ORG, 1
+Jessica Biel Comes Out, PERSON, 1
+Anti-Vaxx Activist, ORG, 1
+Joins Robert F. Kennedy Jr., PERSON, 1
+Bill InstagramTuesday, PERSON, 1
+the California State Assembly, ORG, 1
+KIRO, ORG, 1
+Seattle Public Schools, ORG, 1
+January 8th, DATE, 1
+Cuba, GPE, 1
+E915, ORG, 1
+Perdue Pharma, PERSON, 1
+Years, DATE, 1
+two to three, CARDINAL, 1
+Marburg, PERSON, 1
+2017-2018, DATE, 1
+Reuters GlaxoSmithKline, PERSON, 1
+more than 1 billion pounds, MONEY, 1
+Dispatch, ORG, 1
+Cara Hathaway, PERSON, 1
+Hathaway, PERSON, 1
+Sanofi, ORG, 1
+The Philippine Department of Justice, ORG, 1
+over 10, CARDINAL, 1
+holiday weekend, DATE, 1
+the weekend, DATE, 1
+Jilly Moss, PERSON, 1
+London, GPE, 1
+Japan, GPE, 1
+at least a decade, DATE, 1
+weekly, DATE, 1
+the Japanese National Institute of Infectious Diseases, ORG, 1
+167, CARDINAL, 1
+58%, PERCENT, 1
+$675 million, MONEY, 1
+Buttigieg, ORG, 1
+the past flu season, DATE, 1
+29%, PERCENT, 1
+RT World News Women, ORG, 1
+the Democratic Republic of the, GPE, 1
+Georgia State University, ORG, 1
+STI, ORG, 1
+U.S. Food and Drug Administration, ORG, 1
+Scott Gottlieb, PERSON, 1
+Anti-Vaxxers Are Protesting for Their Right Not to Vaccinate Kids, ORG, 1
+NIH Allergy, ORG, 1
+the US Measles, FAC, 1
+72 percent, PERCENT, 1
+Just a quarter, DATE, 1
+Over 2,000, CARDINAL, 1
+1, CARDINAL, 1
+Jynneos Smallpox, PERSON, 1
+Monkeypox Vaccine, ORG, 1
+Nature Medicine, ORG, 1
+New York’s, GPE, 1
+Mount Sinai Hospital, ORG, 1
+11, CARDINAL, 1
+Europe Pharmaceutical, ORG, 1
+sometime this year, DATE, 1
+Jennifer Ashton, PERSON, 1
+Half a million, CARDINAL, 1
+Matt Hancock, PERSON, 1
+€2,500 fines, MONEY, 1
+Euros, PERSON, 1
+the Democratic Republic of the Congo, GPE, 1
+800, CARDINAL, 1
+HIV & Ebola, ORG, 1
+Mylan - Reuters Pfizer Inc, ORG, 1
+more than 140,000, CARDINAL, 1
+More than 140,000, CARDINAL, 1
+2018, DATE, 1
+almost a decade, DATE, 1
+Poorer, GPE, 1
+GAVI, PERSON, 1
+Darryl Varnum, PERSON, 1
+Defense Department, ORG, 1
+today, DATE, 1
+Half, CARDINAL, 1
+one month, DATE, 1
+mid-August, DATE, 1
+the end of November, DATE, 1
+zero, CARDINAL, 1
+the World Health Organization’s, ORG, 1
+Summer, DATE, 1
+Western Europeans, NORP, 1
+Rhett Krawitt's, PERSON, 1
+Al Jazeera We, ORG, 1
+2011, DATE, 1
+Osama bin Laden, PERSON, 1
+one day, DATE, 1
+Al Jazeera Drugmaker, ORG, 1
+late Monday, DATE, 1
+British Columbia's, GPE, 1
+Lower Mainland, LOC, 1
+Michigan, GPE, 1
+The Democratic Republic of Congo, GPE, 1
+DRC&#39;s, ORG, 1
+August 2018, DATE, 1
+704, CARDINAL, 1
+a year since 1994, DATE, 1
+this season, DATE, 1
+about half, CARDINAL, 1
+6 months old, DATE, 1
+Customs, ORG, 1
+more than 2,100, CARDINAL, 1
+225,000, CARDINAL, 1
+more than 6 million, CARDINAL, 1
+Mexican, NORP, 1
+44, CARDINAL, 1
+December, DATE, 1
+MenB, CARDINAL, 1
+2100, CARDINAL, 1
+the end of the century, DATE, 1
+more than 400, CARDINAL, 1
+Austin, GPE, 1
+Dallas, GPE, 1
+Fort Worth, GPE, 1
+$10 billion, MONEY, 1
+$200 billion, MONEY, 1
+20, CARDINAL, 1
+Microsoft, ORG, 1
+National Health Service, ORG, 1
+an estimated 141,000, CARDINAL, 1
+the age of 5, DATE, 1
+Clock, ORG, 1
+Beneficial, ORG, 1
+18-year-old, DATE, 1
+Sukenik, ORG, 1
+8-month-old, DATE, 1
+Shira Goldschmidt, PERSON, 1
+Los Angeles, GPE, 1
+UCLA, ORG, 1
+Cal State Los Angeles, ORG, 1
+at least 225, CARDINAL, 1
+Israel, GPE, 1
+Up to 10 percent, PERCENT, 1
+695, CARDINAL, 1
+Detroit, GPE, 1
+age 62, DATE, 1
+the days, DATE, 1
+PSA, ORG, 1
+9, CARDINAL, 1
+BCG, ORG, 1
+more than a 100, CARDINAL, 1
+Harbin Veterinary Research Institute, ORG, 1
+2,427, CARDINAL, 1
+32, CARDINAL, 1
+more than a decade, DATE, 1
+At least 8, CARDINAL, 1
+RT USA News Amid, ORG, 1
+Mayor de Blasio, PERSON, 1
+- Reuters Trust, ORG, 1
+Vaccines for Children, ORG, 1
+95 percent, PERCENT, 1
+Trump Trash-Talks, PERSON, 1
+Joe Biden, PERSON, 1
+White House, FAC, 1
+Jonathan ErnstDuring, PERSON, 1
+Don McGahn, PERSON, 1
+1,400, CARDINAL, 1
+ABC News Mozambique, ORG, 1
+above 1,400, CARDINAL, 1
+hundreds of thousands, CARDINAL, 1
+The Northern Kentucky Health Department, ORG, 1
+less than a month, DATE, 1
+Merck & Co Inc's, ORG, 1
+41, CARDINAL, 1
+1,300, CARDINAL, 1
+99.5 percent, PERCENT, 1
+more than 1,300, CARDINAL, 1
+season 2019, DATE, 1
+mid-October, DATE, 1
+100 percent, PERCENT, 1
+12 and 13, DATE, 1
+September, DATE, 1
+Democrats, NORP, 1
+Rosa DeLauro, PERSON, 1
+D-Conn., GPE, 1
+Lucille Roybal-Allard, PERSON, 1
+D-Calif., GPE, 1
+the Department of Health and Human Services, ORG, 1
+Spahn, PERSON, 1
+one billion, CARDINAL, 1
+Google, ORG, 1
+billion, CARDINAL, 1
+Google Health, ORG, 1
+David Feinberg, PERSON, 1
+27 years, DATE, 1
+Albany, GPE, 1
+Andrew Cuomo, PERSON, 1
+1,000, CARDINAL, 1
+'weeks, DATE, 1
+last weeks, DATE, 1
+Teenager, ORG, 1
+1,044, CARDINAL, 1
+13, CARDINAL, 1
+About 4,000, CARDINAL, 1
+About 95 percent, PERCENT, 1
+a week, DATE, 1
+1 billion, CARDINAL, 1
+an additional 1 billion, MONEY, 1
+2080, CARDINAL, 1
+up to $125 billion, MONEY, 1
+2006, DATE, 1
+Pete Buttigieg Backpedals, ORG, 1
+Democratic, NORP, 1
+4 million, CARDINAL, 1
+Measles, PERSON, 1
+1963, DATE, 1
+World Health Organization - UPI.com The World Health Organization, ORG, 1
+about 500,000, CARDINAL, 1
+up to €2,500, MONEY, 1
+Instagram , PERSON, 1
+only one, CARDINAL, 1
+NBC, ORG, 1
+last September, DATE, 1
+70, CARDINAL, 1
+90 percent, PERCENT, 1
+30 percent, PERCENT, 1
+summer camp season, DATE, 1
+Merck & Co's, ORG, 1
+Arizona, GPE, 1
+Minnesota, GPE, 1
+Iowa, GPE, 1
+at least 704, CARDINAL, 1
+BLOOMBERG, ORG, 1
+Kenilworth, GPE, 1
+Merck & Co., ORG, 1
+at least 10 days, DATE, 1
+more than a half, DATE, 1
+third, ORDINAL, 1
+Samoa’s, ORG, 1
+the past day, DATE, 1
+200,000, CARDINAL, 1
+DR Congo, GPE, 1
+Goma | Democratic Republic of the, GPE, 1
+More than one, CARDINAL, 1
+Mylan, ORG, 1
+Civil Liberties Union, ORG, 1
+ReutersThe New York Civil Liberties Union, ORG, 1
+earlier in the day, TIME, 1
+roughly 60 percent, PERCENT, 1
+the same day, DATE, 1
+Gunmen, GPE, 1
+Australian, NORP, 1
+Malawi, GPE, 1
+about four, CARDINAL, 1
+Defiance of Anti-Vaxx Parents, ORG, 1
+Herpes, NORP, 1
+next season's, DATE, 1
+2019-20 season, DATE, 1
+the Northern Hemisphere, LOC, 1
+H1N1, ORG, 1
+ABC News Samoa, ORG, 1
+NYC, ORG, 1
+At least 103, CARDINAL, 1
+89 percent, PERCENT, 1
+PTSD &, ORG, 1
+next 15yrs, DATE, 1
+RT World News Scientists, ORG, 1
+the next 10 to 15 years, DATE, 1
+PTSD, DATE, 1
+80 percent, PERCENT, 1
+VIDEOGRAPHICS, ORG, 1
+Kennedy, PERSON, 1
+Politico Magazine, ORG, 1
+Joe Kennedy II, PERSON, 1
+Kathleen Kennedy Townsend, PERSON, 1
+Maeve Kennedy, PERSON, 1
+Robert F. Kennedy Jr.’s, PERSON, 1
+'The View' - ABC News, WORK_OF_ART, 1
+IndyCar, ORG, 1
+Immunization Exemptions Map, ORG, 1
+Charts, GPE, 1
+Al Jazeera Roads, ORG, 1
+62, CARDINAL, 1
+Roughly half, CARDINAL, 1
+18, CARDINAL, 1
+more than sixty, CARDINAL, 1
+TUILAEPA SAILELE MALIELEGAOI, PERSON, 1
+two days, DATE, 1
+7, DATE, 1
+late October, DATE, 1
+More than 4,000, CARDINAL, 1
+just 200,000, CARDINAL, 1
+Nineteen-year-old, DATE, 1
+Elsie Lolesio, PERSON, 1
+Noel, PERSON, 1
+only a year old, DATE, 1
+LOLESIO, ORG, 1
+three days, DATE, 1
+AGENCE FRANCE-PRESSE, ORG, 1
+30 days, DATE, 1
+U.S, GPE, 1
+Pfizer, PERSON, 1
+billions, CARDINAL, 1
+Four, CARDINAL, 1
+$100 billion, MONEY, 1
+2025, DATE, 1
+More than 700, CARDINAL, 1
+Marc Liverman, PERSON, 1
+The New York State Department of Health, ORG, 1
+6 months, DATE, 1
+Alec Baldwin, PERSON, 1
+Moon, PERSON, 1
+Barack Obama's, PERSON, 1
+Manhattan, GPE, 1
+Digital, ORG, 1
+Mailchimp, PERSON, 1
+Darla Shine, PERSON, 1
+Prince William, PERSON, 1
+ABC News Parents, ORG, 1
+New York's, GPE, 1
+months-long, DATE, 1
+Brandy Zadrozny, PERSON, 1
+Russian, NORP, 1
+Congolese, NORP, 1
+anti-Ebola, PERSON, 1
+northeast Democratic Republic of Congo, GPE, 1
+Sunday, DATE, 1
+Lwemba, ORG, 1
+Ituri, NORP, 1
+age 18, DATE, 1
+Marie-Claire Grime, PERSON, 1
+Paris, GPE, 1
+daily, DATE, 1
+up to 10 percent, PERCENT, 1
+AMA, ORG, 1
+The American Medical Association, ORG, 1
+ALBANY, GPE, 1
+Democrat, NORP, 1
+Assembly, ORG, 1
+House, ORG, 1

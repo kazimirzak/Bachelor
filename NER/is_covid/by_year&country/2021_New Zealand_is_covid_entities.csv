@@ -1,0 +1,4823 @@
+entity, label, count
+New Zealand, GPE, 416
+first, ORDINAL, 270
+RNZ News, ORG, 225
+today, DATE, 205
+Auckland, GPE, 197
+NZ, GPE, 183
+Australia, GPE, 139
+UK, GPE, 132
+3, CARDINAL, 130
+two, CARDINAL, 121
+COVID-19, PRODUCT, 119
+19, CARDINAL, 119
+Herald New York Times, ORG, 117
+one, CARDINAL, 110
+US, GPE, 99
+RNZ, ORG, 98
+COVID-19, PERSON, 96
+Jacinda Ardern, PERSON, 94
+2020, DATE, 85
+2, CARDINAL, 85
+Covid, PERSON, 78
+Auckland, PERSON, 77
+Pfizer, PERSON, 75
+2021, DATE, 70
+three, CARDINAL, 67
+One, CARDINAL, 62
+New Zealand's, GPE, 62
+UN, ORG, 62
+Chris Hipkins, PERSON, 60
+Auckland, NORP, 58
+PNG, ORG, 57
+New Zealanders, NORP, 56
+Two, CARDINAL, 55
+Wellington, GPE, 55
+1, CARDINAL, 53
+Australian, NORP, 52
+yesterday, DATE, 49
+Sunday, DATE, 45
+four, CARDINAL, 45
+AstraZeneca, ORG, 45
+Northland, ORG, 43
+New Zealand’s, GPE, 43
+Response, ORG, 42
+Covid, NORP, 41
+China, GPE, 41
+South Auckland, GPE, 38
+February, DATE, 38
+last year, DATE, 36
+Monday, DATE, 36
+Northland, GPE, 35
+Wednesday, DATE, 35
+Pacific, LOC, 34
+Alert Level, PERSON, 34
+David Seymour, PERSON, 34
+4, CARDINAL, 34
+EU, ORG, 33
+second, ORDINAL, 33
+a year, DATE, 32
+Kiwis, GPE, 32
+Ashley Bloomfield, PERSON, 32
+Friday, DATE, 32
+Three, CARDINAL, 32
+Māori, PERSON, 31
+Govt, ORG, 31
+the Ministry of Health, ORG, 30
+Europe, LOC, 29
+Managed Isolation, FAC, 28
+Papatoetoe High School, ORG, 28
+third, ORDINAL, 28
+Fiji, GPE, 28
+America, GPE, 27
+Saturday, DATE, 26
+Thursday, DATE, 26
+Christchurch, ORG, 26
+Cook Islands, LOC, 26
+South African, NORP, 25
+Michael Baker, PERSON, 25
+Kiwis, PERSON, 24
+Brazil, GPE, 23
+this week, DATE, 23
+India, GPE, 23
+Scoop News, ORG, 22
+10, CARDINAL, 22
+Melbourne, GPE, 22
+months, DATE, 21
+the year, DATE, 21
+Kiwi, ORG, 21
+Judith Collins, PERSON, 21
+five, CARDINAL, 21
+Air New Zealand, ORG, 21
+tomorrow, DATE, 20
+Britain, GPE, 20
+daily, DATE, 20
+French, NORP, 20
+Boris Johnson, PERSON, 20
+one year, DATE, 19
+Israel, GPE, 19
+South Africa, GPE, 19
+London, GPE, 19
+six, CARDINAL, 19
+The Ministry of Health, ORG, 19
+this year, DATE, 19
+this morning, TIME, 18
+Oxford, ORG, 18
+Today, DATE, 18
+Air NZ, ORG, 18
+Queensland, GPE, 18
+Hamilton, PERSON, 18
+Wuhan, GPE, 18
+Cabinet, ORG, 18
+Siouxsie Wiles, PERSON, 18
+trans-Tasman, NORP, 18
+thousands, CARDINAL, 17
+next week, DATE, 16
+March, DATE, 16
+National’s, ORG, 16
+Covid Tracer, PERSON, 15
+Checkpoint, PERSON, 15
+annual, DATE, 15
+DHB, ORG, 15
+First, ORDINAL, 15
+Sydney, GPE, 14
+seven, CARDINAL, 14
+Biden, PERSON, 14
+11, CARDINAL, 14
+Taranaki, GPE, 14
+No New Community Cases, ORG, 14
+Ministry of Health, ORG, 14
+Victoria, GPE, 14
+this afternoon, TIME, 14
+Papua New Guinea, GPE, 14
+A year, DATE, 13
+NSW, ORG, 13
+year, DATE, 13
+Herald Financial Times, ORG, 13
+Covid - NZ, PERSON, 13
+millions, CARDINAL, 13
+Herald Experts, ORG, 13
+South Auckland, NORP, 13
+CNMI, ORG, 12
+zero, CARDINAL, 12
+Five, CARDINAL, 12
+Japan, GPE, 12
+Four, CARDINAL, 12
+the United States, GPE, 12
+One year, DATE, 12
+Tuesday, DATE, 12
+a week, DATE, 12
+three-day, DATE, 12
+Lockdown, ORG, 12
+Samoa, ORG, 12
+6, CARDINAL, 12
+Asia, LOC, 12
+last week, DATE, 12
+night, TIME, 11
+British, NORP, 11
+summer, DATE, 11
+January, DATE, 11
+Covid, ORG, 11
+Lisa Owen, PERSON, 11
+ACT, ORG, 11
+Parliament, ORG, 11
+England, GPE, 11
+Destiny Church, ORG, 11
+France, GPE, 11
+Thousands, CARDINAL, 11
+evening, TIME, 11
+Phil Goff, PERSON, 11
+last year's, DATE, 10
+Tonga, GPE, 10
+fourth, ORDINAL, 10
+two weeks, DATE, 10
+Kmart, ORG, 10
+Chinese, NORP, 10
+the Pullman Hotel, ORG, 10
+Chris Bishop, PERSON, 10
+Joe Biden, PERSON, 10
+Vaccine, PERSON, 10
+WHO, ORG, 10
+Jacinda Ardern's, PERSON, 10
+hours, TIME, 9
+Luna Rossa, PERSON, 9
+American Samoa, ORG, 9
+tonight, TIME, 9
+Polynesia, GPE, 9
+Valentine, PERSON, 9
+Dutch, NORP, 9
+Auckland, ORG, 9
+midnight, TIME, 9
+Arrival, PERSON, 9
+15, CARDINAL, 9
+Managed Isolation, ORG, 9
+Brian, PERSON, 9
+New York, GPE, 9
+the weekend, DATE, 9
+Trans-Tasman, ORG, 9
+100, CARDINAL, 9
+Queenstown, GPE, 9
+Italian, NORP, 9
+July, DATE, 9
+California, GPE, 9
+RNZ News Health, ORG, 9
+Marlborough, GPE, 9
+Nelson, PERSON, 8
+APEC, ORG, 8
+the United Kingdom, GPE, 8
+hundreds, CARDINAL, 8
+Germany, GPE, 8
+2 Days, DATE, 8
+Six, CARDINAL, 8
+Papatoetoe, GPE, 8
+the Cook Islands, LOC, 8
+Via Positive, ORG, 8
+New South Wales, LOC, 8
+Trump, PERSON, 8
+seven days, DATE, 8
+week, DATE, 8
+this weekend, DATE, 8
+European, NORP, 8
+Timaru, ORG, 8
+8, CARDINAL, 8
+Aotearoa, ORG, 8
+Hannah Tamaki, PERSON, 8
+years, DATE, 8
+100,000, CARDINAL, 8
+next month, DATE, 8
+Grant Robertson, PERSON, 8
+Italy, GPE, 8
+500,000, CARDINAL, 8
+Taiwan, GPE, 8
+Australians, NORP, 8
+Herald Auckland, PERSON, 8
+Kmart Botany, PERSON, 8
+Eight, CARDINAL, 7
+last night, TIME, 7
+seven-day, DATE, 7
+Johnson, PERSON, 7
+June, DATE, 7
+2022, DATE, 7
+21, CARDINAL, 7
+The National Party, ORG, 7
+a year ago, DATE, 7
+U.S., GPE, 7
+Wiggles, PERSON, 7
+Russian, NORP, 7
+Russia, GPE, 7
+Donald Trump, PERSON, 7
+Los Angeles, GPE, 7
+Invercargill, ORG, 7
+12, CARDINAL, 7
+Auckland Airport, FAC, 7
+five-day, DATE, 7
+Māori, GPE, 7
+Auckland, LOC, 7
+House, ORG, 7
+Kiwi, PERSON, 7
+100 million, CARDINAL, 6
+12 months, DATE, 6
+Auckland - NZ, GPE, 6
+Palestinians, NORP, 6
+Herald New, ORG, 6
+December, DATE, 6
+Brisbane, PERSON, 6
+three days, DATE, 6
+eight, CARDINAL, 6
+5 million, CARDINAL, 6
+Rarotonga, GPE, 6
+Audrey Young, PERSON, 6
+This week, DATE, 6
+the last year, DATE, 6
+Spain, GPE, 6
+The Council of Trade Unions, ORG, 6
+QAnon, ORG, 6
+Herald Australia, ORG, 6
+Nick Monro, PERSON, 6
+morning, TIME, 6
+Tom Moore, PERSON, 6
+Liam Dann, PERSON, 6
+the Health Ministry, ORG, 6
+30, CARDINAL, 6
+Palau, GPE, 6
+Aucklanders, ORG, 6
+Africa, LOC, 6
+Canterbury, GPE, 6
+this evening, TIME, 6
+No New COVID-19 Community Cases, ORG, 6
+Covid 19, PERSON, 6
+Bougainville, GPE, 6
+Mark Brown, PERSON, 6
+South Island, LOC, 6
+Chris Smith, PERSON, 6
+post-Covid, EVENT, 5
+covid-19, PERSON, 5
+Digital, ORG, 5
+United Nations, ORG, 5
+the past year, DATE, 5
+Mark Mitchell, PERSON, 5
+Tauranga, GPE, 5
+the European Union, ORG, 5
+Air New Zealand's, ORG, 5
+weekly, DATE, 5
+Americans, NORP, 5
+Queen, PERSON, 5
+The Northern Marianas, ORG, 5
+1000, CARDINAL, 5
+31, CARDINAL, 5
+the World Health Organization (WHO, ORG, 5
+Easter, ORG, 5
+Herald Australia's, ORG, 5
+Hamilton, GPE, 5
+Moderna, GPE, 5
+post-Covid world, EVENT, 5
+Harry, PERSON, 5
+2019, DATE, 5
+Mexico, GPE, 5
+Samoan, ORG, 5
+Coronation Street, FAC, 5
+Stats, ORG, 5
+Grand Mercure, ORG, 5
+António Guterres, PERSON, 5
+Southland, ORG, 5
+Stats NZ, ORG, 5
+Tasman, NORP, 5
+this month, DATE, 5
+Paris, GPE, 5
+Matthew Hooton, PERSON, 5
+28, CARDINAL, 5
+Fran O'Sullivan, PERSON, 5
+Shaun Hendy, PERSON, 5
+14, CARDINAL, 5
+five million, CARDINAL, 5
+Tokyo, GPE, 5
+PM, PERSON, 5
+Scoop News &, ORG, 5
+Dunedin, PERSON, 5
+Hundreds, CARDINAL, 5
+EMA, ORG, 5
+two-week, DATE, 5
+Claire Trevett, PERSON, 5
+Second, ORDINAL, 5
+Fijian, NORP, 5
+Seven, CARDINAL, 5
+the past week, DATE, 5
+Larry King, PERSON, 5
+two-day, DATE, 5
+Netherlands, GPE, 5
+10-year, DATE, 4
+Tāmaki Makaurau, ORG, 4
+Yesterday, DATE, 4
+5, CARDINAL, 4
+Herald The Ministry of Health, ORG, 4
+the America’s Cup, ORG, 4
+Leader of, ORG, 4
+the World Health Organization ( WHO, ORG, 4
+Norway, GPE, 4
+RNZ News Aucklanders, ORG, 4
+Olympics, EVENT, 4
+Corona, GPE, 4
+Ella Stewart, PERSON, 4
+Scotland, GPE, 4
+Health Ministry, ORG, 4
+April, DATE, 4
+Waikato, PERSON, 4
+7, CARDINAL, 4
+ASB, ORG, 4
+Marton, PERSON, 4
+Erebus, ORG, 4
+billions, CARDINAL, 4
+2024, DATE, 4
+half, CARDINAL, 4
+Classic Boat Show, PRODUCT, 4
+Air NZ's, ORG, 4
+Greg Foran, PERSON, 4
+last year’s, DATE, 4
+Bloomfield, GPE, 4
+Indian, NORP, 4
+Singapore, GPE, 4
+Johnny Briggs, PERSON, 4
+Irish, NORP, 4
+COVID-19 Response, PERSON, 4
+PPE, ORG, 4
+72 hours, TIME, 4
+the Grand Mercure, FAC, 4
+World Health Organisation, ORG, 4
+Nick Truebridge, PERSON, 4
+Vaughan Couillault, ORG, 4
+Pakistan, GPE, 4
+MIT, ORG, 4
+afternoon, TIME, 4
+COVID-19 Vaccine, PERSON, 4
+The European Union, ORG, 4
+RNZ News Police, ORG, 4
+Otago University, ORG, 4
+two days, DATE, 4
+more than 100, CARDINAL, 4
+Healthline, ORG, 4
+Bloomfield, ORG, 4
+IRD, ORG, 4
+Canterbury, ORG, 4
+Twitter, PRODUCT, 4
+CDC, ORG, 4
+Victorian, NORP, 4
+Vanuatu, ORG, 4
+North Korea, GPE, 4
+12,000, CARDINAL, 4
+Amazon, ORG, 4
+Counties Manukau Health, ORG, 4
+weeks, DATE, 4
+National, ORG, 4
+RNZ News National, ORG, 4
+Brian Tamaki, PERSON, 4
+NRL, ORG, 4
+OECD, ORG, 4
+Scott Morrison, PERSON, 4
+50, CARDINAL, 4
+Ardern, ORG, 4
+one day, DATE, 4
+Dubai, GPE, 4
+4, DATE, 4
+Jordan, GPE, 4
+Outbreak, ORG, 4
+half year, DATE, 4
+Medsafe, PERSON, 4
+Melbourne Airport, FAC, 4
+Herald US, ORG, 4
+KiwiSaver, ORG, 4
+Black Caps, GPE, 4
+Goff, PERSON, 4
+400,000, CARDINAL, 4
+Otago, PERSON, 4
+14 days, DATE, 4
+Baker, PERSON, 4
+New Caledonia, GPE, 4
+earlier this month, DATE, 4
+Golriz Ghahraman, PERSON, 4
+Reti, PERSON, 4
+John Magufuli, PERSON, 4
+May, DATE, 4
+six months, DATE, 4
+nine, CARDINAL, 4
+Thailand, GPE, 4
+5520, MONEY, 4
+60, CARDINAL, 4
+Ireland, GPE, 4
+Damien O'Connor, PERSON, 4
+Globe, ORG, 4
+day, DATE, 4
+Hawaii, GPE, 4
+three weeks, DATE, 4
+Pacific, ORG, 3
+SH1, GPE, 3
+MBIE, ORG, 3
+the long weekend, DATE, 3
+pre-Covid, NORP, 3
+COVID-19 Update: Transport In, PRODUCT, 3
+Auckland Transport, ORG, 3
+Alert Level, WORK_OF_ART, 3
+Bruce Cotterill, PERSON, 3
+United States, GPE, 3
+Waiheke Island, LOC, 3
+Dean Purcell, PERSON, 3
+South Africa's, GPE, 3
+Tony Wheeler, PERSON, 3
+Manukau Institute of Technology, ORG, 3
+ACT Leader, PERSON, 3
+nearly 1000, CARDINAL, 3
+previous years, DATE, 3
+Tahiti, GPE, 3
+21-year-old, DATE, 3
+Central Otago, LOC, 3
+Queenstown, NORP, 3
+State, ORG, 3
+Simon Rogers, PERSON, 3
+Countdown, ORG, 3
+CVC, ORG, 3
+North Shore Hospital, ORG, 3
+Indonesia, GPE, 3
+the past three days, DATE, 3
+Gwyneth Paltrow, PERSON, 3
+Tanzania, GPE, 3
+the New Zealand Government, ORG, 3
+Bryan Betty, PERSON, 3
+Juha Saarinen, PERSON, 3
+half-year, DATE, 3
+Herald New Zealand, ORG, 3
+World, ORG, 3
+States, GPE, 3
+Scoop News National, ORG, 3
+This year, DATE, 3
+RNZ News Experts, ORG, 3
+Saliva, PERSON, 3
+days, DATE, 3
+Louis Houlbrooke, PERSON, 3
+Blues, PERSON, 3
+one-day, DATE, 3
+tens of thousands, CARDINAL, 3
+March 2020, DATE, 3
+nearly eight hours, TIME, 3
+Healthline, GPE, 3
+Stuart Nash, PERSON, 3
+a month, DATE, 3
+just days, DATE, 3
+Hotel, PERSON, 3
+100km, QUANTITY, 3
+Oprah, PERSON, 3
+Jacinda Ardern - NZ, PERSON, 3
+Mike Baldwin, PERSON, 3
+85, DATE, 3
+Waitangi Day, EVENT, 3
+the Jet Park, FAC, 3
+24, CARDINAL, 3
+Bryan Waddle, PERSON, 3
+The World Health Organisation, ORG, 3
+Palmerston, GPE, 3
+Kahungunu, PERSON, 3
+St Patrick's, PERSON, 3
+European Union, ORG, 3
+Anthony Fauci, PERSON, 3
+Matthew Theunissen, PERSON, 3
+seventh, ORDINAL, 3
+more than a year, DATE, 3
+two years, DATE, 3
+the World Health Organization, ORG, 3
+four months, DATE, 3
+the Port of Tauranga, FAC, 3
+Lincoln, ORG, 3
+South Canterbury, GPE, 3
+Auckland | RNZ News, ORG, 3
+Honolulu, GPE, 3
+Thai, NORP, 3
+COVID-19 Alert Level, PERSON, 3
+Kathryn, PERSON, 3
+last week's, DATE, 3
+Papua New Guinea's, GPE, 3
+Managed Isolation and Quarantine, ORG, 3
+Disney, ORG, 3
+Kerre McIvor, PERSON, 3
+Kirk Hope, PERSON, 3
+11.59pm, CARDINAL, 3
+25 March, DATE, 3
+Iraq, GPE, 3
+Apple, ORG, 3
+next weekend, DATE, 3
+Mo Willems, PERSON, 3
+Government, ORG, 3
+18, CARDINAL, 3
+University of Auckland, ORG, 3
+Seattle, GPE, 3
+Last year, DATE, 3
+African, NORP, 3
+the Tokyo Olympics, EVENT, 3
+Nick Wilson, PERSON, 3
+the University of Otago, ORG, 3
+Emile, PERSON, 3
+Alert Level, FAC, 3
+BNZ, ORG, 3
+Plessis-Allan, ORG, 3
+December 2020, DATE, 3
+February 2020, DATE, 3
+Last night, TIME, 3
+11.59pm tonight, TIME, 3
+Detail, PERSON, 3
+Art Deco Festival, PERSON, 3
+28 days, DATE, 3
+Louise Ternouth, PERSON, 3
+350, MONEY, 3
+South Canterbury, LOC, 3
+weekend, DATE, 3
+Michael Baker - NZ, PERSON, 3
+coming weeks, DATE, 3
+40k, MONEY, 3
+Herald Data, ORG, 3
+full-year, DATE, 3
+Herald Jarden's, PERSON, 3
+RNZ News Australia, ORG, 3
+20, CARDINAL, 3
+Queenstown, PERSON, 3
+Rawiri Waititi, PERSON, 3
+Stuart Ritchie, PERSON, 3
+International Women’s Day, ORG, 3
+overnight, TIME, 3
+Steven Joyce, PERSON, 3
+One, PERSON, 3
+2 million, CARDINAL, 3
+Herald Health, ORG, 3
+Brian Fallow, PERSON, 3
+Two Days, DATE, 3
+the next three months, DATE, 3
+WWII, EVENT, 3
+Caribbean, LOC, 3
+Herald National, ORG, 3
+a bad year, DATE, 3
+Middle East, LOC, 3
+LSG Sky Chefs, ORG, 3
+Herald A, ORG, 3
+25, CARDINAL, 3
+March 10, DATE, 3
+Florida, GPE, 3
+5,000, CARDINAL, 3
+Jair Bolsonaro, PERSON, 3
+Richard, PERSON, 3
+Grand Millennium, ORG, 3
+October, DATE, 3
+the South Island, LOC, 3
+Auckland International Airport, FAC, 3
+a day, DATE, 3
+Alert Levels, PERSON, 3
+February 2021, DATE, 3
+Auckland Council, ORG, 3
+more than a dozen, CARDINAL, 3
+Texas, GPE, 3
+Derryn Mayne, PERSON, 3
+Asia-Pacific, LOC, 3
+Kate MacNamara, PERSON, 3
+Leader of the Opposition Judith Collins, ORG, 3
+pre-Covid, PERSON, 3
+Vietnam, GPE, 3
+less than 24 hours, TIME, 3
+third day, DATE, 3
+Tiger King, PERSON, 3
+Joe Exotic, PERSON, 3
+Brazilian, NORP, 3
+Prada Cup, ORG, 3
+Wallis and Futuna, GPE, 3
+Microsoft, ORG, 3
+DOC, ORG, 3
+Cambridge University, ORG, 3
+Tom Abercrombie, PERSON, 3
+the World Obesity Federation, ORG, 3
+Day, DATE, 3
+Senate, ORG, 3
+Tuesday 16 February, DATE, 3
+Lisa-Marie, PERSON, 3
+Ministry of Education, ORG, 3
+The Marshall Islands, GPE, 2
+204 days, DATE, 2
+2013, DATE, 2
+KEA Kids News, ORG, 2
+Christmas, DATE, 2
+31 March, DATE, 2
+Auckland Arts Festival, ORG, 2
+Covid Update, PERSON, 2
+Tāmaki, PERSON, 2
+6am this morning, TIME, 2
+70, CARDINAL, 2
+Vatican City, GPE, 2
+'hours, TIME, 2
+their busy day, DATE, 2
+South Aucklanders, ORG, 2
+Steve Braunias, PERSON, 2
+Bachelorette, PERSON, 2
+American Samoa's, ORG, 2
+Peleti Mauga, PERSON, 2
+Say UN Experts, ORG, 2
+145, CARDINAL, 2
+ICU, ORG, 2
+1500, CARDINAL, 2
+Sweden, GPE, 2
+100 Million, CARDINAL, 2
+16 February, DATE, 2
+Auckland and Northland, ORG, 2
+Retail, GPE, 2
+97-year-old, DATE, 2
+AstraZeneca, LAW, 2
+Tedros Adhanom Ghebreyesus, PERSON, 2
+100%, PERCENT, 2
+Brexit, PERSON, 2
+Camila Cavendish, PERSON, 2
+News Germany, GPE, 2
+Joseph Parker, PERSON, 2
+Nanaia Mahuta, PERSON, 2
+David, PERSON, 2
+Twenty per cent, MONEY, 2
+450, CARDINAL, 2
+RNZ News International, ORG, 2
+paradise - a year, DATE, 2
+Checkpoint, ORG, 2
+Collins, PERSON, 2
+Herald Trump, PERSON, 2
+the Ministry of Business, ORG, 2
+April 9, DATE, 2
+Auckland's Pullman Hotel, ORG, 2
+300, CARDINAL, 2
+| Scoop News, PRODUCT, 2
+The Australasian Society for Infectious Diseases, ORG, 2
+17 February, DATE, 2
+Scoop News The Ministry of Health, ORG, 2
+Juliet Stevenson, PERSON, 2
+Fijians, NORP, 2
+New Plymouth, GPE, 2
+Bay Oval, FAC, 2
+Ngāti Whātua Ōrākei, PERSON, 2
+S&P, ORG, 2
+Chris, PERSON, 2
+Kenya, GPE, 2
+PM, GPE, 2
+Half, CARDINAL, 2
+Monday 15 February, DATE, 2
+4%, PERCENT, 2
+Dave Chappelle, PERSON, 2
+Crusaders, PRODUCT, 2
+Lake Rotoiti, FAC, 2
+Blenheim, PERSON, 2
+9.72%, PERCENT, 2
+GlobalData, ORG, 2
+Taranaki, PERSON, 2
+Mark Carney, PERSON, 2
+Taryn Hamilton, ORG, 2
+Orcon, GPE, 2
+tens of millions, MONEY, 2
+first-year, DATE, 2
+Chris Hipkins - NZ, PERSON, 2
+GP, ORG, 2
+Covid-hit, PERSON, 2
+Kris Gledhill, PERSON, 2
+Auckland's, ORG, 2
+L.A.B, PERSON, 2
+30,000, CARDINAL, 2
+Sachin Tendulkar, WORK_OF_ART, 2
+300,000, CARDINAL, 2
+the United Nations, ORG, 2
+Kiwi Property's, ORG, 2
+JOE BIDEN, PERSON, 2
+Trump, ORG, 2
+more than half, CARDINAL, 2
+two or three days, DATE, 2
+Kate Middleton's, PERSON, 2
+three weeks ago, DATE, 2
+1 at midday, TIME, 2
+Level 2, FAC, 2
+Herald Forget, ORG, 2
+Putin, PERSON, 2
+the World Health Organisation, ORG, 2
+Third, ORDINAL, 2
+ten months, DATE, 2
+more than $5 billion, MONEY, 2
+Jack Buchanan, PERSON, 2
+16,000, CARDINAL, 2
+at least 72 hours, TIME, 2
+English, LANGUAGE, 2
+a recent ‘day, DATE, 2
+Research NZ, ORG, 2
+Team New Zealand, ORG, 2
+3700, CARDINAL, 2
+two months, DATE, 2
+the next three days, DATE, 2
+Bruce Willis, PERSON, 2
+St Patrick's Day, PERSON, 2
+the Education Review Office, ORG, 2
+Kohei Morikawa, PERSON, 2
+Showa Denko, PERSON, 2
+New Year, EVENT, 2
+last July, DATE, 2
+ACC, ORG, 2
+Nine, CARDINAL, 2
+ANZ, ORG, 2
+Glass, PERSON, 2
+ten, CARDINAL, 2
+G20, ORG, 2
+Richard Prebble, PERSON, 2
+NZX, ORG, 2
+22 January 2021, DATE, 2
+Hong Kong's, GPE, 2
+many months, DATE, 2
+Mehra, PERSON, 2
+Vista Group, ORG, 2
+Port of Tauranga, FAC, 2
+COVID Tracer, PERSON, 2
+Friday 12 March, DATE, 2
+eighth, ORDINAL, 2
+March 24, DATE, 2
+Dozens, CARDINAL, 2
+December 2020 quarter, DATE, 2
+6am, TIME, 2
+New year, DATE, 2
+David Skegg, PERSON, 2
+Democrats, NORP, 2
+Charities, ORG, 2
+NZ Cricket, ORG, 2
+$1.4 million, MONEY, 2
+New Zealand Cricket, ORG, 2
+every day, DATE, 2
+Pacific, GPE, 2
+Ten, CARDINAL, 2
+Fiso Group, ORG, 2
+Rako Science, PERSON, 2
+14th, ORDINAL, 2
+the past 12 months, DATE, 2
+Bill Bailey, PERSON, 2
+Alexander Gillespie, PERSON, 2
+the Art Deco Trust, ORG, 2
+Victorians, NORP, 2
+2 January, DATE, 2
+Pullman Hotel, ORG, 2
+Herald Company, ORG, 2
+843, CARDINAL, 2
+Auckland's Pasifika Festival, ORG, 2
+Merge Cafe, PERSON, 2
+the end of the month, DATE, 2
+more than a decade, DATE, 2
+This International Women’s Day, ORG, 2
+$20 million, MONEY, 2
+winter, DATE, 2
+recent weeks, DATE, 2
+Jacinda Ardern’s, PERSON, 2
+17 March 2021, DATE, 2
+Willie Jackson, PERSON, 2
+recent years, DATE, 2
+Rod Carr, PERSON, 2
+Level 2, PRODUCT, 2
+NZT, ORG, 2
+2.0, CARDINAL, 2
+hundreds of thousands, CARDINAL, 2
+Marama Davidson, PERSON, 2
+1,000, CARDINAL, 2
+Lego, ORG, 2
+One-Third, CARDINAL, 2
+last weeks, DATE, 2
+Wellingtonians, NORP, 2
+Wanaka, ORG, 2
+bin, PERSON, 2
+500, CARDINAL, 2
+World Cup, EVENT, 2
+Martin Henderson, PERSON, 2
+RNZ News Vanuatu, ORG, 2
+RNZ News One, ORG, 2
+another year, DATE, 2
+150, CARDINAL, 2
+Covid 19, LAW, 2
+6am Sunday, TIME, 2
+Michael Plank, PERSON, 2
+at least three weeks, DATE, 2
+Covid Vaccine, PERSON, 2
+Crown, ORG, 2
+Beijing, GPE, 2
+Southern, NORP, 2
+Venice, GPE, 2
+RNZ News Quarantine, ORG, 2
+Throat Swabs, PERSON, 2
+The National Hauora Coalition, ORG, 2
+NHC, ORG, 2
+Coronavirus, ORG, 2
+Oceania, GPE, 2
+Mackay, PERSON, 2
+Asians, NORP, 2
+Rotorua, ORG, 2
+Czech, NORP, 2
+Ayesha Verrall, PERSON, 2
+3000, CARDINAL, 2
+Healthline, PRODUCT, 2
+Brisbane, GPE, 2
+249,600, CARDINAL, 2
+25,000, CARDINAL, 2
+COVID-19 Alert Level, FAC, 2
+the next seven days, DATE, 2
+Partners Centres, ORG, 2
+$5m, MONEY, 2
+6.9%, PERCENT, 2
+Surf Life Saving New Zealand, ORG, 2
+every 24 hours, TIME, 2
+Larry King's, PERSON, 2
+the University of Auckland, ORG, 2
+More than 1 million, CARDINAL, 2
+the Northern Region, LOC, 2
+less than a week, DATE, 2
+2018, DATE, 2
+Queenstown Airport, FAC, 2
+Denmark, GPE, 2
+South Auckland - NZ, GPE, 2
+Bangkok, GPE, 2
+Qantas, ORG, 2
+95 per cent, MONEY, 2
+Lebanon, GPE, 2
+Push, PERSON, 2
+Restrictions, ORG, 2
+Kathryn, GPE, 2
+National Party, ORG, 2
+Stephen Mills, PERSON, 2
+UMR Research, ORG, 2
+Trish Sherson, PERSON, 2
+Sherson Willis, PERSON, 2
+Amnesty International, ORG, 2
+Aotearoa New Zealand, LOC, 2
+5th, ORDINAL, 2
+the last 24 hours, TIME, 2
+SkyCity Entertainment, ORG, 2
+Megan Whelan, PERSON, 2
+March last year, DATE, 2
+Case O., PERSON, 2
+24-hour, TIME, 2
+Rob Campbell, PERSON, 2
+Italians, NORP, 2
+Stuff, PERSON, 2
+late night, TIME, 2
+85, CARDINAL, 2
+30 years, DATE, 2
+Josh Geary, PERSON, 2
+Waiomio, GPE, 2
+' year, DATE, 2
+final hours, TIME, 2
+Mar-a-Lago, TIME, 2
+just hours, TIME, 2
+Breakers, PERSON, 2
+International Women's Day, ORG, 2
+Brett, PERSON, 2
+Lifewise, GPE, 2
+Latin America, LOC, 2
+Rob Fyfe, PERSON, 2
+Peter Gluckman, PERSON, 2
+Peeni Henare, PERSON, 2
+another day, DATE, 2
+RNZ News Samoa's, ORG, 2
+The Green Party, ORG, 2
+Via &, ORG, 2
+Several thousand, CARDINAL, 2
+Sarah Everard, PERSON, 2
+week-long, DATE, 2
+August, DATE, 2
+Waitangi Festival, EVENT, 2
+Hop, PERSON, 2
+| RNZ News, ORG, 2
+15 February, DATE, 2
+about 100, CARDINAL, 2
+March 11, DATE, 2
+27 February, DATE, 2
+Donald Trump's, PERSON, 2
+One year ago, DATE, 2
+Mike Hosking, PERSON, 2
+Hilary Barry, PERSON, 2
+Hannah Tamaki's, PERSON, 2
+Christian, NORP, 2
+past three days, DATE, 2
+Morning Report, PERSON, 2
+750,000, CARDINAL, 2
+$1m, MONEY, 2
+RNZ News Analysis, ORG, 2
+Peter Wilson, PERSON, 2
+Palmerston North's, PERSON, 2
+The New Zealand Taxpayers’ Union, ORG, 2
+Case M., PERSON, 2
+12 months ago, DATE, 2
+RNZ News Frontline, ORG, 2
+Holiday Inn, ORG, 2
+last weekend, DATE, 2
+51%, PERCENT, 2
+the December quarter, DATE, 2
+Neale Jones, ORG, 2
+Andrew Little, PERSON, 2
+Capital Government Relations, ORG, 2
+Kevin Bacon, PERSON, 2
+Sam Lee, PERSON, 2
+BioNTech, GPE, 2
+at least a week, DATE, 2
+Jamie Morton, PERSON, 2
+the past two days, DATE, 2
+the National Hauora Coalition, ORG, 2
+120, CARDINAL, 2
+Papatoetoe High School - NZ, ORG, 2
+Fatima Hassan, PERSON, 2
+60,000, CARDINAL, 2
+Sharp, ORG, 2
+40 per cent, MONEY, 2
+The Cook Islands, GPE, 2
+Iceland, GPE, 2
+Richard Beddie, PERSON, 2
+The Health Ministry, ORG, 2
+PCR, ORG, 2
+New World, ORG, 2
+Johnson & Johnson, ORG, 2
+FDA, ORG, 2
+Fisher & Paykel Healthcare, ORG, 2
+Codi Wilkinson, PERSON, 2
+Māori Party, ORG, 2
+secondary, ORDINAL, 2
+Yuki Kihara, PERSON, 2
+UAE, GPE, 2
+Vaccine - Expert Reaction, ORG, 2
+Manukau, ORG, 2
+Richard Wagstaff, PERSON, 2
+American, NORP, 2
+Tai Tokerau, PERSON, 2
+40, CARDINAL, 2
+16 per cent, MONEY, 2
+1.5 million, CARDINAL, 2
+Reserve Bank, ORG, 2
+14 February 2021, DATE, 2
+14 February, DATE, 2
+Waikato, GPE, 2
+$6.4 million, MONEY, 2
+300,000, MONEY, 2
+12-year-old, DATE, 2
+Matthew Remski, PERSON, 2
+Remski, PERSON, 2
+Cult Dynamics, ORG, 2
+One Year, DATE, 2
+Bolsonaro, ORG, 2
+Almost 10,000, CARDINAL, 2
+Solomon Islands, GPE, 2
+Daniel Andrews, PERSON, 2
+Bolsonaro’s, ORG, 2
+Brazilians, NORP, 2
+Kīngi Tuheitia, PERSON, 2
+Treaty, ORG, 2
+Meng Foon, PERSON, 2
+The Government, WORK_OF_ART, 2
+250,000, CARDINAL, 2
+Prince Harry, PERSON, 2
+Sky Chefs, ORG, 2
+the Reserve Bank, ORG, 2
+About 40, CARDINAL, 2
+Michael Barnett, PERSON, 2
+January 2020, DATE, 2
+Eden Park, GPE, 2
+Antarctica, LOC, 2
+Pacific Islands, LOC, 2
+later this week, DATE, 2
+the Papatoetoe High School, ORG, 2
+The Court Theatre, ORG, 2
+11.59pm last night, TIME, 2
+RNZ News Samoa, ORG, 2
+Peter Philips, PERSON, 2
+14-day, DATE, 2
+five days, DATE, 2
+White Ferns, PERSON, 2
+Silver Ferns, PERSON, 2
+this Christmas, DATE, 2
+3100, MONEY, 2
+LA, GPE, 2
+44, CARDINAL, 2
+9, CARDINAL, 2
+Republican, NORP, 2
+Grand Mercure, FAC, 2
+Zealanders, NORP, 2
+Robbie Williams, PERSON, 2
+Extra, ORG, 2
+Jim Bliss, PERSON, 2
+Auckland’s, WORK_OF_ART, 2
+Sherwood, ORG, 2
+Christchurch Hospital, ORG, 2
+up to, CARDINAL, 2
+months-long, DATE, 2
+Gerald Stratford, PERSON, 2
+RNZ News Government, ORG, 2
+the next two weeks, DATE, 2
+Gwyneth Paltrow's, PERSON, 2
+600, CARDINAL, 2
+Auckland hours, PERSON, 2
+7-day, DATE, 2
+Ponsonby, GPE, 2
+80, CARDINAL, 2
+600,000, CARDINAL, 2
+Prada Cup, PERSON, 2
+Australia’s, ORG, 2
+29, CARDINAL, 2
+Brigitte Morten, PERSON, 2
+Franks &, ORG, 2
+Ogilvie, PERSON, 2
+$2.6 trillion, MONEY, 2
+all night, TIME, 2
+Aus, PERSON, 2
+RNZ News Pfizer, ORG, 2
+24/7, CARDINAL, 2
+More than a year, DATE, 2
+Herald Customers, ORG, 2
+New Zealander, NORP, 2
+105-year-old, DATE, 2
+Asia-Pacific region, LOC, 2
+Expert, PERSON, 2
+RNZ News Data, ORG, 2
+Johns Hopkins University, ORG, 2
+Prince William, PERSON, 2
+Bitcoin, PERSON, 2
+Splore, NORP, 2
+25 January, DATE, 2
+Tokelau, GPE, 2
+WorkSafe, ORG, 2
+OPSM, ORG, 2
+Warbirds, ORG, 2
+Ngāti Kuri, ORG, 2
+210, PRODUCT, 2
+the coming weeks, DATE, 2
+Chase, ORG, 2
+Mills & Morten, ORG, 2
+Mark Labbett, PERSON, 2
+7-hour, TIME, 2
+Taranaki, ORG, 2
+Bill Gates, PERSON, 2
+Japanese, NORP, 2
+60%, PERCENT, 2
+Mexicans, NORP, 2
+Health, ORG, 2
+15 February 2021, DATE, 2
+the day, DATE, 2
+132, CARDINAL, 2
+Anna Mowbray, PERSON, 2
+Bougainvilleans, NORP, 2
+FIFA, ORG, 2
+Green Party, ORG, 2
+250, CARDINAL, 2
+23, CARDINAL, 2
+Nikki Turner, PERSON, 2
+almost a year, DATE, 2
+O'Connell Street Bistro, ORG, 2
+Time, ORG, 2
+Alice Robinson, PERSON, 2
+April 6, DATE, 2
+Covid Vaccines, PERSON, 2
+a full year, DATE, 2
+Eve Black, PERSON, 2
+Zimbabwe, GPE, 2
+a big weekend, DATE, 2
+Donald Trump’s, PERSON, 2
+1.9, CARDINAL, 2
+Auckland's Grand Mercure, ORG, 2
+Ineos Team, ORG, 2
+September, DATE, 2
+Mangawhai, GPE, 2
+Dublin, GPE, 2
+thousands of dollars, MONEY, 2
+more than 30 years, DATE, 2
+Herald Travellers, ORG, 2
+2.5 million, CARDINAL, 2
+Covid, GPE, 2
+N95, ORG, 2
+Phil Goff's, PERSON, 2
+Govt’s, ORG, 2
+last minute, TIME, 2
+vaccinate 20 percent, PERCENT, 2
+122, CARDINAL, 2
+UNFPA, ORG, 2
+178, CARDINAL, 2
+133, CARDINAL, 2
+Delta, ORG, 2
+about two, CARDINAL, 2
+Te Tauihu, PERSON, 2
+Nepal, GPE, 2
+first-half, DATE, 2
+Jeremy Sutton, PERSON, 2
+three years, DATE, 2
+Auckland &, ORG, 2
+68%, PERCENT, 2
+iProov, ORG, 2
+Jeremy Clarkson, PERSON, 2
+Drax Project, ORG, 2
+Coronet Peak, PERSON, 2
+Scoop News, PRODUCT, 2
+Espressoholic, ORG, 2
+Joe Biden's, PERSON, 2
+at least six months, DATE, 2
+Heartland Group, ORG, 2
+Covid-free, PERSON, 2
+Century, ORG, 2
+South Asia, LOC, 2
+this summer, DATE, 2
+CTC, ORG, 2
+$44 million, MONEY, 2
+Franz Josef, PERSON, 2
+Nita Blake-Persen, PERSON, 2
+24,000, CARDINAL, 2
+next Saturday, DATE, 2
+EggFruit, ORG, 2
+90%, PERCENT, 2
+Johan Giesecke, PERSON, 2
+Noel Leeming Group, ORG, 2
+Damien Venuto, PERSON, 2
+WFP, ORG, 2
+Michael Wood, PERSON, 2
+next year, DATE, 2
+Nonna, ORG, 2
+Simona Vasile, ORG, 2
+at least 40, CARDINAL, 2
+Buka, PERSON, 2
+Central District Field, LOC, 2
+NZers, ORG, 2
+135, CARDINAL, 2
+KFC Botany, FAC, 2
+KEA Kids, ORG, 2
+Steven Adams, PERSON, 2
+Humanitarian, NORP, 2
+350,000, CARDINAL, 2
+nearly 50, CARDINAL, 2
+three-minute, TIME, 2
+Linwood, ORG, 2
+South Korea, GPE, 2
+STEM, ORG, 2
+Alaska, GPE, 2
+Sao Paulo, GPE, 2
+end-June, DATE, 1
+over 200 days, DATE, 1
+Herald Traffic, ORG, 1
+Jimmy Spithill, PERSON, 1
+Brits, NORP, 1
+the Nelson City Council, ORG, 1
+175,000, CARDINAL, 1
+20, MONEY, 1
+one or two days, DATE, 1
+a Managed Isolation and Quarantine, ORG, 1
+more than 300,000, CARDINAL, 1
+Nearly 4000, CARDINAL, 1
+Ruapehu, LOC, 1
+The Auckland Arts Festival/, ORG, 1
+Auckland’s, ORG, 1
+every New Zealander - NZ, ORG, 1
+the middle of this year, DATE, 1
+Case Announced, WORK_OF_ART, 1
+To Be Felt Across The Construction Sector, PERSON, 1
+The Next Few Years, ORG, 1
+Scoop News The National Construction Pipeline Report, ORG, 1
+Grimes, PERSON, 1
+Formula One's, ORG, 1
+Australian Grand Prix, ORG, 1
+Blues, ORG, 1
+Murray Bolton, PERSON, 1
+half-billion, MONEY, 1
+Susan Burton-Welsh, PERSON, 1
+decade, DATE, 1
+Lockdown, PERSON, 1
+Herald Valentine's, PERSON, 1
+a quarter, DATE, 1
+Halberg Awards 2021, LAW, 1
+Hamish Bond, PERSON, 1
+Eric Murray, PERSON, 1
+supreme decade, DATE, 1
+the past decade, DATE, 1
+the coming days, DATE, 1
+The Washington Post's, ORG, 1
+Rachel Pannett, PERSON, 1
+Aotearoa, WORK_OF_ART, 1
+55-day, DATE, 1
+4 - Love, LOC, 1
+January 3rd, DATE, 1
+Historic Consensus On Freedoms Of Religion And Expression, ORG, 1
+23 March 2021, DATE, 1
+Sarah Jones, PERSON, 1
+Shocking, Disappointing" Child Poverty Statistics Show Incrementalism Isn’t Working | Scoop News Incrementalism, WORK_OF_ART, 1
+Child Poverty Action Group, ORG, 1
+Trish Peng, PERSON, 1
+Countries To Receive COVID Vaccines, ORG, 1
+the first half of this year, DATE, 1
+93, CARDINAL, 1
+Grand Mercure and Grand Millennium, FAC, 1
+The National Iwi Chairs, ORG, 1
+Warren, GPE, 1
+The Rivals For The Covid Saliva Testing Dollar, WORK_OF_ART, 1
+Matthew Peploe, PERSON, 1
+Hour-plus, CARDINAL, 1
+Herald Fresh, ORG, 1
+Herald Sweden, PERSON, 1
+1 at midnight tonight, TIME, 1
+22 February, DATE, 1
+Tokyo Olympics 2021, EVENT, 1
+one year ago, DATE, 1
+a year from now, DATE, 1
+Bloomberg, GPE, 1
+Waikato University, ORG, 1
+Waikato DHB, ORG, 1
+days - NZ, DATE, 1
+RSE, ORG, 1
+the Recognised Seasonal Employer, ORG, 1
+Jacinda Ardern ', PERSON, 1
+Irish Lions, ORG, 1
+Lions, ORG, 1
+Springboks, ORG, 1
+1.6b, MONEY, 1
+Hawke's Bay Community Reminded Of Importance Of COVID Tracer, ORG, 1
+Hawke’s Bay District Health Board, ORG, 1
+Keriana Brooking, PERSON, 1
+Buckingham PalaceThe Queen, PERSON, 1
+30th June 2021.The, DATE, 1
+APEC Business Advisory Council, ORG, 1
+ABAC, ORG, 1
+AI, ORG, 1
+The Perils Of Tribalism, Bureaucracy And Lawsuits | Scoop News One, WORK_OF_ART, 1
+Scoop News Around, ORG, 1
+217, CARDINAL, 1
+Ahipao Cafe, FAC, 1
+88 per cent, MONEY, 1
+Philippines, GPE, 1
+a year to 2022, DATE, 1
+World Rugby, ORG, 1
+Caroline McElnay's, PERSON, 1
+Caroline McElnay, PERSON, 1
+Wings Over Wairarapa, ORG, 1
+Wairarapa, ORG, 1
+H&M, ORG, 1
+Swedish, NORP, 1
+the Alert Level, FAC, 1
+European Medicines Agency, ORG, 1
+Scoop News Health, ORG, 1
+Agency, ORG, 1
+1973, DATE, 1
+Maureen, PERSON, 1
+Lonely Planet Publications, ORG, 1
+Tony, PERSON, 1
+RNZ News Exhausted, ORG, 1
+Frustrated Tennys Sandgren, ORG, 1
+Tennis Australia, ORG, 1
+15 days ago, DATE, 1
+Zac Efron's, PERSON, 1
+Dylan, PERSON, 1
+tomorrow morning, TIME, 1
+Joseph Parker's, PERSON, 1
+Herald National's, ORG, 1
+South Aucklanders, LOC, 1
+Le Lapérouse, ORG, 1
+Hamish Moore, ORG, 1
+Thursday 18 February, DATE, 1
+Israeli, NORP, 1
+RNZ News Manukau Institute of Technology, ORG, 1
+16 days, DATE, 1
+Covid Case, PERSON, 1
+Covid - now, PERSON, 1
+Jonathan Krieger's, PERSON, 1
+Cali Press, ORG, 1
+More than 200, CARDINAL, 1
+December - NZ Herald Most, DATE, 1
+14-17, DATE, 1
+Egypt, GPE, 1
+Only four, CARDINAL, 1
+Forty, CARDINAL, 1
+Olympic Games, EVENT, 1
+17 February 2021, DATE, 1
+RNZ News Phase, ORG, 1
+1900, DATE, 1
+18 January, DATE, 1
+February 19, DATE, 1
+RNZ News Auckland, ORG, 1
+3 this morning, TIME, 1
+Picton, GPE, 1
+Brodey Wright, PERSON, 1
+the Kiwi Water Park, ORG, 1
+Lake Dunstan, FAC, 1
+Lake Dunstan, LOC, 1
+the Clutha River, LOC, 1
+Clyde, GPE, 1
+the South Island's, LOC, 1
+Ten thousand square metres, QUANTITY, 1
+Emily Rutherford, PERSON, 1
+the summer, DATE, 1
+up to 6 percent, PERCENT, 1
+0.7 percent, PERCENT, 1
+the six months to March, DATE, 1
+Westpac Bank, ORG, 1
+RNZ News Northland, ORG, 1
+Safety Improvement Work Switches, ORG, 1
+COVID-19 Lockdown, PERSON, 1
+Scoop News Construction, ORG, 1
+the Dome Valley, LOC, 1
+Warkworth, GPE, 1
+the day this week, DATE, 1
+580, MONEY, 1
+about 3-5, CARDINAL, 1
+Two thirds, CARDINAL, 1
+four travellers $, MONEY, 1
+19000, MONEY, 1
+Red List, ORG, 1
+Herald Passengers, ORG, 1
+RNZ Pacific, ORG, 1
+the Marshall Islands, GPE, 1
+Tom Moore's, PERSON, 1
+Barbados, PERSON, 1
+Approximately 570, CARDINAL, 1
+Bluff, FAC, 1
+Ross Jackson, PERSON, 1
+Bluff, GPE, 1
+Vaccine Corporation Partners, ORG, 1
+The University Of Queensland, ORG, 1
+Vaccine Corporation, ORG, 1
+the University of Queensland, ORG, 1
+6pm this evening, TIME, 1
+Post-Pandemic American Society Must Not Return, ORG, 1
+Vietnamese, NORP, 1
+Gucci, PERSON, 1
+Peter Phillips, PERSON, 1
+740, CARDINAL, 1
+Jimmy Duke, PERSON, 1
+late last year, DATE, 1
+between 30% and 100%, PERCENT, 1
+as little as 12 minutes, PERCENT, 1
+Vaccine Rollout, PERSON, 1
+Two Weeks, DATE, 1
+just 48 hours, TIME, 1
+$62 million, MONEY, 1
+Virgin Australia, ORG, 1
+Pacific Islands, GPE, 1
+at least the end of June, DATE, 1
+year of ', DATE, 1
+around 10, CARDINAL, 1
+Ōtara Kai Village, PERSON, 1
+year-long, DATE, 1
+Case L, ORG, 1
+Paltrow, PERSON, 1
+almost two billion, MONEY, 1
+RNZ News Millions of dollars, ORG, 1
+Mike Pero's, PERSON, 1
+Mike Pero, PERSON, 1
+Pasifika Air, ORG, 1
+the end of 2021, DATE, 1
+every half hour, TIME, 1
+Gisborne, GPE, 1
+Tairāwhiti, GPE, 1
+Today’s, WORK_OF_ART, 1
+Diners, ORG, 1
+Chinese New Year, EVENT, 1
+spring, DATE, 1
+the start of the year, DATE, 1
+Air New Zealand Resumes Quarantine-free Flights To Sydney, ORG, 1
+Scoop News Air, ORG, 1
+the Australian Government, ORG, 1
+20 March, DATE, 1
+the Queensland Government, ORG, 1
+tomorrow - NZ, DATE, 1
+City Fitness Papatoetoe, ORG, 1
+Why The Reserve Bank, ORG, 1
+Byron Bay, FAC, 1
+23,000, CARDINAL, 1
+Auckland-Waikato, ORG, 1
+18 hours, TIME, 1
+263, CARDINAL, 1
+Treasurer, PERSON, 1
+Sick Leave Bribe Had Nothing, PERSON, 1
+Stats, NORP, 1
+Elevate Vaccination Priority For Māori And Pacific Island Aged Care Workers, ORG, 1
+Scoop News Vulnerable Māori, ORG, 1
+Pacific Island, LOC, 1
+Mike Smith, PERSON, 1
+the National Iwi Chairs Forum - Pandemic Response Group, ORG, 1
+2.7 Billion People, CARDINAL, 1
+over a third, CARDINAL, 1
+Development Pathways, ORG, 1
+Fiordland Lobster, ORG, 1
+Vaccine Passport, ORG, 1
+Stamp, WORK_OF_ART, 1
+Gardasil, GPE, 1
+COVID-19 Vaccination Programme Underway, ORG, 1
+Managed Isolation Workers, ORG, 1
+Scoop News Workers, ORG, 1
+Prosper, GPE, 1
+30 January, DATE, 1
+Pullman Hotel - NZ, ORG, 1
+The Royal New Zealand College of General Practitioners, ORG, 1
+Truly, GPE, 1
+Madly, GPE, 1
+Deeply, ORG, 1
+Supermodel Miranda Kerr, PERSON, 1
+Kitchen Warehouse, PERSON, 1
+150 per cent, MONEY, 1
+400, CARDINAL, 1
+about 400, CARDINAL, 1
+Daily Saliva, PERSON, 1
+| RNZ News Opinion, ORG, 1
+New Plymouth, ORG, 1
+625, MONEY, 1
+No Time For Data To Reflect, ORG, 1
+the New Zealand Cross-Country Championships, ORG, 1
+Mataharehare, ORG, 1
+Canada, GPE, 1
+Wuhan Wu-Tang ', PERSON, 1
+Herald China, ORG, 1
+S&P Global, PERSON, 1
+Leads The World For Managing COVID-19, ORG, 1
+ScreenSafe, ORG, 1
+WorkSafe New Zealand, ORG, 1
+UN Experts, ORG, 1
+1 March 2021, DATE, 1
+the Global South, LOC, 1
+Scenic Hotel Group, ORG, 1
+West Coast, LOC, 1
+Herald Hotel, ORG, 1
+2023, CARDINAL, 1
+The year 2021, DATE, 1
+Moderna, PERSON, 1
+Govt Should Set A, ORG, 1
+Vaccination Target, ORG, 1
+at least 70, CARDINAL, 1
+Virtual, GPE, 1
+Auckland office - NZ, FAC, 1
+800,000, CARDINAL, 1
+The Support Of Samba Schools’, WORK_OF_ART, 1
+Carnival, ORG, 1
+São Paulo, GPE, 1
+All for Vaccines”campaign, WORK_OF_ART, 1
+Team Halo / United Nations, ORG, 1
+the COVID-19 Observatory, PERSON, 1
+a few days, DATE, 1
+Saliva Testing Rollout Disappointing, ORG, 1
+just 140, CARDINAL, 1
+almost a month ago, DATE, 1
+Global Economy To Expand, ORG, 1
+Vaccine Deployment And Investment Key To Sustaining The Recovery | Scoop News, ORG, 1
+Elon Musk, PERSON, 1
+Joe Rogan, PERSON, 1
+Waikato Regional Council Profiteering, ORG, 1
+The Taxpayers’ Union, ORG, 1
+Waikato Regional Council’s, ORG, 1
+7.3%, PERCENT, 1
+nearly $3 million dollars, MONEY, 1
+Bach Musica NZ’s, ORG, 1
+presents&nbsp, GPE, 1
+J.S. BACH, PERSON, 1
+Bach Musica NZ, ORG, 1
+’ For Everyone, Says WHO Expert Panel, WORK_OF_ART, 1
+A World Health Organization ( WHO, ORG, 1
+100 percent, PERCENT, 1
+last August, DATE, 1
+the Blues Footy Fest, ORG, 1
+April 2020, DATE, 1
+Motor Industry Association, ORG, 1
+more than a fifth, CARDINAL, 1
+up to 1000, CARDINAL, 1
+22nd NZ Antique & Classic Boat Show Results, ORG, 1
+Lake Rotoiti, GPE, 1
+Nelson Lakes National Park | Scoop News Rita, ORG, 1
+22nd, DATE, 1
+NZ Antique &, ORG, 1
+annually, DATE, 1
+Helen Petousis-Harris, PERSON, 1
+ASB Theatre, ORG, 1
+Aussie, PERSON, 1
+Covid agenda - NZ, PERSON, 1
+Justine Gilliland, PERSON, 1
+Regional, ORG, 1
+5.1 percent, PERCENT, 1
+United Kingdom, GPE, 1
+the United Arab Emirates, GPE, 1
+42 per cent, MONEY, 1
+Republicans, NORP, 1
+more than 530,000, CARDINAL, 1
+Harmoney, ORG, 1
+Steve Forbes, PERSON, 1
+Middlemore, PERSON, 1
+85 per cent, MONEY, 1
+Ex Bank of England, ORG, 1
+the Bank of England, ORG, 1
+the Bank of Canada, ORG, 1
+Value(s, ORG, 1
+Building A Better World, ORG, 1
+The International Air Transport Association, ORG, 1
+Hybrid Working, PERSON, 1
+New Zealanders, PERSON, 1
+Herald Legitimate, ORG, 1
+the Auckland Covid, WORK_OF_ART, 1
+Govt’s IT Systems Aren’t, ORG, 1
+South Westland, GPE, 1
+Aotearoa, PRODUCT, 1
+Kiri Allan, PERSON, 1
+Aotearoa New Zealand’s, LOC, 1
+the February 2011, EVENT, 1
+the Opawa Farmers’ Market's, ORG, 1
+Politicians, NORP, 1
+Act Party, ORG, 1
+Auckland University of Technology, ORG, 1
+the year 1987, DATE, 1
+13 months, DATE, 1
+Elton John, PERSON, 1
+early 2020, DATE, 1
+Complicity By Silence, WORK_OF_ART, 1
+4.5 million, CARDINAL, 1
+PSNA, ORG, 1
+Bay of Plenty, ORG, 1
+a Bay of Plenty, LOC, 1
+First Ever GRRRL FEST Kirikiriroa, ORG, 1
+Kat Waswo, PERSON, 1
+Lisa Clausen, PERSON, 1
+November, 2020, DATE, 1
+GRRRL FEST Kirikiriroa, ORG, 1
+weekend-long, DATE, 1
+John Roughan -, PERSON, 1
+Meghan - NZ, PERSON, 1
+Herald Conspiracy, ORG, 1
+this past week, DATE, 1
+Zé Gotinha, PERSON, 1
+3b, MONEY, 1
+more than a quarter of a million, DATE, 1
+ninth week, DATE, 1
+a financial year, DATE, 1
+White House, ORG, 1
+U.S.-Mexico, ORG, 1
+28 percent, PERCENT, 1
+31 percent, PERCENT, 1
+Title 42, LAW, 1
+19,000, CARDINAL, 1
+The North Hokianga A and, ORG, 1
+Broadwood, GPE, 1
+about 45km, QUANTITY, 1
+Kaitaia, GPE, 1
+65km, QUANTITY, 1
+Kaikohe, GPE, 1
+Austria, GPE, 1
+Michele Gelfand, PERSON, 1
+Rule Makers, WORK_OF_ART, 1
+Rule Breakers, PERSON, 1
+Worldwatch, NORP, 1
+Perlina Lau, PERSON, 1
+Counties Manukau, ORG, 1
+39th, ORDINAL, 1
+Iran, GPE, 1
+160, CARDINAL, 1
+16-year-old, DATE, 1
+The World Health Organization, ORG, 1
+Cockney, ORG, 1
+International Air New Zealand, ORG, 1
+Herald Times, ORG, 1
+Times, ORG, 1
+Contact Tracing Review Must Be Thorough, ORG, 1
+Voluntary Saliva, PERSON, 1
+Scoop News Border, ORG, 1
+Auckland To Move To Alert Level, ORG, 1
+today, Friday 12 March, DATE, 1
+six days, DATE, 1
+the year of Covid, DATE, 1
+Covid Recovery, PERSON, 1
+FTA, ORG, 1
+Catherine Beard, PERSON, 1
+Xi Jinping’s Speech, PERSON, 1
+Herald New Zealand’s, ORG, 1
+Super Bowl LV, EVENT, 1
+Super Bowl, EVENT, 1
+Castle Ward - NZ, ORG, 1
+Neil Watt, PERSON, 1
+Kris Reid, PERSON, 1
+Vladimir Putin, PERSON, 1
+second year, DATE, 1
+44,100, CARDINAL, 1
+the year ended December 2020, DATE, 1
+Dylan Cleaver, PERSON, 1
+13, CARDINAL, 1
+late-night, TIME, 1
+8 weeks, DATE, 1
+Eight weeks, DATE, 1
+Ann Sherry, PERSON, 1
+N.Y. Times Lies To Say WHO Investigators Dissatisfied W. Chinese Cooperation, ORG, 1
+February 12th, DATE, 1
+the New York Times, ORG, 1
+W.H.O. Trip, ORG, 1
+The Cure For Resumption Of Pacific Travel, ORG, 1
+World Bank Report, ORG, 1
+the Minister of Finance, ORG, 1
+Vaccine Sequencing Framework Terribly Lacking, PERSON, 1
+more than 16,000, CARDINAL, 1
+Tobia Zambotti, PERSON, 1
+27 March 2021, DATE, 1
+Auckland As, PERSON, 1
+the end of July, DATE, 1
+Michael Plank - NZ, PERSON, 1
+only two thirds, CARDINAL, 1
+Emanuel Kalafatelis, PERSON, 1
+Extra Time, PRODUCT, 1
+19 February 2021, DATE, 1
+the Challengers of Record, LAW, 1
+the America's Cup Challenger Selection Series, ORG, 1
+Team, GPE, 1
+the America's Cup, EVENT, 1
+s Extra Time, PRODUCT, 1
+Felicity Reid, PERSON, 1
+Joe Porter, PERSON, 1
+the Black Caps, ORG, 1
+the Northern Hemisphere, LOC, 1
+Air New Zealand Requires Face Masks On All Flights, ORG, 1
+Nearly 1200, CARDINAL, 1
+Timaru’s, ORG, 1
+the past seven months, DATE, 1
+53,285, CARDINAL, 1
+the University of Oxford, ORG, 1
+1400, CARDINAL, 1
+The school year, DATE, 1
+Belgium, GPE, 1
+Brussels, GPE, 1
+Memory Lane, ORG, 1
+Saturday, March 20, 1937, DATE, 1
+Naz Khanjani, PERSON, 1
+Bachelor, ORG, 1
+Khloe Kardashian, ORG, 1
+36-year-old, DATE, 1
+Hawke's Bay DHB, ORG, 1
+Chicago, GPE, 1
+Alice Robinson's, PERSON, 1
+Education Review Office, ORG, 1
+10 weeks, DATE, 1
+New Year Message, EVENT, 1
+SDK, ORG, 1
+Hungary, GPE, 1
+Marks, ORG, 1
+China Continues, GPE, 1
+Security Council, ORG, 1
+Scoop News Christchurch Airport, ORG, 1
+2015-2019, DATE, 1
+Curfew, PERSON, 1
+The nearly year-long, DATE, 1
+Honiara, GPE, 1
+Proven, PERSON, 1
+Deborah Birx - NZ, PERSON, 1
+The Essential Power Of Gratitude: Why Focusing On What’s Good Is Vital For Our Resilience In The Battle Against, ORG, 1
+the First World War, EVENT, 1
+Rotorua, GPE, 1
+around midnight, TIME, 1
+RNZ News Young, ORG, 1
+pre-Christmas, DATE, 1
+Herald Metro, ORG, 1
+KiwiBank, ORG, 1
+Jarrod Kerr, PERSON, 1
+Stuff.co.nz Vaccine, PERSON, 1
+The Salvation Army's, ORG, 1
+Google, ORG, 1
+Scoop News A, ORG, 1
+Auckland |, GPE, 1
+CubaDupa, ORG, 1
+Gerry Paul, PERSON, 1
+Global Coordination, ORG, 1
+More than 9000, CARDINAL, 1
+Stephen Miller, PERSON, 1
+Miller, ORG, 1
+SIM, ORG, 1
+The International Chamber of Shipping, ORG, 1
+about 100,000, CARDINAL, 1
+Ritesh Mehra, PERSON, 1
+New Delhi, GPE, 1
+RNZ News Cuts, ORG, 1
+Adlai E. Stevenson High School, PERSON, 1
+Bronx, GPE, 1
+a few miles, QUANTITY, 1
+UN Headquarters, ORG, 1
+Tweet, LOC, 1
+Guterres, PERSON, 1
+Kimbal Riley, PERSON, 1
+Olympian, NORP, 1
+Tokyo Games, FAC, 1
+PhD, WORK_OF_ART, 1
+Karla Lopez, PERSON, 1
+last February, DATE, 1
+The Jette Parker Young Artist, ORG, 1
+Royal Opera House, ORG, 1
+Herald Ministry of Health, ORG, 1
+Global Economic Recovery Remains Precarious, ORG, 1
+4.7%, PERCENT, 1
+Barely Offset 2020, DATE, 1
+The United Nations, ORG, 1
+Fifty percent, PERCENT, 1
+Research New Zealand's, LOC, 1
+Sky Tower Reminds Kiwis, FAC, 1
+Scan, NORP, 1
+the Sky Tower, FAC, 1
+more than 3 metres, QUANTITY, 1
+5 metres, QUANTITY, 1
+about 20,000, CARDINAL, 1
+Adam Levine, PERSON, 1
+Brown University, ORG, 1
+Ngā Pae, FAC, 1
+Māramatanga, GPE, 1
+1988, DATE, 1
+more than three decades ago, DATE, 1
+Māori for the Department of Social Welfare, ORG, 1
+108,000, CARDINAL, 1
+Why The Public Doesn’t Always, WORK_OF_ART, 1
+Awanuiārangi, PERSON, 1
+more than 3600, CARDINAL, 1
+More than 2200, CARDINAL, 1
+Covid Alert Level, PERSON, 1
+some 10 days, DATE, 1
+more than $61, MONEY, 1
+South Canterbury DHB, ORG, 1
+6000, CARDINAL, 1
+each year, DATE, 1
+Case M, WORK_OF_ART, 1
+Economy Hub: Reserve Bank, ORG, 1
+Herald Reserve Bank, ORG, 1
+Yuong Ha, PERSON, 1
+fourth quarter, DATE, 1
+Shoppers, PERSON, 1
+$1.3 billion, MONEY, 1
+December 2019 quarter, DATE, 1
+Bluetooth - NZ, GPE, 1
+Scoop News Research, ORG, 1
+Aussies, ORG, 1
+Goodwill, PERSON, 1
+500, MONEY, 1
+Herald Woman, ORG, 1
+Comedian Billy Connolly, PERSON, 1
+Scottish, NORP, 1
+30b, MONEY, 1
+7 March, DATE, 1
+the end of next week, DATE, 1
+Herald Financial Times: Travel, ORG, 1
+Auckland | Stuff.co.nz Travellers, GPE, 1
+Covid - NZ, NORP, 1
+Traveller, PERSON, 1
+Herald Traveller, PERSON, 1
+3 February 2021, DATE, 1
+$2.64 trillion, MONEY, 1
+Herald The Brewers Association, ORG, 1
+0.7, CARDINAL, 1
+Liam Payne, PERSON, 1
+Liam Payne's, PERSON, 1
+Covid  |, PERSON, 1
+more than 100,000, CARDINAL, 1
+Tohil Kalia, PERSON, 1
+63, CARDINAL, 1
+1429, DATE, 1
+80 per cent, MONEY, 1
+two thirds, CARDINAL, 1
+North American, NORP, 1
+Air New Zealand Updates International, ORG, 1
+30 June 2021, DATE, 1
+March 19, DATE, 1
+Saliva Testing To The Community | Scoop News Fiso John, WORK_OF_ART, 1
+PHP, PERSON, 1
+Stephen Grice, PERSON, 1
+PHP, ORG, 1
+Cannons Creek, GPE, 1
+Porirua, ORG, 1
+2500, CARDINAL, 1
+nine months’, DATE, 1
+Solid Start, PERSON, 1
+89, CARDINAL, 1
+Koh Phangan, GPE, 1
+Full Moon, FAC, 1
+Victoria, PERSON, 1
+Jacinda Ardern - New Zealand's, PERSON, 1
+Byron Bay, LOC, 1
+Bill Bailey's, PERSON, 1
+the Independent Panel for Pandemic Preparedness, ORG, 1
+University of Waikato New Zealand’s, ORG, 1
+Barbara Ewing, PERSON, 1
+Grandad, PERSON, 1
+Polynesian, NORP, 1
+the Auckland Arts Festival, ORG, 1
+Mangawhai, PERSON, 1
+Kaiwaka, PERSON, 1
+Gemma Freeman, PERSON, 1
+Rollo Wenlock, GPE, 1
+Nutri-Grain Ironman New Zealand Update, ORG, 1
+Nutri-Grain IRONMAN New Zealand, ORG, 1
+Saturday 6 March, DATE, 1
+Sunday 7 March, DATE, 1
+the New Zealand Government’s, ORG, 1
+National Welcomes Lifting, ORG, 1
+Christchurch council, ORG, 1
+17, MONEY, 1
+Pre-Covid, PERSON, 1
+$51m, MONEY, 1
+34, MONEY, 1
+Art Deco Festival Cancelled, PERSON, 1
+The Art Deco Trust, ORG, 1
+the Art Deco Festival, ORG, 1
+Barbara Arnott, PERSON, 1
+Jacinta Allan, PERSON, 1
+RNZ News Stevedores, ORG, 1
+the Ports of Auckland, ORG, 1
+Globus, ORG, 1
+Pfizer-BioNTech, PERSON, 1
+Poland, GPE, 1
+Victoria University's, ORG, 1
+Ilan Noy, PERSON, 1
+Healthline - NZ Herald Calls, ORG, 1
+Herald Victoria, PERSON, 1
+Derek, PERSON, 1
+Amy Wright, PERSON, 1
+Jobs | Scoop News Organisations, PERSON, 1
+Lives, Stabilizes Health Systems’ –, ORG, 1
+Two billion, CARDINAL, 1
+the past two years, DATE, 1
+Karangahape Rd, PERSON, 1
+60,000, MONEY, 1
+David Norman, PERSON, 1
+One third, CARDINAL, 1
+90-day, DATE, 1
+Noel Leeming, PERSON, 1
+four-day week, DATE, 1
+78%, PERCENT, 1
+the 2nd of March 2021, DATE, 1
+the 25th of March 2021, DATE, 1
+next winter, DATE, 1
+O-week, DATE, 1
+The America's Cup Village, ORG, 1
+ACWS, ORG, 1
+Wear A Mask, ORG, 1
+Covid Is, PERSON, 1
+this winter, DATE, 1
+Ray Avery, PERSON, 1
+Herald Forbidden, ORG, 1
+bin mystery - NZ, PERSON, 1
+Herald Clever, ORG, 1
+last September, DATE, 1
+$US285 million, MONEY, 1
+the Japan International Cooperation Agency, ORG, 1
+3800, CARDINAL, 1
+Bowlzilla Wellington, PERSON, 1
+the National Park Skating Championships, ORG, 1
+Simon Morris, PERSON, 1
+Sam Neill, PERSON, 1
+two years ago, DATE, 1
+RNZ News Māori, ORG, 1
+Parker, ORG, 1
+Pacific communities, LOC, 1
+Manukau Councillor, ORG, 1
+Vaccinations Get Underway, ORG, 1
+Bay Of Plenty, LOC, 1
+Wendy Thompson, PERSON, 1
+the Sulphur Point, ORG, 1
+9000, CARDINAL, 1
+Apec, ORG, 1
+Apec, PERSON, 1
+Herald IRD, ORG, 1
+A-League, ORG, 1
+Steven Taylor, PERSON, 1
+Phoenix, GPE, 1
+Sam Heaven, PERSON, 1
+Stuff.co.nz Sam Heaven, PERSON, 1
+Beef + Lamb's, WORK_OF_ART, 1
+Comprehensive, ORG, 1
+Progressive Trans-Pacific Partnership, ORG, 1
+CPTPP, ORG, 1
+RNZ News Unions, ORG, 1
+Herald Community, ORG, 1
+another day of, DATE, 1
+NZ Herald Patience, ORG, 1
+3.4bn, MONEY, 1
+Graeme Hart, ORG, 1
+over half a million, CARDINAL, 1
+NZ$6,849, GPE, 1
+Herald Alert, ORG, 1
+27 April, DATE, 1
+Iraqis, NORP, 1
+The Border | Scoop News, FAC, 1
+28 February, DATE, 1
+Frontline, PRODUCT, 1
+This weekend, DATE, 1
+AMP, ORG, 1
+a fall in full year, DATE, 1
+Wednesday March 10th, DATE, 1
+Race 1 of the 36th America’s Cup Match, LAW, 1
+4 pm, TIME, 1
+Wednesday 10th March, DATE, 1
+Analysis - New Zealand's, ORG, 1
+ADBI, ORG, 1
+50,000, CARDINAL, 1
+Urgent Community Builds Needed To Stop Unaffordable, ORG, 1
+monthly, DATE, 1
+Green Party Co-, ORG, 1
+the Ministry of Business, Innovation and Employment (MBIE, ORG, 1
+a half-million, CARDINAL, 1
+Ashley Bloomfield - NZ, PERSON, 1
+More than 3000, CARDINAL, 1
+Returnee, GPE, 1
+non-Covid, NORP, 1
+at least 40,000, CARDINAL, 1
+Auckland BBQ King, ORG, 1
+The BBQ King, ORG, 1
+Albany, GPE, 1
+Kiwis Working, PERSON, 1
+Lockdown Hangovers, PERSON, 1
+Frog Recruitment, ORG, 1
+nearly half, CARDINAL, 1
+46.3%, PERCENT, 1
+Timaru Port, ORG, 1
+South Canterbury's, NORP, 1
+Focaccia, PERSON, 1
+93rd, ORDINAL, 1
+Oscars, ORG, 1
+Going Airborne, ORG, 1
+26-year-old, DATE, 1
+48, CARDINAL, 1
+48 Hours, TIME, 1
+Vaccination • Children's Health Defense, ORG, 1
+Feb. 12, DATE, 1
+Vaccine Adverse Event Reporting System, ORG, 1
+RNZ News Several, ORG, 1
+72-hour, TIME, 1
+just one, CARDINAL, 1
+13 days, DATE, 1
+Digital Skills Efforts, ORG, 1
+A Picture Of Lost Opportunity: Survey | Scoop News, WORK_OF_ART, 1
+Pacific Mini Games, EVENT, 1
+Dubai Airport, FAC, 1
+Herald Post, ORG, 1
+Covid Triangle', PERSON, 1
+Earth, LOC, 1
+Te Anau, PERSON, 1
+Herald Several, ORG, 1
+18 months, DATE, 1
+month-long, DATE, 1
+GlaxoSmithKline, PERSON, 1
+Merck, ORG, 1
+Pigeon, GPE, 1
+Piggie, PERSON, 1
+the Knuffle Bunny, ORG, 1
+the Kennedy Center's, ORG, 1
+Willems, ORG, 1
+Lunch Doodles, WORK_OF_ART, 1
+Jesse Mulligan, PERSON, 1
+Herald Damning, ORG, 1
+Chinese Cabinet, ORG, 1
+Support For Business And Workers, ORG, 1
+four-yearly, DATE, 1
+post-Covid, NORP, 1
+Vaccination No Guarantee Of Virus Eradication: WHO, ORG, 1
+World Health Organization (WHO, ORG, 1
+New Zealand Grey's, ORG, 1
+19 days - NZ, DATE, 1
+Instagram, ORG, 1
+Mowbray Collectables', PERSON, 1
+30 per cent, MONEY, 1
+NZ Medical Company’s Answer To Government’s, ORG, 1
+Covid Tracking Card, PERSON, 1
+Monday 1 March, DATE, 1
+Steve Braunias - Learning, PERSON, 1
+Jim Boult - NZ, PERSON, 1
+Herald One, ORG, 1
+Herald MoH, PERSON, 1
+Herald Auckland, ORG, 1
+Herald Police, ORG, 1
+up to 3000, CARDINAL, 1
+Tihei, PERSON, 1
+Ngahiwi Tomoana, PERSON, 1
+Michael Hill, PERSON, 1
+$40 million, MONEY, 1
+Three Days, DATE, 1
+Applied Mathematics, ORG, 1
+University of Canterbury, ORG, 1
+University of Auckland &, ORG, 1
+The World Against Discrimination With Kindness | Scoop News Global, ORG, 1
+Gillian Whitley, PERSON, 1
+around day 1, DATE, 1
+5 million', CARDINAL, 1
+Act, PERSON, 1
+more than two million, CARDINAL, 1
+later today, TIME, 1
+the next few weeks, DATE, 1
+the NZ Government, ORG, 1
+WTO, ORG, 1
+two or three weeks, DATE, 1
+COVID-19 Alert Level, PRODUCT, 1
+more than 2,000, CARDINAL, 1
+the International Day of Women and Girls in Science, EVENT, 1
+RNZ News Preparation, ORG, 1
+the first quarter, DATE, 1
+365 days, DATE, 1
+Emma Clifton, PERSON, 1
+Preparations To Ensure Phase, ORG, 1
+more than 800 thousand, CARDINAL, 1
+Jeff Bezos, PERSON, 1
+Alec MacGillis, PERSON, 1
+ProPublica, ORG, 1
+The Washington Post, ORG, 1
+The Baltimore Sun, ORG, 1
+the New Republic, GPE, 1
+Fulfillment: Winning and Losing, WORK_OF_ART, 1
+17 September, DATE, 1
+More than a thousand, CARDINAL, 1
+Amiercan Samoa, ORG, 1
+Auckland Hospital ICU, ORG, 1
+Colin McArthur, PERSON, 1
+Jesse, LOC, 1
+Covid - NZ Herald ', PERSON, 1
+Marton School, ORG, 1
+Laura Douglas, PERSON, 1
+Kingston, GPE, 1
+the Venice Carnival, ORG, 1
+The Air New Zealand , ORG, 1
+another 8.5 million, CARDINAL, 1
+Pfizer Aotearoa's, PERSON, 1
+around 95 percent, PERCENT, 1
+Ben Johnston, PERSON, 1
+last Friday, DATE, 1
+504,000, CARDINAL, 1
+the UN Children’s Fund, ORG, 1
+The Govt’s Travel, ORG, 1
+National Hauora Coalition & Counties Manukau Health Addressing Impacts From Misinformation, ORG, 1
+25 February, DATE, 1
+Geoff Sewell & Special Guests, ORG, 1
+Scoop News Geoff Sewell, ORG, 1
+BRAVO AMICI, ORG, 1
+Tour, ORG, 1
+May 2021, DATE, 1
+mid-April, DATE, 1
+Auckland Back, PERSON, 1
+6am tomorrow morning, TIME, 1
+The Bachelor New Zealand, ORG, 1
+Government’s COVID-Support Programme, ORG, 1
+Asian, NORP, 1
+6am the following morning, TIME, 1
+Tamaki, PERSON, 1
+Hannah, PERSON, 1
+Saturday night, TIME, 1
+all week, DATE, 1
+At least 9,000, CARDINAL, 1
+the last month, DATE, 1
+Almost a quarter, CARDINAL, 1
+Covid Chickens Come Home, PERSON, 1
+Seven days later, DATE, 1
+Saturday 13 February, DATE, 1
+February 21 - NZ Herald From, DATE, 1
+Bloomfield - NZ, ORG, 1
+just two months, DATE, 1
+the end of 2020, DATE, 1
+the Czech Republic, GPE, 1
+Auckland Fringe Festival Responds, PERSON, 1
+COVID Lockdown, ORG, 1
+Francis, PERSON, 1
+Kaiora Tipene, PERSON, 1
+Mardi Gras ', PERSON, 1
+Herald New Orleans, ORG, 1
+RNZ News Western, ORG, 1
+hours-long, TIME, 1
+more than 140 minutes, TIME, 1
+about 200, CARDINAL, 1
+Queensland, PERSON, 1
+Only five, CARDINAL, 1
+one hour's, TIME, 1
+just one hour's, TIME, 1
+$27m, MONEY, 1
+Archery, ORG, 1
+Massey, PERSON, 1
+Rarotonga, LOC, 1
+Broadway, FAC, 1
+Max Kumangai, PERSON, 1
+BNZ Branches Opening Hours, ORG, 1
+today, Sunday 28 February, DATE, 1
+at least seven days, DATE, 1
+Wedding Fair, ORG, 1
+five million dollars, MONEY, 1
+Peter Burling's, PERSON, 1
+the Luna Rossa, ORG, 1
+2023, DATE, 1
+Nurses, ORG, 1
+The NZ Nurses Organisation, ORG, 1
+the end of the year, DATE, 1
+Nine hundred, CARDINAL, 1
+Nurses Organisation Industrial, ORG, 1
+Glenda Alexander, PERSON, 1
+1.7 Percentage Points, ORG, 1
+1.7, CARDINAL, 1
+SLSNZ, ORG, 1
+TSB New Zealand Surf Life Saving Championships, ORG, 1
+TSB Nationals, ORG, 1
+Ōhope, NORP, 1
+Takapoto Estate Show Jumping, ORG, 1
+midnight Wednesday, TIME, 1
+North America, LOC, 1
+the next couple of weeks, DATE, 1
+21, DATE, 1
+Only one, CARDINAL, 1
+RNZ News Western Australia's, ORG, 1
+10-month, DATE, 1
+Perth, GPE, 1
+87, DATE, 1
+Covid No Damper On World, PERSON, 1
+Subject Rankings, ORG, 1
+just two, CARDINAL, 1
+1700, DATE, 1
+American Samoans, NORP, 1
+The Reserve Bank of, ORG, 1
+Pūtea Matua, PERSON, 1
+Vatican, FAC, 1
+Pope Francis, PERSON, 1
+the Holy See, ORG, 1
+1 Million, CARDINAL, 1
+COVID-19 Tests, PERSON, 1
+first week, DATE, 1
+over 321,000 - 60, CARDINAL, 1
+Herald Mexico, PERSON, 1
+60 per cent, MONEY, 1
+FGM, ORG, 1
+an additional two million, CARDINAL, 1
+the next ten years, DATE, 1
+Cabinet’s Simplest Ever Decision – But Prepare To Be Spun, ORG, 1
+the University of Lille, ORG, 1
+Middlemore Hospital, ORG, 1
+Pukeahu, ORG, 1
+the National War Memorial Park, EVENT, 1
+Emma-Jean Kelly, PERSON, 1
+Kiwi Covid, PERSON, 1
+1564, CARDINAL, 1
+almost 85,000, CARDINAL, 1
+fifth, ORDINAL, 1
+3.2 million, CARDINAL, 1
+about 32,000, CARDINAL, 1
+about 70 percent, PERCENT, 1
+last April, DATE, 1
+Hayley Reid, PERSON, 1
+one week, DATE, 1
+1000, MONEY, 1
+RNZ News Legislation, ORG, 1
+Herald European, ORG, 1
+Five-thousand, CARDINAL, 1
+120,000, CARDINAL, 1
+Emirates, GPE, 1
+Herald Glossy, ORG, 1
+Love Island, LOC, 1
+Poseidon, GPE, 1
+Khaosan, ORG, 1
+Mark Eden, PERSON, 1
+92 - NZ, DATE, 1
+Sue Nicholls, PERSON, 1
+Auckland and Northland, GPE, 1
+Drugmakers, PERSON, 1
+$1 billion, MONEY, 1
+6.9b, MONEY, 1
+Sheryl Sutherland, PERSON, 1
+Ban, PERSON, 1
+Verrall, FAC, 1
+The Communist Party's, ORG, 1
+BNZ Branch Operating, ORG, 1
+6:00am Sunday 7 March, DATE, 1
+9.8b, MONEY, 1
+Annual, DATE, 1
+Gwynnie, ORG, 1
+Inside Crowded House's, ORG, 1
+59, CARDINAL, 1
+Ports Of Auckland Management COVID-19 Story, ORG, 1
+The Maritime Union, ORG, 1
+Ports of Auckland that Government, ORG, 1
+Mike Hosking's, PERSON, 1
+Breakfast Radio, ORG, 1
+The Air New Zealand, ORG, 1
+RNZ News Five, ORG, 1
+the past day, DATE, 1
+Next few days, DATE, 1
+Heart Foundation's, ORG, 1
+Big Heart, ORG, 1
+one or two seconds, TIME, 1
+Herald NZ, ORG, 1
+10,500, CARDINAL, 1
+Children And Families, WORK_OF_ART, 1
+Lebanon Face Critical, ORG, 1
+Curfew Begins, PERSON, 1
+15 January, DATE, 1
+10-day, DATE, 1
+the middle of a month-long, DATE, 1
+$1.1 billion, MONEY, 1
+Herald Strong, ORG, 1
+the Jet Park Hotel, FAC, 1
+The Latest Issue Of Thrive Asks ', ORG, 1
+Jacinda Ok, PERSON, 1
+Nearly one year, DATE, 1
+Wendyl Nissen, PERSON, 1
+Anthony Bourdain's, PERSON, 1
+Nearly 22 years, DATE, 1
+Bourdain, ORG, 1
+Auckland's Grand Windsor, ORG, 1
+New Zealanders', NORP, 1
+New York's, GPE, 1
+Central Park, LOC, 1
+Child Poverty Monitor, PRODUCT, 1
+Audrey Young - Fresh, PERSON, 1
+Herald Concerns, ORG, 1
+Dan Salmon's, PERSON, 1
+Neands, WORK_OF_ART, 1
+New Zealand Bubble - NZ, GPE, 1
+65s, DATE, 1
+Glenn Turner, PERSON, 1
+Sportspeoples, PERSON, 1
+Two years, DATE, 1
+March 17, DATE, 1
+Digital Green Certificate, ORG, 1
+Mills & Sherson, ORG, 1
+Antique & Classic Boat, ORG, 1
+One Day Event, DATE, 1
+’s NZ Antique, ORG, 1
+Lake Rototiti, LOC, 1
+Sunday March 7, DATE, 1
+Organiser Pete Rainey, PERSON, 1
+Amnesty, ORG, 1
+Tom Hatch, PERSON, 1
+Chinese, LANGUAGE, 1
+$13.8 million, MONEY, 1
+Airways, ORG, 1
+Recovery Opens Up Job Opportunities, PERSON, 1
+Healthcare, ORG, 1
+Maxine Scheckter, PERSON, 1
+the SDG Global Festival of Action, LAW, 1
+GERMANY, GPE, 1
+25 MARCH, DATE, 1
+United, ORG, 1
+the 21st century, DATE, 1
+Herald Melbourne, ORG, 1
+Herald Splore, ORG, 1
+Perth, PERSON, 1
+Herald Perth, PERSON, 1
+nearly 250,000, CARDINAL, 1
+Johns Hopkins University's, ORG, 1
+Three months, DATE, 1
+Kiwi, NORP, 1
+Syrian, NORP, 1
+Canada Travel, ORG, 1
+eight months, DATE, 1
+Families, ORG, 1
+Roger Gannon, PERSON, 1
+6am, Sunday, TIME, 1
+28 February 2021, DATE, 1
+Galloway, PERSON, 1
+Grey Power Encourages Seniors To Have, ORG, 1
+Grey Power, ORG, 1
+Greek Islands, LOC, 1
+Herald Travel, ORG, 1
+Conservative Party, ORG, 1
+1922, DATE, 1
+IPL, ORG, 1
+127, CARDINAL, 1
+Tennys Sandgren, PERSON, 1
+Te Kahu O Taonui Urge Whanau & Manuhiri, PERSON, 1
+Manuhiri, PERSON, 1
+Devon Conway, PERSON, 1
+Stuff.co.nz Star, PERSON, 1
+22 million, CARDINAL, 1
+last summer, DATE, 1
+over 100, CARDINAL, 1
+a seventh day, DATE, 1
+RNZ News Flights, ORG, 1
+RNZ News Sceptical, ORG, 1
+Herald UFB, ORG, 1
+post-Covid, PERSON, 1
+Sunday 14 February 2021, DATE, 1
+Wellington City Council, ORG, 1
+Council’s, ORG, 1
+Zoom, GPE, 1
+Cook Island, LOC, 1
+Carl Whiting, PERSON, 1
+Bill Roache, PERSON, 1
+88-year-old, DATE, 1
+Ken Barlow, PERSON, 1
+1960, DATE, 1
+Laundry, PERSON, 1
+RNZ Destiny Church, ORG, 1
+fewer than 20, CARDINAL, 1
+Tamakis, GPE, 1
+Super Rugby and America's Cup, ORG, 1
+Berlin, GPE, 1
+Doha, GPE, 1
+Sarah Quigley, PERSON, 1
+85%, PERCENT, 1
+3.4 million, CARDINAL, 1
+four million, CARDINAL, 1
+The America's Cup, ORG, 1
+New Zealand Riverjet, GPE, 1
+Rotorua, PERSON, 1
+16, CARDINAL, 1
+North Airport's, LOC, 1
+North Airport, LOC, 1
+Silicon Valley, LOC, 1
+Doses Hoarded, ORG, 1
+Jessica Corbett, PERSON, 1
+Port of Tauranga - NZ, FAC, 1
+the Super 6's, EVENT, 1
+the Human Rights Council, ORG, 1
+Michelle Bachelet, PERSON, 1
+RNZ News Opinion, ORG, 1
+Uganda, GPE, 1
+Clock, ORG, 1
+Auckland - NZ Herald Letters, GPE, 1
+Social Development and Employment, ORG, 1
+Amsterdam, GPE, 1
+Fears of Brisbane, ORG, 1
+first night, TIME, 1
+S Africa, GPE, 1
+Briscoe Group, ORG, 1
+final days, DATE, 1
+RNZ News Air, ORG, 1
+Indira Stewart, PERSON, 1
+$352 million, MONEY, 1
+David Clark, PERSON, 1
+Rose West, PERSON, 1
+Clarke Gayford, ORG, 1
+the Seventh Session of the Committee on Trade and Investment, EVENT, 1
+Herald Donald Trump, PERSON, 1
+Tom O'Connor, PERSON, 1
+Ed Sheeran's, PERSON, 1
+Sheeran, GPE, 1
+Hawkesbury, ORG, 1
+Jo Bowler - Why, PERSON, 1
+Wakatū Inc, PERSON, 1
+Wakatū, PERSON, 1
+David Seymour - NZ, PERSON, 1
+Suhayra Aden, PERSON, 1
+RNZ News Opposition, ORG, 1
+Commonwealth, GPE, 1
+Meghan, NORP, 1
+Commonwealth, ORG, 1
+the Sussexes’s, ORG, 1
+Women’s Wellbeing Survey Launched, ORG, 1
+Women Nicola Grigg, ORG, 1
+Selwyn, ORG, 1
+Covid-testing, PERSON, 1
+New Plymouth Airport, FAC, 1
+Health Experts Give Green Light, ORG, 1
+Jones & Sherson, ORG, 1
+Neale, GPE, 1
+tens of millions, CARDINAL, 1
+Tens of millions, CARDINAL, 1
+IATA, ORG, 1
+1 from noon, TIME, 1
+1 today after, TIME, 1
+RNZ News E, ORG, 1
+90, CARDINAL, 1
+last year - NZ, DATE, 1
+Herald NZ's, ORG, 1
+Rachel Hunter's, PERSON, 1
+Latin Americans, NORP, 1
+Sandra Contreras, PERSON, 1
+Lima, GPE, 1
+Villa el Salvador, GPE, 1
+Dr Angela Lim, PERSON, 1
+Joseph Mooney, PERSON, 1
+Days later, DATE, 1
+Rob Fyfe - Caution, PERSON, 1
+Helen Clark, PERSON, 1
+Herald Country, ORG, 1
+Karl Puschmann, PERSON, 1
+Kiwi, GPE, 1
+Zero, CARDINAL, 1
+Dean Hardman, PERSON, 1
+the final quarter of last year, DATE, 1
+30 March, DATE, 1
+Pacific Games, EVENT, 1
+over half, CARDINAL, 1
+Vanuatu High Commission, ORG, 1
+Nicole Saunders, PERSON, 1
+A year later, DATE, 1
+The long months, DATE, 1
+The Papatoetoe High School, ORG, 1
+Rebuild Better, PERSON, 1
+Scoop News Confronting, ORG, 1
+Asia Pacific Reigns, LOC, 1
+Henley Passport, ORG, 1
+Starbucks, ORG, 1
+Herald Starbucks, ORG, 1
+Charles Belcher, PERSON, 1
+Almost 10 hours, TIME, 1
+3 March, 2021, DATE, 1
+RNZ News Pressure, ORG, 1
+sixth, ORDINAL, 1
+New Research Into Domestic Kiwi Tourists, ORG, 1
+the Grand Mecure Hotel, FAC, 1
+Herald Transport, ORG, 1
+Westland, GPE, 1
+Westland Milk Products’, ORG, 1
+the West Coast Regional Council, LOC, 1
+Advance New Zealand, ORG, 1
+RNZ News Pacific, ORG, 1
+Auckland | RNZ News Auckland, ORG, 1
+March - NZ, DATE, 1
+4500, CARDINAL, 1
+Tyrol, ORG, 1
+the last quarter, DATE, 1
+Support Grows For Workers To Be Paid, ORG, 1
+Shocking New York Times, ORG, 1
+trillions of dollars, MONEY, 1
+UNCTAD, ORG, 1
+5 January 2021, DATE, 1
+4 January, DATE, 1
+New Zealand’s Construction Industry, GPE, 1
+the previous  year, DATE, 1
+Herald Leaked, ORG, 1
+South Canterbury’s, GPE, 1
+Brendon Nicholls, PERSON, 1
+the Caroline Bay Rock, FAC, 1
+More than 5000, CARDINAL, 1
+over 5000, CARDINAL, 1
+Māpura Studios, ORG, 1
+Māpura, ORG, 1
+Kerry, PERSON, 1
+RNZ News Travellers, ORG, 1
+the past 24 hours, TIME, 1
+just weeks, DATE, 1
+COVID-19 Vaccine Roll-out, PERSON, 1
+next 3-4 months, DATE, 1
+Plan, PERSON, 1
+Herald Cricket, ORG, 1
+Support For PNG Following Surge, ORG, 1
+Resurgence Support Payment Welcome, ORG, 1
+the Resurgence Support Payment, ORG, 1
+| RNZ News Police, ORG, 1
+at least 15, CARDINAL, 1
+Herald Beijing, ORG, 1
+the age of 87, DATE, 1
+38.6B, MONEY, 1
+30%, PERCENT, 1
+The year 2020, DATE, 1
+Time For Accounting Firms To Stop Charging, ORG, 1
+Covid - even, PERSON, 1
+May 1, DATE, 1
+Hospitality Businesses Will Be Hit Very Hard, PERSON, 1
+Month, DATE, 1
+Hospitality New Zealand, PERSON, 1
+up to six hours, TIME, 1
+Barry, PERSON, 1
+More than $700, MONEY, 1
+Comedian Mike King, PERSON, 1
+Hamilton District Court, ORG, 1
+the Hamilton District Court, ORG, 1
+Globe - NZ Herald Covid-19's, ORG, 1
+$US1.9 trillion, MONEY, 1
+Canberra, PERSON, 1
+two-second, TIME, 1
+John Roughan, PERSON, 1
+Caspar Jopling - NZ, PERSON, 1
+34-year-old, DATE, 1
+Herald Pictures, ORG, 1
+Pūtahitanga, GPE, 1
+Pouārahi Helen Leahy, PERSON, 1
+the Whānau Ora, ORG, 1
+Commercial Cleaning Services Market, ORG, 1
+COVID-19’s, ORG, 1
+Esplanade Day, EVENT, 1
+Palmerston North's, ORG, 1
+November, DATE, 1
+Auditor-General’s Scrutiny Of COVID-19, ORG, 1
+the Auditor-General’s, ORG, 1
+spending.&nbsp, DATE, 1
+Union, ORG, 1
+Auckland Airport - NZ, FAC, 1
+Toluna Reveals Market Research Predictions, ORG, 1
+The Latest Lockdown, ORG, 1
+Air NZ’s, ORG, 1
+Saudi, NORP, 1
+three day, DATE, 1
+T20, ORG, 1
+DAVID SEYMOUR, PERSON, 1
+Dariush Lolaiy, PERSON, 1
+Cazador, ORG, 1
+Case M, PERSON, 1
+Southlanders, ORG, 1
+47, CARDINAL, 1
+Ashley Bloomfield's, PERSON, 1
+New Zealand Rugby League, ORG, 1
+World Cup - NZ Herald The Kiwis, EVENT, 1
+59pc, DATE, 1
+the last three months of 2020, DATE, 1
+a year after, DATE, 1
+Jono Hopley, PERSON, 1
+the Melbourne Airport, ORG, 1
+every thousand, CARDINAL, 1
+CFS-ME, ORG, 1
+Chronic Fatigue Syndrome, WORK_OF_ART, 1
+Diagnosis, Management, ORG, 1
+WellSouth, ORG, 1
+only half, CARDINAL, 1
+a year earlier, DATE, 1
+Tourism Holdings, ORG, 1
+Michelle Wi, PERSON, 1
+10 months, DATE, 1
+Helen Clark-led, PERSON, 1
+January last year, DATE, 1
+Lockdown’s, ORG, 1
+the University Entrance, ORG, 1
+National’s Education, ORG, 1
+Paul Goldsmith, PERSON, 1
+29 December, DATE, 1
+Yealands Classic Fighters Airshow Preparations Continue Full-Throttle,, ORG, 1
+Airshow, GPE, 1
+about $US47 million, MONEY, 1
+$US900 billion, MONEY, 1
+Political Commentators Jones & Sherson, ORG, 1
+Castrol Toyota Series, EVENT, 1
+Matthew Payne, ORG, 1
+the New Zealand Grand Prix, ORG, 1
+Kevin Jenkins, PERSON, 1
+Herald Food, ORG, 1
+Great South, FAC, 1
+April 27, DATE, 1
+Twenty-eight, CARDINAL, 1
+Dave Gerrard - NZ, PERSON, 1
+Dave Gerrard, PERSON, 1
+Almost a third, CARDINAL, 1
+4am, TIME, 1
+300 tattoos by 4, QUANTITY, 1
+2022 - NZ Herald The Backstreet, DATE, 1
+Provisional Consent, ORG, 1
+the Market Authorisation Holder, ORG, 1
+just over a week, DATE, 1
+Bad Company, ORG, 1
+140, CARDINAL, 1
+millions of pounds, MONEY, 1
+APEC Strengthens Fiscal, PERSON, 1
+Tika, PERSON, 1
+Saipan, PERSON, 1
+16, DATE, 1
+Polynesia, PERSON, 1
+SLN, ORG, 1
+Macquarie Invests, ORG, 1
+Wi-Fi Intelligence, Helping Aussie Businesses Manage COVID Compliance, LAW, 1
+Macquarie Telecom, PERSON, 1
+Macquarie Telecom Group, ORG, 1
+ASX, ORG, 1
+MAQ, ORG, 1
+SD-LAN, ORG, 1
+Wi-Fi, LOC, 1
+50 per cent, MONEY, 1
+nearly 50 per cent, MONEY, 1
+17 percent, PERCENT, 1
+Auckland to Brisbane, ORG, 1
+more than a quarter, DATE, 1
+at least the next week, DATE, 1
+Auckland Business Chamber, ORG, 1
+Michael Barnett , PERSON, 1
+the City of Sails, GPE, 1
+the middle of the year, DATE, 1
+Mani Dunlop, PERSON, 1
+Papatoetoe High, GPE, 1
+Lengthy, PERSON, 1
+up to four hours, TIME, 1
+Pātea Anzac Day, PERSON, 1
+RSA, ORG, 1
+Anzac Day, DATE, 1
+more than 10 months, DATE, 1
+Anne Sherry, PERSON, 1
+Covid-linked, PERSON, 1
+Stuff.co.nz Border, PERSON, 1
+20 seconds, TIME, 1
+MidCentral, ORG, 1
+their summer holidays, DATE, 1
+New Zealand Rugby's, GPE, 1
+NZ Rugby, ORG, 1
+The World Health Organisation (WHO, ORG, 1
+11th month, DATE, 1
+Parliament - National, ORG, 1
+Act, NORP, 1
+Mark Rutte, PERSON, 1
+Covid curfew, PERSON, 1
+1 per cent, MONEY, 1
+2.9 per cent, MONEY, 1
+1 million, CARDINAL, 1
+Vaccine Announcement, ORG, 1
+Covid Goals, PERSON, 1
+Raumati Beach, GPE, 1
+the Health Justice Initiative, ORG, 1
+April, CARDINAL, 1
+20 percent, PERCENT, 1
+$425 million, MONEY, 1
+the year to June 30, 2020, DATE, 1
+Damien O’Connor, PERSON, 1
+Red Cross, ORG, 1
+the New Zealand Stock Exchange, ORG, 1
+NZ Exercise Industry Appeals For Older Kiwis, ORG, 1
+Trinity College Dublin, ORG, 1
+Covid Vaccine Passports, PERSON, 1
+Question Time, FAC, 1
+2degrees, CARDINAL, 1
+Mark Aue, PERSON, 1
+Herald Working, ORG, 1
+First Banks Peninsula, ORG, 1
+20 years, DATE, 1
+SVA & New World Bringing Back Grocery Delivery Service To Support Those In Need | Scoop News, ORG, 1
+Student Volunteer Army, ORG, 1
+Grocery Delivery Service, ORG, 1
+the Student Volunteer Army, ORG, 1
+Support Of Kiwi Vapers, ORG, 1
+the Ministry of Health’s, ORG, 1
+NZ Cross-country Elite Ready, Willing And Eager | Scoop News &, ORG, 1
+nbsp;New Zealand's, GPE, 1
+iPhone, ORG, 1
+the Pacific Bangkok, LOC, 1
+8th, ORDINAL, 1
+Asia-Pacific Forum on Sustainable Development, EVENT, 1
+APFSD, ORG, 1
+COVID-19 Fuels, PERSON, 1
+Gender-Specific Religious Persecution, ORG, 1
+Johnson &, ORG, 1
+Belgian, NORP, 1
+Fisher &, ORG, 1
+Paykel Healthcare, ORG, 1
+Clarke, ORG, 1
+Waimate, PERSON, 1
+Covid vaccine | RNZ News, PERSON, 1
+Wisconsin, GPE, 1
+more than 500, CARDINAL, 1
+15 March, DATE, 1
+Herald Otago, PERSON, 1
+at least June, DATE, 1
+Cameron George, PERSON, 1
+late this morning, TIME, 1
+Cook Islanders To Resume Travel, ORG, 1
+21 January, DATE, 1
+Johnson & Johnson's, ORG, 1
+LawFuel, ORG, 1
+143 minutes, TIME, 1
+Waitangi commemorations, PRODUCT, 1
+Herald Party's, ORG, 1
+a century, DATE, 1
+Long Haulers, PERSON, 1
+Venice Biennale, PERSON, 1
+3 March, DATE, 1
+RNZ News Tired, ORG, 1
+Scoop News Grey, ORG, 1
+Covidiots, ORG, 1
+Summer, PERSON, 1
+Omaha, GPE, 1
+Auckland Airport's, FAC, 1
+Adrian Littlewood, PERSON, 1
+John Fisk, PERSON, 1
+Gore, PERSON, 1
+Lockdown in Greater Brisbane, ORG, 1
+Taranaki Lego, PERSON, 1
+Eliza Barne's, PERSON, 1
+Auckland Museum, ORG, 1
+Seven-year-old, DATE, 1
+Eliza Barnes, ORG, 1
+Covid  , PERSON, 1
+mid-March, DATE, 1
+Student attended Manukau Institute of Technology, ORG, 1
+Herald Student, ORG, 1
+Business New Zealand, ORG, 1
+Bachelor NZ, ORG, 1
+Stuff, ORG, 1
+Unions Pleased That Vaccinations To, ORG, 1
+just over a weeks, DATE, 1
+Americarna, PERSON, 1
+Pacific Fono, ORG, 1
+Northland - NZ Herald More than 1500, GPE, 1
+the International Science Council, ORG, 1
+ISC Covid-19 Scenarios Project, ORG, 1
+RNZ News Solomons, ORG, 1
+Equitable Vaccine Delivery Plan Needs More Support To Succeed, PERSON, 1
+West Africa, GPE, 1
+the past few days, DATE, 1
+Debbie Ngarewa-Packer, PERSON, 1
+COVID-19 Update, PRODUCT, 1
+Prada Cup Covid, PERSON, 1
+America's Cup: Start of The Match, EVENT, 1
+Hundred year old, DATE, 1
+the Classic Boat Club, ORG, 1
+Brian Railton, PERSON, 1
+century, DATE, 1
+twenty seven foot, QUANTITY, 1
+Wyndham, GPE, 1
+Elsie, PERSON, 1
+Olympians, NORP, 1
+the Counties Manukau District Health Board, ORG, 1
+the Pacific - NZ, ORG, 1
+Lebanese, NORP, 1
+$7.25 million, MONEY, 1
+Sofia Nunez, PERSON, 1
+every morning, TIME, 1
+2 Sunday, DATE, 1
+11:59pm, DATE, 1
+the last two days, DATE, 1
+Auckland | Scoop News Three, GPE, 1
+Queenstown Lakes, PERSON, 1
+Green Party Echoes Calls, ORG, 1
+’ Action On Rising Inequality | Scoop News The Green Party, WORK_OF_ART, 1
+RNZ News Described, ORG, 1
+Glen Scanlon, PERSON, 1
+RNZ News Transport, ORG, 1
+16 year old, DATE, 1
+12 February, DATE, 1
+Mark Francis, PERSON, 1
+Augusta, GPE, 1
+Blenheim Shuttles, PERSON, 1
+Tammin Sursok, PERSON, 1
+Almost 23,000, CARDINAL, 1
+America's Cup: Event, EVENT, 1
+More than 27,000, CARDINAL, 1
+Herald Coronavirus, ORG, 1
+Stuff.co.nz Plagues, PERSON, 1
+Comedian, NORP, 1
+Camille Solari, PERSON, 1
+North Canterbury, GPE, 1
+2 March,, DATE, 1
+Herald WorkSafe, PERSON, 1
+Orlando, GPE, 1
+Disney World, ORG, 1
+Money To Hire People Gives Business A Boost | Scoop News More money to hire, WORK_OF_ART, 1
+Outrageous Fortune, ORG, 1
+Siobhan Marshall's, PERSON, 1
+Marshall, PERSON, 1
+UN Health Agency, ORG, 1
+A World Health Organization (WHO, ORG, 1
+32, CARDINAL, 1
+more than 28 days, DATE, 1
+Ministry of Social Development, ORG, 1
+MSD, ORG, 1
+Darrell Lambert, PERSON, 1
+Auckland Will Be Livid, PERSON, 1
+ACT’s, ORG, 1
+Green, GPE, 1
+billion, CARDINAL, 1
+RNZ News Rich, ORG, 1
+Shane Reti's, PERSON, 1
+RNZ National Party, ORG, 1
+Shane Reti, PERSON, 1
+the National Party’s, ORG, 1
+Collins, ORG, 1
+the 1980s, DATE, 1
+"New Zealand, GPE, 1
+Colombia, GPE, 1
+Bruce Cotterill - NZ, PERSON, 1
+Central Otago, PERSON, 1
+New Caledonia's, GPE, 1
+Josh Emett's, PERSON, 1
+Vaccine Tracker, PERSON, 1
+Wednesday 17 February, DATE, 1
+Cavendish, NORP, 1
+the Holiday Inn, ORG, 1
+three-year, DATE, 1
+more than two months, DATE, 1
+Plea, PERSON, 1
+RNZ News Calls, ORG, 1
+Samoa Supreme Court, ORG, 1
+Meth, PERSON, 1
+Covid border, PERSON, 1
+Vanilla Ice, ORG, 1
+Rudy, PERSON, 1
+Don Jr, PERSON, 1
+Ten-day, DATE, 1
+Cathay Pacific, ORG, 1
+Hong Kong, GPE, 1
+Sean Penn, PERSON, 1
+two months later, DATE, 1
+Nostalgia, ORG, 1
+Mercury, ORG, 1
+Mercury Bay Arts Escape’s Gala, ORG, 1
+April 1, DATE, 1
+21 year old, DATE, 1
+23 February, DATE, 1
+RNZ News Diplomat, ORG, 1
+Honiara, PERSON, 1
+$3.7m, MONEY, 1
+the span of a year, DATE, 1
+2,841, CARDINAL, 1
+Marcelo, PERSON, 1
+Eduardo Pazuello, PERSON, 1
+Pazuello, PERSON, 1
+the span of a month last year, DATE, 1
+NZQA, ORG, 1
+Stuff.co.nz Cook, PERSON, 1
+New Child Poverty Stats Not Reflective Of Current Situation On The Ground | Scoop News New, ORG, 1
+Monte Cecilia Housing Trust, ORG, 1
+Bernie Smith, PERSON, 1
+the months, DATE, 1
+Herald New EU, ORG, 1
+3-month-old, DATE, 1
+Records Began, PERSON, 1
+NZ On Air, ORG, 1
+the Radio Broadcasters Association, ORG, 1
+Loss, PERSON, 1
+Marlborugh, GPE, 1
+Highway 38, FAC, 1
+TBD, ORG, 1
+Phil Barry - NZ, PERSON, 1
+Phil Barry, PERSON, 1
+about $9.8b, MONEY, 1
+Michael Craig, PERSON, 1
+US Baby, PERSON, 1
+51,418, CARDINAL, 1
+EXPLAINER, PERSON, 1
+6am tomorrow, TIME, 1
+Classic Fighters Airshow, PRODUCT, 1
+five months, DATE, 1
+20-year, DATE, 1
+Ill, ORG, 1
+Auckland to Queenstown, ORG, 1
+Canberra, GPE, 1
+Herald Italy, ORG, 1
+First Group Of Air New Zealand Employees, ORG, 1
+Receive Vaccine, PERSON, 1
+3,800, CARDINAL, 1
+Diana, PERSON, 1
+Postcode, PERSON, 1
+Namibian, NORP, 1
+17, CARDINAL, 1
+Chris Coombe, PERSON, 1
+over past two days, DATE, 1
+Herald DHB, ORG, 1
+Caroline Bay, LOC, 1
+Treasurer Andrew Bayly, PERSON, 1
+Defence Force, ORG, 1
+Treasury, ORG, 1
+Reserve Bank, GPE, 1
+RNZ News Mandating, ORG, 1
+Nasal, PERSON, 1
+Hundreds of millions, CARDINAL, 1
+ahead hours, TIME, 1
+Mike Tindall, PERSON, 1
+over $28, MONEY, 1
+next 10 years, DATE, 1
+Nelson City Council's, ORG, 1
+291, MONEY, 1
+2031, DATE, 1
+L.A.B. Live, PERSON, 1
+Spark Arena, FAC, 1
+Spark Arena, PERSON, 1
+the comong days, DATE, 1
+Auckland February, EVENT, 1
+63, DATE, 1
+Dragon Boat, PERSON, 1
+Takapuna, GPE, 1
+the Britney Spears of TV', ORG, 1
+the most controversial year, DATE, 1
+Sky Stadium, FAC, 1
+The Risk Of Being Short Changed By Pfizer, WORK_OF_ART, 1
+The International Monetary Fund, ORG, 1
+300 per cent, MONEY, 1
+Michael Quan, PERSON, 1
+The Impact On Our Wellbeing - 48, WORK_OF_ART, 1
+University of Waikato, ORG, 1
+Tibetan, NORP, 1
+Holiness, GPE, 1
+More than 4, CARDINAL, 1
+February 14 - NZ Herald Here's, DATE, 1
+Hawke's Bay's, ORG, 1
+Liz Douglas, PERSON, 1
+Yacht, PERSON, 1
+New Guinea's, GPE, 1
+about 10 percent, PERCENT, 1
+Kahungunu Iwi Incorporated &, ORG, 1
+Auckland And The Vaccination That Is Pending, ORG, 1
+Jetstar, PERSON, 1
+Brisbane - NZ Herald ', ORG, 1
+Wellington Cup Day Fashion:, EVENT, 1
+normal day, DATE, 1
+Waitomo, PERSON, 1
+year - NZ, DATE, 1
+Digital Growth, ORG, 1
+the last 12 months, DATE, 1
+75 per cent, MONEY, 1
+Short-Term Absence Payment (STAP, ORG, 1
+Covid QR, PERSON, 1
+Covid tracer QR, PERSON, 1
+Tom, PERSON, 1
+Celia Burney, ORG, 1
+mid-June, DATE, 1
+Kiwis | RNZ News Making, ORG, 1
+Áine Kelly-Costello, ORG, 1
+HIIT, ORG, 1
+seven days - NZ, DATE, 1
+7 days, DATE, 1
+Auckland Jumps Down, PERSON, 1
+midnight tonight, TIME, 1
+Cam Wallace, PERSON, 1
+Magic Talk, PRODUCT, 1
+2020 - NZ, DATE, 1
+Covid vaccine | Play Stuff, PERSON, 1
+years’, DATE, 1
+Spokesperson Millie Silvester, PERSON, 1
+New Zealander, GPE, 1
+54.59, MONEY, 1
+every hour, TIME, 1
+Brendon Blue, PERSON, 1
+Auckland's Grand Mercure Hotel, ORG, 1
+Daniela Elser, PERSON, 1
+L. Case O, PERSON, 1
+Scoop News Nine, PRODUCT, 1
+Phuket, GPE, 1
+Andrew Cuomo, PERSON, 1
+Herald Cuomo, ORG, 1
+Grand Millenium Hotel, ORG, 1
+the Grand Millenium Hotel, ORG, 1
+Auckland Arts, ORG, 1
+Fringe, NORP, 1
+Cuba, GPE, 1
+RNZ News Temporary, ORG, 1
+Whole Genome Sequencing for, ORG, 1
+RNZ News Epidemiologist, ORG, 1
+Auckland, Taranaki, GPE, 1
+ESR, ORG, 1
+Crusaders v Hurricanes, ORG, 1
+PriceSpy Research Reveals How Shopping Behaviours Have Changed, ORG, 1
+This Christmas, DATE, 1
+PriceSpy, ORG, 1
+almost 50 per cent, MONEY, 1
+14 per cent, MONEY, 1
+1930s, DATE, 1
+Tuesday 2 March, DATE, 1
+RNZ News Fees, ORG, 1
+2 March, DATE, 1
+A2 Milk's, PERSON, 1
+76%, PERCENT, 1
+76, CARDINAL, 1
+the Middle East, LOC, 1
+North Africa, GPE, 1
+this day, DATE, 1
+Iran - two days later, EVENT, 1
+Lower Hutt, LOC, 1
+Hamish Cardwell, PERSON, 1
+Global Vaccination Programmes Hit, ORG, 1
+Covid-safe, PERSON, 1
+Michael Houghton, PERSON, 1
+Wings Over Wairarapa Team Reflect, ORG, 1
+B52, ORG, 1
+Wings Over Wairarapa 2021, ORG, 1
+Peter McDonald, PERSON, 1
+Wings, ORG, 1
+Wairarapa Air Festival, ORG, 1
+Masterton, GPE, 1
+’ To Niue | Scoop News Flights from Niue to New Zealand, WORK_OF_ART, 1
+Niue to New Zealand, FAC, 1
+every two weeks, DATE, 1
+The past year, DATE, 1
+87-year-old, DATE, 1
+Test, ORG, 1
+the Silver Ferns, ORG, 1
+Australian Diamonds, ORG, 1
+Bay of Plenty, PRODUCT, 1
+Andrew Cuomo's, PERSON, 1
+$1.9 Trillion, MONEY, 1
+Desk | Scoop News, FAC, 1
+Jake Johnson, PERSON, 1
+three-quarters, MONEY, 1
+Congress, ORG, 1
+the House of Representatives, ORG, 1
+$1.9 trillion, MONEY, 1
+Auckland, Queensland, GPE, 1
+Auckland University, ORG, 1
+the University year, DATE, 1
+Scale Key, PERSON, 1
+Fourteen, CARDINAL, 1
+Last week, DATE, 1
+about a day or so earlier, DATE, 1
+about 32 minutes past the hour, TIME, 1
+the hour, TIME, 1
+57, CARDINAL, 1
+nearly 120,000, CARDINAL, 1
+Alert, PERSON, 1
+Herald Authorities, ORG, 1
+Tauranga City Council, ORG, 1
+Herald Tsunami, PERSON, 1
+2005, DATE, 1
+Ara, PERSON, 1
+98.5%, PERCENT, 1
+RN, ORG, 1
+about $300, MONEY, 1
+about 100 days, DATE, 1
+200, CARDINAL, 1
+$4.5 billion, MONEY, 1
+Improved Working Conditions Over Pay In The Wake Of COVID-19, ORG, 1
+MECA, FAC, 1
+The Specialty Trainees, ORG, 1
+STONZ, NORP, 1
+District Health Boards, ORG, 1
+The Current Vaccine Blues | Scoop News Women, WORK_OF_ART, 1
+New York City, GPE, 1
+More than 35,000, CARDINAL, 1
+The Lion King's, ORG, 1
+non-New, LOC, 1
+35,000, CARDINAL, 1
+Christchurch - NZ Herald Leftover, ORG, 1
+Kiwi Megan Torbett​, ORG, 1
+Ana, PERSON, 1
+South Bougainville, PERSON, 1
+South Bougainville, LOC, 1
+the Bougainville Health Department, ORG, 1
+24 March 2021, DATE, 1
+a fourth consecutive week, DATE, 1
+around 3.3 million, CARDINAL, 1
+the past seven-day, DATE, 1
+Unprecedented Uptake, ORG, 1
+The Mind Lab Brings Back Digital Skills Scholarships, WORK_OF_ART, 1
+RNZ News Public, ORG, 1
+Sjana Elise, PERSON, 1
+Ashy Bines, ORG, 1
+Dan, PERSON, 1
+LiveFit 2021, ORG, 1
+the LiveFit Festival 2021, EVENT, 1
+LiveFit, ORG, 1
+Four Days, DATE, 1
+around four, CARDINAL, 1
+the past four days, DATE, 1
+Wednesday 23 December, DATE, 1
+more than 30, CARDINAL, 1
+Dick Brass, PERSON, 1
+Border Workers Backing Vaccination Programme, ORG, 1
+3 Weeks, DATE, 1
+Three weeks, DATE, 1
+more than 12,000, CARDINAL, 1
+Niue Dalton Tagelagi, PERSON, 1
+Wednesday 24 March, DATE, 1
+Tuesday 23 March Niue, DATE, 1
+Auckland Quieter, ORG, 1
+Zoom, PERSON, 1
+Grant Gillon, PERSON, 1
+The Auckland Council, ORG, 1
+More than 100,000, CARDINAL, 1
+$320m, MONEY, 1
+40, DATE, 1
+2021 - NZ, DATE, 1
+1pm today, TIME, 1
+Dalai Lama, PERSON, 1
+Tibet, GPE, 1
+day 11/12, DATE, 1
+New Zealand Ports, GPE, 1
+Pan Gloris, PERSON, 1
+Tim Malone, PERSON, 1
+Lion King, ORG, 1
+126, CARDINAL, 1
+Kyle MacDonald, PERSON, 1
+ISIL, GPE, 1
+the Security Council, ORG, 1
+Asia-Pacific region’s, LOC, 1
+COVID-19 Vaccines, PERSON, 1
+Waitangi, ORG, 1
+nearly two years ago, DATE, 1
+Next Week, DATE, 1
+Next Tuesday, DATE, 1
+the new year, DATE, 1
+Concerningly 42%, PERCENT, 1
+Healthy Diet, PERSON, 1
+almost two billion, CARDINAL, 1
+Simon Mackenzie, PERSON, 1
+Herald Utility, ORG, 1
+about 500, CARDINAL, 1
+the coming week, DATE, 1
+Hawke's Bay company's, ORG, 1
+Herald Niclosamide, ORG, 1
+Alan Alexander, PERSON, 1
+Dennis Wesselbaum, PERSON, 1
+three-month-old, DATE, 1
+Jerome Dean, PERSON, 1
+Francis Tipene, PERSON, 1
+Easter, PERSON, 1
+Angela Merkel, PERSON, 1
+Germans, NORP, 1
+Brian Roche, PERSON, 1
+Enough, PERSON, 1
+Border, ORG, 1
+Whole, ORG, 1
+Grand, GPE, 1
+Fifa World Cup, EVENT, 1
+Oceania, LOC, 1
+next January, DATE, 1
+Andrew Parad, PERSON, 1
+Hone Harawira, PERSON, 1
+72-year old, DATE, 1
+earlier this year, DATE, 1
+2020 - NZ Herald Babies, DATE, 1
+Vaccine Roll-out, WORK_OF_ART, 1
+Retail NZ, PERSON, 1
+COVID-19 Confirmed, PERSON, 1
+An Update On Border-related Cases29, WORK_OF_ART, 1
+January 2021, DATE, 1
+Arvida, ORG, 1
+Herald Kiwis, PERSON, 1
+52 per cent, MONEY, 1
+100-year-old, DATE, 1
+Stuff.co.nz Paltrow, PERSON, 1
+Herald Frontline, ORG, 1
+PM Imran Khan, PERSON, 1
+Imran Khan, PERSON, 1
+$14 million, MONEY, 1
+six months - NZ, DATE, 1
+Covid Risk Grows, PERSON, 1
+Michelle Obama, PERSON, 1
+79 per cent, MONEY, 1
+New Research From ERO, ORG, 1
+At least half, CARDINAL, 1
+Supporting Seniors To Embrace Technology, ORG, 1
+Scoop News Hon, PRODUCT, 1
+more than 250, CARDINAL, 1
+Gary Payinda - conundrum, PERSON, 1
+Reinforces Need To Follow Strict Entry Requirements, PERSON, 1
+past 100 million - NZ, MONEY, 1
+Bookseller, ORG, 1
+the depressing days, DATE, 1
+almost $400,000, MONEY, 1
+Callaghan Innovation, PERSON, 1
+Oxford University, ORG, 1
+Super Rugby - NZ Herald A, ORG, 1
+Cause of Christchurch, ORG, 1
+March 25, DATE, 1
+2990, DATE, 1
+John Minty, PERSON, 1
+NSW, GPE, 1
+Victoria - NZ Herald NSW, GPE, 1
+Herald Countdown, PERSON, 1
+Two million, CARDINAL, 1
+Boxer Brown Buttabean, PERSON, 1
+Boxer, PERSON, 1
+Letele, GPE, 1
+ASB Showgrounds', ORG, 1
+150-year-old, DATE, 1
+Rebel Wilson, PERSON, 1
+the Super Bowl - NZ, EVENT, 1
+Comedian Bill Bailey, PERSON, 1
+More than $140, MONEY, 1
+the end of February, DATE, 1
+Leonardo da Vinci's, PERSON, 1
+Herald Twelve, ORG, 1
+Mystics, NORP, 1
+the ANZ Premiership, FAC, 1
+Nearly 1000, CARDINAL, 1
+West Auckland, GPE, 1
+18,000, CARDINAL, 1
+0.35 per cent, MONEY, 1
+2-3 days, DATE, 1
+The Pacific Islands Forum, ORG, 1
+Vaccine Export Authorisation Tool, ORG, 1
+Le Laperouse, ORG, 1
+Herald NZ Cruise Association, ORG, 1
+Cases Confirmed, PERSON, 1
+Marcelo Montoya, PERSON, 1
+The Buzz Of Spelling Bee, ORG, 1
+nbsp;New Zealand’s, GPE, 1
+Restaurateur, ORG, 1
+100, MONEY, 1
+2.3, CARDINAL, 1
+covid-19, GPE, 1
+Pacific Customs Administrations Celebrate International Customs Day, ORG, 1
+Customs, ORG, 1
+Oceania Customs Organisation, ORG, 1
+Safe Travel, ORG, 1
+National Guard, ORG, 1
+Herald Public, ORG, 1
+10 minutes, TIME, 1
+LA County', GPE, 1
+Immediate Action Needed, ORG, 1
+last-quarter, DATE, 1
+the final quarter of 2020, DATE, 1
+Peter Davis, PERSON, 1
+millions of dollars, MONEY, 1
+the America's Cup - then Covid hit and no one, LAW, 1
+Jobseeker, PRODUCT, 1
+just 6 percent, PERCENT, 1
+Jones & Morten, ORG, 1
+seven day, DATE, 1
+Neale, ORG, 1
+Brigitte, ORG, 1
+Wallis and Futuna, ORG, 1
+RNZ News Many, ORG, 1
+US Senate, ORG, 1
+Mask, PERSON, 1
+Sinalei Reef Resort, ORG, 1
+Auckland Airport Supports Kiwi Team Deploying, FAC, 1
+SHIELD, PRODUCT, 1
+Armageddon, GPE, 1
+Asia Pacific, LOC, 1
+Sister Anne Marie, PERSON, 1
+Art Deco Festival, WORK_OF_ART, 1
+Napier, ORG, 1
+Blue Lanes, ORG, 1
+East Otago, GPE, 1
+East Otago's, GPE, 1
+South Aucklanders', ORG, 1
+A few hundred metres, QUANTITY, 1
+the difference of months, DATE, 1
+Superyacht, PERSON, 1
+earlier today, TIME, 1
+a few weeks later, DATE, 1
+Doug Wilson, PERSON, 1
+nearly $1b, MONEY, 1
+Lockdown Brings Increased Interest, ORG, 1
+201, CARDINAL, 1
+Ancient Rome, PERSON, 1
+Denarius, PERSON, 1
+Brutus, PERSON, 1
+Friday March 12, DATE, 1
+Central Wellington, LOC, 1
+midday, TIME, 1
+more than 600, CARDINAL, 1
+RNZ News Nurses, ORG, 1
+Herald Five, ORG, 1
+CovidCards, ORG, 1
+CovidTracer, ORG, 1
+Royal Commission, ORG, 1
+USA, GPE, 1
+Kyoto Crime Congress Opens With Declaration To Tackle Growing Crime Threats, Promote Inclusive COVID-19 Recovery | Scoop News Held, ORG, 1
+Kyoto, GPE, 1
+the Sustainable Development Goals, ORG, 1
+two hours, TIME, 1
+William Dart, PERSON, 1
+Nordic Fire, FAC, 1
+Scandinavia, LOC, 1
+Kalevi Aho, PERSON, 1
+12 to 15 year olds, DATE, 1
+World Health Organization, ORG, 1
+RNZ News Countries, ORG, 1
+past day, DATE, 1
+Ho Chi Minh - NZ, PERSON, 1
+Brighton - UK's, GPE, 1
+Flockton, PERSON, 1
+BBC Sussex, ORG, 1
+about 76,000, CARDINAL, 1
+Neil Finn, PERSON, 1
+Datamine, ORG, 1
+East Asia, LOC, 1
+the Pacific (EAP, LOC, 1
+the World Bank’s, ORG, 1
+Pacific Islands Forum, ORG, 1
+Scoop News Pacific Islands Forum Leaders, ORG, 1
+the Special Leaders Retreat, LAW, 1
+the Pacific Islands Forum, ORG, 1
+Lucinda Baulch, PERSON, 1
+First Government, ORG, 1
+more than 850, CARDINAL, 1
+Mt Maunganui, PERSON, 1
+The ASB Polyfest, ORG, 1
+Auckland Secondary Schools Maori &, ORG, 1
+Pacific Islands Cultural Festival, ORG, 1
+45th, ORDINAL, 1
+RNZ News Cybercriminals, ORG, 1
+a couple of weeks, DATE, 1
+New Zealander, ORG, 1
+KFC Botany, PERSON, 1
+Botany, PERSON, 1
+Petition To Direct Fund, ORG, 1
+Recovery | Scoop News, PRODUCT, 1
+The Reserve Bank, ORG, 1
+up to 100 billion dollars, MONEY, 1
+Auckland Covid-19, PERSON, 1
+Golden Shears, PERSON, 1
+61-year, DATE, 1
+3 Days, DATE, 1
+31 December 2020.&nbsp, DATE, 1
+Tracy Goodall, PERSON, 1
+Spanish, NORP, 1
+Marianas, ORG, 1
+a single day, DATE, 1
+8 March, DATE, 1
+the United Nations Economic and Social Commission for Asia, ORG, 1
+the Pacific (ESCAP, LOC, 1
+Ngāti Whātua, WORK_OF_ART, 1
+New Zealand Antique, GPE, 1
+Lake Rotoiti, LOC, 1
+six years - NZ, DATE, 1
+A dozen, CARDINAL, 1
+100 Days Worldwide, DATE, 1
+Tedros, PERSON, 1
+the next 100 days, DATE, 1
+David Seymour - Why, PERSON, 1
+More than half, CARDINAL, 1
+midnight Tuesday, TIME, 1
+9,431, CARDINAL, 1
+Splore, PRODUCT, 1
+Sarah Daniell, PERSON, 1
+Southern Lights, NORP, 1
+Herald Mixing, ORG, 1
+the Metropolitan Police, ORG, 1
+Clapham Common, PERSON, 1
+33-year-old, DATE, 1
+the evening of March 3rd, TIME, 1
+Clapham Common, FAC, 1
+The Metropolitan Police, ORG, 1
+10,000, CARDINAL, 1
+Apartheid, PERSON, 1
+More than 100, CARDINAL, 1
+Baltimore, GPE, 1
+more than 100 million, CARDINAL, 1
+Yo-yo, PERSON, 1
+Lockdown Disappointing, ORG, 1
+Auckland and Level, GPE, 1
+An Auckland National Party MP, ORG, 1
+Anau, ORG, 1
+Brian Tamaki's, PERSON, 1
+Herald Brian Tamaki, PERSON, 1
+Herald PAYE, ORG, 1
+The Emirates Group, ORG, 1
+the Dubai Health Authority, ORG, 1
+the Ministry of Health and Prevention, ORG, 1
+Grayson - NZ Herald Times, ORG, 1
+Ghana, GPE, 1
+noon, TIME, 1
+Aaron Finch, PERSON, 1
+still weeks, DATE, 1
+Herald Prince William, PERSON, 1
+9 month, DATE, 1
+6.4, MONEY, 1
+73 years, DATE, 1
+nearly three weeks, DATE, 1
+Weaker, PERSON, 1
+Mercer - NZ, ORG, 1
+Mercer, GPE, 1
+Greg Bruce, PERSON, 1
+South Auckland Covid, NORP, 1
+covid-19, PRODUCT, 1
+Mendani, PERSON, 1
+Hamilton Operating, PERSON, 1
+Hamilton City Council’s, ORG, 1
+Sunday 14 February, DATE, 1
+The Ministry of Heath, ORG, 1
+56-year-old, DATE, 1
+Ministry, ORG, 1
+Siouxie Wiles, PERSON, 1
+South Canterbury’s, NORP, 1
+season, DATE, 1
+Childcare Supports Mum Through Studies, ORG, 1
+Courtney Russell, PERSON, 1
+Ryman Teams Up, PERSON, 1
+Ryman Healthcare, PERSON, 1
+Hill Laboratories, ORG, 1
+more than 1200, CARDINAL, 1
+Tomorrow, DATE, 1
+Alex Burton, PERSON, 1
+Kea Kids, PERSON, 1
+Argentina, GPE, 1
+New year's, DATE, 1
+Tsunami, GPE, 1
+Covid Level, PERSON, 1
+around 100km, QUANTITY, 1
+East Cape, LOC, 1
+about 2:30am, CARDINAL, 1
+Radio New, ORG, 1
+RNZ News Heavy, ORG, 1
+4.0, CARDINAL, 1
+February 28 2020, DATE, 1
+February 28 2021, DATE, 1
+Herald Finance, ORG, 1
+28 January, DATE, 1
+RNZ News See, ORG, 1
+January 6, DATE, 1
+January 11, DATE, 1
+Dazz, ORG, 1
+Lae, ORG, 1
+Port Moresby's, ORG, 1
+RNZ News WorkSafe, ORG, 1
+Broadband, GPE, 1
+Herald Mini, ORG, 1
+Chorus, ORG, 1
+German, NORP, 1
+Herald Business, ORG, 1
+ICDE Partner, ORG, 1
+Scoop News Educational, ORG, 1
+8-9th, DATE, 1
+April, 2021, DATE, 1
+25pc, ORDINAL, 1
+RNZ Australia, ORG, 1
+Microsoft Cloud Revenue, PERSON, 1
+$59.5 Billion, MONEY, 1
+Comprar Acciones, ORG, 1
+The World Economic Forum, ORG, 1
+20-minute, TIME, 1
+Newtown Festival, EVENT, 1
+March 7, DATE, 1
+Wanaka 2022, ORG, 1
+About 250, CARDINAL, 1
+number one, CARDINAL, 1
+Waihī, ORG, 1
+Green Lights Johnson & Johnson Shots, ORG, 1
+The UN World Health Organization (WHO, ORG, 1
+Enjoy Northland, PERSON, 1
+Far North, LOC, 1
+Spirits Bay, LOC, 1
+1.5.Tents, CARDINAL, 1
+Sheridan Waitai, PERSON, 1
+Smith Sprint, ORG, 1
+Sean Beale, PERSON, 1
+Challenge Wanaka’s, ORG, 1
+Glendhu Bay, PERSON, 1
+46, DATE, 1
+Hopes Hamilton's, PERSON, 1
+late summer, DATE, 1
+Pacific Aerospace, ORG, 1
+Herald Pacific Aerospace, ORG, 1
+Herald Govt's, ORG, 1
+52,183, CARDINAL, 1
+Discord, ORG, 1
+the Bay of Plenty, LOC, 1
+the Bay of Plenty, FAC, 1
+Everyday Technology Highlights New Landscape Of Personal Security, ORG, 1
+Jan. 27, 2021, DATE, 1
+McAfee Corp., ORG, 1
+three days - NZ Herald A, DATE, 1
+Victoria Park Market - NZ, FAC, 1
+Grace Ko, PERSON, 1
+Herald Booking, ORG, 1
+16 weeks, DATE, 1
+Aussie QE - NZ, PERSON, 1
+pre-season, DATE, 1
+Splash Planet - NZ, FAC, 1
+20 per cent, MONEY, 1
+Stars, NCIS, WORK_OF_ART, 1
+Kicks Off COVID-19 Vaccinations, ORG, 1
+Christchurch Airport, ORG, 1
+Palestinian, NORP, 1
+RNZ News Victoria, ORG, 1
+Scott Morrison's, PERSON, 1
+RNZ Parliament's, ORG, 1
+UMR, ORG, 1
+the Labour Party, ORG, 1
+Dark Vapes, PERSON, 1
+Feb 19 and 20, DATE, 1
+Green Party To Take Precautions, ORG, 1
+Green MPs, PERSON, 1
+Chlöe Swarbrick, PERSON, 1
+the next 72 hours, TIME, 1
+full week, DATE, 1
+the seventh day in a row, DATE, 1
+Queensland - NZ, GPE, 1
+Gold Coast, LOC, 1
+first full day, DATE, 1
+Marlborough Youth Trust's, ORG, 1
+My Space, FAC, 1
+this Friday, DATE, 1
+Resurgence Support Payment, FAC, 1
+Alert Level Uncertainty, WORK_OF_ART, 1
+40th, ORDINAL, 1
+the Auckland Home Show, ORG, 1
+Chris Rock, PERSON, 1
+Herald Viewers, ORG, 1
+UN-Habitat Report Calls, ORG, 1
+Cities Post, ORG, 1
+Fairer, GPE, 1
+Greener, GPE, 1
+Healthier Future, ORG, 1
+UN-Habitat, ORG, 1
+Christchurch - NZ Herald Covid-19, ORG, 1
+George Heard, PERSON, 1
+Letterboxd, LOC, 1
+New Zealand Efforts, ORG, 1
+Papua New Guinea’s, GPE, 1
+James Marape, PERSON, 1
+Amnesty International’s Pacific Researcher, ORG, 1
+63kg, QUANTITY, 1
+The Rhythm, PERSON, 1
+Eurodance, ORG, 1
+1993, DATE, 1
+Jenny B, PERSON, 1
+Jesse, FAC, 1
+Covid-19.Health, ORG, 1
+Tenani French, PERSON, 1
+last Monday, DATE, 1
+International Day, EVENT, 1
+Chaos, GPE, 1
+New Ministry of Health, ORG, 1
+Auckland's Jet Park, ORG, 1
+Kate Reggev, PERSON, 1
+Cottagecore, GPE, 1
+Jason Paris, PERSON, 1
+Herald South Africa, ORG, 1
+National, GPE, 1
+Peter Dunne, PERSON, 1
+Lockdowns, ORG, 1
+$240m, MONEY, 1
+240, CARDINAL, 1
+more than 240, CARDINAL, 1
+Cordis Auckland's Our Land, ORG, 1
+year one, DATE, 1
+Alan Bollard, PERSON, 1
+Bank, ORG, 1
+530,000, CARDINAL, 1
+79%, PERCENT, 1
+Scoop News News, ORG, 1
+Nearly 3 million, CARDINAL, 1
+Quick, GPE, 1
+Control Measures, ORG, 1
+the UN World Meteorological Organization, ORG, 1
+Salvation Army, ORG, 1
+the Salvation Army, ORG, 1
+Herald Contract, ORG, 1
+Nelsonians, NORP, 1
+A/NZ Survey Finds, ORG, 1
+1210, DATE, 1
+A/NZ, ORG, 1
+the end of May., DATE, 1
+the summer holidays, DATE, 1
+Infected Northland, ORG, 1
+Nearly 10,000, CARDINAL, 1
+nearly 10,000, CARDINAL, 1
+Next week, DATE, 1
+Capsule, NORP, 1
+The Geopolitics Of Vaccine, ORG, 1
+Greg Hunt, PERSON, 1
+Pfeizer’s, ORG, 1
+4,000, CARDINAL, 1
+an estimated 4,000, CARDINAL, 1
+only a year ago, DATE, 1
+Zuru, GPE, 1
+Herald Zuru, ORG, 1
+Marton Police Station, ORG, 1
+Lockdowns, PERSON, 1
+36th, ORDINAL, 1
+America’s Cup, EVENT, 1
+First weekend, DATE, 1
+the America’s Cup Match, ORG, 1
+the next 7 days, DATE, 1
+America’s Cup Event Ltd, ORG, 1
+the first weekend, DATE, 1
+Kate Middleton, PERSON, 1
+Kensington Palace, ORG, 1
+post-holiday, DATE, 1
+$2, MONEY, 1
+the Year event, DATE, 1
+$2 million, MONEY, 1
+15,000, CARDINAL, 1
+45,000, CARDINAL, 1
+1200, CARDINAL, 1
+BBC, ORG, 1
+Herald Social, ORG, 1
+Last year’s, DATE, 1
+a University of Canterbury Psychologist, ORG, 1
+Neil Thompson, PERSON, 1
+Netanyahu, PERSON, 1
+Benjamin Netanyahu, PERSON, 1
+SAE, ORG, 1
+Scoop News Homegrown, ORG, 1
+Aotearoa’s, ORG, 1
+the 20th of, DATE, 1
+Peter Daszak, PERSON, 1
+Southeast Asia, LOC, 1
+the end of 2019, DATE, 1
+Northland Case, PERSON, 1
+David Welch, PERSON, 1
+Senior Lecturer, PERSON, 1
+University of Auckland When, ORG, 1
+last Sunday, DATE, 1
+Sunday night, TIME, 1
+Naruwan, PERSON, 1
+Almost a year, DATE, 1
+Friday, Saturday, DATE, 1
+South Auckland's, GPE, 1
+Nadia Lim, PERSON, 1
+Arrowtown, GPE, 1
+Herald Controls, ORG, 1
+The New Zealand Travel Industry, ORG, 1
+boom year, DATE, 1
+60 years, DATE, 1
+Call For Improved Planning, ORG, 1
+Vaccine Rollout To Front Line Healthcare Workers, WORK_OF_ART, 1
+Scoop News GPNZ, ORG, 1
+General Practice, ORG, 1
+RNZ News Contact, ORG, 1
+Benedict Cumberbatch, PERSON, 1
+Friday 5 March, DATE, 1
+RNZ News Trade, ORG, 1
+Dubai International Sports Conference, ORG, 1
+Refugee Resettlement, ORG, 1
+Immigration New Zealand, ORG, 1
+Covid, America's, PERSON, 1
+East, LOC, 1
+West, LOC, 1
+Xi Jinping, PERSON, 1
+Herald Medsafe, ORG, 1
+Jennifer Sepull, PERSON, 1
+Coca-Cola Amatil NZ, ORG, 1
+Coca-Cola Amatil, ORG, 1
+$7.2 million, MONEY, 1
+Air NZ's ', ORG, 1
+Tan, PERSON, 1
+Herald Salon, ORG, 1
+360, CARDINAL, 1
+New Brazilian, NORP, 1
+Border Worker Vaccinations -, ORG, 1
+the Priveleges Committee, ORG, 1
+Tuesday 23 February, DATE, 1
+Fauci, PERSON, 1
+14 months, DATE, 1
+Ben Thompson, PERSON, 1
+Kaipara, PERSON, 1
+Sweet Talk - NZ, PERSON, 1
+Herald Mariska Schoeman, ORG, 1
+the sixth day in a row, DATE, 1
+22,000, CARDINAL, 1
+at least 74 days, DATE, 1
+276, MONEY, 1
+24 weeks, DATE, 1
+Howzat, PERSON, 1
+NZ, CARDINAL, 1
+Herald Lockdown, ORG, 1
+less than 10 minutes, TIME, 1
+Astra Zeneca, NORP, 1
+the Grand Mercure Hotel, ORG, 1
+two days earlier, DATE, 1
+14 extra days, DATE, 1
+MIQ.She, DATE, 1
+all day, DATE, 1
+Atul Nakhasi, ORG, 1
+98%, PERCENT, 1
+only 19%, PERCENT, 1
+20,000, CARDINAL, 1
+Central and, LOC, 1
+Eastern Europe, LOC, 1
+Prague, GPE, 1
+the Community Vaccination Centre, ORG, 1
+Rugby Australia, ORG, 1
+Boris Johnson's, PERSON, 1
+Herald Opposition, ORG, 1
+1 March,, DATE, 1
+26 January, 2021, DATE, 1
+RNZ News Northlanders, ORG, 1
+Significant Support Goes To Maori, PERSON, 1
+Health (Māori) Hon Peeni Henare, ORG, 1
+Vaccine Programme, PERSON, 1
+54,000, CARDINAL, 1
+about 80,000, CARDINAL, 1
+about 7 percent, PERCENT, 1
+Lonely Planet, PERSON, 1
+Tony Wheeler - NZ, PERSON, 1
+24 years, DATE, 1
+Chris Upton, PERSON, 1
+Greenpeace, ORG, 1
+$14 billion, MONEY, 1
+RNZ News Research, ORG, 1
+94 percent, PERCENT, 1
+Stuff.co.nz Latest, PERSON, 1
+Mt Roskill, GPE, 1
+Leader of the Opposition, ORG, 1
+Thirty Southland, ORG, 1
+almost five, CARDINAL, 1
+non-Māori, ORG, 1
+England, PERSON, 1
+two million, CARDINAL, 1
+26-28 March, DATE, 1
+Tāpapakanga Regional Park, LOC, 1
+Carole Baskin, PERSON, 1
+Focus Sport, ORG, 1
+19-year-old, DATE, 1
+the Alpine Skiing World Championships, FAC, 1
+91.6 percent, PERCENT, 1
+almost 92 percent, PERCENT, 1
+Fiocruz, NORP, 1
+Rawiri Taonui, PERSON, 1
+Herald Vaccine, PERSON, 1
+The White House, ORG, 1
+the Ardern Government's, ORG, 1
+Lockdown 4, PERSON, 1
+payday, DATE, 1
+93, DATE, 1
+Universality Or Fighting Over Scraps, ORG, 1
+- Ministry of Health | RNZ News, ORG, 1
+Herald Employment, ORG, 1
+less than 9 hours, TIME, 1
+Ellie Jay, PERSON, 1
+Ngātiwai, PERSON, 1
+Whangārei-Kaipara - NZ Herald ', LOC, 1
+Ngātiwai Trust Board, ORG, 1
+more than $10, MONEY, 1
+first day, DATE, 1
+The Pacific In The Post-COVID-19 Era, WORK_OF_ART, 1
+Nagoya, GPE, 1
+2 weeks, DATE, 1
+$50 million, MONEY, 1
+the second year, DATE, 1
+Fatigue Syndrome, PERSON, 1
+Otago University Warren Tate, ORG, 1
+December last year, DATE, 1
+CFS, ORG, 1
+Auckland., ORG, 1
+some quarters, DATE, 1
+more than 1000, CARDINAL, 1
+Novavax, PERSON, 1
+almost 90%, PERCENT, 1
+10.7 million, CARDINAL, 1
+mid 2021, DATE, 1
+Fox’s Bad News, ORG, 1
+over a decade, DATE, 1
+Household Incomes Rise, PERSON, 1
+ten year, DATE, 1
+Teddy, PERSON, 1
+Pūnaha Matatini, PERSON, 1
+9 percent, PERCENT, 1
+Joe Davis, PERSON, 1
+David Downs, PERSON, 1
+Silver Linings, ORG, 1
+Abercrombie, ORG, 1
+Rachel Reese, PERSON, 1
+Collins Outlines Priorities For A Better New Zealand, ORG, 1
+Rotary Auckland’s, GPE, 1
+Ms Collins, PERSON, 1
+24 January 2021, DATE, 1
+This morning, TIME, 1
+City Rail Link's, ORG, 1
+$4.4 billion, MONEY, 1
+Sean Sweeney, PERSON, 1
+Ports of Auckland, ORG, 1
+Sweeney, ORG, 1
+City Rail Link Ltd, ORG, 1
+Auckland Airport MPI, FAC, 1
+Herald Workers, ORG, 1
+Frances Cook, PERSON, 1
+One day's, DATE, 1
+2,048, CARDINAL, 1
+January 4, DATE, 1
+Barely three months ago, DATE, 1
+Herald Massive, ORG, 1
+only 3 percent, PERCENT, 1
+New Curtin University, ORG, 1
+the Australian Journal of Public Administration, ORG, 1
+the first half, DATE, 1
+Pride, PRODUCT, 1
+The New York Times, ORG, 1
+every year, DATE, 1
+New Zealand Symphony Orchestra, ORG, 1
+the Ministry of Health's, ORG, 1
+Kim, PERSON, 1
+Herald Analysis, ORG, 1
+Czech Republic, GPE, 1
+First New Zealand Charity To Accept Donations, ORG, 1
+Broncos as Brisbane, ORG, 1
+April 8, DATE, 1
+Herald Māori, ORG, 1
+almost 100, CARDINAL, 1
+OECD Area Employment Rate Rose, ORG, 1
+The Third Quarter Of 2020, DATE, 1
+the third quarter of 2020, DATE, 1
+2.5 percentage points, PERCENT, 1
+Scale Osaka, PERSON, 1
+#2 Demo Day, MONEY, 1
+Scale Osaka, ORG, 1
+Demo Day, EVENT, 1
+Auckland Council Sets Direction For COVID Economic Recovery, ORG, 1
+Auckland Council’s, ORG, 1
+10-Year Budget, DATE, 1
+2021-2031, DATE, 1
+Herald Junk, ORG, 1
+CCP, ORG, 1
+HKTDC Export, ORG, 1
+HONG KONG, GPE, 1
+Mar 22, 2021, DATE, 1
+2.8, CARDINAL, 1
+39.0, CARDINAL, 1
+the first quarter of this year, DATE, 1
+the preceding quarter, DATE, 1
+the Hong Kong Trade, ORG, 1
+Some 35, CARDINAL, 1
+28-day, DATE, 1
+David Havili, PERSON, 1
+Michael Lueck, PERSON, 1
+Auckland University of Technology International, ORG, 1
+Hotel Council Aotearoa, ORG, 1
+Herald Empty, ORG, 1
+every single day, DATE, 1
+Herald Bitcoin, PERSON, 1
+Vaccine Initiative Announces, WORK_OF_ART, 1
+The World Health Organization (WHO, ORG, 1
+up to 40 million, MONEY, 1
+Millions, CARDINAL, 1
+more than $6,580,000, MONEY, 1
+Apec Leaders, PERSON, 1
+Herald Apec, ORG, 1
+Kate Garraway, PERSON, 1
+Derek Draper, PERSON, 1
+Herald Uncertainty, ORG, 1
+the Prada Cup, EVENT, 1
+26 January, DATE, 1
+the NZ Antique &, ORG, 1
+Case M, ORG, 1
+Ardern, PERSON, 1
+Eddie Holmes: de-coding, PERSON, 1
+Eddie Holmes, PERSON, 1
+the University of Sydney, ORG, 1
+Jesse, PERSON, 1
+Holmes, PERSON, 1
+Air New Zealand Update, ORG, 1
+the Auckland Region, GPE, 1
+Northern Beaches, LOC, 1
+The Deaths Of The Hundred Thousand | Scoop News Not exactly, WORK_OF_ART, 1
+Thermopylae, PERSON, 1
+The hundred thousand, CARDINAL, 1
+18-hour, TIME, 1
+141, CARDINAL, 1
+Kiribati, GPE, 1
+New Zealand, NORP, 1
+New South Wales Health, ORG, 1
+Auckland Airport - NZ Herald The, FAC, 1
+a least 70 percent, PERCENT, 1
+Bespoke Estate Management Venture Eases Stress, ORG, 1
+3 January 2021, DATE, 1
+Scoop News National's, ORG, 1
+the New Zealand Taxpayers’ Union, ORG, 1
+24 March, DATE, 1
+the America's, LOC, 1
+Series, EVENT, 1
+Helensville Community, ORG, 1
+Personal Protective Equipment, ORG, 1
+11 days ago - NZ, DATE, 1
+Fat Tui, FAC, 1
+New Zealanders’ Covid, EVENT, 1
+World Expo 2020 - NZ Herald The, EVENT, 1
+RNZ News American Samoa, ORG, 1
+Vaccine Media, ORG, 1
+Science Media Centres, ORG, 1
+Vaccine Media Hub, ORG, 1
+Nick Leggett, PERSON, 1
+Leggett, PERSON, 1
+Wellington MIQ Workers Next, ORG, 1
+Get Vaccinations, GPE, 1
+the Grand Mercure Hotel, FAC, 1
+Bouqo, NORP, 1
+More than 11,000, CARDINAL, 1
+Kiwis, NORP, 1
+Immigration New Zealand, FAC, 1
+Herald Newly, ORG, 1
+Grant Robertson's, PERSON, 1
+50b, MONEY, 1
+Prince Charles, PERSON, 1
+Wales, GPE, 1
+200-mile, QUANTITY, 1
+Cambodia, GPE, 1
+Comvita, ORG, 1
+Herald Comvita, ORG, 1
+David Banfield, PERSON, 1
+Lockdown - New Research From, ORG, 1
+Kiwis Kiwis, PERSON, 1
+8%, PERCENT, 1
+12-15 year olds, DATE, 1
+3.5-hour, TIME, 1
+Justin, ORG, 1
+Aurelie Sobion, PERSON, 1
+The Nurses Society, ORG, 1
+Auckland Rainbow Pride Parade, PERSON, 1
+Twice, ORG, 1
+Lockdown To Market Unhealthy Food, ORG, 1
+3.0, CARDINAL, 1
+700,000, CARDINAL, 1
+A Generation Of Women In Business | Scoop News Women, WORK_OF_ART, 1
+87%, PERCENT, 1
+Overrepresentation, ORG, 1
+Auckland Lockdown, PERSON, 1
+60 minutes, TIME, 1
+Additional Actions To Keep, ORG, 1
+200 million, CARDINAL, 1
+100 days - NZ, DATE, 1
+Herald United States, GPE, 1
+11 March, DATE, 1
+Larry King - NZ, PERSON, 1
+Herald King, ORG, 1
+Herald Northland, ORG, 1
+Hawke's Bay, ORG, 1
+Will Marshall, PERSON, 1
+48 hours, TIME, 1
+31,870, CARDINAL, 1
+44,413, CARDINAL, 1
+Te Tari Taiwhenua Department of Internal Affairs, PERSON, 1
+Auckland - NZ, ORG, 1
+February 28, DATE, 1
+SPCA, ORG, 1
+eleven, CARDINAL, 1
+51, CARDINAL, 1
+Herald Yup, PERSON, 1
+2000, CARDINAL, 1
+the first week, DATE, 1
+age 61 - NZ, DATE, 1
+Herald John Magufuli, ORG, 1
+Anil Mehta, PERSON, 1
+Recoup COVID-losses, ORG, 1
+just nine months, DATE, 1
+Oxfam, PRODUCT, 1
+more than five months, DATE, 1
+the Big Gay Out, ORG, 1
+Resurrected Politically, ORG, 1
+Lula Goes, PERSON, 1
+Bolsonaro, PERSON, 1
+Moronic' Handling Of Covid-19, WORK_OF_ART, 1
+Kenny Stancil, PERSON, 1
+Luiz Inácio Lula da Silva, PERSON, 1
+South American, NORP, 1
+The Hamilton City Council, ORG, 1
+Corona Vaccine, PERSON, 1
+Government Research, ORG, 1
+more than ten million, CARDINAL, 1
+Biontech, GPE, 1
+The Community | Scoop News, ORG, 1
+Shawn, PERSON, 1
+Browns Bay - NZ, FAC, 1
+February 15, DATE, 1
+Auckland Fringe, PERSON, 1
+400k, MONEY, 1
+last year's season, DATE, 1
+20-year-old, DATE, 1
+Cambridge, GPE, 1
+Herald Govt, ORG, 1
+More than 113,000, CARDINAL, 1
+Mila Kunis, PERSON, 1
+Ashton Kutcher, PERSON, 1
+Shaggy - NZ, PERSON, 1
+Auckland Countdown, PERSON, 1
+OnlyFans, ORG, 1
+Greece, GPE, 1
+Athens, GPE, 1
+Just over a year, DATE, 1
+Santa Clara County, GPE, 1
+About 12,700, CARDINAL, 1
+Twenty-one, CARDINAL, 1
+Central Europe's, LOC, 1
+Central Europe, LOC, 1
+jab days earlier, DATE, 1
+a few days earlier, DATE, 1
+Potato, ORG, 1
+Aussie, GPE, 1
+the whole year, DATE, 1
+Auckland Mayor, PERSON, 1
+an additional 1 million, MONEY, 1
+Robert Muldoon’s, PERSON, 1
+Rob Mitchell, PERSON, 1
+Unite Union Renews Call For A Living Wage For All MIQ Workers, ORG, 1
+The Living Wage, WORK_OF_ART, 1
+Accor, ORG, 1
+a Living Wage, PRODUCT, 1
+Jim Boult, PERSON, 1
+Super Bowl, ORG, 1
+the Great Depression, EVENT, 1
+Herald Financial Times: Industry, ORG, 1
+Months later, DATE, 1
+68, DATE, 1
+2,033.&nbsp, DATE, 1
+19 days, DATE, 1
+the virus days earlier, DATE, 1
+71, CARDINAL, 1
+New Research Finds Elders Living In, ORG, 1
+Carole Gordon, PERSON, 1
+26, CARDINAL, 1
+the biggest year, DATE, 1
+decades, DATE, 1
+Ivan Agerton, PERSON, 1
+1,000-plus, CARDINAL, 1
+Covid-proof, PERSON, 1
+the APEC Business Advisory Council Auckland, ORG, 1
+10 February 2021, DATE, 1
+12-day, DATE, 1
+Besse, GPE, 1
+Gladys Berejiklian, PERSON, 1
+two consecutive days, DATE, 1
+Barnett, PERSON, 1
+1 from midnight, TIME, 1
+the last week, DATE, 1
+the three days, DATE, 1
+this last weekend's, DATE, 1
+the Auckland Chamber of Commerce, ORG, 1
+OJ Simpson, ORG, 1
+Economic And Social Council, ORG, 1
+75, CARDINAL, 1
+Reaffirms Mandate To Tackle Pandemic,, ORG, 1
+75th, ORDINAL, 1
+the Organization’s Economic and Social Council, ORG, 1
+2022 - NZ, DATE, 1
+Chooice, ORG, 1
+Sarah Colcord, PERSON, 1
+Natalia Kanem International Women’s Day, ORG, 1
+Queues, PERSON, 1
+as long as, DATE, 1
+nine days ago, DATE, 1
+Canterbury Cathedral, ORG, 1
+a year later, DATE, 1
+1,400-year-old, DATE, 1
+Stuff.co.nz Kane Williamson, PERSON, 1
+Daniel Craig's, PERSON, 1
+Bond, ORG, 1
+No Time to Die delayed, LAW, 1
+October - NZ Herald, DATE, 1
+Robertson, PERSON, 1
+Orr, PERSON, 1
+The Stunning Decline In Covid-19 Cases, WORK_OF_ART, 1
+January 8th, DATE, 1
+845,693, CARDINAL, 1
+308,443, CARDINAL, 1
+February 5th, DATE, 1
+495,888, CARDINAL, 1
+National Calls For Vaccine Rollout To Be Fast-tracked, ORG, 1
+RNZ News Checkpoints, ORG, 1
+12 years, DATE, 1
+February - NZ Herald Tomatoes, DATE, 1
+Kane Williamson, PERSON, 1
+Graeme Hart's, ORG, 1
+3.4b, MONEY, 1
+$3.4 billion, MONEY, 1
+Oxfam, ORG, 1
+Erica Stanford, PERSON, 1
+Shows Need, PERSON, 1
+Auckland's Eden Park, ORG, 1
+up to 50,000, CARDINAL, 1
+Black Caps', ORG, 1
+the Black Caps, EVENT, 1
+Twenty20, CARDINAL, 1
+Lyric Te-Ao, PERSON, 1
+M & L, ORG, 1
+2 this Sunday, DATE, 1
+the start of next weekend, DATE, 1
+$240 million, MONEY, 1
+last month, DATE, 1
+AstraZeneca Covid, ORG, 1
+Chicago Airport, FAC, 1
+three months, DATE, 1
+90 days, DATE, 1
+Central Wellington, PERSON, 1
+Silver Fern Adine Wilson's, ORG, 1
+Jeff Wilson's, PERSON, 1
+Harper, ORG, 1
+Te Pae Oranga, PERSON, 1
+Maori, ORG, 1
+the Criminal Justice System, ORG, 1
+The King, WORK_OF_ART, 1
+28 January, 2021, DATE, 1
+Farmer, GPE, 1
+Federated Farmers Farm Confidence, ORG, 1
+nearly 1,100, CARDINAL, 1
+Research First, NORP, 1
+The Community | Scoop News, WORK_OF_ART, 1
+Diana Clement, PERSON, 1
+Mt Roskill | Stuff.co.nz, LOC, 1
+Mt Roskill Countdown, PERSON, 1
+only 10%, PERCENT, 1
+RNZ News Landlords, ORG, 1
+Herald Iwi, ORG, 1
+National Answers Horticulture Sector’s, ORG, 1
+National’s Horticulture, ORG, 1
+David Bennett, PERSON, 1
+Drop, ORG, 1
+16%, PERCENT, 1
+One Week, DATE, 1
+January 1, DATE, 1
+99, CARDINAL, 1
+75, DATE, 1
+RNZ News Pasifika, ORG, 1
+Herald New York Times: Efforts, ORG, 1
+Cat, ORG, 1
+more than 15, CARDINAL, 1
+Lucia DeClerck, PERSON, 1
+105th, ORDINAL, 1
+Stuff.co.nz Briggs, PERSON, 1
+Baldwin, PERSON, 1
+the age of 50, DATE, 1
+the Far North, LOC, 1
+Bloomberg, PERSON, 1
+49, CARDINAL, 1
+Spark, ORG, 1
+A week, DATE, 1
+Nicola Alpe, ORG, 1
+$3 million, MONEY, 1
+Quaid Robinson, PERSON, 1
+Māori and Pasifika, PERSON, 1
+Air New Zealand’s, ORG, 1
+First Quarantine-Free Flight, ORG, 1
+Rarotonga Takes Off, PERSON, 1
+NZ941, NORP, 1
+7:45 am, TIME, 1
+Bjorn Andersson, PERSON, 1
+A year ago, DATE, 1
+the United Nations Population Fund, ORG, 1
+Covid case - NZ, PERSON, 1
+2 at midnight, TIME, 1
+Jewellery, ORG, 1
+$31 billion, MONEY, 1
+Trade Me, PERSON, 1
+Manawatū/Whanganui, ORG, 1
+32 per cent, MONEY, 1
+Andrew Becroft, PERSON, 1
+billions of dollars, MONEY, 1
+RNZ News APEC, ORG, 1
+Calls For Compulsion Become Compelling, ORG, 1
+More than 42,000, CARDINAL, 1
+the New Zealand Wood Processors, ORG, 1
+Debunking Covid, PERSON, 1
+Ritchie, PERSON, 1
+Science Fictions, ORG, 1
+recent days, DATE, 1
+Auckland Covid, PERSON, 1
+New Data Reveals COVID-19 Puts Sustainability And Responsible Business Top Of Mind For Kiwis | Scoop News The Rainforest Alliance, ORG, 1
+Seventy two percent, PERCENT, 1
+Vaccine Announcement, PERSON, 1
+Positive News, WORK_OF_ART, 1
+Chamber of Commerce, ORG, 1
+Clinicians, NORP, 1
+at least one, CARDINAL, 1
+15 million - NZ, CARDINAL, 1
+an hour, TIME, 1
+Pushback, PERSON, 1
+1.4 million, CARDINAL, 1
+TB, ORG, 1
+2019-, CARDINAL, 1
+21%, PERCENT, 1
+Herald Returnee, ORG, 1
+2,286, CARDINAL, 1
+20 million, CARDINAL, 1
+20 million mark, MONEY, 1
+Colorado, GPE, 1
+Port of Tauranga, ORG, 1
+1.2 billion dollar, MONEY, 1
+Central Interceptor, NORP, 1
+Liz Garton, PERSON, 1
+Up to 30,000, CARDINAL, 1
+Auckland, New Plymouth, GPE, 1
+Air Napier's, ORG, 1
+Herald Air Napier, ORG, 1
+Urzila Carlson's, PERSON, 1
+Urzila Carlson, PERSON, 1
+Stuff Vaccine, PERSON, 1
+Biometrics, ORG, 1
+Mvine, ORG, 1
+National Health Service, ORG, 1
+Andrew Bud, PERSON, 1
+Manchester, DATE, 1
+420,000, CARDINAL, 1
+Sacha, PERSON, 1
+Parklife, NORP, 1
+Grand Tour, ORG, 1
+Jasmine Blake, PERSON, 1
+Sunday 21 March, DATE, 1
+all-ages, DATE, 1
+Green Party Accept Petition Calling For Equal Distribution, ORG, 1
+Eva Corlett, PERSON, 1
+A Few Things About The Year Gone, WORK_OF_ART, 1
+District Health Board, ORG, 1
+- Ministry of Health | Scoop News Genome, ORG, 1
+Leader of the Opposition and National’s Pacific Peoples, ORG, 1
+Prince Harry's, PERSON, 1
+James Corden, PERSON, 1
+more than nine months, DATE, 1
+month, DATE, 1
+RNZ News Thousands, ORG, 1
+Kai Fest, PERSON, 1
+US$1.9 trillion, MONEY, 1
+US House of Representatives, ORG, 1
+Herald National Māori Pandemic, ORG, 1
+The New Zealand Defence Force, ORG, 1
+4 March, 2021, DATE, 1
+just 12 months, DATE, 1
+Auckland Lantern Festival, ORG, 1
+the Auckland Lantern Festival, EVENT, 1
+The Short-Term Absence Payment (STAP, ORG, 1
+the Government’s Business Support Package, ORG, 1
+Sky Super Rugby Aotearoa, ORG, 1
+Herald Blues, ORG, 1
+$44.1 million, MONEY, 1
+RNZ News Financial, ORG, 1
+Covid War - NZ, EVENT, 1
+Easter Weekend, ORG, 1
+more than an hour, TIME, 1
+87 years old, DATE, 1
+Data Update: Active Cases, ORG, 1
+62, DATE, 1
+Hollywood, GPE, 1
+Larry King ', PERSON, 1
+Reduced Card, PERSON, 1
+between January and February 2021, DATE, 1
+Seasonally, DATE, 1
+$256 million, MONEY, 1
+3.2 percent, PERCENT, 1
+Bolster Testing Orders, ORG, 1
+the United Nations Assistance Mission, ORG, 1
+UNAMI, ORG, 1
+The Pacific Nursing Section of, ORG, 1
+the New Zealand Nurses Organisation, ORG, 1
+a cracker month, DATE, 1
+REINZ, ORG, 1
+an additional 239,000, CARDINAL, 1
+UN Children’s Fund, ORG, 1
+Auckland - NZ Herald Motorists, ORG, 1
+Herald School, ORG, 1
+forty years, DATE, 1
+Just this week, DATE, 1
+only 36, CARDINAL, 1
+Adelaide, ORG, 1
+last December, DATE, 1
+1981, DATE, 1
+Radio Sport, ORG, 1
+Just a week earlier, DATE, 1
+Darcy Lopez, PERSON, 1
+Up’ Testing, Put A Cap On Entry And Māori Vaccination Strategy |, WORK_OF_ART, 1
+The National Iwi Chairs Forum, ORG, 1
+Māori Organisations, PERSON, 1
+Chris Sanders, PERSON, 1
+the Auckland Philharmonia Orchestra, ORG, 1
+Auckland Pullman, ORG, 1
+Arnold Schwarzenegger, PERSON, 1
+9.25pm, CARDINAL, 1
+Community Testing Centre, ORG, 1
+Kohuora Park, FAC, 1
+9am, TIME, 1
+Checklist For Retail Investors To Hit The Jackpot, ORG, 1
+Herald Fears, ORG, 1
+his first month, DATE, 1
+Herald EU, ORG, 1
+BNZ Breakfast, LOC, 1
+Non-Covid Related Death, ORG, 1
+last evening, TIME, 1
+44 year old, DATE, 1
+the Crowne Plaza Hotel, ORG, 1
+the next four months, DATE, 1
+nine days, DATE, 1
+Health Act, NORP, 1
+Are Barcelona, PERSON, 1
+San Diego Zoo, ORG, 1
+Kusatsu, ORG, 1
+Gunma University, ORG, 1
+Kusatsu Onsen, PERSON, 1
+Eden Park's, GPE, 1
+Super Rugby Aotearoa, ORG, 1
+Boxing Day, EVENT, 1
+the Alpine Glacier Motel, ORG, 1
+Snakebite Brewery, ORG, 1
+Mark Gibson, PERSON, 1
+Mar-a-Lago Club, TIME, 1
+Child Poverty Statistics, ORG, 1
+the two years since year ended June 2018, DATE, 1
+late March 2020, DATE, 1
+Stats NZ’s, NORP, 1
+3 March 2021, DATE, 1
+the first day, DATE, 1
+Herald New Plymouth's, ORG, 1
+Ashleigh Mclean, PERSON, 1
+Picton, LOC, 1
+Scoop, PERSON, 1
+Case | Scoop News, ORG, 1
+almost eight hours, TIME, 1
+only five, CARDINAL, 1
+Herald Auckland's, PERSON, 1
+Blues, GPE, 1
+NZUSA Calls For Increased Student Support, ORG, 1
+The New Zealand Union of Students' Associations, ORG, 1
+COVID Alert Levels, ORG, 1
+270, CARDINAL, 1
+Mataharehare, PERSON, 1
+Parnell, ORG, 1
+Dove-Myer Robinson Park, PERSON, 1
+Dame, PERSON, 1
+Naida Glavish, PERSON, 1
+Bay of Islands, LOC, 1
+Ninety-five, CARDINAL, 1
+258, CARDINAL, 1
+the Grand Millennium Hotel, EVENT, 1
+Herald Border, ORG, 1
+| RNZ News Cases, ORG, 1
+82, CARDINAL, 1
+Scoop News Far, ORG, 1
+NIWA Heads To Antarctica, ORG, 1
+Ocean Research, ORG, 1
+six-week, DATE, 1
+Spark Arena, GPE, 1
+RNZ News Community, ORG, 1
+Te Papa Museum, ORG, 1
+National Pandemic Controller, ORG, 1
+1000, DATE, 1
+Controller, PERSON, 1
+the Grand Millennium, FAC, 1
+Mai’, PERSON, 1
+35 per cent, MONEY, 1
+Netball World Youth Cup, ORG, 1
+2025, DATE, 1
+under-21, CARDINAL, 1
+Returnee, PERSON, 1
+125, CARDINAL, 1
+125th, ORDINAL, 1
+3,020, CARDINAL, 1
+Government Failing To Deliver For Vulnerable Kiwis, ORG, 1
+National Government, ORG, 1
+National’s Social Development, ORG, 1
+Louise Upston, PERSON, 1
+$1.3m, MONEY, 1
+non-English, NORP, 1
+The Demise Of The Tokyo Olympics, WORK_OF_ART, 1
+Asia-Pacific:, LOC, 1
+Herald Some, ORG, 1
+nine months, DATE, 1
+the Democratic People’s Republic of Korea, ORG, 1
+Rapporteur, PERSON, 1
+Joseph Parker v Junior, PERSON, 1
+The NZ Exercise Industry Post-Covid, ORG, 1
+Push Recovery Process, PERSON, 1
+January 26th 100 Days 4, DATE, 1
+January 26th, DATE, 1
+Parliament for School Strike 4 Climate NZ’s, ORG, 1
+March 4, DATE, 1
+at least 50%, PERCENT, 1
+2.2 million, CARDINAL, 1
+Olivia Barata Cavalcanti, ORG, 1
+the World Health Organization's Global Health Observatory, ORG, 1
+John Wilding, PERSON, 1
+University of Liverpool, ORG, 1
+Sarah Lauder, PERSON, 1
+Six Months, DATE, 1
+COVID-19 Vaccine’s, PERSON, 1
+19 February, DATE, 1
+Auditor-General Calls For Special, ORG, 1
+John Ryan, PERSON, 1
+the Auditor-General, ORG, 1
+RNZ News Cabinet, ORG, 1
+28 March 2021, DATE, 1
+the ‘day 12, DATE, 1
+South Auckland - NZ Herald Anxiety, GPE, 1
+Vaccine Questions, WORK_OF_ART, 1
+Giesecke, PERSON, 1
+Dunedin, GPE, 1
+3500, CARDINAL, 1
+Jet Park, GPE, 1
+Drew Leafa, PERSON, 1
+No New Community Cases | Scoop News, ORG, 1
+Rita Wilson, PERSON, 1
+The Ellen Show - NZ Herald Rita Wilson, WORK_OF_ART, 1
+Deborah Birx And Public Health, PERSON, 1
+Scoop News Vaccinations, ORG, 1
+21 Years, DATE, 1
+Airline Insights Review, ORG, 1
+6 hours, TIME, 1
+the Commerce Commission, ORG, 1
+Countdown, PERSON, 1
+Kiri Hannifin, PERSON, 1
+Sarah Kay, PERSON, 1
+Dominos, ORG, 1
+1.4 Million, CARDINAL, 1
+First Year, DATE, 1
+An estimated 1.4 million, QUANTITY, 1
+the previous year, DATE, 1
+Covid stress - NZ, PERSON, 1
+Herald Digital, ORG, 1
+Underscores Need, PERSON, 1
+António, PERSON, 1
+Herald Airline, ORG, 1
+a last day, DATE, 1
+The Best Mom Ever, WORK_OF_ART, 1
+Herald Johnson & Johnson, ORG, 1
+Square One’, FAC, 1
+Tedros Warns, PERSON, 1
+Grand Mercure hotel - NZ, FAC, 1
+Stuff.co.nz Joshua Sullivan, PERSON, 1
+9, DATE, 1
+Breakers, PRODUCT, 1
+Garden Centre Business For Sale, ORG, 1
+Hawke’s Bay, ORG, 1
+Kiwis’, ORG, 1
+the middle of last year - has, DATE, 1
+KFC, ORG, 1
+Yum Brands, ORG, 1
+$17 Billion, MONEY, 1
+45%, PERCENT, 1
+Yum Brands’, ORG, 1
+Stock Apps, PERSON, 1
+3%, PERCENT, 1
+YoY, ORG, 1
+Herald New York Times: Health, ORG, 1
+almost half, CARDINAL, 1
+Marie, PERSON, 1
+France Boudret, PERSON, 1
+only 20%, PERCENT, 1
+Boudret, PERSON, 1
+Reuters, ORG, 1
+Malika Belarbi, PERSON, 1
+Switzerland, GPE, 1
+last month's, DATE, 1
+Derek Cheng, PERSON, 1
+BDO, ORG, 1
+almost 20 days, DATE, 1
+less than a month ago, DATE, 1
+Gemma McCaughey's, PERSON, 1
+Gemma McCaughey, PERSON, 1
+Food For Mozambicans, ORG, 1
+Mozambique, ORG, 1
+2017, DATE, 1
+some half a million, CARDINAL, 1
+21 Days, DATE, 1
+Improved Mental Clarity, ORG, 1
+‘New Year, EVENT, 1
+earlier this week, DATE, 1
+April - NZ, DATE, 1
+$400 million, MONEY, 1
+the Ashburton Art Gallery, ORG, 1
+Zonta Club, ORG, 1
+the Awards Evening, LAW, 1
+the Zonta Ashburton, FAC, 1
+Friday 19 March, DATE, 1
+Waterbourne Beach Festival, GPE, 1
+Waterbourne, PERSON, 1
+this happen days, DATE, 1
+Māori MPs, PERSON, 1
+Herald Phil Goff, PERSON, 1
+Opposition, ORG, 1
+Herald Music, ORG, 1
+Maty Nikkhou-O'Brien, PERSON, 1
+the next 10 years, DATE, 1
+10,000 years, DATE, 1
+3.5 hour, TIME, 1
+Govt Delivering Better Wages For Lowest Paid, ORG, 1
+1 April 2021, DATE, 1
+Workplace Relations, ORG, 1
+Polytechnics, ORG, 1
+Massey University, ORG, 1
+Victoria University, ORG, 1
+Grant Guilford, PERSON, 1
+the University of Otago's, ORG, 1
+Harlene Hayne, PERSON, 1
+the Tertiary Education Union, ORG, 1
+Michael Gilchrist, PERSON, 1
+Brooke Anderson, PERSON, 1
+Inland, ORG, 1
+MyIR, FAC, 1
+Nagoya Women’s Marathon, ORG, 1
+4,704, CARDINAL, 1
+Nagoya, ORG, 1
+Tiffany &, ORG, 1
+race&nbsp, PERSON, 1
+the Auckland Pride, ORG, 1
+next Friday, DATE, 1
+tertiary, ORDINAL, 1
+Palmerston North, PERSON, 1
+Bans, NORP, 1
+The EU’s, ORG, 1
+Study Finds, FAC, 1
+Jess Berentson-Shaw, PERSON, 1
+the COVID Action Group, ORG, 1
+the “Zero COVID, LAW, 1
+Vaccine Approved, PERSON, 1
+Medsafe’s, ORG, 1
+Natural Health Products NZ, ORG, 1
+University Of Auckland Study Centres Provide Opportunities, ORG, 1
+Aotearoa New Zealand, FAC, 1
+International Study Centres, ORG, 1
+The Book | Scoop News, WORK_OF_ART, 1
+National’s Police, ORG, 1
+nearly $5 million, MONEY, 1
+14 day, DATE, 1
+Auckland to Australia, ORG, 1
+the Constellation Cup, ORG, 1
+the Cadbury Netball Series, ORG, 1
+The Constellation Cup, WORK_OF_ART, 1
+27 January, 2021, DATE, 1
+Fears PNG's, ORG, 1
+six, a day, DATE, 1
+Sydney ODI, FAC, 1
+the Central District Field Days, LOC, 1
+The Ministry of Education, ORG, 1
+Covid State, PERSON, 1
+a State of Emergency, ORG, 1
+another month, DATE, 1
+Property For Industry's, ORG, 1
+Stuff.co.nz Glass, PERSON, 1
+Chews Lane, GPE, 1
+Fauci Announces US Intention To Resume, ORG, 1
+The United States, GPE, 1
+the World Health Organization’s, ORG, 1
+Spark Launches Innovation Studio, PERSON, 1
+The Power Of Emerging Technology, ORG, 1
+Spark, GPE, 1
+Innovation Studio, ORG, 1
+NCEA, ORG, 1
+Inspiration Education, ORG, 1
+Some 27,000, CARDINAL, 1
+60 percent, PERCENT, 1
+Auckland CBD, GPE, 1
+More than 50, CARDINAL, 1
+National Hauora Coalition And Counties Manukau Health Caution Against Misinformation, ORG, 1
+Tokyo Games, EVENT, 1
+900,000, CARDINAL, 1
+Bill, PERSON, 1
+550,000, CARDINAL, 1
+Only 1, CARDINAL, 1
+86%, PERCENT, 1
+92%, PERCENT, 1
+61%, PERCENT, 1
+70%, PERCENT, 1
+Merge Cafe, FAC, 1
+Karangahape Road, LOC, 1
+about $60,000, MONEY, 1
+Merge, PERSON, 1
+the beginning of March, DATE, 1
+Merge, ORG, 1
+Manu Kahlon, PERSON, 1
+15 years, DATE, 1
+Stuck, PERSON, 1
+Covid-hotspot, PERSON, 1
+About 40,000, CARDINAL, 1
+up to $40 million, MONEY, 1
+The Border And An Update On Border-related Cases, WORK_OF_ART, 1
+20C/501Y.V2, CARDINAL, 1
+Vaccine Timeline, ORG, 1
+Canterbury Mayoral Forum, ORG, 1
+the Canterbury Mayoral Forum, ORG, 1
+Regional Transport Committee, ORG, 1
+The Forum and Committee, ORG, 1
+Christchurch International, ORG, 1
+Paige, ORG, 1
+Ella Hughes, ORG, 1
+Zoom Room Unlikely, PERSON, 1
+only a quarter, DATE, 1
+27%, PERCENT, 1
+46%, PERCENT, 1
+40%, PERCENT, 1
+South Sudanese, NORP, 1
+South Sudan, GPE, 1
+6.6 million, CARDINAL, 1
+seven days ago, DATE, 1
+John Dunn, PERSON, 1
+the International Travel Association, ORG, 1
+140, MONEY, 1
+Efeso Collins, PERSON, 1
+58, DATE, 1
+The 49 days, DATE, 1
+RNZ News Scrutiny, ORG, 1
+Heartache, ORG, 1
+40,000, CARDINAL, 1
+15 months, DATE, 1
+Covid Briefing, PERSON, 1
+Scoop News, LOC, 1
+Angie, PERSON, 1
+Rory, PERSON, 1
+Anakiwa | Stuff.co.nz, PRODUCT, 1
+Outward Bound, PERSON, 1
+Barcelona, GPE, 1
+one million, CARDINAL, 1
+at least 12 weeks, DATE, 1
+Southern DHB, ORG, 1
+Meridian Mall, FAC, 1
+five-hour, TIME, 1
+Samantha Murton, PERSON, 1
+Oxford-AstraZeneca’s, ORG, 1
+New Zealand Economy Set To Turn, ORG, 1
+Herald Felt, PERSON, 1
+90 per cent, MONEY, 1
+Everest, LOC, 1
+Cafe, ORG, 1
+90 million, CARDINAL, 1
+Stephanie Johnson, PERSON, 1
+Stephanie Johnson's, PERSON, 1
+Herald Government, ORG, 1
+Amid Covid, PERSON, 1
+Fertility Associates, ORG, 1
+$100m, MONEY, 1
+Hutt Valley, LOC, 1
+124, CARDINAL, 1
+Audrey Young - Political, PERSON, 1
+Cuisine, ORG, 1
+Yael Shochat, PERSON, 1
+Herald Central, ORG, 1
+Almost 30 per cent, MONEY, 1
+Herald, ORG, 1
+the coming months, DATE, 1
+the next few days, DATE, 1
+Marianas, GPE, 1
+Herald Bonus, ORG, 1
+The Pacific To Support Health Sector Responses, ORG, 1
+Scoop News Group, ORG, 1
+the United Nations World Food Programme, ORG, 1
+the Pacific Community, ORG, 1
+58, CARDINAL, 1
+Chile, GPE, 1
+Nasty, PERSON, 1
+Charles, PERSON, 1
+Camilla, ORG, 1
+The Psycological Toll Of Covid | Scoop News, WORK_OF_ART, 1
+MIS-C, ORG, 1
+Robin Gauld, PERSON, 1
+500-600, CARDINAL, 1
+Lisa Boltman, PERSON, 1
+eight-day, DATE, 1
+Sony World Photography Awards, ORG, 1
+Piers Morgan, PERSON, 1
+Susanna Reid, PERSON, 1
+Good Morning Britain, LOC, 1
+$24 million, MONEY, 1
+714, CARDINAL, 1
+Lockdown at Ministry of Social Development, ORG, 1
+The Ministry of Social Development, ORG, 1
+Billy Frazer, PERSON, 1
+USF2000, PERSON, 1
+Castrol, ORG, 1
+at least May, DATE, 1
+Herald Strict, ORG, 1
+Herald Cook, PERSON, 1
+only one, CARDINAL, 1
+381, CARDINAL, 1
+Waitematā DHB, ORG, 1
+Lockdown Equals Slowdown, ORG, 1
+The three days, DATE, 1
+Level, ORG, 1
+My Food Bag, PRODUCT, 1
+the week, DATE, 1
+Herald Healthcare, ORG, 1
+Hayden Taylor, PERSON, 1
+CDHB, ORG, 1
+ERA, ORG, 1
+Dr Alistair Humphrey, WORK_OF_ART, 1
+NowNext, ORG, 1
+Sri Lanka:, GPE, 1
+Scoop News UN, ORG, 1
+the Sri Lankan Government, ORG, 1
+Muslims, NORP, 1
+Fiji first, ORG, 1
+About 12,000, CARDINAL, 1
+the World Health Organisation's, ORG, 1
+Child Poverty, ORG, 1
+Claire Achmad, PERSON, 1
+Advocacy, PERSON, 1
+TikToking, ORG, 1
+Manukau Councillor Efeso Collins, ORG, 1
+Ōtara, GPE, 1
+Greater Brisbane, PERSON, 1
+Queensland Premier, PERSON, 1
+More than 6000, CARDINAL, 1
+38, CARDINAL, 1
+just over a year, DATE, 1
+Twenty-seven, CARDINAL, 1
+Brisbane, PRODUCT, 1
+Tradie, PERSON, 1
+Final Quarter Of 2020, EVENT, 1
+G20 International Merchandise Trade, ORG, 1
+the fourth quarter of 2020, DATE, 1
+7.2%, PERCENT, 1
+6.8%, PERCENT, 1
+the first half of 2020, DATE, 1
+TikTok, ORG, 1
+Gilligan, PERSON, 1
+Dawn Wells, PERSON, 1
+Mary Ann, PERSON, 1
+Covid - NZ, ORG, 1
+82-year-old, DATE, 1
+1.16b, MONEY, 1
+the end of October, DATE, 1
+Madagascar Amid Drought, PERSON, 1
+Madagascar, GPE, 1
+more than 1.3 million, MONEY, 1
+Matthew Di Leva, PERSON, 1
+the Special Olympics, EVENT, 1
+Ana Maldonado-Contreras, PERSON, 1
+trillions, CARDINAL, 1
+Thursday 4 March, DATE, 1
+close to 100 million, CARDINAL, 1
+more than $3 trillion, MONEY, 1
+Inquiries, ORG, 1
+Napier Port - NZ, FAC, 1
+Herald WorkSafe, ORG, 1
+non-Napier Port, ORG, 1
+Moby, PERSON, 1
+Synlait, ORG, 1
+the six months to January, DATE, 1
+76 percent, PERCENT, 1
+Shakespearean, PERSON, 1
+The Pop-Up, WORK_OF_ART, 1
+Herald Mortuaries, ORG, 1
+New Year's Eve, EVENT, 1
+Central District Field Days, LOC, 1
+Yealands Classic Fighters Postponed | Scoop News Blenheim, ORG, 1
+Omaka Easter, ORG, 1
+Yealands Classic Fighters, ORG, 1
+the first weekend of September, DATE, 1
+3rd, ORDINAL, 1
+260, CARDINAL, 1
+a tumultuous week, DATE, 1
+Las Vegas, GPE, 1
+Scoop News Motor Industry Association, ORG, 1
+David Crawford, PERSON, 1
+8,383, CARDINAL, 1
+25%, PERCENT, 1
+Justin Fivaz, PERSON, 1
+United Video, ORG, 1
+New Brighton, GPE, 1
+The Cook Islands, LOC, 1
+QR Codes, ORG, 1
+DOC Huts And Facilities, ORG, 1
+The Department of Conservation, ORG, 1
+Less than a minute, TIME, 1
+130pc, ORG, 1
+Married 66 years, DATE, 1
+minutes, TIME, 1
+Hereford Conference Cluster | Stuff.co.nz, ORG, 1
+the World Hereford Conference in, ORG, 1
+Govt, GPE, 1
+Images, GPE, 1
+Bali, GPE, 1
+ABC, ORG, 1
+Case L, PERSON, 1
+a few weeks, DATE, 1
+Tanzanian, NORP, 1
+61, CARDINAL, 1
+61, DATE, 1
+14 March 2021, DATE, 1
+9 March, DATE, 1
+Benoit Paire, PERSON, 1
+Whakatāne, ORG, 1
+Whakaari, PERSON, 1
+Phil Gifford, PERSON, 1
+Case M - City Fitness, ORG, 1
+at least June 21, DATE, 1
+RNZ News The Warriors, ORG, 1
+at least 21 June, DATE, 1
+a year', DATE, 1
+60-year-old, DATE, 1
+US$111-million, MONEY, 1
+University of Otago, ORG, 1
+Māni Dunlop, PERSON, 1
+Renews Call For Auckland Priority, ORG, 1
+more than seven hours, TIME, 1
+Helensville, GPE, 1
+CCTV, ORG, 1
+Whangārei, GPE, 1
+Herald Frozen, ORG, 1
+Emma Wiggle, PERSON, 1
+Household Incomes, PERSON, 1
+25 March 2020, DATE, 1
+Finland, GPE, 1
+ninth, ORDINAL, 1
+Futuna, PERSON, 1
+83-year-old, DATE, 1
+19 and 20 February, DATE, 1
+Saturday 20, DATE, 1
+a few minutes, TIME, 1
+Herald Britain's, ORG, 1
+Auckland Kindergarten Association's, ORG, 1
+Ukrainian, GPE, 1
+Wednesday last week, DATE, 1
+Philip Hulme, PERSON, 1
+Prof Hulme, PERSON, 1
+the Bio-Protection Research Centre, ORG, 1
+NZ Post, ORG, 1
+Mercer, PERSON, 1
+the Ministry’s, ORG, 1
+27 December, DATE, 1
+14 December, DATE, 1
+Rugby World Cup, ORG, 1
+Elon Musk's, PERSON, 1
+8.5 million, CARDINAL, 1
+Newspaper Publishers Association, ORG, 1
+52%, PERCENT, 1
+Janssen, NORP, 1
+Kia Aroha College, ORG, 1
+Haley Milne, PERSON, 1
+10th, ORDINAL, 1
+Judith Collins - Lockdown, PERSON, 1
+Another Blow To Kiwis’ Hard Work, ORG, 1
+Sunday week, DATE, 1
+Paison Dakulala, PERSON, 1
+The International Monetary Fund’s, ORG, 1
+Finance, ORG, 1
+Herald Trust, ORG, 1
+the early hours, TIME, 1
+Eduardo Botero, PERSON, 1
+hundreds and hundreds, CARDINAL, 1
+Jefferson Dos Santos, PERSON, 1
+275,000, CARDINAL, 1
+the end of last week, DATE, 1
+Govt Negligence Sees Border Workers, ORG, 1
+Three months ago, DATE, 1
+Oafishly, PERSON, 1
+six consecutive days, DATE, 1
+About 120, CARDINAL, 1
+George Ngaei, PERSON, 1
+only five minutes, TIME, 1
+Herald Housing, ORG, 1
+Auckland, PRODUCT, 1
+Samsung, ORG, 1
+Six months, DATE, 1
+Port Waikato ', FAC, 1
+Port Waikato, FAC, 1
+Pfizer Vaccine Good News, PERSON, 1
+Medsafe, GPE, 1
+November 2020, DATE, 1
+last March, DATE, 1
+Unite Union's, ORG, 1

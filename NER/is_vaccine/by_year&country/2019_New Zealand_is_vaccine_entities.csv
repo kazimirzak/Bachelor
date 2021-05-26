@@ -1,0 +1,490 @@
+entity, label, count
+MMR, ORG, 37
+New Zealand, GPE, 35
+Samoa, ORG, 29
+Auckland, GPE, 19
+Northland, ORG, 17
+Canterbury, GPE, 16
+Northland, GPE, 14
+Shane Reti, PERSON, 13
+first, ORDINAL, 11
+two, CARDINAL, 9
+Samoan, ORG, 8
+RNZ News, ORG, 8
+NZ, GPE, 7
+Julie Anne Genter, PERSON, 7
+The Ministry of Health, ORG, 6
+three, CARDINAL, 6
+Herald Video, ORG, 6
+DHB, ORG, 6
+Wellington, GPE, 6
+this year, DATE, 5
+PHARMAC, ORG, 5
+Whangarei, PERSON, 5
+one, CARDINAL, 5
+second, ORDINAL, 5
+US, GPE, 5
+National’s Associate Health, ORG, 5
+Tonga, GPE, 5
+RNZ, ORG, 5
+four, CARDINAL, 5
+Florida, GPE, 5
+Meningitis, NORP, 4
+Christchurch, ORG, 4
+thousands, CARDINAL, 4
+Three, CARDINAL, 4
+Pharmac, PERSON, 4
+Monday, DATE, 4
+12 months, DATE, 4
+today, DATE, 4
+Thousands, CARDINAL, 4
+Samoans, NORP, 4
+Pharmac, ORG, 3
+this week, DATE, 3
+Thursday, DATE, 3
+Vaccine, PERSON, 3
+HPV, ORG, 3
+2018, DATE, 3
+tomorrow, DATE, 3
+RNZ News Samoa's, ORG, 3
+David Clark, PERSON, 3
+a week, DATE, 3
+Jacinda Ardern, PERSON, 3
+this winter, DATE, 3
+Jessica Biel, PERSON, 3
+Tuesday, DATE, 3
+Checkpoint, PERSON, 3
+the Ministry of Health, ORG, 3
+Pacific, LOC, 3
+UN, ORG, 3
+Scoop News, ORG, 3
+Alex Perrottet, PERSON, 3
+Logan Church, ORG, 3
+Samoan Government, ORG, 3
+One, CARDINAL, 3
+14, CARDINAL, 3
+| Scoop News, PRODUCT, 3
+Waikato, PERSON, 3
+Friday, DATE, 3
+100,000, CARDINAL, 3
+next week, DATE, 3
+20,000, CARDINAL, 3
+New Zealanders, NORP, 3
+Simon Bridges, PERSON, 3
+New Zealand’s, GPE, 2
+Poliomyelitis, PERSON, 2
+Measles, PERSON, 2
+Friday this week, DATE, 2
+Meningitis, ORG, 2
+yesterday, DATE, 2
+Kiwi, ORG, 2
+Herald New York Times, ORG, 2
+804, CARDINAL, 2
+March, DATE, 2
+Ministry of Health, ORG, 2
+22,000, CARDINAL, 2
+Australia, GPE, 2
+DR, GPE, 2
+Samoan RSE, ORG, 2
+Marlborough, GPE, 2
+National’s Health, ORG, 2
+Michael Woodhouse, PERSON, 2
+afternoon, TIME, 2
+15-month-old, DATE, 2
+Auckland, NORP, 2
+Mark Wendt, PERSON, 2
+Rotorua, ORG, 2
+Māori, PERSON, 2
+Apia, GPE, 2
+Australian, NORP, 2
+nearly half, CARDINAL, 2
+200,000, CARDINAL, 2
+Fiji, GPE, 2
+Brexit, PERSON, 2
+25, CARDINAL, 2
+15 months, DATE, 2
+Rubella, ORG, 2
+34, CARDINAL, 2
+Ethan Lindenberger, PERSON, 2
+18, CARDINAL, 2
+Auckland, PERSON, 2
+California, GPE, 2
+Two, CARDINAL, 2
+South Auckland, NORP, 2
+Meningococcal W, ORG, 2
+CDC, ORG, 2
+U.S., GPE, 2
+New York, GPE, 2
+next month, DATE, 2
+last year, DATE, 2
+season, DATE, 2
+The Health Ministry, ORG, 2
+American Samoa, ORG, 2
+1, CARDINAL, 2
+55,000, CARDINAL, 2
+Joseph Parker, PERSON, 2
+Gemma, PERSON, 2
+Richie McCaw, PERSON, 2
+National’s, ORG, 2
+Hong Kong, GPE, 2
+20, CARDINAL, 2
+Fred, PERSON, 2
+Mark, PERSON, 2
+South Auckland, GPE, 2
+millions, CARDINAL, 2
+Taylor Winterstein, PERSON, 2
+Nazi Germany, GPE, 2
+years, DATE, 2
+nine, CARDINAL, 2
+Malawi, GPE, 2
+under 15, DATE, 1
+1000, CARDINAL, 1
+1000, DATE, 1
+Up to one, CARDINAL, 1
+50, CARDINAL, 1
+almost two years ago, DATE, 1
+Govt, ORG, 1
+Northlanders, GPE, 1
+under 20 years of age, DATE, 1
+Measles Vaccine Available, PERSON, 1
+64, CARDINAL, 1
+nearly 1.3 million, CARDINAL, 1
+15, CARDINAL, 1
+Herald Samoa's, ORG, 1
+Hikurangi, PERSON, 1
+125,000, CARDINAL, 1
+About one, CARDINAL, 1
+five, CARDINAL, 1
+Cantabrians, NORP, 1
+Stuff.co.nz Instagram, PERSON, 1
+the Health Select Committee, ORG, 1
+30,000, CARDINAL, 1
+Kiwi, PERSON, 1
+Kiwis, WORK_OF_ART, 1
+Auckland - NZ, GPE, 1
+Seven, CARDINAL, 1
+Sharp, ORG, 1
+Hilary Barry, PERSON, 1
+Barry, PERSON, 1
+89 percent, PERCENT, 1
+South Canterbury, GPE, 1
+Four, CARDINAL, 1
+South Canterbury, NORP, 1
+Auckland doctors -, PERSON, 1
+the flu season, DATE, 1
+Clinics, ORG, 1
+Raglan, PERSON, 1
+Stuff.co.nz Raglan, PERSON, 1
+Hikurangi School, ORG, 1
+Measles Samoa Fund, ORG, 1
+Scoop News Please, ORG, 1
+the Measles Samoa Fund, ORG, 1
+National, ORG, 1
+Nelson Marlborough, PERSON, 1
+Nelson Marlborough.&nbsp, PERSON, 1
+Scoop News Health, ORG, 1
+north-east, LOC, 1
+Democratic Republic of the, GPE, 1
+Congo, GPE, 1
+Hamilton City, GPE, 1
+Councillor, GPE, 1
+Christmas, DATE, 1
+more than 6300, CARDINAL, 1
+Shelley Louw, PERSON, 1
+RNZ News Health, ORG, 1
+Jason Walls, PERSON, 1
+African, NORP, 1
+the World Health Organization ( WHO, ORG, 1
+up to two weeks, DATE, 1
+Herald Biel's, PERSON, 1
+The World Health Organization (WHO, ORG, 1
+Groups, GPE, 1
+two overnight, TIME, 1
+Nita Blake-Persen, PERSON, 1
+Anthony Mundine, PERSON, 1
+Australians, NORP, 1
+Twitter - NZ, LAW, 1
+Anthony Mundine's, PERSON, 1
+Eighteen thousand, CARDINAL, 1
+this morning, TIME, 1
+9,000, CARDINAL, 1
+The Canterbury DHB, ORG, 1
+60, CARDINAL, 1
+RNZ News Samoa, ORG, 1
+several months, DATE, 1
+77, CARDINAL, 1
+more than 5000, CARDINAL, 1
+six-month-old, DATE, 1
+MMR Stock, ORG, 1
+an additional 100,000, CARDINAL, 1
+Hamilton, PERSON, 1
+Te Kōhao Health, ORG, 1
+the Waikato District Health Board, ORG, 1
+Two days, DATE, 1
+over 100, CARDINAL, 1
+63, CARDINAL, 1
+144, CARDINAL, 1
+Poutasi District Hospital, ORG, 1
+RNZ News National's, ORG, 1
+Headline, PERSON, 1
+Mark Ross, PERSON, 1
+Zac Gravatt's, PERSON, 1
+10 years, DATE, 1
+Scoop News National’s, ORG, 1
+more than sixty, CARDINAL, 1
+October, DATE, 1
+Zero, CARDINAL, 1
+Taranaki DHB, ORG, 1
+Weekly, GPE, 1
+Taranaki Base Hospital’s Antenatal, ORG, 1
+New HypoCat, GPE, 1
+Spark Sport, PERSON, 1
+Donald Trump - NZ, PERSON, 1
+Herald Letter, ORG, 1
+Pike River Mine, LOC, 1
+Samoan Government's, ORG, 1
+hundreds, CARDINAL, 1
+Tauranga, GPE, 1
+this month, DATE, 1
+Nelson, PERSON, 1
+8-month-old, DATE, 1
+Months later, DATE, 1
+months, DATE, 1
+Samoa - NZ Herald Two, ORG, 1
+14,000, CARDINAL, 1
+the Auckland Regional Public Health Service, ORG, 1
+Northland GP, ORG, 1
+Lance O’Sullivan, PERSON, 1
+Mischele Rhodes, PERSON, 1
+More than 50,000, CARDINAL, 1
+Last month, DATE, 1
+Measles Mumps, PERSON, 1
+Manawatū, PERSON, 1
+Anthony Hill, PERSON, 1
+Americans, NORP, 1
+Herald Kiwi, ORG, 1
+Health, ORG, 1
+Auckland University, ORG, 1
+249, CARDINAL, 1
+the last 24 hours, TIME, 1
+more than 950, CARDINAL, 1
+the Health Ministry, ORG, 1
+under five years, DATE, 1
+Germany, GPE, 1
+up to $4000, MONEY, 1
+Samoa - NZ, ORG, 1
+Last week, DATE, 1
+Kangen, PERSON, 1
+40 years, DATE, 1
+Simone Watkins, PERSON, 1
+62, CARDINAL, 1
+nearly $20,000, MONEY, 1
+5 to 12 - so, DATE, 1
+Karaka, PERSON, 1
+20-year-olds, DATE, 1
+Sally Harb, PERSON, 1
+3-year-old, DATE, 1
+Orange County, GPE, 1
+Eastern, ORG, 1
+the Centers for Disease Control and Prevention, ORG, 1
+around four to 10 days, DATE, 1
+seven, CARDINAL, 1
+Massachusetts, GPE, 1
+North Carolina, GPE, 1
+Ten, CARDINAL, 1
+The Canterbury District Health Board, ORG, 1
+Alison Mau, PERSON, 1
+Stuff.co.nz Request, PERSON, 1
+Viewpoint NZ, ORG, 1
+Edwin Tamasese, PERSON, 1
+11-month-old, DATE, 1
+RNZ News American Samoa, ORG, 1
+Lance O'Sullivan, PERSON, 1
+five years, DATE, 1
+Switzerland, GPE, 1
+the Journal of Allergy and Clinical Immunology, ORG, 1
+Ten percent, PERCENT, 1
+each year, DATE, 1
+Hypopet, GPE, 1
+Zurich, GPE, 1
+54, CARDINAL, 1
+Hypocat, ORG, 1
+Fox 13, ORG, 1
+three years, DATE, 1
+The Parent Trap, ORG, 1
+The Parent Trap: Disinformation, ORG, 1
+Nearly 100 per cent, MONEY, 1
+an additional 57,000, CARDINAL, 1
+MRR, ORG, 1
+the last 6 months, DATE, 1
+earlier today, TIME, 1
+762, CARDINAL, 1
+Pharmac, NORP, 1
+aged six months, DATE, 1
+Papatoetoe High School, ORG, 1
+two decades, DATE, 1
+Pacific Island, LOC, 1
+Saturday, DATE, 1
+5-year-old, DATE, 1
+the week of July 15, DATE, 1
+GMO, ORG, 1
+Japanese, NORP, 1
+Medsafe, PERSON, 1
+Manufacturer Sanofi SA, ORG, 1
+Kaihu School, ORG, 1
+the age of six months, DATE, 1
+weeks ago, DATE, 1
+Europe, LOC, 1
+WHO, ORG, 1
+10, CARDINAL, 1
+2019, DATE, 1
+Instagram | Newshub, PRODUCT, 1
+Māori Primary Health Providers & DHB, ORG, 1
+Kōhao Health, ORG, 1
+9.30am, CARDINAL, 1
+’s, NORP, 1
+ECE, ORG, 1
+National’s Early, ORG, 1
+Childhood Education, ORG, 1
+Nicola Willis, PERSON, 1
+under five, DATE, 1
+Charlotte, GPE, 1
+4, CARDINAL, 1
+Samoan PM, PERSON, 1
+Shane Reti - Two, PERSON, 1
+Mark Longley, PERSON, 1
+Whenuapai, GPE, 1
+Robert Mugabe - NZ, PERSON, 1
+mid-July, DATE, 1
+first year, DATE, 1
+Queen St, PERSON, 1
+between 15 months and 4 years, DATE, 1
+Scoop News The Government’s, ORG, 1
+30-50 year olds, DATE, 1
+around 20, CARDINAL, 1
+each week, DATE, 1
+hundreds of thousands, CARDINAL, 1
+decade-long, DATE, 1
+St Lucia, PERSON, 1
+RNZ News Employers, ORG, 1
+more than 600,000, CARDINAL, 1
+MMRR, ORG, 1
+Otago-Southland, GPE, 1
+the Southern District Health Board, ORG, 1
+963, CARDINAL, 1
+One million, CARDINAL, 1
+More than one million, QUANTITY, 1
+seasonal, DATE, 1
+Julie Anne Genter’s, PERSON, 1
+30 October, DATE, 1
+16-49 year, DATE, 1
+Winston Peters, PERSON, 1
+the Samoan Government, ORG, 1
+Coromandel, ORG, 1
+Auckland |, GPE, 1
+Frederick Savaiinaea, PERSON, 1
+three months ago, DATE, 1
+Darlene Wendt, PERSON, 1
+Wednesday, DATE, 1
+the Cook Islands, LOC, 1
+Public Health, ORG, 1
+German, NORP, 1
+Herald Parents, ORG, 1
+up to, CARDINAL, 1
+2,500, CARDINAL, 1
+36, CARDINAL, 1
+Queenstown, GPE, 1
+More than 25,000, CARDINAL, 1
+District Court, ORG, 1
+one-year-old, DATE, 1
+July last year, DATE, 1
+Scoop News Vaccines, ORG, 1
+the United Nations Children’s Fund, ORG, 1
+104, CARDINAL, 1
+an Explorer Grant, PERSON, 1
+the Health Research Council, ORG, 1
+Nazi, GPE, 1
+Thirty-two, CARDINAL, 1
+32, CARDINAL, 1
+Outbreaks, ORG, 1
+Waikato |, PRODUCT, 1
+Waikato, LOC, 1
+The Health Select Committee, ORG, 1
+Meningitis, PRODUCT, 1
+First, ORDINAL, 1
+Mark Mitchell, PERSON, 1
+Auckland - NZ Herald Parents, ORG, 1
+'60, DATE, 1
+6000, PERSON, 1
+Samoan Govt, PERSON, 1
+Half, CARDINAL, 1
+800, CARDINAL, 1
+Two-year-old, DATE, 1
+the 90s, DATE, 1
+1149, DATE, 1
+959, CARDINAL, 1
+Scoop News The Pharmaceutical Society of, ORG, 1
+approximately 450, CARDINAL, 1
+aged 12 months to 28 years, DATE, 1
+decades, DATE, 1
+Scoop News, PRODUCT, 1
+MidCentral, ORG, 1
+the year, DATE, 1
+Lisa Williams, PERSON, 1
+Pacific Doctors Engage Thousands to Fight Measles Misinformation, ORG, 1
+Scoop News Two, ORG, 1
+@STOPMeaslesNZ, ORG, 1
+Nelson-Marlborough, ORG, 1
+More than 200, CARDINAL, 1
+The Samoa Ministry of Health, ORG, 1
+multimillion dollar, MONEY, 1
+SDHB, ORG, 1
+Herald Meredith, PERSON, 1
+over 30 years, DATE, 1
+GP, ORG, 1
+Michelle Conning's, PERSON, 1
+Titirangi, GPE, 1
+Afternoon, TIME, 1
+December 12 2019, DATE, 1
+the South Island, LOC, 1
+More than 500,000, CARDINAL, 1
+Dad, PERSON, 1
+8-year-old, DATE, 1
+30 years, DATE, 1
+the World Health Organization (WHO, ORG, 1
+Northland DHB, ORG, 1
+Meningitis Foundation, ORG, 1
+Pete Rowlands, PERSON, 1
+the Meningitis Foundation, ORG, 1
+Only 62 percent, PERCENT, 1
+the Mumps, Measles, ORG, 1
+600, CARDINAL, 1
+Hundreds, CARDINAL, 1
+Dunne Speaks, PERSON, 1
+National Party, ORG, 1
+73, CARDINAL, 1
+30 per cent, MONEY, 1
+Vaccination Campaign, ORG, 1
+nearly 11,000, CARDINAL, 1
+just 16 days, DATE, 1
+Jose Ortega Benito, PERSON, 1
+Samoa - Peters, ORG, 1
+Scoop News Thousands, ORG, 1
+this weekend, DATE, 1
+New Zealand's, GPE, 1
+Hannah, PERSON, 1
+16, CARDINAL, 1
+between July and September, DATE, 1
+Five-year-old, DATE, 1
+37, CARDINAL, 1
+tens of thousands, CARDINAL, 1
+Up to $50,000, MONEY, 1
+Northland District Health Board, ORG, 1
+Meningitis W, FAC, 1
+10-day, DATE, 1
+Scoop News International, ORG, 1
+John Key - NZ, PERSON, 1
+About 90, CARDINAL, 1
+eight, CARDINAL, 1
+the Western Bay of Plenty, LOC, 1
+Expert, PERSON, 1

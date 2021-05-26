@@ -1,0 +1,447 @@
+entity, label, count
+US, GPE, 27
+Melbourne, GPE, 19
+Sydney, GPE, 19
+Corona, GPE, 14
+two, CARDINAL, 11
+ABC News, ORG, 10
+Queensland, GPE, 8
+NSW, ORG, 7
+Thursday, DATE, 7
+Thailand, GPE, 7
+Coronation Street, FAC, 7
+Spanish, NORP, 6
+Victorian, NORP, 6
+Gold Coast, LOC, 6
+Johnny Depp, PERSON, 6
+Australian, NORP, 6
+China, GPE, 6
+Marc Anwar, PERSON, 6
+The White House, ORG, 5
+Dallas, GPE, 5
+Australia, GPE, 5
+Two, CARDINAL, 5
+Monday, DATE, 5
+Washington, GPE, 5
+Victoria, GPE, 5
+White House, ORG, 4
+second, ORDINAL, 4
+Cairns, PERSON, 4
+Robin Wright, PERSON, 4
+California, GPE, 4
+Beveridge Primary School, ORG, 4
+Brussels, GPE, 4
+Antonino Fernandez, PERSON, 3
+Brisbane, GPE, 3
+Qld, PERSON, 3
+Perth, GPE, 3
+Downing Centre Court, ORG, 3
+Lockdown, ORG, 3
+Adelaide, ORG, 3
+three, CARDINAL, 3
+Thai, NORP, 3
+Crown Prince Vajiralongkorn, PERSON, 3
+2016, DATE, 3
+Four, CARDINAL, 3
+yesterday, DATE, 3
+Pistol, PERSON, 3
+last year, DATE, 3
+this morning, TIME, 3
+Texas, GPE, 3
+Azusa, GPE, 3
+Chinese, NORP, 3
+India, GPE, 3
+more than 100, CARDINAL, 3
+Obeid, PERSON, 3
+Metropolitan Remand Centre, ORG, 3
+Katherine, ORG, 3
+millions, CARDINAL, 3
+Friday, DATE, 2
+Park Orchards Primary School, ORG, 2
+Berlin, GPE, 2
+German, NORP, 2
+Brisbane, PERSON, 2
+Gender, ORG, 2
+Kevin Spacey, PERSON, 2
+Hillary Clinton, PERSON, 2
+Donald Trump's, PERSON, 2
+Japan, GPE, 2
+hundreds of thousands, CARDINAL, 2
+the Gold Coast, LOC, 2
+Australian Broadcasting Corporation, ORG, 2
+A-League, ORG, 2
+£2 million, MONEY, 2
+Alabama, GPE, 2
+Saturday, DATE, 2
+Joint Base Andrews, PERSON, 2
+Washington DC, GPE, 2
+Rio, GPE, 2
+Coronation Drive, FAC, 2
+last week, DATE, 2
+last night, TIME, 2
+Boo, ORG, 2
+Mediterranean, LOC, 2
+Albert, PERSON, 2
+one, CARDINAL, 2
+North Head, LOC, 2
+Coronas, ORG, 2
+ABC News Police, ORG, 2
+Matthew Dellavedova, PERSON, 2
+Britain, GPE, 2
+Greece, GPE, 2
+Jacob Lillyman, PERSON, 2
+United States, GPE, 2
+Kabul, GPE, 2
+Denver, GPE, 2
+days, DATE, 2
+Barnaby Joyce, PERSON, 2
+Peregian Beach, GPE, 2
+Aaron Woods, PERSON, 2
+Dene Halatau, PERSON, 2
+NRL, ORG, 2
+Phuket, GPE, 2
+32, CARDINAL, 2
+Kashmir, LOC, 2
+Ohio State University, ORG, 2
+Lyneham High School, ORG, 2
+24-hour, TIME, 2
+Adelaide, LOC, 2
+Jason O'Connor, PERSON, 2
+more than a year, DATE, 2
+Broome Regional Prison, LOC, 2
+William Tyrrell, PERSON, 2
+UK, GPE, 2
+Foxtel, ORG, 2
+Pakistan, GPE, 2
+the second day, DATE, 1
+Collingwood, GPE, 1
+The Tasmanian Government, ORG, 1
+MELBOURNE, ORG, 1
+One, CARDINAL, 1
+RMIT University, ORG, 1
+earlier today, TIME, 1
+SWAT, PERSON, 1
+six, CARDINAL, 1
+Emmanuel ‘E-Man’ Rodrigues, PERSON, 1
+several weeks, DATE, 1
+the first season, DATE, 1
+Perth, PERSON, 1
+morning, TIME, 1
+White House - 9News, ORG, 1
+the Memorial Day, EVENT, 1
+Gwelup, GPE, 1
+afternoon, TIME, 1
+Adelaide Fruit, ORG, 1
+Democratic Party, ORG, 1
+Bernie Sanders, PERSON, 1
+Mosman High School, ORG, 1
+the University of California, Los Angeles, ORG, 1
+DOZENS, CARDINAL, 1
+British, NORP, 1
+Hollywood, GPE, 1
+Southport, ORG, 1
+Hollywood Roosevelt, PERSON, 1
+America, GPE, 1
+Halloween, DATE, 1
+annual, DATE, 1
+overnight, TIME, 1
+Melbourne Assessment Prison, ORG, 1
+42-year-old, DATE, 1
+Wednesday, DATE, 1
+20-hour, TIME, 1
+Children, PERSON, 1
+20 hours, TIME, 1
+James Maasdorp -, PERSON, 1
+James Maasdorp, PERSON, 1
+ABC News Online, ORG, 1
+2008, DATE, 1
+South Africa, GPE, 1
+2003, DATE, 1
+Bachelor of Journalism and Bachelor of Arts, ORG, 1
+The University of Queensland, ORG, 1
+James, PERSON, 1
+Formula One, ORG, 1
+Bathurst, GPE, 1
+Grandstand, GPE, 1
+$3.3 million, MONEY, 1
+Maryland, GPE, 1
+Prayut Chan-o, PERSON, 1
+one year, DATE, 1
+King Bhumibol Adulyadej, ORG, 1
+Banksia Hill, LOC, 1
+Perth’s, GPE, 1
+BANKSIA Hill Detention Centre, ORG, 1
+about $150,000, MONEY, 1
+Vic, ORG, 1
+Corrections Department, ORG, 1
+Aussie, PERSON, 1
+only days, DATE, 1
+Olympics, EVENT, 1
+Seven, CARDINAL, 1
+the US Naval Medical Center, ORG, 1
+San Diego, GPE, 1
+World Health Organisation’s, ORG, 1
+Margaret Chan, PERSON, 1
+WE’RE, ORG, 1
+the World Health Organisation, ORG, 1
+Brisbane River, FAC, 1
+16-year-old, DATE, 1
+Jazz Club, ORG, 1
+Kangaroo Point, Brisbane, ORG, 1
+Crime, Courts, Downing Centre SYDNEY, ORG, 1
+the Downing Centre, ORG, 1
+Australians, NORP, 1
+VIRUS, ORG, 1
+four, CARDINAL, 1
+WWI, GPE, 1
+more than 50 years, DATE, 1
+2009, DATE, 1
+Democratic, NORP, 1
+Johnny Depp's, PERSON, 1
+ABC News Amber Heard, ORG, 1
+Risdon, PERSON, 1
+ABC News Guards, WORK_OF_ART, 1
+Hobart, PERSON, 1
+Sunshine, GPE, 1
+2, CARDINAL, 1
+Aztec, NORP, 1
+Mexican, NORP, 1
+Aliens, PERSON, 1
+Mooroolbark, GPE, 1
+IGA, ORG, 1
+Clayton South, PERSON, 1
+several hours, TIME, 1
+Bruny Island Quarantine Station's, ORG, 1
+Germans, NORP, 1
+Bruny Island's, FAC, 1
+Clarence Park -, FAC, 1
+Clarence Park, FAC, 1
+1.5-kilometre, QUANTITY, 1
+Logan, GPE, 1
+ABC News Parts, ORG, 1
+Logan, PRODUCT, 1
+Biosecurity Queensland, ORG, 1
+Panama, GPE, 1
+Panama Tropical, ORG, 1
+4, CARDINAL, 1
+Azusa, ORG, 1
+Los Angeles County, GPE, 1
+the Third Quarantine Cemetery, ORG, 1
+Hilda, ORG, 1
+Jean Alexander, PERSON, 1
+90, DATE, 1
+the Australian Competition and, ORG, 1
+Consumer Commission's, ORG, 1
+$145 billion, MONEY, 1
+ABI, ORG, 1
+SABMiller, ORG, 1
+early morning, TIME, 1
+Carrara, PERSON, 1
+five days, DATE, 1
+five-hour, TIME, 1
+the Numinbah Valley, LOC, 1
+Port Augusta, ORG, 1
+Port Augusta Prison, FAC, 1
+17, CARDINAL, 1
+more than seven hours, TIME, 1
+Californian, NORP, 1
+MULTIPLE, ORG, 1
+NBA, ORG, 1
+Milwaukee Bucks, GPE, 1
+AUSTRALIA, ORG, 1
+Mazda, ORG, 1
+1000, MONEY, 1
+Creepy, NORP, 1
+Colac Trinity College, ORG, 1
+Pakistani, NORP, 1
+Indian, NORP, 1
+Sierra Leone, ORG, 1
+More than 100, CARDINAL, 1
+Sierra Leone, LOC, 1
+Peter Dutton, PERSON, 1
+The Community and Public Sector Union, ORG, 1
+a week, DATE, 1
+Easter, ORG, 1
+Border Force, PRODUCT, 1
+Nicholas "Nick" Di Girolamo, PERSON, 1
+Australian Water Holdings, ORG, 1
+just days, DATE, 1
+European, NORP, 1
+Hallett Cove Primary School, ORG, 1
+London Zoo, PERSON, 1
+Bandit causes Park Orchards Primary, ORG, 1
+Ten News Melbourne, ORG, 1
+Tasmanian, NORP, 1
+Queensland State of Origin, ORG, 1
+more than a, CARDINAL, 1
+dozens, CARDINAL, 1
+ABC News Bomb, ORG, 1
+more than a dozen, CARDINAL, 1
+thousands, CARDINAL, 1
+Afghan, NORP, 1
+Hazaras, ORG, 1
+Thousands, CARDINAL, 1
+Afghanistan, GPE, 1
+Hazara, GPE, 1
+Ashraf Ghani, PERSON, 1
+Queensland Maroons Origin, PERSON, 1
+13, CARDINAL, 1
+Menyaru, PRODUCT, 1
+Melbourne Zoo, PERSON, 1
+13th, ORDINAL, 1
+eight, CARDINAL, 1
+’ earlier, DATE, 1
+NYC, LOC, 1
+New York, GPE, 1
+night, TIME, 1
+29, CARDINAL, 1
+LOCKDOWN, ORG, 1
+next month's, DATE, 1
+Republican National Convention, ORG, 1
+the Logan River, LOC, 1
+the Queensland Government, ORG, 1
+nine-hour, TIME, 1
+ABC News Farmers, ORG, 1
+the Northern Territory, ORG, 1
+nearly two years, DATE, 1
+Amber Heard, PERSON, 1
+FOUR, CARDINAL, 1
+the Sunshine Coast, LOC, 1
+First, ORDINAL, 1
+Northern Territory, GPE, 1
+25, CARDINAL, 1
+ABC News Watermelons, ORG, 1
+Venn, ORG, 1
+first, ORDINAL, 1
+more than 18 months, DATE, 1
+Tigers, ORG, 1
+Sunday, DATE, 1
+Barack Obama, PERSON, 1
+Andrews Air Force Base, FAC, 1
+CBD, ORG, 1
+Sydney, PERSON, 1
+autumn, DATE, 1
+King Bhumibol, ORG, 1
+| SBS News Thailand's, ORG, 1
+Crown Prince Maha Vajiralongkorn, PERSON, 1
+at least one year, DATE, 1
+Belgian, NORP, 1
+Tuesday, DATE, 1
+The Metropolitan Remand Centre, ORG, 1
+Air Force One, PRODUCT, 1
+Perth, LOC, 1
+more than five hours, TIME, 1
+NINE-HOUR, TIME, 1
+Melbourne’s, ORG, 1
+Amber Heard - ABC News Film, ORG, 1
+England, GPE, 1
+Frankfurt Airport, FAC, 1
+’ A WOMAN, WORK_OF_ART, 1
+Germany, GPE, 1
+Sydney Downing Centre, ORG, 1
+Downing Centre, ORG, 1
+Beveridge, GPE, 1
+Three, CARDINAL, 1
+Several Townsville, ORG, 1
+Townsville, GPE, 1
+$3m, MONEY, 1
+$3 million dollars, MONEY, 1
+Ohio State' - 9news.com.au, ORG, 1
+Columbus, GPE, 1
+Penrith Panthers, ORG, 1
+Pepper Stadium, ORG, 1
+65, CARDINAL, 1
+billion-dollar, MONEY, 1
+11th hour, TIME, 1
+Capitol Building, ORG, 1
+Parliament House, ORG, 1
+ABC News Heraldic, ORG, 1
+Queen, PERSON, 1
+1953, DATE, 1
+the City of Sydney, GPE, 1
+late night, TIME, 1
+North Head, PERSON, 1
+the Third Quarantine Cemetery, FAC, 1
+20, CARDINAL, 1
+ABC News Lockdowns, ORG, 1
+Hong Kong, GPE, 1
+Heard, PERSON, 1
+Boo, PERSON, 1
+today, DATE, 1
+Crown, PRODUCT, 1
+Crown, ORG, 1
+Capitol Hill STAFF, ORG, 1
+the Capitol Visitors Center, ORG, 1
+Patong Beach, GPE, 1
+ABC News Students, WORK_OF_ART, 1
+the State Government, ORG, 1
+Coronation of Thailand's, ORG, 1
+Greenacre, GPE, 1
+| SBS News Interactive, ORG, 1
+early afternoon, TIME, 1
+25 miles, QUANTITY, 1
+40 kilometers, QUANTITY, 1
+Los Angeles, GPE, 1
+Vanessa Lozano, PERSON, 1
+the Los Angeles County Fire Department, ORG, 1
+AFP, ORG, 1
+Brisbane Roar's, PERSON, 1
+Spain, GPE, 1
+Oklahoma City's, GPE, 1
+Southwest Airlines, ORG, 1
+Yatala, GPE, 1
+AB InBev, ORG, 1
+Anheuser-Busch InBev, ORG, 1
+4.3 per cent, MONEY, 1
+second-quarter, DATE, 1
+$US4.01 billion, MONEY, 1
+$A5.34 billion, MONEY, 1
+Budweiser, ORG, 1
+Western Australia's, LOC, 1
+Kimberley, PERSON, 1
+Kendall, GPE, 1
+months, DATE, 1
+Johanna Johnson's, PERSON, 1
+ABC News Embattled, ORG, 1
+Johanna Johnson, PERSON, 1
+more than $1 million, MONEY, 1
+Australian Tax Office, ORG, 1
+million, CARDINAL, 1
+Tian Tian, PERSON, 1
+Smithsonian National Zoo WHILE, ORG, 1
+Sunshine Coast, LOC, 1
+CUB, ORG, 1
+Stella, ORG, 1
+Lion Nathan Lion Nathan, ORG, 1
+US Capitol, FAC, 1
+Capitol, FAC, 1
+the United States, GPE, 1
+Congress, ORG, 1
+Gymnastics - Coronation, ORG, 1
+Biles, PRODUCT, 1
+Reuters, ORG, 1
+Simone Biles, PERSON, 1
+Aly Raisman, PERSON, 1
+Parkville, GPE, 1
+Youths, ORG, 1
+hours, TIME, 1
+the Parkville Youth Justice Centre, ORG, 1
+this year, DATE, 1
+96-year-old, DATE, 1
+Privy Council, ORG, 1
+the White House, FAC, 1
+Secret Service, ORG, 1
+Tracy Brabin, PERSON, 1
+Yorkshire, PERSON, 1
+Jo Cox, PERSON, 1
+World Bank, ORG, 1
+The World Bank, ORG, 1
+2014, DATE, 1
+West Africa, GPE, 1
+Communications, ORG, 1
+Mitch Fifield, PERSON, 1
+the Department of Communications, ORG, 1
+Capitol Complex, PERSON, 1
+Washington D.C., GPE, 1
+Indians, NORP, 1
+the White House, ORG, 1

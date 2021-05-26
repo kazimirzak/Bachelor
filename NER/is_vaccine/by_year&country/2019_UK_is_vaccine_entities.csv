@@ -1,0 +1,1147 @@
+entity, label, count
+MMR, ORG, 89
+UK, GPE, 87
+HPV, ORG, 84
+first, ORDINAL, 45
+Guardian, ORG, 38
+US, GPE, 35
+Matt Hancock, PERSON, 27
+two, CARDINAL, 26
+one, CARDINAL, 23
+Britain, GPE, 22
+Brexit, PERSON, 22
+Daily Mail, ORG, 20
+NHS, ORG, 20
+England, GPE, 20
+Ireland, GPE, 19
+three, CARDINAL, 19
+Europe, LOC, 18
+Scotland, GPE, 18
+Pakistan, GPE, 16
+ITV News, ORG, 14
+today, DATE, 13
+Vaccine, PERSON, 13
+Times, ORG, 13
+British, NORP, 13
+this year, DATE, 13
+thousands, CARDINAL, 12
+second, ORDINAL, 12
+Health, ORG, 12
+Andrew Wakefield, PERSON, 11
+French, NORP, 11
+BBC News, ORG, 10
+yesterday, DATE, 10
+winter, DATE, 9
+last year, DATE, 9
+London, GPE, 9
+2019, DATE, 9
+Boris Johnson, PERSON, 9
+millions, CARDINAL, 9
+Germany, GPE, 9
+New York, GPE, 8
+Sunday, DATE, 8
+Muslim, NORP, 8
+Simon Stevens, PERSON, 8
+2018, DATE, 8
+Italian, NORP, 7
+Italy, GPE, 7
+the Democratic Republic of Congo, GPE, 7
+September, DATE, 7
+Irish, NORP, 7
+Sky News, WORK_OF_ART, 7
+Congo, GPE, 7
+hundreds, CARDINAL, 7
+four, CARDINAL, 7
+Jessica Biel, PERSON, 7
+Simon Harris, PERSON, 6
+UN, ORG, 6
+Two, CARDINAL, 6
+The Sunday Times, ORG, 6
+Britons, PERSON, 6
+13, CARDINAL, 6
+EU, ORG, 6
+FLU, ORG, 6
+France, GPE, 6
+Jacob Rees-Mogg, PERSON, 6
+Ghana, GPE, 6
+the World Health Organisation, ORG, 6
+Miriam Stoppard, PERSON, 5
+Glaxosmithkline, PERSON, 5
+third, ORDINAL, 5
+Africa, LOC, 5
+Donald Tusk, PERSON, 5
+China, GPE, 5
+12 to 13, DATE, 5
+the World Health Organisation (WHO, ORG, 5
+Scottish, NORP, 5
+Pacific, LOC, 5
+100,000, CARDINAL, 4
+Martin Gore, PERSON, 4
+One, CARDINAL, 4
+Malaria, GPE, 4
+WHO, ORG, 4
+Tuesday, DATE, 4
+Philippines, GPE, 4
+Malawi, ORG, 4
+Daily Mail Online, ORG, 4
+Laura Brennan, PERSON, 4
+Monday, DATE, 4
+African, NORP, 4
+this week, DATE, 4
+Brits, NORP, 4
+seven, CARDINAL, 4
+German, NORP, 4
+NHS England, ORG, 4
+200, CARDINAL, 4
+eight, CARDINAL, 4
+BBC, ORG, 4
+Ethan Lindenberger, PERSON, 4
+the past year, DATE, 4
+this winter, DATE, 4
+European, NORP, 4
+California, GPE, 4
+a year, DATE, 4
+NAO, ORG, 4
+MSF, ORG, 4
+2017, DATE, 3
+the United States, GPE, 3
+the European Commission, ORG, 3
+1, CARDINAL, 3
+30 years, DATE, 3
+more than 1,000, CARDINAL, 3
+14-year-old, DATE, 3
+decades, DATE, 3
+Saturday, DATE, 3
+Australia, GPE, 3
+last month, DATE, 3
+Zambia, GPE, 3
+week, DATE, 3
+year, DATE, 3
+26, DATE, 3
+every year, DATE, 3
+Chris Exley, PERSON, 3
+2008, DATE, 3
+five-year-olds, DATE, 3
+100, CARDINAL, 3
+America, GPE, 3
+six, CARDINAL, 3
+Kenya, GPE, 3
+the World Health Organization, ORG, 3
+12, CARDINAL, 3
+10, CARDINAL, 3
+each year, DATE, 3
+35, CARDINAL, 3
+summer, DATE, 3
+Amazon, ORG, 3
+five years, DATE, 3
+Public Health England, ORG, 3
+New Zealand, GPE, 3
+Washington, GPE, 3
+hundreds of thousands, CARDINAL, 3
+Oxford, ORG, 3
+half, CARDINAL, 3
+Cambridge, GPE, 3
+2021, DATE, 3
+18, DATE, 3
+million, CARDINAL, 2
+five, CARDINAL, 2
+tens of thousands, CARDINAL, 2
+World, ORG, 2
+the United Nations, ORG, 2
+12 or 13, DATE, 2
+Andre Spicer, PERSON, 2
+several weeks, DATE, 2
+Samoa, ORG, 2
+90,000, CARDINAL, 2
+annually, DATE, 2
+Wales, GPE, 2
+Fluenz Tetra, PRODUCT, 2
+| World | The Times, ORG, 2
+140,000, CARDINAL, 2
+Miriam Stoppard - Mirror, PERSON, 2
+90s, DATE, 2
+Minnesota, GPE, 2
+New York City, GPE, 2
+Five, CARDINAL, 2
+14, CARDINAL, 2
+25%, PERCENT, 2
+25 million, CARDINAL, 2
+The Guardian Public Health England, ORG, 2
+26, CARDINAL, 2
+Ennis, Co Clare, ORG, 2
+More than a million, CARDINAL, 2
+two-year-old, DATE, 2
+Tories, NORP, 2
+DR, GPE, 2
+Robert F Kennedy, PERSON, 2
+Tiananmen Square, FAC, 2
+Kennedy, PERSON, 2
+Three, CARDINAL, 2
+Jayne Donegan, PERSON, 2
+13-year-old, DATE, 2
+the next 40 years, DATE, 2
+Southend, GPE, 2
+Ainsworths, PERSON, 2
+Groups, ORG, 2
+South Sudan, GPE, 2
+One million, CARDINAL, 2
+Ukraine, GPE, 2
+two-day, DATE, 2
+81, CARDINAL, 2
+Asda, ORG, 2
+more than a million, CARDINAL, 2
+Islam, ORG, 2
+almost 2,000, CARDINAL, 2
+Malcolm Brabant, PERSON, 2
+600,000, CARDINAL, 2
+Matthew Hancock, PERSON, 2
+90%, PERCENT, 2
+12 and 13, DATE, 2
+HSE, ORG, 2
+Andrew Wakefield's, PERSON, 2
+20 years ago, DATE, 2
+231, CARDINAL, 2
+Trump, ORG, 2
+the World Health Organization (WHO, ORG, 2
+2058, DATE, 2
+80, CARDINAL, 2
+High Court, ORG, 2
+The Times Daily Quiz, ORG, 2
+QUADRUPLE, NORP, 2
+Justin Timberlake, ORG, 2
+| Travel, ORG, 2
+Sun, ORG, 2
+Kentucky, GPE, 2
+YouTube, ORG, 2
+Malawi, PERSON, 2
+Costa Rica, GPE, 2
+Last week, DATE, 2
+Halle O'Brien, PERSON, 2
+19, DATE, 2
+Litherland, GPE, 2
+Zika, PERSON, 2
+daily, DATE, 2
+17, CARDINAL, 2
+This Morning, TIME, 2
+three years, DATE, 2
+60, CARDINAL, 2
+October 31, DATE, 2
+2012, DATE, 2
+Zimbabwe, GPE, 2
+30,000, CARDINAL, 2
+Chelsea, PERSON, 2
+25-year, DATE, 2
+one year, DATE, 2
+Beverly Hills, GPE, 2
+Daily Mail Online Health, ORG, 2
+Shanelle Cartwright, PERSON, 2
+Daily Mail Online Public Health England, ORG, 2
+TWO, CARDINAL, 2
+Afghanistan, GPE, 2
+up to three, CARDINAL, 2
+Circassia Pharmaceuticals, ORG, 2
+up to €, MONEY, 2
+2,500, MONEY, 2
+Less than one third, CARDINAL, 2
+three-year-olds, DATE, 2
+Jade Goody, PERSON, 2
+Prince William, PERSON, 2
+Dr Nicholl, PERSON, 2
+First, ORDINAL, 2
+two weeks, DATE, 2
+KIDS, ORG, 2
+a decade, DATE, 2
+mid-November, DATE, 2
+1998, DATE, 2
+More than 130, CARDINAL, 2
+The Holiday Guru, ORG, 2
+24%, PERCENT, 2
+80 million, CARDINAL, 2
+almost £7,000, MONEY, 2
+one week, DATE, 2
+Healthcare, ORG, 2
+eight weeks, DATE, 2
+Dutch, NORP, 2
+days, DATE, 2
+95%, PERCENT, 2
+ten, CARDINAL, 2
+Nigeria, GPE, 2
+just three months, DATE, 2
+nearly 1,000, CARDINAL, 2
+Madagascar, GPE, 2
+Lorenzin, ORG, 1
+the Flucelvax Tetra, WORK_OF_ART, 1
+the first five months of 2019, DATE, 1
+1992, DATE, 1
+U-turn Pregnant, ORG, 1
+World Health Organization (WHO, ORG, 1
+Harris, GPE, 1
+BLOCK, ORG, 1
+Daily Mail Online Instagram, ORG, 1
+ITV News Vaccine, ORG, 1
+More than half, CARDINAL, 1
+eight-year, DATE, 1
+Everbo, ORG, 1
+two decades, DATE, 1
+3.6, MONEY, 1
+National Gallery, ORG, 1
+Gaze, PERSON, 1
+Boots, ORG, 1
+Tanzania, GPE, 1
+67, DATE, 1
+Daily Mail Online Parents, ORG, 1
+Unicef, PERSON, 1
+Robin Nandy, PERSON, 1
+Supports Mail, ORG, 1
+Academy of Medical Royal Colleges, ORG, 1
+Herpes, NORP, 1
+Barry, PERSON, 1
+Penarth - Wales Online Pupils, ORG, 1
+Penarth, GPE, 1
+Palmerston Primary, ORG, 1
+Larissa Nolan, PERSON, 1
+two years old, DATE, 1
+Mozambique, ORG, 1
+Beira, GPE, 1
+ANTI-VACCINATION, NORP, 1
+Miriam Stoppard - Mirror Online Scientists, PERSON, 1
+Nearly 20 million, CARDINAL, 1
+At least 20 million, CARDINAL, 1
+up to £475, MONEY, 1
+Year Eight, DATE, 1
+Guardian Study, ORG, 1
+more than 600, CARDINAL, 1
+98%, PERCENT, 1
+the Cass Business School at City, University of London, ORG, 1
+42, CARDINAL, 1
+more than a third, CARDINAL, 1
+Séamas, ORG, 1
+Rocky IV, PERSON, 1
+Andrew Wakefield', PERSON, 1
+25MILLION, CARDINAL, 1
+all Year Six, DATE, 1
+an extra 600,000, CARDINAL, 1
+70 per cent, MONEY, 1
+Bad Medicine, ORG, 1
+Nasal, PERSON, 1
+About 120,000, CARDINAL, 1
+five-year-old, DATE, 1
+MONTHS | Daily Mail Online Scientists, ORG, 1
+Scripps University, ORG, 1
+CrazyMothers, ORG, 1
+annual, DATE, 1
+BBC News Parental, ORG, 1
+Explorer Ben Fogle, PERSON, 1
+Ben Fogle, PERSON, 1
+Amsterdam, GPE, 1
+10am, TIME, 1
+Islamist, NORP, 1
+500, CARDINAL, 1
+more than 500, CARDINAL, 1
+the Cancer Council New South Wales, ORG, 1
+Sydney, GPE, 1
+1,000, CARDINAL, 1
+| Science & Tech News, ORG, 1
+Sky News Disinformation, ORG, 1
+ITV News Allegations, ORG, 1
+Hundreds, CARDINAL, 1
+One third, CARDINAL, 1
+The Wellcome Institute, ORG, 1
+144, CARDINAL, 1
+Botswana, PERSON, 1
+anti-MMR, NORP, 1
+The Guardian National Audit Office, ORG, 1
+Gunmen, GPE, 1
+Johnson & Johnson, ORG, 1
+Medecins Sans Frontieres, ORG, 1
+Thursday, DATE, 1
+nine, CARDINAL, 1
+more than 7,200, CARDINAL, 1
+The Sun A MUM, WORK_OF_ART, 1
+Levi Dale, PERSON, 1
+the next three decades, DATE, 1
+Teenager, ORG, 1
+Reddit, NORP, 1
+| Daily Mail Online, ORG, 1
+four years, DATE, 1
+Consent, ORG, 1
+Millions, CARDINAL, 1
+5, CARDINAL, 1
+Brooklyn, GPE, 1
+Bill de Blasio, PERSON, 1
+83%, PERCENT, 1
+13-19, DATE, 1
+five to eight years, DATE, 1
+Cease, ORG, 1
+Bills, GPE, 1
+Melinda Gates, ORG, 1
+30million, MONEY, 1
+Bill, PERSON, 1
+Melinda Gates Foundation, ORG, 1
+Canadian, NORP, 1
+PnuVax, ORG, 1
+Advice, Pictures, ORG, 1
+Video - Mirror, ORG, 1
+Vet, GPE, 1
+the six months to December 31, DATE, 1
+Damian Hinds, ORG, 1
+Clare, GPE, 1
+the last 18 months, DATE, 1
+Two-year-old, DATE, 1
+Indali Hi, WORK_OF_ART, 1
+Jack Dorsey, PERSON, 1
+Independent Twitter, ORG, 1
+Jack Dorsey , PERSON, 1
+50, CARDINAL, 1
+three-year, DATE, 1
+Daily Mail Online Mail, ORG, 1
+David Rose, PERSON, 1
+Daniel, PERSON, 1
+Year 8, DATE, 1
+12-13, DATE, 1
+the next 30 years, DATE, 1
+Wednesday, DATE, 1
+quot;anti-scientific&quot, TIME, 1
+Nicky Henderson, PERSON, 1
+Vaccine ', PERSON, 1
+the Massachusetts Institute of Technology, ORG, 1
+Harris, PERSON, 1
+Wicklow, GPE, 1
+west Cork, GPE, 1
+Dublin, GPE, 1
+800,000, CARDINAL, 1
+| Metro Video, ORG, 1
+Idai, PERSON, 1
+Muslims, NORP, 1
+millions every year, DATE, 1
+more than five, CARDINAL, 1
+Measles, PERSON, 1
+NHS England, PRODUCT, 1
+1961, CARDINAL, 1
+modern-day, DATE, 1
+MILLIONS, CARDINAL, 1
+August 2015, DATE, 1
+Gaby Hinsliff, PERSON, 1
+Homeopaths, ORG, 1
+393, CARDINAL, 1
+Andrew Wakefield’s, FAC, 1
+The Sunday Times Debunked, ORG, 1
+more than a decade ago, DATE, 1
+this summer, DATE, 1
+Forty-two, CARDINAL, 1
+The Royal College of Nursing, ORG, 1
+Arson, PERSON, 1
+Masho Khel, PERSON, 1
+more than three decades, DATE, 1
+Bat, PERSON, 1
+Kian Mallinson, PERSON, 1
+first days, DATE, 1
+Johnson, PERSON, 1
+Congolese, NORP, 1
+more than 800,000, CARDINAL, 1
+just over a week, DATE, 1
+World Mercury Project, ORG, 1
+Larry Cook’s Stop Mandatory Vaccinations, PERSON, 1
+54%, PERCENT, 1
+The Communist Party’s, ORG, 1
+30 years ago, DATE, 1
+Larimer County, GPE, 1
+Colorado, GPE, 1
+Robert Jnr, PERSON, 1
+the past 15, DATE, 1
+25,000, CARDINAL, 1
+More than 25,000, CARDINAL, 1
+Daily Mail Online Mr Hancock, ORG, 1
+talkRADIO this morning, TIME, 1
+Miriam Stoppard - Mirror Online Vaccine, PERSON, 1
+Daily Star, WORK_OF_ART, 1
+the East London, LOC, 1
+Newham, ORG, 1
+Algeria, GPE, 1
+Peru, GPE, 1
+Commons, ORG, 1
+TD, GPE, 1
+Kate, PERSON, 1
+The Sunday Times Patients, ORG, 1
+Independent Cervical, ORG, 1
+60 million, CARDINAL, 1
+New York's, GPE, 1
+Mount Sinai Hospital, ORG, 1
+2013, DATE, 1
+Remain, PERSON, 1
+Guardian Health, ORG, 1
+360,000, CARDINAL, 1
+Malawi, GPE, 1
+more than 300, CARDINAL, 1
+the first three months of this year, DATE, 1
+the same period in, DATE, 1
+AROUND 200, CARDINAL, 1
+Meredith, ORG, 1
+15, MONEY, 1
+Brighton, PERSON, 1
+Nazis, NORP, 1
+Audrey Peine, PERSON, 1
+At least 35, CARDINAL, 1
+WuXi, ORG, 1
+more millions, CARDINAL, 1
+Louth, LOC, 1
+Chinese, NORP, 1
+WuXi Biologics, ORG, 1
+325, MONEY, 1
+Dundalk, GPE, 1
+Channel 4 News Giving, ORG, 1
+29,000, CARDINAL, 1
+Briton, PERSON, 1
+62, DATE, 1
+Southend, PERSON, 1
+Queen, PERSON, 1
+'Christmas, DATE, 1
+Feb 28, DATE, 1
+The Teenage Cancer Trust, ORG, 1
+Sky News Girls, ORG, 1
+Roald Dahl's, PERSON, 1
+Olivia, GPE, 1
+Daily Mail Online Roald, ORG, 1
+JANE FRYER, PERSON, 1
+the following year, DATE, 1
+U.S., GPE, 1
+the University of Surrey, ORG, 1
+BCG, ORG, 1
+TB, ORG, 1
+Brazil, GPE, 1
+Dan Skelton, PERSON, 1
+Cheltenham Festival, ORG, 1
+Indivior, ORG, 1
+$123m, MONEY, 1
+up to $122.5 million, MONEY, 1
+£93.6 million, MONEY, 1
+Hangzhou, GPE, 1
+Guardian Largest, ORG, 1
+&ldquo;vaccine fatigue&rdquo, ORG, 1
+2009, DATE, 1
+The Guardian Workers, ORG, 1
+62, CARDINAL, 1
+Tesco, ORG, 1
+Lloyds, ORG, 1
+Three-quarters, DATE, 1
+IPSOS Mori, PERSON, 1
+late September, DATE, 1
+early October, DATE, 1
+| Daily Mail, ORG, 1
+The Guardian Teenage Cancer Trust, ORG, 1
+13 to 24, DATE, 1
+11 to 13, DATE, 1
+Orthodox, NORP, 1
+Jewish, NORP, 1
+MUSLIM, NORP, 1
+The Muslim Council, ORG, 1
+nearly 2,000, CARDINAL, 1
+Daily Mail Online Primary, ORG, 1
+the coming weeks, DATE, 1
+More than 100,000, CARDINAL, 1
+The Vaccine Safety Handbook, WORK_OF_ART, 1
+40, CARDINAL, 1
+Theresa, GPE, 1
+2011, DATE, 1
+Pakistani, NORP, 1
+Thousands, CARDINAL, 1
+Robert F Kennedy Jr. Kennedy, PERSON, 1
+Biel, PERSON, 1
+88, CARDINAL, 1
+Biologist, NORP, 1
+Bedford Convent School, ORG, 1
+Science &, ORG, 1
+Nigerian, NORP, 1
+Sky News Chlamydia, ORG, 1
+STI, ORG, 1
+10-11, DATE, 1
+6, CARDINAL, 1
+30 per cent, MONEY, 1
+just 16th, DATE, 1
+Only Ireland, GPE, 1
+earlier this month, DATE, 1
+1990s, DATE, 1
+the Statens Serum Institut, ORG, 1
+five months, DATE, 1
+MICHAEL, PERSON, 1
+Michael Fitzpatrick, PERSON, 1
+James, PERSON, 1
+the last two quarters, DATE, 1
+the first quarter of 2019, DATE, 1
+97, CARDINAL, 1
+the last quarter of 2018, DATE, 1
+Only 87, DATE, 1
+Russia, GPE, 1
+RUSSIAN, NORP, 1
+West, LOC, 1
+Trump, PERSON, 1
+Glasgow Airport, FAC, 1
+KLM, ORG, 1
+the last few months, DATE, 1
+£2,000 fines, MONEY, 1
+next year, DATE, 1
+one-day, DATE, 1
+the University of Derby, ORG, 1
+New York’s, GPE, 1
+United States, GPE, 1
+Glaxo, ORG, 1
+half-year, DATE, 1
+full-year, DATE, 1
+FTSE, ORG, 1
+Bold, PERSON, 1
+more than 100,000, CARDINAL, 1
+Less than half, CARDINAL, 1
+Only 40%, PERCENT, 1
+last winter, DATE, 1
+Aoife Bennett, PERSON, 1
+27, DATE, 1
+Matteo Salvini’s, ORG, 1
+autumn, DATE, 1
+Daily Mail Online Dr, ORG, 1
+Amesh Adalja, PERSON, 1
+Johns Hopkins University Center for Health Security, ORG, 1
+Maryland, GPE, 1
+Wednesday January 30, 2019, DATE, 1
+three diseases?2, MONEY, 1
+1843, DATE, 1
+72-year-old, DATE, 1
+William Wordsworth, PERSON, 1
+position?3 Which, ORG, 1
+Errol Flynn, PERSON, 1
+Clark, PERSON, 1
+The Sun BORIS Johnson, ORG, 1
+Stephen McGann, PERSON, 1
+Tories, ORG, 1
+about 90,000, CARDINAL, 1
+Conservative, NORP, 1
+Central Africa, GPE, 1
+Outbreaks of Ebola, ORG, 1
+the University of Pennsylvania, ORG, 1
+Julian Crampton, PERSON, 1
+| Register | The Times, ORG, 1
+the summer of 1996, DATE, 1
+300 percent, PERCENT, 1
+Sky News Uptake, ORG, 1
+the last year, DATE, 1
+Jessica, PERSON, 1
+the night, TIME, 1
+six-fold, CARDINAL, 1
+the past six years, DATE, 1
+recent years, DATE, 1
+| Travel News, ORG, 1
+BRITONS, ORG, 1
+Bulgaria, GPE, 1
+March 1, DATE, 1
+36 hours, TIME, 1
+Catelin, GPE, 1
+30, DATE, 1
+six month, DATE, 1
+Immune, ORG, 1
+80 million - Daily Star, CARDINAL, 1
+The Rural Independents Group, ORG, 1
+RIG, ORG, 1
+12-to-13 year old, DATE, 1
+the age of 12 or 13 since 2008, DATE, 1
+138,000, CARDINAL, 1
+Tory, NORP, 1
+50%, PERCENT, 1
+Guardian Falsehoods, ORG, 1
+months, DATE, 1
+Frances Ryan, PERSON, 1
+Three-year, DATE, 1
+only 40%, PERCENT, 1
+Matt Bevin, PERSON, 1
+Robert Kennedy, PERSON, 1
+Tran, PERSON, 1
+Rachel Alter, PERSON, 1
+2100, DATE, 1
+The Guardian Millions, ORG, 1
+Swine, GPE, 1
+The Guardian Woman, ORG, 1
+Pandemrix, ORG, 1
+the following five years, DATE, 1
+DEFEAT HIV, ORG, 1
+Brandenburg, ORG, 1
+The Government , WORK_OF_ART, 1
+Boris Johnson , PERSON, 1
+BBC News TB, ORG, 1
+1.5 million, CARDINAL, 1
+Central American, NORP, 1
+the Labour Party, ORG, 1
+Alan Kelly, PERSON, 1
+ASAI, ORG, 1
+Katie Hopkins, PERSON, 1
+Matthew Hannock, PERSON, 1
+hours, TIME, 1
+The Department of Health, ORG, 1
+Up to 600, CARDINAL, 1
+weeks, DATE, 1
+the Human Papilloma Virus, ORG, 1
+over 99%, PERCENT, 1
+24, CARDINAL, 1
+quot;vaccine alternatives&quot, PERSON, 1
+Telegraph, FAC, 1
+18, CARDINAL, 1
+two days, DATE, 1
+flu - Mirror Online Coby Simons, ORG, 1
+just 48 hours, TIME, 1
+#, CARDINAL, 1
+Arizona State University, ORG, 1
+Colorado State University, ORG, 1
+Chris, PERSON, 1
+Chris Steel, PERSON, 1
+ITV’s, ORG, 1
+Household, PERSON, 1
+Oregon, GPE, 1
+60 percent, PERCENT, 1
+75 percent, PERCENT, 1
+| Daily Mail Online Massachusetts General Hospital, ORG, 1
+1994, DATE, 1
+2000, DATE, 1
+6, DATE, 1
+FURIOUS, ORG, 1
+Kayla Amerson, PERSON, 1
+a year ', DATE, 1
+300 per cent, MONEY, 1
+the first three months of 2019, DATE, 1
+the same period last year, DATE, 1
+112,000, CARDINAL, 1
+28,000, CARDINAL, 1
+Daily Mail Online Statistics, ORG, 1
+22, CARDINAL, 1
+The Guardian Christchurch, ORG, 1
+Carina Harkin, PERSON, 1
+Only 30 per cent, MONEY, 1
+a minute, TIME, 1
+Ruby Shallom ', PERSON, 1
+Ruby Shallom, PERSON, 1
+Bracknell, PERSON, 1
+five years ago, DATE, 1
+Lynch Syndrome, ORG, 1
+80 percent, PERCENT, 1
+Weill Cornell Medicine, ORG, 1
+Richard Ratcliffe's, PERSON, 1
+Iran, GPE, 1
+19-year-old, DATE, 1
+O'Brien, PERSON, 1
+More than 300,000, CARDINAL, 1
+the next three years, DATE, 1
+Daily Mail Online Users, ORG, 1
+Twitter, PERSON, 1
+May 17, DATE, 1
+The National Audit Office, ORG, 1
+275, CARDINAL, 1
+300, MONEY, 1
+the past three weeks, DATE, 1
+Vashon Island, LOC, 1
+Measles USA OUTBREAK, ORG, 1
+USA, GPE, 1
+Nipah, ORG, 1
+the Jefferson Vaccine Center, ORG, 1
+Philadelphia, GPE, 1
+Stephanie Nimmo, PERSON, 1
+51, DATE, 1
+South-West London, LOC, 1
+The Sun VACCINES, WORK_OF_ART, 1
+Evening, TIME, 1
+weekend, DATE, 1
+16, CARDINAL, 1
+At least three, CARDINAL, 1
+US Customs, ORG, 1
+CBP, ORG, 1
+Will Hayward - Will Hayward - Wales, PERSON, 1
+More than 600,000, CARDINAL, 1
+Reborn, PERSON, 1
+80%, PERCENT, 1
+the University of Maryland, ORG, 1
+Baltimore, GPE, 1
+two-thirds, CARDINAL, 1
+S., ORG, 1
+3 weeks, DATE, 1
+10%, PERCENT, 1
+Kensington, PERSON, 1
+the last four years, DATE, 1
+Bernard, PERSON, 1
+Lisa Selz, PERSON, 1
+Manhattan, GPE, 1
+Flu, PERSON, 1
+last year's, DATE, 1
+Felipe, ORG, 1
+16 year-old, DATE, 1
+Carlos, PERSON, 1
+two year-old, DATE, 1
+Wilmer, PERSON, 1
+Gemma O’Doherty, PERSON, 1
+Pakistan Polio, ORG, 1
+Half a million, MONEY, 1
+the last eight years, DATE, 1
+The Centres for Disease Control, ORG, 1
+Robert F. Kennedy, PERSON, 1
+Robert F. Kennedy Jr., PERSON, 1
+Science & Tech News, ORG, 1
+three to two, CARDINAL, 1
+20, CARDINAL, 1
+Heidi Klum, PERSON, 1
+the Gates Foundation, ORG, 1
+tonight, TIME, 1
+9pm, TIME, 1
+BBC Two, ORG, 1
+the 1970s, DATE, 1
+The Guardian Surges, ORG, 1
+Terrified Congo, ORG, 1
+Sun TERRIFIED, LOC, 1
+DAYS, ORG, 1
+Nicky Morgan, PERSON, 1
+30 days, DATE, 1
+the Conservative Party, ORG, 1
+Guardian Agency, ORG, 1
+20 million, CARDINAL, 1
+Wellcome’s, ORG, 1
+Charlie Weller, PERSON, 1
+Going Viral, ORG, 1
+429BC, PRODUCT, 1
+Athens, GPE, 1
+afternoon, TIME, 1
+a few weeks, DATE, 1
+-Sea, LOC, 1
+89%, PERCENT, 1
+Reddit - BBC News, ORG, 1
+the University Hospital Zurich, ORG, 1
+Switzerland, GPE, 1
+Nearly 20, CARDINAL, 1
+Twenty million, CARDINAL, 1
+Sky News The World Health Organisation, WORK_OF_ART, 1
+school Year 8, DATE, 1
+Online JUSTINE, PERSON, 1
+364,808, CARDINAL, 1
+the first six months of this year, DATE, 1
+2006, DATE, 1
+Europeans, NORP, 1
+Half a million, CARDINAL, 1
+90 per cent, MONEY, 1
+Sun CHILDHOOD, ORG, 1
+39, CARDINAL, 1
+Guardian UN, ORG, 1
+&ldquo;vaccine hesitancy&rdquo, ORG, 1
+Robert F Kennedy Jr, PERSON, 1
+Online Kennedy, PERSON, 1
+37-year-old, DATE, 1
+276, CARDINAL, 1
+the California State Assembly, ORG, 1
+State Senate, ORG, 1
+34,000, CARDINAL, 1
+two months, DATE, 1
+The World Health Organization, ORG, 1
+more than 25,000, CARDINAL, 1
+31 October ‘, DATE, 1
+23-year-old, DATE, 1
+Abigail Harris, PERSON, 1
+23, DATE, 1
+Cheltenham, PERSON, 1
+March 27, DATE, 1
+Elle MacPherson - World News - Mirror Online Anti, ORG, 1
+Laura Brennan’s, PERSON, 1
+their first year, DATE, 1
+next week, DATE, 1
+Porridge, WORK_OF_ART, 1
+★★★★☆, ORG, 1
+Inside Prison, FAC, 1
+650,000, CARDINAL, 1
+Sky News Online, ORG, 1
+Oxfordshire Industry, ORG, 1
+Boots, PERSON, 1
+Maria Lally, PERSON, 1
+World’s, ORG, 1
+50 million, CARDINAL, 1
+the University of Rochester, ORG, 1
+between 18 and 36 hours, DATE, 1
+Three-month-old, DATE, 1
+more than 100, CARDINAL, 1
+| Daily Mail Online Sasha Walton, ORG, 1
+28, DATE, 1
+six days, DATE, 1
+11-month-old, DATE, 1
+Levi, PERSON, 1
+Facebook, PERSON, 1
+emergency&rdquo, ORG, 1
+SUPERMARKETS, ORG, 1
+| Daily Mail Online Doctors, ORG, 1
+The High Court, ORG, 1
+Northern Ireland, GPE, 1
+13-year-olds, DATE, 1
+Septem, ORG, 1
+Jens, PERSON, 1
+64,138, CARDINAL, 1
+49,649, CARDINAL, 1
+CBE, ORG, 1
+nine million, CARDINAL, 1
+the Commons |, ORG, 1
+Andrew Wakefield - he, PERSON, 1
+January 2020, DATE, 1
+Nearly half, CARDINAL, 1
+Sep 30, DATE, 1
+the best month, DATE, 1
+three months, DATE, 1
+Sukenik, ORG, 1
+just seven months old, DATE, 1
+a decade ago, DATE, 1
+Grace, PERSON, 1
+| Daily Mail Online Experts, ORG, 1
+INSTAGRAM, ORG, 1
+two-year, DATE, 1
+235, CARDINAL, 1
+Aussie, PERSON, 1
+the UK two years ago, DATE, 1
+ITV News Health, ORG, 1
+MMR, PERSON, 1
+the Muslim Council, ORG, 1
+Catherine Houlihan, PERSON, 1
+Aberdeen, GPE, 1
+June, DATE, 1
+a month, DATE, 1
+North Kivu, GPE, 1
+Breakthrough, PERSON, 1
+an estimated 28 million, CARDINAL, 1
+2030, DATE, 1
+Matteo Salvini, ORG, 1
+30 minutes, TIME, 1
+Lorraine Whitby, PERSON, 1
+Parliament, ORG, 1
+1, MONEY, 1
+about 30,000, CARDINAL, 1
+The Guardian Pioneering, ORG, 1
+more than 5,600, CARDINAL, 1
+95 per cent, MONEY, 1
+Alabama, GPE, 1
+Paul Sweeney, PERSON, 1
+Over 500,000, CARDINAL, 1
+3rd, ORDINAL, 1
+MORE than half a million, CARDINAL, 1
+almost four-fold, CARDINAL, 1
+ITV News Vaccination, ORG, 1
+two-year-olds, DATE, 1
+the fifth consecutive year, DATE, 1
+70, CARDINAL, 1
+Samoa | Daily Mail Online Government, ORG, 1
+60 per cent, MONEY, 1
+some 120,000, CARDINAL, 1
+Independent Flu, ORG, 1
+the Channel Tunnel, ORG, 1
+300,000, CARDINAL, 1
+About 300,000, CARDINAL, 1
+Only 11, CARDINAL, 1
+Essex - Mirror Online Anyone, ORG, 1
+one day, DATE, 1
+disease&quot, ORG, 1
+nearly four, CARDINAL, 1
+More than 7,200, CARDINAL, 1
+July, DATE, 1
+Sarah Boseley, PERSON, 1
+Sonia Sodha, PERSON, 1
+Waldorf, ORG, 1
+27, CARDINAL, 1
+DR Congo, ORG, 1
+Sky News Brexit, ORG, 1
+European Council, ORG, 1
+Christmas, DATE, 1
+Afghan Taliban, ORG, 1
+Taliban, ORG, 1
+Jessica Biel's, PERSON, 1
+more than £22,000, MONEY, 1
+Philippine, NORP, 1
+8,443, CARDINAL, 1
+39%, PERCENT, 1
+Mid-season, DATE, 1
+less than 40, CARDINAL, 1
+season, DATE, 1
+between 18 and 64, DATE, 1
+Stanley Plotkin, PERSON, 1
+the University of Pennsylvania, ORG, 1
+Scientists, NORP, 1
+Victoria Falls, PERSON, 1
+India, GPE, 1
+Spain, GPE, 1
+Stoppard - Mirror, ORG, 1
+BBC News Fake, ORG, 1
+the last week, DATE, 1
+| Metro News ', ORG, 1
+World Health Organisation (WHO, ORG, 1
+6,885, MONEY, 1
+The Jenner Institute, ORG, 1
+Putin, PERSON, 1
+Rachel Clarke, PERSON, 1
+Vladimir Putin, PERSON, 1
+John Nolan, PERSON, 1
+Melissa O'Neill, PERSON, 1
+John Dolan, PERSON, 1
+the Disability Federation of Ireland, ORG, 1
+DFI, ORG, 1
+Kilkenny, PERSON, 1
+Edward Jenner, PERSON, 1
+1796, DATE, 1
+30 years', DATE, 1
+Facebook&rsquo;s, ORG, 1
+ldquo;war room&rdquo, PERSON, 1
+meningitis hours, TIME, 1
+Edge Hill University, ORG, 1
+Group A, ORG, 1
+DIE, ORG, 1
+Regulatory Agency, ORG, 1
+Walter Ricciardi , PERSON, 1
+the Royal Society for Public Health, ORG, 1
+2,000, MONEY, 1
+The Bundestag - Germany's, ORG, 1
+up to €2,500, MONEY, 1
+2,140, MONEY, 1
+Australian, NORP, 1
+Bryce Cartwright, PERSON, 1
+William, PERSON, 1
+Royal Marsden’s, FAC, 1
+Q&A, ORG, 1
+12 weeks, DATE, 1
+16 weeks, DATE, 1
+Jade Goody's, PERSON, 1
+Jackiey, PERSON, 1
+ten-year, DATE, 1
+At least six, CARDINAL, 1
+Monday September 1, DATE, 1
+Daily Mail Online Pinterest, ORG, 1
+Bible Belt', WORK_OF_ART, 1
+the first half of 2019, DATE, 1
+Lee Mercker, PERSON, 1
+Florida, GPE, 1
+Mayo Clinic, ORG, 1
+dozens, CARDINAL, 1
+each day, DATE, 1
+Turkey, GPE, 1
+TURKEY, GPE, 1
+Britons, ORG, 1
+Norwalk, GPE, 1
+Ohio, GPE, 1
+Danish, NORP, 1
+The Independent Malawi, ORG, 1
+Melissa Wakeling, PERSON, 1
+79%, PERCENT, 1
+The University of Texas Medical Branch, ORG, 1
+The Independent Vaccinations, ORG, 1
+Historic, PERSON, 1
+about three, CARDINAL, 1
+Imbokodo, PERSON, 1
+Mosaico, GPE, 1
+as early as 2020, DATE, 1
+Dubai, GPE, 1
+the United Arab Emirates, GPE, 1
+UAE, GPE, 1
+2,758, CARDINAL, 1
+January, DATE, 1
+more than 145,000, CARDINAL, 1
+between January and early August, DATE, 1
+Sky News Only 86.45%, WORK_OF_ART, 1
+Sarah Westcott, PERSON, 1
+44, DATE, 1
+Gabriel, PERSON, 1
+Bridy, PERSON, 1
+their late sixties, DATE, 1
+early seventies, DATE, 1
+this month, DATE, 1
+one-third, CARDINAL, 1
+between two and four months of age - may, DATE, 1
+University of Michigan, ORG, 1
+Only three, CARDINAL, 1
+the HSE’s Health Protection, ORG, 1
+DRC, ORG, 1
+2,000, CARDINAL, 1
+three-minute, TIME, 1
+next month, DATE, 1
+Commons, PRODUCT, 1
+Thursday July 25, 2019, DATE, 1
+1898, DATE, 1
+John Collier, PERSON, 1
+Bon Jovi, PERSON, 1
+Tommy, PERSON, 1
+Marburg, PERSON, 1
+10, MONEY, 1
+$10m, MONEY, 1
+Lottie Daley, PERSON, 1
+the next 10 years, DATE, 1
+Duncan Selbie, PERSON, 1
+normal operating hours, TIME, 1
+Instagram, ORG, 1
+19, CARDINAL, 1
+Jerome Kunkel, PERSON, 1
+Devon, PERSON, 1
+Royal College of Physicians, ORG, 1
+Andrew Goddard, PERSON, 1
+26-year-old, DATE, 1
+last week, DATE, 1
+Up to, CARDINAL, 1
+Edinburgh, GPE, 1
+Bristol, ORG, 1
+Brenda Power, PERSON, 1
+The Sunday Times It’s, ORG, 1
+| Morning Star, WORK_OF_ART, 1
+ROX MIDDLETON, PERSON, 1
+LIAM SHAW and JOEL HELLEWELL, ORG, 1
+Five Star, ORG, 1
+27 years, DATE, 1
+More than a MILLION, CARDINAL, 1
+Tim Mason, PERSON, 1
+just 21 years old, DATE, 1
+March last year, DATE, 1
+Fiona, PERSON, 1
+11 per cent, MONEY, 1
+CIA, ORG, 1
+Bin Laden - BBC, PERSON, 1
+Second, ORDINAL, 1
+3, CARDINAL, 1
+the first two months of this year, DATE, 1
+the holiday season, DATE, 1
+Independent Social, ORG, 1
+Truro, ORG, 1
+Martin Scurr, PERSON, 1
+the next four decades, DATE, 1
+The Guardian Bundestag, ORG, 1
+GSK, ORG, 1
+Boston Children's Hospital, ORG, 1
+Amazon’s, ORG, 1
+More than one, CARDINAL, 1
+National Audit Office, ORG, 1
+2018/19, CARDINAL, 1
+2012/13, CARDINAL, 1
+the next five years, DATE, 1
+The Sun A VACCINE, WORK_OF_ART, 1
+Rese, PERSON, 1
+The Sun BRITAIN, FAC, 1
+59 per cent, MONEY, 1
+Hundreds of thousands, CARDINAL, 1
+James Bond, PERSON, 1
+Washington University School of Medicine, ORG, 1
+St Louis, GPE, 1
+Daily Mail Online Shops, ORG, 1
+the UK Vegetarian Society, ORG, 1
+Filipino, LANGUAGE, 1
+250,000, CARDINAL, 1
+A quarter, CARDINAL, 1
+eight year, DATE, 1
+ITV News Uptake, ORG, 1
+an eight year, DATE, 1
+87 per cent, MONEY, 1
+95, CARDINAL, 1
+Séamus Woulfe, PERSON, 1
+Watchdog, ORG, 1
+The Guardian Vaccinations, ORG, 1
+MARTIN, PERSON, 1
+Daily Mail Online ASK, ORG, 1
+68 years old, DATE, 1
+2014, DATE, 1
+Bell, ORG, 1
+November, DATE, 1
+KIDS, GPE, 1
+No 10, CARDINAL, 1
+Guardian Deadly, ORG, 1
+SEVEN million, CARDINAL, 1
+the People’s Di, ORG, 1
+Guardian Research, ORG, 1
+as half a million, CARDINAL, 1
+zero, CARDINAL, 1
+six years ago, DATE, 1

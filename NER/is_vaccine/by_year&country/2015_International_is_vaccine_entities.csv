@@ -1,0 +1,261 @@
+entity, label, count
+first, ORDINAL, 16
+California, GPE, 12
+U.S., GPE, 11
+Guinea, GPE, 9
+HPV, ORG, 7
+Africa, LOC, 6
+Friday, DATE, 6
+100%, PERCENT, 6
+Ukraine, GPE, 4
+CDC, ORG, 4
+Thursday, DATE, 4
+Flu Vaccine, PERSON, 4
+European, NORP, 4
+Syria, GPE, 4
+thousands, CARDINAL, 4
+100 percent, PERCENT, 4
+Mexico, GPE, 3
+Tuesday, DATE, 3
+GOP, ORG, 3
+three, CARDINAL, 3
+the World Health Organization, ORG, 3
+West Africa, GPE, 3
+Merck, ORG, 3
+Two, CARDINAL, 3
+today, DATE, 3
+ISIS, ORG, 3
+one, CARDINAL, 3
+NBC News, ORG, 2
+millions, CARDINAL, 2
+last year, DATE, 2
+World, ORG, 2
+EU, ORG, 2
+Donald Trump, PERSON, 2
+Vaccine, PERSON, 2
+British, NORP, 2
+Pakistani, NORP, 2
+US, GPE, 2
+five, CARDINAL, 2
+The European Medicines Agency, ORG, 2
+FBI, ORG, 2
+RSV, ORG, 2
+Americans, NORP, 2
+Troll Dolls, PERSON, 2
+48 million, CARDINAL, 2
+this spring, DATE, 2
+a year, DATE, 2
+Syrian, NORP, 2
+Spanish, NORP, 2
+Disneyland, FAC, 2
+Sweeping New Social Policies Could Set Trend - ABC News, ORG, 1
+dozens, CARDINAL, 1
+this week, DATE, 1
+UN, ORG, 1
+Polio Vaccines, PERSON, 1
+Ukraine Safe Despite, ORG, 1
+The World Health Organization, ORG, 1
+U.N., ORG, 1
+last month, DATE, 1
+Pediatrician, NORP, 1
+Richard Pan Anti, PERSON, 1
+State, ORG, 1
+Richard Pan, PERSON, 1
+Mexico Approves First Dengue Vaccine - ABC News, ORG, 1
+Mexican, NORP, 1
+about 100 million, CARDINAL, 1
+every year, DATE, 1
+Asia, LOC, 1
+Latin America, LOC, 1
+Wednesday, DATE, 1
+the Flu Shot: Lots of Options, LOC, 1
+This Year, DATE, 1
+year, DATE, 1
+last winter's, DATE, 1
+season 171 million, CARDINAL, 1
+this season, DATE, 1
+Cuba, GPE, 1
+Cuban, NORP, 1
+CimaVax, ORG, 1
+the Molecular Engineering Center, ORG, 1
+Cholesterol-Lowering Statin, ORG, 1
+Statin, PERSON, 1
+about 28 percent, PERCENT, 1
+40, DATE, 1
+at least one, CARDINAL, 1
+the United States, GPE, 1
+Reuters, ORG, 1
+$1.6 billion, MONEY, 1
+about $4 billion, MONEY, 1
+Last Year - ABC News, DATE, 1
+Last year's, DATE, 1
+London Daily Mail, ORG, 1
+Dozens, CARDINAL, 1
+Otsuka Pharmaceutical, ORG, 1
+Princeton, GPE, 1
+New Jersey, GPE, 1
+September 30, DATE, 1
+World’s, ORG, 1
+Al Jazeera European, ORG, 1
+Mosquirix, PERSON, 1
+Bill Posey, PERSON, 1
+R, GPE, 1
+Fla., GPE, 1
+Capitol Hill, ORG, 1
+the Centers for Disease Control, ORG, 1
+MMR, ORG, 1
+Rubella, ORG, 1
+William Thompson, PERSON, 1
+17-year, DATE, 1
+Call Republican Candidates', ORG, 1
+Republican, NORP, 1
+Ben Carson, PERSON, 1
+Promising News on Experimental Ebola Vaccine on Yahoo News, WORK_OF_ART, 1
+Epidemic, NORP, 1
+Australia, GPE, 1
+2016, DATE, 1
+The Australian Department of Health, ORG, 1
+fourth, ORDINAL, 1
+2015 season, DATE, 1
+only seconds, TIME, 1
+U.N. Stops, ORG, 1
+15, CARDINAL, 1
+The United Nations, ORG, 1
+at least 15, CARDINAL, 1
+the end of, DATE, 1
+night, TIME, 1
+American, NORP, 1
+Vaccines, ORG, 1
+years, DATE, 1
+up to, PERCENT, 1
+RT World News, ORG, 1
+the Public Health Agency of Canada, ORG, 1
+almost 100 percent, PERCENT, 1
+Lancet, ORG, 1
+NBC, ORG, 1
+Natalie Azar, PERSON, 1
+London Guardian, PERSON, 1
+summer, DATE, 1
+Sarah, PERSON, 1
+Bin Laden, PERSON, 1
+CIA, ORG, 1
+Osama bin Laden, PERSON, 1
+sixteenth, ORDINAL, 1
+5 years, DATE, 1
+12, CARDINAL, 1
+five years, DATE, 1
+Flu Vaccine News, PERSON, 1
+Photos, GPE, 1
+Videos - ABC News, ORG, 1
+1, CARDINAL, 1
+5, CARDINAL, 1
+more than one, CARDINAL, 1
+Slovakia, GPE, 1
+Measles Outbreak, PERSON, 1
+Measles Vaccine News & Videos, ORG, 1
+this Year, DATE, 1
+annual, DATE, 1
+third, ORDINAL, 1
+EU Drug, ORG, 1
+only about 30 percent, PERCENT, 1
+Matthew Muller, PERSON, 1
+last night, TIME, 1
+Planned Parenthood, ORG, 1
+Indian, NORP, 1
+Serum, PERSON, 1
+PE, ORG, 1
+Bloomberg|, ORG, 1
+Reuters Asia's, PERSON, 1
+the Serum Institute of India Ltd, ORG, 1
+as much as 10 percent, PERCENT, 1
+Bloomberg, PERSON, 1
+ABC News, ORG, 1
+fewer than 234,000, CARDINAL, 1
+366,000, CARDINAL, 1
+the European Medicines Agency, ORG, 1
+ABC News Early, ORG, 1
+nearly two-thirds, CARDINAL, 1
+seasonal, DATE, 1
+annually, DATE, 1
+Novavax Inc., ORG, 1
+Dread Needles, PERSON, 1
+Pfizer, PERSON, 1
+second-quarter, DATE, 1
+1 percent, PERCENT, 1
+Ebola - Reuters, ORG, 1
+four, CARDINAL, 1
+Iowa, GPE, 1
+the U.S. Department of Agriculture, ORG, 1
+Genetics, ORG, 1
+GSK, ORG, 1
+Reuters Scientists, PERSON, 1
+African, NORP, 1
+Food and Drug Administration, ORG, 1
+Nigeria, GPE, 1
+40,000, CARDINAL, 1
+Baron Cohen, PERSON, 1
+1, MONEY, 1
+Sacha Baron, PERSON, 1
+Cohen, PERSON, 1
+$1 million, MONEY, 1
+900,000, CARDINAL, 1
+Sunday, DATE, 1
+The "Borat, WORK_OF_ART, 1
+Isla Fisher, PERSON, 1
+500,000, MONEY, 1
+Save the Children, ORG, 1
+More than four million, CARDINAL, 1
+the United Nations, ORG, 1
+Survived Ebola, PERSON, 1
+Craig Spencer, PERSON, 1
+& Big Pharma's, ORG, 1
+Robert F. Kennedy Jr., PERSON, 1
+Kennedy, PERSON, 1
+six, CARDINAL, 1
+Iran, GPE, 1
+Russia, GPE, 1
+65 percent to, PERCENT, 1
+93 percent, PERCENT, 1
+Delaware, GPE, 1
+Vaccination Exemptions, ORG, 1
+EBV, ORG, 1
+3.7M, PERCENT, 1
+3.7 million, CARDINAL, 1
+Strep's Evolution May Provide Clues for Developing a Vaccine - ABC News, ORG, 1
+the years, DATE, 1
+the Mail Imagine, ORG, 1
+decades, DATE, 1
+this year, DATE, 1
+800, CARDINAL, 1
+12,000, CARDINAL, 1
+Phase II, PERSON, 1
+Britain, GPE, 1
+France, GPE, 1
+BBC, ORG, 1
+The U.S. Department of Agriculture, ORG, 1
+Ophthalmologists, NORP, 1
+EBOV, ORG, 1
+RNA, ORG, 1
+Europe, LOC, 1
+Madrid, GPE, 1
+Forty, CARDINAL, 1
+WASHINGTON POST, ORG, 1
+Malaria, GPE, 1
+1976, DATE, 1
+Diana Goodrich, PERSON, 1
+Chimpanzee, ORG, 1
+200, CARDINAL, 1
+eight, CARDINAL, 1
+Measles Vaccine, PERSON, 1
+Risk, GPE, 1
+Measles Outbreak Traced, PERSON, 1
+CNN, ORG, 1
+Belgian, NORP, 1
+Islam, NORP, 1
+Johnson & Johnson, ORG, 1
+Sierra Leone Johnson & Johnson, ORG, 1
+Sierra Leone, LOC, 1
+Texas, GPE, 1
+Malaria Vaccine Mosquirix Approved, PERSON, 1
+European Regulators European, ORG, 1
+NewLink, ORG, 1

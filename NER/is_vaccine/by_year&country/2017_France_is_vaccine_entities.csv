@@ -1,0 +1,12 @@
+entity, label, count
+three-week, DATE, 2
+First, ORDINAL, 1
+Yemen, GPE, 1
+UN, ORG, 1
+Yemeni, NORP, 1
+Saturday, DATE, 1
+Saudi, NORP, 1
+thousands, CARDINAL, 1
+This week, DATE, 1
+French, NORP, 1
+France, GPE, 1

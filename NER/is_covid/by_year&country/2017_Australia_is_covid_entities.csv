@@ -1,0 +1,336 @@
+entity, label, count
+Melbourne, GPE, 17
+Australian, NORP, 16
+ABC News, ORG, 13
+Australia, GPE, 11
+Sydney, GPE, 10
+London, GPE, 9
+two, CARDINAL, 8
+Victoria, GPE, 8
+US, GPE, 7
+three, CARDINAL, 6
+one, CARDINAL, 6
+China, GPE, 5
+Queensland, GPE, 5
+Buckingham Palace, FAC, 4
+Kabul, GPE, 4
+Crown, ORG, 4
+Sunday, DATE, 4
+White House, ORG, 4
+Qld, PERSON, 4
+Texas, GPE, 4
+Two, CARDINAL, 3
+Texas Tech University, ORG, 3
+Malcolm Turnbull, PERSON, 3
+Indian, NORP, 3
+The West Australian, LOC, 3
+today, DATE, 3
+Coronation Street, FAC, 3
+Perth, LOC, 3
+this morning, TIME, 3
+Victorian, NORP, 3
+Brisbane, PERSON, 3
+France, GPE, 3
+Perth Airport, FAC, 3
+Port Phillip Prison, FAC, 3
+seven, CARDINAL, 3
+second, ORDINAL, 3
+Virginia State University, ORG, 3
+Afghanistan, GPE, 2
+Isaac Makwala, PERSON, 2
+Wednesday, DATE, 2
+Delaware, GPE, 2
+Detroit, GPE, 2
+Manila, GPE, 2
+Ram Rahim Singh, PERSON, 2
+Lockdown, ORG, 2
+Xi Jinping, PERSON, 2
+Virgin Australia, ORG, 2
+Perth, ORG, 2
+Western Australia, LOC, 2
+Gastro, GPE, 2
+Willunga, GPE, 2
+The White House, ORG, 2
+Marrickville, PERSON, 2
+St Albans, NORP, 2
+Waverley Gardens Shopping Centre, ORG, 2
+Spanish, NORP, 2
+Vic, ORG, 2
+overnight, TIME, 2
+SBS News, ORG, 2
+the United States, GPE, 2
+Gold Coast, LOC, 2
+BHP, ORG, 2
+Kerobokan, PERSON, 2
+Breitbart News, ORG, 2
+Bathurst, ORG, 2
+first, ORDINAL, 2
+thousands, CARDINAL, 2
+five, CARDINAL, 2
+Swiss, NORP, 2
+British, NORP, 2
+Coronation of Poppea, ORG, 2
+South Australian, NORP, 2
+the State Government, ORG, 2
+London Bridge, FAC, 2
+Perth Zoo, PERSON, 2
+Aldinga Beach, GPE, 2
+Sunshine Coast, LOC, 2
+New Zealand, GPE, 2
+CCTV, ORG, 2
+Roy Barraclough, PERSON, 2
+UK, GPE, 2
+Stephen Paddock, PERSON, 2
+Wide Bay region, LOC, 2
+Barry O'Sullivan, PERSON, 2
+more than 400, CARDINAL, 1
+2017, CARDINAL, 1
+one day, DATE, 1
+Botswana, PERSON, 1
+200, CARDINAL, 1
+early Thursday morning, TIME, 1
+457, CARDINAL, 1
+July 1, DATE, 1
+Texas Tech, ORG, 1
+one hour, TIME, 1
+Senate, ORG, 1
+Bourke St Mall, PERSON, 1
+THE Melbourne CBD, ORG, 1
+the Bourke Street Mall, FAC, 1
+up to 20, CARDINAL, 1
+Avian, NORP, 1
+South Korea, GPE, 1
+20 per cent, MONEY, 1
+winter, DATE, 1
+10 hours, TIME, 1
+eighth, ORDINAL, 1
+Wangaratta, GPE, 1
+18, CARDINAL, 1
+At least 80, CARDINAL, 1
+hundreds, CARDINAL, 1
+Hamburg, GPE, 1
+Barwon Prison, GPE, 1
+Opposition, ORG, 1
+Wayne State University, ORG, 1
+Noel Night, WORK_OF_ART, 1
+Saturday, DATE, 1
+night, TIME, 1
+morning, TIME, 1
+MASKED, ORG, 1
+at least 37, CARDINAL, 1
+midday, TIME, 1
+just 1.4km, QUANTITY, 1
+Adelaide, ORG, 1
+Alabama, GPE, 1
+Tuesday, DATE, 1
+About two hours later, TIME, 1
+Communist Party Congress - ABC News Having, ORG, 1
+Mao Zedong, PERSON, 1
+Julian Simpson, PERSON, 1
+New York, GPE, 1
+tonight, TIME, 1
+PASSENGERS, ORG, 1
+Gorden Kaye, PERSON, 1
+René Artois, PERSON, 1
+75, DATE, 1
+TMG, ORG, 1
+Johnny Depp's, PERSON, 1
+the fall, DATE, 1
+Caribbean, LOC, 1
+Tomato, ORG, 1
+North Strathfield, LOC, 1
+Sydney’s, GPE, 1
+nine-day, DATE, 1
+the past decade, DATE, 1
+Shenzen, ORG, 1
+Melbourne China's, ORG, 1
+PRIMARY, ORG, 1
+SERVICES, ORG, 1
+Marrickville Railway Station, FAC, 1
+the Country Fire Authority, ORG, 1
+Hampton Senior High School, ORG, 1
+Levenia St, GPE, 1
+STREETS, ORG, 1
+the British Journal of Sports Medicine, ORG, 1
+PFA, ORG, 1
+the year, DATE, 1
+the Professional Footballers Australia, ORG, 1
+Melbourne Victory, ORG, 1
+Kevin Muscat's, PERSON, 1
+the Sky Blue Express, ORG, 1
+the "Big Blue, ORG, 1
+Malaysia Airlines, ORG, 1
+Philippines, GPE, 1
+Marawi, GPE, 1
+pro-Islamic, NORP, 1
+Maute, ORG, 1
+Rodrigo Duterte's, PERSON, 1
+11-month, DATE, 1
+Michael Long, PERSON, 1
+a tough few months, DATE, 1
+COVID-19, PERSON, 1
+The West Australian Current GST, GPE, 1
+Eastern, NORP, 1
+10 years, DATE, 1
+about eight to 10 years, DATE, 1
+60 to 80, CARDINAL, 1
+Ashfield, GPE, 1
+TAXI, ORG, 1
+Bill Gates, PERSON, 1
+BILL Gates, PERSON, 1
+the next decade, DATE, 1
+Arrests, NORP, 1
+four, CARDINAL, 1
+2017, DATE, 1
+Papua New Guinean, GPE, 1
+Papua New Guinean, LOC, 1
+Pacific, LOC, 1
+Mandurah, ORG, 1
+third, ORDINAL, 1
+Mandurah, GPE, 1
+Perth, GPE, 1
+early next year, DATE, 1
+Federal Parliament, ORG, 1
+Dr Ross Walker, PERSON, 1
+Queensland, PERSON, 1
+Royal Hobart Hospital, ORG, 1
+Risdon, PERSON, 1
+the Royal Hobart Hospital, ORG, 1
+this weekend, DATE, 1
+Risdon Prison, PERSON, 1
+the Health and Community Services Union, ORG, 1
+Irreplaceable, ORG, 1
+The West Australian Alleged, LOC, 1
+Qld school Classes, ORG, 1
+Rio Tinto, PERSON, 1
+ABC News, WORK_OF_ART, 1
+a quarter, DATE, 1
+GST, ORG, 1
+three years, DATE, 1
+Las Vegas’, GPE, 1
+LAS VEGAS’, GPE, 1
+QLD, ORG, 1
+Bali, GPE, 1
+Indonesian, NORP, 1
+Shaun Davidson, PERSON, 1
+Perth Airport Passengers, FAC, 1
+this New Year’s Eve, EVENT, 1
+Ruralco, ORG, 1
+Lockyer National Park, FAC, 1
+Denmark Kim Wall, PERSON, 1
+Sri Lanka, GPE, 1
+North Korea, GPE, 1
+the Marshall Islands, GPE, 1
+California, GPE, 1
+NSW, ORG, 1
+more than 70, CARDINAL, 1
+East Gippsland, LOC, 1
+Stamford Hill, GPE, 1
+RIOT, PERSON, 1
+THE White House, ORG, 1
+the US Secret Service, ORG, 1
+Martin Corona’s, PERSON, 1
+Death Squad, ORG, 1
+Martin Corona, PERSON, 1
+DOZENS, CARDINAL, 1
+Berkeley, ORG, 1
+The University of California at Berkeley, ORG, 1
+India, GPE, 1
+all month, DATE, 1
+2, CARDINAL, 1
+summer, DATE, 1
+the second season, DATE, 1
+the White House, ORG, 1
+Children, PERSON, 1
+the Gold Coast’s, LOC, 1
+Boston, GPE, 1
+REVA Medical, ORG, 1
+Boston Scientific Corporation's, ORG, 1
+One, CARDINAL, 1
+VICTIM, ORG, 1
+Parliament, ORG, 1
+David Davies, PERSON, 1
+The Australian Workers Union, ORG, 1
+The West Australian, NORP, 1
+Melbourne&rsquo;s, PRODUCT, 1
+James Maasdorp -, PERSON, 1
+Australian Broadcasting Corporation, ORG, 1
+James Maasdorp, PERSON, 1
+ABC News Online, ORG, 1
+2008, DATE, 1
+South Africa, GPE, 1
+2003, DATE, 1
+Bachelor of Journalism and Bachelor of Arts, ORG, 1
+The University of Queensland, ORG, 1
+James, PERSON, 1
+A-League, ORG, 1
+Formula One, ORG, 1
+Bathurst, GPE, 1
+Grandstand, GPE, 1
+Monteverdi, ORG, 1
+The Coronation of Poppea, Virtue, ORG, 1
+Love, WORK_OF_ART, 1
+San Antonio, GPE, 1
+six, CARDINAL, 1
+United States, GPE, 1
+the Industrial Relations Commission, ORG, 1
+Saturday night, TIME, 1
+Yanchep, PERSON, 1
+The West Australian Parents, GPE, 1
+Greens, NORP, 1
+South Australia, LOC, 1
+Ceduna, GPE, 1
+East Kimberley, NORP, 1
+Europe, LOC, 1
+Dozens, CARDINAL, 1
+well over $1 million, MONEY, 1
+the Ministry of Primary Industries, ORG, 1
+EU, ORG, 1
+Virginia State Uni, ORG, 1
+Banksia Hill, LOC, 1
+Banksia Hill, FAC, 1
+ABC, ORG, 1
+Riverina, LOC, 1
+81, CARDINAL, 1
+Alec Gilroy, PERSON, 1
+81, DATE, 1
+Malmsbury, ORG, 1
+Seven, CARDINAL, 1
+50, CARDINAL, 1
+four hours, TIME, 1
+Castlemaine, ORG, 1
+Graham, PERSON, 1
+Bradley Walsh's, PERSON, 1
+West Australians, NORP, 1
+last week, DATE, 1
+The West Australian Education Department, GPE, 1
+Vic A, PERSON, 1
+just over a week, DATE, 1
+Suffolk, GPE, 1
+Las Vegas, GPE, 1
+Nevada, GPE, 1
+Mandalay Bay, LOC, 1
+VIC Supreme Court, ORG, 1
+more than five months, DATE, 1
+up to 23 hours, TIME, 1
+the night, TIME, 1
+ABC News Controversial, ORG, 1
+next year, DATE, 1
+Bundaberg, GPE, 1
+Pinchgut Opera's, ORG, 1
+the Coronation of Poppea, ORG, 1
+nine, CARDINAL, 1
+Africa, LOC, 1
+this week, DATE, 1
+Black Death, ORG, 1
+Abbot Point, ORG, 1
+Vegas, GPE, 1
+Darwin, PERSON, 1
+Maccas, ORG, 1
+Perth’s, GPE, 1
+LNP, ORG, 1
+National Party, ORG, 1
+2014, DATE, 1
+ABC News Quarantine, ORG, 1
+three years ago, DATE, 1
+million-dollar, MONEY, 1

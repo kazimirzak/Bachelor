@@ -1,0 +1,660 @@
+entity, label, count
+U.S., GPE, 40
+HPV, ORG, 27
+Fox News, ORG, 25
+The Boston Globe, ORG, 24
+The Washington Post, ORG, 23
+California, GPE, 22
+Zika, PERSON, 21
+Trump, PERSON, 14
+Donald Trump, PERSON, 13
+CBS News, ORG, 12
+The New York Times, ORG, 12
+first, ORDINAL, 12
+Americans, NORP, 11
+CDC, ORG, 11
+Minnesota, GPE, 11
+Michigan, GPE, 10
+Robert F. Kennedy Jr., PERSON, 10
+this year, DATE, 10
+US, GPE, 8
+9-year-old, DATE, 8
+Philippines, GPE, 8
+second, ORDINAL, 8
+Trump, ORG, 8
+15, CARDINAL, 7
+Shots - Health News, ORG, 7
+one, CARDINAL, 7
+year, DATE, 7
+NPR, ORG, 7
+Italy, GPE, 7
+Tuesday, DATE, 7
+Rebecca Bredow, PERSON, 7
+Friday, DATE, 6
+Jon LaPook, PERSON, 6
+Atlantic, LOC, 6
+Wednesday, DATE, 6
+San Diego, GPE, 6
+Vaccine, PERSON, 6
+South Sudan, GPE, 5
+Tara Narula, PERSON, 5
+last year, DATE, 5
+hundreds, CARDINAL, 5
+two, CARDINAL, 5
+American, NORP, 5
+the World Health Organization, ORG, 5
+Robert Kennedy Jr., PERSON, 5
+Peter Thiel, PERSON, 4
+Caribbean, LOC, 4
+2017, DATE, 4
+CBS, ORG, 4
+This Morning, TIME, 4
+Somali-American, NORP, 4
+Kennedy, PERSON, 4
+Gardasil, GPE, 4
+thousands, CARDINAL, 4
+Somali, NORP, 4
+Monday, DATE, 4
+Africa, LOC, 4
+Zika, NORP, 4
+Shingrix, PRODUCT, 4
+California&apos;s, PERSON, 4
+2018, DATE, 4
+2, CARDINAL, 4
+French, NORP, 4
+FDA, ORG, 4
+Robert F. Kennedy, PERSON, 4
+the National Institutes of Health, ORG, 4
+St. Kitts, GPE, 3
+five days, DATE, 3
+three, CARDINAL, 3
+Germany, GPE, 3
+West Africa, GPE, 3
+Congo, GPE, 3
+Two, CARDINAL, 3
+Trump’s, ORG, 3
+John Oliver, PERSON, 3
+Tonight, TIME, 3
+Cleveland Clinic, ORG, 3
+each year, DATE, 3
+Bangladesh, GPE, 3
+seven days, DATE, 3
+90 percent, PERCENT, 3
+1, CARDINAL, 3
+LA Times, ORG, 3
+Atlanta, GPE, 3
+RFK Jr., ORG, 3
+Tom Price, PERSON, 3
+season, DATE, 3
+NIH, ORG, 3
+nearly 30 years, DATE, 3
+The Washington Post Experts, ORG, 2
+Robert De Niro, PERSON, 2
+Fifteen, CARDINAL, 2
+dozens, CARDINAL, 2
+the new year, DATE, 2
+the Democratic Republic of Congo, GPE, 2
+LA Times Public, ORG, 2
+Senate, ORG, 2
+Season 2017, DATE, 2
+Syria, GPE, 2
+Florida, GPE, 2
+Last Week, DATE, 2
+Fox News Researchers, ORG, 2
+NPR Scientists, ORG, 2
+Disneyland, FAC, 2
+- LA Times, ORG, 2
+2015, DATE, 2
+age 50, DATE, 2
+20, CARDINAL, 2
+Los Angeles County, GPE, 2
+$460 million, MONEY, 2
+Judith Light, PERSON, 2
+Bernie Sanders, PERSON, 2
+50, DATE, 2
+NPR A, ORG, 2
+Ghana, GPE, 2
+Kenya, GPE, 2
+Malawi, GPE, 2
+Army, ORG, 2
+6 months, DATE, 2
+David Agus, PERSON, 2
+Detroit, GPE, 2
+CBS News Health, ORG, 2
+France, GPE, 2
+HHS, ORG, 2
+Less than half, CARDINAL, 2
+Youngner, PERSON, 2
+Australia, GPE, 2
+German, NORP, 2
+Brazil, GPE, 2
+millions, CARDINAL, 2
+one-half, CARDINAL, 2
+TheHill, ORG, 2
+David Brooks, PERSON, 2
+GOP, ORG, 2
+Republican, NORP, 2
+this week, DATE, 2
+Russia, GPE, 2
+40, DATE, 2
+Russian, NORP, 2
+Petya, GPE, 2
+Nigeria, GPE, 2
+the Centers for Disease Control and Prevention, ORG, 2
+Europe, LOC, 2
+four-day, DATE, 2
+WGBH, ORG, 2
+Obamacare, ORG, 2
+Illinois, GPE, 2
+2030, DATE, 2
+18, CARDINAL, 1
+age 26, DATE, 1
+Full Measure, WORK_OF_ART, 1
+Sharyl Attkisson, PERSON, 1
+12 years old, DATE, 1
+South Sudan's, GPE, 1
+Midsummer, PERSON, 1
+NPR Officials, ORG, 1
+Vaccines Across Tanzania, PERSON, 1
+East African, NORP, 1
+EU, ORG, 1
+CBS News Courts, ORG, 1
+the European Union, ORG, 1
+$7 million, MONEY, 1
+Defense Logistics Agency, ORG, 1
+$39.6 million, MONEY, 1
+one-year, DATE, 1
+Intercell USA, ORG, 1
+Japanese, NORP, 1
+the U.S. Centers for Disease Control and Prevention, ORG, 1
+Gates Foundation, ORG, 1
+Wellcome Trust, ORG, 1
+Japan, GPE, 1
+Norway, GPE, 1
+Nurses, ORG, 1
+Brigham, ORG, 1
+3,400, CARDINAL, 1
+Boston, GPE, 1
+The New York Times Trying, ORG, 1
+Saturday, DATE, 1
+Mouth, PERSON, 1
+Sanofi’s, ORG, 1
+The Boston Globe Studies, ORG, 1
+more than 500, CARDINAL, 1
+Golden State, GPE, 1
+1996, DATE, 1
+Minnesota Somalis - The, NORP, 1
+more than 30, CARDINAL, 1
+recent weeks, DATE, 1
+The Boston Globe News, ORG, 1
+Manny, PERSON, 1
+Fox News New, ORG, 1
+Danish, NORP, 1
+Scientific Reports, ORG, 1
+100%, PERCENT, 1
+100-percent, PERCENT, 1
+DR, GPE, 1
+Breitbart Geneva, PERSON, 1
+AFP, ORG, 1
+the Medical Board of California, ORG, 1
+Ethics Group, ORG, 1
+Recommends - The Atlantic, PERSON, 1
+50, CARDINAL, 1
+Jeffrey Kluger, PERSON, 1
+Jeffrey Kluger / Vaccines on Time, PERSON, 1
+Gritstone Oncology, ORG, 1
+$93 million, MONEY, 1
+GV, ORG, 1
+Lilly Asia Ventures - Business Insider Gritstone, ORG, 1
+60%—in, CARDINAL, 1
+a good year, DATE, 1
+60%, PERCENT, 1
+most recent years, DATE, 1
+The Flu Shot Is Not Just About, WORK_OF_ART, 1
+Lyme Disease Vaccine, ORG, 1
+between 2010 and 2012, DATE, 1
+decades, DATE, 1
+MMR, ORG, 1
+Eric Huang, PERSON, 1
+Raqqa, LOC, 1
+24, CARDINAL, 1
+Safety Concerns About Dengue, ORG, 1
+20 years, DATE, 1
+$1.5 billion, MONEY, 1
+Anti-Vaccine Movement: Religious Objections, ORG, 1
+Rampant Across, PERSON, 1
+2013, DATE, 1
+the Middle East, LOC, 1
+Asia, LOC, 1
+The Boston Globe Following Trump’s, ORG, 1
+STAT, ORG, 1
+23, CARDINAL, 1
+at least a dozen, CARDINAL, 1
+Omar Villafranca, PERSON, 1
+late-night, TIME, 1
+HBO, ORG, 1
+Sunday, DATE, 1
+US Zika, ORG, 1
+Discusses 'Committee on Vaccine Safety' -, ORG, 1
+fewer than half, CARDINAL, 1
+this spring, DATE, 1
+Romania, GPE, 1
+Nearly half, CARDINAL, 1
+30,000, CARDINAL, 1
+Alternatives To Vaccination Shots Are In Development :, ORG, 1
+NPR From, ORG, 1
+Vaccine For Addiction' Would Be Complicated, WORK_OF_ART, 1
+Robert Kennedy, PERSON, 1
+Vaccine Chair, PERSON, 1
+The Washington Post Cancer, ORG, 1
+the Journal Pediatrics, ORG, 1
+nearly three, CARDINAL, 1
+four, CARDINAL, 1
+Congress, ORG, 1
+The Germs Keep Coming : Goats, WORK_OF_ART, 1
+NPR After, ORG, 1
+the next 150 years, DATE, 1
+the 1960s, DATE, 1
+10 years, DATE, 1
+the 1980s, DATE, 1
+as early as next year, DATE, 1
+UN, ORG, 1
+Bangladesh’s, ORG, 1
+more than a half million, DATE, 1
+Rohingya Muslims, NORP, 1
+Myanmar, GPE, 1
+autism​, ORG, 1
+Afghanistan, GPE, 1
+Vaccines, NORP, 1
+GSK, ORG, 1
+Zostavax, PERSON, 1
+Carolyn Hax, PERSON, 1
+L.A.&apos;s, GPE, 1
+Orthodox, NORP, 1
+Jewish, NORP, 1
+Six months, DATE, 1
+Vaunted Ebola Vaccine, ORG, 1
+two years ago, DATE, 1
+96%, PERCENT, 1
+93%, PERCENT, 1
+7, CARDINAL, 1
+- Chicago Tribune, ORG, 1
+today, DATE, 1
+A year ago, DATE, 1
+the Cleveland Clinic - The Washington Post, ORG, 1
+Today, DATE, 1
+The United States, GPE, 1
+nine, CARDINAL, 1
+The Democratic Republic of Congo, GPE, 1
+April, DATE, 1
+Found, PERSON, 1
+Century Ago, ORG, 1
+BCG, ORG, 1
+L.A., GPE, 1
+LA Times San Diego County, ORG, 1
+third, ORDINAL, 1
+years, DATE, 1
+L.A. Pride, ORG, 1
+L.A. County, GPE, 1
+more than year ago, DATE, 1
+a few weeks ago, DATE, 1
+Pride, ORG, 1
+3, CARDINAL, 1
+It&apos;s, PERSON, 1
+97%, PERCENT, 1
+only 27%, PERCENT, 1
+Pew Research Center, ORG, 1
+Somali Community's, ORG, 1
+First Malaria Vaccine to Pilot, ORG, 1
+WHO, ORG, 1
+tens of thousands, CARDINAL, 1
+Texas, GPE, 1
+more than 99 percent, PERCENT, 1
+John Oliver Takes, PERSON, 1
+Anti-Vaxxers on ', ORG, 1
+Time Oliver, PERSON, 1
+Rob Schneider's, PERSON, 1
+Anti-Vaccine Activist, ORG, 1
+The Boston Globe Vaccination, ORG, 1
+Somali-Americans, NORP, 1
+The Boston Globe Flu, ORG, 1
+early this year, DATE, 1
+Massachusetts, GPE, 1
+Urgent Threat, ORG, 1
+The New York Times Infection, ORG, 1
+Fox News Cancer, ORG, 1
+The Boston Globe Large, ORG, 1
+the past couple of years, DATE, 1
+Zika Vaccine, PERSON, 1
+Richard Pan, PERSON, 1
+D-Sacramento, ORG, 1
+California Children’s, FAC, 1
+Pan’s SB 277, ORG, 1
+Zika, LOC, 1
+anti-Zika, NORP, 1
+Next year, DATE, 1
+Lake County, GPE, 1
+- Chicago Tribune Clinic, ORG, 1
+Barrington High School, ORG, 1
+1798, DATE, 1
+East Baltimore, LOC, 1
+Cholesterol Vaccine, PERSON, 1
+Successful Tests, PERSON, 1
+Lasker Prizes Go to Planned Parenthood, ORG, 1
+the United States, GPE, 1
+at least three, CARDINAL, 1
+more than 300, CARDINAL, 1
+Yemen, GPE, 1
+Saudi-Led Blockade Eases, ORG, 1
+NPR Badly, ORG, 1
+Yemeni, NORP, 1
+about three weeks, DATE, 1
+Saudis, NORP, 1
+China, GPE, 1
+Bird Flu Surge, ORG, 1
+Brenda Fitzgerald, PERSON, 1
+Georgia, GPE, 1
+Trump Tower, FAC, 1
+Southern California, LOC, 1
+CBS News Lines, ORG, 1
+Mireya Villarreal, PERSON, 1
+Fox News Seasons, ORG, 1
+This year, DATE, 1
+England, GPE, 1
+2018 Three, DATE, 1
+Century-old, DATE, 1
+The Boston Globe Medical, ORG, 1
+Edward Jenner, PERSON, 1
+Three years, DATE, 1
+Southern Illinois, LOC, 1
+five, CARDINAL, 1
+Flu Myths Busted, PERSON, 1
+RFK, ORG, 1
+The Washington Post Research, ORG, 1
+' - Washington Times Health and Human Services, ORG, 1
+Thursday, DATE, 1
+morning, TIME, 1
+Pediatricians, NORP, 1
+NPR The American Academy of Pediatrics, ORG, 1
+Robert Kennedy Jr.’s, PERSON, 1
+The Washington Post Researchers, ORG, 1
+half, CARDINAL, 1
+nearly two-thirds, CARDINAL, 1
+Polio Vaccine Pioneer, PERSON, 1
+Dies, ORG, 1
+96, CARDINAL, 1
+Jonas Salk, PERSON, 1
+Donald Trump’s, PERSON, 1
+The Washington Post Undermining, ORG, 1
+Anti-Vaxxers Are Hung, ORG, 1
+The Washington Post ', ORG, 1
+NPR So, ORG, 1
+only six, CARDINAL, 1
+21, CARDINAL, 1
+Anti-Vaccine Groups Fuel Fears, ORG, 1
+Measles Outbreak, ORG, 1
+NPR State, ORG, 1
+Measles Deaths Fall, PERSON, 1
+2 million, CARDINAL, 1
+fewer than 100,000, CARDINAL, 1
+W.H.O., ORG, 1
+Chicago Tribune Health, ORG, 1
+- LA Times Final, ORG, 1
+UMass Amherst, ORG, 1
+October, DATE, 1
+November, DATE, 1
+One, CARDINAL, 1
+Fox News Potential, ORG, 1
+Vaccine Trial, PERSON, 1
+Moderna Therapeutics, PERSON, 1
+about two, CARDINAL, 1
+Australia&apos;s, PERSON, 1
+a bad winter, DATE, 1
+North America, LOC, 1
+Medicaid, ORG, 1
+Philippine FDA, ORG, 1
+The Philippine Food and Drug Administration, ORG, 1
+Sanofi Pasteur Inc., ORG, 1
+this season, DATE, 1
+Nearly 100 years, DATE, 1
+annual, DATE, 1
+Los Angeles, GPE, 1
+Morning Rounds, GPE, 1
+an estimated 25 million, CARDINAL, 1
+The Washington Post Poor, ORG, 1
+Cambridge, GPE, 1
+MIT Museum - The Boston Globe, ORG, 1
+two weeks ago, DATE, 1
+First, ORDINAL, 1
+Trump Kennedy, PERSON, 1
+Trump - POLITICO Kennedy, ORG, 1
+2005, DATE, 1
+Large-Scale Phase, ORG, 1
+mosquito season, DATE, 1
+Kindergartners, ORG, 1
+Flu - The Atlantic, ORG, 1
+NPR Health, ORG, 1
+Amid Measles Outbreak, PERSON, 1
+dozen, CARDINAL, 1
+2,500-plus, CARDINAL, 1
+this summer, DATE, 1
+The Washington Post Yellow, ORG, 1
+Angola, GPE, 1
+Slate’s, ORG, 1
+Jerry Brown, PERSON, 1
+Philippines Probes Dengue Vaccination Drive That Went Ahead Despite Warnings, ORG, 1
+recent years, DATE, 1
+64, CARDINAL, 1
+195, CARDINAL, 1
+DTP, ORG, 1
+50 percent, PERCENT, 1
+the last century, DATE, 1
+The Boston Globe Vaccine, ORG, 1
+Tdap, PERSON, 1
+70s, DATE, 1
+80s, DATE, 1
+a decade, DATE, 1
+The Washington Post Women, ORG, 1
+NPR Public, ORG, 1
+one-third, CARDINAL, 1
+more than 2,000, CARDINAL, 1
+Houston, GPE, 1
+Miami, GPE, 1
+Americas, LOC, 1
+Less Than Half, CARDINAL, 1
+U.S. Teens Complete HPV Vaccinations - WSJ New, ORG, 1
+43%, PERCENT, 1
+80%, PERCENT, 1
+Tdap, GPE, 1
+U.S. Drug-Pricing Practices - WSJ, ORG, 1
+Merck’s, ORG, 1
+7.4%, PERCENT, 1
+2010, DATE, 1
+10.5%, PERCENT, 1
+2014, DATE, 1
+Pakistani, NORP, 1
+Pakistan, GPE, 1
+five-day, DATE, 1
+Quetta, GPE, 1
+More Than 730,000, CARDINAL, 1
+Immunized, NORP, 1
+2020, DATE, 1
+The Washington Post Their, ORG, 1
+Over 7,000, CARDINAL, 1
+Pardis Sabeti, PERSON, 1
+Harvard, ORG, 1
+this winter season, DATE, 1
+43, CARDINAL, 1
+This season, DATE, 1
+and145 million, CARDINAL, 1
+Band-Aid Patch Replaces, ORG, 1
+Band-Aid, ORG, 1
+Trump Asks Critic of Vaccines to Lead Vaccine Safety Panel -, ORG, 1
+Donald J. Trump’s, PERSON, 1
+Kim Janda, PERSON, 1
+Gary Matyas, PERSON, 1
+Combat Outbreak, ORG, 1
+Remote Northeast - WSJ Approval, ORG, 1
+Merck, ORG, 1
+nearly three weeks, DATE, 1
+a year, DATE, 1
+Mass., GPE, 1
+35, CARDINAL, 1
+ObamaCare, ORG, 1
+1,789, CARDINAL, 1
+2001 to 2015, DATE, 1
+nearly 70 percent, PERCENT, 1
+This Week, DATE, 1
+the week, DATE, 1
+one week, DATE, 1
+Oakland County, GPE, 1
+Fox News Germany, ORG, 1
+next week, DATE, 1
+New York Times, ORG, 1
+Flintstones, ORG, 1
+Tuesda, PERSON, 1
+mid-February, DATE, 1
+Lawrence Lacks, PERSON, 1
+82, DATE, 1
+Johns Hopkins University, ORG, 1
+West African, NORP, 1
+between August and September 2014, DATE, 1
+11,310, CARDINAL, 1
+the Department of Health and Human Services, ORG, 1
+10%, PERCENT, 1
+CBS News Experts, ORG, 1
+any given year, DATE, 1
+The Boston Globe Wiser, ORG, 1
+a week, DATE, 1
+Only 10%, PERCENT, 1
+STI, ORG, 1
+LA Times Update on 'Sessions, ORG, 1
+Clinton, PERSON, 1
+The New York Times States, ORG, 1
+Mosquito, PERSON, 1
+60, CARDINAL, 1
+the National Press Club, ORG, 1
+The New York Times Shingrix, ORG, 1
+this month, DATE, 1
+Doug Jones', PERSON, 1
+Slate TV Club, ORG, 1
+Slate, ORG, 1
+daily, DATE, 1
+Frederik Joelving, PERSON, 1
+Fox News Security, ORG, 1
+Handing Out Food, ORG, 1
+MSF, ORG, 1
+Eula Bliss - The, PERSON, 1
+On Immunity: An Inoculation’’ is, WORK_OF_ART, 1
+Eula Biss’s, PERSON, 1
+only two-thirds, CARDINAL, 1
+CBS News Studies, ORG, 1
+about 90 percent, PERCENT, 1
+Second, ORDINAL, 1
+NPR Theories, ORG, 1
+Jamie Yuccas, PERSON, 1
+the White House, ORG, 1
+Eastern, ORG, 1
+Western Europe, LOC, 1
+36, CARDINAL, 1
+February, DATE, 1
+- LA Times Desperate, ORG, 1
+100,000, CARDINAL, 1
+San Diego's, GPE, 1
+March, DATE, 1
+Up to 20 percent, PERCENT, 1
+the past decade, DATE, 1
+as high as, QUANTITY, 1
+as low as 19 percent, PERCENT, 1
+shot - CBS News Dissolvable, ORG, 1
+Bill Gates -, PERSON, 1
+SB, GPE, 1
+277, CARDINAL, 1
+UC Hastings, ORG, 1
+Dorit Reiss, PERSON, 1
+the University of California, San Diego, ORG, 1
+Allure, ORG, 1
+everyone - LA Times, ORG, 1
+next year, DATE, 1
+Flu Shot, PERSON, 1
+This Year, DATE, 1
+Vaccination Rates Raise Government’s, ORG, 1
+Concern - WSJ Italy, ORG, 1
+LGBT Pride, ORG, 1
+Season, DATE, 1
+European, NORP, 1
+LGBT, ORG, 1
+Kremlin, ORG, 1
+Trump - CBS News, ORG, 1
+More than 95%, PERCENT, 1
+NPR Researchers, ORG, 1
+The Washington Post One, ORG, 1
+Shingles Vaccines, PERSON, 1
+Measles Killed, PERSON, 1
+age 5, DATE, 1
+Mish Michaels, PERSON, 1
+The Boston Globe Michaels, ORG, 1
+WBZ, ORG, 1
+CBS News Researchers, ORG, 1
+CBS News', ORG, 1
+Don Champion, WORK_OF_ART, 1
+Chicago Tribune, ORG, 1
+The Chicago Department of Public Health, ORG, 1
+Better Flu Vaccine University, ORG, 1
+HPV Vaccine Could Protect More People With Fewer Doses, Doctors Say : Shots - Health News, ORG, 1
+about 39,000, CARDINAL, 1
+Hundreds of thousands, CARDINAL, 1
+82 percent, PERCENT, 1
+More than 350, CARDINAL, 1
+decades later, DATE, 1
+Oliver, PERSON, 1
+DRC, ORG, 1
+rVSV-ZEBOV, ORG, 1
+Congolese, NORP, 1
+the Civil War, EVENT, 1
+DIY, ORG, 1
+Atlas Obscura, PERSON, 1
+Bill Gates, PERSON, 1
+CEPI, ORG, 1
+CBS News -, ORG, 1
+less than a year, DATE, 1
+Oakland, GPE, 1
+CBS News Asked, ORG, 1
+Price, ORG, 1
+night, TIME, 1
+1.5 million, CARDINAL, 1
+Seven Days, DATE, 1
+Fox News Parents, ORG, 1
+Inovio Pharmaceuticals Inc, ORG, 1
+South Korea's, GPE, 1
+GeneOne Life Science Inc, ORG, 1
+anti-Zika, PERSON, 1
+The Boston Globe Robert F. Kennedy Jr., ORG, 1
+The Boston Globe State, ORG, 1
+nearly 96 percent, PERCENT, 1
+SIU, ORG, 1
+Brits, NORP, 1
+Launches, PERSON, 1
+K9, ORG, 1
+Girl Scout, ORG, 1
+K-9, ORG, 1
+’s, NORP, 1
+Malaria, GPE, 1
+nearly a week, DATE, 1
+One year later, DATE, 1
+More than 1, CARDINAL, 1
+5, CARDINAL, 1
+two-year, DATE, 1
+almost 23 percent, PERCENT, 1
+Brigham, GPE, 1
+The Massachusetts Nurses Association, ORG, 1
+Brigham, FAC, 1
+September, DATE, 1
+annually, DATE, 1
+Gardasil, PERSON, 1
+RFK Jr.’s, ORG, 1
+Team Trump, PERSON, 1
+Robert F. Kennedy Jr.’s, PERSON, 1
+Georgia Health, ORG, 1
+Named Head, PERSON, 1
+- WSJ Georgia’s Public Health, ORG, 1

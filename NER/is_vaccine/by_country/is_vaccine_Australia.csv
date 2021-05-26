@@ -1,0 +1,4641 @@
+,entity,label,occurrences
+0,Australia,GPE,1167
+1,COVID-19,PRODUCT,674
+2,first,ORDINAL,608
+3,US,GPE,537
+4,AstraZeneca,ORG,509
+5,COVID-19,PERSON,493
+6,Pfizer,PERSON,397
+7,Australian,NORP,382
+8,Australians,NORP,356
+9,UK,GPE,317
+10,ABC News,ORG,245
+11,Scott Morrison,PERSON,207
+12,NSW,ORG,204
+13,today,DATE,195
+14,two,CARDINAL,171
+15,China,GPE,168
+16,one,CARDINAL,151
+17,Victoria,GPE,150
+18,Melbourne,GPE,148
+19,Oxford,ORG,141
+20,Greg Hunt,PERSON,134
+21,Queensland,GPE,130
+22,Vaccine,PERSON,129
+23,Europe,LOC,124
+24,CSL,ORG,116
+25,Britain,GPE,113
+26,second,ORDINAL,110
+27,Russia,GPE,104
+28,Donald Trump,PERSON,101
+29,EU,ORG,93
+30,2021,DATE,87
+31,ASX,ORG,86
+32,Sydney,GPE,82
+33,Chinese,NORP,73
+34,Oxford University,ORG,72
+35,Monday,DATE,72
+36,Moderna,PERSON,71
+37,Joe Biden,PERSON,70
+38,The West Australian,LOC,69
+39,three,CARDINAL,69
+40,European,NORP,68
+41,this year,DATE,59
+42,Moderna,GPE,58
+43,British,NORP,58
+44,millions,CARDINAL,56
+45,Indonesia,GPE,55
+46,Russian,NORP,55
+47,NRL,ORG,51
+48,this week,DATE,51
+49,Germany,GPE,50
+50,Victorian,NORP,50
+51,India,GPE,48
+52,Israel,GPE,48
+53,next week,DATE,48
+54,Italy,GPE,47
+55,Two,CARDINAL,47
+56,four,CARDINAL,46
+57,the United States,GPE,44
+58,Americans,NORP,44
+59,Friday,DATE,43
+60,9News,CARDINAL,43
+61,Health,ORG,42
+62,Norman,PERSON,42
+63,WHO,ORG,42
+64,next year,DATE,42
+65,New Zealand,GPE,42
+66,One,CARDINAL,40
+67,West Australian,NORP,40
+68,Qantas,ORG,39
+69,Morrison,PERSON,39
+70,third,ORDINAL,38
+71,The West Australian,GPE,37
+72,October,DATE,36
+73,Brazil,GPE,35
+74,South Africa,GPE,35
+75,Pauline Hanson,PERSON,34
+76,Boris Johnson,PERSON,34
+77,Norway,GPE,34
+78,Tuesday,DATE,34
+79,South Australia,LOC,33
+80,TGA,ORG,33
+81,March,DATE,33
+82,First,ORDINAL,32
+83,France,GPE,32
+84,Canada,GPE,32
+85,Johnson & Johnson,ORG,31
+86,UQ,GPE,31
+87,Coronavirus Australia,ORG,31
+88,2020,DATE,30
+89,five,CARDINAL,30
+90,Trump,PERSON,30
+91,weeks,DATE,29
+92,Anthony Fauci,PERSON,28
+93,South African,NORP,28
+94,Gladys Berejiklian,PERSON,27
+95,the Federal Government,ORG,26
+96,University of Queensland,ORG,26
+97,thousands,CARDINAL,26
+98,Biden,PERSON,26
+99,months,DATE,26
+100,Papua New Guinea,GPE,26
+101,90 per cent,MONEY,25
+102,Christmas,DATE,24
+103,America,GPE,24
+104,Thursday,DATE,24
+105,Queensland,PERSON,24
+106,zero,CARDINAL,24
+107,American,NORP,24
+108,Sunday,DATE,24
+109,FDA,ORG,24
+110,Saturday,DATE,23
+111,ABC News,WORK_OF_ART,23
+112,Brendan Murphy,PERSON,23
+113,German,NORP,22
+114,Zika,PERSON,22
+115,Wednesday,DATE,22
+116,years,DATE,22
+117,Japan,GPE,22
+118,Paul Kelly,PERSON,22
+119,Victorians,NORP,22
+120,next month,DATE,22
+121,Three,CARDINAL,22
+122,Victoria,PERSON,22
+123,Vladimir Putin,PERSON,21
+124,daily,DATE,21
+125,AstraZeneca COVID-19,PRODUCT,21
+126,the end of the year,DATE,21
+127,South Australian,NORP,20
+128,days,DATE,20
+129,last year,DATE,20
+130,hundreds,CARDINAL,20
+131,Pacific,LOC,20
+132,the World Health Organisation,ORG,19
+133,season,DATE,19
+134,Australia’s,ORG,19
+135,3,CARDINAL,19
+136,Qld,PERSON,19
+137,White House,ORG,18
+138,UN,ORG,18
+139,West Australians,NORP,18
+140,AstraZeneca COVID,ORG,18
+141,six,CARDINAL,18
+142,the European Union,ORG,18
+143,AstraZeneca,LAW,18
+144,Thousands,CARDINAL,18
+145,PNG,ORG,18
+146,Pete Evans,PERSON,18
+147,The West Australian,NORP,18
+148,European Union,ORG,17
+149,April,DATE,17
+150,Congo,GPE,17
+151,February,DATE,17
+152,winter,DATE,17
+153,Australian Broadcasting Corporation,ORG,17
+154,Bryce Cartwright,PERSON,16
+155,State,ORG,16
+156,Alan Joyce,PERSON,16
+157,Craig Kelly,PERSON,16
+158,yesterday,DATE,16
+159,Western Australia,LOC,16
+160,Oxford-AstraZeneca,ORG,16
+161,Spain,GPE,16
+162,Philippines,GPE,16
+163,Bill Gates,PERSON,16
+164,Roger Cook,PERSON,15
+165,Mark McGowan,PERSON,15
+166,July,DATE,15
+167,The Federal Government,ORG,15
+168,Norman Swan,PERSON,15
+169,1b,CARDINAL,15
+170,ABC,ORG,14
+171,French,NORP,14
+172,two weeks,DATE,14
+173,Labor,ORG,14
+174,November,DATE,14
+175,Scott Morrison’s,PERSON,14
+176,year,DATE,14
+177,Hundreds,CARDINAL,14
+178,Daniel Andrews,PERSON,14
+179,COVID-19 Vaccine,PERSON,14
+180,Perth,GPE,14
+181,Aussie,GPE,14
+182,Mike Pence,PERSON,14
+183,England,GPE,14
+184,this month,DATE,13
+185,Brisbane,PERSON,13
+186,Federal Government,ORG,13
+187,HPV,ORG,13
+188,Africa,LOC,13
+189,more than 90,CARDINAL,13
+190,New York,GPE,13
+191,a week,DATE,13
+192,10 million,CARDINAL,13
+193,the University of Queensland,ORG,13
+194,United States,GPE,13
+195,Anthony Albanese,PERSON,12
+196,BioNTech,GPE,12
+197,JobKeeper,ORG,12
+198,Trump,ORG,12
+199,AstraZeneca’s,ORG,12
+200,last week,DATE,12
+201,50 million,CARDINAL,12
+202,Kamala Harris,PERSON,12
+203,"300,000",CARDINAL,12
+204,ABC News Australia,ORG,12
+205,Ireland,GPE,12
+206,10,CARDINAL,12
+207,2022,DATE,12
+208,Samoa,ORG,12
+209,African,NORP,11
+210,National Cabinet,ORG,11
+211,The World Health Organisation,ORG,11
+212,CDC,ORG,11
+213,SA,ORG,11
+214,Tokyo,GPE,11
+215,Asian,NORP,11
+216,the weekend,DATE,11
+217,Sputnik,ORG,11
+218,January,DATE,11
+219,tomorrow,DATE,11
+220,NZ,GPE,11
+221,Nick Coatsworth,PERSON,11
+222,New South Wales,LOC,11
+223,| SBS News,ORG,11
+224,Canberra,GPE,11
+225,dozens,CARDINAL,11
+226,up to,CARDINAL,11
+227,The European Union,ORG,11
+228,4,CARDINAL,10
+229,Johnson,PERSON,10
+230,later this month,DATE,10
+231,the Therapeutic Goods Administration,ORG,10
+232,NSW Health,ORG,10
+233,Perth,PERSON,10
+234,three weeks,DATE,10
+235,AMA,ORG,10
+236,Indonesian,NORP,10
+237,September,DATE,10
+238,December,DATE,10
+239,late February,DATE,10
+240,12,CARDINAL,10
+241,the World Health Organization,ORG,10
+242,"250,000",CARDINAL,10
+243,London,GPE,10
+244,1 million,CARDINAL,10
+245,the White House,ORG,9
+246,Wuhan,GPE,9
+247,Aussies,ORG,9
+248,Italian,NORP,9
+249,Yesterday,DATE,9
+250,Federal Health,ORG,9
+251,Gladys Berejiklian,GPE,9
+252,Tegan,GPE,9
+253,Treasurer Josh Frydenberg,PERSON,9
+254,the United Kingdom,GPE,9
+255,Quad,GPE,9
+256,95 per cent,MONEY,9
+257,65,DATE,9
+258,"100,000",CARDINAL,9
+259,Latest,ORG,9
+260,Today,DATE,9
+261,Denmark,GPE,9
+262,the end of March,DATE,9
+263,Pakistan,GPE,9
+264,Hanson,ORG,8
+265,Brisbane,GPE,8
+266,half,CARDINAL,8
+267,Brazilian,NORP,8
+268,18 months,DATE,8
+269,Second,ORDINAL,8
+270,Western,NORP,8
+271,Moderna COVID-19,PERSON,8
+272,Tasmania,GPE,8
+273,Parliament,ORG,8
+274,the week,DATE,8
+275,May,DATE,8
+276,1B,CARDINAL,8
+277,RBA,ORG,8
+278,Anthony Mundine,PERSON,8
+279,"5,000",CARDINAL,8
+280,the US Food and Drug Administration,ORG,8
+281,ACT,ORG,8
+282,at least one,CARDINAL,8
+283,overnight,TIME,8
+284,Tory Maguire,PERSON,8
+285,100 million,CARDINAL,8
+286,Brexit,PERSON,8
+287,last month,DATE,8
+288,Hong Kong,GPE,8
+289,Beijing,GPE,8
+290,20,CARDINAL,8
+291,billions,CARDINAL,8
+292,a year,DATE,7
+293,2 million,CARDINAL,7
+294,decades,DATE,7
+295,West,LOC,7
+296,2019,DATE,7
+297,Putin,PERSON,7
+298,Jane Malysiak,PERSON,7
+299,CoronaVac,ORG,7
+300,Sweden,GPE,7
+301,the Federal Government's,ORG,7
+302,11,CARDINAL,7
+303,25 million,CARDINAL,7
+304,RNA,ORG,7
+305,Asia,LOC,7
+306,annual,DATE,7
+307,13,CARDINAL,7
+308,Spanish,NORP,7
+309,Liam Mannix,PERSON,7
+310,Wisconsin,GPE,7
+311,The University of Queensland,ORG,7
+312,Gold Coast,LOC,7
+313,the year,DATE,7
+314,Mexico,GPE,7
+315,"30,000",CARDINAL,7
+316,Moscow,GPE,7
+317,AFL,ORG,7
+318,Matt Canavan,PERSON,7
+319,Treasury,ORG,7
+320,six months,DATE,7
+321,week,DATE,7
+322,"800,000",CARDINAL,7
+323,nine,CARDINAL,7
+324,20 million,CARDINAL,7
+325,Vanuatu,ORG,7
+326,early next week,DATE,6
+327,Therapeutic Goods Administration,ORG,6
+328,The Therapeutic Goods Administration,ORG,6
+329,World Health Organisation,ORG,6
+330,Quick Fire,FAC,6
+331,last year's,DATE,6
+332,two days,DATE,6
+333,Malcolm Turnbull,PERSON,6
+334,Fauci,ORG,6
+335,the Australian Government,ORG,6
+336,summer,DATE,6
+337,Margaret Keenan,PERSON,6
+338,States,GPE,6
+339,5,CARDINAL,6
+340,U.S.,GPE,6
+341,Olympics,EVENT,6
+342,a day,DATE,6
+343,CMO,ORG,6
+344,million,CARDINAL,6
+345,The World Health Organization,ORG,6
+346,Josh Frydenberg,PERSON,6
+347,Turkey,GPE,6
+348,Canadian,NORP,6
+349,The United Kingdom,GPE,6
+350,Johns Hopkins University,ORG,6
+351,Air New Zealand,ORG,6
+352,one year,DATE,6
+353,nine-month,DATE,6
+354,Israeli,NORP,6
+355,the end of October,DATE,6
+356,more than 100,CARDINAL,6
+357,Commonwealth,ORG,6
+358,100,CARDINAL,6
+359,90-year-old,DATE,6
+360,100%,PERCENT,6
+361,CSIRO,ORG,6
+362,GlaxoSmithKline,PERSON,6
+363,Four,CARDINAL,6
+364,14-day,DATE,6
+365,Dow Jones,ORG,6
+366,early next year,DATE,6
+367,Annastacia Palaszczuk,PERSON,6
+368,"10,000",CARDINAL,6
+369,morning,TIME,6
+370,Iceland,GPE,6
+371,The United States,GPE,6
+372,The Australian Government,ORG,6
+373,two months,DATE,6
+374,the end of next year,DATE,6
+375,Health Department,ORG,6
+376,ABC News Experts,ORG,6
+377,Canberra,PERSON,6
+378,one day,DATE,6
+379,100 per cent,MONEY,6
+380,Vaccines,ORG,6
+381,California,GPE,6
+382,at least one year,DATE,6
+383,$US1.9 trillion,MONEY,6
+384,fourth,ORDINAL,6
+385,Healthcare,ORG,6
+386,March 22,DATE,6
+387,Oxford-AstraZeneca COVID-19,ORG,6
+388,19,CARDINAL,6
+389,25,CARDINAL,6
+390,Samoan,ORG,6
+391,the coming months,DATE,6
+392,24,CARDINAL,6
+393,five-day,DATE,6
+394,Titans,NORP,5
+395,this morning,TIME,5
+396,more than 80,CARDINAL,5
+397,Bali,GPE,5
+398,ABC News Health,ORG,5
+399,Oxford University's,ORG,5
+400,84-year-old,DATE,5
+401,SBS News,ORG,5
+402,Vaccination,ORG,5
+403,the first week,DATE,5
+404,Hungary,GPE,5
+405,eight,CARDINAL,5
+406,year's end,DATE,5
+407,February 22,DATE,5
+408,Astra,NORP,5
+409,Hobart,PERSON,5
+410,"35,000",CARDINAL,5
+411,Third,ORDINAL,5
+412,Ghana,GPE,5
+413,Berlin,GPE,5
+414,The European Medicines Agency,ORG,5
+415,NSW,GPE,5
+416,450,CARDINAL,5
+417,Reserve Bank,ORG,5
+418,hours,TIME,5
+419,Tegan Taylor,PERSON,5
+420,70,DATE,5
+421,Singapore,GPE,5
+422,Novak Djokovic,PERSON,5
+423,South Australians,NORP,5
+424,37,CARDINAL,5
+425,Russians,NORP,5
+426,Brittany Higgins,PERSON,5
+427,21,CARDINAL,5
+428,Tokyo Games,EVENT,5
+429,Vic,ORG,5
+430,Elizabeth II,PERSON,5
+431,1,CARDINAL,5
+432,New York City,GPE,5
+433,Israelis,NORP,5
+434,Medicare,ORG,5
+435,Danish,NORP,5
+436,Netherlands,GPE,5
+437,Lancet,ORG,5
+438,Melbourne,PERSON,5
+439,Chile,GPE,5
+440,Healthcare Australia,ORG,5
+441,Cricket Australia,ORG,5
+442,JobSeeker,ORG,5
+443,"500,000",CARDINAL,5
+444,Joko Widodo,PERSON,5
+445,30 million,CARDINAL,5
+446,Vietnam,GPE,5
+447,CBA,ORG,5
+448,Aussie,PERSON,5
+449,the Australian Medical Association,ORG,5
+450,March next year,DATE,5
+451,the end of 2020,DATE,5
+452,The Australian Medical Association,ORG,5
+453,4 million,CARDINAL,5
+454,Jacinda Ardern,PERSON,5
+455,mid-2021,DATE,5
+456,Mosman,ORG,5
+457,Darwin,PERSON,5
+458,Robert F. Kennedy,PERSON,5
+459,Sydney Airport,FAC,5
+460,| SBS News Australia,ORG,5
+461,the day,DATE,5
+462,Josh Papalii,PERSON,5
+463,40,CARDINAL,5
+464,Flight Centre,FAC,5
+465,70,CARDINAL,5
+466,Tasmanian,NORP,5
+467,CureVac,ORG,5
+468,Guinea,GPE,5
+469,the United Nations,ORG,5
+470,the end of this year,DATE,5
+471,500,CARDINAL,5
+472,Brazilians,NORP,5
+473,Brussels,GPE,5
+474,Islamic,NORP,5
+475,just days,DATE,5
+476,Merck,ORG,5
+477,300 million,CARDINAL,5
+478,QAnon,ORG,5
+479,"8,000",CARDINAL,5
+480,South Korean,NORP,5
+481,Raiders,ORG,4
+482,MMR,ORG,4
+483,Jair Bolsonaro,PERSON,4
+484,World War II,EVENT,4
+485,Novavax,PERSON,4
+486,"60,000",CARDINAL,4
+487,Indian,NORP,4
+488,200,CARDINAL,4
+489,August,DATE,4
+490,late March,DATE,4
+491,Pfizer’s,ORG,4
+492,Western Australia,ORG,4
+493,ABC News Australian,ORG,4
+494,4000,CARDINAL,4
+495,50,CARDINAL,4
+496,three months,DATE,4
+497,the next 12 months,DATE,4
+498,tonight,TIME,4
+499,John Bell,PERSON,4
+500,Michigan,GPE,4
+501,Florida,GPE,4
+502,Millions,CARDINAL,4
+503,2016,DATE,4
+504,ten,CARDINAL,4
+505,Auckland,GPE,4
+506,less than two months,DATE,4
+507,tens of millions,CARDINAL,4
+508,Matt Hancock,PERSON,4
+509,IOC,ORG,4
+510,the Tokyo Olympics,EVENT,4
+511,North Korea,GPE,4
+512,94,CARDINAL,4
+513,20 per cent,MONEY,4
+514,this weekend,DATE,4
+515,coming weeks,DATE,4
+516,Aboriginal,ORG,4
+517,full-year,DATE,4
+518,Six,CARDINAL,4
+519,the coming days,DATE,4
+520,Jayne Hrdlicka,PERSON,4
+521,Please Explain,ORG,4
+522,Palestinians,NORP,4
+523,Astra,ORG,4
+524,Donald Trump’s,PERSON,4
+525,Readers,ORG,4
+526,Australia’s,GPE,4
+527,Telethon Kids Institute,ORG,4
+528,Olympians,NORP,4
+529,80,CARDINAL,4
+530,six weeks,DATE,4
+531,Coronavirus USA,ORG,4
+532,Rodrigo Duterte,PERSON,4
+533,Jakarta,GPE,4
+534,next Monday,DATE,4
+535,Childcare,ORG,4
+536,Americas,LOC,4
+537,SA Health,ORG,4
+538,USA,GPE,4
+539,2017,DATE,4
+540,3000,CARDINAL,4
+541,15,CARDINAL,4
+542,Department of Health,ORG,4
+543,his first 100 days,DATE,4
+544,Paul Perreault,PERSON,4
+545,Quetta,GPE,4
+546,at least 15,CARDINAL,4
+547,The US Food and Drug Administration,ORG,4
+548,Nine,CARDINAL,4
+549,US Food and Drug Administration,ORG,4
+550,Instagram,ORG,4
+551,Vaxxas,PERSON,4
+552,Fed,ORG,4
+553,Alan Tudge,PERSON,4
+554,Jeremy Fernandez,PERSON,4
+555,Tasmanians,NORP,4
+556,Johnson & Johnson’s,ORG,4
+557,$1 billion,MONEY,4
+558,the University of Queensland's,ORG,4
+559,Pascal Soriot,PERSON,4
+560,Australian Medical Association,ORG,4
+561,More than 120,CARDINAL,4
+562,House,ORG,4
+563,midnight,TIME,4
+564,Adam Bandt,PERSON,4
+565,World Health Organization,ORG,4
+566,the age of 65,DATE,4
+567,Twitter,PRODUCT,4
+568,1918,DATE,4
+569,two-year-old,DATE,4
+570,Brad Hazzard,PERSON,4
+571,200 million,CARDINAL,4
+572,Government,ORG,4
+573,Karen Andrews,PERSON,4
+574,SA,GPE,4
+575,a decade,DATE,4
+576,the next few days,DATE,4
+577,two-day,DATE,4
+578,the end of 2021,DATE,4
+579,2018,DATE,4
+580,Prince Philip,PERSON,4
+581,Port Moresby,FAC,4
+582,Senate,ORG,4
+583,PM,PERSON,4
+584,the Royal Adelaide Hospital,ORG,4
+585,Scott Morrison's,PERSON,4
+586,the Food and Drug Administration,ORG,4
+587,32,CARDINAL,4
+588,Michael Kidd,PERSON,4
+589,90 million,CARDINAL,4
+590,as early as next month,DATE,4
+591,18,CARDINAL,4
+592,Peru,GPE,4
+593,5000,CARDINAL,4
+594,15 million,CARDINAL,4
+595,$1.7 billion,MONEY,4
+596,G20,ORG,4
+597,Vaccination,NORP,3
+598,Melbourne Airport,FAC,3
+599,three more weeks,DATE,3
+600,next year's,DATE,3
+601,Greg Hunt’s,PERSON,3
+602,15-year-old,DATE,3
+603,one billion,CARDINAL,3
+604,S&P,ORG,3
+605,This week,DATE,3
+606,Alex Ellinghausen,PERSON,3
+607,The Queensland Government,ORG,3
+608,ABC News Researchers,ORG,3
+609,40 per cent,MONEY,3
+610,more than 60,CARDINAL,3
+611,| SBS News Australia's,ORG,3
+612,Sinovac Biotech,PERSON,3
+613,Morgan Stanley,ORG,3
+614,Brits,NORP,3
+615,"600,000",CARDINAL,3
+616,Austria,GPE,3
+617,night,TIME,3
+618,Singapore Airlines,ORG,3
+619,BHP,ORG,3
+620,$2 million,MONEY,3
+621,SBS News Australia's,ORG,3
+622,Macquarie,ORG,3
+623,ABC News Doctors,ORG,3
+624,9,CARDINAL,3
+625,ABC News Pharmaceutical,ORG,3
+626,Hunt,PERSON,3
+627,Sinopharm,ORG,3
+628,the end of February,DATE,3
+629,Li Keqiang,PERSON,3
+630,79 per cent,MONEY,3
+631,216,CARDINAL,3
+632,seven,CARDINAL,3
+633,27,CARDINAL,3
+634,five years,DATE,3
+635,Liberal Party,ORG,3
+636,$123 million,MONEY,3
+637,one billion,MONEY,3
+638,early 2021,DATE,3
+639,18-month,DATE,3
+640,billion-dollar,MONEY,3
+641,Latest news,ORG,3
+642,94.5 per cent,MONEY,3
+643,Holiday Inn,ORG,3
+644,Four million,CARDINAL,3
+645,South Africa’s,GPE,3
+646,September 13,DATE,3
+647,Dozens,CARDINAL,3
+648,UAE,GPE,3
+649,Angela Merkel,PERSON,3
+650,33,CARDINAL,3
+651,Anthony Fisher,PERSON,3
+652,Coronavirus Australia LIVE,ORG,3
+653,Brett Sutton,PERSON,3
+654,Kerry Chant,PERSON,3
+655,the Tokyo Games,EVENT,3
+656,BCG,ORG,3
+657,12 weeks,DATE,3
+658,A year,DATE,3
+659,under five,DATE,3
+660,$3.5 million,MONEY,3
+661,Michelle Grattan,PERSON,3
+662,US Congress,ORG,3
+663,Pfizer-BioNTech,PERSON,3
+664,Flinders University,ORG,3
+665,Argentina,GPE,3
+666,weekly,DATE,3
+667,"142,000",CARDINAL,3
+668,New Year's,EVENT,3
+669,the White House,FAC,3
+670,New Jersey,GPE,3
+671,Alison McMillan,PERSON,3
+672,48 hours,TIME,3
+673,Trade,ORG,3
+674,Byron Bay,FAC,3
+675,1.2 million,CARDINAL,3
+676,Congress,ORG,3
+677,Barack Obama,PERSON,3
+678,first-half,DATE,3
+679,Dow,ORG,3
+680,42,CARDINAL,3
+681,Northern Ireland,GPE,3
+682,Communist Party,ORG,3
+683,Casey Briggs,PERSON,3
+684,QLD,ORG,3
+685,the first half of next year,DATE,3
+686,at least a year,DATE,3
+687,Zika,NORP,3
+688,7.30,CARDINAL,3
+689,early March,DATE,3
+690,COVID-19,ORG,3
+691,RSV,ORG,3
+692,SBS News Health,ORG,3
+693,PM Scott Morrison,PERSON,3
+694,the Telethon Kids Institute,ORG,3
+695,81,CARDINAL,3
+696,Gladys Berejiklian,NORP,3
+697,Iran,GPE,3
+698,Japanese,NORP,3
+699,78%,PERCENT,3
+700,Seattle,GPE,3
+701,fifth,ORDINAL,3
+702,Pakistani,NORP,3
+703,66 per cent,MONEY,3
+704,The World Health Organisation (WHO,ORG,3
+705,24 hours,TIME,3
+706,mid-February,DATE,3
+707,100 days,DATE,3
+708,130,CARDINAL,3
+709,more than 50,CARDINAL,3
+710,Nathanael Cooper,PERSON,3
+711,60 Minutes,TIME,3
+712,late next year,DATE,3
+713,Imran Khan,PERSON,3
+714,new year,DATE,3
+715,hundreds of thousands,CARDINAL,3
+716,Treasurer,PERSON,3
+717,Indigenous,ORG,3
+718,three days,DATE,3
+719,Push,PERSON,3
+720,tens of millions,MONEY,3
+721,Seven,CARDINAL,3
+722,Olympic Games,EVENT,3
+723,Oxford AstraZeneca,ORG,3
+724,Catherine,PERSON,3
+725,Greg Hughes,PERSON,3
+726,The University of Oxford,ORG,3
+727,the end of this week,DATE,3
+728,Jessica Biel,PERSON,3
+729,the University of Oxford,ORG,3
+730,Geoff Culbert,PERSON,3
+731,$1.9 billion,MONEY,3
+732,more than half,CARDINAL,3
+733,Each week,DATE,3
+734,Tonight,TIME,3
+735,Pharmacists,NORP,3
+736,ABC News A,ORG,3
+737,the coming weeks,DATE,3
+738,"20,000",CARDINAL,3
+739,"400,000",CARDINAL,3
+740,the next decade,DATE,3
+741,COVID-19 - ABC News,ORG,3
+742,YouTube,ORG,3
+743,Canberra Raiders,ORG,3
+744,earlier this year,DATE,3
+745,South Koreans,NORP,3
+746,six-week,DATE,3
+747,2,CARDINAL,3
+748,Food and Drug Administration,ORG,3
+749,Eight,CARDINAL,3
+750,2014,DATE,3
+751,ABC News Queensland,ORG,3
+752,year end,DATE,3
+753,more than 1 million,CARDINAL,3
+754,"more than 100,000",CARDINAL,3
+755,Mark Kendall,PERSON,3
+756,ABC News University of Queensland,ORG,3
+757,late 2021,DATE,3
+758,Microsoft,ORG,3
+759,50 per cent,MONEY,3
+760,only one,CARDINAL,3
+761,Cairns,PERSON,3
+762,Tiger Woods,PERSON,3
+763,Science,ORG,3
+764,14 days,DATE,3
+765,just weeks,DATE,3
+766,Christians,NORP,3
+767,Australian Government,ORG,3
+768,88-year-old,DATE,3
+769,94-year-old,DATE,3
+770,Ian Frazer,PERSON,3
+771,More than 63,CARDINAL,3
+772,PPE,ORG,3
+773,25-year,DATE,3
+774,two million,CARDINAL,3
+775,1000,CARDINAL,3
+776,11-year,DATE,3
+777,ICU,ORG,3
+778,30,CARDINAL,3
+779,Goldman Sachs,ORG,3
+780,SBS News Australia,ORG,3
+781,the new year,DATE,3
+782,recent years,DATE,3
+783,Salisbury Cathedral,PERSON,3
+784,Malaria,GPE,3
+785,Angola,GPE,3
+786,Jane Halton,PERSON,3
+787,60,CARDINAL,3
+788,Donald Trump's,PERSON,3
+789,No.1,CARDINAL,3
+790,Marise Payne,ORG,3
+791,Coronavirus,ORG,3
+792,South,LOC,3
+793,half-year,DATE,3
+794,Brian Kelly,PERSON,3
+795,Shaun Burgoyne,PERSON,3
+796,later this year,DATE,3
+797,"15,000",CARDINAL,3
+798,Syria,GPE,3
+799,374,CARDINAL,3
+800,Craig Hutchison,PERSON,3
+801,Explainer,PERSON,3
+802,New Zealand's,GPE,3
+803,Linda Reynolds,PERSON,3
+804,Pope Francis,PERSON,3
+805,Lunar New Year,EVENT,3
+806,the State Government,ORG,3
+807,Michael Leunig,PERSON,3
+808,the Reserve Bank,ORG,3
+809,more than a year,DATE,3
+810,Project,ORG,3
+811,Joe Biden's,PERSON,3
+812,Oxford University-AstraZeneca,ORG,3
+813,7 weeks,DATE,3
+814,Budget,ORG,3
+815,Sri Lanka,GPE,3
+816,tens of thousands,CARDINAL,3
+817,AFR,ORG,3
+818,Poland,GPE,3
+819,South-East Asia,LOC,3
+820,VIC,ORG,3
+821,the Gold Coast,LOC,3
+822,Jr,PERSON,3
+823,Melbourne’s,ORG,3
+824,Robert F Kennedy,PERSON,3
+825,late January,DATE,3
+826,many months,DATE,3
+827,Buckingham Palace,FAC,3
+828,Peter Doherty,PERSON,3
+829,Amazon,ORG,3
+830,Turkish,NORP,3
+831,99,CARDINAL,3
+832,South Korea,GPE,3
+833,Julia Gillard,ORG,3
+834,Greens,NORP,3
+835,Mike Ryan,PERSON,2
+836,Sia Soliola,PERSON,2
+837,the Morrison Government,ORG,2
+838,Ursula von,PERSON,2
+839,Leyen,GPE,2
+840,The Australian Financial Review,ORG,2
+841,almost 90 per cent,MONEY,2
+842,$800 million,MONEY,2
+843,ABC News Imagine,ORG,2
+844,a single day,DATE,2
+845,6 million,CARDINAL,2
+846,the age of 18,DATE,2
+847,Allen Cheng,PERSON,2
+848,Muslims,NORP,2
+849,1a,CARDINAL,2
+850,Monday night,TIME,2
+851,Andrew Cuomo,PERSON,2
+852,Twitter,PERSON,2
+853,Gold Coast Titans,LOC,2
+854,May 28,DATE,2
+855,91,CARDINAL,2
+856,December 14,DATE,2
+857,Palaszczuk,PERSON,2
+858,Tanya Plibersek,PERSON,2
+859,Webjet,PERSON,2
+860,Hungarian,NORP,2
+861,Hopes,PERSON,2
+862,Flu Vaccine,PERSON,2
+863,12 days,DATE,2
+864,Robert Redfield,PERSON,2
+865,10 per cent,MONEY,2
+866,five days,DATE,2
+867,29,CARDINAL,2
+868,Norwegian,NORP,2
+869,South West,LOC,2
+870,almost $13 billion,MONEY,2
+871,Ian McKellen,PERSON,2
+872,Pfizer COVID-19,PERSON,2
+873,Mary-Louise McLaws,PERSON,2
+874,December 27,DATE,2
+875,earlier this month,DATE,2
+876,six years,DATE,2
+877,the Asia-Pacific,LOC,2
+878,Westpac,ORG,2
+879,20pc,DATE,2
+880,$1.8 billion,MONEY,2
+881,907,CARDINAL,2
+882,Janet Yellen,PERSON,2
+883,"November 16, 2020",DATE,2
+884,Adelaide,LOC,2
+885,Wade Graham,PERSON,2
+886,Lebanon,GPE,2
+887,DHL,ORG,2
+888,Senegal,GPE,2
+889,seven days,DATE,2
+890,Lockdowns,PERSON,2
+891,the Health Department,ORG,2
+892,the Federal Government’s,ORG,2
+893,three billion,MONEY,2
+894,Victoria’s,GPE,2
+895,Tom Lembong,PERSON,2
+896,UNSW,ORG,2
+897,"more than 2,000",CARDINAL,2
+898,anti-COVID,NORP,2
+899,30 per cent,MONEY,2
+900,Valneva,PERSON,2
+901,The Therapeutic Goods Administration's,ORG,2
+902,EMA,ORG,2
+903,Michael Rowland,PERSON,2
+904,another year,DATE,2
+905,Queensland Health,ORG,2
+906,Sinovac,NORP,2
+907,Western Sydney,LOC,2
+908,University of Oxford,ORG,2
+909,"25,000",CARDINAL,2
+910,the past few days,DATE,2
+911,Philip,PERSON,2
+912,Novavax COVID-19,PRODUCT,2
+913,At least four,CARDINAL,2
+914,410,CARDINAL,2
+915,Western Australia’s,ORG,2
+916,More than two million,CARDINAL,2
+917,Travel Pass,WORK_OF_ART,2
+918,Texas,GPE,2
+919,$US4 billion,MONEY,2
+920,Half,CARDINAL,2
+921,the middle of the year,DATE,2
+922,"3,000",CARDINAL,2
+923,41,CARDINAL,2
+924,month,DATE,2
+925,last night,TIME,2
+926,100 percent,PERCENT,2
+927,Trump Administration,ORG,2
+928,the early days,DATE,2
+929,Paul Griffin,PERSON,2
+930,Health Ministry,ORG,2
+931,Gates Foundation,ORG,2
+932,ABC News Pfizer,ORG,2
+933,Byron Bay,PERSON,2
+934,each day,DATE,2
+935,400 million,CARDINAL,2
+936,second day,DATE,2
+937,912,CARDINAL,2
+938,James Marape,PERSON,2
+939,Michelle Heaton,PERSON,2
+940,The International Olympic Committee,ORG,2
+941,Antarctic,ORG,2
+942,February 15,DATE,2
+943,Filipino,NORP,2
+944,Front,ORG,2
+945,John Day,PERSON,2
+946,Indonesians,NORP,2
+947,TB,ORG,2
+948,Peter V’landys,PERSON,2
+949,more than a decade,DATE,2
+950,94.1 per cent,MONEY,2
+951,72 hours,TIME,2
+952,Andrew Pollard,PERSON,2
+953,seven-year-old,DATE,2
+954,Parliament House,ORG,2
+955,early August,DATE,2
+956,University of Sydney,ORG,2
+957,Lee Hsien Loong,PERSON,2
+958,0.7%,PERCENT,2
+959,Rachel Clun,PERSON,2
+960,Terry Nolan,PERSON,2
+961,11 years,DATE,2
+962,North Korean,NORP,2
+963,Belgium,GPE,2
+964,15 to 19,DATE,2
+965,14,CARDINAL,2
+966,less than two weeks,DATE,2
+967,Sarah Gilbert,PERSON,2
+968,Opposition,ORG,2
+969,89,CARDINAL,2
+970,New Year,EVENT,2
+971,Jeannette Young,PERSON,2
+972,Townsville,GPE,2
+973,Covid,NORP,2
+974,Dan Tehan,PERSON,2
+975,Royal Children's Hospital,ORG,2
+976,"more than 10,000",CARDINAL,2
+977,"March 31, 2021",DATE,2
+978,$80 million,MONEY,2
+979,Flu,PERSON,2
+980,Malcolm Turnbull's,PERSON,2
+981,Isabel Lucas,ORG,2
+982,Isabel Lucas,PERSON,2
+983,Blackmores,PERSON,2
+984,NSW Labor,ORG,2
+985,| SBS News Authorities,ORG,2
+986,Alex Azar,PERSON,2
+987,Nasdaq,ORG,2
+988,Mexican,NORP,2
+989,US Centers for Disease Control and Prevention,ORG,2
+990,51 million,CARDINAL,2
+991,Sao Paulo,GPE,2
+992,$30 billion,MONEY,2
+993,mid-next year,DATE,2
+994,Slovakia,ORG,2
+995,at least 18 months,DATE,2
+996,ABC News Large,ORG,2
+997,"1,000",CARDINAL,2
+998,ABC News News,ORG,2
+999,86,CARDINAL,2
+1000,NASA,ORG,2
+1001,ABC News There,ORG,2
+1002,Interpol,ORG,2
+1003,The European Union's,ORG,2
+1004,Jolene,PERSON,2
+1005,as young as two months,DATE,2
+1006,Oregon,GPE,2
+1007,2017,CARDINAL,2
+1008,Flu Outbreak,PERSON,2
+1009,Queensland COVID-19,PERSON,2
+1010,Tokyo Olympics 2021,EVENT,2
+1011,Latin America,LOC,2
+1012,Ayatollah Ali Khamenei,PERSON,2
+1013,first 100 days,DATE,2
+1014,3 million,CARDINAL,2
+1015,CMO Paul Kelly,ORG,2
+1016,ABC News The World Health Organization,WORK_OF_ART,2
+1017,Nev Power,PERSON,2
+1018,the past month,DATE,2
+1019,1.7b,MONEY,2
+1020,Aussies,PERSON,2
+1021,Dan Andrews,PERSON,2
+1022,5000,MONEY,2
+1023,the World Health Organisation (WHO,ORG,2
+1024,Philip Lowe,PERSON,2
+1025,Jill Hennessy,PERSON,2
+1026,Rubella,ORG,2
+1027,Stewart McSweyn,PERSON,2
+1028,Brett Robinson,PERSON,2
+1029,Yo-Yo Ma,PERSON,2
+1030,40-year-old,DATE,2
+1031,the past week,DATE,2
+1032,the Victorian Government,ORG,2
+1033,the past few months,DATE,2
+1034,November 3,DATE,2
+1035,$143 million,MONEY,2
+1036,Karen,PERSON,2
+1037,a month,DATE,2
+1038,"500,000",MONEY,2
+1039,yearly,DATE,2
+1040,APVMA,ORG,2
+1041,Guérin,PERSON,2
+1042,more than 120,CARDINAL,2
+1043,a few months,DATE,2
+1044,Mark Butler,PERSON,2
+1045,Outspoken,PERSON,2
+1046,Julie Leask,PERSON,2
+1047,afternoon,TIME,2
+1048,Islam,ORG,2
+1049,AstraZenenca,ORG,2
+1050,$100 billion,MONEY,2
+1051,an additional 10 million,MONEY,2
+1052,July 1,DATE,2
+1053,coming days,DATE,2
+1054,Crown,ORG,2
+1055,Penelope Cruz,GPE,2
+1056,five months,DATE,2
+1057,Mullumbimby,GPE,2
+1058,Central Australia,LOC,2
+1059,"80,000",CARDINAL,2
+1060,seven years,DATE,2
+1061,next 10 days,DATE,2
+1062,Stan Grant,PERSON,2
+1063,Medical Research Future Fund,ORG,2
+1064,GoFundMe,NORP,2
+1065,Scientists,NORP,2
+1066,one month,DATE,2
+1067,Greg Hunt's,PERSON,2
+1068,1 to 2,CARDINAL,2
+1069,Bond University,ORG,2
+1070,Chris Del Mar,PERSON,2
+1071,"150,000",CARDINAL,2
+1072,first quarter,DATE,2
+1073,Doherty Institute,ORG,2
+1074,Monash University,ORG,2
+1075,several weeks,DATE,2
+1076,Nicole Baldwin,PERSON,2
+1077,TikTok,ORG,2
+1078,16 million,CARDINAL,2
+1079,2850,MONEY,2
+1080,two years,DATE,2
+1081,Berejiklian,NORP,2
+1082,early December,DATE,2
+1083,Tommy,PERSON,2
+1084,Greece,GPE,2
+1085,Athens,GPE,2
+1086,"More than 10,000",CARDINAL,2
+1087,about one million,CARDINAL,2
+1088,mid-December,DATE,2
+1089,Milwaukee,GPE,2
+1090,Rugby Australia,ORG,2
+1091,Champagne,ORG,2
+1092,the Oxford University,ORG,2
+1093,Paul Young,PERSON,2
+1094,CoronaCheck,ORG,2
+1095,Renmark,PERSON,2
+1096,PBS,ORG,2
+1097,June 17,DATE,2
+1098,Dementia,ORG,2
+1099,two decades,DATE,2
+1100,October 2021,DATE,2
+1101,FBI,ORG,2
+1102,11-month-old,DATE,2
+1103,recent weeks,DATE,2
+1104,"832,200",CARDINAL,2
+1105,Five,CARDINAL,2
+1106,ASX,NORP,2
+1107,Wednesday night,TIME,2
+1108,Pfizer COVID,PERSON,2
+1109,150 million,CARDINAL,2
+1110,Geraldton,ORG,2
+1111,an additional 100 million,MONEY,2
+1112,Barnaby Joyce,PERSON,2
+1113,Kirsty Short,PERSON,2
+1114,the Liberal Party,ORG,2
+1115,76 per cent,MONEY,2
+1116,Nazi,NORP,2
+1117,Samoans,NORP,2
+1118,| SBS News Experts,ORG,2
+1119,Jenny D'Ubios,PERSON,2
+1120,Austrian,NORP,2
+1121,the Institut Pasteur,ORG,2
+1122,the Australian Institute of Health and Welfare,ORG,2
+1123,Clive Palmer,PERSON,2
+1124,100 year old,DATE,2
+1125,two-year,DATE,2
+1126,Swoop Aero,PERSON,2
+1127,70 per cent,MONEY,2
+1128,Edward Holmes,PERSON,2
+1129,the University of Sydney,ORG,2
+1130,the second half of 2021,DATE,2
+1131,Western Australians,NORP,2
+1132,Serum Institute of India,ORG,2
+1133,40 million,CARDINAL,2
+1134,John Skerritt,PERSON,2
+1135,17 million,CARDINAL,2
+1136,The South Australian Government,ORG,2
+1137,the next couple of months,DATE,2
+1138,76,CARDINAL,2
+1139,NT,DATE,2
+1140,the end of the month,DATE,2
+1141,Mandurah,ORG,2
+1142,one million,CARDINAL,2
+1143,nearly 40 years,DATE,2
+1144,the Middle East,LOC,2
+1145,30s,DATE,2
+1146,a few days,DATE,2
+1147,79-year-old,DATE,2
+1148,United Nations,ORG,2
+1149,UWA,ORG,2
+1150,95,CARDINAL,2
+1151,Republican,NORP,2
+1152,the flu season,DATE,2
+1153,United Kingdom,GPE,2
+1154,the United Kingdom's,GPE,2
+1155,the second straight day,DATE,2
+1156,55,DATE,2
+1157,nine months,DATE,2
+1158,West Australian Vaccination,NORP,2
+1159,Amanda Kloots,ORG,2
+1160,Nick Cordero,PERSON,2
+1161,18-year-old,DATE,2
+1162,Jack Klemich,PERSON,2
+1163,65s,DATE,2
+1164,Thailand,GPE,2
+1165,NHS,ORG,2
+1166,Gardasil,GPE,2
+1167,World War Two,EVENT,2
+1168,Vladimir Putin’s,PERSON,2
+1169,Venezuelan,NORP,2
+1170,Nicolas Maduro,PERSON,2
+1171,Sputnik,PERSON,2
+1172,Maduro,PERSON,2
+1173,Sean Penn,PERSON,2
+1174,Los Angeles,GPE,2
+1175,just months,DATE,2
+1176,Jeff O'Toole,PERSON,2
+1177,Elon Musk,PERSON,2
+1178,Chickenpox,ORG,2
+1179,the end of April,DATE,2
+1180,Tedros Adhanom Ghebreyesus,PERSON,2
+1181,Pfizer Inc,PERSON,2
+1182,AFLPA,ORG,2
+1183,1500,CARDINAL,2
+1184,David Swallow,PERSON,2
+1185,the first day,DATE,2
+1186,last week's,DATE,2
+1187,DR Congo,ORG,2
+1188,"December 10, 2020",DATE,2
+1189,mid-March,DATE,2
+1190,South Africa COVID,GPE,2
+1191,$495m,MONEY,2
+1192,two-week,DATE,2
+1193,Irish,NORP,2
+1194,Johnson & Johnson's,ORG,2
+1195,More than 200,CARDINAL,2
+1196,55,CARDINAL,2
+1197,Fox,ORG,2
+1198,Albert Bourla,PERSON,2
+1199,ABC News Vaccine,ORG,2
+1200,evening,TIME,2
+1201,Elizabeth,PERSON,2
+1202,World Trade Organisation,ORG,2
+1203,Operation Warp Speed,ORG,2
+1204,Adria Tour,PERSON,2
+1205,Sean Abbott,PERSON,2
+1206,Bill de Blasio,PERSON,2
+1207,NSW Police,ORG,2
+1208,one-month-old,DATE,2
+1209,about one,CARDINAL,2
+1210,$53 million,MONEY,2
+1211,Palau,GPE,2
+1212,Alaska,GPE,2
+1213,OECD,ORG,2
+1214,March 8,DATE,2
+1215,ABC News Australians,ORG,2
+1216,the Immunisation Coalition,ORG,2
+1217,COVID-19 Pfizer,PERSON,2
+1218,the Health Australia Party,ORG,2
+1219,Bankstown-Lidcombe Hospital,ORG,2
+1220,ABC News Vaccination,ORG,2
+1221,Apple,ORG,2
+1222,Tasmania,ORG,2
+1223,non-English,NORP,2
+1224,Washington,GPE,2
+1225,Kate Aubusson,PERSON,2
+1226,ER,GPE,2
+1227,90,CARDINAL,2
+1228,"More than 72,000",CARDINAL,2
+1229,Fourth,ORDINAL,2
+1230,"December 8, 2020",DATE,2
+1231,Sandi Todd's,PERSON,2
+1232,the National Immunisation Program,ORG,2
+1233,28 days,DATE,2
+1234,The European Commission,ORG,2
+1235,the European Medicines Agency,ORG,2
+1236,more than a month,DATE,2
+1237,Slovakia,GPE,2
+1238,More than 60,CARDINAL,2
+1239,Cabinet,ORG,2
+1240,South Australia's,LOC,2
+1241,nine million,CARDINAL,2
+1242,Rush Hour,PERSON,2
+1243,news.com.au,GPE,2
+1244,38,CARDINAL,2
+1245,the National Health Service,ORG,2
+1246,Tokyo Olympics,EVENT,2
+1247,Games,FAC,2
+1248,John Flint,PERSON,2
+1249,Somalia,GPE,2
+1250,Saturday Night Live,WORK_OF_ART,2
+1251,Pope,PERSON,2
+1252,Coronavirus Australia LIVE UPDATES,ORG,2
+1253,Melbourne,ORG,2
+1254,More than a dozen,CARDINAL,2
+1255,10 years,DATE,2
+1256,72,CARDINAL,2
+1257,2024,DATE,2
+1258,August 12,DATE,2
+1259,just two months,DATE,2
+1260,Blacktown Hospital,FAC,2
+1261,the same day,DATE,2
+1262,Julie Bishop,PERSON,2
+1263,the World Health Organization's,ORG,2
+1264,1 billion,CARDINAL,2
+1265,Rome,GPE,2
+1266,a million,CARDINAL,2
+1267,the University of Oxford's,ORG,2
+1268,multibillion-dollar,MONEY,2
+1269,AI,ORG,2
+1270,Edward O'Neill,PERSON,2
+1271,39 million,CARDINAL,2
+1272,135,CARDINAL,2
+1273,22,CARDINAL,2
+1274,Scentre,GPE,2
+1275,"December 3, 2020",DATE,2
+1276,Novartis,ORG,2
+1277,ACTU,ORG,2
+1278,Almost a million,CARDINAL,2
+1279,Volunteer,PERSON,2
+1280,Adelaide,ORG,2
+1281,New Australian,NORP,2
+1282,four days,DATE,2
+1283,Recce Pharmaceuticals,ORG,2
+1284,a quarter of a million,DATE,2
+1285,early this morning,TIME,2
+1286,Afghanistan,GPE,2
+1287,"December 15, 2020",DATE,2
+1288,up to 180 million,CARDINAL,2
+1289,Steve Price,PERSON,2
+1290,Children's Hospital,ORG,2
+1291,Global,ORG,2
+1292,Scarborough,GPE,2
+1293,115,CARDINAL,2
+1294,Bahrain,GPE,2
+1295,30 minutes,TIME,2
+1296,July last year,DATE,2
+1297,Riley Hughes,PERSON,2
+1298,Mars,LOC,2
+1299,12 months,DATE,2
+1300,2009,DATE,2
+1301,Ukraine,GPE,2
+1302,Miami,GPE,2
+1303,3.8 million,CARDINAL,2
+1304,WFH,ORG,2
+1305,Steven Marshall,PERSON,2
+1306,Geneva,GPE,2
+1307,200,MONEY,2
+1308,Rob Penfold,PERSON,2
+1309,as early as,DATE,2
+1310,Fauci,PERSON,2
+1311,each week,DATE,2
+1312,Nexvax2,PERSON,2
+1313,Andy Murray,PERSON,2
+1314,79,CARDINAL,2
+1315,Rio de Janeiro,GPE,2
+1316,European Medicines Agency,ORG,2
+1317,"More than 140,000",CARDINAL,2
+1318,Three-quarters,DATE,2
+1319,midday,TIME,2
+1320,seasonal,DATE,2
+1321,| SBS News America's,ORG,2
+1322,160,CARDINAL,2
+1323,26,CARDINAL,2
+1324,Santos,GPE,2
+1325,four weeks,DATE,2
+1326,Last month,DATE,2
+1327,only half,CARDINAL,2
+1328,Holly Seale,PERSON,2
+1329,$500 million,MONEY,2
+1330,Kyle,PERSON,2
+1331,Jackie O,PERSON,2
+1332,"174,000",CARDINAL,2
+1333,Six million,CARDINAL,2
+1334,1.3 billion,CARDINAL,2
+1335,Gold Coast,ORG,2
+1336,Hulk Hogan,PERSON,2
+1337,Phil Gaetjens,PERSON,2
+1338,National Health Service,ORG,2
+1339,Whitten Oval,PERSON,2
+1340,more than one,CARDINAL,2
+1341,Aladdin,ORG,2
+1342,Terry Rossio,PERSON,2
+1343,February 20,DATE,2
+1344,one to two months later,DATE,2
+1345,Bollywood,GPE,2
+1346,Yvonne Sampson,PERSON,2
+1347,Queensland Health,PERSON,2
+1348,the European Commission,ORG,2
+1349,Wales,GPE,2
+1350,day,DATE,2
+1351,Northampton,GPE,2
+1352,June,DATE,2
+1353,500,MONEY,2
+1354,Samoa - ABC News,ORG,2
+1355,| SBS News Health,ORG,2
+1356,Leigh Matthews,PERSON,2
+1357,Arizona,GPE,2
+1358,March 10,DATE,2
+1359,10-week,DATE,2
+1360,Royal Flying Doctor Service,ORG,2
+1361,Vanuatu,GPE,2
+1362,"December 16, 2020",DATE,2
+1363,Georgia,GPE,2
+1364,Supreme Court,ORG,2
+1365,May 1,DATE,2
+1366,Katherine Gong,PERSON,2
+1367,"December 11, 2020",DATE,2
+1368,Pennsylvania,GPE,2
+1369,Democratic,NORP,2
+1370,Informed Medical Options Party,ORG,2
+1371,InvoCare’s,ORG,2
+1372,Helen Clark,PERSON,2
+1373,$31 million,MONEY,2
+1374,114,CARDINAL,2
+1375,"more than 15,000",CARDINAL,2
+1376,monthly,DATE,2
+1377,David Leyonhjelm,PERSON,2
+1378,the Victorian Government's,ORG,2
+1379,the World Health Organization (WHO,ORG,2
+1380,Christmas Day,DATE,2
+1381,Palestinian,NORP,2
+1382,$49 billion,MONEY,2
+1383,up to 12 months,DATE,2
+1384,ABC News International,ORG,2
+1385,AstraZeneca-Oxford,ORG,2
+1386,Peter Wellington,PERSON,2
+1387,Benedict,PERSON,2
+1388,Malcolm Roberts,PERSON,2
+1389,150 years ago,DATE,2
+1390,"more than 14,000",CARDINAL,2
+1391,Yohan Blake,PERSON,2
+1392,Baby Riley's,PERSON,2
+1393,billions of dollars,MONEY,2
+1394,NSW Senate,ORG,2
+1395,every day,DATE,2
+1396,Federal Health Department,ORG,2
+1397,seventh,ORDINAL,2
+1398,12-week,DATE,2
+1399,Muslim,NORP,2
+1400,more than 500,CARDINAL,2
+1401,three-year-old,DATE,2
+1402,Nev Power,ORG,2
+1403,Morocco,GPE,2
+1404,the World Health Organisation's,ORG,2
+1405,up to four hours,TIME,2
+1406,BRICS,ORG,2
+1407,Julia Gillard,PERSON,2
+1408,hundreds of millions of dollars,MONEY,2
+1409,Byron Bay Bluesfest,PERSON,2
+1410,at least 26 million,CARDINAL,2
+1411,Chris Bowen,PERSON,2
+1412,Rafael Nadal,PERSON,2
+1413,earlier this week,DATE,1
+1414,a good day,DATE,1
+1415,The World Health Organization's,ORG,1
+1416,Vladimir Putin's,PERSON,1
+1417,Joe Tapine,PERSON,1
+1418,Josh Papalli,PERSON,1
+1419,50 year-old,DATE,1
+1420,the coming year,DATE,1
+1421,Perth Waldorf School - ABC News,ORG,1
+1422,Germans,NORP,1
+1423,Unused AstraZeneca,ORG,1
+1424,FOMO,ORG,1
+1425,US$2 billion,MONEY,1
+1426,"the ""Warp Speed",LAW,1
+1427,Queensland - ABC News,ORG,1
+1428,Kuta Beach,GPE,1
+1429,Cold War,EVENT,1
+1430,Kremlin,ORG,1
+1431,Cozy Bear,PERSON,1
+1432,800,MONEY,1
+1433,David Taylor,PERSON,1
+1434,the start of the month,DATE,1
+1435,more than 700,CARDINAL,1
+1436,The first week,DATE,1
+1437,Bolsonaro,PERSON,1
+1438,More than six million,CARDINAL,1
+1439,more than 1000,CARDINAL,1
+1440,Wulansari,GPE,1
+1441,East Jakarta,GPE,1
+1442,2012,DATE,1
+1443,15 years,DATE,1
+1444,SA's Civil and Administrative Tribunal,ORG,1
+1445,17,CARDINAL,1
+1446,Big Pharma's,ORG,1
+1447,| SBS News China,ORG,1
+1448,Easter,ORG,1
+1449,the United States',GPE,1
+1450,10-month-old,DATE,1
+1451,Africans,NORP,1
+1452,WHO The World Health Organisation,ORG,1
+1453,Somerville,GPE,1
+1454,Scott Morrison Australian,PERSON,1
+1455,December 7,DATE,1
+1456,NIH,ORG,1
+1457,around June,DATE,1
+1458,a few weeks,DATE,1
+1459,5.4 million,CARDINAL,1
+1460,102,CARDINAL,1
+1461,Sharia,NORP,1
+1462,Bondi,GPE,1
+1463,Sydney’s,ORG,1
+1464,Outraged,ORG,1
+1465,more than 25 years,DATE,1
+1466,Sydney COVID-19,FAC,1
+1467,"83,000",CARDINAL,1
+1468,"fewer than 60,000",CARDINAL,1
+1469,The West Australian Only half,NORP,1
+1470,Emmanuel Macron,PERSON,1
+1471,One billion,CARDINAL,1
+1472,just two weeks,DATE,1
+1473,NEW VACCINE AGAINST HUMAN PAPILLOMAVIRUS,ORG,1
+1474,Cuomo New York,ORG,1
+1475,a University of Queensland,ORG,1
+1476,this Monday February 22,DATE,1
+1477,Laybuy,ORG,1
+1478,11.6pc,CARDINAL,1
+1479,RBC,ORG,1
+1480,PayPal,ORG,1
+1481,Federal Budget 2018,ORG,1
+1482,Hughes,ORG,1
+1483,Webjet,GPE,1
+1484,Corporate Travel Travel,ORG,1
+1485,Granville,GPE,1
+1486,"More than 110,000",CARDINAL,1
+1487,Sydney Test,ORG,1
+1488,a record 54 days,DATE,1
+1489,Alan Joyce Qantas,PERSON,1
+1490,Vaccine,GPE,1
+1491,ASX Australian,ORG,1
+1492,the month of November on Monday,DATE,1
+1493,560,CARDINAL,1
+1494,World,ORG,1
+1495,4-year-old,DATE,1
+1496,four-year-old,DATE,1
+1497,SA Labor Lives,ORG,1
+1498,"about 1,000",CARDINAL,1
+1499,A Thing,WORK_OF_ART,1
+1500,almost two weeks,DATE,1
+1501,11 months,DATE,1
+1502,about three,CARDINAL,1
+1503,just the last two weeks,DATE,1
+1504,Tasmania's Public Health Service,ORG,1
+1505,the age of 21,DATE,1
+1506,16 per cent,MONEY,1
+1507,the week before,DATE,1
+1508,the next three weeks,DATE,1
+1509,Norway Pfizer,PERSON,1
+1510,ABC News Representatives,ORG,1
+1511,The West Australian Opposition,ORG,1
+1512,The Coalition for Epidemic Preparedness Innovations,ORG,1
+1513,Gold Coast Titan Bryce Cartwright,ORG,1
+1514,The West Australian Gold Coast’s,LOC,1
+1515,The West Australian Demystifying,LOC,1
+1516,"120,000",CARDINAL,1
+1517,$13 billion,MONEY,1
+1518,UK Government,ORG,1
+1519,More than 70,CARDINAL,1
+1520,ABC News The Australian Meat Industry Council,WORK_OF_ART,1
+1521,"up to 190,000",CARDINAL,1
+1522,West African,NORP,1
+1523,Europe Germany,GPE,1
+1524,55 days,DATE,1
+1525,the Telethon Kids Institute’s,ORG,1
+1526,Nadsaq,PERSON,1
+1527,Nabi,PERSON,1
+1528,Aviragen,PERSON,1
+1529,15 per cent,MONEY,1
+1530,Changi Airport,FAC,1
+1531,SIA,ORG,1
+1532,5.9pc,CARDINAL,1
+1533,James Hardie,PERSON,1
+1534,11pc,DATE,1
+1535,Rio,PERSON,1
+1536,4.7pc,CARDINAL,1
+1537,4.2pc,CARDINAL,1
+1538,AUD,ORG,1
+1539,about 6 million,CARDINAL,1
+1540,Qld’s,ORG,1
+1541,"some 250,000",CARDINAL,1
+1542,a week old,DATE,1
+1543,hundreds and hundreds,CARDINAL,1
+1544,the New England Journal of Medicine,ORG,1
+1545,a thousand,CARDINAL,1
+1546,the Christmas holiday,DATE,1
+1547,IKEA,ORG,1
+1548,next March,DATE,1
+1549,roughly 50,CARDINAL,1
+1550,seventh day,DATE,1
+1551,a South Australian,NORP,1
+1552,Star Entertainment,ORG,1
+1553,SeaLink,ORG,1
+1554,Austal,ORG,1
+1555,August 7,DATE,1
+1556,Scott Morrison National Cabinet,PERSON,1
+1557,Clive Palmer,PRODUCT,1
+1558,"August 7, 2020",DATE,1
+1559,Menzies Health Institute’s,ORG,1
+1560,Nigel McMillan,PERSON,1
+1561,The World Health Organization (WHO,ORG,1
+1562,British PM,PERSON,1
+1563,Scientist,PERSON,1
+1564,27 per cent,MONEY,1
+1565,Perth A Perth company,ORG,1
+1566,ABC News Emergency,ORG,1
+1567,Oxford-AstraZeneca's,ORG,1
+1568,more than 9.57 million,CARDINAL,1
+1569,"nearly 140,000",CARDINAL,1
+1570,as many weeks,DATE,1
+1571,| SBS News A,ORG,1
+1572,LSD,ORG,1
+1573,ninth,ORDINAL,1
+1574,COVID-19 Fact,PERSON,1
+1575,Jane Hanson,PERSON,1
+1576,Perth’s,GPE,1
+1577,this Monday,DATE,1
+1578,Jane Hansen,PERSON,1
+1579,Cronulla Sharks,ORG,1
+1580,$160 million,MONEY,1
+1581,White House,FAC,1
+1582,Apiam Animal Health,PERSON,1
+1583,Bendigo,ORG,1
+1584,Apiam,PERSON,1
+1585,ACE Laboratory Services,ORG,1
+1586,$16 million,MONEY,1
+1587,Kerry Highley,PERSON,1
+1588,Kiwi,PERSON,1
+1589,6pm tonight,TIME,1
+1590,78,DATE,1
+1591,Seb Coe Athletes,PERSON,1
+1592,Seb Coe,PERSON,1
+1593,$12 million,MONEY,1
+1594,Deepak Chopra’s,ORG,1
+1595,Mother,PERSON,1
+1596,Detroit,GPE,1
+1597,Sonic Healthcare,ORG,1
+1598,as many as 15 million,CARDINAL,1
+1599,Mail,GPE,1
+1600,ABC News Treasury,ORG,1
+1601,15 minutes,TIME,1
+1602,Katie Allen,PERSON,1
+1603,Andrew Laming,PERSON,1
+1604,Jenna Clarke,PERSON,1
+1605,three-month,DATE,1
+1606,Chris Patten,PERSON,1
+1607,Alicia Broadbent,PERSON,1
+1608,Deb Stokes,PERSON,1
+1609,Mike Parton,PERSON,1
+1610,Nick Hendel,PERSON,1
+1611,Patty Dyson,PERSON,1
+1612,Ric Baxter,PERSON,1
+1613,Ben Fordham,PERSON,1
+1614,COVID-19 Western Australia,ORG,1
+1615,2000,DATE,1
+1616,"More than 86,000",CARDINAL,1
+1617,0.3 per cent,MONEY,1
+1618,World War II' - ABC News,EVENT,1
+1619,hundreds of millions,CARDINAL,1
+1620,at least seven,CARDINAL,1
+1621,Breakthrough,GPE,1
+1622,Man’s,ORG,1
+1623,more than 6 million,MONEY,1
+1624,Singaporean,NORP,1
+1625,more than 2.7 million,CARDINAL,1
+1626,Homeopathy Plus,PERSON,1
+1627,Fran Sheffield,PERSON,1
+1628,"138,000",MONEY,1
+1629,Ze Gotinha,PERSON,1
+1630,Zé Gotinha,PERSON,1
+1631,Brasilia,GPE,1
+1632,December 16,DATE,1
+1633,Only half,CARDINAL,1
+1634,More than two thirds,CARDINAL,1
+1635,Joko Widodo's,GPE,1
+1636,Jim Simons,PERSON,1
+1637,Codagenix,PERSON,1
+1638,$33 billion,MONEY,1
+1639,Renaissance Technologies,ORG,1
+1640,the University of NSW,ORG,1
+1641,OnlyFans,ORG,1
+1642,Up to one,CARDINAL,1
+1643,each year,DATE,1
+1644,Victims,NORP,1
+1645,Tattersall,ORG,1
+1646,53.8 million,CARDINAL,1
+1647,12 months' time,DATE,1
+1648,4073,DATE,1
+1649,1013,DATE,1
+1650,6000,CARDINAL,1
+1651,More than 6000,CARDINAL,1
+1652,2040,CARDINAL,1
+1653,$123m,MONEY,1
+1654,Alice Springs,GPE,1
+1655,Yukon,ORG,1
+1656,Dr Shiu’s,PERSON,1
+1657,"March 4, 2021",DATE,1
+1658,March 4 2021 - Stay,DATE,1
+1659,Nanop,PRODUCT,1
+1660,Cumberland Council,ORG,1
+1661,Christmas University of Oxford,ORG,1
+1662,Immunisation Coalition,ORG,1
+1663,Ruby,PERSON,1
+1664,Vancouver,GPE,1
+1665,a vaccine months,DATE,1
+1666,Australia Australians,ORG,1
+1667,Victoria’s Health and Human Services,ORG,1
+1668,Kym Peake,PERSON,1
+1669,108.7 million,CARDINAL,1
+1670,almost 2.4 million,CARDINAL,1
+1671,Can Victoria,PERSON,1
+1672,the next 10 days,DATE,1
+1673,Kannika McClelland,PERSON,1
+1674,Australia AUSTRALIANS,ORG,1
+1675,next winter,DATE,1
+1676,the Queensland University,ORG,1
+1677,the trading week,DATE,1
+1678,Colac,ORG,1
+1679,Rhode Island,GPE,1
+1680,New Mexic,GPE,1
+1681,Drugmakers,PERSON,1
+1682,5 million,CARDINAL,1
+1683,Moderna COVID,ORG,1
+1684,| SBS News UK,ORG,1
+1685,the first weeks,DATE,1
+1686,Only 68,CARDINAL,1
+1687,a second consecutive day,DATE,1
+1688,| SBS News Victoria’s,ORG,1
+1689,Austra,ORG,1
+1690,About 1200,CARDINAL,1
+1691,Jacqueline Maley,PERSON,1
+1692,G7,FAC,1
+1693,Amnesty International,ORG,1
+1694,nearly 70,CARDINAL,1
+1695,AstraZe,ORG,1
+1696,about half,CARDINAL,1
+1697,Time,ORG,1
+1698,Veterinary Medicines,ORG,1
+1699,"over 3,000",CARDINAL,1
+1700,Xinhua,ORG,1
+1701,"September 13, 2020",DATE,1
+1702,Royal Botanic Garden,ORG,1
+1703,the Royal Botanic Gardens,ORG,1
+1704,Frozen SME,PERSON,1
+1705,92 per cent,MONEY,1
+1706,Sophia Barbagallo,ORG,1
+1707,Universe Australia,ORG,1
+1708,LinkedIn,GPE,1
+1709,WhatsApp,ORG,1
+1710,the Africa Centers for Disease Control and Prevention,ORG,1
+1711,Ángel Eduardo,PERSON,1
+1712,Frank Madrid,ORG,1
+1713,Yoshihide Suga,PERSON,1
+1714,Narendra Modi - ABC,PERSON,1
+1715,Boosting India's,ORG,1
+1716,Business Council of Australia,ORG,1
+1717,$170 billion,MONEY,1
+1718,The West Australian Gold,LOC,1
+1719,more than half a million,CARDINAL,1
+1720,"41,907",CARDINAL,1
+1721,election 2021,DATE,1
+1722,Kalgoorlie-Boulder,PERSON,1
+1723,No Mandatory Vaccination Party,ORG,1
+1724,Drama,PERSON,1
+1725,the Kalgoorlie-Boulder,FAC,1
+1726,a No Mandatory Vaccination Party,ORG,1
+1727,Hannan Street,FAC,1
+1728,10 to 15 months,DATE,1
+1729,ten to 15 months,DATE,1
+1730,"Industry, Science and Technology",ORG,1
+1731,"some 30,000",CARDINAL,1
+1732,Rochelle Crossley,PERSON,1
+1733,Tokyo Olympic Games ',EVENT,1
+1734,Ian Chesterman,PERSON,1
+1735,more than 400,CARDINAL,1
+1736,19,DATE,1
+1737,"More than 1,000",CARDINAL,1
+1738,the NT this week,DATE,1
+1739,$23.9 million,MONEY,1
+1740,The Red Cross,ORG,1
+1741,European Central Bank,ORG,1
+1742,Balyasny Asset Management,ORG,1
+1743,Democrats,NORP,1
+1744,"About 4,000",CARDINAL,1
+1745,COVID-19 anti-vaxxers,PERSON,1
+1746,$14.7 million,MONEY,1
+1747,under 60,DATE,1
+1748,Travellers,PRODUCT,1
+1749,Christian,NORP,1
+1750,the late 19th century,DATE,1
+1751,Mary Baker Eddy,PERSON,1
+1752,Christian Science,ORG,1
+1753,Catholic,NORP,1
+1754,Catholics,NORP,1
+1755,the 1970s,DATE,1
+1756,Toorak,PERSON,1
+1757,Whistleblower Rick Bright,PERSON,1
+1758,more than 100 million,CARDINAL,1
+1759,zeros,CARDINAL,1
+1760,15th day,DATE,1
+1761,iPad,ORG,1
+1762,37b,MONEY,1
+1763,Brisbane's Hotel Grand,ORG,1
+1764,2pc,DATE,1
+1765,NSW Woman,ORG,1
+1766,8000,CARDINAL,1
+1767,29%,PERCENT,1
+1768,$US1.73 billion,MONEY,1
+1769,| SBS News France,ORG,1
+1770,three or four weeks,DATE,1
+1771,Games,EVENT,1
+1772,ABC News Cooler,ORG,1
+1773,‘80,DATE,1
+1774,Nearly 10,CARDINAL,1
+1775,The Boxing Day Test,EVENT,1
+1776,"more than 750,000",CARDINAL,1
+1777,"more than 35,000",CARDINAL,1
+1778,Cameron Munster,PERSON,1
+1779,Roosters,ORG,1
+1780,"350,000",MONEY,1
+1781,Cordner’s,ORG,1
+1782,ABC News Waiting,ORG,1
+1783,longer than six weeks,DATE,1
+1784,Behind Australia's,ORG,1
+1785,Des Hasler Australian Rugby League Commission,ORG,1
+1786,Rick Bright,PERSON,1
+1787,the United Kingdom - ABC News,GPE,1
+1788,"50,000",CARDINAL,1
+1789,1,MONEY,1
+1790,AstraZeneca-Oxford,PRODUCT,1
+1791,Australian Council for International Development,ORG,1
+1792,SA Free,ORG,1
+1793,More than 50 million,CARDINAL,1
+1794,just a few days,DATE,1
+1795,an additional 30 million,CARDINAL,1
+1796,as much as half,CARDINAL,1
+1797,Palaszczuk - ABC News,ORG,1
+1798,Australia Post's,ORG,1
+1799,Christine Holgate,PERSON,1
+1800,"Novavax, Nucleus Network Australian",ORG,1
+1801,Nucleus Network,PERSON,1
+1802,Nova,PERSON,1
+1803,Perth - ABC News,ORG,1
+1804,Koutsakos,PERSON,1
+1805,Western Australia's,LOC,1
+1806,Goldfields,ORG,1
+1807,the past six months,DATE,1
+1808,7yo,ORDINAL,1
+1809,US1.4b,ORG,1
+1810,Biotechnology,ORG,1
+1811,5.5 per cent,MONEY,1
+1812,$US1.38 billion,MONEY,1
+1813,Glaxo,ORG,1
+1814,91-year-old,DATE,1
+1815,Melburnian,NORP,1
+1816,"January 19, 2021",DATE,1
+1817,January 19 2021,DATE,1
+1818,the Democratic Party,ORG,1
+1819,ABC News Western Australia,ORG,1
+1820,Sunday night,TIME,1
+1821,Canberrans,NORP,1
+1822,$US900 billion,MONEY,1
+1823,US600,MONEY,1
+1824,WeChat,ORG,1
+1825,202,CARDINAL,1
+1826,Tennis Australia,ORG,1
+1827,Tens of thousands,CARDINAL,1
+1828,"Almost 30,000",CARDINAL,1
+1829,"more than 94,500",CARDINAL,1
+1830,12-year-old,DATE,1
+1831,Marco Arturo,PERSON,1
+1832,his two months,DATE,1
+1833,Michael Ryan,PERSON,1
+1834,late next week,DATE,1
+1835,Doubts,PERSON,1
+1836,The West Australian Healthcare Australia’s,ORG,1
+1837,Joseph M Cheers,ORG,1
+1838,Colin Michael Hall,PERSON,1
+1839,Jarkko Saarinen,PERSON,1
+1840,86-year-old,DATE,1
+1841,South Wales,GPE,1
+1842,more than 3 million,CARDINAL,1
+1843,CMO Totally,ORG,1
+1844,Greater Sydney,PERSON,1
+1845,more than 70,CARDINAL,1
+1846,The Palestinian Authority,ORG,1
+1847,61 days,DATE,1
+1848,6340,DATE,1
+1849,All year,DATE,1
+1850,12 to 18 months,DATE,1
+1851,Peter Doherty Institute for Infection,ORG,1
+1852,Murdoch Children's,PERSON,1
+1853,Research Institute,ORG,1
+1854,seven-day,DATE,1
+1855,seven trading days,DATE,1
+1856,AstraZeneca North Korean,NORP,1
+1857,Millions March Against Mandatory Covid Vaccination,EVENT,1
+1858,Ryanair,ORG,1
+1859,Guy Debelle,PERSON,1
+1860,the European Union’s,ORG,1
+1861,South Australia's,GPE,1
+1862,Dumped Liberal,ORG,1
+1863,Andrea Tokaji ,PERSON,1
+1864,The West Australian Conspiracy,LOC,1
+1865,Andrea Tokaji’s,PERSON,1
+1866,the 1930s,DATE,1
+1867,Toddler,PERSON,1
+1868,Hunter Valley,LOC,1
+1869,ABC News Concerns,ORG,1
+1870,the Macedon Ranges,FAC,1
+1871,Hume City,GPE,1
+1872,New Zealand,NORP,1
+1873,AOC,ORG,1
+1874,Jesse Li,PERSON,1
+1875,Novavax Inc.,ORG,1
+1876,Election 2016,DATE,1
+1877,Australian School Vaccination Register - ABC News,ORG,1
+1878,Laura Newell,PERSON,1
+1879,Oxford Univers,ORG,1
+1880,The Victorian Government,WORK_OF_ART,1
+1881,Australi,PERSON,1
+1882,‘three or four months,DATE,1
+1883,Queensland Cabinet,PERSON,1
+1884,the past 48 hours,TIME,1
+1885,5 years,DATE,1
+1886,one-year-olds,DATE,1
+1887,Qantas Airlines,ORG,1
+1888,the World Trade Organisation’s,ORG,1
+1889,More than 400,CARDINAL,1
+1890,about two,CARDINAL,1
+1891,SA Labor,ORG,1
+1892,Joko Widodo’s,ORG,1
+1893,Robert  Booy,PERSON,1
+1894,Sue Rodger-Withers,PERSON,1
+1895,1.8bn,MONEY,1
+1896,up to US$1.8 billion,MONEY,1
+1897,Volunteers,PRODUCT,1
+1898,Universi,ORG,1
+1899,0.2pc,CARDINAL,1
+1900,Manly Sea Eagles,ORG,1
+1901,Addin Fonua-Blake,PERSON,1
+1902,Queensland Addin Fonua-Blake,PERSON,1
+1903,next month's,DATE,1
+1904,Cowboys,ORG,1
+1905,530,CARDINAL,1
+1906,Morrison Government’s,ORG,1
+1907,Joan Myles,PERSON,1
+1908,92-year-old,DATE,1
+1909,Sputnik V - ABC,PERSON,1
+1910,"over 100,000",CARDINAL,1
+1911,Russian Sputnik,PERSON,1
+1912,91.6%,PERCENT,1
+1913,The West Virginia National Guard,ORG,1
+1914,Regeneron,ORG,1
+1915,Vitamins,PERSON,1
+1916,40 years,DATE,1
+1917,about 33 million,CARDINAL,1
+1918,Annastacia Pa,PERSON,1
+1919,COVID-19 Symptoms,ORG,1
+1920,"Treatments, Testing & Vaccines",ORG,1
+1921,NRd-1629,ORG,1
+1922,ABC News Governments,ORG,1
+1923,ABC News With an Army General,WORK_OF_ART,1
+1924,At least 25,CARDINAL,1
+1925,25,DATE,1
+1926,three-day,DATE,1
+1927,Genuine,PERSON,1
+1928,Brisbane’s,ORG,1
+1929,"over 2,000",CARDINAL,1
+1930,"at least 2,000",CARDINAL,1
+1931,45b,MONEY,1
+1932,older than 75,CARDINAL,1
+1933,Around 30 million,CARDINAL,1
+1934,eight-month,DATE,1
+1935,November 2013,DATE,1
+1936,Novavax’s,ORG,1
+1937,NSW Government,ORG,1
+1938,Orthodox,NORP,1
+1939,Jewish,NORP,1
+1940,Queensland Reds',PERSON,1
+1941,Cape Town,GPE,1
+1942,15-hour,TIME,1
+1943,Annual,DATE,1
+1944,Ansell,ORG,1
+1945,the next five years,DATE,1
+1946,David Edmonston,PERSON,1
+1947,Igor Matovic,PERSON,1
+1948,CNN,ORG,1
+1949,Bikoro,GPE,1
+1950,last year's ',DATE,1
+1951,' season,DATE,1
+1952,"more than 1,000",CARDINAL,1
+1953,Ugur Sahin,PERSON,1
+1954,Özlem Türeci,PERSON,1
+1955,between two,CARDINAL,1
+1956,Sixth,ORDINAL,1
+1957,66-year-old,DATE,1
+1958,The Save the Tasmanian Devil,ORG,1
+1959,seven-year,DATE,1
+1960,United Arab Emirates,GPE,1
+1961,The United Arab Emirates,GPE,1
+1962,350,MONEY,1
+1963,the Reserve Bank of Australia,ORG,1
+1964,ABC News Police,ORG,1
+1965,Scottish,NORP,1
+1966,12 years,DATE,1
+1967,up to 12 years ago,DATE,1
+1968,Donald Bradman,PERSON,1
+1969,University of Adelaide,ORG,1
+1970,a few weeks ago,DATE,1
+1971,Around 240,CARDINAL,1
+1972,only 50.4%,PERCENT,1
+1973,Scott Morrison People,PERSON,1
+1974,US Food and Drug Authority Moderna,ORG,1
+1975,about 5.9 million,CARDINAL,1
+1976,Vexed,GPE,1
+1977,Cuomo,PERSON,1
+1978,decades-long,DATE,1
+1979,The West Australian Babies,GPE,1
+1980,David Wolfe Supplements,PERSON,1
+1981,Mr Vitamins,PERSON,1
+1982,"David ""Avocado"" Wolfe",PERSON,1
+1983,Qld Health,PERSON,1
+1984,March 2021,DATE,1
+1985,ABC Health,ORG,1
+1986,Obama,PERSON,1
+1987,Bush,PERSON,1
+1988,Clinton,PERSON,1
+1989,Malek Fahd Islamic School,ORG,1
+1990,44 million,CARDINAL,1
+1991,1.17 million,CARDINAL,1
+1992,New York’s,GPE,1
+1993,Skills,ORG,1
+1994,At least three,CARDINAL,1
+1995,NSW Vets,ORG,1
+1996,MIT,ORG,1
+1997,1.4b,MONEY,1
+1998,Bob Langer's,PERSON,1
+1999,3.2,CARDINAL,1
+2000,The University of Queensland-CSL,ORG,1
+2001,Norway Ireland,GPE,1
+2002,Norwa,PERSON,1
+2003,"About 3,000",CARDINAL,1
+2004,Sydney GP,FAC,1
+2005,"Measles, Mumps and",ORG,1
+2006,Rubella and Whooping Cough,ORG,1
+2007,the past nine years,DATE,1
+2008,Scott Morrison - ABC,PERSON,1
+2009,"1,900",CARDINAL,1
+2010,"1,868",CARDINAL,1
+2011,98,CARDINAL,1
+2012,the previous day,DATE,1
+2013,National Health Commission,ORG,1
+2014,10,MONEY,1
+2015,$10.1 million,MONEY,1
+2016,Latin America's,LOC,1
+2017,Costa Rica,GPE,1
+2018,between 18 and 64,DATE,1
+2019,2010,DATE,1
+2020,The West Australian Groundbreaking,LOC,1
+2021,COVID Vaccine,PERSON,1
+2022,England’s,GPE,1
+2023,Travellers,ORG,1
+2024,$130 billion,MONEY,1
+2025,New York City’s,GPE,1
+2026,The United States Studies Centre,GPE,1
+2027,ABC News Twitter,ORG,1
+2028,Australia International,ORG,1
+2029,155,CARDINAL,1
+2030,Two-thirds,CARDINAL,1
+2031,Middle Eastern,NORP,1
+2032,New Zealand PM,GPE,1
+2033,Biden,ORG,1
+2034,Jerusalem,GPE,1
+2035,About a third,CARDINAL,1
+2036,the National Child Health Poll,ORG,1
+2037,21 days,DATE,1
+2038,Tom,PERSON,1
+2039,more than 800,CARDINAL,1
+2040,News Germany,GPE,1
+2041,only two,CARDINAL,1
+2042,"about 4,000",CARDINAL,1
+2043,under half,DATE,1
+2044,71 per cent,MONEY,1
+2045,Asia-Pacific,LOC,1
+2046,the Asia-Pacific region,LOC,1
+2047,Five-year-old,DATE,1
+2048,Faris,PERSON,1
+2049,Five years,DATE,1
+2050,COVID-19 Commission Advisory Board,ORG,1
+2051,US Army,ORG,1
+2052,the US Army,ORG,1
+2053,Latvia,GPE,1
+2054,year 11,DATE,1
+2055,The New South Wales,ORG,1
+2056,more than 84.8 million,CARDINAL,1
+2057,Queensland AMA,PERSON,1
+2058,1990s,DATE,1
+2059,D-Day,DATE,1
+2060,2.9 million,CARDINAL,1
+2061,13 million,CARDINAL,1
+2062,Gwyneth Paltrow,PERSON,1
+2063,BRISBANE,PERSON,1
+2064,XXXX,PERSON,1
+2065,"more than 700,000",CARDINAL,1
+2066,'summer',DATE,1
+2067,his 20s,DATE,1
+2068,the Great Canadian Gaming Corporation,ORG,1
+2069,Perth Waldorf,PERSON,1
+2070,10131,DATE,1
+2071,Reserve Bank of Australia,ORG,1
+2072,QE,PERSON,1
+2073,The West Australian Federal Health,GPE,1
+2074,| SBS News J&J,ORG,1
+2075,Rabbit Calicivirus Diseases,ORG,1
+2076,Cellist Yo-Yo Ma,PERSON,1
+2077,ASX A,ORG,1
+2078,the University of Adelaide,ORG,1
+2079,IR,ORG,1
+2080,William Shakespeare,PERSON,1
+2081,Mobile,GPE,1
+2082,Weather,PERSON,1
+2083,A World Health Organisation,ORG,1
+2084,$US31.3 billion,MONEY,1
+2085,$A45.7 billion,MONEY,1
+2086,Rachel-Stephen Smith,PERSON,1
+2087,past few months,DATE,1
+2088,Trump AstraZeneca,ORG,1
+2089,the Federal Reserve,ORG,1
+2090,ABC News Billions,ORG,1
+2091,Astra Zeneca's,NORP,1
+2092,six weeks',DATE,1
+2093,several hundred,CARDINAL,1
+2094,Americ,PERSON,1
+2095,the beginning of next week,DATE,1
+2096,3rd,ORDINAL,1
+2097,the Johnson & Johnson COVID-19,ORG,1
+2098,W - ABC News,ORG,1
+2099,Eliza Bradley,PERSON,1
+2100,National Cabinet,PERSON,1
+2101,Gardasil A,ORG,1
+2102,WWII,EVENT,1
+2103,as early as January,DATE,1
+2104,September 8,DATE,1
+2105,Daniel Andrews ',PERSON,1
+2106,NSW Latest,ORG,1
+2107,"September 8, 2020",DATE,1
+2108,deliver 100 million,CARDINAL,1
+2109,the late 1960s,DATE,1
+2110,James Massola,PERSON,1
+2111,ABC News South Australia's,ORG,1
+2112,more than $60,MONEY,1
+2113,144,MONEY,1
+2114,5-year,DATE,1
+2115,2023,DATE,1
+2116,2017 season,DATE,1
+2117,Oxford University’s,ORG,1
+2118,Historic,GPE,1
+2119,Victoria Victorians,NORP,1
+2120,several months,DATE,1
+2121,Mary Ward,PERSON,1
+2122,another day,DATE,1
+2123,COVID-19 Victoria,PERSON,1
+2124,26th day,DATE,1
+2125,"more than 800,000",CARDINAL,1
+2126,NIP,ORG,1
+2127,Thirty-five,CARDINAL,1
+2128,Sarah Hawthorn,PERSON,1
+2129,Hyatt Regency,ORG,1
+2130,Territories,GPE,1
+2131,roughly a third,CARDINAL,1
+2132,63,CARDINAL,1
+2133,$55 billion,MONEY,1
+2134,Albert Santos,PERSON,1
+2135,Jenny Armas,PERSON,1
+2136,Parramatta,ORG,1
+2137,105-year-old,DATE,1
+2138,Lucia DeClerck,PERSON,1
+2139,105th,ORDINAL,1
+2140,more than $2 trillion,MONEY,1
+2141,last Friday,DATE,1
+2142,1850s,DATE,1
+2143,Ed Husic,PERSON,1
+2144,1.7bn,MONEY,1
+2145,more than 80 million,MONEY,1
+2146,1100,CARDINAL,1
+2147,65 years or older,DATE,1
+2148,Krispy Kreme,PERSON,1
+2149,Maryland,GPE,1
+2150,Novavax,ORG,1
+2151,barely a month,DATE,1
+2152,Brexit D-day,PERSON,1
+2153,13pc,ORDINAL,1
+2154,More than 1.5 million,CARDINAL,1
+2155,Nobel,WORK_OF_ART,1
+2156,Priorix,ORG,1
+2157,GlaxoKlineSmith One,PERSON,1
+2158,"March 5, 2021",DATE,1
+2159,Reynolds,ORG,1
+2160,New Zealanders,NORP,1
+2161,nearly 20k,DATE,1
+2162,"March 5, 2021 - Stay",DATE,1
+2163,Delhi,GPE,1
+2164,the estimated 20 million,CARDINAL,1
+2165,ABC News The Pfizer,WORK_OF_ART,1
+2166,mid-Jan,DATE,1
+2167,mid-January,DATE,1
+2168,Berejiklian Australian,NORP,1
+2169,Indo-Pacific,ORG,1
+2170,Experts,ORG,1
+2171,the Northern Territory,GPE,1
+2172,Michael Gunner,PERSON,1
+2173,100b,MONEY,1
+2174,America Rescue Plan,PERSON,1
+2175,Amnesty,ORG,1
+2176,The West Australian Labor,GPE,1
+2177,Anglican Church,ORG,1
+2178,Anglican,NORP,1
+2179,nearly 50 years ago,DATE,1
+2180,Club Med’,ORG,1
+2181,Novavax COVID,ORG,1
+2182,Melbourne Controversial,ORG,1
+2183,Vaxxed,PERSON,1
+2184,The Village Cinemas,FAC,1
+2185,Bono,PERSON,1
+2186,Bono,GPE,1
+2187,David Oyelowo,PERSON,1
+2188,the Indo-Pacific,ORG,1
+2189,4-week-old,DATE,1
+2190,Riley,PERSON,1
+2191,2 billion,MONEY,1
+2192,$100 mark,MONEY,1
+2193,America’s Food and Drug Administration,ORG,1
+2194,up to eight weeks,DATE,1
+2195,last-minute,TIME,1
+2196,Robert F. Kennedy Jr.,PERSON,1
+2197,ABC News Extensive,ORG,1
+2198,Zoom,LOC,1
+2199,ABC News Gold,ORG,1
+2200,Alan Joyce’s,PERSON,1
+2201,Nationals,ORG,1
+2202,David Littleproud,PERSON,1
+2203,Malcolm Knox,PERSON,1
+2204,"37,500",CARDINAL,1
+2205,the opening three weeks,DATE,1
+2206,almost 8 billion,MONEY,1
+2207,Strait Island,LOC,1
+2208,the Players’ Association,ORG,1
+2209,Just three days,DATE,1
+2210,Eighty-six-year-old,DATE,1
+2211,John Healy,PERSON,1
+2212,Brandon Capital’s,ORG,1
+2213,Chris Nave,PERSON,1
+2214,$700 million,MONEY,1
+2215,MRCF,ORG,1
+2216,another almost $2 billion,MONEY,1
+2217,Greg Hunt Australians,PERSON,1
+2218,Biomedical Advanced Research and Development Authority,ORG,1
+2219,ECB,ORG,1
+2220,the Bank of England,ORG,1
+2221,"more than 285,000",CARDINAL,1
+2222,between 30 and 90,CARDINAL,1
+2223,Education,ORG,1
+2224,Flinders Uni,ORG,1
+2225,Almost $6 million,MONEY,1
+2226,almost $3 million,MONEY,1
+2227,the Australian Federal Police,ORG,1
+2228,months or even years,DATE,1
+2229,the Commonwealth Government's,ORG,1
+2230,trillion-dollar,MONEY,1
+2231,Victor,PERSON,1
+2232,Aussie,ORG,1
+2233,18 to 30,DATE,1
+2234,This year,DATE,1
+2235,Josh Frydenberg's,PERSON,1
+2236,80 per cent,MONEY,1
+2237,ABC News Tasmania,ORG,1
+2238,September 7,DATE,1
+2239,"September 7, 2020 - Stay",DATE,1
+2240,Optimistic Qantas,ORG,1
+2241,The West Australian Qantas,GPE,1
+2242,Kingston Mills,PERSON,1
+2243,$132 billion,MONEY,1
+2244,Rohingya,NORP,1
+2245,Bangladeshi,NORP,1
+2246,Clive Palmer's,PERSON,1
+2247,"Novavax, Johnson & Johnson",ORG,1
+2248,$3 million,MONEY,1
+2249,the University of Melbourne's,ORG,1
+2250,Incompetence,ORG,1
+2251,The Feed The WHO,WORK_OF_ART,1
+2252,88,CARDINAL,1
+2253,Dot Leigh,PERSON,1
+2254,more than $900 million,MONEY,1
+2255,early this season,DATE,1
+2256,Gerry Harvey’s,PERSON,1
+2257,Retail,ORG,1
+2258,Gerry Harvey,PERSON,1
+2259,Gladys Berejiklian’s,PERSON,1
+2260,Gaetjens,PERSON,1
+2261,13-metre,QUANTITY,1
+2262,Sidney Powell,PERSON,1
+2263,minutes,TIME,1
+2264,ABC News Health Department,ORG,1
+2265,Simon Birmingham,PERSON,1
+2266,"nearly 1,500",CARDINAL,1
+2267,"almost 1,500",CARDINAL,1
+2268,The Tasmanian Government,ORG,1
+2269,Frontline,PRODUCT,1
+2270,Dr Caroline Phegan,PERSON,1
+2271,a year two,DATE,1
+2272,Parkville,GPE,1
+2273,Wealth,GPE,1
+2274,Perpetual,PERSON,1
+2275,Barrow-Hanley's,ORG,1
+2276,$5.7 billion,MONEY,1
+2277,Ohio,GPE,1
+2278,Tirol,GPE,1
+2279,Rebecca Schoepf,PERSON,1
+2280,at least mid-2022,MONEY,1
+2281,COVID Australia’s,ORG,1
+2282,the WA Health Department,ORG,1
+2283,just a week,DATE,1
+2284,Massachusetts Institute of Technology,ORG,1
+2285,EU,GPE,1
+2286,The West Australian Young,GPE,1
+2287,Robbie Buchan's,PERSON,1
+2288,Three years ago,DATE,1
+2289,Robbie Buchan,PERSON,1
+2290,Harris’,PERSON,1
+2291,Harris,PERSON,1
+2292,seven or eight,CARDINAL,1
+2293,"8,480",CARDINAL,1
+2294,More than 100,CARDINAL,1
+2295,ABC News Ahead,ORG,1
+2296,next week's,DATE,1
+2297,Bell Potter,ORG,1
+2298,Imugene Cancer,PERSON,1
+2299,Imugene Ltd,PERSON,1
+2300,Albanese,PERSON,1
+2301,Leader of the Opposition Anthony Albanese,ORG,1
+2302,Canberra Hospital,ORG,1
+2303,Sydney News,ORG,1
+2304,"10,000",MONEY,1
+2305,"up to 1,000",CARDINAL,1
+2306,the past few weeks,DATE,1
+2307,"fewer than 14,000",CARDINAL,1
+2308,KPMG,ORG,1
+2309,$117 billion,MONEY,1
+2310,God,PERSON,1
+2311,Araceli Hidalgo,PERSON,1
+2312,96,DATE,1
+2313,the Royal Australian College,ORG,1
+2314,Painted,ORG,1
+2315,The West Australian Authorities,ORG,1
+2316,18 and 19 year olds,DATE,1
+2317,CSL’s,ORG,1
+2318,less than a week,DATE,1
+2319,Teenager,ORG,1
+2320,Sarah Beltz,PERSON,1
+2321,between six months and nine years,DATE,1
+2322,a month earlier,DATE,1
+2323,Parthenon,PERSON,1
+2324,Athens - ABC News Thick,ORG,1
+2325,About 60,CARDINAL,1
+2326,the Australian Financial Review,ORG,1
+2327,YouTube Anti,PRODUCT,1
+2328,"200,000",CARDINAL,1
+2329,New Zealand Society for Immunology,ORG,1
+2330,Sydney Archbishops,GPE,1
+2331,Archbishops,ORG,1
+2332,84.8 million,CARDINAL,1
+2333,as much as 10 per cent,PERCENT,1
+2334,Nearly four weeks,DATE,1
+2335,about six million,CARDINAL,1
+2336,Ricky Stuart,PERSON,1
+2337,Joe Tapine,PRODUCT,1
+2338,ABC Radio Australia,ORG,1
+2339,December 1,DATE,1
+2340,Ryu Han-na,PERSON,1
+2341,20-year-old,DATE,1
+2342,ABC News Authorities,ORG,1
+2343,two nights,DATE,1
+2344,next few days,DATE,1
+2345,Michael Mosley,PERSON,1
+2346,Super Rugby,ORG,1
+2347,Chris Dawson,PERSON,1
+2348,The State’s,ORG,1
+2349,a fourth consecutive day,DATE,1
+2350,Alarm,PERSON,1
+2351,125,CARDINAL,1
+2352,"19 May, 2020",DATE,1
+2353,1.8 per cent,MONEY,1
+2354,Great Depression - ABC News Producers,EVENT,1
+2355,an estimated,QUANTITY,1
+2356,Melbourne A WORLD-FIRST,ORG,1
+2357,George Christensen,PERSON,1
+2358,just a few week’s,DATE,1
+2359,Pelosi,PERSON,1
+2360,"March 17, 2021",DATE,1
+2361,Atlanta,GPE,1
+2362,John Laws,PERSON,1
+2363,"March 17, 2021 - Stay",DATE,1
+2364,later today,TIME,1
+2365,David Littleproud ,PERSON,1
+2366,three-fifths,CARDINAL,1
+2367,Johaan Kaa,PERSON,1
+2368,State Government,ORG,1
+2369,all 15 to,CARDINAL,1
+2370,19-year-olds,DATE,1
+2371,Almost $330 million,MONEY,1
+2372,Flu Australia,ORG,1
+2373,Great Depression,EVENT,1
+2374,the World Health Organisation’s,ORG,1
+2375,2002,DATE,1
+2376,2013,DATE,1
+2377,Andrew Nash,PERSON,1
+2378,the University of Queensland Vaccine Project’s,ORG,1
+2379,the Innovation Summit,ORG,1
+2380,at least year,DATE,1
+2381,at least a year’,DATE,1
+2382,Phil,PERSON,1
+2383,the last minute,TIME,1
+2384,South Africa's,GPE,1
+2385,the National Immunisation Program Schedule,ORG,1
+2386,"2,700",CARDINAL,1
+2387,700,CARDINAL,1
+2388,COVID-19 Australia,ORG,1
+2389,12 months',DATE,1
+2390,‘three years,DATE,1
+2391,Governments,ORG,1
+2392,Dominos,ORG,1
+2393,Pizza Hut,ORG,1
+2394,the Therapeutic Goods,ORG,1
+2395,The West Australian Days,GPE,1
+2396,Breakthrough,PERSON,1
+2397,Abbott,GPE,1
+2398,the Coalition Government's,ORG,1
+2399,$110 million,MONEY,1
+2400,$80m,MONEY,1
+2401,South East Asia,LOC,1
+2402,Hackers,WORK_OF_ART,1
+2403,the Department of Homeland Security,ORG,1
+2404,Liam Eldridge,PERSON,1
+2405,Noosa,PERSON,1
+2406,Paddington,GPE,1
+2407,No Jab No Play',LAW,1
+2408,Families,ORG,1
+2409,No Jab No Play,WORK_OF_ART,1
+2410,World Travel,ORG,1
+2411,240,CARDINAL,1
+2412,463,CARDINAL,1
+2413,94.5%,PERCENT,1
+2414,This evening,TIME,1
+2415,The West Australian Celebrity,GPE,1
+2416,0,CARDINAL,1
+2417,Western Australia's,ORG,1
+2418,10 month,DATE,1
+2419,Herbert Rebhan,PERSON,1
+2420,Al Kuwait,PERSON,1
+2421,the Al Kuwait,LOC,1
+2422,the UK Government,ORG,1
+2423,McGowan,GPE,1
+2424,Ryan,PERSON,1
+2425,The Royal Children's Hospital,ORG,1
+2426,almost 50 per cent,MONEY,1
+2427,secondly,ORDINAL,1
+2428,less than one week,DATE,1
+2429,March 13,DATE,1
+2430,the Geraldton Guardian,ORG,1
+2431,49,CARDINAL,1
+2432,January 2,DATE,1
+2433,more than 30,CARDINAL,1
+2434,"Almost 59,000",CARDINAL,1
+2435,Butembo,GPE,1
+2436,Year-long,DATE,1
+2437,70,MONEY,1
+2438,Graham Turner,PERSON,1
+2439,the Johnson & Johnson,ORG,1
+2440,over $3 trillion,MONEY,1
+2441,$3 trillion,MONEY,1
+2442,Nationals,LOC,1
+2443,2½ years,DATE,1
+2444,| SBS News Volunteers,ORG,1
+2445,Takeda Pharmaceuticals,ORG,1
+2446,$US38 million,MONEY,1
+2447,$A51.65 million,MONEY,1
+2448,Melinda Gates Foundation,ORG,1
+2449,North America,LOC,1
+2450,36 per cent,MONEY,1
+2451,the last US winter,DATE,1
+2452,Chemical,ORG,1
+2453,"March 12, 2021",DATE,1
+2454,Fears $1.2 billion,MONEY,1
+2455,post-JobKeeper,ORG,1
+2456,"March 12, 2021 - Stay",DATE,1
+2457,South Australia Aboriginal,LOC,1
+2458,ABC News Vaccinations,ORG,1
+2459,Pangula Mannamurna Aboriginal Corporation,ORG,1
+2460,Mount Gambier,GPE,1
+2461,9/11's for months,DATE,1
+2462,the next two to three months,DATE,1
+2463,30 years,DATE,1
+2464,March 1988,DATE,1
+2465,US74¢,ORG,1
+2466,Freedom Foods,ORG,1
+2467,$174.5m,MONEY,1
+2468,Quarter of Aussies,ORG,1
+2469,the age of 70,DATE,1
+2470,$40 million,MONEY,1
+2471,the September quarter,DATE,1
+2472,US100b,MONEY,1
+2473,Chris Zappone,PERSON,1
+2474,ABC News Medical,ORG,1
+2475,39,CARDINAL,1
+2476,the start of the week,DATE,1
+2477,Volatile ASX,ORG,1
+2478,390,CARDINAL,1
+2479,Anti-COVID,ORG,1
+2480,Reignite Australia,ORG,1
+2481,not months,DATE,1
+2482,annually,DATE,1
+2483,Almost 200,CARDINAL,1
+2484,European Council,ORG,1
+2485,Charles Michel,PERSON,1
+2486,Edward Jenner,PERSON,1
+2487,the last two centuries,DATE,1
+2488,More than 100 years ago,DATE,1
+2489,More than a third,CARDINAL,1
+2490,13 year old,DATE,1
+2491,at least 2400,CARDINAL,1
+2492,A Current Affair Two-year-old Marko Magic,WORK_OF_ART,1
+2493,two half,CARDINAL,1
+2494,AstraZene,ORG,1
+2495,United Kingdom - ABC,GPE,1
+2496,Flu Shot,PERSON,1
+2497,LAST year,DATE,1
+2498,"an estimated 29,000",CARDINAL,1
+2499,Eseta Meki,PERSON,1
+2500,as early as this week,DATE,1
+2501,Reuters,ORG,1
+2502,Portugal,GPE,1
+2503,Veterinarians,NORP,1
+2504,Almost two-thirds,CARDINAL,1
+2505,"more than 600,000",CARDINAL,1
+2506,June 1,DATE,1
+2507,John Shine,PERSON,1
+2508,PM Morrison,PERSON,1
+2509,Sydney’s,GPE,1
+2510,Almost 150,CARDINAL,1
+2511,Pacific Islands,LOC,1
+2512,Numbers,ORG,1
+2513,"October 31, 1923",DATE,1
+2514,Druids and Women’s Hospital,ORG,1
+2515,Darwinian,NORP,1
+2516,Queensland - ABC News Healthcare Australia,ORG,1
+2517,Wollongong,PERSON,1
+2518,Sinopharm Governments,ORG,1
+2519,Peta Murphy,PERSON,1
+2520,The US Food and Drug Administration's,ORG,1
+2521,Rosie,PERSON,1
+2522,Rosie Anderson,PERSON,1
+2523,2028,DATE,1
+2524,coming decades,DATE,1
+2525,Frontline COVID-19,PRODUCT,1
+2526,Some 84.8 million,CARDINAL,1
+2527,The West Australian Call,LOC,1
+2528,East Kimberley,NORP,1
+2529,the WA Country Health Service,ORG,1
+2530,about 20,CARDINAL,1
+2531,the Kununurra COVID-19 Vaccination Clinic,ORG,1
+2532,SA Government,ORG,1
+2533,five-and-under,DATE,1
+2534,Reds,ORG,1
+2535,Stormers,ORG,1
+2536,the World Health Organization and Europe,ORG,1
+2537,Sydney’s,FAC,1
+2538,"400,000",MONEY,1
+2539,the McGowan Government’s,ORG,1
+2540,Healthy Tasmanian,PERSON,1
+2541,More than 30,CARDINAL,1
+2542,almost 20 million,CARDINAL,1
+2543,more than 25 million,CARDINAL,1
+2544,Silicon Valley,LOC,1
+2545,election day,DATE,1
+2546,AstraZeneca Australia,ORG,1
+2547,Tokyo Olympic Games 2020-2021,EVENT,1
+2548,Sporting,GPE,1
+2549,first night,TIME,1
+2550,five day,DATE,1
+2551,another week,DATE,1
+2552,nearly 80,CARDINAL,1
+2553,ABC News Lauded,ORG,1
+2554,ABC News Research,ORG,1
+2555,94 per cent,MONEY,1
+2556,Britons,PERSON,1
+2557,millions of dollars,MONEY,1
+2558,Auckland to Sydney,FAC,1
+2559,Centrelink,GPE,1
+2560,David Heymann,PERSON,1
+2561,early last century,DATE,1
+2562,The West Australian Supermarket,GPE,1
+2563,September 20,DATE,1
+2564,Almost $6,MONEY,1
+2565,Fourteen,CARDINAL,1
+2566,"September 20, 2020 - Stay",DATE,1
+2567,quarter,CARDINAL,1
+2568,Tel Aviv,GPE,1
+2569,more than 20,CARDINAL,1
+2570,"February 16, 2021",DATE,1
+2571,30 days,DATE,1
+2572,Camp,GPE,1
+2573,February 16 2021 - Stay,DATE,1
+2574,"February 24, 2021",DATE,1
+2575,LA,GPE,1
+2576,February 24 2021,DATE,1
+2577,AHPPC,ORG,1
+2578,the Oxford University's,ORG,1
+2579,a couple of seconds,TIME,1
+2580,Yemen,GPE,1
+2581,Kieren Box,PERSON,1
+2582,almost a month,DATE,1
+2583,Two-year-old,DATE,1
+2584,Lawrence,PERSON,1
+2585,B.,PERSON,1
+2586,Dublin,GPE,1
+2587,a couple of weeks,DATE,1
+2588,"well over 500,000",CARDINAL,1
+2589,the UN General Assembly,ORG,1
+2590,National Cabinet |,ORG,1
+2591,the National Cabinet,ORG,1
+2592,Australian Pharmaceutical Industries,ORG,1
+2593,Carnival,ORG,1
+2594,2 months,DATE,1
+2595,ABC News All,ORG,1
+2596,Danielle,PERSON,1
+2597,Johnson Mak,PERSON,1
+2598,| SBS News Aboriginal,ORG,1
+2599,97.25 per cent,MONEY,1
+2600,E484K COVID-19,PRODUCT,1
+2601,Victoria - ABC News Horse,ORG,1
+2602,Nathan Sheets,PERSON,1
+2603,PGIM,ORG,1
+2604,Palaszczuk,LOC,1
+2605,$10 million,MONEY,1
+2606,Zoom,PERSON,1
+2607,Bill Gates',PERSON,1
+2608,Doherty Institute's,ORG,1
+2609,season 2019,DATE,1
+2610,more than 220,CARDINAL,1
+2611,a busy week,DATE,1
+2612,Invasion Day,EVENT,1
+2613,almost reached 100 million,CARDINAL,1
+2614,Cape York,GPE,1
+2615,The West Australian Doctors,GPE,1
+2616,only eight,CARDINAL,1
+2617,Gandangara,PERSON,1
+2618,55s,DATE,1
+2619,fourth straight week,DATE,1
+2620,Social,ORG,1
+2621,at least nine months,DATE,1
+2622,222 days,DATE,1
+2623,89,DATE,1
+2624,Beast,LOC,1
+2625,Women’s,ORG,1
+2626,Melbourne AstraZeneca,ORG,1
+2627,Grace Tame,ORG,1
+2628,seven-month,DATE,1
+2629,One whole year,DATE,1
+2630,"January 25, 2020",DATE,1
+2631,Guandong province,GPE,1
+2632,a few days earlier,DATE,1
+2633,Rottnest Island,LOC,1
+2634,Giuseppe Conte,PERSON,1
+2635,The NSW Health,ORG,1
+2636,Broadway,FAC,1
+2637,last July,DATE,1
+2638,More than one,CARDINAL,1
+2639,Nearly 90,CARDINAL,1
+2640,Trump’s,ORG,1
+2641,Dolly Parton,PERSON,1
+2642,nine years ago,DATE,1
+2643,CSL BLOOD,PRODUCT,1
+2644,just 12 months,DATE,1
+2645,"at least 3,000",CARDINAL,1
+2646,South Asia - 9News,LOC,1
+2647,South Asia,LOC,1
+2648,13-year-old,DATE,1
+2649,Boris Johnson’s,PERSON,1
+2650,the darkest hours,TIME,1
+2651,"January 13, 2021",DATE,1
+2652,seventh consecutive day,DATE,1
+2653,9News.com.au,CARDINAL,1
+2654,"Tuesday January 13, 2021",DATE,1
+2655,Oxford/AstraZeneca,ORG,1
+2656,Sarah Pitt,PERSON,1
+2657,"at least 26,000",CARDINAL,1
+2658,another 50 million,CARDINAL,1
+2659,the Food and Drug Administration and Centres for Disease Control and Protection,ORG,1
+2660,Asia-Pacific region,LOC,1
+2661,the EU’s,ORG,1
+2662,Stella Kyriakides,PERSON,1
+2663,Sutton,PERSON,1
+2664,South Yarra’s,ORG,1
+2665,Fawkner Park,LOC,1
+2666,"February 25, 2021",DATE,1
+2667,$1b half-yearly,MONEY,1
+2668,Tiger Woods ',PERSON,1
+2669,February 25 2021,DATE,1
+2670,the IATA Travel Pass,ORG,1
+2671,five million,CARDINAL,1
+2672,SA - 9News Demand,ORG,1
+2673,ABC News Millions,ORG,1
+2674,more than a quarter,DATE,1
+2675,Swedish,NORP,1
+2676,Ramsay,PERSON,1
+2677,John Deakin-Bell,PERSON,1
+2678,next financial year,DATE,1
+2679,A FULL WRAP OF HOW THE,ORG,1
+2680,VIRUS,ORG,1
+2681,589,CARDINAL,1
+2682,Thai,NORP,1
+2683,Thanathorn - ABC News,ORG,1
+2684,Thanathorn Juangroongruangkit,ORG,1
+2685,ABC News European Commission,ORG,1
+2686,Chaos,GPE,1
+2687,first day,DATE,1
+2688,90%,PERCENT,1
+2689,the Tasmanian Government,ORG,1
+2690,ChristianaCare Hospital,ORG,1
+2691,Newark,GPE,1
+2692,Delaware,GPE,1
+2693,Samoa - Health - ABC News,ORG,1
+2694,the University of ...,ORG,1
+2695,World War two,EVENT,1
+2696,"45,000",CARDINAL,1
+2697,Yo,PERSON,1
+2698,less than 10,CARDINAL,1
+2699,Forest Hill Family Clinic,ORG,1
+2700,Cilia Flores,PERSON,1
+2701,Caracas,GPE,1
+2702,Personal Protective Equipment,ORG,1
+2703,Papua Ne,PERSON,1
+2704,Sean Penn’s,PERSON,1
+2705,GFC,ORG,1
+2706,Bernie Finn,PERSON,1
+2707,$17 million,MONEY,1
+2708,Pfizer Inc,ORG,1
+2709,Moderna Inc,PERSON,1
+2710,Flagstaff Gardens,FAC,1
+2711,Global COVID-19,PRODUCT,1
+2712,Twenty-seven,CARDINAL,1
+2713,Coburg,GPE,1
+2714,First 40 million,MONEY,1
+2715,ABC News Senior Liberals,ORG,1
+2716,Andrew Probyn,PERSON,1
+2717,"more than 310,000",CARDINAL,1
+2718,last January,DATE,1
+2719,only 48 hours,TIME,1
+2720,Tesla,PERSON,1
+2721,Filipino,LANGUAGE,1
+2722,Larry Pineda,PERSON,1
+2723,Portland,GPE,1
+2724,More than 50 years,DATE,1
+2725,Sandra Lindsay,PERSON,1
+2726,Long Island Jewish Medical Center,LOC,1
+2727,Queens,GPE,1
+2728,two months old,DATE,1
+2729,International,WORK_OF_ART,1
+2730,Hollie Singleton’s,PERSON,1
+2731,Vaccine Free Australia,WORK_OF_ART,1
+2732,800 year-old,DATE,1
+2733,800-year-old,DATE,1
+2734,2024,CARDINAL,1
+2735,China Biden,ORG,1
+2736,Sydney NYE,PERSON,1
+2737,the new financial year,DATE,1
+2738,$US20 billion,MONEY,1
+2739,Pneumonia,GPE,1
+2740,at least 10,CARDINAL,1
+2741,MatchMyJab,MONEY,1
+2742,at least one billion,MONEY,1
+2743,23,CARDINAL,1
+2744,Medsafe,PERSON,1
+2745,The West Australian Telethon Kids Institute,LOC,1
+2746,Jason Waithman,PERSON,1
+2747,Xi Jinping,PERSON,1
+2748,Cold War',EVENT,1
+2749,Davos,GPE,1
+2750,another day of,DATE,1
+2751,Sixty per cent,MONEY,1
+2752,just one,CARDINAL,1
+2753,Australian Paralympic Team,ORG,1
+2754,Paralympic Games - ABC News,EVENT,1
+2755,Richard Colbeck,PERSON,1
+2756,Paralympic,GPE,1
+2757,Tesco,ORG,1
+2758,under 54,DATE,1
+2759,Drugmaker AstraZeneca,ORG,1
+2760,More than 25 years ago,DATE,1
+2761,David Crowe,PERSON,1
+2762,the massive week,DATE,1
+2763,The World Health Organisation's,ORG,1
+2764,ABC News Biosecurity Tasmania,ORG,1
+2765,Mark Meadows,PERSON,1
+2766,Dr Stephen Hahn,PERSON,1
+2767,13 days,DATE,1
+2768,Jobseeker,PRODUCT,1
+2769,ANU,ORG,1
+2770,At least 6,CARDINAL,1
+2771,James Shipton,PERSON,1
+2772,ABC News Trucks,ORG,1
+2773,hundreds of dollars,MONEY,1
+2774,Adelaide,PRODUCT,1
+2775,Gold Coast Suns,ORG,1
+2776,The West Australian Gold Coast,LOC,1
+2777,EU New,ORG,1
+2778,Spike,PERSON,1
+2779,2017-18,DATE,1
+2780,Philippine,NORP,1
+2781,G20,PERSON,1
+2782,Saudi,NORP,1
+2783,Saudi Arabia,GPE,1
+2784,181 million,CARDINAL,1
+2785,Tania Ewing,PERSON,1
+2786,Historic Quad,GPE,1
+2787,$211m,MONEY,1
+2788,Michael Mrozinski,PERSON,1
+2789,Nursing,PERSON,1
+2790,Woman,PERSON,1
+2791,Lindt,NORP,1
+2792,the “Five Eyes,ORG,1
+2793,Karen Hitchcock,PERSON,1
+2794,Karen Hitchcock's,PERSON,1
+2795,another volatile day,DATE,1
+2796,Baby Riley’s,PERSON,1
+2797,fifty-fold,QUANTITY,1
+2798,Zhong Shanshan,PERSON,1
+2799,ABC News While,ORG,1
+2800,Indian Ocean,LOC,1
+2801,Seychelles,GPE,1
+2802,Plague Island,LOC,1
+2803,6500,CARDINAL,1
+2804,Ellume,PERSON,1
+2805,Byron Bay,LOC,1
+2806,another 2.5 million,CARDINAL,1
+2807,the International Air Transport Association,ORG,1
+2808,about 23 per cent,MONEY,1
+2809,300 million euro,MONEY,1
+2810,$A495 million,MONEY,1
+2811,Two billion,MONEY,1
+2812,early November,DATE,1
+2813,"more than 184,000",CARDINAL,1
+2814,five-year-old,DATE,1
+2815,the December quarter,DATE,1
+2816,ABC News Central,ORG,1
+2817,Belinda Long,PERSON,1
+2818,15 degrees,QUANTITY,1
+2819,Democratic Republic of Congo,GPE,1
+2820,World Health Organisation (WHO,ORG,1
+2821,Rapper Kanye West,PERSON,1
+2822,Kanye West,PERSON,1
+2823,Kentucky,GPE,1
+2824,Rodney,PERSON,1
+2825,Baker,PERSON,1
+2826,ABC News Trials,ORG,1
+2827,’ The EU,WORK_OF_ART,1
+2828,Intense,NORP,1
+2829,'60 to 70 per cent,DATE,1
+2830,60 to 70,CARDINAL,1
+2831,University of Queensland - ABC News Human,ORG,1
+2832,120,CARDINAL,1
+2833,the end of September,DATE,1
+2834,Eli Lilly,ORG,1
+2835,Eli Lilly's,ORG,1
+2836,almost 10pc,DATE,1
+2837,Landline,NORP,1
+2838,last month's,DATE,1
+2839,ABC Landline,ORG,1
+2840,Wholesale,ORG,1
+2841,Kohli,PERSON,1
+2842,Evening Express,ORG,1
+2843,March 9 Good,DATE,1
+2844,ABC News Several,ORG,1
+2845,New Delhi,GPE,1
+2846,Curfew,PERSON,1
+2847,a given year,DATE,1
+2848,315 million,CARDINAL,1
+2849,Greg Jennett,PERSON,1
+2850,Biotech,PERSON,1
+2851,Brandon Capital's Nave on Australia's,ORG,1
+2852,GP’s,ORG,1
+2853,Fairfax Media,ORG,1
+2854,Matt Wade,PERSON,1
+2855,Louise Kennerley,PERSON,1
+2856,News Breakfast,LOC,1
+2857,five years ago,DATE,1
+2858,1991,DATE,1
+2859,UK Opposition,ORG,1
+2860,2021,CARDINAL,1
+2861,almost 99 million,CARDINAL,1
+2862,2.12 million,CARDINAL,1
+2863,An estimated 6.13 million,CARDINAL,1
+2864,Auckland,NORP,1
+2865,Kelin,PERSON,1
+2866,three or four,CARDINAL,1
+2867,28,CARDINAL,1
+2868,an additional 43,CARDINAL,1
+2869,Zoetis - ABC News,PERSON,1
+2870,years-long,DATE,1
+2871,Goodman,ORG,1
+2872,West Africa,GPE,1
+2873,Lawrence Gostin,PERSON,1
+2874,Georgetown University,ORG,1
+2875,450,MONEY,1
+2876,AUSTRALIA,ORG,1
+2877,Late on,TIME,1
+2878,ABC News The World Health Organisation,ORG,1
+2879,up to five days,DATE,1
+2880,Vaccine | Latest Health News & Updates,ORG,1
+2881,Remdesivir,ORG,1
+2882,William Petri,PERSON,1
+2883,early this year,DATE,1
+2884,million dollar,MONEY,1
+2885,Futuristic,NORP,1
+2886,as much as four,MONEY,1
+2887,Beijing Government,ORG,1
+2888,Vladimir Putin Russian,PERSON,1
+2889,earlier this mon,DATE,1
+2890,as high as one,CARDINAL,1
+2891,Art Kids,GPE,1
+2892,Inner Worlds,WORK_OF_ART,1
+2893,35%,PERCENT,1
+2894,34.9 per cent,MONEY,1
+2895,$US1.09 billion,MONEY,1
+2896,$A1.53 billion,MONEY,1
+2897,December 29,DATE,1
+2898,$4.1 million,MONEY,1
+2899,More than $10 million,MONEY,1
+2900,up to 1 million,CARDINAL,1
+2901,6128,CARDINAL,1
+2902,Melbourne Storm's,PERSON,1
+2903,Christian Welch Melbourne's,PERSON,1
+2904,Christian Welch,PERSON,1
+2905,Storm,PRODUCT,1
+2906,Health Australia Party,ORG,1
+2907,Bankstown-Lidcombe Hospital Babies,ORG,1
+2908,February 29,DATE,1
+2909,Robert De Niro,PERSON,1
+2910,Vaxxed,GPE,1
+2911,ROBERT De Niro,PERSON,1
+2912,AEC,ORG,1
+2913,Project Apollo,ORG,1
+2914,Sydney Water,ORG,1
+2915,US Food and Drug Association,ORG,1
+2916,100,MONEY,1
+2917,99 years,DATE,1
+2918,AstraZeneca Johnson,PERSON,1
+2919,the United Stat,GPE,1
+2920,Joe Hockey,PERSON,1
+2921,Australia Contract,ORG,1
+2922,Luina Bio,PERSON,1
+2923,November 1st,DATE,1
+2924,Tokyo Olympics 2020,EVENT,1
+2925,Games,WORK_OF_ART,1
+2926,Dick Pound Athletes,PERSON,1
+2927,Wi-Fi,LOC,1
+2928,Craig Kelly’s,PERSON,1
+2929,Robert Clancy,PERSON,1
+2930,July 31,DATE,1
+2931,390 million,CARDINAL,1
+2932,ABC News Gretel Whitting,ORG,1
+2933,Sambuca,GPE,1
+2934,Malibu,GPE,1
+2935,Jack Snelling,PERSON,1
+2936,100 years ago,DATE,1
+2937,ABC News Alarming,ORG,1
+2938,1919,DATE,1
+2939,ABC News Lily O'Connell,ORG,1
+2940,the NSW Government,ORG,1
+2941,"Thursday 2 July, 2020",DATE,1
+2942,1.7%,PERCENT,1
+2943,$29 billion,MONEY,1
+2944,68.62,MONEY,1
+2945,Capitol,ORG,1
+2946,Andrew Forrest,PERSON,1
+2947,Andrew “Twiggy” Forrest,PERSON,1
+2948,Tim Elliott's,PERSON,1
+2949,Katrina Strickland,PERSON,1
+2950,up to half,CARDINAL,1
+2951,three-quarters,DATE,1
+2952,David Caldicott -,PERSON,1
+2953,David Caldicott,PERSON,1
+2954,ABC News Unlike,ORG,1
+2955,Little Violet Duffield,ORG,1
+2956,only two weeks,DATE,1
+2957,a single day this week,DATE,1
+2958,Hassan Vally,PERSON,1
+2959,La Trobe University,ORG,1
+2960,Some 1.4 million,CARDINAL,1
+2961,meningococcal days,DATE,1
+2962,the New Year,EVENT,1
+2963,$300m,MONEY,1
+2964,the Financial Review,ORG,1
+2965,at least two,CARDINAL,1
+2966,"January 18, 2021",DATE,1
+2967,Mornington Peninsula,PERSON,1
+2968,Music,GPE,1
+2969,Phil Spector,PERSON,1
+2970,January 18 2021,DATE,1
+2971,Perth school,FAC,1
+2972,Perth Waldorf School,ORG,1
+2973,more than a week,DATE,1
+2974,Prevenar 13,ORG,1
+2975,Cruise,ORG,1
+2976,Summer,PERSON,1
+2977,a year ago,DATE,1
+2978,$1.5m,MONEY,1
+2979,$1.5 million,MONEY,1
+2980,Rhinomed,PERSON,1
+2981,AZ,ORG,1
+2982,Gong,GPE,1
+2983,eight months',DATE,1
+2984,three and 15 months,DATE,1
+2985,Michael Toole,PERSON,1
+2986,ABC News Almost,ORG,1
+2987,Professor of Public Health,ORG,1
+2988,Joao Doria,PERSON,1
+2989,2nd worst day,DATE,1
+2990,second worst day,DATE,1
+2991,nearly two weeks,DATE,1
+2992,100th,ORDINAL,1
+2993,National Immunisation Program | SBS News,ORG,1
+2994,"5,368",CARDINAL,1
+2995,up to,QUANTITY,1
+2996,15 billion,CARDINAL,1
+2997,Hyde Park,GPE,1
+2998,the Millions March Against Mandatory Covid Vaccination,EVENT,1
+2999,250,MONEY,1
+3000,only 20,CARDINAL,1
+3001,Vic,GPE,1
+3002,almost 80 per cent,MONEY,1
+3003,ABC News Close to 80,ORG,1
+3004,The US FBI,ORG,1
+3005,JUST a few days ago,DATE,1
+3006,Jordan DeRosier,PERSON,1
+3007,Justin,ORG,1
+3008,seven-month-old,DATE,1
+3009,Sloan,PERSON,1
+3010,Fundstrat,PERSON,1
+3011,Tom Lee,PERSON,1
+3012,Novak Djokovic's,ORG,1
+3013,ABC News Tennis Australia's,WORK_OF_ART,1
+3014,85-year-old,DATE,1
+3015,Peruvian,NORP,1
+3016,"68,124",CARDINAL,1
+3017,New York Times,ORG,1
+3018,late November,DATE,1
+3019,Hackers,ORG,1
+3020,late last year,DATE,1
+3021,The West Australian Safety,GPE,1
+3022,Late yesterday,DATE,1
+3023,Sydney van,PERSON,1
+3024,Ivan Korcok,PERSON,1
+3025,an extra hour,TIME,1
+3026,Melbourne’s Doherty Institute,ORG,1
+3027,Gladys Berejikian,PERSON,1
+3028,Vaccine Eligibility Checker,WORK_OF_ART,1
+3029,Maria Glover,PERSON,1
+3030,the Fair Work Commission,ORG,1
+3031,up to 10 years,DATE,1
+3032,BoQ Bank,ORG,1
+3033,George Frazis,PERSON,1
+3034,Travel,ORG,1
+3035,Asia-Pacific Biden’s,LOC,1
+3036,BioNtech,ORG,1
+3037,IATA,ORG,1
+3038,Daniel Foulds,PERSON,1
+3039,the first months,DATE,1
+3040,January 24,DATE,1
+3041,covid-19,PERSON,1
+3042,10th,ORDINAL,1
+3043,before end of 2021,DATE,1
+3044,Kristina Keneally,PERSON,1
+3045,The British Government,ORG,1
+3046,Parafield,PERSON,1
+3047,Angolan,GPE,1
+3048,Eritrean,NORP,1
+3049,Bio Farma,PERSON,1
+3050,the start of next year,DATE,1
+3051,Curtin University,ORG,1
+3052,$4m,MONEY,1
+3053,$4 million,MONEY,1
+3054,election year,DATE,1
+3055,Michael Rowland’s,PERSON,1
+3056,Greg Hunt | Video,PERSON,1
+3057,1.4 billion,CARDINAL,1
+3058,More than 1 million,CARDINAL,1
+3059,Queenslanders,ORG,1
+3060,a bad flu season,DATE,1
+3061,five-year,DATE,1
+3062,this time of year,DATE,1
+3063,Steve Hocking,PERSON,1
+3064,ABC News Soon,WORK_OF_ART,1
+3065,Australia Queensland,GPE,1
+3066,US Government's,ORG,1
+3067,The US Government's,ORG,1
+3068,Qatar,GPE,1
+3069,Older Queenslanders,PERSON,1
+3070,Queenslanders,GPE,1
+3071,10:30pm,TIME,1
+3072,Late last night,TIME,1
+3073,just hours,TIME,1
+3074,11:59pm last night,TIME,1
+3075,February 16,DATE,1
+3076,99.6,CARDINAL,1
+3077,' week,DATE,1
+3078,Outside Parliament House,ORG,1
+3079,Dominic Lorrimer,PERSON,1
+3080,ABC News Federal Health,ORG,1
+3081,Knightsbridge Circle,ORG,1
+3082,"25,000",MONEY,1
+3083,"44,054",MONEY,1
+3084,August 11,DATE,1
+3085,Daniel Andrews',PERSON,1
+3086,331,CARDINAL,1
+3087,"August 11, 2020",DATE,1
+3088,Platinum Asset Management,ORG,1
+3089,More than 160 million,CARDINAL,1
+3090,the past eight years,DATE,1
+3091,Somalian,NORP,1
+3092,"some 360,000",CARDINAL,1
+3093,Sao Paulo's,GPE,1
+3094,"March 26, 2021",DATE,1
+3095,Flood,NORP,1
+3096,"March 26, 2021 - Stay",DATE,1
+3097,Pakistan A,FAC,1
+3098,ABC News There's,ORG,1
+3099,more than 450 million,CARDINAL,1
+3100,Linton Besser,PERSON,1
+3101,94.5,CARDINAL,1
+3102,Brendan Crabb,PERSON,1
+3103,half million,CARDINAL,1
+3104,Pfizer,ORG,1
+3105,$20 billion,MONEY,1
+3106,about $US15 billion,MONEY,1
+3107,$A19.65 billion,MONEY,1
+3108,more than $450,MONEY,1
+3109,Scott Mor,PERSON,1
+3110,CEPI,ORG,1
+3111,up to 100 million,MONEY,1
+3112,their thirties,DATE,1
+3113,Olympics 2021,DATE,1
+3114,Paralympians,NORP,1
+3115,75th,ORDINAL,1
+3116,960,CARDINAL,1
+3117,Club Noble,ORG,1
+3118,Melbourne Grand Hyatt,ORG,1
+3119,late-night,TIME,1
+3120,75%,PERCENT,1
+3121,Steve Dickson,PERSON,1
+3122,ABC News Families,ORG,1
+3123,The West Australian Almost,LOC,1
+3124,an additional $1.1 billion,MONEY,1
+3125,December 31,DATE,1
+3126,Kardinia Capital,ORG,1
+3127,’ season,DATE,1
+3128,Nucleus Network Testing,ORG,1
+3129,Tokyo Games Olympic,EVENT,1
+3130,"up to 100,000",CARDINAL,1
+3131,20th,ORDINAL,1
+3132,Century Fox,PERSON,1
+3133,more than 94,CARDINAL,1
+3134,More than 3500,CARDINAL,1
+3135,the 19th straight day,DATE,1
+3136,Nowhere,ORG,1
+3137,ASIC,ORG,1
+3138,Industry Funds Management,ORG,1
+3139,Fragile,ORG,1
+3140,Govt,ORG,1
+3141,eight months,DATE,1
+3142,Kyriakos Mitsotakis,PERSON,1
+3143,Greek,NORP,1
+3144,the Sunday Times,ORG,1
+3145,January 1,DATE,1
+3146,Xinja,GPE,1
+3147,Aussie Home Loans,ORG,1
+3148,Lendi,PERSON,1
+3149,the middle of next year,DATE,1
+3150,Damien Purcell,PERSON,1
+3151,the Doherty Institute,ORG,1
+3152,Rochelle Walensky,PERSON,1
+3153,the San Diego Zoo,ORG,1
+3154,The West Australian WA’s,GPE,1
+3155,the New South Wales,ORG,1
+3156,Rubella-Measles,ORG,1
+3157,Immunised Tasmanian,ORG,1
+3158,The United Kingdom's,GPE,1
+3159,Almost 700,CARDINAL,1
+3160,Central Africa,GPE,1
+3161,the Democratic Republic of the,GPE,1
+3162,as many as 60 million,CARDINAL,1
+3163,as little as nine months,DATE,1
+3164,a quarter,DATE,1
+3165,Larisa Labzin,PERSON,1
+3166,Institute for Molecular Bioscience,ORG,1
+3167,Christopher Joye,PERSON,1
+3168,World Health Organization's,ORG,1
+3169,B.,ORG,1
+3170,One year,DATE,1
+3171,Gladys Berejiklian’s,GPE,1
+3172,Joko Widodo,ORG,1
+3173,the Indonesian Government,ORG,1
+3174,Yuan,ORG,1
+3175,Biden’s,ORG,1
+3176,recent months,DATE,1
+3177,Deborah Gleeson,PERSON,1
+3178,James Thomson,PERSON,1
+3179,Alert,PERSON,1
+3180,Breaking News,ORG,1
+3181,"August 12, 2020 - Stay",DATE,1
+3182,the Gold Coast's,LOC,1
+3183,RAH,ORG,1
+3184,Alpacas,NORP,1
+3185,Army,ORG,1
+3186,Hunter,PERSON,1
+3187,September — months ahead,DATE,1
+3188,ABC News Trials of CSL,ORG,1
+3189,"more than 3,000",CARDINAL,1
+3190,the Human Vaccines Project,ORG,1
+3191,1b,MONEY,1
+3192,November 1,DATE,1
+3193,"March 23, 2021",DATE,1
+3194,Supermarkets,ORG,1
+3195,"March 23, 2021 - Stay",DATE,1
+3196,ABC News Samoa's,ORG,1
+3197,53,CARDINAL,1
+3198,The West Australian Federal Health,ORG,1
+3199,Deloitte Australia,ORG,1
+3200,Richard Deutsch,PERSON,1
+3201,$1.2 billion,MONEY,1
+3202,Royal Commission,ORG,1
+3203,Crown Victoria,PERSON,1
+3204,Crown Royal Commission,ORG,1
+3205,Commonwealth Bank,ORG,1
+3206,Matt Comyn,PERSON,1
+3207,mosquito-borne,QUANTITY,1
+3208,Facebook - ABC News,ORG,1
+3209,Jessica Kaufman,PERSON,1
+3210,Margie Danchin,PERSON,1
+3211,Ten years,DATE,1
+3212,the first three months of 2019,DATE,1
+3213,previous years,DATE,1
+3214,Assisi,GPE,1
+3215,years’,DATE,1
+3216,Reserve Bank Australia’s Reserve Bank,ORG,1
+3217,CSL Biotechnology,ORG,1
+3218,Brazilian Oxford-AstraZeneca,PERSON,1
+3219,Omar Khorsid,PERSON,1
+3220,Benjamin Netanyahu,PERSON,1
+3221,Syria Forget,ORG,1
+3222,West Australian Letters,NORP,1
+3223,Australia Flu,GPE,1
+3224,ABC News Hotel,ORG,1
+3225,"more than 300,000",CARDINAL,1
+3226,Great,PERSON,1
+3227,$US1.4 billion,MONEY,1
+3228,"$US1,379 million",MONEY,1
+3229,Novartis,PRODUCT,1
+3230,Older Tasmanians,PERSON,1
+3231,Ambrose Evans-Pritchard,PERSON,1
+3232,2030,DATE,1
+3233,nearly $US9 billion,MONEY,1
+3234,$12 billion,MONEY,1
+3235,this winter,DATE,1
+3236,up to a decade,DATE,1
+3237,The West Australian Research,ORG,1
+3238,Tedros,PERSON,1
+3239,nearly 50,CARDINAL,1
+3240,the Centers for Disease Control and Prevention,ORG,1
+3241,six to nine months,DATE,1
+3242,under age 65,DATE,1
+3243,Emmanuel,PERSON,1
+3244,L1 Capital,ORG,1
+3245,Mark Landau,PERSON,1
+3246,May 21,DATE,1
+3247,AP - China,ORG,1
+3248,Therapeutic Goods Association,ORG,1
+3249,Dodgy,ORG,1
+3250,Albany,GPE,1
+3251,Tasmania - ABC News Albany,ORG,1
+3252,Lloyd Dunham,PERSON,1
+3253,"March 19, 2021",DATE,1
+3254,"March 18, 2021 - Stay",DATE,1
+3255,"January 29, 2021",DATE,1
+3256,January 27 2021,DATE,1
+3257,Vicinity,GPE,1
+3258,Westfield,LOC,1
+3259,Vicinity,ORG,1
+3260,Sputnik V Russia,ORG,1
+3261,Robert Litan,PERSON,1
+3262,the Brookings Institution,ORG,1
+3263,US1000,MONEY,1
+3264,PM Latest,PERSON,1
+3265,$US275 million,MONEY,1
+3266,$376.1 million,MONEY,1
+3267,Proof,PERSON,1
+3268,the Australian Council of Trade Unions,ORG,1
+3269,Central,ORG,1
+3270,Eighty,CARDINAL,1
+3271,Brunswick North West Primary,ORG,1
+3272,More than a quarter,DATE,1
+3273,$27.5m,MONEY,1
+3274,recent days,DATE,1
+3275,Peter Law,PERSON,1
+3276,JobKeeper for WA,ORG,1
+3277,"More than 20,000",CARDINAL,1
+3278,Tapeworm,PERSON,1
+3279,less than 24 hours' -,TIME,1
+3280,"more than 292,000",CARDINAL,1
+3281,last 2 years,DATE,1
+3282,Minnesota,GPE,1
+3283,No Jab No Pay requires,LAW,1
+3284,the University of Oxford’s,ORG,1
+3285,vaccinate millions,CARDINAL,1
+3286,more than 4000,CARDINAL,1
+3287,at least the next fortnight or so,DATE,1
+3288,Bankstown Hospital,ORG,1
+3289,280,CARDINAL,1
+3290,"over 550,000",CARDINAL,1
+3291,Nick Coatswo,PERSON,1
+3292,16 years of age and older,DATE,1
+3293,at least 21 days,DATE,1
+3294,The West Australian Billions of dollars,GPE,1
+3295,60,DATE,1
+3296,TWO years ago,DATE,1
+3297,Rachel Heap,PERSON,1
+3298,late July - 9News,DATE,1
+3299,late July,DATE,1
+3300,ABC News Germany,ORG,1
+3301,Oxford-AstraZeneca’s,ORG,1
+3302,Reddit,NORP,1
+3303,ABC News Taking,ORG,1
+3304,Healthy Mum,PERSON,1
+3305,Kassidi Kurill,PERSON,1
+3306,39-year-old,DATE,1
+3307,Modern,ORG,1
+3308,four days earlier,DATE,1
+3309,Comparing,ORG,1
+3310,Recce,ORG,1
+3311,Quirks,NORP,1
+3312,Bentley,ORG,1
+3313,UN Summit,ORG,1
+3314,First West Australians,EVENT,1
+3315,the Hyatt Regency,ORG,1
+3316,almost three,CARDINAL,1
+3317,AUSMAT,ORG,1
+3318,Papua New Guinea's,GPE,1
+3319,$US112 million,MONEY,1
+3320,ABC News Luggage,ORG,1
+3321,winter season,DATE,1
+3322,US Election,ORG,1
+3323,The Australian Security Intelligence Organisation,ORG,1
+3324,15 months,DATE,1
+3325,Therapeutic Goods Administration -,ORG,1
+3326,79pc,ORDINAL,1
+3327,the Australian Defence Force,ORG,1
+3328,anti-Trump,PERSON,1
+3329,Peter Collignon,PERSON,1
+3330,deliver million,CARDINAL,1
+3331,Adelaide's Women's and,ORG,1
+3332,24 hours',TIME,1
+3333,Middle East,LOC,1
+3334,the 11th day in a row,DATE,1
+3335,Baby’s,ORG,1
+3336,Geraldton,PERSON,1
+3337,Nature,WORK_OF_ART,1
+3338,more than 26 million,CARDINAL,1
+3339,his first three weeks,DATE,1
+3340,State of Origin,ORG,1
+3341,first week,DATE,1
+3342,NSW South Coast,LOC,1
+3343,"94,000",CARDINAL,1
+3344,billion,CARDINAL,1
+3345,Killer Flu,PERSON,1
+3346,10 year,DATE,1
+3347,Hawthorn,PERSON,1
+3348,Toddler,ORG,1
+3349,| SBS News Parents,ORG,1
+3350,| SBS News Efforts,ORG,1
+3351,Perth,PRODUCT,1
+3352,Morrison’s,ORG,1
+3353,Nikolai Petrovsky,PERSON,1
+3354,13 years ago,DATE,1
+3355,Queensland ‘,PERSON,1
+3356,May 31,DATE,1
+3357,Nature Medicine,ORG,1
+3358,2015,DATE,1
+3359,The State Government,ORG,1
+3360,about $120,MONEY,1
+3361,a quarter million,CARDINAL,1
+3362,December 21,DATE,1
+3363,AFL Indigenous,GPE,1
+3364,Nova Peris,PERSON,1
+3365,Footy Classified,PRODUCT,1
+3366,the AFL’s Indigenous,ORG,1
+3367,$12.5 billion,MONEY,1
+3368,CBD’s,ORG,1
+3369,Hedy Damari,PERSON,1
+3370,first half,DATE,1
+3371,Richard Vincent,PERSON,1
+3372,the second-half,DATE,1
+3373,’ Over a million,MONEY,1
+3374,"nearly 300,000",CARDINAL,1
+3375,Brendan Murphy ',PERSON,1
+3376,"Nearly 160,000",CARDINAL,1
+3377,early April,DATE,1
+3378,Access,PRODUCT,1
+3379,19th,ORDINAL,1
+3380,Sputnik-V,ORG,1
+3381,City,GPE,1
+3382,DFAT,ORG,1
+3383,$24 million,MONEY,1
+3384,the end of next month,DATE,1
+3385,134 million,CARDINAL,1
+3386,Australia A,ORG,1
+3387,at least two months,DATE,1
+3388,Jessica Breheny,PERSON,1
+3389,Joondalup Health Campus,ORG,1
+3390,Carmel Johnston,PERSON,1
+3391,COVID-19 Security,ORG,1
+3392,century-old,DATE,1
+3393,more than 140,CARDINAL,1
+3394,$US34 million,MONEY,1
+3395,$A44.14 million,MONEY,1
+3396,the National Institutes of Health,ORG,1
+3397,$US47 million,MONEY,1
+3398,the Biomedical Advanced Research and Development Authority,ORG,1
+3399,Sinopharm COVID,ORG,1
+3400,Brunswick North West Primary,FAC,1
+3401,up to a quarter,DATE,1
+3402,Adam Kamradt-Scott,PERSON,1
+3403,Tom Westbrook,PERSON,1
+3404,Nucleus Network Human,ORG,1
+3405,the spring,DATE,1
+3406,Radio Australia's,ORG,1
+3407,a day earlier,DATE,1
+3408,85 year-old,DATE,1
+3409,only one-sixth,CARDINAL,1
+3410,Harrisdale,PERSON,1
+3411,AZD1222,FAC,1
+3412,John Piesse,PERSON,1
+3413,Sunshine State,GPE,1
+3414,As many as 30,CARDINAL,1
+3415,Kevin Rudd Scott Morrison,PERSON,1
+3416,March The first UK,DATE,1
+3417,at least March,DATE,1
+3418,Media,ORG,1
+3419,as early as this month,DATE,1
+3420,Michael Caine,PERSON,1
+3421,Elton John,PERSON,1
+3422,Territorians,NORP,1
+3423,about 14.5 million,CARDINAL,1
+3424,Blocking Australia’s,ORG,1
+3425,about three weeks,DATE,1
+3426,Delayed Pfizer,PERSON,1
+3427,Chris Whitty Virus,PERSON,1
+3428,ABC News A Brisbane,ORG,1
+3429,94.9 per cent,MONEY,1
+3430,five-year-olds,DATE,1
+3431,Insecure,NORP,1
+3432,the 1940s,DATE,1
+3433,"19,357",CARDINAL,1
+3434,January AstraZeneca,DATE,1
+3435,hundreds of millions,MONEY,1
+3436,a good week,DATE,1
+3437,weeks’,DATE,1
+3438,Tas,PERSON,1
+3439,under 21,DATE,1
+3440,Australia Overseas,GPE,1
+3441,Last week’s,DATE,1
+3442,Brookings,GPE,1
+3443,Koala,GPE,1
+3444,JUST a year,DATE,1
+3445,the Queensland Government,ORG,1
+3446,Health Canada,ORG,1
+3447,The West Australian Disneyland,LOC,1
+3448,Orange County,GPE,1
+3449,Gillard,ORG,1
+3450,The European Union’s,ORG,1
+3451,MORE than half,CARDINAL,1
+3452,the start of last year,DATE,1
+3453,200 years,DATE,1
+3454,Nearly half,CARDINAL,1
+3455,"February 26, 2021",DATE,1
+3456,Remains,PERSON,1
+3457,Melissa Caddick,PERSON,1
+3458,February 26 2021 - Stay,DATE,1
+3459,year-end,DATE,1
+3460,AIHW,ORG,1
+3461,SYDNEY,GPE,1
+3462,Microchips,ORG,1
+3463,nearly half a billion dollars,QUANTITY,1
+3464,Nearly one million,CARDINAL,1
+3465,almost nine,CARDINAL,1
+3466,94.5 percent,PERCENT,1
+3467,Royal Prince Alfred Hospital’s,ORG,1
+3468,Rob Harris,PERSON,1
+3469,Michelle Pfeiffer,PERSON,1
+3470,Celebrities,ORG,1
+3471,three or four months,DATE,1
+3472,Soumya Swaminathan,PERSON,1
+3473,One-third,CARDINAL,1
+3474,the next two weeks,DATE,1
+3475,Acropolis,NORP,1
+3476,Heavy,ORG,1
+3477,Acropolis,PERSON,1
+3478,4-month,DATE,1
+3479,March 6,DATE,1
+3480,75,MONEY,1
+3481,under 35,DATE,1
+3482,1000,DATE,1
+3483,South China Sea,LOC,1
+3484,The West Australian ‘,GPE,1
+3485,Crossing,ORG,1
+3486,Nationalism,NORP,1
+3487,Federal Budget,ORG,1
+3488,More than 100 million,CARDINAL,1
+3489,2a,CARDINAL,1
+3490,May this year,DATE,1
+3491,HealthCare Australia,ORG,1
+3492,only a week,DATE,1
+3493,last year’s,DATE,1
+3494,$1 million,MONEY,1
+3495,Facebook’s,ORG,1
+3496,the start of the year,DATE,1
+3497,77,CARDINAL,1
+3498,1994,DATE,1
+3499,| SBS News Those,ORG,1
+3500,A$24m,MONEY,1
+3501,$660 million,MONEY,1
+3502,Annastacia,PERSON,1
+3503,2011,DATE,1
+3504,12 million,CARDINAL,1
+3505,the Northern Hemisphere,LOC,1
+3506,Debra Graves,PERSON,1
+3507,Lawrie Bott,PERSON,1
+3508,Norway Deaths,PERSON,1
+3509,’ Health Department,ORG,1
+3510,1000,MONEY,1
+3511,Routine,ORG,1
+3512,GP,ORG,1
+3513,91.6 per cent,MONEY,1
+3514,almost 92 per cent,MONEY,1
+3515,The United Nations,ORG,1
+3516,Laura Tingle,PERSON,1
+3517,Martin Pakula,PERSON,1
+3518,two week,DATE,1
+3519,Australian Open,EVENT,1
+3520,one to two weeks,DATE,1
+3521,Pauline Hanson's,PERSON,1
+3522,Nick Coatsworth Dr,PERSON,1
+3523,Niterói,PERSON,1
+3524,Marco Cavaleri,PERSON,1
+3525,International Olympic Committee,ORG,1
+3526,John Coates,PERSON,1
+3527,more than a billion,MONEY,1
+3528,D614G,ORG,1
+3529,Doug Emhoff,PERSON,1
+3530,Chikungunya,ORG,1
+3531,the University of Queensland-CSL,ORG,1
+3532,The Johnson & Johnson,ORG,1
+3533,AstraZeneca Oxford’s,ORG,1
+3534,Hundreds of thousands,CARDINAL,1
+3535,Twenty-five,CARDINAL,1
+3536,11.5,CARDINAL,1
+3537,Sydney,ORG,1
+3538,"More than 12,000",CARDINAL,1
+3539,Less than 30,CARDINAL,1
+3540,at least 50,CARDINAL,1
+3541,Pfizer BioNTech COVID,ORG,1
+3542,South Korea',GPE,1
+3543,about zero,CARDINAL,1
+3544,Jacinda Ardern's,PERSON,1
+3545,Winston Peters,PERSON,1
+3546,Victoria Formula One,LOC,1
+3547,Lewis Hamilton,PERSON,1
+3548,NYE,ORG,1
+3549,TOUGHER,ORG,1
+3550,at least 40,CARDINAL,1
+3551,Andrews,PERSON,1
+3552,0.6 per cent,MONEY,1
+3553,the end of 2019,DATE,1
+3554,Riann Karan,PERSON,1
+3555,Sydney Nine,FAC,1
+3556,$US1 billion,MONEY,1
+3557,Conservative MP Nadhim Zahawi,ORG,1
+3558,around 5000,CARDINAL,1
+3559,Pfizer-BioNTech's,PERSON,1
+3560,The Top Reasons People Don't Get the Flu Vaccination,WORK_OF_ART,1
+3561,about 5,CARDINAL,1
+3562,South Australia&rsquo;s State Government,ORG,1
+3563,Sputnik V Top US,ORG,1
+3564,Almost six weeks,DATE,1
+3565,Omar Khorshid,PERSON,1
+3566,B.117,ORG,1
+3567,ACCC,ORG,1
+3568,Scamwatch,ORG,1
+3569,CCTV,ORG,1
+3570,Tokyo Olympic Games 2021,EVENT,1
+3571,"More than 11,000",CARDINAL,1
+3572,"11,000",CARDINAL,1
+3573,"almost 9,000",CARDINAL,1
+3574,G-20,PRODUCT,1
+3575,Anthony,PERSON,1
+3576,Kate Golle,PERSON,1
+3577,31,MONEY,1
+3578,days later,DATE,1
+3579,Oren,PERSON,1
+3580,US FDA,ORG,1
+3581,The West Australian WA Health,GPE,1
+3582,Melissa Purcell,PERSON,1
+3583,66 million,CARDINAL,1
+3584,$66 million,MONEY,1
+3585,Cancellation of University of Queensland's,ORG,1
+3586,Moderna Phase,ORG,1
+3587,18-55,DATE,1
+3588,Sydney Airport State,FAC,1
+3589,$145.6 million,MONEY,1
+3590,Fauci | SBS News,PERSON,1
+3591,five-month,DATE,1
+3592,Ms Hanson,GPE,1
+3593,92,CARDINAL,1
+3594,The Norwegian Medicines Agency,ORG,1
+3595,the age of 80,DATE,1
+3596,ABC News Indigenous,ORG,1
+3597,Vic Gay,PERSON,1
+3598,WAG,ORG,1
+3599,NovaVax,ORG,1
+3600,BigPharma,PRODUCT,1
+3601,WTO,ORG,1
+3602,Nigerian-American,NORP,1
+3603,Ngozi Okonjo-Iweala,PERSON,1
+3604,March 1,DATE,1
+3605,the US Department of Health and Human Services,ORG,1
+3606,almost a third,CARDINAL,1
+3607,COVID,DATE,1
+3608,the first two days,DATE,1
+3609,more than 240,CARDINAL,1
+3610,Digital,ORG,1
+3611,last months,DATE,1
+3612,| SBS News Samoa,ORG,1
+3613,almost 20 minutes,TIME,1
+3614,Manly,ORG,1
+3615,Killara,GPE,1
+3616,Palm Beach,GPE,1
+3617,the last year,DATE,1
+3618,Healthcare Australia ‘,ORG,1
+3619,94.5pc,CARDINAL,1
+3620,the next few months,DATE,1
+3621,90,DATE,1
+3622,Australia - Coronacast - ABC Radio,ORG,1
+3623,only 50 percent,PERCENT,1
+3624,WE’RE,PERSON,1
+3625,65s first,DATE,1
+3626,"53,000",CARDINAL,1
+3627,ABC News Cases,ORG,1
+3628,nearly one-quarter,CARDINAL,1
+3629,more than 83 million,CARDINAL,1
+3630,26b,MONEY,1
+3631,Michael Good,PERSON,1
+3632,"April 9, 2020",DATE,1
+3633,Mr Hunt,PERSON,1
+3634,85 per cent,MONEY,1
+3635,Wrestling,GPE,1
+3636,EU’s,ORG,1
+3637,Pete Evans' Instagram,PERSON,1
+3638,The West Australian Concerns,GPE,1
+3639,South Australia&#x27;s Riverland,LOC,1
+3640,"14,000",CARDINAL,1
+3641,Scammers,PRODUCT,1
+3642,Pauline Hanson’s,PERSON,1
+3643,DOCTORS,ORG,1
+3644,the Melbourne Cup,EVENT,1
+3645,late October,DATE,1
+3646,Steven Kennedy,PERSON,1
+3647,ABC News Even,ORG,1
+3648,COVID-19 Sanitation,PRODUCT,1
+3649,Manish Kumar,PERSON,1
+3650,Narendra Modi,PERSON,1
+3651,six-month,DATE,1
+3652,up to six,CARDINAL,1
+3653,five year old,DATE,1
+3654,Graph,PERSON,1
+3655,Hunt,ORG,1
+3656,six million,CARDINAL,1
+3657,mid-May,DATE,1
+3658,3500,MONEY,1
+3659,6956,MONEY,1
+3660,the Health Ministry’s,ORG,1
+3661,Jill Margo,PERSON,1
+3662,SBS News Pharmaceutical,ORG,1
+3663,Robert Booy,PERSON,1
+3664,Brave Tahlea’s,PERSON,1
+3665,Waleed Aly,PERSON,1
+3666,Tuesday night’s,TIME,1
+3667,1.2pc,CARDINAL,1
+3668,Enthusiastic,NORP,1
+3669,The West Australian Dogs,GPE,1
+3670,Billionaire Microsoft,ORG,1
+3671,2015 season,DATE,1
+3672,Mesoblast,ORG,1
+3673,Last year,DATE,1
+3674,Super,ORG,1
+3675,Caribbean,LOC,1
+3676,Heartbroken,ORG,1
+3677,RRP,ORG,1
+3678,UQ COVID-19,ORG,1
+3679,96,CARDINAL,1
+3680,56,DATE,1
+3681,Older Australians,PERSON,1
+3682,eight month,DATE,1
+3683,Thirty seven,CARDINAL,1
+3684,Zika,GPE,1
+3685,a catastrophic year,DATE,1
+3686,| SBS News Along,ORG,1
+3687,Duterte,PERSON,1
+3688,"2,000",CARDINAL,1
+3689,"More than 400,000",CARDINAL,1
+3690,Rugby league,ORG,1
+3691,Airport,ORG,1
+3692,Please Explain Daily,ORG,1
+3693,the end of August,DATE,1
+3694,72pc,ORDINAL,1
+3695,72 per cent,MONEY,1
+3696,QLD COVID,ORG,1
+3697,Doctors,ORG,1
+3698,Australia Australia’s,ORG,1
+3699,"February 15, 2021",DATE,1
+3700,Prince Harry,PERSON,1
+3701,Meghan Markle,PERSON,1
+3702,ANZ,ORG,1
+3703,up to 10 years Last year,DATE,1
+3704,1127,DATE,1
+3705,around four,CARDINAL,1
+3706,Australia Anti,GPE,1
+3707,Moderna Inc.,ORG,1
+3708,The Centres for Disease Control and Prevention’s,ORG,1
+3709,Stomach,PERSON,1
+3710,the past day,DATE,1
+3711,about 89,CARDINAL,1
+3712,126,CARDINAL,1
+3713,this afternoon,TIME,1
+3714,National Vaccination Policy,ORG,1
+3715,Magellan,ORG,1
+3716,David Warner,PERSON,1
+3717,barely a week,DATE,1
+3718,54,CARDINAL,1
+3719,Coronas,ORG,1
+3720,next two years,DATE,1
+3721,Pete Evans's,PERSON,1
+3722,ABC News Celebrity,ORG,1
+3723,The West Australian’s AM,NORP,1
+3724,Sydney *,LOC,1
+3725,The West Australian Bullion,GPE,1
+3726,more than 3,CARDINAL,1
+3727,Next week's,DATE,1
+3728,more than 337 million,MONEY,1
+3729,Mond,PERSON,1
+3730,a tough few months,DATE,1
+3731,$1.5 billion,MONEY,1
+3732,ABC News Passengers,ORG,1
+3733,Qantas,NORP,1
+3734,Ken Milne,PERSON,1
+3735,Asia Australia,LOC,1
+3736,half a billion dollars,MONEY,1
+3737,84 million,CARDINAL,1
+3738,More than 84 million,CARDINAL,1
+3739,$50 million,MONEY,1
+3740,Breakthroughs,ORG,1
+3741,final quarter,DATE,1
+3742,its best month,DATE,1
+3743,Fred Bart,PERSON,1
+3744,Laurence Freedman,PERSON,1
+3745,Immunovative,ORG,1
+3746,Bart,ORG,1
+3747,Michael Har-Noy,PERSON,1
+3748,0.1 per cent,MONEY,1
+3749,"an estimated 191,000",CARDINAL,1
+3750,mRNA-1273,GPE,1
+3751,Europeans,NORP,1
+3752,More than half,CARDINAL,1
+3753,Perth,ORG,1
+3754,123,MONEY,1
+3755,Greg H,PERSON,1
+3756,Shanelle,PERSON,1
+3757,40s,DATE,1
+3758,More than 20 million,CARDINAL,1
+3759,almost four,CARDINAL,1
+3760,Nick Coatesworth,PERSON,1
+3761,Australia Day 2021,DATE,1
+3762,BBL AFL,ORG,1
+3763,Cricket Australia’s,ORG,1
+3764,US Army National Guard,ORG,1
+3765,Dale Steyn,PERSON,1
+3766,Sachin Tendulkar’s,ORG,1
+3767,ABC News Nurses,ORG,1
+3768,dozen,CARDINAL,1
+3769,Virginia Trioli,PERSON,1
+3770,Jerome Powell,PERSON,1
+3771,Nearly 1000,CARDINAL,1
+3772,Humanitarian,NORP,1
+3773,| SBS News Vaccinations,ORG,1
+3774,PfizerBioNtech,ORG,1
+3775,S Korea,GPE,1
+3776,South Korea's,GPE,1
+3777,40 days,DATE,1
+3778,several days,DATE,1
+3779,Mozambique,ORG,1
+3780,"nearly 900,000",CARDINAL,1
+3781,Cholera,ORG,1
+3782,Mozambique,NORP,1
+3783,the NSW Government's,ORG,1
+3784,Sydney Airport Sydney Airport,FAC,1
+3785,eight days,DATE,1
+3786,just eight days,DATE,1
+3787,GOLD Coast,LOC,1
+3788,World Health Assembly,ORG,1
+3789,Pifzer,PERSON,1
+3790,The United States',GPE,1
+3791,Gary,PERSON,1
+3792,The Royal Flying Doctor Service,ORG,1
+3793,Jennifer Duke,PERSON,1
+3794,Explainer First,PERSON,1
+3795,B.1.1.7,GPE,1
+3796,Bioverativ,PERSON,1
+3797,Earlier this week,DATE,1
+3798,Angry Anderson's,PERSON,1
+3799,Crack WHO,ORG,1
+3800,2.4b,MONEY,1
+3801,Holland,GPE,1
+3802,3000,MONEY,1
+3803,up to four days,DATE,1
+3804,James,PERSON,1
+3805,Finn,PERSON,1
+3806,Estelle,GPE,1
+3807,Alice,PERSON,1
+3808,Kevan Gosper,PERSON,1
+3809,nearly a year,DATE,1
+3810,"more than 2,400",CARDINAL,1
+3811,The West Australian Medics,ORG,1
+3812,23rd day,DATE,1
+3813,one overnight,TIME,1
+3814,Jacob Kagi,PERSON,1
+3815,6,MONEY,1
+3816,more than 80 million,CARDINAL,1
+3817,79,DATE,1
+3818,the Nobel Prize,WORK_OF_ART,1
+3819,Pfizer-BioTech,PERSON,1
+3820,Gulf,LOC,1
+3821,'day,DATE,1
+3822,Scott Morrison Trials,PERSON,1
+3823,Scott Morrison - ABC News,PERSON,1
+3824,European Medicines Agency's,ORG,1
+3825,Pauline Hanson Insiders,PERSON,1
+3826,ONE,CARDINAL,1
+3827,before end of month,DATE,1
+3828,"At least 80,000",CARDINAL,1
+3829,the end of next week,DATE,1
+3830,Nobel Prize,WORK_OF_ART,1
+3831,between 20 and 30,CARDINAL,1
+3832,Perth In Victoria,PERSON,1
+3833,US1900,MONEY,1
+3834,less than a third,CARDINAL,1
+3835,10.1,MONEY,1
+3836,More than 4500,CARDINAL,1
+3837,| SBS News Airlines,ORG,1
+3838,Astra Zeneca,PERSON,1
+3839,Banks,PERSON,1
+3840,"more than 830,000",CARDINAL,1
+3841,Trump's 'Operation Warp Speed',ORG,1
+3842,Concerns,NORP,1
+3843,Rick Sarre,PERSON,1
+3844,Sarah Moulds,PERSON,1
+3845,the end of January,DATE,1
+3846,"March 2, 2021",DATE,1
+3847,Michael Gudinski,PERSON,1
+3848,March 2 2021 - Stay,DATE,1
+3849,ABC News The University of Queensland,WORK_OF_ART,1
+3850,Fifty-five weeks,DATE,1
+3851,the past seven days,DATE,1
+3852,Kennedy Jr,PERSON,1
+3853,DC Marijuana Justice,ORG,1
+3854,before end of March,DATE,1
+3855,the first quarter,DATE,1
+3856,Queensland Health's,PERSON,1
+3857,Harrisburg,GPE,1
+3858,Tom Wolf's,PERSON,1
+3859,Cozy Bears,PERSON,1
+3860,Hidden Cobras,FAC,1
+3861,ABC News Cyber,ORG,1
+3862,National Health Performance Authority,ORG,1
+3863,The new year,DATE,1
+3864,Tracking Australia’s,ORG,1
+3865,first-week,DATE,1
+3866,Alan Kohler,PERSON,1
+3867,Miguel Angel Villarroya,PERSON,1
+3868,ABC News Leaders,ORG,1
+3869,National Health,ORG,1
+3870,Category,PRODUCT,1
+3871,$7.7m,MONEY,1
+3872,Camilla,ORG,1
+3873,third week,DATE,1
+3874,99-year-old,DATE,1
+3875,Ray,PERSON,1
+3876,around 300 million,CARDINAL,1
+3877,$230 million,MONEY,1
+3878,220,MONEY,1
+3879,Geelong,NORP,1
+3880,Rebecca Ashfield,PERSON,1
+3881,the age of 30,DATE,1
+3882,The Health Report,WORK_OF_ART,1
+3883,the European Union's,ORG,1
+3884,450 million,CARDINAL,1
+3885,almost 1.9 million,CARDINAL,1
+3886,the Great Depression,EVENT,1
+3887,Boris,PERSON,1
+3888,Hasan Gokal's,PERSON,1
+3889,Doubt,PERSON,1
+3890,| SBS News US Democratic,ORG,1
+3891,Child’s,ORG,1
+3892,the Royal Australian,ORG,1
+3893,New Zealand College,ORG,1
+3894,Obstetricians,NORP,1
+3895,Gynaecologists,ORG,1
+3896,two and a half years,DATE,1
+3897,ABC News Crowds,ORG,1
+3898,Vaxine,PERSON,1
+3899,Theranos,ORG,1
+3900,São Paulo,GPE,1
+3901,Andrei Kelin,PERSON,1
+3902,MyGov,PRODUCT,1
+3903,the Express Plus Medicare,ORG,1
+3904,28-year-old,DATE,1
+3905,AstraZenec,ORG,1
+3906,McEnany,PERSON,1
+3907,The White House,ORG,1
+3908,11 overnight,TIME,1
+3909,eight weeks old,DATE,1
+3910,quarterly,DATE,1
+3911,Washington’s,ORG,1
+3912,Moderna Therapeutics,PERSON,1
+3913,Lisa Jackson,PERSON,1
+3914,April 2019,DATE,1
+3915,Hawks,ORG,1
+3916,the world 11 months,DATE,1
+3917,just three months,DATE,1
+3918,Gold Coast -,LOC,1
+3919,Telstra,NORP,1
+3920,Telstra,ORG,1
+3921,four million,CARDINAL,1
+3922,Yukon Territory,ORG,1
+3923,Sophie Scott,PERSON,1
+3924,Kylie Quinn,PERSON,1
+3925,RMIT University,ORG,1
+3926,Michael Douglas,PERSON,1
+3927,Ginés González García,PERSON,1
+3928,the US National Institute of Allergy and Infectious Diseases,ORG,1
+3929,MenB,CARDINAL,1
+3930,Drugmakers GlaxoSmithKline,PERSON,1
+3931,Sanofi,ORG,1
+3932,"The West Australian Almost 40,000",GPE,1
+3933,Nanopatch,ORG,1
+3934,Labor’s,ORG,1
+3935,more than,CARDINAL,1
+3936,"February 4, 2021",DATE,1
+3937,Restrictions,ORG,1
+3938,VIC Latest news,ORG,1
+3939,February 4,DATE,1
+3940,ABC News Information,ORG,1
+3941,David Lipson,PERSON,1
+3942,Gerard Rennick,PERSON,1
+3943,PUSH,ORG,1
+3944,only 9000,CARDINAL,1
+3945,April 1,DATE,1
+3946,the Institute for Health Metrics and Evaluation,ORG,1
+3947,2.5 year,DATE,1
+3948,75 US cents,MONEY,1
+3949,Budapest,ORG,1
+3950,the next two months,DATE,1
+3951,at least 12 to 18 months,CARDINAL,1
+3952,Peter Larkins,PERSON,1
+3953,Clinics,ORG,1
+3954,SBS News Doses,ORG,1
+3955,this season,DATE,1
+3956,three to four months,DATE,1
+3957,The West Australian The WA Government,LOC,1
+3958,Medical Association,ORG,1
+3959,Shanelle Cartwright,PERSON,1
+3960,one week,DATE,1
+3961,"More than 250,000",CARDINAL,1
+3962,week-long,DATE,1
+3963,Scott Morrison’s ‘,PERSON,1
+3964,45,CARDINAL,1
+3965,SkyScanner Australians,ORG,1
+3966,Louisiana,GPE,1
+3967,Riley Nixon's,PERSON,1
+3968,Brisbane | SBS News Healthcare Australia's,ORG,1
+3969,Brian Pinker,PERSON,1
+3970,82-year-old,DATE,1
+3971,Henry Belot,PERSON,1
+3972,Alan Joyce’s ‘,PERSON,1
+3973,9 months,DATE,1
+3974,$3.7 billion,MONEY,1
+3975,2.1,CARDINAL,1
+3976,9.4 per cent,MONEY,1
+3977,the best week,DATE,1
+3978,December 2011,DATE,1
+3979,ABC News Crossbench,ORG,1
+3980,Pfizer-BioNTech,ORG,1
+3981,Plant City,GPE,1
+3982,ABC News National,ORG,1
+3983,The Victorian Government,ORG,1
+3984,70 to 80,CARDINAL,1
+3985,10 to 15,CARDINAL,1
+3986,"ABC News More than 800,000",WORK_OF_ART,1
+3987,Hudson,ORG,1
+3988,more than 1100,CARDINAL,1
+3989,1.3 million,CARDINAL,1
+3990,the next two or three months,DATE,1
+3991,COVID,ORG,1
+3992,The West Australian Sandgropers,ORG,1
+3993,a full year,DATE,1
+3994,The West Australian Nationals,ORG,1
+3995,just three days,DATE,1
+3996,Josh Johnston,PERSON,1
+3997,nine-year-old,DATE,1
+3998,the Financial Times,ORG,1
+3999,2.1pc,CARDINAL,1
+4000,"More than 30,000",CARDINAL,1
+4001,up to 100,CARDINAL,1
+4002,Meet Australia's,ORG,1
+4003,The Australian Financial Review Women of Influence Awards,ORG,1
+4004,Bank of England,ORG,1
+4005,BoE,ORG,1
+4006,sub-zero,CARDINAL,1
+4007,as many as one,CARDINAL,1
+4008,Adam Taylor,PERSON,1
+4009,Kieran Wong,PERSON,1
+4010,218,CARDINAL,1
+4011,"13,000",CARDINAL,1
+4012,first half of 2021,DATE,1
+4013,Ardern,ORG,1
+4014,ABC News One of,WORK_OF_ART,1
+4015,The Bill & Melinda Gates Foundation,ORG,1
+4016,an additional US$150 million,MONEY,1
+4017,"February 22, 2021",DATE,1
+4018,$1.3 billion,MONEY,1
+4019,USS Theodore Roosevelt,PRODUCT,1
+4020,Auckland Mayor,PERSON,1
+4021,Moody’s,ORG,1
+4022,ABC News Equestrian Australia,ORG,1
+4023,Zoetis,GPE,1
+4024,Michael Head,PERSON,1
+4025,34-year-old,DATE,1
+4026,Employer,ORG,1
+4027,Convention,ORG,1
+4028,27,MONEY,1
+4029,$2m,MONEY,1
+4030,$27.25 million,MONEY,1
+4031,the beginning of 2021,DATE,1
+4032,Childhood,ORG,1
+4033,Hawthorn,NORP,1
+4034,The Samoa Government,ORG,1
+4035,"more than 5,600",CARDINAL,1
+4036,March 15,DATE,1
+4037,Screen,ORG,1
+4038,"March 15, 2020",DATE,1
+4039,"around 3,000",CARDINAL,1
+4040,more than 17 million,CARDINAL,1
+4041,October this year,DATE,1
+4042,BioNTech,ORG,1
+4043,Expert,PERSON,1
+4044,STI,ORG,1
+4045,The Feed,WORK_OF_ART,1
+4046,$48 billion,MONEY,1
+4047,Less than 10,CARDINAL,1
+4048,Anthony Faucci,PERSON,1
+4049,Bryce Cartwright’s,PERSON,1
+4050,Garth Brennan,PERSON,1
+4051,pre-season,DATE,1
+4052,first year,DATE,1
+4053,Serum Institute,ORG,1
+4054,AFL The AFL,ORG,1
+4055,Bitcoin,PERSON,1
+4056,Penn,PERSON,1
+4057,3.5,MONEY,1
+4058,the Rural Doctors Association,ORG,1
+4059,Kyly Clarke,PERSON,1
+4060,Kelsey Lee,PERSON,1
+4061,TGA The Therapeutic Goods Administration,ORG,1
+4062,Sydney P,GPE,1
+4063,70k,MONEY,1
+4064,Mustang,PERSON,1
+4065,a few weeks earlier,DATE,1
+4066,WiseTech,ORG,1
+4067,Tech,ORG,1
+4068,Richard White,PERSON,1
+4069,The House of Representatives,ORG,1
+4070,Black Americans,NORP,1
+4071,Unity Hall Hotel Balmain,ORG,1
+4072,781,CARDINAL,1
+4073,Borders,ORG,1
+4074,pre-Christmas,DATE,1
+4075,the next month,DATE,1
+4076,Port Stephens,FAC,1
+4077,Queensland Parliament,ORG,1
+4078,the Queensland Parliament,ORG,1
+4079,Independent,ORG,1
+4080,a State Government,ORG,1
+4081,3.8M AstraZeneca,PRODUCT,1
+4082,more than three million,CARDINAL,1
+4083,20b,MONEY,1
+4084,the fourth quarter,DATE,1
+4085,more than two weeks,DATE,1
+4086,Harvard,ORG,1
+4087,Timothy Springer,PERSON,1
+4088,"17,000 per cent",MONEY,1
+4089,MCG,ORG,1
+4090,SCG Test,ORG,1
+4091,2b,MONEY,1
+4092,Archives,ORG,1
+4093,1961,DATE,1
+4094,‘four-in-one,DATE,1
+4095,RNC,ORG,1
+4096,Jacob Blake,PERSON,1
+4097,Headaches,ORG,1
+4098,InvoCare,ORG,1
+4099,Sonic,ORG,1
+4100,Primary,PERSON,1
+4101,Francis,PERSON,1
+4102,Vatican,ORG,1
+4103,1.5 billion,CARDINAL,1
+4104,Maitreyi Shivkumar,PERSON,1
+4105,the Federal Government - ABC News,ORG,1
+4106,the Australian Academy of Science,ORG,1
+4107,Gold Coast Titans,ORG,1
+4108,$83m,MONEY,1
+4109,DHL’s,ORG,1
+4110,Mohammed VI,PERSON,1
+4111,The Black Dog Institute,ORG,1
+4112,year-long,DATE,1
+4113,Two years ago,DATE,1
+4114,Sam,PERSON,1
+4115,the next few months',DATE,1
+4116,Brendan Murphy Health Department,ORG,1
+4117,Tiffany Dover,ORG,1
+4118,Ibuprofen,ORG,1
+4119,ABC News Communications,ORG,1
+4120,45 per cent,MONEY,1
+4121,"More than 800,000",CARDINAL,1
+4122,North,LOC,1
+4123,| SBS News Researchers at,ORG,1
+4124,Imperial College,ORG,1
+4125,At least one,CARDINAL,1
+4126,December 18,DATE,1
+4127,Latino,ORG,1
+4128,West Aussies,GPE,1
+4129,Discovery,PRODUCT,1
+4130,Samantha Hawley,PERSON,1
+4131,0.7pc,PERSON,1
+4132,1.8pc,ORG,1
+4133,A day,DATE,1
+4134,Western Australian,NORP,1
+4135,Australia Day,DATE,1
+4136,$2.46 trillion,MONEY,1
+4137,the Year,DATE,1
+4138,the International Society of Vaccines,ORG,1
+4139,SA Power,ORG,1
+4140,Family First,PRODUCT,1
+4141,Ordinary Americans,LAW,1
+4142,four months,DATE,1
+4143,the next two to three years,DATE,1
+4144,the US Government,ORG,1
+4145,Malawi,GPE,1
+4146,August 19,DATE,1
+4147,"August 19, 2020",DATE,1
+4148,"up to 400,000",CARDINAL,1
+4149,late December,DATE,1
+4150,Nagpur,ORG,1
+4151,Canada Mexican,NORP,1
+4152,Honduras,GPE,1
+4153,more than 2%,PERCENT,1
+4154,more than 2,CARDINAL,1
+4155,Nathan Bartlett,PERSON,1
+4156,the National Immunisati,ORG,1
+4157,the International Olympic Committee,ORG,1
+4158,Sydney airport,FAC,1
+4159,Victoria - ABC,GPE,1
+4160,the seventh month,DATE,1
+4161,RBA QE,ORG,1
+4162,ABC News Scientists,WORK_OF_ART,1
+4163,Synairgen,ORG,1
+4164,the National Institut,ORG,1
+4165,More than 50,CARDINAL,1
+4166,three-fold,QUANTITY,1
+4167,Kayleigh McEnany,PERSON,1
+4168,as many as 40 million,CARDINAL,1
+4169,ABC News Federal,ORG,1
+4170,Chinese Communist Party,ORG,1
+4171,Jessica Biel’s,PERSON,1
+4172,Hollywood,GPE,1
+4173,97,CARDINAL,1
+4174,"past 300,000",CARDINAL,1
+4175,the Chinese Foreign Ministry,ORG,1
+4176,Headache,ORG,1
+4177,Regrets,ORG,1
+4178,another $3 billion,MONEY,1
+4179,trillions of dollars,MONEY,1
+4180,election 2016,DATE,1
+4181,FOUR,CARDINAL,1
+4182,the Commonwealth of Australia,GPE,1
+4183,over half,CARDINAL,1
+4184,above $US2000,MONEY,1
+4185,Victoria South Australia,LOC,1
+4186,as early as Monday,DATE,1
+4187,Steve,PERSON,1
+4188,about a dozen,CARDINAL,1
+4189,Australian Primary Health Care Nurses Association,ORG,1
+4190,"more than 400,000",CARDINAL,1
+4191,every 38 seconds,TIME,1
+4192,Nearly a third,CARDINAL,1
+4193,only 50%,PERCENT,1
+4194,Adrian Hill,PERSON,1
+4195,African Americans,NORP,1
+4196,Holiday Inn Flinders Lane,ORG,1
+4197,109 million,CARDINAL,1
+4198,more than 2.4 million,CARDINAL,1
+4199,the end of,DATE,1
+4200,less than 50,CARDINAL,1
+4201,Ben Bramble,PERSON,1
+4202,Adrian Esterman,PERSON,1
+4203,Nine,ORG,1
+4204,Australian National University,ORG,1
+4205,More than 1,CARDINAL,1
+4206,Royal Adelaide Hospital Phase,ORG,1
+4207,between 1,DATE,1
+4208,almost 1 million,CARDINAL,1
+4209,Vatican,FAC,1
+4210,Australia Prisoners,GPE,1
+4211,Fatwa,ORG,1
+4212,SA’s,ORG,1
+4213,Royal Adelaide Hospital,ORG,1
+4214,the Supreme Court,ORG,1
+4215,2000,MONEY,1
+4216,Republicans,NORP,1
+4217,Peter Gutwein,PERSON,1
+4218,Soumya Swaminathan - ABC News Clinical,ORG,1
+4219,Perth Children’s Hospital,ORG,1
+4220,Fiona Stanley Hospital,ORG,1
+4221,Charles Gairdner,PERSON,1
+4222,The West Australian About 2000,GPE,1
+4223,Stanley Wang,PERSON,1
+4224,Syringes,ORG,1
+4225,the coming week,DATE,1
+4226,The Morrison Government,ORG,1
+4227,Federal H,ORG,1
+4228,PNG China,ORG,1
+4229,Iranian,NORP,1
+4230,some $9 billion,MONEY,1
+4231,up to eight months,DATE,1
+4232,"January 25, 2021",DATE,1
+4233,East coast,LOC,1
+4234,January 25 2021,DATE,1
+4235,Orthodox Jewish,NORP,1
+4236,3810,CARDINAL,1
+4237,the past 24 hours,TIME,1
+4238,the winter,DATE,1
+4239,Changsheng Bio-technology,PERSON,1
+4240,25-year-high,DATE,1
+4241,the Pfizer COVID vaccine first?,WORK_OF_ART,1
+4242,the days,DATE,1
+4243,Last week,DATE,1
+4244,90 percent,PERCENT,1
+4245,2020,CARDINAL,1
+4246,Joseph Tapine,PERSON,1
+4247,between 20 and 53,DATE,1
+4248,every year,DATE,1
+4249,up to $2350,MONEY,1
+4250,10-15 percent,PERCENT,1
+4251,Billionaire,PERSON,1
+4252,16-year-olds,DATE,1
+4253,QBE,ORG,1
+4254,Rupert Murdoch,PERSON,1
+4255,89-year-old,DATE,1
+4256,Solar,PRODUCT,1
+4257,New Guinea,GPE,1
+4258,Ok Tedi,PERSON,1
+4259,first Indigenous,ORG,1
+4260,Tanya Hosch,PERSON,1
+4261,$200 million,MONEY,1
+4262,Australias,NORP,1
+4263,94,DATE,1
+4264,99,DATE,1
+4265,ABC News Achieving,ORG,1
+4266,50 years,DATE,1
+4267,Sydneysiders,ORG,1
+4268,"24,000",CARDINAL,1
+4269,last Wednesday,DATE,1
+4270,Killer,PERSON,1
+4271,Last year's&nbsp;flu season,DATE,1
+4272,under 70,DATE,1
+4273,337,CARDINAL,1
+4274,The West Australian’s,NORP,1
+4275,Crown Perth’s,PERSON,1
+4276,The West Australian’s,GPE,1
+4277,over 100 years,DATE,1
+4278,Cumulus Inc - ABC,PERSON,1
+4279,Cumulus Inc,PERSON,1
+4280,the past three weeks,DATE,1
+4281,22 February,DATE,1
+4282,the Department of Health,ORG,1
+4283,Tony Blakely - Rolling,PERSON,1
+4284,"17,000",CARDINAL,1
+4285,Oslo,ORG,1
+4286,Coalition for Epidemic Preparedness Innovation,ORG,1
+4287,Six months,DATE,1
+4288,Toronto,GPE,1
+4289,The West Australian Health Department,GPE,1
+4290,"more than 5,000",CARDINAL,1
+4291,129,CARDINAL,1
+4292,123,CARDINAL,1
+4293,$849 million,MONEY,1
+4294,1995,DATE,1
+4295,Measles,PERSON,1
+4296,ACT Government,ORG,1
+4297,over 100,CARDINAL,1
+4298,next-day,DATE,1
+4299,ACT Health,ORG,1
+4300,September 11,DATE,1
+4301,US AFL,ORG,1
+4302,Port Adelaide,FAC,1
+4303,Venezuela,GPE,1
+4304,Sunday (March 28,DATE,1
+4305,a World Health Organisation-led,ORG,1
+4306,Oxford University Jenner Institute,ORG,1
+4307,Pfizer-BioNTech’s,ORG,1
+4308,"May, June this year",DATE,1
+4309,Sanofi,FAC,1
+4310,over 6 months,DATE,1
+4311,Nobel Peace Prize NSW Health,WORK_OF_ART,1
+4312,ABC News England,ORG,1
+4313,Biotechs,GPE,1
+4314,the National Press Club,ORG,1
+4315,Herald’s,ORG,1
+4316,ALDI,ORG,1
+4317,"above $US19,000",MONEY,1
+4318,the middle of February,DATE,1
+4319,more than 2000,CARDINAL,1
+4320,Porton Down,ORG,1
+4321,Wiltshire,GPE,1
+4322,the Centers for Diease Control and Prevention,ORG,1
+4323,the spring or summer of 2021,DATE,1
+4324,between six months and five years,DATE,1
+4325,New South,LOC,1
+4326,decade,DATE,1
+4327,'three weeks,DATE,1
+4328,four weeks',DATE,1
+4329,$50 billion,MONEY,1
+4330,Deloitte Access Economics,ORG,1
+4331,more than 50 million,CARDINAL,1
+4332,Berala,ORG,1
+4333,New Year's Eve,EVENT,1
+4334,last days,DATE,1
+4335,Catherine Hanrahan,PERSON,1
+4336,Moncef Slaoui,PERSON,1
+4337,as early as December,DATE,1
+4338,February 26,DATE,1
+4339,Defence,ORG,1
+4340,International Women's Day,ORG,1
+4341,the last three weeks,DATE,1
+4342,Disease X News,ORG,1
+4343,early winter,DATE,1
+4344,Macquarie,PERSON,1
+4345,ABC News Cervical,ORG,1
+4346,as early as next year,DATE,1
+4347,around February 22,DATE,1
+4348,"up to 10,000",CARDINAL,1
+4349,Scentre Group,ORG,1
+4350,ALS,ORG,1
+4351,the Australian Government's,ORG,1
+4352,the Scientific Advisory Group for Emergencies,ORG,1
+4353,the US Federal Reserve,ORG,1
+4354,Massachusetts,GPE,1
+4355,European Commission,ORG,1
+4356,at least mid-February,DATE,1
+4357,7.4 billion euros,MONEY,1
+4358,$A12.6 billion,MONEY,1
+4359,More than a million,CARDINAL,1
+4360,"almost 1,000",CARDINAL,1
+4361,Zeneca,NORP,1
+4362,Aspen Health,PERSON,1
+4363,The Federal Budget,ORG,1
+4364,the middle of 2021,DATE,1
+4365,Antonio Guterre,PERSON,1
+4366,many years,DATE,1
+4367,Greg Dyer,PERSON,1
+4368,the Australian Cricketers’ Association,ORG,1
+4369,ABC News Novavax,ORG,1
+4370,Allergic,ORG,1
+4371,every week,DATE,1
+4372,Astra-Oxford,ORG,1
+4373,the Serum Institute of India,ORG,1
+4374,Oracle,ORG,1
+4375,2.8b,MONEY,1
+4376,John Manolakakis,PERSON,1
+4377,Moderns,PERSON,1
+4378,a new school year,DATE,1
+4379,Cathy,PERSON,1
+4380,20 years,DATE,1
+4381,Andrew Wakefield,PERSON,1
+4382,Air N,ORG,1
+4383,April 15 2020,DATE,1
+4384,"April 15, 2020",DATE,1
+4385,an Independence Day,EVENT,1
+4386,Oxford University AstraZeneca,ORG,1
+4387,January 4,DATE,1
+4388,The University of Queensland’s,ORG,1
+4389,Samoa - World News - ABC News,ORG,1
+4390,ARL,ORG,1
+4391,1973,DATE,1
+4392,ABC News Using,ORG,1
+4393,the Catholic Church,ORG,1
+4394,before end of 2020,DATE,1
+4395,’ of PM,WORK_OF_ART,1
+4396,Leaders of the world,WORK_OF_ART,1
+4397,1.5 million,CARDINAL,1
+4398,every nine seconds,TIME,1
+4399,more than a million,CARDINAL,1
+4400,| SBS News World Health Organization (WHO,ORG,1
+4401,Scientist Soumya Swaminathan,PERSON,1
+4402,World Bank,ORG,1
+4403,The World Bank,ORG,1
+4404,early next year',DATE,1
+4405,Fesharaki,PERSON,1
+4406,about 2035,DATE,1
+4407,2050,DATE,1
+4408,15-minute,TIME,1
+4409,Sydneysiders,PERSON,1
+4410,5pm,TIME,1
+4411,third day,DATE,1
+4412,September quarter,DATE,1
+4413,two weeks earlier,DATE,1
+4414,ABC News Hindsight,WORK_OF_ART,1
+4415,20/20,PERSON,1
+4416,Olivier Véran,PERSON,1
+4417,the Republic of Congo,GPE,1
+4418,Chicago,GPE,1
+4419,C&K,ORG,1
+4420,ABC News Measles,ORG,1
+4421,US1.9,MONEY,1
+4422,ABC News Australia's,ORG,1
+4423,Department of Heath,ORG,1
+4424,"just 670,000",CARDINAL,1
+4425,3.3 million,CARDINAL,1
+4426,the The Sydney Morning Herald,FAC,1
+4427,Sadiq Khan,PERSON,1
+4428,only weeks,DATE,1
+4429,Murray Bridge,FAC,1
+4430,the Australian Government’s,ORG,1
+4431,Inn Melbourne Airport,PERSON,1
+4432,Young,PERSON,1
+4433,"more than 650,000",CARDINAL,1
+4434,Optimism,NORP,1
+4435,Andrew Stewart,PERSON,1
+4436,One Nation,ORG,1
+4437,ABC News The Centre for Disease Control,WORK_OF_ART,1
+4438,under a month,DATE,1
+4439,January 2021,DATE,1
+4440,Powell,PERSON,1
+4441,12%,PERCENT,1
+4442,Blood,PRODUCT,1
+4443,12 per cent,MONEY,1
+4444,Tens of millions,CARDINAL,1
+4445,ABC News Aged,ORG,1
+4446,Scott Morrison Facebook,PERSON,1
+4447,Lincoln,GPE,1
+4448,Nebraska,GPE,1
+4449,minus 35 degrees,QUANTITY,1
+4450,1978,DATE,1
+4451,about $US90 million,MONEY,1
+4452,$A116.68 million,MONEY,1
+4453,"460,000",CARDINAL,1
+4454,Somali,NORP,1
+4455,"more than 460,000",CARDINAL,1
+4456,618,CARDINAL,1
+4457,the beginning of May,DATE,1
+4458,"More than 60,000",CARDINAL,1
+4459,AMA West Australians,ORG,1
+4460,Hawaii,GPE,1
+4461,Hackers,PERSON,1
+4462,the US Justice Department,ORG,1
+4463,Johnson COVID-19,PERSON,1
+4464,Australia Italy,GPE,1
+4465,'month,DATE,1
+4466,'month',DATE,1
+4467,18 months - before,DATE,1
+4468,the fourth day in a row,DATE,1
+4469,Nev Power Businesses,ORG,1
+4470,Cargo,ORG,1
+4471,the Medicines Health Regulatory Authority,ORG,1
+4472,11 consecutive days,DATE,1
+4473,Declan Murphy,PERSON,1
+4474,Peter MacCallum Cancer Centre,ORG,1
+4475,"March 10, 2021",DATE,1
+4476,Porsche,ORG,1
+4477,Meghan,GPE,1
+4478,Harry interview Latest news,PERSON,1
+4479,"March 10, 2021 - Stay",DATE,1
+4480,Melbourne CBD,ORG,1
+4481,Docklands,LOC,1
+4482,Healthcare Australia’s,ORG,1
+4483,Queensland’s,ORG,1
+4484,Future Fund,ORG,1
+4485,Raphael Arndt,PERSON,1
+4486,roughly 2 million,CARDINAL,1
+4487,20 million US,MONEY,1
+4488,83 per cent,MONEY,1
+4489,PEE,ORG,1
+4490,11:59pm tonight,TIME,1
+4491,June 9th,DATE,1
+4492,9-12 month,DATE,1
+4493,Erdogan,PERSON,1
+4494,Tayyip Erdogan,PERSON,1
+4495,Albanese,NORP,1
+4496,106,CARDINAL,1
+4497,1914,DATE,1
+4498,Morley,GPE,1
+4499,1918-1920,DATE,1
+4500,Bangladesh,GPE,1
+4501,two-thirds,CARDINAL,1
+4502,Frydenberg,PERSON,1
+4503,Patrick Vallance,PERSON,1
+4504,under five years,DATE,1
+4505,between six months and five years old,DATE,1
+4506,Influenza,NORP,1
+4507,Jac Taylor,PERSON,1
+4508,Hydroxychloroquine,PERSON,1
+4509,full week,DATE,1
+4510,Pacific Island,LOC,1
+4511,$6 million,MONEY,1
+4512,| SBS News Federal Health,ORG,1
+4513,Cities,ORG,1
+4514,ABC News Chickenpox,ORG,1
+4515,Airline Ryanair,ORG,1
+4516,Ryanair,PERSON,1
+4517,Advertising Standards Agency,ORG,1
+4518,the Duchess of Sussex,ORG,1
+4519,Nearly two weeks,DATE,1
+4520,National Cabinet - ABC News Health,ORG,1
+4521,Massive $US100b,MONEY,1
+4522,Antonio Banderas,PERSON,1
+4523,60th,ORDINAL,1
+4524,Cuba,GPE,1
+4525,Zuby Malik,PERSON,1
+4526,78-year-old,DATE,1
+4527,Each year,DATE,1
+4528,the Soviet Union's,GPE,1
+4529,Cold War-era,EVENT,1
+4530,Western Sydney - ABC News,LOC,1
+4531,Liverpool,GPE,1
+4532,Karl Stefanovic,PERSON,1
+4533,Peter Dutton,PERSON,1
+4534,CSIRO Health and Biosecurity,ORG,1
+4535,just five weeks,DATE,1
+4536,Mastercard,ORG,1
+4537,"February 17, 2021",DATE,1
+4538,next three weeks,DATE,1
+4539,Barty,CARDINAL,1
+4540,February 17,DATE,1
+4541,UTS,GPE,1
+4542,John Wardle,PERSON,1
+4543,three years',DATE,1
+4544,Keith Chappell,PERSON,1
+4545,Group Aussies,ORG,1
+4546,"February 3, 2021",DATE,1
+4547,Jeff Bezos,PERSON,1
+4548,Tom Moore,PERSON,1
+4549,February 3 2020,DATE,1
+4550,"166,000",CARDINAL,1
+4551,Deaths,PERSON,1
+4552,400,CARDINAL,1
+4553,The Vaccine Alliance,ORG,1
+4554,the end of the summer,DATE,1
+4555,| SBS News Doctors,ORG,1
+4556,1A,CARDINAL,1
+4557,ABC News Vets,ORG,1
+4558,Qld COVID,PERSON,1
+4559,past 24 hours,TIME,1
+4560,Oxford University - ABC,ORG,1
+4561,180,CARDINAL,1
+4562,Transurban,ORG,1
+4563,Scott Charlton,PERSON,1
+4564,111,MONEY,1
+4565,the Torres Strait,LOC,1
+4566,Southeast Asian,NORP,1
+4567,an additional $500 million,MONEY,1
+4568,Samantha Maiden,PERSON,1
+4569,Cheng,PERSON,1
+4570,the year’,DATE,1
+4571,Trades Hall,ORG,1
+4572,a rocky 2021,DATE,1
+4573,the age of six months,DATE,1
+4574,2017 flu season,DATE,1
+4575,"January 26, 2021",DATE,1
+4576,Heatwave,NORP,1
+4577,Year,DATE,1
+4578,January 26 2021,DATE,1
+4579,Zweli Mkhize,PERSON,1
+4580,Fifth,ORDINAL,1
+4581,the past five weeks,DATE,1
+4582,URW,ORG,1
+4583,44pc,DATE,1
+4584,8pc,ORDINAL,1
+4585,March 5,DATE,1
+4586,Unibail-Rodamco-Westfield,PERSON,1
+4587,43.6 per cent,MONEY,1
+4588,more than $50 billion,MONEY,1
+4589,J&J’s,ORG,1
+4590,18,DATE,1
+4591,Kitty Flanagan,PERSON,1
+4592,century,DATE,1
+4593,Space Race,WORK_OF_ART,1
+4594,Mark Riley,PERSON,1
+4595,at least two years,DATE,1
+4596,95 percent,PERCENT,1
+4597,4000,MONEY,1
+4598,140,CARDINAL,1
+4599,last day,DATE,1
+4600,| SBS News Samoa's,ORG,1
+4601,Two million,CARDINAL,1
+4602,More than a quarter of older,DATE,1
+4603,29th,DATE,1
+4604,29th,ORDINAL,1
+4605,Gladys Berejiklia,PERSON,1
+4606,85,CARDINAL,1
+4607,Victoria’s,ORG,1
+4608,the next eight weeks,DATE,1
+4609,the Serum Institute,ORG,1
+4610,the UK two days,DATE,1
+4611,Robert Kennedy,PERSON,1
+4612,COVID-19 The,PRODUCT,1
+4613,July 21,DATE,1
+4614,Victoria Latest,GPE,1
+4615,"July 21, 2020",DATE,1
+4616,Coronavirus Victoria,PERSON,1
+4617,Korean,NORP,1
+4618,160 per cent,MONEY,1
+4619,AstraZeneca Plc’s,ORG,1
+4620,Germany Berlin,GPE,1
+4621,New Melbourne University,ORG,1
+4622,NSW’s,ORG,1
+4623,British Qanon,ORG,1
+4624,US Surgeon-General,ORG,1
+4625,Jerome Adams,PERSON,1
+4626,election 2019,DATE,1
+4627,Coalition - ABC News Labor,ORG,1
+4628,Richmond,GPE,1
+4629,the National Party,ORG,1
+4630,| SBS News US,ORG,1
+4631,the Moderna COVID,LOC,1
+4632,Nonagenarians,NORP,1
+4633,Britons,ORG,1
+4634,"more than 500,000",CARDINAL,1
+4635,Focus | SBS News,ORG,1
+4636,Hours,TIME,1
+4637,Novak Djokovic,ORG,1
+4638,"7,000",CARDINAL,1
+4639,91.25 per cent,MONEY,1

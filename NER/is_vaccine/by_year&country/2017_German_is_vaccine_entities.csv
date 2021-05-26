@@ -1,0 +1,66 @@
+entity, label, count
+Europe, LOC, 3
+Africa, LOC, 3
+15, CARDINAL, 2
+South Sudan, GPE, 2
+Germany, GPE, 2
+US, GPE, 2
+Brazil, GPE, 2
+Rohingya, ORG, 2
+German, NORP, 1
+Australia, GPE, 1
+season, DATE, 1
+one, CARDINAL, 1
+Rio, ORG, 1
+Brazilian, NORP, 1
+Rio de Janeiro, GPE, 1
+more than 100, CARDINAL, 1
+11.5 million, CARDINAL, 1
+years, DATE, 1
+some 11.5 million, CARDINAL, 1
+South American, NORP, 1
+at least 40, CARDINAL, 1
+the past two months, DATE, 1
+24.03.2017, CARDINAL, 1
+116 million, CARDINAL, 1
+African, NORP, 1
+Nigeria, GPE, 1
+India, GPE, 1
+2014, DATE, 1
+Democratic Republic of Congo, GPE, 1
+The Democratic Republic of Congo, GPE, 1
+world′s, GPE, 1
+first, ORDINAL, 1
+DW, ORG, 1
+next year, DATE, 1
+Ghana, GPE, 1
+Malawi, GPE, 1
+Kenya, GPE, 1
+World Malaria Day, EVENT, 1
+Sierra Leone, FAC, 1
+Tomorrow, DATE, 1
+Today, DATE, 1
+19.05.2017, DATE, 1
+early 2016, DATE, 1
+the World Health Organization, ORG, 1
+West Africa, GPE, 1
+nearly 100%, PERCENT, 1
+Sierra Leone, ORG, 1
+jump 50 percent, PERCENT, 1
+Berlin, GPE, 1
+17.02.2017, DATE, 1
+WHO, ORG, 1
+′100 percent, PERCENT, 1
+the University of Tübingen, ORG, 1
+100 percent, PERCENT, 1
+Peter Kremsner, PERSON, 1
+the past year, DATE, 1
+UN, ORG, 1
+The United Nations, ORG, 1
+Bangladesh, GPE, 1
+Nearly one million, CARDINAL, 1
+Italy, GPE, 1
+Italian, NORP, 1
+28.06.2017, CARDINAL, 1
+Ukraine, GPE, 1
+Petya, GPE, 1

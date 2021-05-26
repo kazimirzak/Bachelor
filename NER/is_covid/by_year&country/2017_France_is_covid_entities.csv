@@ -1,0 +1,42 @@
+entity, label, count
+Somalia, GPE, 4
+Hamburg, GPE, 2
+Mogadishu, GPE, 2
+Wednesday, DATE, 2
+"Thursday, July" 6, DATE, 1
+G20, GPE, 1
+Donald Trump, PERSON, 1
+Exclusive report, WORK_OF_ART, 1
+Rakhine, PERSON, 1
+recent weeks, DATE, 1
+hundreds of thousands, CARDINAL, 1
+Muslim Rohingyas, LOC, 1
+Bangladesh, GPE, 1
+FRANCE, GPE, 1
+24, CARDINAL, 1
+Clovis, PERSON, 1
+Florida, GPE, 1
+Nazis, NORP, 1
+Thursday, DATE, 1
+the University of Florida, ORG, 1
+hundreds, CARDINAL, 1
+Cameroon, LOC, 1
+3-day, DATE, 1
+Anglophone, ORG, 1
+Cameroon, WORK_OF_ART, 1
+Friday, DATE, 1
+more than four, CARDINAL, 1
+English, LANGUAGE, 1
+Voting, PERSON, 1
+Africa Mogadishu, GPE, 1
+al Shabaab, PERSON, 1
+African, NORP, 1
+Breaking - Shootings, ORG, 1
+UK, GPE, 1
+Breaking News Alerts, WORK_OF_ART, 1
+France, GPE, 1
+24, MONEY, 1
+Northeast Australia, ORG, 1
+Debbie, PERSON, 1
+Australia, GPE, 1
+Tuesday, DATE, 1

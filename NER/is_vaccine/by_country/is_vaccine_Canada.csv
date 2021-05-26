@@ -1,0 +1,6411 @@
+,entity,label,occurrences
+0,Canada,GPE,1632
+1,COVID-19,PRODUCT,1322
+2,COVID-19,PERSON,866
+3,first,ORDINAL,762
+4,The Globe and Mail,ORG,721
+5,U.S.,GPE,576
+6,Canadians,NORP,426
+7,AstraZeneca,ORG,418
+8,Pfizer,PERSON,409
+9,Canadian,NORP,352
+10,Toronto,GPE,328
+11,GlobalNews.ca,ORG,267
+12,Trudeau,PERSON,254
+13,Monday,DATE,245
+14,CBC News,ORG,210
+15,Alberta,GPE,204
+16,Moderna,GPE,193
+17,two,CARDINAL,192
+18,Tuesday,DATE,179
+19,Ottawa,GPE,176
+20,China,GPE,172
+21,Wednesday,DATE,166
+22,one,CARDINAL,165
+23,second,ORDINAL,163
+24,Health Canada,ORG,163
+25,B.C.,GPE,161
+26,U.K.,GPE,158
+27,B.C.,PERSON,151
+28,Friday,DATE,146
+29,Ontario,GPE,144
+30,today,DATE,142
+31,Thursday,DATE,136
+32,Justin Trudeau,PERSON,132
+33,Moderna,PERSON,126
+34,EU,ORG,125
+35,Britain,GPE,124
+36,Quebec,GPE,122
+37,next week,DATE,105
+38,Russia,GPE,104
+39,this week,DATE,103
+40,| CTV News,ORG,99
+41,Vancouver Sun,PERSON,95
+42,Manitoba,GPE,93
+43,Vaccine,PERSON,92
+44,HPV,ORG,87
+45,Oxford,ORG,81
+46,Chinese,NORP,76
+47,Biden,PERSON,74
+48,the United States,GPE,73
+49,Europe,LOC,72
+50,Doug Ford,PERSON,71
+51,Saturday,DATE,70
+52,Vancouver,GPE,70
+53,three,CARDINAL,69
+54,2021,DATE,69
+55,Johnson & Johnson,ORG,65
+56,CBC Radio,ORG,65
+57,Sunday,DATE,65
+58,Americans,NORP,59
+59,millions,CARDINAL,58
+60,India,GPE,57
+61,British,NORP,57
+62,third,ORDINAL,56
+63,Brazil,GPE,55
+64,this year,DATE,55
+65,2,CARDINAL,54
+66,First,ORDINAL,54
+67,Congo,GPE,54
+68,WHO,ORG,53
+69,months,DATE,51
+70,Israel,GPE,51
+71,Today,DATE,50
+72,Toronto Sun,ORG,49
+73,Donald Trump,PERSON,48
+74,European,NORP,47
+75,four,CARDINAL,46
+76,AstraZeneca COVID-19,PRODUCT,46
+77,British Columbia,GPE,46
+78,January,DATE,45
+79,Joe Biden,PERSON,45
+80,Germany,GPE,45
+81,South Africa,GPE,44
+82,Montreal,GPE,43
+83,Bonnie Henry,PERSON,43
+84,Tam,PERSON,43
+85,last week,DATE,42
+86,Russian,NORP,41
+87,First Nations,ORG,40
+88,5,CARDINAL,39
+89,March,DATE,39
+90,1st,ORDINAL,39
+91,FDA,ORG,39
+92,AstraZeneca’s,ORG,38
+93,Video Online,PERSON,38
+94,Ford,ORG,36
+95,Yukon,ORG,35
+96,five,CARDINAL,34
+97,daily,DATE,34
+98,the World Health Organization,ORG,34
+99,German,NORP,34
+100,Mexico,GPE,34
+101,thousands,CARDINAL,34
+102,2nd,ORDINAL,33
+103,September,DATE,33
+104,Saskatchewan,NORP,32
+105,Moderna COVID-19,PERSON,32
+106,Theresa Tam,PERSON,31
+107,at least one,CARDINAL,31
+108,Ottawa,ORG,31
+109,B.C.,ORG,31
+110,American,NORP,30
+111,April,DATE,30
+112,UN,ORG,30
+113,3,CARDINAL,30
+114,Florida,GPE,30
+115,Two,CARDINAL,30
+116,Saskatchewan,GPE,30
+117,morning,TIME,29
+118,weeks,DATE,29
+119,10,CARDINAL,29
+120,Trump,ORG,28
+121,London,GPE,27
+122,Pfizer’s,ORG,27
+123,2020,DATE,26
+124,Trump,PERSON,26
+125,Zika,PERSON,26
+126,year,DATE,25
+127,Ont,PERSON,25
+128,Oxford-AstraZeneca,ORG,25
+129,six,CARDINAL,25
+130,June,DATE,24
+131,Italy,GPE,24
+132,Hamilton,PERSON,23
+133,Christine Elliott,PERSON,23
+134,White House,ORG,23
+135,days,DATE,23
+136,Ontario,PERSON,23
+137,Feds,NORP,23
+138,Australia,GPE,23
+139,Ontarians,NORP,23
+140,Africa,LOC,23
+141,this month,DATE,22
+142,1,CARDINAL,22
+143,Bill Kelly,PERSON,22
+144,Anita Anand,PERSON,22
+145,BioNTech,GPE,22
+146,20 million,CARDINAL,22
+147,December,DATE,22
+148,years,DATE,22
+149,Rick Hillier,PERSON,22
+150,Liberals,NORP,22
+151,New Brunswick,PERSON,21
+152,early 2021,DATE,21
+153,Globe,ORG,21
+154,Calgary,GPE,21
+155,US,GPE,21
+156,next month,DATE,21
+157,next year,DATE,21
+158,CDC,ORG,21
+159,the European Union,ORG,20
+160,Albertans,NORP,20
+161,Johnson & Johnson’s,ORG,20
+162,Jason Kenney,PERSON,20
+163,One,CARDINAL,20
+164,The Globe and Mail Health,ORG,20
+165,Johnson,PERSON,20
+166,New York,GPE,20
+167,CTV News,ORG,20
+168,hundreds,CARDINAL,20
+169,Moderna’s,ORG,20
+170,New Brunswick,GPE,19
+171,NACI,ORG,19
+172,Health,ORG,19
+173,Christmas,DATE,19
+174,15,CARDINAL,19
+175,TSX,ORG,19
+176,November,DATE,19
+177,The Globe and Mail Also,ORG,19
+178,season,DATE,18
+179,France,GPE,18
+180,Vancouver Sun,ORG,18
+181,AstraZeneca,LAW,18
+182,Oxford University,ORG,18
+183,80,CARDINAL,17
+184,Anthony Fauci,PERSON,17
+185,half,CARDINAL,17
+186,Three,CARDINAL,17
+187,LONDON,GPE,17
+188,BC,ORG,17
+189,this summer,DATE,17
+190,12,CARDINAL,17
+191,summer,DATE,17
+192,| Watch News,ORG,17
+193,the coming weeks,DATE,17
+194,week,DATE,16
+195,"300,000",CARDINAL,16
+196,| CTV News Canada,ORG,16
+197,Quebec City,GPE,16
+198,the United Kingdom,GPE,16
+199,MMR,ORG,16
+200,Waterloo Region,GPE,16
+201,Pakistan,GPE,16
+202,African,NORP,16
+203,Japan,GPE,16
+204,Olympics,EVENT,16
+205,65,DATE,15
+206,80,DATE,15
+207,CBC News Canada,ORG,15
+208,20,CARDINAL,15
+209,1.5 million,CARDINAL,15
+210,billions,CARDINAL,15
+211,California,GPE,15
+212,Boris Johnson,PERSON,15
+213,last year,DATE,15
+214,1st,DATE,14
+215,the end of the year,DATE,14
+216,Dany Fortin,PERSON,14
+217,13,CARDINAL,14
+218,Sun B.C.,PERSON,14
+219,Norway,GPE,14
+220,The Globe and Mail Brent,ORG,14
+221,Fauci,PERSON,14
+222,Johnson & Johnson's,ORG,14
+223,B.C.’s,ORG,14
+224,The Globe and Mail Canada,ORG,14
+225,winter,DATE,14
+226,CTV National News,ORG,14
+227,Ontario’s,ORG,14
+228,Fauci,ORG,14
+229,NHL,ORG,14
+230,York Region,GPE,14
+231,annual,DATE,14
+232,February,DATE,14
+233,the end of March,DATE,14
+234,100 million,CARDINAL,13
+235,Star,ORG,13
+236,seven,CARDINAL,13
+237,South African,NORP,13
+238,hours,TIME,13
+239,Ottawa Public Health,ORG,13
+240,70,CARDINAL,13
+241,IOC,ORG,13
+242,Moscow,GPE,13
+243,1 million,CARDINAL,13
+244,90%,PERCENT,13
+245,Washington,GPE,13
+246,fourth,ORDINAL,13
+247,SNL,ORG,13
+248,Toronto Public Health,ORG,13
+249,the White House,ORG,12
+250,17,CARDINAL,12
+251,European Union,ORG,12
+252,CBC News Ontario,ORG,12
+253,Dalhousie University,ORG,12
+254,"30,000",CARDINAL,12
+255,Sun Ontario,PERSON,12
+256,four months,DATE,12
+257,75,DATE,12
+258,UK,GPE,12
+259,The World Health Organization,ORG,12
+260,18,CARDINAL,12
+261,a year,DATE,12
+262,Denmark,GPE,12
+263,under 55,DATE,12
+264,NDP,ORG,12
+265,16,CARDINAL,11
+266,8 p.m.,TIME,11
+267,the end of June,DATE,11
+268,Dec. 14,DATE,11
+269,J&J,ORG,11
+270,The Globe and Mail A,ORG,11
+271,the weekend,DATE,11
+272,recent weeks,DATE,11
+273,Israeli,NORP,11
+274,KINSELLA,PERSON,11
+275,Robert F. Kennedy Jr.,PERSON,11
+276,Henry,PERSON,11
+277,Saskatoon,GPE,11
+278,Kingston,GPE,11
+279,a day,DATE,11
+280,Conservatives,NORP,11
+281,6,CARDINAL,11
+282,Regina,LOC,11
+283,94.5%,PERCENT,11
+284,Cuba,GPE,11
+285,24 hours,TIME,10
+286,The Globe and Mail U.S.,ORG,10
+287,a week,DATE,10
+288,27,CARDINAL,10
+289,3rd,ORDINAL,10
+290,nine,CARDINAL,10
+291,Erin O’Toole,PERSON,10
+292,Thousands,CARDINAL,10
+293,"400,000",CARDINAL,10
+294,Brazilian,NORP,10
+295,Last week,DATE,10
+296,65,CARDINAL,10
+297,Canada Video Online,ORG,10
+298,The Star,WORK_OF_ART,10
+299,Philippines,GPE,10
+300,last month,DATE,10
+301,Congress,ORG,10
+302,Australian,NORP,10
+303,the summer,DATE,10
+304,"1,950",CARDINAL,10
+305,Wisconsin,GPE,10
+306,The Globe and Mail Ontario,ORG,10
+307,2022,DATE,9
+308,Medicago,ORG,9
+309,August,DATE,9
+310,October,DATE,9
+311,ICU,ORG,9
+312,"2,000",CARDINAL,9
+313,decades,DATE,9
+314,Trudeau’s,ORG,9
+315,England,GPE,9
+316,this fall,DATE,9
+317,Kamala Harris,PERSON,9
+318,Ukraine,GPE,9
+319,Atlantic,LOC,9
+320,dozens,CARDINAL,9
+321,2019,DATE,9
+322,Latin America,LOC,9
+323,one million,CARDINAL,9
+324,CTV News Canada,ORG,9
+325,100,CARDINAL,9
+326,Tokyo,GPE,9
+327,Indonesia,GPE,9
+328,French,NORP,9
+329,Hinshaw,PERSON,9
+330,up to four months,DATE,9
+331,The Globe and Mail Pfizer,ORG,9
+332,60,CARDINAL,9
+333,95%,PERCENT,9
+334,11,CARDINAL,9
+335,RCMP,ORG,9
+336,The Globe and Mail Quebec,ORG,9
+337,Global News,ORG,8
+338,"500,000",CARDINAL,8
+339,Costco,ORG,8
+340,Twitter,PRODUCT,8
+341,South Korea,GPE,8
+342,earlier this month,DATE,8
+343,early April,DATE,8
+344,| CTV News Canada's,ORG,8
+345,Indian,NORP,8
+346,hundreds of thousands,CARDINAL,8
+347,Prince Edward Island,GPE,8
+348,July,DATE,8
+349,The Globe and Mail Canadian,ORG,8
+350,Ivan Semeniuk,PERSON,8
+351,the National Advisory Committee on Immunization,ORG,8
+352,The Globe and Mail Federal,ORG,8
+353,19,CARDINAL,8
+354,90 per cent,MONEY,8
+355,CBC Sports,ORG,8
+356,Horgan,PERSON,8
+357,Manitobans,NORP,8
+358,75,CARDINAL,8
+359,70,DATE,8
+360,2 million,CARDINAL,8
+361,N.S.,GPE,8
+362,Surrey,PERSON,8
+363,Jessica Biel,PERSON,8
+364,The Globe and Mail While,ORG,8
+365,"100,000",CARDINAL,8
+366,Jan. 21,DATE,8
+367,Justin Trudeau’s,PERSON,8
+368,The Star Ontario,WORK_OF_ART,8
+369,The Globe and Mail There,ORG,8
+370,Second,ORDINAL,8
+371,Vancouver Sun Provincial,ORG,8
+372,zero,CARDINAL,8
+373,this winter,DATE,8
+374,The Globe and Mail Researchers,ORG,8
+375,night,TIME,8
+376,House,ORG,8
+377,coming weeks,DATE,8
+378,The United States,GPE,8
+379,Vladimir Putin,PERSON,8
+380,Patty Hajdu,PERSON,8
+381,two weeks,DATE,8
+382,500,CARDINAL,8
+383,last year's,DATE,8
+384,the end of this year,DATE,7
+385,Toronto Sun OTTAWA —,ORG,7
+386,8 p.m. Saturday,TIME,7
+387,the week,DATE,7
+388,March 15,DATE,7
+389,GlaxoSmithKline,PERSON,7
+390,the new year,DATE,7
+391,95 per cent,MONEY,7
+392,New York City,GPE,7
+393,Reuters,ORG,7
+394,Trump’s,ORG,7
+395,May,DATE,7
+396,two million,CARDINAL,7
+397,the end of 2021,DATE,7
+398,Belgium,GPE,7
+399,Moderna Inc.,ORG,7
+400,25,CARDINAL,7
+401,Deena Hinshaw,PERSON,7
+402,AHS,ORG,7
+403,Tokyo Games,EVENT,7
+404,30,CARDINAL,7
+405,weekly,DATE,7
+406,evening,TIME,7
+407,Ekaterina Baker,PERSON,7
+408,4 million,CARDINAL,7
+409,Adrian Dix,PERSON,7
+410,McMaster University,ORG,7
+411,Scott Moe,PERSON,7
+412,Mike Pence,PERSON,7
+413,the end of the month,DATE,7
+414,tomorrow,DATE,7
+415,Ghana,GPE,7
+416,this weekend,DATE,7
+417,Halifax,ORG,7
+418,14,CARDINAL,7
+419,the spring,DATE,7
+420,later this month,DATE,7
+421,the age of 65,DATE,7
+422,EXPLAINER,PERSON,7
+423,the next few weeks,DATE,7
+424,Isaac Bogoch,PERSON,7
+425,early next year,DATE,7
+426,six million,CARDINAL,7
+427,Oxford-AstraZeneca’s,ORG,7
+428,Hong Kong,GPE,7
+429,Pfizer,GPE,7
+430,Ipsos,PERSON,7
+431,tens of thousands,CARDINAL,7
+432,The Globe and Mail Ottawa,ORG,7
+433,National Advisory Committee on Immunization,ORG,7
+434,recent months,DATE,7
+435,Phase,GPE,7
+436,Inuit,NORP,7
+437,afternoon,TIME,7
+438,Dow,ORG,7
+439,4,CARDINAL,7
+440,CanSino,ORG,7
+441,2018,DATE,7
+442,Brian Pallister,PERSON,6
+443,September 2021,DATE,6
+444,Pfizer Inc.,ORG,6
+445,Congolese,NORP,6
+446,North American,NORP,6
+447,"3,000",CARDINAL,6
+448,Supriya Sharma,PERSON,6
+449,300 million,CARDINAL,6
+450,B.C. COVID-19,PERSON,6
+451,The Globe and Mail AstraZeneca,ORG,6
+452,the next month,DATE,6
+453,Grade 7,FAC,6
+454,CureVac,ORG,6
+455,RNA,ORG,6
+456,Health Canada’s,ORG,6
+457,COVID-19 | CTV News,ORG,6
+458,50,CARDINAL,6
+459,26,CARDINAL,6
+460,More than 100,CARDINAL,6
+461,Toronto Sun OTTAWA,ORG,6
+462,Guelph,PERSON,6
+463,more than half,CARDINAL,6
+464,the end of December,DATE,6
+465,7,CARDINAL,6
+466,the European Medicines Agency,ORG,6
+467,Parliament,ORG,6
+468,Alaska,GPE,6
+469,Scotland,GPE,6
+470,eight,CARDINAL,6
+471,last spring,DATE,6
+472,U.S. FDA,ORG,6
+473,the International Olympic Committee,ORG,6
+474,Rupert,PERSON,6
+475,Mexican,NORP,6
+476,The Globe and Mail Investors,ORG,6
+477,this season,DATE,6
+478,mid-December,DATE,6
+479,Vaccinology,ORG,6
+480,the House of Commons,ORG,6
+481,Palestinians,NORP,6
+482,The Star Health Canada,ORG,6
+483,earlier this week,DATE,6
+484,Tennessee,GPE,6
+485,’ Video Online,WORK_OF_ART,6
+486,"1,400",CARDINAL,6
+487,Conservative,NORP,6
+488,Pfizer Canada,ORG,6
+489,the Food and Drug Administration,ORG,6
+490,the coming months,DATE,6
+491,five million,CARDINAL,6
+492,British Columbia's,GPE,6
+493,Asia,LOC,6
+494,Oxford-AstraZeneca COVID-19,ORG,6
+495,New Brunswick,ORG,6
+496,Windsor-Essex,GPE,6
+497,more than 100,CARDINAL,6
+498,Dubai,GPE,6
+499,Mark Machin,PERSON,6
+500,Ford,PERSON,6
+501,CBC,ORG,6
+502,Edmonton,PERSON,6
+503,The Globe and Mail Province,ORG,6
+504,Pfizer-BioNTech,PERSON,6
+505,the Public Health Agency of,ORG,6
+506,at least a year,DATE,6
+507,8,CARDINAL,6
+508,CBC News B.C.,ORG,6
+509,Detroit,GPE,6
+510,$20 million,MONEY,6
+511,G20,ORG,6
+512,Hundreds,CARDINAL,6
+513,Atlantic Canada,LOC,6
+514,Five,CARDINAL,6
+515,Netherlands,GPE,6
+516,21 days,DATE,6
+517,mid-2021,DATE,6
+518,Health Canada's,ORG,6
+519,billions of dollars,MONEY,6
+520,Derek Sloan,PERSON,6
+521,Statistics Canada,ORG,6
+522,one year,DATE,5
+523,Vancouver Coastal Health,ORG,5
+524,"1,000",CARDINAL,5
+525,Nova Scotia,ORG,5
+526,March 22,DATE,5
+527,50 million,CARDINAL,5
+528,Sinopharm,ORG,5
+529,400 million,CARDINAL,5
+530,Christian Dubé,PERSON,5
+531,several weeks,DATE,5
+532,GSK,ORG,5
+533,Sun,PERSON,5
+534,WASHINGTON,GPE,5
+535,Pfizer Inc,PERSON,5
+536,Quebec’s,ORG,5
+537,Video Online,WORK_OF_ART,5
+538,up to 42 days,DATE,5
+539,SHA,ORG,5
+540,Third,ORDINAL,5
+541,South Sudan,GPE,5
+542,172,CARDINAL,5
+543,John Ivison,PERSON,5
+544,Howard Njoo,PERSON,5
+545,The Globe and Mail Health Canada,ORG,5
+546,Vancouver Island,GPE,5
+547,Erin O'Toole,PERSON,5
+548,The Globe and Mail Unlike,ORG,5
+549,Mike Smyth,PERSON,5
+550,Sun,ORG,5
+551,the Tokyo Games,EVENT,5
+552,80%,PERCENT,5
+553,Hungary,GPE,5
+554,Trudeau - National,ORG,5
+555,Dick Pound,PERSON,5
+556,the United Nations,ORG,5
+557,COVID-19 vaccine - The Globe and Mail,PRODUCT,5
+558,Avis Favaro,PERSON,5
+559,Newfoundland,GPE,5
+560,Texas,GPE,5
+561,one day,DATE,5
+562,"249,000",CARDINAL,5
+563,The Globe and Mail Study,ORG,5
+564,Nunavut,ORG,5
+565,Pence,ORG,5
+566,Cambridge,GPE,5
+567,Anand,GPE,5
+568,sick days,DATE,5
+569,Harry,PERSON,5
+570,Operation Warp Speed,ORG,5
+571,Rod Baker,PERSON,5
+572,Madagascar,GPE,5
+573,87,CARDINAL,5
+574,CTV News Quebec,ORG,5
+575,8 a.m.,TIME,5
+576,"more than 910,000",CARDINAL,5
+577,1.5,CARDINAL,5
+578,Tories,NORP,5
+579,Zambia,GPE,5
+580,Providence Therapeutics,PERSON,5
+581,Sanofi,ORG,5
+582,Elizabeth,PERSON,5
+583,United Nations,ORG,5
+584,EU,GPE,5
+585,the end of September,DATE,5
+586,fifth,ORDINAL,5
+587,the University of Waterloo,ORG,5
+588,the end of 2020,DATE,5
+589,Netanyahu,PERSON,5
+590,up to,CARDINAL,5
+591,16 million,CARDINAL,5
+592,LTC,ORG,5
+593,COVID-19 - The Globe and Mail,ORG,5
+594,Toronto Sun Canada,ORG,5
+595,"6,000",CARDINAL,5
+596,Pfizer-BioNTech,ORG,5
+597,GTA,ORG,5
+598,Putin,PERSON,5
+599,May 1,DATE,5
+600,age 65,DATE,5
+601,three million,CARDINAL,5
+602,more than 90%,PERCENT,5
+603,Windsor,GPE,5
+604,Fraser Health,ORG,5
+605,Novavax,PERSON,5
+606,British Columbians,ORG,5
+607,Afghanistan,GPE,5
+608,CNN,ORG,5
+609,"168,000",CARDINAL,5
+610,year-end,DATE,5
+611,The Public Health Agency of,ORG,5
+612,1.3 million,CARDINAL,5
+613,CERB,ORG,5
+614,The European Union,ORG,5
+615,The Globe and Mail Scientists,ORG,5
+616,Kenney,ORG,5
+617,PPE,ORG,5
+618,Bank of Canada,ORG,5
+619,Brian Goldman,PERSON,5
+620,P.E.I.,GPE,5
+621,Iceland,GPE,5
+622,85,DATE,5
+623,Guinea,GPE,5
+624,44,CARDINAL,5
+625,Francis,PERSON,5
+626,Jan. 1,DATE,5
+627,Brussels,GPE,5
+628,The Globe and Mail Britain,ORG,4
+629,N.B.,GPE,4
+630,Gatineau,PERSON,4
+631,Sun Vaccine,PERSON,4
+632,$5 million,MONEY,4
+633,Mbandaka,GPE,4
+634,Matt Hancock,PERSON,4
+635,Beijing,GPE,4
+636,year's end,DATE,4
+637,Boeing,ORG,4
+638,Globe and Mail,ORG,4
+639,9,CARDINAL,4
+640,Labrador,GPE,4
+641,36.5 million,CARDINAL,4
+642,the end of this month,DATE,4
+643,Albert Bourla,PERSON,4
+644,European Commission,ORG,4
+645,2014,DATE,4
+646,more than a decade,DATE,4
+647,the Public Health Agency of Canada,ORG,4
+648,the end of May,DATE,4
+649,March 31,DATE,4
+650,Tyler Shandro,PERSON,4
+651,July 1,DATE,4
+652,Serum Institute,ORG,4
+653,Merck,ORG,4
+654,the end of July,DATE,4
+655,early January,DATE,4
+656,only one,CARDINAL,4
+657,LEVY,PERSON,4
+658,The Globe and Mail With,ORG,4
+659,34,CARDINAL,4
+660,32,CARDINAL,4
+661,40 per cent,MONEY,4
+662,130,CARDINAL,4
+663,Asian,NORP,4
+664,Benjamin Netanyahu,PERSON,4
+665,March 18,DATE,4
+666,14 days,DATE,4
+667,The Globe and Mail Some,ORG,4
+668,89%,PERCENT,4
+669,Thomas Bach,PERSON,4
+670,Yemen,GPE,4
+671,spring,DATE,4
+672,the past day,DATE,4
+673,Election Day,DATE,4
+674,Mozambique,ORG,4
+675,2A,CARDINAL,4
+676,the Canadian Armed Forces,ORG,4
+677,Meghan Markle,PERSON,4
+678,Bolsonaro,ORG,4
+679,two billion,CARDINAL,4
+680,hundreds of millions of dollars,MONEY,4
+681,Kenya,GPE,4
+682,the Johnson & Johnson,ORG,4
+683,The Globe and Mail Several,ORG,4
+684,COVID-19,ORG,4
+685,23,CARDINAL,4
+686,Elizabeth II,PERSON,4
+687,Winnipeg,PERSON,4
+688,Nova Scotia’s,ORG,4
+689,1936,DATE,4
+690,BioNTech,ORG,4
+691,The Globe and Mail Public,ORG,4
+692,Jan. 5,DATE,4
+693,July 4,DATE,4
+694,The Globe and Mail Biden,ORG,4
+695,The Globe and Mail Rod Baker,ORG,4
+696,"more than 1,200",CARDINAL,4
+697,BioNtech,ORG,4
+698,about 2021,DATE,4
+699,U.S,GPE,4
+700,VIDO,ORG,4
+701,Dominic LeBlanc,PERSON,4
+702,CBC News Federal,ORG,4
+703,1946,DATE,4
+704,"2,500",CARDINAL,4
+705,35,CARDINAL,4
+706,40,CARDINAL,4
+707,Vancouver Island,LOC,4
+708,June 30,DATE,4
+709,40 million,CARDINAL,4
+710,Dec. 15,DATE,4
+711,Republicans,NORP,4
+712,51,CARDINAL,4
+713,Zaire,GPE,4
+714,the first quarter of 2021,DATE,4
+715,Sask,PERSON,4
+716,Air Canada,ORG,4
+717,the Serum Institute of India,ORG,4
+718,22,CARDINAL,4
+719,5 days,DATE,4
+720,Zika,NORP,4
+721,the United Arab Emirates,GPE,4
+722,University of Waterloo,ORG,4
+723,Queen,PERSON,4
+724,Democrats,NORP,4
+725,more than 300,CARDINAL,4
+726,"8,000",CARDINAL,4
+727,Catholics,NORP,4
+728,31,CARDINAL,4
+729,Papua New Guinea,GPE,4
+730,United States,GPE,4
+731,more than 1 million,CARDINAL,4
+732,a month,DATE,4
+733,Scott Thompson,PERSON,4
+734,mid-February,DATE,4
+735,600,CARDINAL,4
+736,Julie Payette,PERSON,4
+737,60,DATE,4
+738,two years,DATE,4
+739,Republican,NORP,4
+740,94%,PERCENT,4
+741,"25,000",CARDINAL,4
+742,4th,ORDINAL,4
+743,François Legault,PERSON,4
+744,More than 150,CARDINAL,4
+745,each year,DATE,4
+746,Metro Vancouver,FAC,4
+747,Keystone XL,PERSON,4
+748,the U.S. Video Online,ORG,4
+749,Dec. 11,DATE,4
+750,John Horgan,PERSON,4
+751,Jan. 6,DATE,4
+752,The Globe and Mail We,ORG,4
+753,coming days,DATE,4
+754,YouTube,ORG,4
+755,four-week,DATE,4
+756,2014-15,DATE,4
+757,John Tory,PERSON,4
+758,Peel Region,GPE,4
+759,O'Toole,ORG,4
+760,NFL,ORG,4
+761,Birx,PERSON,4
+762,The Globe and Mail India,ORG,4
+763,Indigenous,GPE,4
+764,OECD,ORG,4
+765,Vatican,FAC,4
+766,CBC News Health Canada,ORG,4
+767,659,CARDINAL,4
+768,Angela Merkel,PERSON,4
+769,Antonio Guterres,PERSON,4
+770,WTO,ORG,4
+771,55,CARDINAL,4
+772,Telus,ORG,4
+773,Fortin,ORG,4
+774,month-long,DATE,4
+775,one-day,DATE,4
+776,Darrell Bricker,PERSON,4
+777,CoronaVac,ORG,4
+778,1.2 million,CARDINAL,4
+779,Spain,GPE,4
+780,The Globe and Mail South Africa,ORG,4
+781,Natasha Crowcroft,PERSON,4
+782,AstraZeneca-Oxford,ORG,4
+783,several months,DATE,4
+784,The Globe and Mail Vaccine,ORG,4
+785,"1,500",CARDINAL,4
+786,two days,DATE,4
+787,more than 75 million,MONEY,4
+788,Johns Hopkins University,ORG,4
+789,79%,PERCENT,4
+790,10 years,DATE,4
+791,Margaret Keenan,PERSON,4
+792,June 24,DATE,4
+793,Western,NORP,4
+794,Uganda,GPE,4
+795,Hillier,PERSON,4
+796,90-year-old,DATE,4
+797,the age of 80,DATE,4
+798,the U.S. Food and Drug Administration,ORG,4
+799,66%,PERCENT,4
+800,"40,000",CARDINAL,4
+801,67,CARDINAL,4
+802,Ohio,GPE,3
+803,March 1,DATE,3
+804,Jair Bolsonaro,PERSON,3
+805,The Globe and Mail Vaccines,ORG,3
+806,The Star Canada,ORG,3
+807,Danish,NORP,3
+808,day,DATE,3
+809,"more than 10,000",CARDINAL,3
+810,America,GPE,3
+811,The Globe and Mail Many,ORG,3
+812,North Korea,GPE,3
+813,many months,DATE,3
+814,the end of February,DATE,3
+815,COVID-19 - National | Globalnews.ca,ORG,3
+816,Jonas Salk,PERSON,3
+817,André Picard,PERSON,3
+818,"4,000",CARDINAL,3
+819,The Star TANZANIA,WORK_OF_ART,3
+820,Tanzania,GPE,3
+821,A year,DATE,3
+822,United Arab Emirates,GPE,3
+823,Chrystia Freeland,PERSON,3
+824,The Globe and Mail Move,ORG,3
+825,April 6,DATE,3
+826,28,CARDINAL,3
+827,up to 90 days,DATE,3
+828,Four,CARDINAL,3
+829,Brent Bambury,LOC,3
+830,61,CARDINAL,3
+831,Wellington-Dufferin-Guelph,GPE,3
+832,Pfizer Inc’s,ORG,3
+833,earlier this year,DATE,3
+834,Zain Chagla,PERSON,3
+835,Grenville,GPE,3
+836,one-year,DATE,3
+837,the weeks,DATE,3
+838,Nigerian,NORP,3
+839,Nigeria,GPE,3
+840,Anand,ORG,3
+841,The Globe and Mail Anyone,ORG,3
+842,The Globe and Mail Conservative,ORG,3
+843,CBC Radio Canada's,ORG,3
+844,Dec. 16,DATE,3
+845,Chris Selley,PERSON,3
+846,Waterloo,PERSON,3
+847,Montrealers,ORG,3
+848,French,LANGUAGE,3
+849,The Globe and Mail Alberta,ORG,3
+850,65 and older,DATE,3
+851,Ireland,GPE,3
+852,The European Medicines Agency,ORG,3
+853,3.3 million,CARDINAL,3
+854,Derrick Rossi,PERSON,3
+855,two-thirds,CARDINAL,3
+856,The European Commission,ORG,3
+857,80-year-old,DATE,3
+858,Summer Games,EVENT,3
+859,Trudeau,ORG,3
+860,10 million,CARDINAL,3
+861,PM,PERSON,3
+862,$192M,MONEY,3
+863,Gary Kobinger,PERSON,3
+864,Slovakia,ORG,3
+865,Scarborough,GPE,3
+866,150,CARDINAL,3
+867,March 14,DATE,3
+868,the Tokyo Olympics,EVENT,3
+869,International Olympic Committee,ORG,3
+870,year’s end,DATE,3
+871,Beaver Creek,FAC,3
+872,one year ago,DATE,3
+873,just weeks,DATE,3
+874,1st,CARDINAL,3
+875,41,CARDINAL,3
+876,Bikoro,GPE,3
+877,Shaw,ORG,3
+878,The White House,ORG,3
+879,Ian McKellen,PERSON,3
+880,Feb. 5,DATE,3
+881,20 years,DATE,3
+882,about an hour,TIME,3
+883,100,MONEY,3
+884,Maimonides,GPE,3
+885,recent days,DATE,3
+886,80 million,CARDINAL,3
+887,Indigenous Services Canada,ORG,3
+888,Hepatitis A,WORK_OF_ART,3
+889,IEA,ORG,3
+890,Paul Merriman,PERSON,3
+891,the National Institutes of Health,ORG,3
+892,Nova Scotia,PERSON,3
+893,minutes,TIME,3
+894,200,CARDINAL,3
+895,more than 23 million,CARDINAL,3
+896,century-old,DATE,3
+897,Dec. 4,DATE,3
+898,The Globe and Mail Serbia,ORG,3
+899,Turkey,GPE,3
+900,G7,ORG,3
+901,177 million,CARDINAL,3
+902,later this year,DATE,3
+903,The Globe and Mail Countries,ORG,3
+904,55,DATE,3
+905,Saara Chaudry,PERSON,3
+906,Prince Philip,PERSON,3
+907,as early as next week,DATE,3
+908,"250,000",CARDINAL,3
+909,1.6 million,CARDINAL,3
+910,Indigenous MPP,PERSON,3
+911,each week,DATE,3
+912,autumn,DATE,3
+913,"680,000",CARDINAL,3
+914,75+,DATE,3
+915,Erin,PERSON,3
+916,"1,508",CARDINAL,3
+917,the last day,DATE,3
+918,the week of Jan. 25,DATE,3
+919,Brooklyn,GPE,3
+920,Western University,ORG,3
+921,The Globe and Mail Experts,ORG,3
+922,The Morning Show,WORK_OF_ART,3
+923,101,CARDINAL,3
+924,UBC,ORG,3
+925,"910,000",CARDINAL,3
+926,last summer,DATE,3
+927,Manitoba,PERSON,3
+928,"more than 400,000",CARDINAL,3
+929,March 29,DATE,3
+930,Catholic,NORP,3
+931,"1,300",CARDINAL,3
+932,136,CARDINAL,3
+933,Philippine,NORP,3
+934,Nobel,WORK_OF_ART,3
+935,yesterday,DATE,3
+936,Barack Obama,PERSON,3
+937,Ipsos - National,ORG,3
+938,Yoshihide Suga,PERSON,3
+939,The Star Toronto,WORK_OF_ART,3
+940,79 per cent,MONEY,3
+941,100 days,DATE,3
+942,Haliburton,GPE,3
+943,First Nation,ORG,3
+944,Wuhan,GPE,3
+945,"200,000",CARDINAL,3
+946,400,CARDINAL,3
+947,Peterborough,GPE,3
+948,"10,000",CARDINAL,3
+949,eight months,DATE,3
+950,the next four weeks,DATE,3
+951,Muslim,NORP,3
+952,six weeks,DATE,3
+953,Province,GPE,3
+954,4 months,DATE,3
+955,Scotians,NORP,3
+956,Oxford University’s,ORG,3
+957,North Korean,NORP,3
+958,USask,GPE,3
+959,Edmonton,GPE,3
+960,60 to 64,DATE,3
+961,Sylvia Jones,PERSON,3
+962,Pfizer-BioNTech,GPE,3
+963,1.5M,PERCENT,3
+964,10 days,DATE,3
+965,the coming days,DATE,3
+966,Nov. 3,DATE,3
+967,seven-day,DATE,3
+968,Eric Hoskins,PERSON,3
+969,Jan. 29,DATE,3
+970,late January,DATE,3
+971,115,CARDINAL,3
+972,Polish,NORP,3
+973,Bill Gates,PERSON,3
+974,West,LOC,3
+975,Dec. 7,DATE,3
+976,Britons,PERSON,3
+977,Health Ministry,ORG,3
+978,four-month,DATE,3
+979,"60,000",CARDINAL,3
+980,The Globe and Mail Russia,ORG,3
+981,65 or older,DATE,3
+982,42 days,DATE,3
+983,The Globe and Mail People,ORG,3
+984,Tom Hanks,PERSON,3
+985,622,CARDINAL,3
+986,BBC,ORG,3
+987,late February,DATE,3
+988,The European Union's,ORG,3
+989,more than a week,DATE,3
+990,Pfizer Inc’s,PERSON,3
+991,March 24,DATE,3
+992,MAID,ORG,3
+993,21,CARDINAL,3
+994,Malawi,ORG,3
+995,3.3,CARDINAL,3
+996,the University of Saskatchewan,ORG,3
+997,Yukon’s,ORG,3
+998,about half,CARDINAL,3
+999,15 million,CARDINAL,3
+1000,FSIN,ORG,3
+1001,FluMist,ORG,3
+1002,Ontario Video Online,ORG,3
+1003,Italian,NORP,3
+1004,BlackBerry,ORG,3
+1005,Waterloo Region’s,GPE,3
+1006,The Globe and Mail Oil,ORG,3
+1007,The Globe’s,ORG,3
+1008,the year,DATE,3
+1009,Dec. 10,DATE,3
+1010,The Globe and Mail There’s,ORG,3
+1011,CBC News Canada's,ORG,3
+1012,Sarah Gilbert,PERSON,3
+1013,2014-15 flu season,DATE,3
+1014,less than two months,DATE,3
+1015,94.5 per cent,MONEY,3
+1016,the European Union's,ORG,3
+1017,P.E.I.,ORG,3
+1018,Olympians,NORP,3
+1019,Kitchener,GPE,3
+1020,The Star TORONTO -,WORK_OF_ART,3
+1021,this spring,DATE,3
+1022,less than half,CARDINAL,3
+1023,Nov. 30,DATE,3
+1024,the U.S. Centers for Disease Control and Prevention,ORG,3
+1025,94 per cent,MONEY,3
+1026,Freeland,GPE,3
+1027,World Health Organization,ORG,3
+1028,UHN,ORG,3
+1029,Thailand,GPE,3
+1030,The Globe and Mail New,ORG,3
+1031,The Globe and Mail EU,ORG,3
+1032,| CTV News Health Canada,ORG,3
+1033,| CTV News The World Health Organization,ORG,3
+1034,New Zealand,GPE,3
+1035,1.9 million,CARDINAL,3
+1036,The Globe and Mail B.C.,ORG,3
+1037,late Sunday,DATE,3
+1038,Floridians,NORP,3
+1039,The National Advisory Committee on Immunization,ORG,3
+1040,Miramichi,GPE,3
+1041,Labrador,PERSON,3
+1042,Angola,GPE,3
+1043,Noni MacDonald,PERSON,3
+1044,84-year-old,DATE,3
+1045,Pfizer-BioNTech’s,ORG,3
+1046,Indigenous,ORG,3
+1047,VIRUS,ORG,3
+1048,H3N2,ORG,3
+1049,British Columbia’s,GPE,3
+1050,Sanofi,NORP,3
+1051,month's end,DATE,3
+1052,76,CARDINAL,3
+1053,100 per cent,MONEY,3
+1054,29,CARDINAL,3
+1055,Mary Ng,PERSON,3
+1056,Hamilton,GPE,3
+1057,the Ontario College of Teachers,ORG,3
+1058,another 20 million,CARDINAL,3
+1059,the National Research Council,ORG,3
+1060,the holidays,DATE,3
+1061,more than half a million,CARDINAL,3
+1062,Elon Musk,PERSON,3
+1063,"1,200",CARDINAL,3
+1064,Jane Philpott,PERSON,3
+1065,Senate,ORG,3
+1066,Sun Ontario’s,PERSON,3
+1067,CBC News Vaccine,ORG,3
+1068,Christmas Day,DATE,3
+1069,The Globe and Mail China,ORG,3
+1070,MLHU,ORG,3
+1071,Public Health Ontario,ORG,3
+1072,Tokyo Olympics,EVENT,3
+1073,Beira,GPE,3
+1074,the end of next year,DATE,3
+1075,de Villa,PERSON,3
+1076,UAE,GPE,3
+1077,Oregon,GPE,3
+1078,Sun B.C.'s,PERSON,3
+1079,96%,PERCENT,3
+1080,Saudi Arabia,GPE,3
+1081,Vancouver Sun,FAC,3
+1082,the age of 55,DATE,3
+1083,Christian Dube,PERSON,3
+1084,| CTV News Health,ORG,3
+1085,StatCan,ORG,3
+1086,Dartmouth,ORG,3
+1087,Michael Spavor,PERSON,3
+1088,Michael Kovrig,PERSON,3
+1089,Vienna,GPE,3
+1090,$3.7 million,MONEY,3
+1091,806,CARDINAL,3
+1092,Iran,GPE,3
+1093,Malaysia,GPE,3
+1094,more than 500,CARDINAL,3
+1095,858,CARDINAL,3
+1096,the past 24 hours,TIME,3
+1097,next September,DATE,3
+1098,March 17,DATE,3
+1099,90,CARDINAL,3
+1100,the Canadian Centre for,FAC,3
+1101,"more than 2,000",CARDINAL,3
+1102,Singh,GPE,3
+1103,49,CARDINAL,3
+1104,Chile,GPE,3
+1105,The Globe and Mail Novavax,ORG,3
+1106,Dec. 9,DATE,3
+1107,‘year,DATE,3
+1108,Barrie,GPE,3
+1109,42 per cent,MONEY,3
+1110,Dec. 2,DATE,3
+1111,the Canadian Medical Association Journal,ORG,3
+1112,Video Online,ORG,3
+1113,Imran Khan,PERSON,3
+1114,158,CARDINAL,3
+1115,"Thursday, March 18, 2021",DATE,3
+1116,NHS,ORG,3
+1117,70 per cent,MONEY,3
+1118,Austria,GPE,3
+1119,Middlesex,ORG,3
+1120,Aug. 5,DATE,3
+1121,The Globe and Mail Science,ORG,3
+1122,24/7,CARDINAL,3
+1123,Gardasil,GPE,3
+1124,the last year,DATE,3
+1125,Philip,PERSON,3
+1126,Mozambicans,NORP,3
+1127,last winter,DATE,3
+1128,Grand River Hospital,FAC,3
+1129,Kentucky,GPE,2
+1130,Meera Estrada,PERSON,2
+1131,The Globe and Mail Loonie,ORG,2
+1132,80+,QUANTITY,2
+1133,May 4,DATE,2
+1134,The Globe and Mail Questions,ORG,2
+1135,Last year's,DATE,2
+1136,60-year old,DATE,2
+1137,GameStop,ORG,2
+1138,Sputnik,ORG,2
+1139,South Korea's,GPE,2
+1140,nearly a year,DATE,2
+1141,early Tuesday,DATE,2
+1142,The Globe and Mail Vaccination,ORG,2
+1143,Feb. 12,DATE,2
+1144,the Power Gap,PRODUCT,2
+1145,RBC Convention Centre,ORG,2
+1146,"2,177",CARDINAL,2
+1147,Austrian,NORP,2
+1148,Interpol,ORG,2
+1149,Sierra Leone,ORG,2
+1150,Sierra Leone,LOC,2
+1151,April 5,DATE,2
+1152,737,PRODUCT,2
+1153,737,CARDINAL,2
+1154,Front Burner,ORG,2
+1155,Sun Ontario's,PERSON,2
+1156,CBC News Researchers,ORG,2
+1157,the Trudeau Liberals,ORG,2
+1158,80-90%,PERCENT,2
+1159,The Globe and Mail Tedros Adhanom Ghebreyesus,ORG,2
+1160,$4-billion,MONEY,2
+1161,1941,DATE,2
+1162,Narendra Modi,PERSON,2
+1163,CBC News Health,ORG,2
+1164,The Globe and Mail Whether,ORG,2
+1165,"Over 3,000",CARDINAL,2
+1166,Novavax COVID-19,PRODUCT,2
+1167,Videos Online Watch Canada’s,ORG,2
+1168,The Norwegian Medicines Agency,ORG,2
+1169,Fraser Health's,ORG,2
+1170,Lower Mainland,LOC,2
+1171,anti-COVID,NORP,2
+1172,B.C. First Nations,ORG,2
+1173,The Globe and Mail Israel,ORG,2
+1174,0.2%,PERCENT,2
+1175,75-79,DATE,2
+1176,Sun Trump,PERSON,2
+1177,The Globe and Mail Nova Scotia,ORG,2
+1178,Newfoundland,PERSON,2
+1179,the University of Toronto,ORG,2
+1180,tens of millions,MONEY,2
+1181,the same day,DATE,2
+1182,AJ Vaccines,ORG,2
+1183,The Globe and Mail Most,ORG,2
+1184,Vatican City,GPE,2
+1185,Minnesota,GPE,2
+1186,14.4 per cent,MONEY,2
+1187,2.5 per cent,MONEY,2
+1188,Bahrain,GPE,2
+1189,Middlesex-London,ORG,2
+1190,Lanark,PERSON,2
+1191,The National’s,ORG,2
+1192,Andrew Chang,PERSON,2
+1193,Cree,NORP,2
+1194,Alison Braley-Rattai of Brock University,PERSON,2
+1195,Hundreds of thousands,CARDINAL,2
+1196,"4,500",CARDINAL,2
+1197,The Globe and Mail Saskatchewan,ORG,2
+1198,National Cyber Security Centre,ORG,2
+1199,| The Star,PRODUCT,2
+1200,2%,PERCENT,2
+1201,U.S. Food and Drug Administration,ORG,2
+1202,more than one,CARDINAL,2
+1203,Shayan Sharif,PERSON,2
+1204,the University of Guelph,ORG,2
+1205,140,CARDINAL,2
+1206,J&J’s,ORG,2
+1207,Illinois,GPE,2
+1208,March 20,DATE,2
+1209,Thai,NORP,2
+1210,Feb. 7,DATE,2
+1211,everyone over 50,CARDINAL,2
+1212,2009,DATE,2
+1213,The Star The Star,WORK_OF_ART,2
+1214,Canadian Medical Association,ORG,2
+1215,Ursula von,PERSON,2
+1216,Leyen,ORG,2
+1217,one week,DATE,2
+1218,The Globe and Mail Instead,ORG,2
+1219,North,LOC,2
+1220,116,CARDINAL,2
+1221,next summer,DATE,2
+1222,the next three weeks,DATE,2
+1223,$214M,MONEY,2
+1224,$18.2 million,MONEY,2
+1225,The Globe and Mail PM,ORG,2
+1226,next spring,DATE,2
+1227,89,CARDINAL,2
+1228,"2,655",CARDINAL,2
+1229,Jan. 20,DATE,2
+1230,The Globe and Mail World,ORG,2
+1231,New Zealand’s,GPE,2
+1232,155,CARDINAL,2
+1233,the World Health Organization (WHO,ORG,2
+1234,Deloitte,ORG,2
+1235,CAF,ORG,2
+1236,The Canadian Olympic Committee,ORG,2
+1237,the Canadian Medical Association,ORG,2
+1238,Vaccine Choice,ORG,2
+1239,2005,DATE,2
+1240,"41,338",CARDINAL,2
+1241,Saint-Antoine,ORG,2
+1242,Angus Reid,PERSON,2
+1243,Rogers,ORG,2
+1244,Black,ORG,2
+1245,three weeks,DATE,2
+1246,749,CARDINAL,2
+1247,about $16-million,MONEY,2
+1248,StatsCan - The Globe and Mail,ORG,2
+1249,| CTV News Public,ORG,2
+1250,65+,QUANTITY,2
+1251,Dodger Stadium,FAC,2
+1252,two-year-olds,DATE,2
+1253,"33,000",CARDINAL,2
+1254,Elliott,PERSON,2
+1255,Geneva,GPE,2
+1256,the Canadian Food Inspection Agency,ORG,2
+1257,Black,LOC,2
+1258,Samoa,ORG,2
+1259,more than 50,CARDINAL,2
+1260,85-plus,CARDINAL,2
+1261,85 years old,DATE,2
+1262,François-Philippe Champagne,PERSON,2
+1263,Nov. 1,DATE,2
+1264,four weeks,DATE,2
+1265,Chapman’s Ice Cream,ORG,2
+1266,Markdale,GPE,2
+1267,Alberta Health Services,ORG,2
+1268,$850 million,MONEY,2
+1269,next Wednesday,DATE,2
+1270,"3,900",CARDINAL,2
+1271,Argentina,GPE,2
+1272,150 million,CARDINAL,2
+1273,"above 1,400",CARDINAL,2
+1274,tens of millions,CARDINAL,2
+1275,TB,ORG,2
+1276,CFO,ORG,2
+1277,The Globe and Mail Pair,ORG,2
+1278,Californian,ORG,2
+1279,Boxing Day,EVENT,2
+1280,half an hour,TIME,2
+1281,Anita Quidangen,PERSON,2
+1282,Jan. 4,DATE,2
+1283,"1,685",CARDINAL,2
+1284,Capitol,FAC,2
+1285,New Jersey,GPE,2
+1286,75-year-old,DATE,2
+1287,age 75,DATE,2
+1288,Chief Public Health,ORG,2
+1289,CBC News Quebec's,ORG,2
+1290,Malawi,PERSON,2
+1291,Charlottetown,ORG,2
+1292,Donald Trump ,PERSON,2
+1293,2B,MONEY,2
+1294,Toronto Sun Health Canada,ORG,2
+1295,Roy Green,PERSON,2
+1296,Feb. 8,DATE,2
+1297,Prince Charles,PERSON,2
+1298,CBC News Vaccinations,ORG,2
+1299,NEW YORK,GPE,2
+1300,age 80,DATE,2
+1301,The Globe and Mail’s,ORG,2
+1302,48 per cent,MONEY,2
+1303,Schitt’s Creek,ORG,2
+1304,MLB,ORG,2
+1305,85 per cent,MONEY,2
+1306,Major League Baseball,ORG,2
+1307,69,CARDINAL,2
+1308,"115,000",CARDINAL,2
+1309,45,CARDINAL,2
+1310,Monday Video Online,WORK_OF_ART,2
+1311,Del.,GPE,2
+1312,last fall,DATE,2
+1313,Asia-Pacific,LOC,2
+1314,The Globe and Mail Money,ORG,2
+1315,U.S. Congress,ORG,2
+1316,AZD1222,LOC,2
+1317,75 this year,DATE,2
+1318,April to June,DATE,2
+1319,6 million,CARDINAL,2
+1320,55 to 65,DATE,2
+1321,the Lower Mainland,LOC,2
+1322,The Globe and Mail Only,ORG,2
+1323,May 12,DATE,2
+1324,500,MONEY,2
+1325,about 1%,PERCENT,2
+1326,OPEC+,ORG,2
+1327,108,CARDINAL,2
+1328,Pascal Soriot,PERSON,2
+1329,85-year-old,DATE,2
+1330,the Ottawa Catholic School Board,ORG,2
+1331,811,CARDINAL,2
+1332,Marjorie Taylor Greene QAnon,PERSON,2
+1333,Gamestop,PERSON,2
+1334,the RBC Convention Centre,ORG,2
+1335,First Nations MPP,ORG,2
+1336,139,CARDINAL,2
+1337,The Globe and Mail Without,ORG,2
+1338,Dec. 8,DATE,2
+1339,89 per cent,MONEY,2
+1340,Videos Online Watch Health Canada,ORG,2
+1341,overnight,TIME,2
+1342,May 16,DATE,2
+1343,Supreme Court,ORG,2
+1344,Dilma Rousseff,PERSON,2
+1345,The Star Johnson & Johnson,ORG,2
+1346,George W. Bush,PERSON,2
+1347,Bill Clinton,PERSON,2
+1348,Jimmy Carter,PERSON,2
+1349,this school year,DATE,2
+1350,Niagara,GPE,2
+1351,Southern Ontario,LOC,2
+1352,two-month,DATE,2
+1353,Kawartha,GPE,2
+1354,each day,DATE,2
+1355,American Airlines,ORG,2
+1356,The Globe and Mail Airlines,ORG,2
+1357,'The Morning Show',WORK_OF_ART,2
+1358,"1,589",CARDINAL,2
+1359,the last 24 hours,TIME,2
+1360,the Canada Pension Plan Investment Board,ORG,2
+1361,Seven,CARDINAL,2
+1362,1 day,DATE,2
+1363,91-year-old,DATE,2
+1364,Camilla,ORG,2
+1365,The Globe and Mail Fragmented,ORG,2
+1366,500%,PERCENT,2
+1367,$1-billion,MONEY,2
+1368,first quarter,DATE,2
+1369,Poorer,GPE,2
+1370,as late as 2024,DATE,2
+1371,"1,489",CARDINAL,2
+1372,DR,GPE,2
+1373,"37,000",CARDINAL,2
+1374,Boston,GPE,2
+1375,Muslims,NORP,2
+1376,Indonesian,NORP,2
+1377,The Globe and Mail All,ORG,2
+1378,Samir Sinha,PERSON,2
+1379,Letitia Wright,PERSON,2
+1380,the National Advisory Committee on Immunization (NACI,ORG,2
+1381,The Star Canada’s,ORG,2
+1382,13 of the week’s,DATE,2
+1383,Meghan,PERSON,2
+1384,Martin Regg Cohn,PERSON,2
+1385,Interior Health,ORG,2
+1386,"27,000",CARDINAL,2
+1387,"150,000",CARDINAL,2
+1388,Feb. 15,DATE,2
+1389,CRA,ORG,2
+1390,Bella Coola,PERSON,2
+1391,Medicine Hat,PERSON,2
+1392,The Globe and Mail Speaking,ORG,2
+1393,The Globe and Mail Solicitor-General,ORG,2
+1394,"7,000",CARDINAL,2
+1395,The Globe and Mail White House,ORG,2
+1396,three months,DATE,2
+1397,B.C. Centre for Disease Control,ORG,2
+1398,"24,000",CARDINAL,2
+1399,the past year,DATE,2
+1400,LAU,ORG,2
+1401,The Globe and Mail About,ORG,2
+1402,Fauci - National,ORG,2
+1403,65-plus,CARDINAL,2
+1404,The Globe and Mail Measles,ORG,2
+1405,Outbreak,ORG,2
+1406,Craig,PERSON,2
+1407,Marc Kielburger,PERSON,2
+1408,Coming week,DATE,2
+1409,Michigan,GPE,2
+1410,The Star Maj,WORK_OF_ART,2
+1411,Alex Boyd,PERSON,2
+1412,Toronto Star,ORG,2
+1413,Jill Lepore,ORG,2
+1414,Doug Ford’s,PERSON,2
+1415,Kamloops,ORG,2
+1416,990,CARDINAL,2
+1417,University Health Network,ORG,2
+1418,The Globe and Mail Approval,ORG,2
+1419,Yo-Yo Ma,PERSON,2
+1420,The Globe and Mail Canada’s,ORG,2
+1421,"more than 100,000",CARDINAL,2
+1422,"4,900",CARDINAL,2
+1423,Mike Harris,PERSON,2
+1424,Pfizer-BioNTech's,PERSON,2
+1425,just hours,TIME,2
+1426,Jennifer Russell,PERSON,2
+1427,Sun Canada,ORG,2
+1428,an additional 1.5 million,CARDINAL,2
+1429,Poland,GPE,2
+1430,three days,DATE,2
+1431,North Carolina,GPE,2
+1432,"945,000",CARDINAL,2
+1433,Alberta Health,ORG,2
+1434,COVID 19,DATE,2
+1435,Gerald Evans,PERSON,2
+1436,Moncef Slaoui,PERSON,2
+1437,The Globe and Mail Procurement,ORG,2
+1438,NATO,ORG,2
+1439,Amazon,ORG,2
+1440,Brampton,PERSON,2
+1441,St. Louis,GPE,2
+1442,37,CARDINAL,2
+1443,IBM,ORG,2
+1444,"50,000",CARDINAL,2
+1445,81,CARDINAL,2
+1446,"more than 3,400",CARDINAL,2
+1447,the U.S. Centers for Disease Control,ORG,2
+1448,the University of Victoria,ORG,2
+1449,the beginning of March,DATE,2
+1450,-70 C.,PERSON,2
+1451,Teri Mooring,PERSON,2
+1452,DIY,ORG,2
+1453,Nova Scotians,PERSON,2
+1454,$1.9 trillion,MONEY,2
+1455,Oprah,PERSON,2
+1456,a year to 18 months,DATE,2
+1457,559,CARDINAL,2
+1458,Dec. 13,DATE,2
+1459,$1-million,MONEY,2
+1460,the end of May.,DATE,2
+1461,Donald Trump's,PERSON,2
+1462,CBC News Public,ORG,2
+1463,at least 1,CARDINAL,2
+1464,N.Y.,GPE,2
+1465,New York’s,GPE,2
+1466,Rita Wilson,PERSON,2
+1467,July 31,DATE,2
+1468,Dec. 3,DATE,2
+1469,50 years,DATE,2
+1470,456,CARDINAL,2
+1471,South Korean,NORP,2
+1472,Jan. 22,DATE,2
+1473,$1.1 billion,MONEY,2
+1474,April 23,DATE,2
+1475,"230,000",MONEY,2
+1476,The Star TEL AVIV,ORG,2
+1477,seven days,DATE,2
+1478,9-year-old,DATE,2
+1479,six-week,DATE,2
+1480,more than 80,CARDINAL,2
+1481,Tom Cruise,PERSON,2
+1482,Justin Trudeau's,PERSON,2
+1483,Campaign Research,ORG,2
+1484,52 per cent,MONEY,2
+1485,Only 15,CARDINAL,2
+1486,Phase 2,ORG,2
+1487,the school year,DATE,2
+1488,Miller,PERSON,2
+1489,The Globe and Mail Marc Miller,ORG,2
+1490,Bono,PERSON,2
+1491,‘coming days,DATE,2
+1492,Vaccine Distribution Task Force,ORG,2
+1493,’ve,ORG,2
+1494,"2,998",CARDINAL,2
+1495,Saskatchewan,PERSON,2
+1496,Marc Miller,PERSON,2
+1497,522,CARDINAL,2
+1498,Nanos Research,ORG,2
+1499,Cuomo,PERSON,2
+1500,around 3.3 million,CARDINAL,2
+1501,26,DATE,2
+1502,nearly two months Monday,DATE,2
+1503,"about 6,750",CARDINAL,2
+1504,one month,DATE,2
+1505,every year,DATE,2
+1506,N.B.,ORG,2
+1507,2.1 million,CARDINAL,2
+1508,CCCB,ORG,2
+1509,Sun Province,GPE,2
+1510,Netflix,GPE,2
+1511,Zoom,GPE,2
+1512,Anand,PERSON,2
+1513,EDITORIAL,PERSON,2
+1514,12 months old,DATE,2
+1515,Ron DeSantis,PERSON,2
+1516,3 million,CARDINAL,2
+1517,World’s,ORG,2
+1518,Sally Otto,PERSON,2
+1519,March 2,DATE,2
+1520,PEI,ORG,2
+1521,| CTV News There,ORG,2
+1522,The Globe and Mail By,ORG,2
+1523,Feb. 26,DATE,2
+1524,the Ontario Medical Association,ORG,2
+1525,75 and older,DATE,2
+1526,764,CARDINAL,2
+1527,Feb. 23,DATE,2
+1528,CBC News Drug,ORG,2
+1529,Simcoe Muskoka,PERSON,2
+1530,$300 million,MONEY,2
+1531,Gordon Pape,PERSON,2
+1532,2.4 million,CARDINAL,2
+1533,"800,000",CARDINAL,2
+1534,between January and March,DATE,2
+1535,Winnipeg,ORG,2
+1536,"1,371",CARDINAL,2
+1537,"more than 1,000",CARDINAL,2
+1538,March 9,DATE,2
+1539,The Star Pfizer,WORK_OF_ART,2
+1540,80 per cent,MONEY,2
+1541,Singapore,GPE,2
+1542,Pakistani,NORP,2
+1543,Kovrig,GPE,2
+1544,March 6,DATE,2
+1545,Five million,CARDINAL,2
+1546,Beck Bennett,PERSON,2
+1547,over 100,CARDINAL,2
+1548,the past week,DATE,2
+1549,ER,GPE,2
+1550,Vela,PERSON,2
+1551,the months ahead,DATE,2
+1552,the next year,DATE,2
+1553,Canterbury,GPE,2
+1554,Melbourne,GPE,2
+1555,Great Canadian Gaming Corp.,ORG,2
+1556,MPP,ORG,2
+1557,Latest,ORG,2
+1558,late October,DATE,2
+1559,March 2020,DATE,2
+1560,91 per cent,MONEY,2
+1561,at least three,CARDINAL,2
+1562,CBC Sports IOC,ORG,2
+1563,National Advisory Committee on Immunization (NACI,ORG,2
+1564,the Democratic Republic of Congo,GPE,2
+1565,two months,DATE,2
+1566,Arthur Potts,PERSON,2
+1567,Kitchener,PERSON,2
+1568,Waterloo Public Health,ORG,2
+1569,World,ORG,2
+1570,Niger,PERSON,2
+1571,Nasdaq,ORG,2
+1572,The Star A,WORK_OF_ART,2
+1573,New York's,GPE,2
+1574,a new year,DATE,2
+1575,hundreds of millions,MONEY,2
+1576,"1,092",CARDINAL,2
+1577,Fortin,NORP,2
+1578,Nearly half,CARDINAL,2
+1579,the fall of 2021,DATE,2
+1580,25 years,DATE,2
+1581,K - National |,ORG,2
+1582,The Globe and Mail Immunization,ORG,2
+1583,Sao Paulo,GPE,2
+1584,$1.1-billion,MONEY,2
+1585,"more than 1,400",CARDINAL,2
+1586,"2,408",CARDINAL,2
+1587,133,CARDINAL,2
+1588,last March,DATE,2
+1589,GAVI,PERSON,2
+1590,Vancouver Sun Health Canada,ORG,2
+1591,B.C. Video Online,ORG,2
+1592,The Globe and Mail Vaccinations,ORG,2
+1593,Nik Nanos,PERSON,2
+1594,The Globe and Mail Plus,ORG,2
+1595,about 100,CARDINAL,2
+1596,between April and September,DATE,2
+1597,2 billion,MONEY,2
+1598,Brian Burke,PERSON,2
+1599,The Globe and Mail Premier,ORG,2
+1600,younger than,CARDINAL,2
+1601,12 months,DATE,2
+1602,The Globe and Mail TSX,ORG,2
+1603,St. Peter’s Basilica,GPE,2
+1604,Arruda,PERSON,2
+1605,Robert F. Kennedy,PERSON,2
+1606,The Globe and Mail For,ORG,2
+1607,994,CARDINAL,2
+1608,Jan. 27,DATE,2
+1609,26 million,CARDINAL,2
+1610,LeBlanc,ORG,2
+1611,Kingston,ORG,2
+1612,Xmas,PERSON,2
+1613,as early as next month,DATE,2
+1614,under a year,DATE,2
+1615,National Microbiology Laboratory,ORG,2
+1616,Swiss,NORP,2
+1617,Vancouver Sun,GPE,2
+1618,OPP,ORG,2
+1619,the Centers for Disease Control and Prevention,ORG,2
+1620,the end of April,DATE,2
+1621,3 months,DATE,2
+1622,March Break,DATE,2
+1623,"almost 4,000",CARDINAL,2
+1624,McConnell,PERSON,2
+1625,The Star OTTAWA -,WORK_OF_ART,2
+1626,Kremlin,ORG,2
+1627,weekend,DATE,2
+1628,’ - The Globe and Mail,WORK_OF_ART,2
+1629,more than 40,CARDINAL,2
+1630,76%,PERCENT,2
+1631,AstraZeneca COVID,ORG,2
+1632,more than 20,CARDINAL,2
+1633,Malaria,GPE,2
+1634,Mark Carney,PERSON,2
+1635,a few days,DATE,2
+1636,0.25 per cent,MONEY,2
+1637,a single day,DATE,2
+1638,Wellington County,GPE,2
+1639,"Friday, Feb. 19, 2021",DATE,2
+1640,10:30 p.m. ET,TIME,2
+1641,Keith Baldrey,PERSON,2
+1642,two months earlier,DATE,2
+1643,Vaccine Task Force,FAC,2
+1644,Red Cross,ORG,2
+1645,17-year-olds,DATE,2
+1646,335,CARDINAL,2
+1647,Pfizer-BioNTech's,ORG,2
+1648,Tara Moriarty,PERSON,2
+1649,NB,ORG,2
+1650,Dec. 29,DATE,2
+1651,The Star TORONTO - Canada's,WORK_OF_ART,2
+1652,Ryan Reynolds,PERSON,2
+1653,Sun Ryan Reynolds,PERSON,2
+1654,the week of March 15,DATE,2
+1655,Massachusetts,GPE,2
+1656,last months,DATE,2
+1657,The Globe and Mail Data,ORG,2
+1658,Kim,PERSON,2
+1659,92,CARDINAL,2
+1660,COVID-19 Immunization Task Force,ORG,2
+1661,April 1,DATE,2
+1662,Lambton County,GPE,2
+1663,75 per cent,MONEY,2
+1664,Wajid Ahmed,PERSON,2
+1665,The Globe and Mail Answering,ORG,2
+1666,Rideau Cottage,LOC,2
+1667,Jan. 31,DATE,2
+1668,The Star Toronto’s,ORG,2
+1669,five weeks,DATE,2
+1670,the Bank of Canada,ORG,2
+1671,$15 million,MONEY,2
+1672,Save-On-Foods,ORG,2
+1673,1951,DATE,2
+1674,Grey Bruce,PERSON,2
+1675,2 billion,CARDINAL,2
+1676,tens of billions of dollars,MONEY,2
+1677,5,MONEY,2
+1678,August 8,DATE,2
+1679,Charles Weijer,PERSON,2
+1680,The Globe and Mail Pfizer’s,ORG,2
+1681,NRC,ORG,2
+1682,Heather Morrison,PERSON,2
+1683,next five years,DATE,2
+1684,McGregor,PERSON,2
+1685,Radwimps,PERSON,2
+1686,Japanese,NORP,2
+1687,100%,PERCENT,2
+1688,July 23,DATE,2
+1689,CBC News Network,ORG,2
+1690,18-65 year-olds,DATE,2
+1691,2017,DATE,2
+1692,Boris Johnson's,PERSON,2
+1693,G7,FAC,2
+1694,Charlie Sheen,PERSON,2
+1695,March 25,DATE,2
+1696,Meng Wanzhou,PERSON,2
+1697,"3,722",CARDINAL,2
+1698,Regina,GPE,2
+1699,The Globe and Mail Trump,ORG,2
+1700,Michael Ryan,PERSON,2
+1701,Lou Ferrigno,PERSON,2
+1702,The Ottawa Hospital,ORG,2
+1703,The Globe and Mail Air Canada,ORG,2
+1704,early June,DATE,2
+1705,Vaccine Task Force,ORG,2
+1706,eight million,CARDINAL,2
+1707,65+,DATE,2
+1708,age 55,DATE,2
+1709,200 days,DATE,2
+1710,MSF,ORG,2
+1711,Goldman,ORG,2
+1712,John Diefenbaker,PERSON,2
+1713,around 1.5 million,CARDINAL,2
+1714,"5,000",CARDINAL,2
+1715,New Brunswick's,GPE,2
+1716,European Medicines Agency,ORG,2
+1717,EMA,ORG,2
+1718,The Globe and Mail Canada's,ORG,2
+1719,Marjorie Taylor Greene,PERSON,2
+1720,Saturday Night Live,WORK_OF_ART,2
+1721,million,CARDINAL,2
+1722,Fauci - National | Globalnews.ca,ORG,2
+1723,"3,650",CARDINAL,2
+1724,four million,CARDINAL,2
+1725,BC Ferries,ORG,2
+1726,four-day,DATE,2
+1727,Jenny McCarthy,PERSON,2
+1728,CBC Radio A,ORG,2
+1729,the fall,DATE,2
+1730,Half a dozen,CARDINAL,2
+1731,"700,000",CARDINAL,2
+1732,"3,056",CARDINAL,2
+1733,Winnipeg,PRODUCT,2
+1734,last night,TIME,2
+1735,1.1B,MONEY,2
+1736,Moderna Inc,PERSON,2
+1737,The Globe and Mail Sanofi,ORG,2
+1738,Group,ORG,2
+1739,NBC,ORG,2
+1740,Cleveland Clinic,ORG,2
+1741,Justin Timberlake,ORG,2
+1742,Bolsonaro,PERSON,2
+1743,Vaughan LTC,ORG,2
+1744,the last week,DATE,2
+1745,"1,958",CARDINAL,2
+1746,a decade,DATE,2
+1747,hundreds of millions,CARDINAL,2
+1748,Steve Stecklow,PERSON,2
+1749,1.1 million,CARDINAL,2
+1750,Videos Online Watch Health Matters,ORG,2
+1751,Francois Legault,PERSON,2
+1752,Century-old,DATE,2
+1753,the U.S.-based Merck & Co.,ORG,2
+1754,U.K,GPE,2
+1755,Star New,ORG,2
+1756,2 to 17,DATE,2
+1757,more than one million,CARDINAL,2
+1758,Krispy Kreme,PERSON,2
+1759,"more than 30,000",CARDINAL,2
+1760,56 per cent,MONEY,2
+1761,17 per cent,MONEY,2
+1762,120,CARDINAL,2
+1763,Djokovic,ORG,2
+1764,8 p.m. to 9:30 p.m.,TIME,2
+1765,325,CARDINAL,2
+1766,Gairdner Awards,ORG,2
+1767,"31,527",CARDINAL,2
+1768,"681,487",CARDINAL,2
+1769,27 years,DATE,2
+1770,Anita,PERSON,2
+1771,72%,PERCENT,2
+1772,election day,DATE,2
+1773,Novavax and Johnson & Johnson,ORG,2
+1774,50 per cent,MONEY,2
+1775,$1 billion,MONEY,2
+1776,Aug. 31,DATE,2
+1777,Complex,NORP,2
+1778,30 cents,MONEY,2
+1779,"1,553",CARDINAL,2
+1780,10%,PERCENT,2
+1781,"2,453",CARDINAL,2
+1782,Torontonians,NORP,2
+1783,the day,DATE,2
+1784,well over half,CARDINAL,2
+1785,the previous day,DATE,2
+1786,"up to 249,000",CARDINAL,2
+1787,The Globe and Mail Shipments,ORG,2
+1788,2024,DATE,2
+1789,Last year’s,DATE,2
+1790,the early months of 2021,DATE,2
+1791,The Globe and Mail Two,ORG,2
+1792,between 2010 and 2012,DATE,2
+1793,Alberta Video Online,ORG,2
+1794,Puerto Rico,GPE,2
+1795,1931,DATE,2
+1796,The Globe and Mail The European Medicines Agency,ORG,2
+1797,300,CARDINAL,2
+1798,CBC Kids News,ORG,2
+1799,The United Nations,ORG,2
+1800,almost a year,DATE,2
+1801,VSV-EBOV,ORG,2
+1802,The Globe and Mail One,ORG,2
+1803,Team Canada,ORG,2
+1804,48,CARDINAL,2
+1805,Toronto Sun Canada’s,ORG,2
+1806,71 %,PERCENT,2
+1807,IPSOS,PERSON,2
+1808,the past few weeks,DATE,2
+1809,"1,571",CARDINAL,2
+1810,March 21,DATE,2
+1811,Assembly,ORG,2
+1812,Star Canada’s,ORG,2
+1813,Israelis,NORP,2
+1814,’ Health Canada,ORG,2
+1815,‘coming weeks,DATE,2
+1816,12 weeks,DATE,2
+1817,CTVNews.ca,ORG,2
+1818,BMO,ORG,2
+1819,292,CARDINAL,2
+1820,71,CARDINAL,2
+1821,43 per cent,MONEY,2
+1822,Latin American,NORP,2
+1823,Tedros Adhanom Ghebreyesus,PERSON,2
+1824,LeBlanc,PERSON,2
+1825,three years,DATE,2
+1826,800,CARDINAL,2
+1827,the U.S. Justice Department,ORG,2
+1828,Blaine Higgs,PERSON,2
+1829,Provincial Health,ORG,2
+1830,39,MONEY,2
+1831,Rob Breakenridge,PERSON,2
+1832,"More than 300,000",CARDINAL,2
+1833,"90,000",CARDINAL,2
+1834,85%,PERCENT,2
+1835,"15,000",CARDINAL,2
+1836,Erin O’Toole,ORG,2
+1837,8 million,CARDINAL,2
+1838,619,CARDINAL,2
+1839,Don Martin,PERSON,2
+1840,Bains,PRODUCT,2
+1841,Three months,DATE,2
+1842,"1,887",CARDINAL,2
+1843,Provincial Health Officer,ORG,2
+1844,"686,000",CARDINAL,2
+1845,Linda Hasenfratz,PERSON,2
+1846,The Star LONDON,PERSON,2
+1847,Bruce Aylward,PERSON,2
+1848,2 days,DATE,2
+1849,nearly 150,CARDINAL,2
+1850,36,CARDINAL,2
+1851,3.2 million,CARDINAL,2
+1852,Irish,NORP,2
+1853,Nov. 10,DATE,2
+1854,late 2021,DATE,2
+1855,$12-billion,MONEY,2
+1856,1976,DATE,2
+1857,CBC News Quebec,ORG,2
+1858,The Globe and Mail Age,ORG,2
+1859,National Research Council,ORG,2
+1860,March 10,DATE,2
+1861,the University of Oxford's,ORG,2
+1862,William Shakespeare,PERSON,2
+1863,VBI Vaccines,ORG,2
+1864,Budget 2021,PERSON,2
+1865,at least two,CARDINAL,2
+1866,2B,CARDINAL,2
+1867,U.N.,ORG,2
+1868,The Globe and Mail Meanwhile,ORG,2
+1869,CAE,ORG,2
+1870,Vaccine Choice Canada,ORG,2
+1871,David Olive,PERSON,2
+1872,Rosenberg,PERSON,2
+1873,Mount Brydges,GPE,2
+1874,57,CARDINAL,2
+1875,Vatican,GPE,2
+1876,The Star TAIPEI,ORG,2
+1877,Taiwan,GPE,2
+1878,Grade 6,FAC,2
+1879,2016,DATE,2
+1880,The Globe and Mail Ministry of Health,ORG,2
+1881,March 16,DATE,2
+1882,Michael Garron Hospital,ORG,2
+1883,trillions,CARDINAL,2
+1884,CanSino’s,ORG,2
+1885,The Ministry of Health,ORG,2
+1886,April 2,DATE,2
+1887,Vaughan,GPE,2
+1888,The Globe and Mail Authorities,ORG,2
+1889,Yohan Blake,PERSON,2
+1890,86%,PERCENT,2
+1891,Brandon,GPE,2
+1892,Millions,CARDINAL,2
+1893,| CTV News Experts,ORG,2
+1894,CFL,ORG,2
+1895,"1,699",CARDINAL,2
+1896,the age of 75,DATE,2
+1897,43,CARDINAL,2
+1898,738,CARDINAL,2
+1899,"1,487",CARDINAL,2
+1900,1B,CARDINAL,2
+1901,Victoria,GPE,2
+1902,several hundred thousand,CARDINAL,2
+1903,Tibetan,NORP,2
+1904,University of Calgary,ORG,2
+1905,Scottish,NORP,2
+1906,Mi’kmaw,GPE,2
+1907,Caribbean,LOC,2
+1908,Feb. 25,DATE,2
+1909,Labrador’s,ORG,2
+1910,14-day,DATE,2
+1911,Eric Reguly,PERSON,2
+1912,several dozen,CARDINAL,2
+1913,2013,DATE,2
+1914,half a million,CARDINAL,2
+1915,More than 500,CARDINAL,2
+1916,Black Canadian,NORP,2
+1917,Niagara,PERSON,2
+1918,Orthodox,NORP,2
+1919,Guelph’s,ORG,2
+1920,Monday Video Online,ORG,2
+1921,The Globe and Mail Providence Therapeutics,ORG,2
+1922,Buckingham Palace,FAC,2
+1923,"29,000",CARDINAL,2
+1924,Melania Trump,PERSON,2
+1925,the White House,FAC,2
+1926,Sackville,GPE,2
+1927,Imperial College,ORG,2
+1928,another year,DATE,2
+1929,Tagalog,NORP,2
+1930,Metis,PERSON,2
+1931,June 4,DATE,2
+1932,Delaware,GPE,2
+1933,two-year-old,DATE,2
+1934,July 28,DATE,2
+1935,Maxwell Smith,PERSON,2
+1936,age 18,DATE,2
+1937,Peru,GPE,2
+1938,Kenney,PERSON,2
+1939,Halton Region,GPE,2
+1940,Morocco,GPE,2
+1941,a year ago,DATE,2
+1942,nearly 100,CARDINAL,2
+1943,U.S. Army,ORG,2
+1944,$10 million,MONEY,2
+1945,CBC News Government,ORG,2
+1946,St. Thomas,GPE,2
+1947,Cineplex,PERSON,2
+1948,at least 18 months,DATE,2
+1949,later this week,DATE,2
+1950,Sweden,GPE,2
+1951,76 million,CARDINAL,2
+1952,G7,GPE,2
+1953,Prince Harry,PERSON,2
+1954,Smithsonian,ORG,2
+1955,5 years,DATE,2
+1956,Sun Toronto,PERSON,2
+1957,Queen's University,ORG,2
+1958,Igor Matovic,PERSON,2
+1959,$12 billion,MONEY,2
+1960,first day,DATE,2
+1961,Pediatricians,NORP,2
+1962,the next two months,DATE,2
+1963,Swedish,NORP,2
+1964,1995,DATE,2
+1965,the Board of Health,ORG,2
+1966,World Hepatitis Day,EVENT,2
+1967,the University Health Network,ORG,2
+1968,966,CARDINAL,2
+1969,Fort McMurray,GPE,2
+1970,Trump Tower,ORG,2
+1971,13-year-old,DATE,2
+1972,18 to 29,DATE,2
+1973,the next week,DATE,2
+1974,New Delhi,GPE,1
+1975,The Kentucky Board of Medical Licensure,ORG,1
+1976,Mount Sterling,GPE,1
+1977,Indiana,GPE,1
+1978,The Star BEIJING - A,WORK_OF_ART,1
+1979,Montreal Firefighters,ORG,1
+1980,two-year,DATE,1
+1981,77.28 U.S. cents,MONEY,1
+1982,The Globe and Mail Basic,ORG,1
+1983,Biden’s,ORG,1
+1984,1.9,MONEY,1
+1985,a terrible year,DATE,1
+1986,Health Canada ,ORG,1
+1987,a couple weeks,DATE,1
+1988,Sun Beset,PERSON,1
+1989,11.8 per cent,MONEY,1
+1990,16.1,CARDINAL,1
+1991,season 2018-19,DATE,1
+1992,early Monday,DATE,1
+1993,Sun AstraZeneca's,PERSON,1
+1994,at least Friday,DATE,1
+1995,The London Health Sciences Centre,ORG,1
+1996,the next six months,DATE,1
+1997,| CTV News Pharmaceutical company,ORG,1
+1998,The Globe and Mail Top,ORG,1
+1999,The Globe and Mail Shortly,ORG,1
+2000,about a dozen,CARDINAL,1
+2001,| The Star Why Canada,WORK_OF_ART,1
+2002,The Globe and Mail Information,ORG,1
+2003,$5-million,MONEY,1
+2004,The Star TORONTO - Health,WORK_OF_ART,1
+2005,the eve of the first anniversary,DATE,1
+2006,The Globe and Mail Hinshaw,ORG,1
+2007,"230,000",CARDINAL,1
+2008,less than $20,MONEY,1
+2009,less than $10,MONEY,1
+2010,The Star Rebecca Bredow,WORK_OF_ART,1
+2011,Oakland County,GPE,1
+2012,"1,087",CARDINAL,1
+2013,"556,533",CARDINAL,1
+2014,"16,404",CARDINAL,1
+2015,Mid-November,DATE,1
+2016,the third week of November,DATE,1
+2017,12th,ORDINAL,1
+2018,Dominic Barton,PERSON,1
+2019,Vancouver Sun ',PERSON,1
+2020,Tesla Inc.,ORG,1
+2021,FirstOntario,ORG,1
+2022,Winnipeg’s,ORG,1
+2023,Jan. 4 - Winnipeg,DATE,1
+2024,Dec. 24 to 26,DATE,1
+2025,Batch,PERSON,1
+2026,Austria,PERSON,1
+2027,The Globe and Mail Austria,ORG,1
+2028,INTERPOL | CTV News Countries,ORG,1
+2029,Lunar New Year,EVENT,1
+2030,The Globe and Mail South China,ORG,1
+2031,the winter and spring,DATE,1
+2032,the preliminary months,DATE,1
+2033,year-long,DATE,1
+2034,under a,DATE,1
+2035,Lonza,PERSON,1
+2036,Visp,GPE,1
+2037,775,CARDINAL,1
+2038,"41,000",CARDINAL,1
+2039,Kambia,GPE,1
+2040,the Metro Toronto Convention Centre,ORG,1
+2041,the Scarborough Town Centre,ORG,1
+2042,the Toronto Congress Centre,ORG,1
+2043,MAX,ORG,1
+2044,Julius Youngner,PERSON,1
+2045,Tonda MacCharles,PERSON,1
+2046,Krishana Sankar,PERSON,1
+2047,B1.1.7,NORP,1
+2048,The Globe and Mail Preliminary,ORG,1
+2049,74.6 per cent,MONEY,1
+2050,84,CARDINAL,1
+2051,the University of British Columbia,ORG,1
+2052,The Health Ministry,ORG,1
+2053,75 and older on,DATE,1
+2054,Toronto Sun Pharmacies,ORG,1
+2055,age 60,DATE,1
+2056,"around 4,000",CARDINAL,1
+2057,fewer than a quarter,DATE,1
+2058,Only half,CARDINAL,1
+2059,Jan. 15,DATE,1
+2060,MPP Roman Baber,PERSON,1
+2061,2-million,CARDINAL,1
+2062,Mackenzie Health,LOC,1
+2063,James Talbot,PERSON,1
+2064,Edmonton Zone Medical Staff Association,ORG,1
+2065,COVID-19 Response,PERSON,1
+2066,222%,PERCENT,1
+2067,The Globe and Mail CureVac,ORG,1
+2068,Canada Blood Services,ORG,1
+2069,Canadian Blood Services,ORG,1
+2070,The Globe and Mail Finance,ORG,1
+2071,Katherine Cuplinskas,PERSON,1
+2072,provED,ORG,1
+2073,today that Christmas,DATE,1
+2074,the same this year,DATE,1
+2075,Denis Coderre,PERSON,1
+2076,under two minutes,TIME,1
+2077,ages 55 to 65,DATE,1
+2078,"7,062",CARDINAL,1
+2079,"11,164",CARDINAL,1
+2080,this summer's holiday season,DATE,1
+2081,Quebec,ORG,1
+2082,The Globe and Mail Acting,ORG,1
+2083,Shannon McDonald,PERSON,1
+2084,last June,DATE,1
+2085,7 cents,MONEY,1
+2086,43.75,MONEY,1
+2087,9 cents,MONEY,1
+2088,41.43,MONEY,1
+2089,London-Middlesex,ORG,1
+2090,Richard Pan,PERSON,1
+2091,Kenneth Austin Bennett,PERSON,1
+2092,another White House,ORG,1
+2093,Fox News,ORG,1
+2094,Maria Bartiromo,PERSON,1
+2095,Dec. 6,DATE,1
+2096,this upcoming week,DATE,1
+2097,Inside Wuhan,ORG,1
+2098,Tania Watts,PERSON,1
+2099,"6,302",CARDINAL,1
+2100,"389,436",CARDINAL,1
+2101,"4,249",CARDINAL,1
+2102,"14,932",CARDINAL,1
+2103,"87,563",CARDINAL,1
+2104,CBC News Maj.-Gen,ORG,1
+2105,some 36.4 million,CARDINAL,1
+2106,1.04,CARDINAL,1
+2107,2.43%,PERCENT,1
+2108,43.82,MONEY,1
+2109,The Globe and Mail Bloc,ORG,1
+2110,2.5 million,CARDINAL,1
+2111,Providence,GPE,1
+2112,a holiday,DATE,1
+2113,The Globe and Mail Leaving,ORG,1
+2114,more than €2-billion,MONEY,1
+2115,25-year,DATE,1
+2116,late last week,DATE,1
+2117,667,CARDINAL,1
+2118,Cottonwoods,PERSON,1
+2119,Sun Danish,PERSON,1
+2120,Somali-American,NORP,1
+2121,just 42 per cent,MONEY,1
+2122,250,CARDINAL,1
+2123,"vaccinate 3,000",CARDINAL,1
+2124,3000,CARDINAL,1
+2125,Leeds,GPE,1
+2126,Kyle Lowry,PERSON,1
+2127,about the holiday season,DATE,1
+2128,James Bay,PERSON,1
+2129,about 40,CARDINAL,1
+2130,the next 10 days,DATE,1
+2131,Abdu Sharkawy,PERSON,1
+2132,a good week',DATE,1
+2133,"the Health Ministry, Unifesp",ORG,1
+2134,Fifteen,CARDINAL,1
+2135,12 years old,DATE,1
+2136,South Sudan's,GPE,1
+2137,COVID-19 - Macleans.ca Canada,ORG,1
+2138,Alyson Kelvin,PERSON,1
+2139,"6,846",CARDINAL,1
+2140,Vladimir Putin's,PERSON,1
+2141,| CTV News Military,ORG,1
+2142,Boko Haram,PERSON,1
+2143,last years,DATE,1
+2144,Vancouver Sun Nothing,ORG,1
+2145,Dec. 14th,DATE,1
+2146,The Globe and Mail Government-,ORG,1
+2147,the London School of Hygiene and Tropical,ORG,1
+2148,"July 21, 2015",DATE,1
+2149,Leslie,PERSON,1
+2150,Pan Am,ORG,1
+2151,1.5 per cent,MONEY,1
+2152,CBC News Babies,ORG,1
+2153,six months of age,DATE,1
+2154,Canada Stamping,ORG,1
+2155,the age of 64,DATE,1
+2156,the following two weeks,DATE,1
+2157,The Globe and Mail Once,ORG,1
+2158,Big White Ski Resort,FAC,1
+2159,Albert de Villiers,PERSON,1
+2160,Big White,ORG,1
+2161,Canadians Video Online,ORG,1
+2162,U.S.-,GPE,1
+2163,| CTV News Scientists,ORG,1
+2164,one-million,MONEY,1
+2165,The Globe and Mail Ensuring,ORG,1
+2166,Antarctic,ORG,1
+2167,CBC News Public Services,ORG,1
+2168,The Globe and Mail Nine,ORG,1
+2169,Vietnam,GPE,1
+2170,more than 35 million,CARDINAL,1
+2171,Ontario ,PERSON,1
+2172,The Star The World Health Organization,WORK_OF_ART,1
+2173,COVID-19 | Watch News,ORG,1
+2174,COVID-19 Video Online,ORG,1
+2175,6 weeks,DATE,1
+2176,The Globe and Mail Three,ORG,1
+2177,"6,415",CARDINAL,1
+2178,COVID-19’s,ORG,1
+2179,$220-million,MONEY,1
+2180,Vaughan Mills,ORG,1
+2181,The Globe and Mail Serum India’s,ORG,1
+2182,The Globe and Mail Staff,ORG,1
+2183,Thanathorn Juangroongruangkit,ORG,1
+2184,"1,747",CARDINAL,1
+2185,Guelph,PRODUCT,1
+2186,Shelburne,PERSON,1
+2187,mid-April,DATE,1
+2188,1.6B,MONEY,1
+2189,CTV News Health,ORG,1
+2190,$1.58 billion,MONEY,1
+2191,2008,DATE,1
+2192,several million,CARDINAL,1
+2193,tens of millions of dollars,MONEY,1
+2194,Vaccine Tracker,PERSON,1
+2195,the Calgary Flames,ORG,1
+2196,Lancet,ORG,1
+2197,The Globe and Mail Positive,ORG,1
+2198,CBC News A,ORG,1
+2199,South Africa ,GPE,1
+2200,"Tuesday, March 9, 2021",DATE,1
+2201,4.99 per cent,MONEY,1
+2202,less than one week,DATE,1
+2203,faced hours,TIME,1
+2204,Old Crow,GPE,1
+2205,The Star MEXICO CITY - Mexican,WORK_OF_ART,1
+2206,Andrés Manuel López,PERSON,1
+2207,Obrador,PERSON,1
+2208,just over 1 million,CARDINAL,1
+2209,Social,NORP,1
+2210,"1,396",CARDINAL,1
+2211,The Star FDA,ORG,1
+2212,March 7,DATE,1
+2213,Jon Stewart,PERSON,1
+2214,The Globe and Mail Canadian Olympic Committee,ORG,1
+2215,David Shoemaker,PERSON,1
+2216,"2,108",CARDINAL,1
+2217,CBC News Older,ORG,1
+2218,The Globe and Mail Maj,ORG,1
+2219,Prince Rupert,GPE,1
+2220,Port Edward,GPE,1
+2221,Sun BERLIN,PERSON,1
+2222,$173 million,MONEY,1
+2223,Trudeau - National | Globalnews.ca Canada,ORG,1
+2224,The B.C. Centre for Disease Control,ORG,1
+2225,early October,DATE,1
+2226,next Tuesday,DATE,1
+2227,’ -,WORK_OF_ART,1
+2228,the 20th century’s,DATE,1
+2229,"237,918",CARDINAL,1
+2230,157,CARDINAL,1
+2231,Ipsos - National | Globalnews.ca Canadians,ORG,1
+2232,Alicia Thatcher,PERSON,1
+2233,nearly eight,CARDINAL,1
+2234,at least two months,DATE,1
+2235,Uganda - The Globe and Mail,ORG,1
+2236,"More than 1,800",CARDINAL,1
+2237,April 17 to May 1,DATE,1
+2238,some 150,CARDINAL,1
+2239,Barrie LTC,ORG,1
+2240,Toronto Sun A,ORG,1
+2241,The Star Right,WORK_OF_ART,1
+2242,more than three million,CARDINAL,1
+2243,Winnipeg Jets,ORG,1
+2244,Mark Chipman,PERSON,1
+2245,"2,188",CARDINAL,1
+2246,330 million,CARDINAL,1
+2247,one tenth,CARDINAL,1
+2248,"750,000",CARDINAL,1
+2249,"Tuesday, Aug. 11, 2020",DATE,1
+2250,Joe Biden's,PERSON,1
+2251,at least $8-billion,MONEY,1
+2252,The Globe and Mail Did,ORG,1
+2253,Fatman,ORG,1
+2254,Chick Fight,ORG,1
+2255,"550,000",CARDINAL,1
+2256,Ursula,GPE,1
+2257,Sixty years ago,DATE,1
+2258,3D,ORG,1
+2259,Venugopal G. Somani,PERSON,1
+2260,National,ORG,1
+2261,Bharat Biotech,ORG,1
+2262,The Star MOSCOW - Russia,WORK_OF_ART,1
+2263,Oct. 18,DATE,1
+2264,Carol Anne Chenard,PERSON,1
+2265,FIFA,ORG,1
+2266,Matthew Miller,PERSON,1
+2267,McMaster’s,GPE,1
+2268,Juneau,GPE,1
+2269,16M,ORG,1
+2270,$16-million,MONEY,1
+2271,Eric Cadesky,PERSON,1
+2272,Alexa,ORG,1
+2273,CBC Radio Texans,ORG,1
+2274,The Canadian Center for,ORG,1
+2275,Toronto Sun WINNIPEG,ORG,1
+2276,79.3,CARDINAL,1
+2277,twitterCardObjectMap.get($twKey,MONEY,1
+2278,225 million,CARDINAL,1
+2279,The European Union’s,ORG,1
+2280,Fifth,ORDINAL,1
+2281,+ - London,PERSON,1
+2282,10 per cent,MONEY,1
+2283,"915,653",CARDINAL,1
+2284,More than 10,CARDINAL,1
+2285,Aditi Juneja,PERSON,1
+2286,Gisèle Lévesque,PERSON,1
+2287,89-year-old,DATE,1
+2288,more than 242,CARDINAL,1
+2289,72,CARDINAL,1
+2290,Yellen,PERSON,1
+2291,Interior Health’s,ORG,1
+2292,Bikoro - The Globe and Mail,ORG,1
+2293,At least five,CARDINAL,1
+2294,Rod,PERSON,1
+2295,"1,859",CARDINAL,1
+2296,U.Ss,ORG,1
+2297,"nearly 228,000",CARDINAL,1
+2298,The Globe and Mail Overdoses,ORG,1
+2299,Harris,PERSON,1
+2300,Asian-American,NORP,1
+2301,a minute,TIME,1
+2302,4 p.m. Monday,TIME,1
+2303,"13,200",CARDINAL,1
+2304,Sarnia,GPE,1
+2305,Sarnia Mayor,PERSON,1
+2306,Mike Bradley,PERSON,1
+2307,"19,865",CARDINAL,1
+2308,COVID-19 | CTV News Quebec's,ORG,1
+2309,"212,800",CARDINAL,1
+2310,9.4 per cent,MONEY,1
+2311,1992,DATE,1
+2312,Hamilton city,LOC,1
+2313,more than a dozen,CARDINAL,1
+2314,"just under 75,000",CARDINAL,1
+2315,11.4 per cent,MONEY,1
+2316,Hamiltonians,NORP,1
+2317,the last few days,DATE,1
+2318,Queensway Carleton Hospital - Ottawa,ORG,1
+2319,Queensway Carleton Hospital,ORG,1
+2320,"1,100",CARDINAL,1
+2321,Pfizer-BioNtech,ORG,1
+2322,Ross Memorial Hospital,ORG,1
+2323,Lindsay Exhibition - Peterborough,PERSON,1
+2324,the Lindsay Exhibition,FAC,1
+2325,Toronto Sun MADRID,ORG,1
+2326,DeSantis,PRODUCT,1
+2327,The B.C. Ministry of Agriculture,ORG,1
+2328,The Star Statistics Canada,ORG,1
+2329,The Globe and Mail The Bank of Canada’s,ORG,1
+2330,mid-November,DATE,1
+2331,CBC Radio Provinces,ORG,1
+2332,Bridgestone,ORG,1
+2333,US$100,MONEY,1
+2334,between March 22,DATE,1
+2335,27,DATE,1
+2336,the Côte Saint-Luc,FAC,1
+2337,John Tennant,PERSON,1
+2338,April 7,DATE,1
+2339,the first day,DATE,1
+2340,the age of,DATE,1
+2341,"roughly 130,000",CARDINAL,1
+2342,West Bank,GPE,1
+2343,IOC’s,ORG,1
+2344,Tokyo Olympic ‘,EVENT,1
+2345,before end of,DATE,1
+2346,before end of March Video Online,DATE,1
+2347,Sun Chemical,ORG,1
+2348,40 C,CARDINAL,1
+2349,about six,CARDINAL,1
+2350,ten,CARDINAL,1
+2351,The Globe and Mail Facebook,ORG,1
+2352,sixth,ORDINAL,1
+2353,the summer of 2017,DATE,1
+2354,the Horn of Africa,LOC,1
+2355,The Star Children,WORK_OF_ART,1
+2356,NanoSystems,ORG,1
+2357,The Globe and Mail Wastewater,ORG,1
+2358,May 19,DATE,1
+2359,Sun Museums,PERSON,1
+2360,mid-May.,DATE,1
+2361,AstraZeneca’s COVID,ORG,1
+2362,‘months,DATE,1
+2363,’ - National | Globalnews.ca,ORG,1
+2364,101-year-old,DATE,1
+2365,Edith Kwoizalla,PERSON,1
+2366,The Globe and Mail The International Energy Agency’s,ORG,1
+2367,late November,DATE,1
+2368,| CTV News Samoa's,ORG,1
+2369,1963,DATE,1
+2370,The Star REGINA - Saskatchewan Health,WORK_OF_ART,1
+2371,Mississippi,GPE,1
+2372,Memphis,GPE,1
+2373,The Globe and Mail Indigenous,ORG,1
+2374,Calgary Stampede,ORG,1
+2375,The Globe and Mail Stampede,ORG,1
+2376,Calgary’s Emergency Management Agency,ORG,1
+2377,The Globe and Mail Mandatory,ORG,1
+2378,Alexis Nakota Sioux Chief,PERSON,1
+2379,ISC,ORG,1
+2380,"4,086",CARDINAL,1
+2381,More than 30,CARDINAL,1
+2382,the coming flu season,DATE,1
+2383,"1,460",CARDINAL,1
+2384,about 2 p.m.,TIME,1
+2385,69 per cent,MONEY,1
+2386,Arviat,ORG,1
+2387,The B.C. Assembly,ORG,1
+2388,"1,735",CARDINAL,1
+2389,at least 400 million,MONEY,1
+2390,Karen,PERSON,1
+2391,"5,756",CARDINAL,1
+2392,"98,125",CARDINAL,1
+2393,Toronto Sun Researchers,ORG,1
+2394,Sept. 10,DATE,1
+2395,Saskatoon,LOC,1
+2396,The Star IQALUIT,ORG,1
+2397,Nunavut - Nunavut’s,ORG,1
+2398,March 11,DATE,1
+2399,Meghan Markle,GPE,1
+2400,The Globe and Mail Distributing,ORG,1
+2401,CBC Radio Pfizer,ORG,1
+2402,Bulgaria,GPE,1
+2403,"12,470",CARDINAL,1
+2404,CNBC,ORG,1
+2405,Bangladesh,GPE,1
+2406,Feb. 21,DATE,1
+2407,Ministry of Health,ORG,1
+2408,Michael Houghton’s,PERSON,1
+2409,| CTV News China,ORG,1
+2410,The Star Meanwhile,WORK_OF_ART,1
+2411,the European Centre for Disease Prevention and Control,ORG,1
+2412,Alvin Law,PERSON,1
+2413,Law,PERSON,1
+2414,Pfizer,ORG,1
+2415,US$15 billion,MONEY,1
+2416,UN Security Council - The Globe and Mail,ORG,1
+2417,about 130,CARDINAL,1
+2418,David Williams,PERSON,1
+2419,N.J.,GPE,1
+2420,Bonnie Watson Coleman,PERSON,1
+2421,the Ontario Media Association,ORG,1
+2422,The Globe and Mail Tam,ORG,1
+2423,up to one million,CARDINAL,1
+2424,Hajdu - National | Globalnews.ca,ORG,1
+2425,"over 23,000",CARDINAL,1
+2426,Jan. 8,DATE,1
+2427,"62,600",CARDINAL,1
+2428,8.6 per cent,MONEY,1
+2429,StatsCan,ORG,1
+2430,as high as one,CARDINAL,1
+2431,"1,155",CARDINAL,1
+2432,up to $2.1 billion,MONEY,1
+2433,The Star The Pfizer,WORK_OF_ART,1
+2434,Kirsten Hillman,PERSON,1
+2435,"March 30, 2021",DATE,1
+2436,4 a.m. ET,TIME,1
+2437,"Tuesday March 30, 2021",DATE,1
+2438,Winnipeg COVID-19,PRODUCT,1
+2439,up to two hours,TIME,1
+2440,This week,DATE,1
+2441,Alleged Yukon,ORG,1
+2442,Ekatarina,PERSON,1
+2443,2-3 years,DATE,1
+2444,The Globe and Mail However,ORG,1
+2445,15-20 percent,PERCENT,1
+2446,"Friday, February 5, 2021",DATE,1
+2447,"nearly 878,000",CARDINAL,1
+2448,"more than 141,500",CARDINAL,1
+2449,Canadian Olympic Committee,ORG,1
+2450,The Globe and Mail None,ORG,1
+2451,Ontario Indigenous,GPE,1
+2452,The Globe and Mail Federal Public Safety,ORG,1
+2453,Bill Blair,PERSON,1
+2454,Twitter the Canadian Armed Forces,LAW,1
+2455,the Nishnawbe Aski Nation,ORG,1
+2456,"Saturday, December 2, 2017",DATE,1
+2457,Michael Flynn,PERSON,1
+2458,95 and older,DATE,1
+2459,"225,000",CARDINAL,1
+2460,Oct. 13,DATE,1
+2461,"approximately 360,000",CARDINAL,1
+2462,1.96 million,CARDINAL,1
+2463,2019 to 2020,DATE,1
+2464,U.S.-first,ORG,1
+2465,The Globe and Mail The White House’s,ORG,1
+2466,under age 18,DATE,1
+2467,more than 30,CARDINAL,1
+2468,Nunavut’s,ORG,1
+2469,Charles,PERSON,1
+2470,Kelowna,PERSON,1
+2471,ATP Tour,ORG,1
+2472,US$15-billion - The Globe and Mail,MONEY,1
+2473,Fifty-three,CARDINAL,1
+2474,Northwood’s Halifax,ORG,1
+2475,The Globe and Mail Pharmaceutical,ORG,1
+2476,Edsel,ORG,1
+2477,150,MONEY,1
+2478,"around 200,000",CARDINAL,1
+2479,another 1.1 million,CARDINAL,1
+2480,months ago,DATE,1
+2481,May 8,DATE,1
+2482,| CTV News Medical,ORG,1
+2483,Myanmar,GPE,1
+2484,the past six months,DATE,1
+2485,RFK Jr,ORG,1
+2486,Routine,ORG,1
+2487,the first week of April,DATE,1
+2488,Mark Meadows,PERSON,1
+2489,Indian Foreign Ministry,ORG,1
+2490,The Globe and Mail The Conservative Party,ORG,1
+2491,the Canadian Screen Awards,ORG,1
+2492,Access,PRODUCT,1
+2493,COVID-19 Tools,PERSON,1
+2494,"3,400",CARDINAL,1
+2495,"58,202",CARDINAL,1
+2496,"1,301,334",CARDINAL,1
+2497,"290,659",CARDINAL,1
+2498,"an additional 4,000",CARDINAL,1
+2499,The Star Anthony Fauci,WORK_OF_ART,1
+2500,National Institute of Allergy and Infectious Diseases,ORG,1
+2501,Madagascar,PERSON,1
+2502,"4,679",CARDINAL,1
+2503,Langford,PERSON,1
+2504,Foreign Ministry,ORG,1
+2505,Bhutan,GPE,1
+2506,Maldives,ORG,1
+2507,"1,388",CARDINAL,1
+2508,"372,666",CARDINAL,1
+2509,Mona Nemer,PERSON,1
+2510,84 per cent,MONEY,1
+2511,CBC Radio New York City,ORG,1
+2512,Bill de Blasio,PERSON,1
+2513,nearly 300,CARDINAL,1
+2514,New York Times,ORG,1
+2515,Donald G. McNeil Jr,PERSON,1
+2516,the next seven months,DATE,1
+2517,Nearly $1M,MONEY,1
+2518,The Star OTTAWA - Health Canada,WORK_OF_ART,1
+2519,COVID-19 - National | Globalnews.ca “Having,ORG,1
+2520,COVID-19 ,PERSON,1
+2521,"3,269",CARDINAL,1
+2522,"above 3,000",CARDINAL,1
+2523,Paul Griffin,PERSON,1
+2524,The Globe and Mail Long-,ORG,1
+2525,Canada’s,ORG,1
+2526,Sun Long-term,PERSON,1
+2527,Lisa Freeman,PERSON,1
+2528,Chengdu,GPE,1
+2529,North |,LOC,1
+2530,The Globe and Mail MSCI’s,ORG,1
+2531,0.17 per cent,MONEY,1
+2532,Entos Pharmaceuticals,ORG,1
+2533,Sun Fusogenix,PERSON,1
+2534,PLV,ORG,1
+2535,Lukasz Kwapisz,PERSON,1
+2536,Dec. 22,DATE,1
+2537,"101,156",CARDINAL,1
+2538,The Star Deals,WORK_OF_ART,1
+2539,CBC News AstraZeneca,ORG,1
+2540,54,CARDINAL,1
+2541,Washington State,GPE,1
+2542,1.8B,MONEY,1
+2543,Zika - National,ORG,1
+2544,The Globe and Mail Chinese,ORG,1
+2545,Changsheng Biotechnology Co,ORG,1
+2546,America First’,EVENT,1
+2547,37 million,CARDINAL,1
+2548,Uyghur,FAC,1
+2549,"Monday, June 29, 2020",DATE,1
+2550,Inside Canada’s,ORG,1
+2551,Lee Coonfer,PERSON,1
+2552,12.8 million,CARDINAL,1
+2553,London Drugs,PERSON,1
+2554,CTV News Undocumented,ORG,1
+2555,83 cents,MONEY,1
+2556,1.75%,PERCENT,1
+2557,48.25,MONEY,1
+2558,under 55 years of age,DATE,1
+2559,University of Saskatchewan’s,ORG,1
+2560,The Globe and Mail The Canadian Center for Vaccinology,ORG,1
+2561,$1.6-billion,MONEY,1
+2562,the beginning of next year,DATE,1
+2563,National Geographic Explorer,ORG,1
+2564,University of Regina,ORG,1
+2565,the University of Regina,ORG,1
+2566,COVID-19 surge - The Globe and Mail Slightly,PRODUCT,1
+2567,"more than 14,000",CARDINAL,1
+2568,"521,000",CARDINAL,1
+2569,Margaret Bosnyak,PERSON,1
+2570,Videos & Articles Mandatory Vaccination,ORG,1
+2571,80s,DATE,1
+2572,"55,057",CARDINAL,1
+2573,1 week,DATE,1
+2574,"roughly 3,000",CARDINAL,1
+2575,"58,500",CARDINAL,1
+2576,10-20 million,CARDINAL,1
+2577,end-2020,DATE,1
+2578,The Globe and Mail Companies,ORG,1
+2579,half-billion,MONEY,1
+2580,COVID-19 vaccine - The Globe and Mail Like,PRODUCT,1
+2581,257,CARDINAL,1
+2582,the early hours,TIME,1
+2583,"456,947",CARDINAL,1
+2584,| CTV News Cholera,ORG,1
+2585,nearly 1 million,CARDINAL,1
+2586,The Star While,WORK_OF_ART,1
+2587,Scott Moe’s,PERSON,1
+2588,"Dec. 8, Tuesday",DATE,1
+2589,"3,235",CARDINAL,1
+2590,142,CARDINAL,1
+2591,790,CARDINAL,1
+2592,K - National | Globalnews.ca To date,ORG,1
+2593,"more than 720,000",CARDINAL,1
+2594,"997,265",CARDINAL,1
+2595,92-year-old,DATE,1
+2596,Peoples Park Tower,FAC,1
+2597,Moncton,GPE,1
+2598,2040,CARDINAL,1
+2599,COVID-19 vaccine - The Globe and Mail U.S.,PERSON,1
+2600,the Health Canada,ORG,1
+2601,"at least 96,000",CARDINAL,1
+2602,221,CARDINAL,1
+2603,"8,400",CARDINAL,1
+2604,Judy Mikovits,PERSON,1
+2605,12:01 Monday,DATE,1
+2606,Matt Gurney,PERSON,1
+2607,Haiti - National | Globalnews.ca The World Health Organization (WHO,ORG,1
+2608,Haiti,GPE,1
+2609,At least 13,CARDINAL,1
+2610,late Thursday night,TIME,1
+2611,Geraldo Rivera’s,PERSON,1
+2612,Jack the Ripper | The Star I’m,PERSON,1
+2613,late summer to June,DATE,1
+2614,more than nine million,MONEY,1
+2615,that month,DATE,1
+2616,Matt Galloway,PERSON,1
+2617,almost 450 million,CARDINAL,1
+2618,Toronto Sun Uneven,ORG,1
+2619,CBC Radio Medical,ORG,1
+2620,Sean Doyle,PERSON,1
+2621,86,CARDINAL,1
+2622,Fauci | CTV News,ORG,1
+2623,The Star NEW DELHI - India’s Health Ministry,ORG,1
+2624,Surrey,GPE,1
+2625,Healthcare Products Regulatory Agency,ORG,1
+2626,Manitoba Indigenous,GPE,1
+2627,The Globe and Mail Private,ORG,1
+2628,"517,000",CARDINAL,1
+2629,the ADP National Employment Report,ORG,1
+2630,BBIBP-CorV,ORG,1
+2631,| CTV News Doctors Without Borders,ORG,1
+2632,more than two-thirds,CARDINAL,1
+2633,mid-January,DATE,1
+2634,Scarborough Town Centre,FAC,1
+2635,the Convention Centre,FAC,1
+2636,the Toronto Congress,ORG,1
+2637,Johnson & Johnson's ',ORG,1
+2638,Feb. 11,DATE,1
+2639,More than 60,CARDINAL,1
+2640,874,CARDINAL,1
+2641,493,CARDINAL,1
+2642,The Globe and Mail U.K.,ORG,1
+2643,eight weeks,DATE,1
+2644,100 to 150,CARDINAL,1
+2645,CBC News Immunizations,ORG,1
+2646,627,CARDINAL,1
+2647,mid or late 2021,DATE,1
+2648,the Asia-Pacific region,LOC,1
+2649,Switzerland,GPE,1
+2650,$8.9-billion,MONEY,1
+2651,CBC News Central,ORG,1
+2652,The Globe and Mail Delays,ORG,1
+2653,a desperate hour,TIME,1
+2654,Northern Ontario,LOC,1
+2655,St. Louis or Pittsburgh,GPE,1
+2656,Kelly Grant,PERSON,1
+2657,Faye,ORG,1
+2658,Valentine’s Day,ORG,1
+2659,11 days,DATE,1
+2660,More than three-quarters,CARDINAL,1
+2661,almost 130,CARDINAL,1
+2662,another single-day,DATE,1
+2663,1-day,DATE,1
+2664,94-years-old,DATE,1
+2665,99,DATE,1
+2666,Over 150,CARDINAL,1
+2667,CHICAGO,GPE,1
+2668,the U.S. National Institutes of Health,ORG,1
+2669,NIH,ORG,1
+2670,406,CARDINAL,1
+2671,Peterborough Public Health,ORG,1
+2672,"Tuesday, February 23, 2021",DATE,1
+2673,Trudeau-Biden,PERSON,1
+2674,Uighur,PERSON,1
+2675,nearly three per cent,CARDINAL,1
+2676,91,DATE,1
+2677,Clarence House,ORG,1
+2678,Winston Peters,PERSON,1
+2679,The Globe and Mail Montreal,ORG,1
+2680,Mylene Drouin,PERSON,1
+2681,26 per cent,MONEY,1
+2682,The Globe and Mail Yoshitake Yokokura,ORG,1
+2683,"more than 389,000",CARDINAL,1
+2684,Ladakh,PERSON,1
+2685,Trille,GPE,1
+2686,Philip Morris International,ORG,1
+2687,The Globe and Mail Counties,ORG,1
+2688,around a quarter,DATE,1
+2689,A week ago,DATE,1
+2690,Sun Forest Atkinson,ORG,1
+2691,Canada Pension Plan Investment Board,ORG,1
+2692,the American Journal of Obstetrics and Gynecology,ORG,1
+2693,Trudeau |,ORG,1
+2694,the previous four years,DATE,1
+2695,nearly five,CARDINAL,1
+2696,NHS England,ORG,1
+2697,next few weeks,DATE,1
+2698,2007,DATE,1
+2699,Hong Kong ,GPE,1
+2700,Tracking Canada’s,ORG,1
+2701,79,CARDINAL,1
+2702,100 million mark,MONEY,1
+2703,"450,000",CARDINAL,1
+2704,Ravi Gupta,PERSON,1
+2705,| CTV News Ontario,ORG,1
+2706,a week earlier,DATE,1
+2707,Tdap,GPE,1
+2708,91 percent,PERCENT,1
+2709,the first two months,DATE,1
+2710,five-day,DATE,1
+2711,The Globe and Mail Polio,ORG,1
+2712,W. GLEN PYLE,PERSON,1
+2713,an initial five days,DATE,1
+2714,925,MONEY,1
+2715,CBC News Representatives,ORG,1
+2716,The Tokyo Olympics,EVENT,1
+2717,eight months ago,DATE,1
+2718,"July 23, 2021",DATE,1
+2719,Iffath Unissa Syed,PERSON,1
+2720,Jesse McLaren,PERSON,1
+2721,"about 17,500",CARDINAL,1
+2722,Zika vaccine - The Globe and Mail,PERSON,1
+2723,Mount Sinai Hospital,ORG,1
+2724,74+,DATE,1
+2725,Interior Health - Okanagan |,ORG,1
+2726,1947,DATE,1
+2727,1966,DATE,1
+2728,55-plus,CARDINAL,1
+2729,around 3.5 million,CARDINAL,1
+2730,Sun Letitia Wright,PERSON,1
+2731,CBC Radio’s,ORG,1
+2732,Michael Chong,PERSON,1
+2733,The Globe and Mail Often,ORG,1
+2734,CSIS,ORG,1
+2735,The Globe and Mail The Canada Pension Plan Investment Board,ORG,1
+2736,John Graham,PERSON,1
+2737,Machin’s,ORG,1
+2738,New Brunswick’s,GPE,1
+2739,1463,DATE,1
+2740,The Globe and Mail Shift,ORG,1
+2741,$23M,MONEY,1
+2742,$23 million,MONEY,1
+2743,1975,DATE,1
+2744,99 per cent,MONEY,1
+2745,"2,750",MONEY,1
+2746,The Star REGINA - Saskatchewan,WORK_OF_ART,1
+2747,"March 6 to 12, 2021",DATE,1
+2748,The Star From Harry and Meghan,WORK_OF_ART,1
+2749,Weeknd,PERSON,1
+2750,Juno Awards,PERSON,1
+2751,The Star Get,WORK_OF_ART,1
+2752,the Food and Drug Administration's,ORG,1
+2753,just 30 to 50,CARDINAL,1
+2754,as many as 200 million,CARDINAL,1
+2755,Germans,NORP,1
+2756,The Globe and Mail Scarce,ORG,1
+2757,almost 20 years this week,DATE,1
+2758,The Star Skeptics,ORG,1
+2759,Toye Oyelese,PERSON,1
+2760,Sun Nineteen,PERSON,1
+2761,the U.S. Securities and Exchange Commission,ORG,1
+2762,The Globe and Mail Manitoba,ORG,1
+2763,"7,300",CARDINAL,1
+2764,the beginning of January,DATE,1
+2765,"5,300",CARDINAL,1
+2766,IATA | CTV News Providing,ORG,1
+2767,7.8 billion,CARDINAL,1
+2768,747,PRODUCT,1
+2769,the International Air Transport Association,ORG,1
+2770,months-long,DATE,1
+2771,Communist Party,ORG,1
+2772,Supriya Sharma's,PERSON,1
+2773,18 and older,DATE,1
+2774,Kim Jong Un,PERSON,1
+2775,Vancouver Sun Microsoft,ORG,1
+2776,47.86,MONEY,1
+2777,1.80,MONEY,1
+2778,3.9%,PERCENT,1
+2779,44.91,MONEY,1
+2780,1.85,MONEY,1
+2781,4.3%,PERCENT,1
+2782,"3,063",CARDINAL,1
+2783,the 'end of summer,DATE,1
+2784,CBC Radio The World Health Organization,ORG,1
+2785,Emily Chung,PERSON,1
+2786,CBC News Billions,ORG,1
+2787,Middlesex,PERSON,1
+2788,Adam Dukelow,PERSON,1
+2789,"1,913",CARDINAL,1
+2790,a million,CARDINAL,1
+2791,"22,790",CARDINAL,1
+2792,the University of Toronto Scarborough,ORG,1
+2793,nearly a month,DATE,1
+2794,IMF,ORG,1
+2795,The Globe and Mail Saskatchewan Health Authority,ORG,1
+2796,the EU’s,ORG,1
+2797,38.5 per cent,MONEY,1
+2798,Britons,ORG,1
+2799,almost five,CARDINAL,1
+2800,The Globe and Mail Remote Indigenous,ORG,1
+2801,the Nuxalk Nation,ORG,1
+2802,Yukon COVID,ORG,1
+2803,Andrew Cuomo,PERSON,1
+2804,Vera Etches,PERSON,1
+2805,958,CARDINAL,1
+2806,Jen Psaki,PERSON,1
+2807,Amy Psaki,PERSON,1
+2808,The Globe and Mail Brazil,ORG,1
+2809,"more than 55,900",CARDINAL,1
+2810,Proud Boys,PERSON,1
+2811,Telus,PERSON,1
+2812,The Globe and Mail Regional UNICEF,ORG,1
+2813,Geert Cappelaere,PERSON,1
+2814,more than 11 million,CARDINAL,1
+2815,B.C. Liberals,ORG,1
+2816,Sun Ragtag,PERSON,1
+2817,the end of next month,DATE,1
+2818,San Diego,GPE,1
+2819,"Wednesday, February 24, 2021",DATE,1
+2820,Tiger Woods,PERSON,1
+2821,2.99 per cent,MONEY,1
+2822,Stewart,PERSON,1
+2823,95,DATE,1
+2824,95-year-old,DATE,1
+2825,more than two weeks,DATE,1
+2826,Monday night,TIME,1
+2827,Peel,GPE,1
+2828,Drugmakers,PERSON,1
+2829,Sun With Canada,ORG,1
+2830,Harvard,ORG,1
+2831,William Haseltine,PERSON,1
+2832,"September, 2021",DATE,1
+2833,Jan. 23-24,DATE,1
+2834,Nanaimo Regional Hospital,ORG,1
+2835,$20.4-billion,MONEY,1
+2836,$1.5-billion,MONEY,1
+2837,COVID-19 vaccine - The Globe and Mail Moderna’s,PRODUCT,1
+2838,around $30.50,MONEY,1
+2839,The Globe and Mail The Public Health Agency,ORG,1
+2840,this coming week,DATE,1
+2841,fewer than 1 million,CARDINAL,1
+2842,Honda,ORG,1
+2843,Sun Northern Michigan,PERSON,1
+2844,the spring and summer,DATE,1
+2845,65 to 70,DATE,1
+2846,Sun Britain,GPE,1
+2847,many years ago,DATE,1
+2848,The Star Check,WORK_OF_ART,1
+2849,The Globe and Mail Provincial,ORG,1
+2850,early February,DATE,1
+2851,the San Diego Zoo,ORG,1
+2852,CBC Radio Nine,ORG,1
+2853,Californians,NORP,1
+2854,Joint Operations Commend,ORG,1
+2855,Sun Pfizer,PERSON,1
+2856,roughly 15 million,CARDINAL,1
+2857,The New Yorker's,ORG,1
+2858,B.C. - The Globe and Mail Nurses,ORG,1
+2859,Christine Sorensen,PERSON,1
+2860,Shinzo Abe,PERSON,1
+2861,"Tuesday, July 14, 2020",DATE,1
+2862,The Star Toronto Public Health,ORG,1
+2863,SIN,ORG,1
+2864,"860,412",CARDINAL,1
+2865,"39,698",CARDINAL,1
+2866,Star UHN,ORG,1
+2867,Kevin Smith,PERSON,1
+2868,as 11%,PERCENT,1
+2869,at least 1.5 million,CARDINAL,1
+2870,Wright,PERSON,1
+2871,"12,253",CARDINAL,1
+2872,Mikhail Murashko,PERSON,1
+2873,Operation Warp Speed,WORK_OF_ART,1
+2874,America’s,ORG,1
+2875,Krutika Kuppalli,PERSON,1
+2876,South Carolina,GPE,1
+2877,The Globe and Mail European Commission,ORG,1
+2878,up to six,CARDINAL,1
+2879,450 million,CARDINAL,1
+2880,the week of Dec. 28,DATE,1
+2881,University of Alberta,ORG,1
+2882,54 million,CARDINAL,1
+2883,Business Council,ORG,1
+2884,COVID-19 - The Globe and Mail The Business Council of Canada,ORG,1
+2885,Jan 28,DATE,1
+2886,Trans Mountain,FAC,1
+2887,"600,000",CARDINAL,1
+2888,Gordon Beardy,PERSON,1
+2889,78 per cent,MONEY,1
+2890,CBC Explains,ORG,1
+2891,more than a third,CARDINAL,1
+2892,every day,DATE,1
+2893,first-quarter,DATE,1
+2894,this past week,DATE,1
+2895,centuries,DATE,1
+2896,At least eight,CARDINAL,1
+2897,Warsaw,GPE,1
+2898,New Brunswick’s,ORG,1
+2899,New Brunswickers,GPE,1
+2900,PM Trudeau,PERSON,1
+2901,Sun Billionaire,PERSON,1
+2902,N.Y.C.,ORG,1
+2903,Orthodox Jewish,NORP,1
+2904,Likud,ORG,1
+2905,The Globe and Mail Gabriel Nadeau-Dubois,ORG,1
+2906,Phase One,ORG,1
+2907,100-day,DATE,1
+2908,Vancouver Sun 'America,ORG,1
+2909,Steve Scalise,PERSON,1
+2910,Public Health Agency,ORG,1
+2911,CBC News Deliveries,ORG,1
+2912,Jean-Marc Eustache,PERSON,1
+2913,next winter,DATE,1
+2914,The Star Here,WORK_OF_ART,1
+2915,The Star The Army,ORG,1
+2916,"nearly 6,500",CARDINAL,1
+2917,83,CARDINAL,1
+2918,"395,927",CARDINAL,1
+2919,"12,407",CARDINAL,1
+2920,PepsiCo,ORG,1
+2921,The Globe and Mail PepsiCo Inc,ORG,1
+2922,CBC Radio Federal Health,ORG,1
+2923,the University Healt,ORG,1
+2924,The Star WARSAW,ORG,1
+2925,The Globe and Mail Current,ORG,1
+2926,The Globe and Mail The University of Saskatchewan’s Vaccine,ORG,1
+2927,"1,344",CARDINAL,1
+2928,Signs,PERSON,1
+2929,under 2 years old,DATE,1
+2930,2001,DATE,1
+2931,the Center for Disease Control,ORG,1
+2932,The Globe and Mail British Columbia,ORG,1
+2933,New Ottawa Public Health,ORG,1
+2934,2 weeks,DATE,1
+2935,Globalnews.ca Kingston Health Sciences Centre,ORG,1
+2936,LinkedIn,GPE,1
+2937,WhatsApp,ORG,1
+2938,Canada Day,DATE,1
+2939,"November 27, 2020",DATE,1
+2940,November 27,DATE,1
+2941,Sun Vaccines,PERSON,1
+2942,"more than 90,000",CARDINAL,1
+2943,Labour Ministry,ORG,1
+2944,"nearly 1,300",CARDINAL,1
+2945,"890,604",CARDINAL,1
+2946,"30,192",CARDINAL,1
+2947,the City of Ottawa,GPE,1
+2948,the Greater Toronto Area,LOC,1
+2949,Tiffany Osborn,PERSON,1
+2950,| CTV News Police,ORG,1
+2951,’ Rempel-Garner,WORK_OF_ART,1
+2952,only one-fifth,CARDINAL,1
+2953,Guelph’s West End,ORG,1
+2954,the Defence Department,ORG,1
+2955,The Ontario Ministry of Natural Resources and Forestry,ORG,1
+2956,over a dozen,CARDINAL,1
+2957,"more than 103,260",CARDINAL,1
+2958,nearly 90,CARDINAL,1
+2959,only about 0.3%,PERCENT,1
+2960,The initial weeks,DATE,1
+2961,March 19,DATE,1
+2962,"13,784",CARDINAL,1
+2963,Siberia,LOC,1
+2964,Greenland,GPE,1
+2965,up to eight months,DATE,1
+2966,The Globe and Mail Freeland,ORG,1
+2967,every few years,DATE,1
+2968,multibillion-dollar,MONEY,1
+2969,Behind Quebec’s,ORG,1
+2970,The Globe and Mail Province’s,ORG,1
+2971,| CTV News Congo's,ORG,1
+2972,a second day,DATE,1
+2973,The Globe and Mail Investing,ORG,1
+2974,Ahmad Doroudian,PERSON,1
+2975,Sun European Union,ORG,1
+2976,Europeans,NORP,1
+2977,"nearly 150,000",CARDINAL,1
+2978,"an estimated 147,000",CARDINAL,1
+2979,Fenelon Falls,PERSON,1
+2980,Northumberland,GPE,1
+2981,CBC News Almost,ORG,1
+2982,Sabrina Bacchus,PERSON,1
+2983,Sharma,PERSON,1
+2984,200 million,CARDINAL,1
+2985,Tam - National | Globalnews.ca,ORG,1
+2986,The Ontario Association of Radiologists,ORG,1
+2987,The Star WILMINGTON,ORG,1
+2988,'week to 10 days,DATE,1
+2989,| CBC Radio Health Canada,ORG,1
+2990,years ago,DATE,1
+2991,CBC Radio Dogs,ORG,1
+2992,2002,DATE,1
+2993,RFK,ORG,1
+2994,"More than 58,000",CARDINAL,1
+2995,only half,CARDINAL,1
+2996,"more than 8,000",CARDINAL,1
+2997,a few minutes later,TIME,1
+2998,8%,PERCENT,1
+2999,as low as 8 per cent,PERCENT,1
+3000,over 65 years,DATE,1
+3001,The Real Housewives of Buckingham Palace,WORK_OF_ART,1
+3002,Mark Saunders,PERSON,1
+3003,Ontario Place,PERSON,1
+3004,60 or older,DATE,1
+3005,The Globe and Mail Mutations,ORG,1
+3006,Breezy Hill RV Resort,FAC,1
+3007,The Globe and Mail National,ORG,1
+3008,St. Patrick’s Day,GPE,1
+3009,Amazon’s,ORG,1
+3010,Arthur Virgilio,PERSON,1
+3011,The Globe and Mail The International Energy Agency,ORG,1
+3012,Killer,PERSON,1
+3013,The Globe and Mail Studies,ORG,1
+3014,only 4.1 per cent,MONEY,1
+3015,just 20 per cent,PERCENT,1
+3016,96 per cent,MONEY,1
+3017,Dan David Foundation,ORG,1
+3018,six to nine months,DATE,1
+3019,London Drugs Ltd.,ORG,1
+3020,The Star REGINA - Saskatchewan’s,WORK_OF_ART,1
+3021,their early 70s,DATE,1
+3022,Carl Hansen,PERSON,1
+3023,AbCellera Biologics Inc.,ORG,1
+3024,1988,DATE,1
+3025,The Star HERKIMER,ORG,1
+3026,’ - The Globe and Mail Fauci,WORK_OF_ART,1
+3027,ABC Biden’s,ORG,1
+3028,| CTV News Executives,ORG,1
+3029,"5,955",CARDINAL,1
+3030,New Brunswick Education,ORG,1
+3031,"Dec. 4,",DATE,1
+3032,two months ago,DATE,1
+3033,fewer than 20,CARDINAL,1
+3034,April 15,DATE,1
+3035,CBC News Manitoba,LOC,1
+3036,Aug. 6,DATE,1
+3037,Jimmy K,PERSON,1
+3038,Moderna Inc,ORG,1
+3039,OHIP,PERSON,1
+3040,The Globe and Mail Cold-storage,ORG,1
+3041,Qatar,GPE,1
+3042,’ World Cup,EVENT,1
+3043,The Star Qatar,ORG,1
+3044,World Cup,EVENT,1
+3045,Black Americans,NORP,1
+3046,Moon,PERSON,1
+3047,The Globe and Mail Domestic,ORG,1
+3048,The Globe and Mail Unity Health,ORG,1
+3049,March 27,DATE,1
+3050,$19-billion,MONEY,1
+3051,July 16,DATE,1
+3052,less than,CARDINAL,1
+3053,Global Affairs Canada,ORG,1
+3054,PM's,DATE,1
+3055,fewer than a third,CARDINAL,1
+3056,Syrian,NORP,1
+3057,the last decade,DATE,1
+3058,University of Guelph’s,ORG,1
+3059,The University of Guelph,ORG,1
+3060,More than a dozen,CARDINAL,1
+3061,Israel - Israel,GPE,1
+3062,"some 60,000",CARDINAL,1
+3063,Earlier this week,DATE,1
+3064,The Globe and Mail ‘Mission,ORG,1
+3065,St. Michael’s Hospital,ORG,1
+3066,The Globe and Mail Long Term Care,ORG,1
+3067,the Unity Health Toronto,ORG,1
+3068,December 22nd,DATE,1
+3069,N.K.,GPE,1
+3070,Microsoft - National,ORG,1
+3071,The Globe and Mail Public Safety and Procurement,ORG,1
+3072,Tatiana Golikova,PERSON,1
+3073,K - National | Globalnews.ca Many,ORG,1
+3074,CTV News Screening,ORG,1
+3075,a tough year,DATE,1
+3076,The Globe and Mail About 300,ORG,1
+3077,"roughly 1,700",CARDINAL,1
+3078,Atlantic Canada’s,ORG,1
+3079,The Globe and Mail Ethical,ORG,1
+3080,The Globe and Mail Churches,ORG,1
+3081,as early as next Monday,DATE,1
+3082,Warren Kinsella,PERSON,1
+3083,Ten,CARDINAL,1
+3084,73,CARDINAL,1
+3085,"2,063",CARDINAL,1
+3086,"336,828",CARDINAL,1
+3087,Cystic Fibrosis,ORG,1
+3088,| The Star The Public Health Agency of,PRODUCT,1
+3089,Middle East,LOC,1
+3090,The Star LONDON -,PERSON,1
+3091,"Monday, March 8, 2021",DATE,1
+3092,11:00 p.m. ET,TIME,1
+3093,"Monday March 8, 2021",DATE,1
+3094,"63,000",CARDINAL,1
+3095,"some 63,000",CARDINAL,1
+3096,8.38 per cent,MONEY,1
+3097,Patrick J. Adams,PERSON,1
+3098,Karine Vanasse,PERSON,1
+3099,U2,GPE,1
+3100,The Globe and Mail Employers,ORG,1
+3101,Edouard Philippe,PERSON,1
+3102,the Danish Medicines Agency,ORG,1
+3103,VIPIT,PERSON,1
+3104,eight-eight-year-old,DATE,1
+3105,| CTV News Workers,ORG,1
+3106,Métis,NORP,1
+3107,at least Jan. 21,DATE,1
+3108,the Blue Jays,ORG,1
+3109,PPE - National | Globalnews.ca Ottawa,ORG,1
+3110,up to $500 million,MONEY,1
+3111,"over 6,800",CARDINAL,1
+3112,"17,729",CARDINAL,1
+3113,192,CARDINAL,1
+3114,kilometre,CARDINAL,1
+3115,26-year-old,DATE,1
+3116,Mini Cooper,WORK_OF_ART,1
+3117,Charles Barkley,PERSON,1
+3118,8.5 per cent,MONEY,1
+3119,40.29,MONEY,1
+3120,The Globe and Mail Long-term,ORG,1
+3121,"Over 5,000",CARDINAL,1
+3122,the previous school year,DATE,1
+3123,CBC Radio Vaccines,ORG,1
+3124,B.C. Premier,PERSON,1
+3125,"nearly 4,000",CARDINAL,1
+3126,CBC News Delays,ORG,1
+3127,five days,DATE,1
+3128,514,CARDINAL,1
+3129,"fewer than 20,000",CARDINAL,1
+3130,at least the next 10 days,DATE,1
+3131,Automakers,GPE,1
+3132,"More than 130,000",CARDINAL,1
+3133,first Video Online,WORK_OF_ART,1
+3134,CBC News Finance,ORG,1
+3135,six months to 11 years old,DATE,1
+3136,The Globe and Mail The Public Health Agency of,ORG,1
+3137,4.7,CARDINAL,1
+3138,5.5,CARDINAL,1
+3139,Clinicians,NORP,1
+3140,Faster,PERSON,1
+3141,Darryl Falzarano,PERSON,1
+3142,next January,DATE,1
+3143,Melania,GPE,1
+3144,65 years of age and older,DATE,1
+3145,Njoo,PERSON,1
+3146,"Tuesday, March 2, 2021",DATE,1
+3147,3.72,CARDINAL,1
+3148,Ian Brown,PERSON,1
+3149,CBC News Eliminating,ORG,1
+3150,The Globe and Mail Manitoba MP,ORG,1
+3151,Niki Ashton,PERSON,1
+3152,Fraser Health,GPE,1
+3153,77-year-old,DATE,1
+3154,Fraser Health,FAC,1
+3155,Christmas Eve of all days,DATE,1
+3156,Saskatoon,PERSON,1
+3157,29 days,DATE,1
+3158,1 per cent,MONEY,1
+3159,one per cent,MONEY,1
+3160,"6,178",CARDINAL,1
+3161,the Olympic Stadium,EVENT,1
+3162,more than 1.2 million,CARDINAL,1
+3163,The Canadian Conference of Catholic Bishops,ORG,1
+3164,Roman Catholics,NORP,1
+3165,The Globe and Mail Surge,ORG,1
+3166,some 70 per cent,MONEY,1
+3167,60 years old,DATE,1
+3168,James Smith Cree Nation,PERSON,1
+3169,The Saskatoon Tribal Council,ORG,1
+3170,the Federation of Sovereign Indigenous Nations',ORG,1
+3171,Charities,PERSON,1
+3172,Veldon Coburn,PERSON,1
+3173,the University of Ottawa's,ORG,1
+3174,Institute of Indigenous Research and Studies,ORG,1
+3175,"2,828",CARDINAL,1
+3176,"20,213",CARDINAL,1
+3177,Ottawa Public Health's,ORG,1
+3178,Bloomberg News,ORG,1
+3179,"Dec. 7, 2020",DATE,1
+3180,13 years ago,DATE,1
+3181,Sun Hungarian,PERSON,1
+3182,| CTV News Ebola,ORG,1
+3183,at least nine,CARDINAL,1
+3184,Romeo Saganash,PERSON,1
+3185,UNDRIP,ORG,1
+3186,the early 1930s,DATE,1
+3187,Tara Hills,PERSON,1
+3188,Mario Draghi,PERSON,1
+3189,74,CARDINAL,1
+3190,the National Institute on Ageing,ORG,1
+3191,Shoppers Drug Mart,ORG,1
+3192,WestJet,ORG,1
+3193,CBC Radio University of,ORG,1
+3194,Ask Me Anything,WORK_OF_ART,1
+3195,"Friday, July 31, 2015",DATE,1
+3196,July 19,DATE,1
+3197,six months,DATE,1
+3198,The Star The COVAX Facility,WORK_OF_ART,1
+3199,next month's,DATE,1
+3200,six-fold,QUANTITY,1
+3201,a quarter,DATE,1
+3202,spring 2021,DATE,1
+3203,1.1M,PERCENT,1
+3204,$440 million,MONEY,1
+3205,about nine,CARDINAL,1
+3206,Vancouver Sun OTTAWA,PERSON,1
+3207,every extra month,DATE,1
+3208,Hea,PERSON,1
+3209,The Globe and Mail Police,ORG,1
+3210,years earlier,DATE,1
+3211,"as many as 10,000",CARDINAL,1
+3212,the age of 18 to 29,DATE,1
+3213,"133,000",CARDINAL,1
+3214,The Globe and Mail Virtual,ORG,1
+3215,third week,DATE,1
+3216,76 cents,MONEY,1
+3217,1.7 per cent,MONEY,1
+3218,44.96,MONEY,1
+3219,six days,DATE,1
+3220,The Globe and Mail Stimulus,ORG,1
+3221,up to 414 million,MONEY,1
+3222,about five,CARDINAL,1
+3223,The Globe and Mail Butembo,ORG,1
+3224,4.3 million,CARDINAL,1
+3225,Zimbabwe,GPE,1
+3226,700,CARDINAL,1
+3227,K Facebook,ORG,1
+3228,the Centers for Disease Control,ORG,1
+3229,100-per cent,MONEY,1
+3230,hours-long,TIME,1
+3231,ten days,DATE,1
+3232,CBC News Provincial Health,ORG,1
+3233,British Columbians ,ORG,1
+3234,the new few months,DATE,1
+3235,2011,DATE,1
+3236,Mitt Romney,PERSON,1
+3237,Remdesivir,ORG,1
+3238,as much as,PERCENT,1
+3239,Pfizer’s ,ORG,1
+3240,Cansino Biologics Inc,ORG,1
+3241,Walvax Biotechnology Co Ltd.,ORG,1
+3242,Lethbridge,ORG,1
+3243,000,CARDINAL,1
+3244,about $38,MONEY,1
+3245,at least a million,CARDINAL,1
+3246,Staten Island,LOC,1
+3247,Cadmus Delorme,PERSON,1
+3248,Town Hall,FAC,1
+3249,The Globe and Mail Co-hosted,ORG,1
+3250,The Royal Society of Canada,ORG,1
+3251,Waterloo Public Health - Kitchener,ORG,1
+3252,"over 6,000",CARDINAL,1
+3253,Star Critics,ORG,1
+3254,age 85,DATE,1
+3255,Charles Gardner,PERSON,1
+3256,The Globe and Mail Hackers,ORG,1
+3257,Jason Kenney ,PERSON,1
+3258,"Novavax, Johnson & Johnson",ORG,1
+3259,Seven days,DATE,1
+3260,James Horne,PERSON,1
+3261,The Globe and Mail YouTube,ORG,1
+3262,60-64,DATE,1
+3263,327,CARDINAL,1
+3264,Netflix,ORG,1
+3265,Constitution,LAW,1
+3266,674,CARDINAL,1
+3267,"31,611",CARDINAL,1
+3268,"297,592",CARDINAL,1
+3269,"10,540",CARDINAL,1
+3270,"715,581",CARDINAL,1
+3271,114 million,CARDINAL,1
+3272,The Globe and Mail Retooling,ORG,1
+3273,age 55-65,DATE,1
+3274,AstraZeneca/COVISHIELD,ORG,1
+3275,more than 400-thousand,CARDINAL,1
+3276,the age of 50,DATE,1
+3277,"less than 1,000",CARDINAL,1
+3278,Gloria Lallouz,PERSON,1
+3279,Maimonides Geriatric Centre,FAC,1
+3280,the British House of Commons,ORG,1
+3281,72+ as of,DATE,1
+3282,"22,151",CARDINAL,1
+3283,76 years,DATE,1
+3284,One-day,DATE,1
+3285,9-11,CARDINAL,1
+3286,The Star MISSION,PERSON,1
+3287,Kan.,GPE,1
+3288,the United Kingdom and South Africa,GPE,1
+3289,The Globe and Mail Report,ORG,1
+3290,Mike Duggan,PERSON,1
+3291,Kayleigh McEnany,PERSON,1
+3292,"35,456",CARDINAL,1
+3293,4B,MONEY,1
+3294,Canadian Cancer Society,ORG,1
+3295,the Canadian Cancer Society,ORG,1
+3296,The Star Toronto’s,WORK_OF_ART,1
+3297,last school year,DATE,1
+3298,Jennifer Juno,PERSON,1
+3299,509,CARDINAL,1
+3300,five straight days,DATE,1
+3301,186,CARDINAL,1
+3302,Cross Protection,ORG,1
+3303,Encephalitis Vaccine,PERSON,1
+3304,Lesser COVID Mortality,ORG,1
+3305,Sun Novel,ORG,1
+3306,Edogawa Hospital,ORG,1
+3307,his first 100 days,DATE,1
+3308,earlier this month - before,DATE,1
+3309,60th,ORDINAL,1
+3310,Kate,PERSON,1
+3311,"2,432",CARDINAL,1
+3312,Univers,ORG,1
+3313,Baltimore,GPE,1
+3314,Baltimore Ravens,PERSON,1
+3315,the M&T Bank Stadium,ORG,1
+3316,Holocaust,EVENT,1
+3317,Jordana Sacks,PERSON,1
+3318,Walter Gretzky,PERSON,1
+3319,The Star Vaccine,WORK_OF_ART,1
+3320,De Villa,PERSON,1
+3321,Amnesty International - National | Globalnews.ca Rich,ORG,1
+3322,nearly three,CARDINAL,1
+3323,Amnesty International,ORG,1
+3324,Insights West,LOC,1
+3325,Sun Travel,ORG,1
+3326,61 per cent,MONEY,1
+3327,at least 12 to 18 months,CARDINAL,1
+3328,SNL’,ORG,1
+3329,Cuomo - National,ORG,1
+3330,Ted Cruz,PERSON,1
+3331,Taliban,ORG,1
+3332,Measles,PERSON,1
+3333,World Health,ORG,1
+3334,Zurich,GPE,1
+3335,three and a half decades,DATE,1
+3336,Blitzer,PERSON,1
+3337,Kate McKinnon,PERSON,1
+3338,Heidi Gardner,PERSON,1
+3339,"only 26,325",CARDINAL,1
+3340,the week of Feb. 1,DATE,1
+3341,Vaccine Queue Calculator,WORK_OF_ART,1
+3342,under 50s,DATE,1
+3343,under 50,DATE,1
+3344,less than two weeks,DATE,1
+3345,Yaffe |,PERSON,1
+3346,Barbara Yaffe,PERSON,1
+3347,Kanna Vela,PERSON,1
+3348,Ajax,ORG,1
+3349,nearly 10 months,DATE,1
+3350,late December,DATE,1
+3351,the Second World War,EVENT,1
+3352,the first day of a week-long,DATE,1
+3353,"18,000",CARDINAL,1
+3354,44-year-old,DATE,1
+3355,clotting days,DATE,1
+3356,the third day in a row,DATE,1
+3357,"540,129",CARDINAL,1
+3358,"21,295",CARDINAL,1
+3359,Suez Canal,ORG,1
+3360,George Floyd,PERSON,1
+3361,the holiday season,DATE,1
+3362,Baker,PERSON,1
+3363,20/20,CARDINAL,1
+3364,mid-2022,DATE,1
+3365,2023,DATE,1
+3366,Trudeau | CTV News Canada,ORG,1
+3367,CTV,ORG,1
+3368,2018-19,DATE,1
+3369,between the ages of 1 and 8,DATE,1
+3370,the BC Centre for Disease Control,ORG,1
+3371,Pfizer-BioNTech's,GPE,1
+3372,more than 280,CARDINAL,1
+3373,Alberta Budget,ORG,1
+3374,Miller - National | Globalnews.ca The Indigenous,ORG,1
+3375,about 25 per cent,MONEY,1
+3376,Olympic,EVENT,1
+3377,earlier in the week,DATE,1
+3378,Trump - National | Globalnews.ca U.S.,ORG,1
+3379,Sinovac,NORP,1
+3380,65 years,DATE,1
+3381,The Globe and Mail Maj.-Gen,ORG,1
+3382,ninth,ORDINAL,1
+3383,the '70s,DATE,1
+3384,the 'coming weeks,DATE,1
+3385,"2,800",MONEY,1
+3386,June 1,DATE,1
+3387,at least 75,CARDINAL,1
+3388,Sept. 30,DATE,1
+3389,"some 30,000",CARDINAL,1
+3390,"Nearly 200,000",CARDINAL,1
+3391,"Monday, March 22, 2021",DATE,1
+3392,8.76 per cent,MONEY,1
+3393,The Globe and Mail The New Westminster School Board,ORG,1
+3394,last Friday’s,DATE,1
+3395,as millions,CARDINAL,1
+3396,@NightshiftMD,PERSON,1
+3397,Andre Kutyan,PERSON,1
+3398,Harvey Kalles Real Estate Ltd.,ORG,1
+3399,$10.7-billion,MONEY,1
+3400,Ernie Steeves,PERSON,1
+3401,"approximately 340,000",CARDINAL,1
+3402,Susan Delacourt,PERSON,1
+3403,The Globe and Mail The Serum Institute,ORG,1
+3404,Toronto Sun HALIFAX,ORG,1
+3405,new year,DATE,1
+3406,"253,470",CARDINAL,1
+3407,3.8 million,CARDINAL,1
+3408,more than a million,MONEY,1
+3409,656,CARDINAL,1
+3410,"10,618",CARDINAL,1
+3411,Dirk Huyer,PERSON,1
+3412,weeks’,DATE,1
+3413,Racialized,ORG,1
+3414,70 or older,DATE,1
+3415,Sun Non-hospital,PERSON,1
+3416,about March,DATE,1
+3417,"39,930",CARDINAL,1
+3418,"Tuesday, March 16, 2021",DATE,1
+3419,6.71 per cent,MONEY,1
+3420,more than 117 million,CARDINAL,1
+3421,more than three dozen,CARDINAL,1
+3422,three-year-old,DATE,1
+3423,"6,847",CARDINAL,1
+3424,Love,WORK_OF_ART,1
+3425,Sun Cecie Elnicki,PERSON,1
+3426,between 1970,DATE,1
+3427,the early 1990s,DATE,1
+3428,Ferwerda,ORG,1
+3429,Q2 - National | Globalnews.ca,ORG,1
+3430,the first quarter,DATE,1
+3431,Yellowknife,GPE,1
+3432,Bandung,GPE,1
+3433,West Java,GPE,1
+3434,COVID-19 - National |,ORG,1
+3435,Renée El-Gabalawy,PERSON,1
+3436,Jordana Sommer,PERSON,1
+3437,the University of Manitoba,ORG,1
+3438,The Globe and Mail Multivalent,ORG,1
+3439,"Gananoque, Ont.",ORG,1
+3440,Eduardo Pazuello,PERSON,1
+3441,Joo Doria,PERSON,1
+3442,Butantan Institute,ORG,1
+3443,The Globe and Mail Plan,ORG,1
+3444,close to $115-million,MONEY,1
+3445,20%,PERCENT,1
+3446,The Star LONDON - Shipments,PERSON,1
+3447,the Stollery Children’s Hospital,FAC,1
+3448,the first few months,DATE,1
+3449,The Globe and Mail Since,ORG,1
+3450,465,CARDINAL,1
+3451,New Hampshire,GPE,1
+3452,The Star CONCORD,ORG,1
+3453,N.H.,GPE,1
+3454,New Hampshire’s,GPE,1
+3455,Oct. 2,DATE,1
+3456,BC COVID,ORG,1
+3457,"Oct. 2, 2020",DATE,1
+3458,"53,000",CARDINAL,1
+3459,The Star ‘We,WORK_OF_ART,1
+3460,the two weeks,DATE,1
+3461,all year,DATE,1
+3462,Ticketmaster,PERSON,1
+3463,the Organization for Economic Co-operation,ORG,1
+3464,Eighty-four-year-old,CARDINAL,1
+3465,Pauline Gauvin,PERSON,1
+3466,Shannex Losier Hall,FAC,1
+3467,Michael Nickerson,PERSON,1
+3468,the International Union of Operating Engineers,ORG,1
+3469,the end of next week,DATE,1
+3470,"33,975",CARDINAL,1
+3471,New Brunswick | CTV News,GPE,1
+3472,Charlotte County,GPE,1
+3473,More than 80%,PERCENT,1
+3474,The Star Experts,ORG,1
+3475,"nearly 890,000",CARDINAL,1
+3476,John Hollis's,PERSON,1
+3477,Virginia,GPE,1
+3478,63,DATE,1
+3479,64,DATE,1
+3480,"249,600",CARDINAL,1
+3481,NDP - National | Globalnews.ca Procurement,ORG,1
+3482,Saint John - New Brunswick,GPE,1
+3483,Saint John,GPE,1
+3484,"April 1, 2021",DATE,1
+3485,B.C. | Watch News,ORG,1
+3486,Months ago,DATE,1
+3487,Merck’s,ORG,1
+3488,The Globe and Mail Merck’s,ORG,1
+3489,May 11,DATE,1
+3490,Cargill,ORG,1
+3491,nearly eight weeks,DATE,1
+3492,late July,DATE,1
+3493,The Star Even Prime,WORK_OF_ART,1
+3494,707,CARDINAL,1
+3495,"16,619",CARDINAL,1
+3496,"490,504",CARDINAL,1
+3497,€400-million,MONEY,1
+3498,"Less than 1,100",CARDINAL,1
+3499,39 million,CARDINAL,1
+3500,a ‘bad day,DATE,1
+3501,Greece,GPE,1
+3502,The Globe and Mail Restrictions,ORG,1
+3503,"6,285",CARDINAL,1
+3504,147,CARDINAL,1
+3505,"17,233",CARDINAL,1
+3506,Videos & Articles Vaccination,ORG,1
+3507,The Globe and Mail Drug,ORG,1
+3508,6 months,DATE,1
+3509,Irene Gentle,PERSON,1
+3510,1.3M Moderna doses,PERCENT,1
+3511,more than 10,CARDINAL,1
+3512,early 60s,DATE,1
+3513,the National Adv,ORG,1
+3514,New Brunswick | Globalnews.ca Health,GPE,1
+3515,"2,400",CARDINAL,1
+3516,Moderna Inc’s,ORG,1
+3517,Sun Francis,PERSON,1
+3518,The Star OTTAWA - Canada’s,WORK_OF_ART,1
+3519,"1,030",CARDINAL,1
+3520,| CBC.ca Canada,ORG,1
+3521,1,MONEY,1
+3522,$44.32 barrel,MONEY,1
+3523,1.04,MONEY,1
+3524,2.4 per cent,MONEY,1
+3525,CTV News Pharmaceutical,ORG,1
+3526,The Globe and Mail Parents of Grade,ORG,1
+3527,$15-billion,MONEY,1
+3528,170,MONEY,1
+3529,New Brunswick | Globalnews.ca ',GPE,1
+3530,’ January,DATE,1
+3531,"2,662",CARDINAL,1
+3532,"264,985",CARDINAL,1
+3533,"Wednesday, March 10, 2021",DATE,1
+3534,5.17 per cent,MONEY,1
+3535,75-plus,QUANTITY,1
+3536,"More than 33,000",CARDINAL,1
+3537,last Thursday,DATE,1
+3538,"more than 3,000",CARDINAL,1
+3539,the Tsleil-Waututh First Nation,ORG,1
+3540,"Thursday, June 11, 2020",DATE,1
+3541,"more than 97,000",CARDINAL,1
+3542,"nearly 8,000",CARDINAL,1
+3543,the Saskatchewan Ministry of Health,ORG,1
+3544,only dozens,CARDINAL,1
+3545,another disastrous year,DATE,1
+3546,Pearson,ORG,1
+3547,Toronto Catholic,ORG,1
+3548,The Star Former NATO,WORK_OF_ART,1
+3549,Zyus Life Sciences,ORG,1
+3550,five to seven years,DATE,1
+3551,Nick Rossman,PERSON,1
+3552,Global Threat Intelligence Lead,ORG,1
+3553,Security X-Force,ORG,1
+3554,Nicaragua - National | Globalnews.ca,ORG,1
+3555,Nicaragua,GPE,1
+3556,14 of the week’s,DATE,1
+3557,"Feb. 27 to March 5, 2021",DATE,1
+3558,The Star From,WORK_OF_ART,1
+3559,$3-million,MONEY,1
+3560,$8-billion,MONEY,1
+3561,less than four months,DATE,1
+3562,Shahab,PERSON,1
+3563,"almost 894,000",CARDINAL,1
+3564,"more than 22,300",CARDINAL,1
+3565,20-39 years old,DATE,1
+3566,Mark Lievonen,PERSON,1
+3567,"549,000",CARDINAL,1
+3568,the late 19th century,DATE,1
+3569,"Tuesday, March 30, 2021",DATE,1
+3570,Derek Chauvin,PERSON,1
+3571,Amber Alert,FAC,1
+3572,14.66 per cent,MONEY,1
+3573,The Star While the Pfizer,WORK_OF_ART,1
+3574,Winnipeg's,ORG,1
+3575,Adam Reed,PERSON,1
+3576,"nearly 90,000",CARDINAL,1
+3577,the first half of 2019,DATE,1
+3578,SNC-Lavalin,ORG,1
+3579,the Department of Health and Human Services,ORG,1
+3580,Twenty-four,CARDINAL,1
+3581,"4,573",CARDINAL,1
+3582,"971,723",CARDINAL,1
+3583,The Globe and Mail Health Canada’s,ORG,1
+3584,The Star TORONTO - Vulnerable,WORK_OF_ART,1
+3585,at least 20 million,CARDINAL,1
+3586,Spring,DATE,1
+3587,the end of this week,DATE,1
+3588,"more than 929,000",CARDINAL,1
+3589,"417,000",CARDINAL,1
+3590,A dozen,CARDINAL,1
+3591,COVID-19 | CTV News Researchers in,ORG,1
+3592,Laurentian University,ORG,1
+3593,roughly 4 million,MONEY,1
+3594,The Globe and Mail Sputnik,ORG,1
+3595,Slovakia,GPE,1
+3596,the Czech Republic,GPE,1
+3597,West Coast,LOC,1
+3598,"1,506",CARDINAL,1
+3599,195,CARDINAL,1
+3600,the first 100 days,DATE,1
+3601,Lower Mainland,ORG,1
+3602,up to,QUANTITY,1
+3603,"Sept. 1, 2021",DATE,1
+3604,New Brunswick,LOC,1
+3605,5-year-old,DATE,1
+3606,nearly two decades,DATE,1
+3607,The Star Behind,WORK_OF_ART,1
+3608,Russians,NORP,1
+3609,More than 50,CARDINAL,1
+3610,The Globe and Mail Manufacturers,ORG,1
+3611,Nancy Pelosi,PERSON,1
+3612,a bad flu season,DATE,1
+3613,Sauder School of Business,ORG,1
+3614,Kingston’s,ORG,1
+3615,Kieran Moore,PERSON,1
+3616,KFL&A,GPE,1
+3617,H1N1,CARDINAL,1
+3618,NACI’s,ORG,1
+3619,Alexey Navalny,PERSON,1
+3620,Once Canada,ORG,1
+3621,New Jersey Assembly’s,ORG,1
+3622,The Globe and Mail New Jersey,ORG,1
+3623,COVID-19 - Montreal,ORG,1
+3624,the first 28 days,DATE,1
+3625,| CTV News Provinces,ORG,1
+3626,Lucky Aguila,PERSON,1
+3627,27-year-old,DATE,1
+3628,Aguila,PERSON,1
+3629,Karina Gould,PERSON,1
+3630,Sharing Medicine,WORK_OF_ART,1
+3631,Mé,PERSON,1
+3632,Mangina,GPE,1
+3633,Gates,PERSON,1
+3634,another two weeks,DATE,1
+3635,The Globe and Mail Pfizer-BioNTech,ORG,1
+3636,the first three weeks,DATE,1
+3637,The Globe and Mail Religious,ORG,1
+3638,the late 1700s,DATE,1
+3639,Games,PERSON,1
+3640,Yoshiro Mori,PERSON,1
+3641,the Tokyo 2020 Organizing Committee,EVENT,1
+3642,"March 16, 2021",DATE,1
+3643,earlier in,TIME,1
+3644,58 or older,DATE,1
+3645,as early as January,DATE,1
+3646,Dec. 19,DATE,1
+3647,the late spring,DATE,1
+3648,within days,DATE,1
+3649,University of Victoria,ORG,1
+3650,30 years,DATE,1
+3651,The Globe and Mail Twitter,ORG,1
+3652,180,CARDINAL,1
+3653,Malawi,GPE,1
+3654,March 3,DATE,1
+3655,no more than six weeks,DATE,1
+3656,The Star Newfoundland,ORG,1
+3657,Anna Taddio,PERSON,1
+3658,Tens of thousands,CARDINAL,1
+3659,only about half,CARDINAL,1
+3660,Four months,DATE,1
+3661,Lynora Saxinger,PERSON,1
+3662,Raywat Deonandan,PERSON,1
+3663,"25,000",MONEY,1
+3664,Sixty-seven,CARDINAL,1
+3665,The Globe and Mail Purchasing Managers,ORG,1
+3666,about the year ahead,DATE,1
+3667,70s,DATE,1
+3668,the age of 69,DATE,1
+3669,about 90 per cent,MONEY,1
+3670,More than five million,CARDINAL,1
+3671,Throne Speech,ORG,1
+3672,Jan. 25,DATE,1
+3673,the next five to 14 days,DATE,1
+3674,the Ontario Pharmacists Association,ORG,1
+3675,Bank of Canada - The Globe and Mail,ORG,1
+3676,Government of Canada,ORG,1
+3677,769,CARDINAL,1
+3678,an additional 286,CARDINAL,1
+3679,"over 180,000",CARDINAL,1
+3680,more than 6 million,CARDINAL,1
+3681,the following month,DATE,1
+3682,about 1 million,CARDINAL,1
+3683,'million dollar,MONEY,1
+3684,48.84,MONEY,1
+3685,5 cents,MONEY,1
+3686,over 11 years,DATE,1
+3687,’ day,DATE,1
+3688,Obama,PERSON,1
+3689,Bush,PERSON,1
+3690,Sierra Leone - National,ORG,1
+3691,The Globe and Mail Regulators,ORG,1
+3692,Treasury,ORG,1
+3693,"up to 5,000",CARDINAL,1
+3694,Sean Simpson,PERSON,1
+3695,The Star Adrian Cheung,ORG,1
+3696,64%,PERCENT,1
+3697,Maclean,ORG,1
+3698,39%,PERCENT,1
+3699,Matthew Pegg,PERSON,1
+3700,Feb. 1,DATE,1
+3701,The Star NAIROBI,ORG,1
+3702,"About 3,900",CARDINAL,1
+3703,three weeks later,DATE,1
+3704,about 800,CARDINAL,1
+3705,"approximately 5,000",CARDINAL,1
+3706,just 'days,DATE,1
+3707,The Globe and Mail Save the Children,ORG,1
+3708,43,DATE,1
+3709,Innomar Strategies,ORG,1
+3710,COVID-19 Task Force,PRODUCT,1
+3711,N.L.,ORG,1
+3712,May | CTV News,ORG,1
+3713,up to 8.5 million,QUANTITY,1
+3714,about 1 to 1.5 million,CARDINAL,1
+3715,Alaskan,NORP,1
+3716,Joanne Langley,PERSON,1
+3717,Afghan Taliban,ORG,1
+3718,July 20,DATE,1
+3719,America First',WORK_OF_ART,1
+3720,The Globe and Mail BioNTech,ORG,1
+3721,Fosun Pharma,PERSON,1
+3722,CBC News Pfizer,ORG,1
+3723,Dalhousie University’s Canadian Centre for Vaccinology,ORG,1
+3724,Dec. 18,DATE,1
+3725,113 million,CARDINAL,1
+3726,US$10-billion,MONEY,1
+3727,the Wall Street Journal,ORG,1
+3728,The Globe and Mail Governments,ORG,1
+3729,Cutting-Edge Pharmaceuticals,ORG,1
+3730,decades-long,DATE,1
+3731,Oly Ilunga,GPE,1
+3732,"2,000th",CARDINAL,1
+3733,more than six months,DATE,1
+3734,The Star PARIS - Under,WORK_OF_ART,1
+3735,Citizen Lab,PERSON,1
+3736,Ballem,PERSON,1
+3737,Europe’s,ORG,1
+3738,Inclusive Vaccines Alliance,ORG,1
+3739,Burnaby,PERSON,1
+3740,U.K. Video,ORG,1
+3741,The Star FLAGSTAFF,ORG,1
+3742,Ariz.,GPE,1
+3743,Native American,NORP,1
+3744,Health Canada - National | Globalnews.ca Health Canada,ORG,1
+3745,March 4,DATE,1
+3746,381,CARDINAL,1
+3747,Sun Variants,PERSON,1
+3748,Cuban,NORP,1
+3749,$925-million,MONEY,1
+3750,Ontario - The Globe and Mail Industry,ORG,1
+3751,Acropolis,NORP,1
+3752,Athens,GPE,1
+3753,COVID-19 Vaccine,PERSON,1
+3754,New Brunswick - National | Globalnews.ca,FAC,1
+3755,"287,000",CARDINAL,1
+3756,The Star Possibility of a second,ORG,1
+3757,Lockdown,ORG,1
+3758,South Africa’s,GPE,1
+3759,another 100 million,MONEY,1
+3760,The Globe and Mail First,ORG,1
+3761,Medicago’s,ORG,1
+3762,Big Tobacco,ORG,1
+3763,The Globe and Mail Ontario’s,ORG,1
+3764,"almost 100,000",CARDINAL,1
+3765,CBC Radio Fresh,ORG,1
+3766,"352,778",CARDINAL,1
+3767,"11,799",CARDINAL,1
+3768,"1,676",CARDINAL,1
+3769,"more than 2,200",CARDINAL,1
+3770,Toronto Sun Politics,ORG,1
+3771,Mexico - The Globe and Mail,FAC,1
+3772,under a year - The Globe and Mail Because,DATE,1
+3773,The Surrey Board of Trade,ORG,1
+3774,CBC News New,ORG,1
+3775,Edmonton - Edmonton,ORG,1
+3776,Dozens,CARDINAL,1
+3777,Métis Albertans,NORP,1
+3778,the Edmonton Inn and Conference Centre,ORG,1
+3779,The Globe and Mail Warm,ORG,1
+3780,Ugur Sahin,PERSON,1
+3781,Chapman,ORG,1
+3782,Ashley Chapman,PERSON,1
+3783,Wisconsin - National | Globalnews.ca Prosecutors,ORG,1
+3784,The Globe and Mail The EMA,ORG,1
+3785,late Wednesday,TIME,1
+3786,At least two,CARDINAL,1
+3787,Childhood,ORG,1
+3788,The Globe and Mail Ruling,ORG,1
+3789,Toronto Sun OTTAWA — Canada,ORG,1
+3790,few years,DATE,1
+3791,Maurice Brodie,PERSON,1
+3792,Ron Klain,PERSON,1
+3793,2nd year,DATE,1
+3794,Ramaphosa,PERSON,1
+3795,nearly 1.5 million,CARDINAL,1
+3796,"more than 48,000",CARDINAL,1
+3797,| CTV News Even,ORG,1
+3798,Ethiopia,GPE,1
+3799,Tigray’s,ORG,1
+3800,Sobeys,ORG,1
+3801,Empire,GPE,1
+3802,the past seven days,DATE,1
+3803,"24,331",CARDINAL,1
+3804,"3,476",CARDINAL,1
+3805,One million,CARDINAL,1
+3806,"Thursday, March 25, 2021",DATE,1
+3807,9.87 per cent,MONEY,1
+3808,The Globe and Mail State,ORG,1
+3809,Food and Drug Administration,ORG,1
+3810,the early weeks,DATE,1
+3811,Miller,ORG,1
+3812,The Globe and Mail Indigenous Services,ORG,1
+3813,"more than 88,000",CARDINAL,1
+3814,Oak Bay,LOC,1
+3815,Operation Vector’,EVENT,1
+3816,last day,DATE,1
+3817,Ontario Medical Association,ORG,1
+3818,The Globe and Mail Some EU,ORG,1
+3819,the European Commission’s,ORG,1
+3820,US$1.9 trillion,MONEY,1
+3821,North Korea’s,GPE,1
+3822,the University of Oxford,ORG,1
+3823,Santa Claus,ORG,1
+3824,Sun Ann Rastin,PERSON,1
+3825,88-year-old,DATE,1
+3826,last Tuesday,DATE,1
+3827,72 per cent,MONEY,1
+3828,87-year-old,DATE,1
+3829,FirstOntario Centre,FAC,1
+3830,The Globe and Mail Estimates,ORG,1
+3831,more than $10-billion,MONEY,1
+3832,annually,DATE,1
+3833,The Globe and Mail The National Advisory Committee on Immunization,ORG,1
+3834,Cheryl Gallant,PERSON,1
+3835,‘1st,DATE,1
+3836,600 million,CARDINAL,1
+3837,more than a month earlier,DATE,1
+3838,"583,653",CARDINAL,1
+3839,"11,677",CARDINAL,1
+3840,above 45,DATE,1
+3841,days - Macleans.ca,DATE,1
+3842,up to seven,CARDINAL,1
+3843,Lambton Public Health,ORG,1
+3844,May 18,DATE,1
+3845,Champagne,ORG,1
+3846,Garneau,PERSON,1
+3847,an additional 20 million,CARDINAL,1
+3848,96,DATE,1
+3849,Romania,GPE,1
+3850,Feb. 18,DATE,1
+3851,the mid-20th century,DATE,1
+3852,nearly one year,DATE,1
+3853,"March 11, 2020",DATE,1
+3854,Last month,DATE,1
+3855,just 10,CARDINAL,1
+3856,Windsor-Essex County Health Unit's,ORG,1
+3857,this September,DATE,1
+3858,The Star Alberta,WORK_OF_ART,1
+3859,"2,857",CARDINAL,1
+3860,"802,931",CARDINAL,1
+3861,"1,652,282",CARDINAL,1
+3862,Havana - National,ORG,1
+3863,CSC,ORG,1
+3864,BBB,PERSON,1
+3865,The Star Most Ontarians,WORK_OF_ART,1
+3866,The Globe and Mail Pace,ORG,1
+3867,Guelph,WORK_OF_ART,1
+3868,"28,976",CARDINAL,1
+3869,’ Moe,WORK_OF_ART,1
+3870,The Middlesex-London Health Unit,ORG,1
+3871,the Western Fair District Agriplex,ORG,1
+3872,March 15 - Montreal,DATE,1
+3873,Roger-Bernard,PERSON,1
+3874,Pierrefonds,GPE,1
+3875,at least 80%,PERCENT,1
+3876,"101,881",CARDINAL,1
+3877,seventh,ORDINAL,1
+3878,over 100K,CARDINAL,1
+3879,Success,ORG,1
+3880,Nearly 5K,CARDINAL,1
+3881,"Nearly 5,000",CARDINAL,1
+3882,The Ontario Pharmacists Association,ORG,1
+3883,approximately 380,CARDINAL,1
+3884,Brisbane,GPE,1
+3885,Advisory,ORG,1
+3886,Ontario LTC,PERSON,1
+3887,The Globe and Mail Clinical,ORG,1
+3888,mRNA-1273,ORG,1
+3889,Kelley Watson Snyder,PERSON,1
+3890,Sept. 1,DATE,1
+3891,Tory,NORP,1
+3892,538,CARDINAL,1
+3893,York,GPE,1
+3894,Halton,GPE,1
+3895,more than 200,CARDINAL,1
+3896,fewer than 100,CARDINAL,1
+3897,Keystone,ORG,1
+3898,eight per cent,MONEY,1
+3899,The Star OTTAWA - Positive,WORK_OF_ART,1
+3900,Murthy,PERSON,1
+3901,The Globe and Mail The Imperial,ORG,1
+3902,Indigo,ORG,1
+3903,Indigo Books & Music Inc.,ORG,1
+3904,BC Children's Hospital,ORG,1
+3905,the fall of 2017,DATE,1
+3906,$15-million,MONEY,1
+3907,Jonas Salk's,PERSON,1
+3908,Jonathan Salk,PERSON,1
+3909,before end of year,DATE,1
+3910,| CTV News Australia,ORG,1
+3911,Prison,LOC,1
+3912,CBC Marketplace’s,ORG,1
+3913,Asha Tomlinson,PERSON,1
+3914,Vinita Dubey,PERSON,1
+3915,Isha Berry,PERSON,1
+3916,"Over 200,000",CARDINAL,1
+3917,Merck Ebola,ORG,1
+3918,The Globe and Mail Figures,ORG,1
+3919,"204,044",CARDINAL,1
+3920,nearly 38 million,CARDINAL,1
+3921,"surpasses 3,000",CARDINAL,1
+3922,The Globe and Mail Weakness,ORG,1
+3923,US$8.8-billion,MONEY,1
+3924,Global Vaccine Summit,ORG,1
+3925,about 60,CARDINAL,1
+3926,"more than 119,000",CARDINAL,1
+3927,26%,PERCENT,1
+3928,Linda,PERSON,1
+3929,8220;She,MONEY,1
+3930,Grade,GPE,1
+3931,Joyce Locke,PERSON,1
+3932,Elgin St. Thomas Health,ORG,1
+3933,about 70 per cent,MONEY,1
+3934,Grinch,PERSON,1
+3935,Stella Kyriakides,PERSON,1
+3936,the second half of this year,DATE,1
+3937,Peter Wearing,PERSON,1
+3938,Arizona,GPE,1
+3939,"1,994",CARDINAL,1
+3940,33,CARDINAL,1
+3941,Maimonides,PERSON,1
+3942,early this week,DATE,1
+3943,The Star ‘No Jab,WORK_OF_ART,1
+3944,thousands of dollars,MONEY,1
+3945,The Globe and Mail The Ministry of Health,ORG,1
+3946,Biden - The Globe and Mail,ORG,1
+3947,Joe Biden’s,PERSON,1
+3948,Robert De Niro,PERSON,1
+3949,the World Mercury Project,ORG,1
+3950,Francois-Philippe Champagne,PERSON,1
+3951,"Friday, February 26, 2021",DATE,1
+3952,Harry,CARDINAL,1
+3953,3.19,CARDINAL,1
+3954,more than 11,CARDINAL,1
+3955,"more than 600,000",CARDINAL,1
+3956,Sumon Chakabarti,PERSON,1
+3957,P.E.I,ORG,1
+3958,Canadians - National | Globalnews.ca Health Canada,ORG,1
+3959,Alan McGreevy,PERSON,1
+3960,the University of Winnipeg,ORG,1
+3961,The Globe and Mail Top U.S.,ORG,1
+3962,Gates - The Globe and Mail Vaccines,PERSON,1
+3963,The Globe and Mail Single,ORG,1
+3964,New Twitter,PERSON,1
+3965,New Democratic Party,ORG,1
+3966,Ryan Meili,PERSON,1
+3967,The Globe and Mail When,ORG,1
+3968,CTV National News:,ORG,1
+3969,| CTV News America's,ORG,1
+3970,Rick Bright,PERSON,1
+3971,55+,QUANTITY,1
+3972,10th,ORDINAL,1
+3973,between January and February,DATE,1
+3974,"1,468",CARDINAL,1
+3975,The Star Also,WORK_OF_ART,1
+3976,B.C. First Nations Health Authority,ORG,1
+3977,"6,744",CARDINAL,1
+3978,"468,475",CARDINAL,1
+3979,"13,553",CARDINAL,1
+3980,Sept. 2,DATE,1
+3981,Wear,PERSON,1
+3982,601,CARDINAL,1
+3983,512,CARDINAL,1
+3984,167,CARDINAL,1
+3985,CBC News Scientists,ORG,1
+3986,"nearly 2,100",CARDINAL,1
+3987,"50,453",CARDINAL,1
+3988,Virginia Ashberry,PERSON,1
+3989,'90 days,DATE,1
+3990,Brian Pallister ,PERSON,1
+3991,Saskatoon ICU,LOC,1
+3992,the Winnipeg Regional Health Authority,ORG,1
+3993,Promation,ORG,1
+3994,The Globe and Mail Trudeau’s,ORG,1
+3995,Carolina Darias,PERSON,1
+3996,Americas,LOC,1
+3997,Six months later,DATE,1
+3998,50s,DATE,1
+3999,COVID-19  |,PRODUCT,1
+4000,the end of year,DATE,1
+4001,Sharma - National | Globalnews.ca Pfizer,ORG,1
+4002,Fauci - National | Globalnews.ca The Pfizer,ORG,1
+4003,almost US$1-trillion,MONEY,1
+4004,the National Research Council of Canada,ORG,1
+4005,at least 20,CARDINAL,1
+4006,500-odd,CARDINAL,1
+4007,the first two months of this year,DATE,1
+4008,Liberal,ORG,1
+4009,Berlin,GPE,1
+4010,Musk,PERSON,1
+4011,Tesla,PERSON,1
+4012,the week of Jan 25,DATE,1
+4013,the next three,DATE,1
+4014,Haute Autorite de Sante,PERSON,1
+4015,The Globe and Mail Johnson,ORG,1
+4016,Fuschia Sirois,PERSON,1
+4017,more than 17 million,CARDINAL,1
+4018,the United Kingdom and European Union,GPE,1
+4019,White Coat,PERSON,1
+4020,Black Art's,ORG,1
+4021,Japan PM | CTV News,ORG,1
+4022,COVID-19 | CTV News Gone,ORG,1
+4023,MD,GPE,1
+4024,Eve Switzer,PERSON,1
+4025,The Star CHARLOTTETOWN - Health,ORG,1
+4026,One day,DATE,1
+4027,"more than 50,000",CARDINAL,1
+4028,seven weeks,DATE,1
+4029,Jan. 26,DATE,1
+4030,Toronto Board of Health,ORG,1
+4031,City Hall - The Globe and Mail Dozens,FAC,1
+4032,City Hall,FAC,1
+4033,UAE - The Globe and Mail,FAC,1
+4034,The Globe and Mail Coronavirus,ORG,1
+4035,approximately six,CARDINAL,1
+4036,Wellington-Dufferin-Guelph,ORG,1
+4037,More than 10 million,CARDINAL,1
+4038,the PM's days,DATE,1
+4039,The Serum Institute of India,ORG,1
+4040,Richard Zussman,PERSON,1
+4041,485,CARDINAL,1
+4042,The Globe and Mail Materials,ORG,1
+4043,Politicians,NORP,1
+4044,Eileen de Villa,PERSON,1
+4045,Entrepreneur,ORG,1
+4046,Michael Houghton,PERSON,1
+4047,only about 40,CARDINAL,1
+4048,Durham,ORG,1
+4049,Durham,PERSON,1
+4050,third day,DATE,1
+4051,Adrian Dix,ORG,1
+4052,Andrei Kelin,PERSON,1
+4053,Drugmaker Novavax,ORG,1
+4054,Pfizer - The Globe and Mail Procurement,ORG,1
+4055,this quarter,DATE,1
+4056,quarterly,DATE,1
+4057,ECB,ORG,1
+4058,Ontario | CTV News Freezer,ORG,1
+4059,the first three months,DATE,1
+4060,Toronto’s,ORG,1
+4061,"more than 500,000",CARDINAL,1
+4062,13%,PERCENT,1
+4063,nine months,DATE,1
+4064,The Globe and Mail Moderna's,ORG,1
+4065,more than 160 million,CARDINAL,1
+4066,ON,ORG,1
+4067,The Globe and Mail Vanilla,ORG,1
+4068,early 2016,DATE,1
+4069,The coming week,DATE,1
+4070,National Advisory Committee,ORG,1
+4071,one-million-per-week,CARDINAL,1
+4072,the U.S. House,ORG,1
+4073,the South Calgary Health Centre,ORG,1
+4074,March 23 and March 25 later,DATE,1
+4075,T.O.,GPE,1
+4076,Southwestern Public Health - London,ORG,1
+4077,"more than 1,100",CARDINAL,1
+4078,between January 12 and 25,DATE,1
+4079,the United States's,GPE,1
+4080,year Video Online,ORG,1
+4081,Vaccine Task Force,PRODUCT,1
+4082,Biden | CTV News,ORG,1
+4083,Feb. 9,DATE,1
+4084,435,CARDINAL,1
+4085,One year ago,DATE,1
+4086,Bergamo,ORG,1
+4087,John XXIII Hospital,PERSON,1
+4088,Army,ORG,1
+4089,Vancouver - BC |,FAC,1
+4090,Oxford University's,ORG,1
+4091,coming months,DATE,1
+4092,ten or more years,DATE,1
+4093,14 cents,MONEY,1
+4094,0.3 per cent,MONEY,1
+4095,43.28,MONEY,1
+4096,only two days,DATE,1
+4097,Novartis,NORP,1
+4098,up to 400 million,MONEY,1
+4099,Kiiwetinoong MPP Sol Mamakwa,PERSON,1
+4100,Mamakwa,GPE,1
+4101,12-15,DATE,1
+4102,the next school year,DATE,1
+4103,Burnaby,ORG,1
+4104,the Middlesex-London Health Unit,ORG,1
+4105,The current flu season,DATE,1
+4106,about five years,DATE,1
+4107,Toronto General Hospital,ORG,1
+4108,Tens of millions,CARDINAL,1
+4109,Games,LAW,1
+4110,Videos Online Watch Health,ORG,1
+4111,Medecins,ORG,1
+4112,Frontiers,ORG,1
+4113,| CTV News Mozambique's,ORG,1
+4114,517,CARDINAL,1
+4115,Macleans.ca Childhood National Immunization Coverage Survey,ORG,1
+4116,The Star Crime,WORK_OF_ART,1
+4117,Just this week,DATE,1
+4118,Biontech,GPE,1
+4119,The Globe and Mail Better-than,ORG,1
+4120,third-quarter,DATE,1
+4121,the Electoral College,ORG,1
+4122,Simcoe-Muskoka,ORG,1
+4123,4 more weeks,DATE,1
+4124,as early as Jan. 12,DATE,1
+4125,November to April,DATE,1
+4126,couple of years,DATE,1
+4127,PBS NewsHour's,ORG,1
+4128,Judy Woodruff,PERSON,1
+4129,the end of the summer,DATE,1
+4130,Ontarian,NORP,1
+4131,the Rekai Centre,FAC,1
+4132,12 p.m. ET,TIME,1
+4133,GameStop,PRODUCT,1
+4134,Alec Baldwin,PERSON,1
+4135,the first “,DATE,1
+4136,The Globe and Mail University of Toronto,ORG,1
+4137,The Globe and Mail Designation,ORG,1
+4138,460K,PRODUCT,1
+4139,The Globe and Mail Developers of,ORG,1
+4140,up to 2.6 billion,QUANTITY,1
+4141,the Becker Friedman Institute for Economics,ORG,1
+4142,$1.1-trillion,MONEY,1
+4143,Sun Ontario’s,GPE,1
+4144,Legault | CTV News Quebec's,ORG,1
+4145,Oxford Vaccine Group - The Globe and Mail South Africa,ORG,1
+4146,earlier end,DATE,1
+4147,a mile,QUANTITY,1
+4148,The Globe and Mail Inovio Pharmaceuticals,ORG,1
+4149,Conseil,ORG,1
+4150,season’s first,DATE,1
+4151,Royal Caribbean,ORG,1
+4152,$933 million,MONEY,1
+4153,more than 13 million,CARDINAL,1
+4154,only around 4 million,CARDINAL,1
+4155,more than a year,DATE,1
+4156,almost 50,CARDINAL,1
+4157,the New Year,EVENT,1
+4158,Access - The Globe and Mail We,PRODUCT,1
+4159,Sun’s,ORG,1
+4160,Lorne Gunter,PERSON,1
+4161,SNL Video Online,ORG,1
+4162,Sarah Wilson,PERSON,1
+4163,CBC Radio Pfizer Canada,ORG,1
+4164,Cole Pinnow,PRODUCT,1
+4165,before Canada Day,DATE,1
+4166,The year ahead,DATE,1
+4167,Three million,CARDINAL,1
+4168,Maria Elena Bottazzi,PERSON,1
+4169,Nov. 25,DATE,1
+4170,Chrystia Freeland,ORG,1
+4171,about 4.4 million,CARDINAL,1
+4172,"465,000",CARDINAL,1
+4173,"221,000",CARDINAL,1
+4174,COVID | CTV News,ORG,1
+4175,Beverly Spanier,GPE,1
+4176,The Globe and Mail The BC Centre for Disease Control,ORG,1
+4177,60 a month ago,DATE,1
+4178,Inside Canada's,ORG,1
+4179,CBC Saskatoon,ORG,1
+4180,Alicia Bridges,PERSON,1
+4181,The Globe and Mail Public Procurement,ORG,1
+4182,Last season,DATE,1
+4183,"Wednesday, August 5, 2020",DATE,1
+4184,Beirut,GPE,1
+4185,Six,CARDINAL,1
+4186,Phillips,PERSON,1
+4187,Moderna | Watch News,ORG,1
+4188,Moderna Video,PERSON,1
+4189,Four thousand,CARDINAL,1
+4190,up to 300 million,MONEY,1
+4191,almost half,CARDINAL,1
+4192,Eight weeks,DATE,1
+4193,"over 400,000",CARDINAL,1
+4194,as much as half,CARDINAL,1
+4195,U.S. Army General,ORG,1
+4196,The Star Provincially,WORK_OF_ART,1
+4197,Rosie DiManno,PERSON,1
+4198,nearly four months,DATE,1
+4199,60+,QUANTITY,1
+4200,Easter,PERSON,1
+4201,this Easter weekend,DATE,1
+4202,Tory,PERSON,1
+4203,80 to 75,DATE,1
+4204,European Union - The Globe and Mail,ORG,1
+4205,The Star Legal,ORG,1
+4206,CBC Radio Australia,ORG,1
+4207,"217,000",CARDINAL,1
+4208,287,CARDINAL,1
+4209,Matthew Kent,PERSON,1
+4210,K - National | Globalnews.ca Another,ORG,1
+4211,"6,738",CARDINAL,1
+4212,"441,705",CARDINAL,1
+4213,the early morning hours,TIME,1
+4214,Just a decade,DATE,1
+4215,the next few decades,DATE,1
+4216,CBC News Federal Intergovernmental Affairs,ORG,1
+4217,May 17,DATE,1
+4218,Communities,ORG,1
+4219,Only 39,DATE,1
+4220,Meet the Press,ORG,1
+4221,PM,ORDINAL,1
+4222,"May 16, 2020",DATE,1
+4223,The Globe and Mail Investment,ORG,1
+4224,Brian Bloom,PERSON,1
+4225,Brendan Hanley,PERSON,1
+4226,another 90 days,DATE,1
+4227,Mbandaka,PERSON,1
+4228,"21,450",CARDINAL,1
+4229,691,CARDINAL,1
+4230,CBC News Debates,ORG,1
+4231,$6.8M,MONEY,1
+4232,Tweets,ORG,1
+4233,Truth,LOC,1
+4234,two-day,DATE,1
+4235,"2,632",CARDINAL,1
+4236,46,CARDINAL,1
+4237,the year ahead,DATE,1
+4238,the winter,DATE,1
+4239,Sun Biel,PERSON,1
+4240,Last year,DATE,1
+4241,Syed Hussan,PERSON,1
+4242,Bloc,LOC,1
+4243,the Green Party,ORG,1
+4244,The Globe and Mail Anvisa,ORG,1
+4245,Brazilians,NORP,1
+4246,The Globe and Mail Policies,ORG,1
+4247,The Globe and Mail J&J,ORG,1
+4248,just over 4.8 million,CARDINAL,1
+4249,BoycottZuckerberg,ORG,1
+4250,Hepatitis A | The Star Store,WORK_OF_ART,1
+4251,Nature’s Touch Organic,ORG,1
+4252,Berry Cherry Blend,PERSON,1
+4253,March 28,DATE,1
+4254,Indigenous TV,ORG,1
+4255,"792,000",CARDINAL,1
+4256,"2,211",CARDINAL,1
+4257,Grade 7,PRODUCT,1
+4258,The Globe and Mail During Question,ORG,1
+4259,NDP MPP Sol Mamakwa,PERSON,1
+4260,Canadians |,ORG,1
+4261,48%,PERCENT,1
+4262,"4,300",CARDINAL,1
+4263,727,CARDINAL,1
+4264,third quarter,DATE,1
+4265,Wisconsin Video Online,ORG,1
+4266,just 12 to 18 months,DATE,1
+4267,Century,ORG,1
+4268,1918,DATE,1
+4269,one every five years,DATE,1
+4270,Rentschler,PERSON,1
+4271,160 million,CARDINAL,1
+4272,CureVac’s,ORG,1
+4273,Wuppertal,ORG,1
+4274,May - The Globe and Mail U.S.,ORG,1
+4275,well over 100,CARDINAL,1
+4276,300k,PRODUCT,1
+4277,The Star News,WORK_OF_ART,1
+4278,FDA - National | Globalnews.ca Pfizer,ORG,1
+4279,Pfizer Inc/,ORG,1
+4280,around 95%,PERCENT,1
+4281,Bayer - The Globe and Mail CureVac,ORG,1
+4282,The Star While a few,WORK_OF_ART,1
+4283,"856,969",CARDINAL,1
+4284,64-year-olds,DATE,1
+4285,Soviet,NORP,1
+4286,Nasal,PERSON,1
+4287,Oct. 26,DATE,1
+4288,85+,DATE,1
+4289,noon,TIME,1
+4290,"37,361",CARDINAL,1
+4291,MPP Sol Mamakwa,PERSON,1
+4292,The Globe and Mail Ford’s,ORG,1
+4293,Queen’s Park,FAC,1
+4294,Earlier this month,DATE,1
+4295,The U.S. Centers for Disease Control and Prevention,ORG,1
+4296,first full day,DATE,1
+4297,The Globe and Mail The Biden,ORG,1
+4298,10-month,DATE,1
+4299,Baroque,ORG,1
+4300,Viennese,NORP,1
+4301,Tom Walters,PERSON,1
+4302,CBC News Tensions,ORG,1
+4303,14%,PERCENT,1
+4304,more than 85 million,CARDINAL,1
+4305,nearly 1.9 million,CARDINAL,1
+4306,June 6,DATE,1
+4307,$75M,MONEY,1
+4308,G7,CARDINAL,1
+4309,"nearly 5,000",CARDINAL,1
+4310,The Globe and Mail Northern Health,ORG,1
+4311,July 14,DATE,1
+4312,four to eight weeks,DATE,1
+4313,B | CTV News,ORG,1
+4314,B.,PERSON,1
+4315,CBC News Human,ORG,1
+4316,Sun Teachers,ORG,1
+4317,"around 12,500",CARDINAL,1
+4318,The Globe and Mail Up to,ORG,1
+4319,Shakespeare,PERSON,1
+4320,90,DATE,1
+4321,"43,000",CARDINAL,1
+4322,7 p.m. MT,TIME,1
+4323,L. Wagner,PERSON,1
+4324,the University of Michigan,ORG,1
+4325,first week,DATE,1
+4326,August 15,DATE,1
+4327,"8,807",CARDINAL,1
+4328,The Globe and Mail Canadian Cancer Society,ORG,1
+4329,the past 20 years,DATE,1
+4330,The Associated Press,ORG,1
+4331,The Globe and Mail Assembly,ORG,1
+4332,Perry Bellegarde,PERSON,1
+4333,Warp Speed,WORK_OF_ART,1
+4334,Calgary Telus Convention Centre,ORG,1
+4335,The Globe and Mail Iran,ORG,1
+4336,"nearly 55,000",CARDINAL,1
+4337,Trump’s ‘America First’,ORG,1
+4338,LeBlanc - National | Globalnews.ca Trump's,ORG,1
+4339,450,CARDINAL,1
+4340,"6,011",CARDINAL,1
+4341,The Globe and Mail Dozens,ORG,1
+4342,the third straight day,DATE,1
+4343,up to three months,DATE,1
+4344,July — months,DATE,1
+4345,"2,417",CARDINAL,1
+4346,"280,573",CARDINAL,1
+4347,At least a dozen,CARDINAL,1
+4348,up to 40 million,QUANTITY,1
+4349,"1,316",CARDINAL,1
+4350,Mike Dunleavy,PERSON,1
+4351,Great Canadian Gaming Company,ORG,1
+4352,New B.C.,GPE,1
+4353,"379,184",CARDINAL,1
+4354,longer days,DATE,1
+4355,Martensville,GPE,1
+4356,Allison Adamus,PERSON,1
+4357,"over 1,000",CARDINAL,1
+4358,three-day,DATE,1
+4359,| CTV News New,ORG,1
+4360,Lebanon |,ORG,1
+4361,The World Bank,ORG,1
+4362,Lebanon,GPE,1
+4363,Borneo,LOC,1
+4364,3-month-old,DATE,1
+4365,Prince Rupert,PERSON,1
+4366,556,CARDINAL,1
+4367,Metis,PRODUCT,1
+4368,The Star Those,WORK_OF_ART,1
+4369,"Nov. 14-20, 2020",DATE,1
+4370,Democratic Republic of Congo,GPE,1
+4371,more than 400,CARDINAL,1
+4372,Dana McIntosh,PERSON,1
+4373,CBC News Johnson & Johnson,ORG,1
+4374,Malaysian,NORP,1
+4375,CBC News International,ORG,1
+4376,"Tuesday April 19, 2016",DATE,1
+4377,the Trans-Pacific Partnership,ORG,1
+4378,Doris Roberts,PERSON,1
+4379,the age of 90,DATE,1
+4380,Quoc Nguyen,PERSON,1
+4381,The Globe and Mail BC Centre for Disease Control,ORG,1
+4382,nine-month,DATE,1
+4383,Kennedy,PERSON,1
+4384,coming month,DATE,1
+4385,The Globe and Mail Federal Conservative,ORG,1
+4386,more than 7 billion,CARDINAL,1
+4387,around $2.5 billion,MONEY,1
+4388,Budweiser,ORG,1
+4389,the Super Bowl,EVENT,1
+4390,1983,DATE,1
+4391,Anheuser-Busch,ORG,1
+4392,"16,900",CARDINAL,1
+4393,Dec. 23,DATE,1
+4394,Kenney’s,ORG,1
+4395,Whistler Blackcomb,PERSON,1
+4396,hour,TIME,1
+4397,an hour,TIME,1
+4398,Milton’s Maplehurst,ORG,1
+4399,Claire Bodkin,PERSON,1
+4400,The Globe and Mail Laval University,ORG,1
+4401,Canadian Centre,FAC,1
+4402,"285,330",CARDINAL,1
+4403,CBC Radio Canadians,ORG,1
+4404,Sun Eliminate,PERSON,1
+4405,at least 10,CARDINAL,1
+4406,Edward Baran,PERSON,1
+4407,the era of,DATE,1
+4408,a frantic year,DATE,1
+4409,The Globe and Mail Hopes,ORG,1
+4410,Philpott,GPE,1
+4411,Yukon's Civil Emergency Measures Act,ORG,1
+4412,Thunder Bay,LOC,1
+4413,nearly two weeks,DATE,1
+4414,Alaska - Health,ORG,1
+4415,"1,116,496",CARDINAL,1
+4416,"53,586",CARDINAL,1
+4417,The Globe and Mail Natural,ORG,1
+4418,50.59,MONEY,1
+4419,1:38 p.m. EST,TIME,1
+4420,409,CARDINAL,1
+4421,The Globe and Mail Participant,ORG,1
+4422,Nükhet Varlik,PERSON,1
+4423,John Haggie,PERSON,1
+4424,Schulich School of Medicine & Dentistry,ORG,1
+4425,the Canada Foundation for Innovation,ORG,1
+4426,"more than 20,000",CARDINAL,1
+4427,702,CARDINAL,1
+4428,University of Manitoba,ORG,1
+4429,Xiangguo Qiu,PERSON,1
+4430,Keding Cheng,PERSON,1
+4431,the Catholic Church,ORG,1
+4432,The Netherlands,GPE,1
+4433,70-plus age,CARDINAL,1
+4434,The Globe and Mail Globe and Mail,ORG,1
+4435,Accueil Bonneau,PERSON,1
+4436,AstraZeneca-Oxford University,ORG,1
+4437,those over 18 years of age,DATE,1
+4438,More than 27.6 million,CARDINAL,1
+4439,"844,285",CARDINAL,1
+4440,589,CARDINAL,1
+4441,Board of Health,ORG,1
+4442,Ontario's,ORG,1
+4443,"Ministry of Health, Health Canada",ORG,1
+4444,Reid,PERSON,1
+4445,the Vancouver Canucks,ORG,1
+4446,Health Canada - National | Globalnews.ca,ORG,1
+4447,Great Canadian Gaming,ORG,1
+4448,1st week of January,DATE,1
+4449,"15,796",CARDINAL,1
+4450,The Globe and Mail Florida,ORG,1
+4451,21 per cent,MONEY,1
+4452,"nearly 33,000",CARDINAL,1
+4453,New Year’s Day,EVENT,1
+4454,Jan. 18 to Feb. 21,DATE,1
+4455,Medicago Inc.,ORG,1
+4456,"2,812",CARDINAL,1
+4457,"1,723",CARDINAL,1
+4458,ER,ORG,1
+4459,487,CARDINAL,1
+4460,C.D. Howe Institute,ORG,1
+4461,Nearly 945,CARDINAL,1
+4462,Vancouver Sun Europe's,FAC,1
+4463,more than five million,CARDINAL,1
+4464,Kanguru,PERSON,1
+4465,Vaccine Research Organizations,ORG,1
+4466,Seige,PERSON,1
+4467,Kanguru Military-Grade AES Hardware Encrypted,ORG,1
+4468,Mass.,GPE,1
+4469,"over 1,800",CARDINAL,1
+4470,Quebec City -,GPE,1
+4471,$5M,MONEY,1
+4472,the end of 2017,DATE,1
+4473,The European Centre for Disease Prevention and Control,ORG,1
+4474,Maria Van Kerkhove,PERSON,1
+4475,Bharat Biotech’s,ORG,1
+4476,COVAXIN,ORG,1
+4477,Pfizer/BioNTech’s,ORG,1
+4478,Nevada,GPE,1
+4479,March 23,DATE,1
+4480,a few dozen,CARDINAL,1
+4481,1959,DATE,1
+4482,later years,DATE,1
+4483,late Thursday,TIME,1
+4484,At least a year,DATE,1
+4485,"More than 7,700",CARDINAL,1
+4486,170,CARDINAL,1
+4487,More than 17,CARDINAL,1
+4488,"Puerto Rico - More than 17,800",GPE,1
+4489,UHN’s,ORG,1
+4490,COVID-19 - Macleans.ca UHN's,ORG,1
+4491,| Globalnews.ca Health,ORG,1
+4492,847,CARDINAL,1
+4493,Scott Morrison,PERSON,1
+4494,Australians,NORP,1
+4495,The Globe and Mail Decision,ORG,1
+4496,Hastings Prince Edward Public Health,PERSON,1
+4497,Loyalist College,ORG,1
+4498,Belleville,GPE,1
+4499,The first day,DATE,1
+4500,Commons,ORG,1
+4501,The BC Centre for Disease Control,ORG,1
+4502,a just a few weeks,DATE,1
+4503,"3,945",CARDINAL,1
+4504,The Star From Raptors,WORK_OF_ART,1
+4505,Nick Nurse,PERSON,1
+4506,Halifax,NORP,1
+4507,"1,981,282",CARDINAL,1
+4508,"64,950",CARDINAL,1
+4509,the Liberal government,ORG,1
+4510,Sun Ford,PERSON,1
+4511,May 25,DATE,1
+4512,$40.33-billion,MONEY,1
+4513,Norwegian,NORP,1
+4514,106,CARDINAL,1
+4515,The Globe and Mail Denmark,ORG,1
+4516,Axon Capital’s,ORG,1
+4517,The Globe and Mail Hedge,ORG,1
+4518,75%,PERCENT,1
+4519,The Globe and Mail WHO,ORG,1
+4520,Brits,NORP,1
+4521,Adel Mahmoud,PERSON,1
+4522,76,DATE,1
+4523,"nearly 1,000",CARDINAL,1
+4524,the end of the second quarter of 2021,DATE,1
+4525,Ministry | CTV News Ebola,ORG,1
+4526,789,CARDINAL,1
+4527,"296,918",CARDINAL,1
+4528,"10,535",CARDINAL,1
+4529,Atlantic Canadians - Halifax,NORP,1
+4530,"1,154",CARDINAL,1
+4531,Atlantic Canada,ORG,1
+4532,Julian,NORP,1
+4533,| CTV News Chair,ORG,1
+4534,Caroline Quach-Thanh,PERSON,1
+4535,the Johnson & Johnson COVID-19,ORG,1
+4536,Northern Manitoba,LOC,1
+4537,Globalnews.ca Germany,GPE,1
+4538,Drugmakers,ORG,1
+4539,The Globe and Mail German,ORG,1
+4540,$2.5-billion,MONEY,1
+4541,Sun Justin Trudeau,PERSON,1
+4542,"1,677",CARDINAL,1
+4543,the Cape Breton Regional Hospital,FAC,1
+4544,Colchester East Hants Health Centre,ORG,1
+4545,Valley Regional Hospital,ORG,1
+4546,Yarmouth Regional Hospital,ORG,1
+4547,up to 16 weeks,DATE,1
+4548,Becton Dickinson,PERSON,1
+4549,| CTV News Parents,ORG,1
+4550,Brantford,GPE,1
+4551,the Tour de France,ORG,1
+4552,COVID-19 vaccine - The Globe and Mail Quebec,PRODUCT,1
+4553,"over 4,000",CARDINAL,1
+4554,Oct. 9,DATE,1
+4555,"2,275",CARDINAL,1
+4556,New York State,GPE,1
+4557,Democrat,NORP,1
+4558,| CTV News Dialysis,ORG,1
+4559,between 20 and 30,CARDINAL,1
+4560,monthly,DATE,1
+4561,Erin O’Toole,GPE,1
+4562,The Globe and Mail Most Canadians,ORG,1
+4563,Chapter One,LAW,1
+4564,the next couple of weeks,DATE,1
+4565,| CTV News Essential,ORG,1
+4566,the past few days,DATE,1
+4567,about 4,CARDINAL,1
+4568,Nova,GPE,1
+4569,up to a week,DATE,1
+4570,about a week,DATE,1
+4571,Nanos | CTV News,ORG,1
+4572,Nanos Research's,ORG,1
+4573,the Northwest Territories,GPE,1
+4574,The RBC Convention Centre,ORG,1
+4575,The Star WELLINGTON,ORG,1
+4576,12-week,DATE,1
+4577,The Globe and Mail Trade,ORG,1
+4578,just 20 years,DATE,1
+4579,Feb. 4,DATE,1
+4580,The Globe and Mail Different,ORG,1
+4581,"631,160",CARDINAL,1
+4582,"539,408",CARDINAL,1
+4583,"91,752",CARDINAL,1
+4584,CBC News Health Canada's,ORG,1
+4585,under 16,DATE,1
+4586,7.3%,PERCENT,1
+4587,Waterloo’s,ORG,1
+4588,"57,185",CARDINAL,1
+4589,"3,841",CARDINAL,1
+4590,Dec. 24,DATE,1
+4591,"2,316",CARDINAL,1
+4592,COVID,ORG,1
+4593,21st-century,DATE,1
+4594,"An estimated 11,000",CARDINAL,1
+4595,between 1949 and 1954,DATE,1
+4596,Sun Respondents,ORG,1
+4597,"more than 300,000",CARDINAL,1
+4598,more than 3.5 million,CARDINAL,1
+4599,19 million,CARDINAL,1
+4600,"over 61,000",CARDINAL,1
+4601,The Globe and Mail Other,ORG,1
+4602,another $2.1B,MONEY,1
+4603,Bernstein,PERSON,1
+4604,New Novavax,ORG,1
+4605,The Star BERLIN - The,WORK_OF_ART,1
+4606,CBC News Planes,ORG,1
+4607,Cornwall,GPE,1
+4608,Bonnie Lysyk,PERSON,1
+4609,Nov. 26,DATE,1
+4610,$100 billion,MONEY,1
+4611,CBC Radio Canada,ORG,1
+4612,8-month,DATE,1
+4613,75 cents,MONEY,1
+4614,1.6%,PERCENT,1
+4615,48.61,MONEY,1
+4616,early March,DATE,1
+4617,under 60,DATE,1
+4618,Feb. 24,DATE,1
+4619,the first three years,DATE,1
+4620,the next several years,DATE,1
+4621,Hurdler Sage Watson,PERSON,1
+4622,CBC Sports Record,ORG,1
+4623,Sage Watson,PERSON,1
+4624,"Over 910,000",CARDINAL,1
+4625,Mi’kmaq - Halifax,ORG,1
+4626,"1,602",CARDINAL,1
+4627,"1,524",CARDINAL,1
+4628,ICBC,ORG,1
+4629,the summer holiday season,DATE,1
+4630,783,CARDINAL,1
+4631,1M mark,PERCENT,1
+4632,12.1 per cent,MONEY,1
+4633,One year,DATE,1
+4634,Fourth of July,DATE,1
+4635,under 45,DATE,1
+4636,The Globe and Mail As Health Canada,ORG,1
+4637,The Globe and Mail Starting,ORG,1
+4638,early August,DATE,1
+4639,N.B. COVID-19,ORG,1
+4640,"1,236",CARDINAL,1
+4641,the last three days,DATE,1
+4642,"92,000",CARDINAL,1
+4643,Toronto Sun Health,ORG,1
+4644,64,CARDINAL,1
+4645,age 30 to 64,DATE,1
+4646,The Star Beset,PERSON,1
+4647,Ca,PERSON,1
+4648,nearly $2 billion,MONEY,1
+4649,Bobby Cameron,PERSON,1
+4650,1.1M,CARDINAL,1
+4651,Rick Hiller,PERSON,1
+4652,the first three months of 2021,DATE,1
+4653,John Nkengasong ,PERSON,1
+4654,Peter Nygard,PERSON,1
+4655,Iranian,NORP,1
+4656,Flight PS752,PRODUCT,1
+4657,Peter Akman,PERSON,1
+4658,US Supreme Court,ORG,1
+4659,the U.S. Supreme Court,ORG,1
+4660,Greg MacCallum,PERSON,1
+4661,the New Brunswick Emergency Measures Organization,ORG,1
+4662,the “coming days,DATE,1
+4663,HMO,ORG,1
+4664,92 per cent,MONEY,1
+4665,The Globe and Mail Safety,ORG,1
+4666,at least 13,CARDINAL,1
+4667,The Globe and Mail Paul Molinaro,ORG,1
+4668,World War II,EVENT,1
+4669,Sun Pte,PERSON,1
+4670,Fred Arsenault,PERSON,1
+4671,100th,ORDINAL,1
+4672,Calii Love,ORG,1
+4673,April 22,DATE,1
+4674,Palestinian Authority - National,ORG,1
+4675,almost 15 per cent,MONEY,1
+4676,9.3 million,CARDINAL,1
+4677,about two weeks,DATE,1
+4678,COVID-19 | CTV News Herd,ORG,1
+4679,798,CARDINAL,1
+4680,"10,455",CARDINAL,1
+4681,The Globe and Mail The Liberals,ORG,1
+4682,Canadians - National | Globalnews.ca Spread,ORG,1
+4683,Falkbuilt,PERSON,1
+4684,The Globe and Mail Global,ORG,1
+4685,17 million,CARDINAL,1
+4686,University Hospital,ORG,1
+4687,"Coventry, England",GPE,1
+4688,The Globe and Mail AstraZeneca’s,ORG,1
+4689,Mick Phillips,PERSON,1
+4690,more than five years ago,DATE,1
+4691,Breakthrough,GPE,1
+4692,the Global Battle Against Polio,FAC,1
+4693,Polio Vaccine,PERSON,1
+4694,almost two decades,DATE,1
+4695,The Star St. Louis University,ORG,1
+4696,Salus Center,FAC,1
+4697,"roughly 69,000",CARDINAL,1
+4698,the end of 2021 - Macleans.ca,DATE,1
+4699,Robert Lighthizer,PERSON,1
+4700,the Bureaucratic Jargon,ORG,1
+4701,the Day Award,DATE,1
+4702,GlaxoSmithKline - National | Globalnews.ca Medicago,ORG,1
+4703,"2,600",CARDINAL,1
+4704,at least 1.2 million,CARDINAL,1
+4705,Dec. 5,DATE,1
+4706,737 Max,PRODUCT,1
+4707,$518-million,MONEY,1
+4708,The Globe and Mail Efforts,ORG,1
+4709,90 days,DATE,1
+4710,Patrick Vallance,PERSON,1
+4711,"Facebook, Instagram and Twitter",ORG,1
+4712,John Coates,PERSON,1
+4713,$24M,MONEY,1
+4714,$24 million,MONEY,1
+4715,TODAY,DATE,1
+4716,35 per cent,MONEY,1
+4717,"1,940",CARDINAL,1
+4718,Facebook - The Globe and Mail,ORG,1
+4719,COVID-19 - The Globe and Mail Moderna’s,ORG,1
+4720,17.3%,PERCENT,1
+4721,88,MONEY,1
+4722,Pope Francis,PERSON,1
+4723,COVID-19 |,PRODUCT,1
+4724,| CTV News A Newmarket,ORG,1
+4725,The Globe and Mail Head,ORG,1
+4726,Russian Direct Investment Fund,ORG,1
+4727,Jan. 17,DATE,1
+4728,12-hour,TIME,1
+4729,Bill Masterton,PERSON,1
+4730,Margaret Laurence,PERSON,1
+4731,Newmarket COVID-19,ORG,1
+4732,Ray Twinney,PERSON,1
+4733,Doug Wallace,PERSON,1
+4734,August 25,DATE,1
+4735,20-day,DATE,1
+4736,Bay Street's,FAC,1
+4737,Salomon Nduhi Kambale,PERSON,1
+4738,30-year-old,DATE,1
+4739,Universite Laval,GPE,1
+4740,COVID-19 - National,ORG,1
+4741,Jason Tetro,PERSON,1
+4742,Northwood,ORG,1
+4743,Northwood Halifax,ORG,1
+4744,| CTV News Canada’s,ORG,1
+4745,K COVID-19,ORG,1
+4746,four billion,MONEY,1
+4747,"Thursday, Feb. 21, 2019",DATE,1
+4748,"March, 2021",DATE,1
+4749,Vido-InterVac,ORG,1
+4750,Sun Province’s,GPE,1
+4751,"More than 1,400",CARDINAL,1
+4752,CBC’s,ORG,1
+4753,David Cochrane,PERSON,1
+4754,billion,CARDINAL,1
+4755,one billion,CARDINAL,1
+4756,12 of the week’s,DATE,1
+4757,"May 9-15, 2020",DATE,1
+4758,Ipsos - National | Globalnews.ca While,ORG,1
+4759,The Globe and Mail MLB Players,ORG,1
+4760,CBC News Ahead,ORG,1
+4761,"4,321",CARDINAL,1
+4762,"over 898,000",CARDINAL,1
+4763,more than 5.1 million,CARDINAL,1
+4764,27.8 million,CARDINAL,1
+4765,Paul Thompson,PERSON,1
+4766,Fraser Valley Dry Ice,ORG,1
+4767,roughly two million,CARDINAL,1
+4768,Q2,CARDINAL,1
+4769,Cameron Friesen,PERSON,1
+4770,Southwest,LOC,1
+4771,$25-billion,MONEY,1
+4772,two decades,DATE,1
+4773,1998,DATE,1
+4774,The Globe and Mail Large,ORG,1
+4775,Shingrix,PRODUCT,1
+4776,more than 90,CARDINAL,1
+4777,at least one year,DATE,1
+4778,71 million,CARDINAL,1
+4779,more than 60%,PERCENT,1
+4780,$1.5 billion,MONEY,1
+4781,Bill,PERSON,1
+4782,Two weeks,DATE,1
+4783,Cobourg Community Centre - Peterborough |,FAC,1
+4784,the Cobourg Community Centre,ORG,1
+4785,"1,631",CARDINAL,1
+4786,March last year,DATE,1
+4787,the end of January,DATE,1
+4788,The Globe and Mail “Priority,ORG,1
+4789,The Globe and Mail Demand,ORG,1
+4790,three consecutive paid hours,TIME,1
+4791,The Globe and Mail Need,ORG,1
+4792,Roy Gori,PERSON,1
+4793,"March 5, 2021",DATE,1
+4794,10:00 p.m. ET,TIME,1
+4795,"Friday, March 5, 2021",DATE,1
+4796,The Globe and Mail Results,ORG,1
+4797,FedEx,PERSON,1
+4798,more than 56 million,CARDINAL,1
+4799,Federal Court,ORG,1
+4800,7B,MONEY,1
+4801,$7 billion,MONEY,1
+4802,"1,074",CARDINAL,1
+4803,1-million,CARDINAL,1
+4804,March 12,DATE,1
+4805,Ontario MPP,PERSON,1
+4806,Danuta Skowronski,PERSON,1
+4807,25 million,CARDINAL,1
+4808,Boko Haram,FAC,1
+4809,multimillion-dollar,MONEY,1
+4810,CanSino,PERSON,1
+4811,"nearly 600,000",CARDINAL,1
+4812,’ later in 2021,DATE,1
+4813,between 850 million and,MONEY,1
+4814,950 million,CARDINAL,1
+4815,current financial year,DATE,1
+4816,Brampton,GPE,1
+4817,The Experts For Reassurance | Learning,ORG,1
+4818,Kelowna,ORG,1
+4819,The Star SURRY,PERSON,1
+4820,Va.,GPE,1
+4821,96-year-old,DATE,1
+4822,"Thursday, March 11, 2021",DATE,1
+4823,5.38 per cent,MONEY,1
+4824,Star Federal,ORG,1
+4825,Robert Kennedy,PERSON,1
+4826,"more than 58,000",CARDINAL,1
+4827,3.5 per cent,MONEY,1
+4828,Joel Lexchin,PERSON,1
+4829,York University,ORG,1
+4830,The Globe and Mail Internal,ORG,1
+4831,COVID-19 second,PRODUCT,1
+4832,The Globe and Mail Johnson & Johnson,ORG,1
+4833,The Star More than half of,WORK_OF_ART,1
+4834,SUN,ORG,1
+4835,Brian Lilley,PERSON,1
+4836,Pfizer - The Globe and Mail,ORG,1
+4837,May 2021,DATE,1
+4838,"2,819",CARDINAL,1
+4839,62,CARDINAL,1
+4840,The Globe and Mail Recent,ORG,1
+4841,Yukon,GPE,1
+4842,N.W.T. - National | Globalnews.ca,ORG,1
+4843,"7,200",CARDINAL,1
+4844,one-third,CARDINAL,1
+4845,News Germany,GPE,1
+4846,’ | Watch News Videos Online Watch Coronavirus: Trudeau,WORK_OF_ART,1
+4847,Johnson &,ORG,1
+4848,Dec. 13 to Jan. 9,DATE,1
+4849,the upcoming weeks,DATE,1
+4850,12-18 months,DATE,1
+4851,Pakistan | CTV News,ORG,1
+4852,just two days,DATE,1
+4853,The Globe and Mail Recommendation,ORG,1
+4854,Jason Kindrachuck,PERSON,1
+4855,The Star NEW DELHI - With,ORG,1
+4856,March 8,DATE,1
+4857,CTV News Experts,ORG,1
+4858,early December,DATE,1
+4859,"7,500",CARDINAL,1
+4860,More than 70,CARDINAL,1
+4861,Nov. 6,DATE,1
+4862,"83,600",CARDINAL,1
+4863,"1,285",CARDINAL,1
+4864,206,CARDINAL,1
+4865,"3,990",CARDINAL,1
+4866,"9,649",CARDINAL,1
+4867,"Saturday, Aug. 22, 2020",DATE,1
+4868,"Monday, Aug. 31, 2020",DATE,1
+4869,"close to 10,000",CARDINAL,1
+4870,Sun Henry,PERSON,1
+4871,"over 640,000",CARDINAL,1
+4872,90 cents,MONEY,1
+4873,2.1%,PERCENT,1
+4874,44.65,MONEY,1
+4875,1858,CARDINAL,1
+4876,GMT,ORG,1
+4877,the Liberal government’s,ORG,1
+4878,Manitoba First Nation - The Globe and Mail Trudeau,ORG,1
+4879,the Pauingassi First Nation,ORG,1
+4880,Trudeau government’s,ORG,1
+4881,The Globe and Mail Exposure,ORG,1
+4882,seven years,DATE,1
+4883,more than 10 years,DATE,1
+4884,Comparing,ORG,1
+4885,The Star Moderna,PERSON,1
+4886,Jan. 3,DATE,1
+4887,Rod Phillips,PERSON,1
+4888,Boris Johnson’s,PERSON,1
+4889,| Globalnews.ca Clinics,ORG,1
+4890,up to 6 months,DATE,1
+4891,The University of Manitoba,ORG,1
+4892,Allergic,ORG,1
+4893,| CTV News World Health Organization,ORG,1
+4894,11th month,DATE,1
+4895,COVID-19 Vaccines - The Globe and Mail Anaphylaxis,PERSON,1
+4896,just a few months,DATE,1
+4897,Bikoro | CTV News Officials,ORG,1
+4898,the beginning of May.,DATE,1
+4899,five-year,DATE,1
+4900,The Globe and Mail Bond,ORG,1
+4901,5th,ORDINAL,1
+4902,"4,713",CARDINAL,1
+4903,Star The Star,WORK_OF_ART,1
+4904,MOSCOW,GPE,1
+4905,Mikhail Mishustin,PERSON,1
+4906,Yukon | Watch News,ORG,1
+4907,Yukon Video Online,ORG,1
+4908,"846,000",CARDINAL,1
+4909,Johnson & Johnson ,ORG,1
+4910,Camille Bains,PERSON,1
+4911,CBC News Parents,ORG,1
+4912,Citizen,ORG,1
+4913,the International Development Research Centre,ORG,1
+4914,CONAKRY,ORG,1
+4915,Alseny,GPE,1
+4916,| CTV News Cases,ORG,1
+4917,seasonal,DATE,1
+4918,The Globe and Mail Liberal,ORG,1
+4919,Chuck Chiasson,PERSON,1
+4920,as early as Thursday,DATE,1
+4921,Vitrum Glass,PERSON,1
+4922,InterVac,ORG,1
+4923,$1.8 billion,MONEY,1
+4924,Kristen O'Meara,PERSON,1
+4925,Sun Trudeau,PERSON,1
+4926,the U.N. General Assembly,ORG,1
+4927,Chester Village,GPE,1
+4928,CBC Radio Immunization,ORG,1
+4929,Estonia,GPE,1
+4930,an additional $1.1 billion,MONEY,1
+4931,"12,000",CARDINAL,1
+4932,The Globe and Mail Aviation,ORG,1
+4933,11 of the week’s,DATE,1
+4934,"Jan. 2 to 8, 2021",DATE,1
+4935,D.C.,GPE,1
+4936,Ted Kuntz,PERSON,1
+4937,The Globe and Mail Heightened,ORG,1
+4938,World Immunization Week,EVENT,1
+4939,The Star Now,WORK_OF_ART,1
+4940,Daily,DATE,1
+4941,825,CARDINAL,1
+4942,K - National | Globalnews.ca Vaccine,ORG,1
+4943,Diane Harpell,PERSON,1
+4944,Leger and the Association for Canadian Studies,ORG,1
+4945,90 million,CARDINAL,1
+4946,Middlesex County,GPE,1
+4947,the Caradoc Community Centre,ORG,1
+4948,CBC News Quebecers,ORG,1
+4949,The Globe and Mail Engaging,ORG,1
+4950,B.C. Children's Hospital,PERSON,1
+4951,B.C. Children's Hospital,ORG,1
+4952,Nov. 29,DATE,1
+4953,Fauci,NORP,1
+4954,| CTV News Once,ORG,1
+4955,B.C. First Nation,ORG,1
+4956,Cowichan Tribes,PERSON,1
+4957,at least 240,CARDINAL,1
+4958,Dec. 31,DATE,1
+4959,Simcoe Muskoka - Barrie | Globalnews.ca Adults,PERSON,1
+4960,Simcoe County,GPE,1
+4961,Muskoka,GPE,1
+4962,this Thursday,DATE,1
+4963,First Leeds,PERSON,1
+4964,Lanark COVID-19,PERSON,1
+4965,March 1 -,DATE,1
+4966,The Globe and Mail Yukon,ORG,1
+4967,Sandy Silver,PERSON,1
+4968,next year's,DATE,1
+4969,Beijing Winter Games,EVENT,1
+4970,more than two years,DATE,1
+4971,Timothy Sullivan,PERSON,1
+4972,"1,900",CARDINAL,1
+4973,More than 11%,PERCENT,1
+4974,"81,914",CARDINAL,1
+4975,Saskatchewan’s,ORG,1
+4976,Act Respecting Proof of Immunization,ORG,1
+4977,22 to 20,CARDINAL,1
+4978,"Over 2,000",CARDINAL,1
+4979,CBC Radio Retired,ORG,1
+4980,the first few days,DATE,1
+4981,more than 1.1 million,CARDINAL,1
+4982,about 39 per cent,MONEY,1
+4983,"nearly 30,000",CARDINAL,1
+4984,$20-million,MONEY,1
+4985,Sept. 23,DATE,1
+4986,154,CARDINAL,1
+4987,United Kingdom,GPE,1
+4988,United Kingdom Video Online,GPE,1
+4989,CanSino Biologics,PERSON,1
+4990,444,CARDINAL,1
+4991,Toronto Sun Like,ORG,1
+4992,The Globe and Mail Company,ORG,1
+4993,Rhode Island,GPE,1
+4994,New Mexico,GPE,1
+4995,between the ages of 6 and 17,DATE,1
+4996,The Globe and Mail British,ORG,1
+4997,Australia |,ORG,1
+4998,more than a quarter,DATE,1
+4999,Nine,CARDINAL,1
+5000,Vancouver Island Video Online,ORG,1
+5001,Kitchener’s Grand River Hospital,ORG,1
+5002,Jan. 24,DATE,1
+5003,| CTV News Samoa,ORG,1
+5004,Pacific,LOC,1
+5005,77,CARDINAL,1
+5006,CBC News Provinces,ORG,1
+5007,Oxford-AstraZeneca's,ORG,1
+5008,The Star PORTAGE,WORK_OF_ART,1
+5009,Mich.,GPE,1
+5010,"around ‘Christmas,’ 1st",DATE,1
+5011,At least 3,CARDINAL,1
+5012,HKPR Health Unit,ORG,1
+5013,The Globe and Mail Pending Health Canada,ORG,1
+5014,The Globe and Mail Johnson & Johnson’s,ORG,1
+5015,66 per cent,MONEY,1
+5016,"44,000",CARDINAL,1
+5017,more than 1.7 million,CARDINAL,1
+5018,first 3 hours,TIME,1
+5019,Expert,PERSON,1
+5020,the Soviet Union,GPE,1
+5021,' weeks,DATE,1
+5022,Pfizer Inc,ORG,1
+5023,Tam - National | Globalnews.ca Dr.,ORG,1
+5024,Vivian Bercovici,PERSON,1
+5025,Two-year,DATE,1
+5026,six hours,TIME,1
+5027,82%,PERCENT,1
+5028,the Cottonwoods Care Centre,ORG,1
+5029,82 per cent,MONEY,1
+5030,the B.C. Centre for Disease Control's,ORG,1
+5031,30 percent,PERCENT,1
+5032,more than 30 percent,PERCENT,1
+5033,just days,DATE,1
+5034,Johnson vaccine - The Globe and Mail Coupled,PERSON,1
+5035,Canada Day,EVENT,1
+5036,Sun McMaster University,ORG,1
+5037,"just over 4,500",CARDINAL,1
+5038,70 and older,DATE,1
+5039,less than 10,CARDINAL,1
+5040,the Emergencies Act,LAW,1
+5041,over 2%,PERCENT,1
+5042,1.10,MONEY,1
+5043,2.45 %,PERCENT,1
+5044,46.06,MONEY,1
+5045,64 cents,MONEY,1
+5046,43.06,MONEY,1
+5047,1.51%,PERCENT,1
+5048,late-night,TIME,1
+5049,"edged past 150,000",CARDINAL,1
+5050,last year’s,DATE,1
+5051,Tam | Watch News,ORG,1
+5052,Tam Video,PERSON,1
+5053,Michael Patterson,PERSON,1
+5054,Moderna’s,PERSON,1
+5055,Ngozi Okonjo-Iweala,PERSON,1
+5056,the World Trade Organization,ORG,1
+5057,Shandro,NORP,1
+5058,Prevnar,GPE,1
+5059,"2,202",CARDINAL,1
+5060,20s,DATE,1
+5061,20-year,DATE,1
+5062,71 per cent,MONEY,1
+5063,2004,DATE,1
+5064,The Globe and Mail Could,ORG,1
+5065,94.1%,PERCENT,1
+5066,late Tuesday night,TIME,1
+5067,12 to 24 months,DATE,1
+5068,"3,780",CARDINAL,1
+5069,Yukon for COVID,ORG,1
+5070,Marguerite Blais,PERSON,1
+5071,| CTV News A World Health Organization (WHO,ORG,1
+5072,Antoniou,PERSON,1
+5073,Beijing Olympians | CTV News,ORG,1
+5074,Winter Games,EVENT,1
+5075,"4,876",CARDINAL,1
+5076,"766,102",CARDINAL,1
+5077,"19,647",CARDINAL,1
+5078,less than a year,DATE,1
+5079,the Canadian Constitution's,EVENT,1
+5080,the flu days,DATE,1
+5081,"1,185",CARDINAL,1
+5082,"668,104",CARDINAL,1
+5083,"24,339",CARDINAL,1
+5084,The Star Nunavut,ORG,1
+5085,The Globe and Mail Boards,ORG,1
+5086,Cyril Ramaphosa’s,PERSON,1
+5087,the eve,DATE,1
+5088,The Globe and Mail Shares,ORG,1
+5089,more than 3,CARDINAL,1
+5090,40.84,MONEY,1
+5091,CTV News Health Canada,ORG,1
+5092,The Star Pfizer Canada,ORG,1
+5093,100 meter,QUANTITY,1
+5094,Marco Krieger,PERSON,1
+5095,Fiocruz,PRODUCT,1
+5096,a few hours,TIME,1
+5097,about one thousand,CARDINAL,1
+5098,The Globe and Mail The Correctional Service of Canada,ORG,1
+5099,276,CARDINAL,1
+5100,| Globalnews.ca Ontario Health,ORG,1
+5101,Wonderland | The Star,FAC,1
+5102,"1,600",CARDINAL,1
+5103,a year later,DATE,1
+5104,Families,ORG,1
+5105,The Globe and Mail Our,ORG,1
+5106,12 hours,TIME,1
+5107,The World Health Organization (WHO,ORG,1
+5108,TikTok,ORG,1
+5109,40s,DATE,1
+5110,March 30,DATE,1
+5111,"1,062",CARDINAL,1
+5112,88,CARDINAL,1
+5113,"21,833",CARDINAL,1
+5114,Craig Jenne,PERSON,1
+5115,the University of Calgary,ORG,1
+5116,91.6%,PERCENT,1
+5117,September 5,DATE,1
+5118,Serbia,GPE,1
+5119,Will Edmonton,PERSON,1
+5120,as early as this summer,DATE,1
+5121,Canadian Light Source,ORG,1
+5122,The Globe and Mail Isolation,ORG,1
+5123,Papua New Guinea,PERSON,1
+5124,CBC Sports Olympic,ORG,1
+5125,Jamaica,GPE,1
+5126,daily this month,DATE,1
+5127,"78,586",CARDINAL,1
+5128,2M,PERCENT,1
+5129,Mecca,GPE,1
+5130,Minsk,GPE,1
+5131,H3N2,NORP,1
+5132,Oxford University-AstraZeneca COVID-19,ORG,1
+5133,About forty,CARDINAL,1
+5134,The Globe and Mail Gavi,ORG,1
+5135,up to 25%,PERCENT,1
+5136,Angus Reid Institute,ORG,1
+5137,Sean,NORP,1
+5138,millions of dollars,MONEY,1
+5139,"up to 168,000",CARDINAL,1
+5140,’ | Watch News,ORG,1
+5141,The Globe and Mail Hungary,ORG,1
+5142,Ugandan,ORG,1
+5143,Group of Ontario,ORG,1
+5144,the Ontario Society of Obstetricians,ORG,1
+5145,Gynaecologists,ORG,1
+5146,Toronto Sun 'Canada,ORG,1
+5147,The Globe and Mail Ugur Sahin,ORG,1
+5148,about six weeks,DATE,1
+5149,at least 300 million,MONEY,1
+5150,"as many as 100,000",CARDINAL,1
+5151,"270,625",CARDINAL,1
+5152,at least 70,CARDINAL,1
+5153,"AHS - Calgary | Globalnews.ca ""Risk",ORG,1
+5154,nearly 700,CARDINAL,1
+5155,241,CARDINAL,1
+5156,"59,000",CARDINAL,1
+5157,eight days,DATE,1
+5158,Anne Van Burek,PERSON,1
+5159,Vatican,ORG,1
+5160,The Globe and Mail The Congregation for the Doctrine of the Faith,ORG,1
+5161,The Globe and Mail Museum,ORG,1
+5162,B.C. SPCA,ORG,1
+5163,The B.C. SPCA,ORG,1
+5164,The Globe and Mail Moderna’s,ORG,1
+5165,Gavin Newsom,PERSON,1
+5166,Jan. 19,DATE,1
+5167,S. African COVID,NORP,1
+5168,Rideau Hall,FAC,1
+5169,Trudeau's Liberals,ORG,1
+5170,The Globe and Mail Adults,ORG,1
+5171,Ottawans,NORP,1
+5172,2006,DATE,1
+5173,the first seven months of the year,DATE,1
+5174,the same period in,DATE,1
+5175,CBC News Staging,ORG,1
+5176,Covigenix,ORG,1
+5177,year end or early next year,DATE,1
+5178,June 20,DATE,1
+5179,the first day of summer,DATE,1
+5180,Interior Health - Okanagan,ORG,1
+5181,Perks,NORP,1
+5182,Beijing airport,FAC,1
+5183,South Africa's,GPE,1
+5184,The Star Manitoba Health,ORG,1
+5185,nearly 30 per cent,MONEY,1
+5186,the busy holiday season,DATE,1
+5187,312,CARDINAL,1
+5188,"3,859",CARDINAL,1
+5189,"15,264",CARDINAL,1
+5190,Prince Rupert |,GPE,1
+5191,Hopefuls,PERSON,1
+5192,CBC News Along,ORG,1
+5193,EVD,ORG,1
+5194,18 years,DATE,1
+5195,AstraZeneca Plc,ORG,1
+5196,Modern Inc.,ORG,1
+5197,CBC News Statistics Canada,ORG,1
+5198,Health Canada | CTV News Health Canada,ORG,1
+5199,Spavor,ORG,1
+5200,Prince William,PERSON,1
+5201,The Star TORONTO - All,WORK_OF_ART,1
+5202,Latest Congo,ORG,1
+5203,North Kivu,GPE,1
+5204,The Globe and Mail BC Teachers’ Federation,ORG,1
+5205,the B.C. Immunization Committee,ORG,1
+5206,Global Affairs,ORG,1
+5207,the University of B.C.,ORG,1
+5208,Globalnews.ca Quebec ,LOC,1
+5209,the Japan Medical Association,ORG,1
+5210,The Globe and Mail Apple Inc,ORG,1
+5211,The United Arab Emirates,GPE,1
+5212,86 per cent,MONEY,1
+5213,NACI - National | Globalnews.ca Canada's,ORG,1
+5214,AstraZeneca ,PRODUCT,1
+5215,Auditor,ORG,1
+5216,60 to 69,DATE,1
+5217,The Globe and Mail Chief Public Health,ORG,1
+5218,Gatineau,GPE,1
+5219,Que,PERSON,1
+5220,Watson,PERSON,1
+5221,The Globe and Mail Deal,ORG,1
+5222,Leyen,GPE,1
+5223,The Globe and Mail Latest,ORG,1
+5224,Complaints,ORG,1
+5225,CEASE,ORG,1
+5226,Sun,GPE,1
+5227,between 1.9 million,CARDINAL,1
+5228,Star,PRODUCT,1
+5229,The Globe and Mail China’s,ORG,1
+5230,60 years,DATE,1
+5231,Canadians | CTV News,ORG,1
+5232,Gavino Garay,PERSON,1
+5233,the next few months,DATE,1
+5234,as much as 20,CARDINAL,1
+5235,2.3 billion to,MONEY,1
+5236,Knightsbridge Circle,ORG,1
+5237,"45,000",MONEY,1
+5238,late last year,DATE,1
+5239,West African,NORP,1
+5240,Matthew Herder,PERSON,1
+5241,the Public Health Law Institute,ORG,1
+5242,The Star Vaccine,PRODUCT,1
+5243,only about 30,CARDINAL,1
+5244,April 19,DATE,1
+5245,First World,ORG,1
+5246,Sun Dozens,PERSON,1
+5247,CBC News Technology,ORG,1
+5248,Qantas,ORG,1
+5249,more than eight months,DATE,1
+5250,Tam | CTV News Canada's,ORG,1
+5251,Mo.,GPE,1
+5252,its second week,DATE,1
+5253,The Globe and Mail Britain’s,ORG,1
+5254,at least late February,DATE,1
+5255,Wonderland - The Globe and Mail,FAC,1
+5256,Wonderland,GPE,1
+5257,"256,443",CARDINAL,1
+5258,five per cent,MONEY,1
+5259,Star Torontonians,PRODUCT,1
+5260,PMO,ORG,1
+5261,Morneau - The Globe and Mail,ORG,1
+5262,Sunnyside Care Centre,ORG,1
+5263,Just five minutes,TIME,1
+5264,COVI,ORG,1
+5265,Dalai Lama,PERSON,1
+5266,Dharmsala,GPE,1
+5267,"1,873",CARDINAL,1
+5268,579,CARDINAL,1
+5269,"More than 2,100",CARDINAL,1
+5270,the Democratic Republic of the Congo,GPE,1
+5271,The Globe and Mail Unless,ORG,1
+5272,Surface Plasmon Resonance,PERSON,1
+5273,Trudeau - The Globe and Mail Borders,ORG,1
+5274,Feb. 22,DATE,1
+5275,Tues,PERSON,1
+5276,"April 4, 2017",DATE,1
+5277,St. Petersburg,GPE,1
+5278,PTSD,DATE,1
+5279,Nova Scotia - Halifax | Globalnews.ca Mi'kmaw Chiefs,ORG,1
+5280,634,CARDINAL,1
+5281,Jan. 7,DATE,1
+5282,Gavi,PERSON,1
+5283,Jeffrey Betcher,PERSON,1
+5284,the end of May 2020,DATE,1
+5285,Temporary Pfizer,PERSON,1
+5286,CBC News Federal Procurement,ORG,1
+5287,52 million,CARDINAL,1
+5288,another 24 million,CARDINAL,1
+5289,"23,000",CARDINAL,1
+5290,216,CARDINAL,1
+5291,CSL,ORG,1
+5292,Overview of Saskatchewan’s,ORG,1
+5293,The Globe and Mail Details,ORG,1
+5294,about three weeks,DATE,1
+5295,Sinovac Biotech's,PERSON,1
+5296,331,CARDINAL,1
+5297,24,CARDINAL,1
+5298,The Star Plus,WORK_OF_ART,1
+5299,Takeda,ORG,1
+5300,Regardless of Previous Dengue,ORG,1
+5301,the Justice Department,ORG,1
+5302,Marie-Paule Kieny,PERSON,1
+5303,CBC News FluMist,ORG,1
+5304,Australia PM,ORG,1
+5305,| CTV News Australia's,ORG,1
+5306,20 per cent,MONEY,1
+5307,last season,DATE,1
+5308,42,DATE,1
+5309,the fourth week,DATE,1
+5310,The Ontario Nurses Association,ORG,1
+5311,2-year-olds,DATE,1
+5312,StatsCan | CTV News One,ORG,1
+5313,10 two-year-olds,DATE,1
+5314,80 this summer,DATE,1
+5315,Oil’s,ORG,1
+5316,The Globe and Mail Reality,ORG,1
+5317,The Globe and Mail Soumya Swaminathan,ORG,1
+5318,years-long,DATE,1
+5319,just six months,DATE,1
+5320,CPP Investments,ORG,1
+5321,Canada Pension Plan,ORG,1
+5322,508,CARDINAL,1
+5323,"1,128",CARDINAL,1
+5324,Gandalf,ORG,1
+5325,Gandalf,PERSON,1
+5326,Rings,ORG,1
+5327,The National Research Council of Canada,ORG,1
+5328,Eula Biss,PERSON,1
+5329,Biss,NORP,1
+5330,Church St.,ORG,1
+5331,Hepatitis A | The Star Toronto Public Health,WORK_OF_ART,1
+5332,Church,ORG,1
+5333,between June 7 and 23,DATE,1
+5334,'a few more months',DATE,1
+5335,Black Canadians,NORP,1
+5336,’,DATE,1
+5337,Neal Browning,PERSON,1
+5338,NYC,LOC,1
+5339,"More than 30,000",CARDINAL,1
+5340,the Health Departme,ORG,1
+5341,about $15-billion,MONEY,1
+5342,The Globe and Mail Pfizer Inc,ORG,1
+5343,about $15 billion,MONEY,1
+5344,Nearly five months,DATE,1
+5345,The Globe and Mail WHO Europe's,ORG,1
+5346,Hans Kluge,PERSON,1
+5347,AstaZeneca,ORG,1
+5348,Oscar Baker III,PERSON,1
+5349,ABU DHABI,GPE,1
+5350,Sinopharm CNBG’s,ORG,1
+5351,N.S. Grade,ORG,1
+5352,this past school year,DATE,1
+5353,"more than 37,000",CARDINAL,1
+5354,Eastern Europe,LOC,1
+5355,Xi,PERSON,1
+5356,The Globe and Mail Stigma,ORG,1
+5357,moments,TIME,1
+5358,NYC,ORG,1
+5359,Jewish,NORP,1
+5360,July 2021,DATE,1
+5361,"more than 200,000",CARDINAL,1
+5362,| The Star Health Canada,ORG,1
+5363,"2,832",CARDINAL,1
+5364,"878,396",CARDINAL,1
+5365,the last days,DATE,1
+5366,the last weeks,DATE,1
+5367,the last months,DATE,1
+5368,Nicola Mercer,PERSON,1
+5369,"5,848",CARDINAL,1
+5370,Timothy Caulfield,PERSON,1
+5371,'The Vaccination Picture,WORK_OF_ART,1
+5372,168,CARDINAL,1
+5373,K Moderna,ORG,1
+5374,Jordan,GPE,1
+5375,21-day,DATE,1
+5376,28-day,DATE,1
+5377,"1,268",CARDINAL,1
+5378,late May,DATE,1
+5379,The Globe and Mail Parts,ORG,1
+5380,John Nkengasong,PERSON,1
+5381,The Globe and Mail Regulator,ORG,1
+5382,The Globe and Mail The Metropolitan Police,ORG,1
+5383,"6,292",CARDINAL,1
+5384,"12,983",CARDINAL,1
+5385,Alcatraz,FAC,1
+5386,a Baltic Sea,LOC,1
+5387,Nazis,NORP,1
+5388,about nine months,DATE,1
+5389,Sun MORRISVILLE,PERSON,1
+5390,The Globe and Mail CMA’s,ORG,1
+5391,58-per-cent,QUANTITY,1
+5392,Capitol Hill,ORG,1
+5393,almost $1 trillion,MONEY,1
+5394,the last two weeks,DATE,1
+5395,"1,890",CARDINAL,1
+5396,553,CARDINAL,1
+5397,31,DATE,1
+5398,"92,000",MONEY,1
+5399,Sumon Chakrabarti,PERSON,1
+5400,| Awesome Activities & Fun Facts,ORG,1
+5401,The Globe and Mail Children,ORG,1
+5402,AstraZeneca-Oxford,PRODUCT,1
+5403,Delay,PERSON,1
+5404,"Thursday, February 4, 2021: Proud Boys",DATE,1
+5405,"more than 871,000",CARDINAL,1
+5406,"nearly 130,000",CARDINAL,1
+5407,Phyllis Ridgway,PERSON,1
+5408,114-years-old,DATE,1
+5409,The Globe and Mail Given,ORG,1
+5410,their 90s,DATE,1
+5411,Ottawa’s,ORG,1
+5412,190 million,CARDINAL,1
+5413,"200,097",CARDINAL,1
+5414,38,CARDINAL,1
+5415,The Globe and Mail Uber,ORG,1
+5416,Dara Khosrowshahi,PERSON,1
+5417,Vancouver Sun BEIRA,FAC,1
+5418,VCH,ORG,1
+5419,Twenty-two,CARDINAL,1
+5420,The Globe and Mail Acuitas Therapeutics,ORG,1
+5421,Intense,NORP,1
+5422,at least 126,CARDINAL,1
+5423,75 Monday,DATE,1
+5424,58,DATE,1
+5425,Sun VANCOUVER,PERSON,1
+5426,about 27 million,CARDINAL,1
+5427,"Thursday, Sept. 13, 2018",DATE,1
+5428,Humboldt Broncos,PERSON,1
+5429,White Helmets,PERSON,1
+5430,Syria,GPE,1
+5431,Humboldt,NORP,1
+5432,Broncos,PRODUCT,1
+5433,5 million,CARDINAL,1
+5434,a few weeks ago,DATE,1
+5435,Mike,PERSON,1
+5436,Karen Pence,PERSON,1
+5437,"126,000",CARDINAL,1
+5438,The Globe and Mail Canadians,ORG,1
+5439,Novavax COVID,ORG,1
+5440,about $9-million,MONEY,1
+5441,Ottawa - The Globe and Mail,ORG,1
+5442,"14,244",CARDINAL,1
+5443,FDA - National |,ORG,1
+5444,those 16 years,DATE,1
+5445,706,CARDINAL,1
+5446,941,CARDINAL,1
+5447,The Globe and Mail Dix,ORG,1
+5448,"fewer than 445,000",CARDINAL,1
+5449,well as two million,CARDINAL,1
+5450,the next 7 days,DATE,1
+5451,PM Modi,ORG,1
+5452,Trudeau - National | Globalnews.ca Even,ORG,1
+5453,their first five years,DATE,1
+5454,Sun Video,PERSON,1
+5455,Front,ORG,1
+5456,Sherri Pel,PERSON,1
+5457,Langley,GPE,1
+5458,the Journal of Infectious Diseases,ORG,1
+5459,The Globe and Mail Blustering,ORG,1
+5460,Vancouver Sun Long,PERSON,1
+5461,Abbotsford,NORP,1
+5462,March 2021,DATE,1
+5463,NPR/,ORG,1
+5464,PBS NewsHour/Marist,ORG,1
+5465,Astrazeneca,NORP,1
+5466,75.98 U.S. cents,MONEY,1
+5467,JERUSALEM,ORG,1
+5468,Toronto Sun SAN FRANCISCO,ORG,1
+5469,"2,260",CARDINAL,1
+5470,12 to 15,CARDINAL,1
+5471,Donald,PERSON,1
+5472,Oliver Stone,PERSON,1
+5473,last November,DATE,1
+5474,another summer,DATE,1
+5475,The Globe and Mail Confirmed,ORG,1
+5476,Jack Crompton,PERSON,1
+5477,West Africa,GPE,1
+5478,The Globe and Mail Economic,ORG,1
+5479,the second quarter,DATE,1
+5480,9:18 a.m.,TIME,1
+5481,Makkovik,ORG,1
+5482,about 375,CARDINAL,1
+5483,Front Burner,PERSON,1
+5484,5B,MONEY,1
+5485,at least $1 billion,MONEY,1
+5486,Rexdale,ORG,1
+5487,Francis Maguire,PERSON,1
+5488,the week of January 25,DATE,1
+5489,"1,463",CARDINAL,1
+5490,122,CARDINAL,1
+5491,2nd quarter,DATE,1
+5492,the next quarter,DATE,1
+5493,Toronto &,ORG,1
+5494,Toront,GPE,1
+5495,Another school year,DATE,1
+5496,The Globe and Mail Portfolio,ORG,1
+5497,Tammy Jarbeau,PERSON,1
+5498,Canadian National Exhibition,ORG,1
+5499,Canadian Nationial Exhibition,NORP,1
+5500,$790-million,MONEY,1
+5501,Giant Steps,ORG,1
+5502,371,CARDINAL,1
+5503,"16,000",CARDINAL,1
+5504,Protecting Canada's,ORG,1
+5505,about 100 million,CARDINAL,1
+5506,Tiffany Bond,PERSON,1
+5507,25-year-old,DATE,1
+5508,Eight years ago,DATE,1
+5509,age 39,DATE,1
+5510,8211,DATE,1
+5511,seven-week,DATE,1
+5512,Bond couldn&#8217;t,ORG,1
+5513,about a third,CARDINAL,1
+5514,Bond,ORG,1
+5515,Joanne Di Nardo,PERSON,1
+5516,the Canadian Cancer Society:,ORG,1
+5517,more than,CARDINAL,1
+5518,March 13,DATE,1
+5519,"105,703,501",CARDINAL,1
+5520,"135,846,665",CARDINAL,1
+5521,four to six weeks,DATE,1
+5522,75-79,CARDINAL,1
+5523,Thirty-one,CARDINAL,1
+5524,at least 35,CARDINAL,1
+5525,Stacey Griffith,PERSON,1
+5526,The Globe and Mail Human,ORG,1
+5527,Cantonese,NORP,1
+5528,Punjabi,GPE,1
+5529,22 to 94,DATE,1
+5530,Treasuries,ORG,1
+5531,Big Tech,ORG,1
+5532,CBC News Questions,ORG,1
+5533,all next week,DATE,1
+5534,The Globe and Mail Those,ORG,1
+5535,Rochelle Walensky,PERSON,1
+5536,Sun Leger's,PERSON,1
+5537,North American Tracker,NORP,1
+5538,May 21,DATE,1
+5539,"2,752",CARDINAL,1
+5540,"852,274",CARDINAL,1
+5541,"at least 799,835",CARDINAL,1
+5542,Djokovic,PERSON,1
+5543,The Globe and Mail Djokovic,ORG,1
+5544,Serb,NORP,1
+5545,about 40th,DATE,1
+5546,Data,GPE,1
+5547,Jan. 23,DATE,1
+5548,Julie Payette’s,PERSON,1
+5549,the Arab Spring,EVENT,1
+5550,late spring or the summer,DATE,1
+5551,2 years,DATE,1
+5552,about 330,CARDINAL,1
+5553,more than 80%,PERCENT,1
+5554,Manitoba ,GPE,1
+5555,U.S.-India,ORG,1
+5556,Sexy Mom',PERSON,1
+5557,"100,000",MONEY,1
+5558,Sexy Mom,PERSON,1
+5559,| CTV News Congo,ORG,1
+5560,| CTV News One day,ORG,1
+5561,Ukrainian,GPE,1
+5562,Nov. 4,DATE,1
+5563,Jill Biden,PERSON,1
+5564,nearly 1.4 billion,CARDINAL,1
+5565,Jill Promoli,PERSON,1
+5566,Dennis King,PERSON,1
+5567,The Globe and Mail People’s Alliance,ORG,1
+5568,Kris Austin,PERSON,1
+5569,David Coon,PERSON,1
+5570,Prairies,WORK_OF_ART,1
+5571,Western’s,ORG,1
+5572,late April,DATE,1
+5573,"68,000",CARDINAL,1
+5574,Anna Banerji,PERSON,1
+5575,The Globe and Mail Revelation,ORG,1
+5576,Microsoft,ORG,1
+5577,21 million mark,MONEY,1
+5578,The Globe and Mail Doctors,ORG,1
+5579,15 billion,CARDINAL,1
+5580,"3,370",CARDINAL,1
+5581,"22,192",CARDINAL,1
+5582,| CTV News Recent,ORG,1
+5583,the Middle East,LOC,1
+5584,474,CARDINAL,1
+5585,’ - National | Globalnews.ca Canada's,WORK_OF_ART,1
+5586,The Star Ottawa,ORG,1
+5587,The Canadian Medical Association,ORG,1
+5588,June or July,DATE,1
+5589,University of Oxford,ORG,1
+5590,nearly 3%,PERCENT,1
+5591,1.21,MONEY,1
+5592,2.9%,PERCENT,1
+5593,43.61,MONEY,1
+5594,1.07,MONEY,1
+5595,2.7%,PERCENT,1
+5596,41.36,MONEY,1
+5597,"3,183",CARDINAL,1
+5598,"861,408",CARDINAL,1
+5599,"809,046",CARDINAL,1
+5600,"Jan. 25, 2020",DATE,1
+5601,California Senate - The Globe and Mail,ORG,1
+5602,December date,DATE,1
+5603,Junghee Ahn,PERSON,1
+5604,The Globe and Mail Underpopulated,ORG,1
+5605,West Virginia,GPE,1
+5606,March 26,DATE,1
+5607,the Vancouver Coastal Health,ORG,1
+5608,"Interior Health, Northern Health",ORG,1
+5609,Vancouver Island Health,ORG,1
+5610,"less than 17,000",CARDINAL,1
+5611,Tories’,ORG,1
+5612,The Globe and Mail Food,ORG,1
+5613,Goldman Sachs,ORG,1
+5614,"1,871",CARDINAL,1
+5615,the Miramichi Regional Hospital,FAC,1
+5616,‘early’ 2021,DATE,1
+5617,The Globe and Mail Quebec’s Medicago,ORG,1
+5618,Public Health England,ORG,1
+5619,Dec. 21,DATE,1
+5620,Nishnawbe Aski Nation,ORG,1
+5621,NAN,ORG,1
+5622,Moosonee,PERSON,1
+5623,Rutgers University,ORG,1
+5624,Janssen seeks Health Canada,ORG,1
+5625,"Saturday, February 16, 2019",DATE,1
+5626,The Globe and Mail Researcher,ORG,1
+5627,early fall,DATE,1
+5628,"more than 197,000",CARDINAL,1
+5629,EXPO,ORG,1
+5630,the next two weeks,DATE,1
+5631,"190,000",CARDINAL,1
+5632,the Nov. 3,DATE,1
+5633,more than 70,CARDINAL,1
+5634,"2,448",CARDINAL,1
+5635,the fourth consecutive day,DATE,1
+5636,New York City's,GPE,1
+5637,The Globe and Mail Trials,ORG,1
+5638,60 to 69,TIME,1
+5639,Erin Henderson's,PERSON,1
+5640,Fort Macleod,ORG,1
+5641,Pincher Creek,GPE,1
+5642,UCP,ORG,1
+5643,The Globe and Mail Maintaining,ORG,1
+5644,28 days,DATE,1
+5645,"more than 60,000",CARDINAL,1
+5646,Hossein Sadrzadeh,PERSON,1
+5647,NYT,ORG,1
+5648,Feb. 10,DATE,1
+5649,roughly seven,CARDINAL,1
+5650,"over 3,400",CARDINAL,1
+5651,Over a dozen,CARDINAL,1
+5652,The Globe and Mail Maryland,ORG,1
+5653,the U.S. Department of Health and Human Services,ORG,1
+5654,Half,CARDINAL,1
+5655,Christine Boudreau,PERSON,1
+5656,the New Brunswick Pharmacists’ Association,ORG,1
+5657,38 million,CARDINAL,1
+5658,Soumya Swaminathan,PERSON,1
+5659,The Star OLYMPIA,WORK_OF_ART,1
+5660,Wash. -,GPE,1
+5661,the Pacific Northwest,LOC,1
+5662,The Star OTTAWA - Canada,WORK_OF_ART,1
+5663,"Monday, March 29",DATE,1
+5664,The Globe and Mail Torstar,ORG,1
+5665,Nearly 500,CARDINAL,1
+5666,Francisco Sagasti,PERSON,1
+5667,Beaver Creek,GPE,1
+5668,Great Canadian Gaming Corporation,ORG,1
+5669,Some 72,DATE,1
+5670,almost two-thirds,CARDINAL,1
+5671,25 per cent,MONEY,1
+5672,the B.C. Chamber of Commerce,ORG,1
+5673,The Star RABAT,PERSON,1
+5674,vaccinate 80%,PERCENT,1
+5675,weeks earlier,DATE,1
+5676,more than 2 months,DATE,1
+5677,"1,916,332",CARDINAL,1
+5678,"77,740",CARDINAL,1
+5679,106-per-cent,DATE,1
+5680,Dose,PERSON,1
+5681,"More than 2,200",CARDINAL,1
+5682,"about 10,000",CARDINAL,1
+5683,"284,472",CARDINAL,1
+5684,The Globe and Mail Timelines,ORG,1
+5685,S. African,NORP,1
+5686,The Globe and Mail One million,ORG,1
+5687,"another 500,000",CARDINAL,1
+5688,28.7 million,CARDINAL,1
+5689,the next three months,DATE,1
+5690,Mike Wilkinson,PERSON,1
+5691,Conor Barnes,ORG,1
+5692,Torontonian,GPE,1
+5693,June 18,DATE,1
+5694,the EU Commission,ORG,1
+5695,March 5,DATE,1
+5696,CBC Radio Peace Corps,ORG,1
+5697,Lon Kightlinger ,PERSON,1
+5698,Eastern Ontario,ORG,1
+5699,the third week of March,DATE,1
+5700,Palestinian Territory - Israel,ORG,1
+5701,12 to 18 months,DATE,1
+5702,the Alberta Children’s Hospital,FAC,1
+5703,almost two years,DATE,1
+5704,Cora Constantinescu,PERSON,1
+5705,a couple of years,DATE,1
+5706,Acuitas Therapeutics,ORG,1
+5707,about 50 per cent,MONEY,1
+5708,"Monday Apr. 15, 2019",DATE,1
+5709,Wales | CTV News Police,ORG,1
+5710,53-year-old,DATE,1
+5711,Wales,GPE,1
+5712,| CTV News Drug,ORG,1
+5713,99-year-old,DATE,1
+5714,Evelyn Shipperfield,PERSON,1
+5715,"Monday, March 8",DATE,1
+5716,Horacio Arruda,PERSON,1
+5717,Tam - The Globe and Mail,ORG,1
+5718,a quarter,CARDINAL,1
+5719,Mississauga,PERSON,1
+5720,"Kingston, Frontenac, Lennox",ORG,1
+5721,Addington,ORG,1
+5722,Bonnie Crombie,PERSON,1
+5723,The Globe and Mail Survey,ORG,1
+5724,73 per cent,MONEY,1
+5725,BC NDP,ORG,1
+5726,Chrétien,GPE,1
+5727,Clark,PERSON,1
+5728,Ottawa City Hall,FAC,1
+5729,Jim Watson,PERSON,1
+5730,Trudeau Liberals,ORG,1
+5731,Moe,PERSON,1
+5732,Ginette Petitpas Taylor,PERSON,1
+5733,The Globe and Mail Adrian Dix,ORG,1
+5734,five years ago,DATE,1
+5735,The Globe and Mail Epidemiologists,ORG,1
+5736,Tenn.,GPE,1
+5737,K-12,PRODUCT,1
+5738,The Star Giuseppe (Pino) Ursino,WORK_OF_ART,1
+5739,67,DATE,1
+5740,nearly one-third,CARDINAL,1
+5741,"more than 106,000",CARDINAL,1
+5742,"more than 2,100",CARDINAL,1
+5743,later today,TIME,1
+5744,SWPH,ORG,1
+5745,70 to 74,CARDINAL,1
+5746,an afternoon,TIME,1
+5747,Ipsos Public Affairs,ORG,1
+5748,Global News Canadians,ORG,1
+5749,"3,155",CARDINAL,1
+5750,last September,DATE,1
+5751,The National's Jonathon Gatehouse,ORG,1
+5752,a winter,DATE,1
+5753,Suncor,ORG,1
+5754,"nearly 1,800",CARDINAL,1
+5755,"1,521,705",CARDINAL,1
+5756,"40,823",CARDINAL,1
+5757,the B.C. Centre for Disease,ORG,1
+5758,Tokyo Olympics Q&A,EVENT,1
+5759,"2,094",CARDINAL,1
+5760,"7,220",CARDINAL,1
+5761,159,CARDINAL,1
+5762,the second and third quarters of this year,DATE,1
+5763,Bach,PERSON,1
+5764,Health Canada - National |,ORG,1
+5765,at least 25,CARDINAL,1
+5766,The Globe and Mail South Korea,ORG,1
+5767,seven years,DATE,1
+5768,four years,DATE,1
+5769,1 year,DATE,1
+5770,Margaret Keenan’s,PERSON,1
+5771,Ben Carson,PERSON,1
+5772,Mark Esper,PERSON,1
+5773,Sun Moderna,PERSON,1
+5774,the next 48 hours,TIME,1
+5775,AstraZeneca - The Globe and Mail Pharmaceutical,ORG,1
+5776,300-million,CARDINAL,1
+5777,The Globe and Mail U.S. Department of Health,ORG,1
+5778,up to $1.2-billion,MONEY,1
+5779,The Globe and Mail Anything,ORG,1
+5780,Ojistoh Horn,PERSON,1
+5781,Trans Mountain,LOC,1
+5782,Jean-Paul Riopelle,PERSON,1
+5783,"1,780",CARDINAL,1
+5784,the Royal Family,ORG,1
+5785,Queen Elizabeth,PERSON,1
+5786,"up to $1,000",MONEY,1
+5787,VIENNA,GPE,1
+5788,November 2021,DATE,1
+5789,CBC Radio Reports,ORG,1
+5790,"nearly 500,000",CARDINAL,1
+5791,1 billion,CARDINAL,1
+5792,The U.S. Justice Department,ORG,1
+5793,More than 300,CARDINAL,1
+5794,the City of Toronto,GPE,1
+5795,Democratic,NORP,1
+5796,Feb - National | Globalnews.ca,ORG,1
+5797,1.3 per cent,MONEY,1
+5798,Johnson COVID-19,PERSON,1
+5799,about three weeks ago,DATE,1
+5800,COVID-19 vaccine - London,PRODUCT,1
+5801,Public Health | CTV News The Public Health Agency of,ORG,1
+5802,Kan Chai,PERSON,1
+5803,same day,DATE,1
+5804,| CBC News Health Canada,ORG,1
+5805,Rio Tinto,PERSON,1
+5806,The Globe and Mail Miners,ORG,1
+5807,Supriya Dwivedi,PERSON,1
+5808,"797,738",CARDINAL,1
+5809,"at least 725,500",CARDINAL,1
+5810,more than four months,DATE,1
+5811,Aug. 10,DATE,1
+5812,Edmundston,GPE,1
+5813,those 80 years old,DATE,1
+5814,Christine,PERSON,1
+5815,The Globe and Mail Duke University,ORG,1
+5816,the Global Public Health Intelligence Network,ORG,1
+5817,Hong Kong’s,GPE,1
+5818,Cathay Pacific Airways,ORG,1
+5819,The Globe and Mail Added,ORG,1
+5820,Only a third,CARDINAL,1
+5821,those age 18,DATE,1
+5822,SFU,ORG,1
+5823,Montreal Hells Angels,ORG,1
+5824,The Associated Press's,ORG,1
+5825,the World Health Organization’s,ORG,1
+5826,nearly 600,CARDINAL,1
+5827,"nearly 2,000",CARDINAL,1
+5828,Madeleine White,PERSON,1
+5829,"Thursday, Oct. 22",DATE,1
+5830,1:30 p.m. ET,TIME,1
+5831,the Globe’s,ORG,1
+5832,up to $8.4-million,MONEY,1
+5833,the Coalition for Epidemic Preparedness Innovations,ORG,1
+5834,Push,PERSON,1
+5835,414,CARDINAL,1
+5836,between 65 and 70,DATE,1
+5837,last month's,DATE,1
+5838,598,CARDINAL,1
+5839,The Globe and Mail Optimism,ORG,1
+5840,Ramped,ORG,1
+5841,Thunder Bay - The Globe and Mail Inoculation,ORG,1
+5842,almost a month,DATE,1
+5843,The Globe and Mail Banning AstraZeneca,ORG,1
+5844,N.B. Public Health,ORG,1
+5845,"about 85,000",CARDINAL,1
+5846,Ontario Premier,PERSON,1
+5847,Nicolas Sarkozy,PERSON,1
+5848,at least 2,CARDINAL,1
+5849,St. Albert,GPE,1
+5850,| CTV News Cats,ORG,1
+5851,Canadian Armed Forces,ORG,1
+5852,Keystone &,ORG,1
+5853,| Globalnews.ca A University of Saskatchewan,ORG,1
+5854,Canada Post,ORG,1
+5855,The Globe and Mail Industry,ORG,1
+5856,Emergent BioSolutions,ORG,1
+5857,the Phase III,WORK_OF_ART,1
+5858,National Museum of American History,ORG,1
+5859,The Globe and Mail Conventional,ORG,1
+5860,The Globe and Mail Administrators,ORG,1
+5861,National Health Service,ORG,1
+5862,66 million,CARDINAL,1
+5863,PARIS/MADRID,ORG,1
+5864,The Star The Toronto Star’s,WORK_OF_ART,1
+5865,IVF,ORG,1
+5866,V-Day,DATE,1
+5867,The Globe and Mail Having,ORG,1
+5868,two decades ago,DATE,1
+5869,the National Health Service’s,ORG,1
+5870,Roger Connor,PERSON,1
+5871,GSK Vaccines,ORG,1
+5872,625,CARDINAL,1
+5873,91%,PERCENT,1
+5874,53 per cent,MONEY,1
+5875,the age of 70,DATE,1
+5876,The Globe and Mail Rules,ORG,1
+5877,Trudeau | CTV News,ORG,1
+5878,Olivia Chan,PERSON,1
+5879,Africa Video Online,ORG,1
+5880,Montreal,NORP,1
+5881,Mylène Drouin,PERSON,1
+5882,"More than 2,000",CARDINAL,1
+5883,24-hour,TIME,1
+5884,| CTV News Vaccinations,ORG,1
+5885,Many hard months,DATE,1
+5886,its worst week,DATE,1
+5887,the second half of the year,DATE,1
+5888,dozen,CARDINAL,1
+5889,258,CARDINAL,1
+5890,300th,ORDINAL,1
+5891,244,CARDINAL,1
+5892,Alberta Health Service,ORG,1
+5893,414 million,CARDINAL,1
+5894,up to five,CARDINAL,1
+5895,mid-summer,DATE,1
+5896,The Globe and Mail The European Union,ORG,1
+5897,Armenia,GPE,1
+5898,Azerbaijan,GPE,1
+5899,Belarus,GPE,1
+5900,Georgia,GPE,1
+5901,Moldova,GPE,1
+5902,Michael Hefferon,PERSON,1
+5903,"6,345",CARDINAL,1
+5904,"474,820",CARDINAL,1
+5905,Pearson,PRODUCT,1
+5906,COVID-19 - The Globe and Mail Researchers,ORG,1
+5907,BCG,ORG,1
+5908,Globalnews.ca Ireland,GPE,1
+5909,The Star Bach,PERSON,1
+5910,The Globe and Mail Looking,ORG,1
+5911,Sloan,PERSON,1
+5912,The Globe and Mail First Nations,ORG,1
+5913,53,DATE,1
+5914,The Star PRAGUE,ORG,1
+5915,Czech Republic - Slovakia’s,GPE,1
+5916,74,DATE,1
+5917,Woodstock,GPE,1
+5918,Southwestern Public Health,ORG,1
+5919,Serum Institute of India,ORG,1
+5920,one billion,MONEY,1
+5921,The Globe and Mail Blistering,ORG,1
+5922,at least six months,DATE,1
+5923,97.5,CARDINAL,1
+5924,the Canadian Centre for,ORG,1
+5925,11 months,DATE,1
+5926,Jenny Bailey,PERSON,1
+5927,81,DATE,1
+5928,3 billion,CARDINAL,1
+5929,Paolo Gentiloni,PERSON,1
+5930,recent years,DATE,1
+5931,Racialized,NORP,1
+5932,The Globe and Mail Black,ORG,1
+5933,South Asian,NORP,1
+5934,COVID-19 Vaccines,PERSON,1
+5935,Vaccine Acceptance,PERSON,1
+5936,72 million,CARDINAL,1
+5937,Dix,PERSON,1
+5938,Mexico | CTV News,ORG,1
+5939,Andres Manuel Lopez Obrador,PERSON,1
+5940,Mexicans,NORP,1
+5941,"2,359",CARDINAL,1
+5942,52,CARDINAL,1
+5943,"276,146",CARDINAL,1
+5944,"3,100",CARDINAL,1
+5945,March 23 to 25,DATE,1
+5946,"COVID-19 - National | Globalnews.ca ""Babies",ORG,1
+5947,about 86%,PERCENT,1
+5948,The Globe and Mail Globe,ORG,1
+5949,at least 44 million,CARDINAL,1
+5950,more than 16,CARDINAL,1
+5951,RESCUE,ORG,1
+5952,weeks 24-34,DATE,1
+5953,two shots 21 days,DATE,1
+5954,The Canadian Press,ORG,1
+5955,less than a year later,DATE,1
+5956,The Globe and Mail Expert,ORG,1
+5957,the beginning of 2021,DATE,1
+5958,479,CARDINAL,1
+5959,a few days later,DATE,1
+5960,World Bank,ORG,1
+5961,World Bank Group,ORG,1
+5962,up to $160 billion,MONEY,1
+5963,"More than 70,000",CARDINAL,1
+5964,| Globalnews.ca Quebec,ORG,1
+5965,114th,ORDINAL,1
+5966,three-month,DATE,1
+5967,more than 1.5 million,MONEY,1
+5968,April 8,DATE,1
+5969,CBC News Adrian Dix,ORG,1
+5970,Dec. 27,DATE,1
+5971,The Star ABU DHABI,WORK_OF_ART,1
+5972,$275 million,MONEY,1
+5973,Vancouver,PERSON,1
+5974,Laura Secord Elementary,ORG,1
+5975,Sun Health,ORG,1
+5976,New Democrats,NORP,1
+5977,the National Capital Region,ORG,1
+5978,COC,ORG,1
+5979,The Globe and Mail PnuVax,ORG,1
+5980,"1,925",CARDINAL,1
+5981,an appointment minutes later,TIME,1
+5982,The Globe and Mail These,ORG,1
+5983,75 years,DATE,1
+5984,The Globe and Mail Resource,ORG,1
+5985,42 two weeks ago,DATE,1
+5986,More than a century later,DATE,1
+5987,Ross,PERSON,1
+5988,Videos Online Watch Canada,ORG,1
+5989,MPP Sol Mamakwa,ORG,1
+5990,Indigenous MPP Sol Mamakwa,PERSON,1
+5991,"Dec. 23, 2016",DATE,1
+5992,Jeopardy | CTV News Five,ORG,1
+5993,Nearly 700,CARDINAL,1
+5994,More than 680,CARDINAL,1
+5995,$600-million,MONEY,1
+5996,Venice,GPE,1
+5997,Save the Children,ORG,1
+5998,The Star AMSTERDAM - As,ORG,1
+5999,"up to 150,000",CARDINAL,1
+6000,"As many as 150,000",CARDINAL,1
+6001,"1,009",CARDINAL,1
+6002,single day,DATE,1
+6003,February 13,DATE,1
+6004,"307,394",CARDINAL,1
+6005,"10,645",CARDINAL,1
+6006,"1,176,670",CARDINAL,1
+6007,Donald Trump’s,PERSON,1
+6008,The Globe and Mail Date,ORG,1
+6009,Halton Region,PERSON,1
+6010,B.C. CDC,PERSON,1
+6011,Iranians,NORP,1
+6012,Hassan Rouhani,PERSON,1
+6013,380,CARDINAL,1
+6014,Gates Foundation,ORG,1
+6015,$3 million,MONEY,1
+6016,141,CARDINAL,1
+6017,"1,662",CARDINAL,1
+6018,North America,LOC,1
+6019,NBA,ORG,1
+6020,MLS,ORG,1
+6021,almost 414 million,MONEY,1
+6022,The Globe and Mail University of Texas,ORG,1
+6023,$1.9-million,MONEY,1
+6024,the next five years,DATE,1
+6025,AztraZeneca,ORG,1
+6026,VIPIT | CTV News Canada's,ORG,1
+6027,The Globe and Mail Transport,ORG,1
+6028,Omar Alghabra,PERSON,1
+6029,Michelle Rempel Garner,PERSON,1
+6030,CBC Radio Oxford,ORG,1
+6031,Sun Health Canada,ORG,1
+6032,August 22,DATE,1
+6033,Alberta Teachers’ Association,ORG,1
+6034,$4.2 billion,MONEY,1
+6035,the World Health Organization's,ORG,1
+6036,the first half million,DATE,1
+6037,Grey Bruce - Barrie |,GPE,1
+6038,Grey Bruce Health Unit,ORG,1
+6039,53,CARDINAL,1
+6040,Simcoe Muskoka - Barrie | Globalnews.ca,PERSON,1
+6041,"2,355",CARDINAL,1
+6042,"73,263",CARDINAL,1
+6043,The Lancet Neurology,WORK_OF_ART,1
+6044,Steven Brandenburg,PERSON,1
+6045,Zuzana Caputova,PERSON,1
+6046,Eduard Heger,PERSON,1
+6047,Matovic’s,ORG,1
+6048,"more than 1,500",CARDINAL,1
+6049,HONG KONG,GPE,1
+6050,Assets Supervision,ORG,1
+6051,Rapper M.I.A.,ORG,1
+6052,Toronto Sun M.I.A.,ORG,1
+6053,Theresa,PERSON,1
+6054,Amid AstraZeneca,NORP,1
+6055,Watch Ottawa,PERSON,1
+6056,The Globe and Mail Next,ORG,1
+6057,2-year-old,DATE,1
+6058,Red Chamber,ORG,1
+6059,July to October this year,DATE,1
+6060,Amir Attaran,PERSON,1
+6061,"6,442",CARDINAL,1
+6062,2nd,DATE,1
+6063,"15,378",CARDINAL,1
+6064,the winter months,DATE,1
+6065,TPH,ORG,1
+6066,The Globe and Mail Family,ORG,1
+6067,Vincent Lam,PERSON,1
+6068,Angela Price’s,PERSON,1
+6069,Angela,PERSON,1
+6070,Bob Sears,PERSON,1
+6071,10 years ago,DATE,1
+6072,a decade ago,DATE,1
+6073,Arabic,NORP,1
+6074,Ojibwe,GPE,1
+6075,Punjabi,ORG,1
+6076,Spanish,LANGUAGE,1
+6077,Urdu,GPE,1
+6078,Sierra Leone’s,ORG,1
+6079,Yin Weidong,PERSON,1
+6080,SinoVac,ORG,1
+6081,The Globe and Mail Analysis,ORG,1
+6082,"181,000",CARDINAL,1
+6083,between 2007 and 2003,DATE,1
+6084,330,CARDINAL,1
+6085,948,CARDINAL,1
+6086,"Ontario, Public Health",ORG,1
+6087,Trump - National | Globalnews.ca Trump,ORG,1
+6088,B.1.1.7,GPE,1
+6089,Nova Scotia's,PERSON,1
+6090,Stephen Lewis,PERSON,1
+6091,Big Pharma - National | Globalnews.ca,ORG,1
+6092,Lisa Barrett,PERSON,1
+6093,Kingston Health Sciences Centre,ORG,1
+6094,16-year-olds,DATE,1
+6095,ETA,ORG,1
+6096,The Globe and Mail Around,ORG,1
+6097,Megan Revell,PERSON,1
+6098,The Globe and Mail Toronto,ORG,1
+6099,Novak Djokovic,ORG,1
+6100,as early as end of December,DATE,1
+6101,The National Football League,ORG,1
+6102,Allan Sills,PERSON,1
+6103,More than 325,CARDINAL,1
+6104,The Globe and Mail But,ORG,1
+6105,the last two months,DATE,1
+6106,Togo,PERSON,1
+6107,Chad,GPE,1
+6108,45 to 60,DATE,1
+6109,Karim Kurji,PERSON,1
+6110,York Region's,GPE,1
+6111,Markham,GPE,1
+6112,Hank,ORG,1
+6113,Rich Coleman,PERSON,1
+6114,Twitter,PERSON,1
+6115,Coleman,PERSON,1
+6116,99.5%,PERCENT,1
+6117,99.7%,PERCENT,1
+6118,The Globe and Mail Getting,ORG,1
+6119,20/20,PERSON,1
+6120,First Quebecer,ORG,1
+6121,Family Physicians,ORG,1
+6122,60 per cent,MONEY,1
+6123,15 per cent,MONEY,1
+6124,"More than 140,000",CARDINAL,1
+6125,almost a decade,DATE,1
+6126,The Globe and Mail Epidemic,ORG,1
+6127,The Globe and Mail Much,ORG,1
+6128,almost 90 per cent,MONEY,1
+6129,the B.C. Recovery Benefit,ORG,1
+6130,Salisbury,GPE,1
+6131,US$2 billion,MONEY,1
+6132,16 per cent,MONEY,1
+6133,The Globe and Mail Central,ORG,1
+6134,The Globe and Mail Jostling,ORG,1
+6135,Jocelyn Maffin,PERSON,1
+6136,CBC Radio Two,ORG,1
+6137,Black Canadians,ORG,1
+6138,MaRS Centre,FAC,1
+6139,"640,000",CARDINAL,1
+6140,The Globe and Mail Officials,ORG,1
+6141,Rockland County,GPE,1
+6142,more than 150,CARDINAL,1
+6143,late March 2020,DATE,1
+6144,94.1 per cent,MONEY,1
+6145,The Globe and Mail ‘Misinformation,ORG,1
+6146,Sun Johnson & Johnson,ORG,1
+6147,the U.S. Trials,ORG,1
+6148,Nili Kaplan-Myrth,PERSON,1
+6149,the Christmas holidays,DATE,1
+6150,Brian Morgenstern,PERSON,1
+6151,Caribbean,NORP,1
+6152,The week,DATE,1
+6153,| The Star Here’s,WORK_OF_ART,1
+6154,Manitoba Health,ORG,1
+6155,The Province of Manitoba,GPE,1
+6156,469,CARDINAL,1
+6157,Lockdowns,PERSON,1
+6158,"more than 464,000",CARDINAL,1
+6159,"2,956",CARDINAL,1
+6160,"3,091",CARDINAL,1
+6161,58,CARDINAL,1
+6162,More than 40,CARDINAL,1
+6163,80 years old,DATE,1
+6164,The Globe and Mail Nursing,ORG,1
+6165,80-per-cent,QUANTITY,1
+6166,Forty-nine,CARDINAL,1
+6167,COVID-19 | CTV News Researchers,ORG,1
+6168,‘next few days,DATE,1
+6169,48 hours,TIME,1
+6170,The Globe and Mail Provincial Health,ORG,1
+6171,Astra,ORG,1
+6172,73+,DATE,1
+6173,the Vancouver Coastal,ORG,1
+6174,’ - National | Globalnews.ca Vaccine,ORG,1
+6175,42,CARDINAL,1
+6176,981,CARDINAL,1
+6177,"467,626",CARDINAL,1
+6178,"10,679",CARDINAL,1
+6179,The Globe and Mail Partial,ORG,1
+6180,Nov. 23,DATE,1
+6181,$5.6-million,MONEY,1
+6182,Aug. 19,DATE,1
+6183,$2-billion,MONEY,1
+6184,August 26,DATE,1
+6185,Globalnews.ca University of Manitoba,ORG,1
+6186,Arthur Schafer,PERSON,1
+6187,CBC Radio Reuters,ORG,1
+6188,Brent Bambury,PERSON,1
+6189,the Soviet Union's,GPE,1
+6190,1957,DATE,1
+6191,40-year-old,DATE,1
+6192,Orangeville hospital ',ORG,1
+6193,‘every day,DATE,1
+6194,Anand - National | Globalnews.ca Canada,ORG,1
+6195,"Friday, March 26, 2021",DATE,1
+6196,12.46 per cent,MONEY,1
+6197,Grande Prairie,PERSON,1
+6198,Grande Prairie,ORG,1
+6199,103-year-old,DATE,1
+6200,The Globe and Mail Territory,ORG,1
+6201,about 75 per cent,MONEY,1
+6202,Chicago,GPE,1
+6203,’ European Medicines Agency,ORG,1
+6204,Natasha Johnson,PERSON,1
+6205,about a year,DATE,1
+6206,CBC Radio Conservationists,ORG,1
+6207,Byram Bridle,PERSON,1
+6208,Saturday Night Live',WORK_OF_ART,1
+6209,"194,500",CARDINAL,1
+6210,Toronto Sun Federal,ORG,1
+6211,the following weeks,DATE,1
+6212,"more than 40,000",CARDINAL,1
+6213,"more than 2,700",CARDINAL,1
+6214,the Universities of Dundee,ORG,1
+6215,The Globe and Mail Previous,ORG,1
+6216,564,CARDINAL,1
+6217,Vancouver Sun KINSHASA,ORG,1
+6218,Peterborough Public Health - Peterborough |,ORG,1
+6219,CBC Radio Conversations,ORG,1
+6220,Iris Gorfinkel,PERSON,1
+6221,mid-March,DATE,1
+6222,350,CARDINAL,1
+6223,Beijing Olympians,ORG,1
+6224,Paralympic,ORG,1
+6225,$160 billion,MONEY,1
+6226,$170 billion,MONEY,1
+6227,Oct. 12,DATE,1
+6228,CBC Radio Vaccine,ORG,1
+6229,"over 3,000",CARDINAL,1
+6230,"105,805",CARDINAL,1
+6231,late Wednesday,DATE,1
+6232,18%,PERCENT,1
+6233,the previous two weeks,DATE,1
+6234,CTV News Misinformation,ORG,1
+6235,more than 20 million,CARDINAL,1
+6236,Rio de Janeiro,GPE,1
+6237,Bahia,NORP,1
+6238,"About 90,000",CARDINAL,1
+6239,Ninety-year-old,DATE,1
+6240,Coventry Hospital,ORG,1
+6241,Birmingham,GPE,1
+6242,more than 60,CARDINAL,1
+6243,Major-General,ORG,1
+6244,CBC News Distribution,ORG,1
+6245,USports,ORG,1
+6246,Clint Hamilton,PERSON,1
+6247,Almost 20 million,CARDINAL,1
+6248,March 15 - The Globe and Mail Ontario’s,DATE,1
+6249,| CTV News Facebook,ORG,1
+6250,"About 4,000",CARDINAL,1
+6251,the Fraser Valley,LOC,1
+6252,"1,464",CARDINAL,1
+6253,PSA,ORG,1
+6254,Shingles,ORG,1
+6255,Sun Union,ORG,1
+6256,the next few days,DATE,1
+6257,The Globe and Mail Dr. Chambers,ORG,1
+6258,African Union,ORG,1
+6259,the African Union,ORG,1
+6260,270 million,CARDINAL,1
+6261,54-year-old,DATE,1
+6262,Machin,PERSON,1
+6263,CPPIB’s,ORG,1
+6264,a number of years now,DATE,1
+6265,City Centre,FAC,1
+6266,Newton-Fleetwood,ORG,1
+6267,as many as 2.9,CARDINAL,1
+6268,18B,MONEY,1
+6269,Travis Toews,PERSON,1
+6270,the latter half of this year,DATE,1
+6271,Kanye West,PERSON,1
+6272,Inovio’s,ORG,1
+6273,The Globe and Mail U.S. FDA,ORG,1
+6274,Inovio Pharmaceuticals',ORG,1
+6275,The Globe and Mail Dr.,ORG,1
+6276,Prince Edward Island’s,GPE,1
+6277,78,CARDINAL,1
+6278,The Globe and Mail Research,ORG,1
+6279,20th,ORDINAL,1
+6280,Maritimes,ORG,1
+6281,at least next week,DATE,1
+6282,Oct. 20,DATE,1
+6283,The Star Canadian Medical Association,ORG,1
+6284,additional 100 million,CARDINAL,1
+6285,at least 70 million,MONEY,1
+6286,no later than July 31,DATE,1
+6287,Tokyo Olympics - National,EVENT,1
+6288,"3,600",CARDINAL,1
+6289,The Globe and Mail Shingrix,ORG,1
+6290,"3,128",CARDINAL,1
+6291,545,CARDINAL,1
+6292,249,CARDINAL,1
+6293,under 12 months of age,DATE,1
+6294,Whitehorse,GPE,1
+6295,Yukon’s Civil Emergency Measures Act,ORG,1
+6296,The Globe and Mail Surging Tesla Inc,ORG,1
+6297,Nasdaq’s,ORG,1
+6298,350 million,CARDINAL,1
+6299,70%,PERCENT,1
+6300,CHSLD Joseph-François-Perrault,ORG,1
+6301,The Globe and Mail Faster,ORG,1
+6302,Jason Kenney’s,PERSON,1
+6303,The Globe and Mail Bilateral,ORG,1
+6304,under age 55,DATE,1
+6305,Citi,ORG,1
+6306,The Globe and Mail Daily,ORG,1
+6307,Scott Barlow,PERSON,1
+6308,Videos Online Watch,ORG,1
+6309,The Globe and Mail Complacency,ORG,1
+6310,last-minute,TIME,1
+6311,The Globe and Mail Wealthy,ORG,1
+6312,"more than 4,400",CARDINAL,1
+6313,CTV News The Assembly of First Nations,ORG,1
+6314,The National Association of Friendship Centres,ORG,1
+6315,Sun Rick Hillier,PERSON,1
+6316,the Trans-Canada Highway,ORG,1
+6317,The Globe and Mail The National Police Federation,ORG,1
+6318,338Canada,CARDINAL,1
+6319,539,CARDINAL,1
+6320,Between April 1 and Sept. 30,DATE,1
+6321,26 weeks,DATE,1
+6322,at least two million,CARDINAL,1
+6323,Pound,PERSON,1
+6324,"660,000",MONEY,1
+6325,John Barsa,PERSON,1
+6326,USAID,ORG,1
+6327,Kristina M.L. Acri,PERSON,1
+6328,about a month,DATE,1
+6329,The Gathering Place,WORK_OF_ART,1
+6330,3rd Avenue N,FAC,1
+6331,about 150,CARDINAL,1
+6332,CBC News Oil,ORG,1
+6333,Theresa Tam,ORG,1
+6334,The Saskatchewan Health Authority,ORG,1
+6335,the East Toronto Family Pract,FAC,1
+6336,the end of today,DATE,1
+6337,St. Lucia,GPE,1
+6338,The Globe and Mail The Church of Scientology,ORG,1
+6339,Adrian Hill,PERSON,1
+6340,the Jenner Institute,ORG,1
+6341,vaccinate millions,CARDINAL,1
+6342,1/3,CARDINAL,1
+6343,"9,000",CARDINAL,1
+6344,"3,500",CARDINAL,1
+6345,"More than 3,500",CARDINAL,1
+6346,Waterloo Region’s,ORG,1
+6347,the end of the third week of December,DATE,1
+6348,up to 4 months after first,DATE,1
+6349,"more than 295,000",CARDINAL,1
+6350,The Star BEIRA,WORK_OF_ART,1
+6351,Mozambique - Mozambicans,ORG,1
+6352,Colette Cameron,PERSON,1
+6353,Trickster,PERSON,1
+6354,22-per-cent,QUANTITY,1
+6355,$70-million,MONEY,1
+6356,Vaccinating B.C.,PERSON,1
+6357,The Globe and Mail France,ORG,1
+6358,Disneyland,FAC,1
+6359,The Globe and Mail Flu,ORG,1
+6360,up to 4 months,DATE,1
+6361,CBC Radio New,ORG,1
+6362,the Angus Reid Institute,ORG,1
+6363,six years,DATE,1
+6364,Fifty-four,CARDINAL,1
+6365,Rempel Garner,PERSON,1
+6366,the U.K. Video,ORG,1
+6367,Gao Fu,PERSON,1
+6368,"as many as 150,000",CARDINAL,1
+6369,the National Institute of Allergy and Infectious Diseases,ORG,1
+6370,this pandemic year,DATE,1
+6371,people 67 to 69 years old,DATE,1
+6372,more than 800,CARDINAL,1
+6373,"nearly 20,000",CARDINAL,1
+6374,Promoli McGee,PERSON,1
+6375,CBC News Intergovernmental,ORG,1
+6376,The Globe and Mail Manitoba’s,ORG,1
+6377,the Africa Centers for Disease Control and Prevention,ORG,1
+6378,The Globe and Mail Strong,ORG,1
+6379,Brexit,PERSON,1
+6380,The Globe and Mail Relations,ORG,1
+6381,Northern Ireland,GPE,1
+6382,Isra Levy,PERSON,1
+6383,1.95,CARDINAL,1
+6384,264 per cent,MONEY,1
+6385,the month before,DATE,1
+6386,"more than 10,322",CARDINAL,1
+6387,"2,893",CARDINAL,1
+6388,Toronto Public Health’s,ORG,1
+6389,7 days,DATE,1
+6390,nine-year-old,DATE,1
+6391,0.5 per cent,MONEY,1
+6392,61.39,MONEY,1
+6393,10:54 EST,TIME,1
+6394,13-month,DATE,1
+6395,61.61,MONEY,1
+6396,388,CARDINAL,1
+6397,"The Globe and Mail Nearly 31,000",ORG,1
+6398,the end of New Year's Day,DATE,1
+6399,The Star With,WORK_OF_ART,1
+6400,PM - National | Globalnews.ca,ORG,1
+6401,St. Barts,GPE,1
+6402,Rod Phillips’s,PERSON,1
+6403,pan-Canadian,NORP,1
+6404,The Windsor-Essex County Health Unit,ORG,1
+6405,CTV News Final,ORG,1
+6406,the years,DATE,1
+6407,Trudeau MIA,PERSON,1
+6408,18 months,DATE,1
+6409,The Star BC,ORG,1

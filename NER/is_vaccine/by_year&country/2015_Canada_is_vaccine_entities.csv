@@ -1,0 +1,219 @@
+entity, label, count
+HPV, ORG, 19
+Canadian, NORP, 13
+first, ORDINAL, 11
+Canada, GPE, 10
+Canadians, NORP, 8
+Ottawa Public Health, ORG, 7
+Ottawa, GPE, 6
+| CTV News, ORG, 5
+four, CARDINAL, 4
+Johnson & Johnson, ORG, 4
+Ukraine, GPE, 4
+Wednesday, DATE, 4
+CBC News, ORG, 4
+last year's, DATE, 4
+The Globe and Mail, ORG, 3
+Australia, GPE, 3
+Monday, DATE, 3
+B.C., PERSON, 3
+Toronto, GPE, 3
+Ottawa, ORG, 3
+Manitoba, GPE, 3
+Guinea, GPE, 3
+Gardasil, GPE, 3
+Friday, DATE, 2
+National Microbiology Laboratory, ORG, 2
+2 to 17, DATE, 2
+Last year’s, DATE, 2
+this year, DATE, 2
+the World Health Organization, ORG, 2
+B.C., GPE, 2
+Sierra Leone, ORG, 2
+Health Canada, ORG, 2
+two, CARDINAL, 2
+89%, PERCENT, 2
+two-year-olds, DATE, 2
+McGregor, PERSON, 2
+8, CARDINAL, 2
+Australian, NORP, 2
+season, DATE, 2
+Republican, NORP, 2
+Radwimps, PERSON, 2
+Charlie Sheen, PERSON, 2
+Ontario, GPE, 2
+100 per cent, MONEY, 2
+Statistics Canada, ORG, 2
+World Hepatitis Day, EVENT, 2
+millions, CARDINAL, 2
+MMR, ORG, 2
+2013, DATE, 2
+Sierra Leone, LOC, 2
+Catholic, NORP, 2
+Canadian Medical Association, ORG, 2
+year, DATE, 2
+earlier this month, DATE, 2
+2005, DATE, 2
+annual, DATE, 2
+Vancouver, GPE, 2
+Winnipeg, ORG, 1
+The Globe and Mail Public, ORG, 1
+Nasal, PERSON, 1
+Star New, ORG, 1
+Oct. 26, DATE, 1
+three, CARDINAL, 1
+February, DATE, 1
+just 30 to 50, CARDINAL, 1
+The Star Johnson & Johnson, ORG, 1
+Sierra Leone’s, ORG, 1
+The Globe and Mail Often, ORG, 1
+| CTV News One day, ORG, 1
+Ukrainian, GPE, 1
+The Star Statistics Canada, ORG, 1
+Linda, PERSON, 1
+27, CARDINAL, 1
+8220;She, MONEY, 1
+Grade, GPE, 1
+Joyce Locke, PERSON, 1
+Elgin St. Thomas Health, ORG, 1
+Two, CARDINAL, 1
+about 70 per cent, MONEY, 1
+Hopefuls, PERSON, 1
+CBC News Along, ORG, 1
+Donald Trump, PERSON, 1
+Russia, GPE, 1
+Iran, GPE, 1
+The Globe and Mail B.C., ORG, 1
+Japan, GPE, 1
+Japanese, NORP, 1
+One day, DATE, 1
+Tiffany Bond, PERSON, 1
+25-year-old, DATE, 1
+Eight years ago, DATE, 1
+age 39, DATE, 1
+8211, DATE, 1
+seven-week, DATE, 1
+Bond couldn&#8217;t, ORG, 1
+months, DATE, 1
+about a third, CARDINAL, 1
+seven, CARDINAL, 1
+Bond, ORG, 1
+Joanne Di Nardo, PERSON, 1
+the Canadian Cancer Society:, ORG, 1
+two-year-old, DATE, 1
+CBC News Ontario, ORG, 1
+Health, ORG, 1
+Eric Hoskins, PERSON, 1
+2, CARDINAL, 1
+twitterCardObjectMap.get($twKey, MONEY, 1
+last day, DATE, 1
+Today, DATE, 1
+the last day, DATE, 1
+July 21, 2015, DATE, 1
+Leslie, PERSON, 1
+Pan Am, ORG, 1
+1.5 per cent, MONEY, 1
+Macleans.ca Childhood National Immunization Coverage Survey, ORG, 1
+1.5, CARDINAL, 1
+July 28, DATE, 1
+Dec. 14, DATE, 1
+2,000, CARDINAL, 1
+Dec. 14th, DATE, 1
+Five, CARDINAL, 1
+Winnipeg's, ORG, 1
+The Globe and Mail Most, ORG, 1
+63,000, CARDINAL, 1
+some 63,000, CARDINAL, 1
+the school year, DATE, 1
+The Star Manitoba Health, ORG, 1
+thousands, CARDINAL, 1
+Thousands, CARDINAL, 1
+this fall, DATE, 1
+Videos & Articles Vaccination, ORG, 1
+The World Health Organization, ORG, 1
+The Star ‘No Jab, WORK_OF_ART, 1
+thousands of dollars, MONEY, 1
+2-year-olds, DATE, 1
+StatsCan | CTV News One, ORG, 1
+10 two-year-olds, DATE, 1
+The Globe and Mail Children, ORG, 1
+The Star Canadian Medical Association, ORG, 1
+Sierra Leone - National, ORG, 1
+Mexico, GPE, 1
+Mexican, NORP, 1
+about 100 million, CARDINAL, 1
+every year, DATE, 1
+Asia, LOC, 1
+Africa, LOC, 1
+Latin America, LOC, 1
+The Globe and Mail Survey, ORG, 1
+73 per cent, MONEY, 1
+91 per cent, MONEY, 1
+The Globe and Mail Data, ORG, 1
+20-year, DATE, 1
+71 per cent, MONEY, 1
+2004, DATE, 1
+the Winnipeg Regional Health Authority, ORG, 1
+this week, DATE, 1
+The Canadian Medical Association, ORG, 1
+Nova Scotians, PERSON, 1
+The Globe and Mail Parents of Grade, ORG, 1
+6, CARDINAL, 1
+9, CARDINAL, 1
+The Globe and Mail Health, ORG, 1
+Jane Philpott, PERSON, 1
+Philpott, GPE, 1
+CTV National News, ORG, 1
+Friday, July 31, 2015, DATE, 1
+CTV News, ORG, 1
+NDP, ORG, 1
+The BC Centre for Disease Control, ORG, 1
+a just a few weeks, DATE, 1
+Kambia, GPE, 1
+Toronto &, ORG, 1
+Toront, GPE, 1
+Another school year, DATE, 1
+another year, DATE, 1
+4,000, CARDINAL, 1
+10 days, DATE, 1
+Fifth, ORDINAL, 1
+Ontario, PERSON, 1
+The Ontario Nurses Association, ORG, 1
+the Ottawa Catholic School Board, ORG, 1
+tomorrow, DATE, 1
+The Globe and Mail With, ORG, 1
+West African, NORP, 1
+almost half, CARDINAL, 1
+Johns Hopkins University, ORG, 1
+U.S., GPE, 1
+Gary Kobinger, PERSON, 1
+Malaria, GPE, 1
+European, NORP, 1
+The Star Vaccine, PRODUCT, 1
+only about 30, CARDINAL, 1
+12, CARDINAL, 1
+70 per cent, MONEY, 1
+the University of Toronto Scarborough, ORG, 1
+nearly a month, DATE, 1
+400,000, CARDINAL, 1
+Vancouver Coastal Health, ORG, 1
+more than 400-thousand, CARDINAL, 1
+Health Canada | CTV News Health Canada, ORG, 1
+The Globe and Mail Dr. Chambers, ORG, 1
+CBC News Statistics Canada, ORG, 1
+Tuesday, DATE, 1
+one, CARDINAL, 1
+at least one, CARDINAL, 1
+Alberta, GPE, 1
+The Globe and Mail Alberta, ORG, 1
+last winter, DATE, 1
+winter, DATE, 1
+The Globe and Mail Canadian, ORG, 1
+N.B., ORG, 1
+New Brunswick, GPE, 1
+25,000, CARDINAL, 1
+Syrian, NORP, 1
+New Brunswick | CTV News, GPE, 1
+New Brunswick, ORG, 1
+Charlotte County, GPE, 1
+The Globe and Mail BC Centre for Disease Control, ORG, 1

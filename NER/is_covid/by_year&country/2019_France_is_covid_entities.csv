@@ -1,0 +1,71 @@
+entity, label, count
+Kashmir, LOC, 12
+India, GPE, 5
+Thai, NORP, 4
+Pakistan, GPE, 4
+Indian, NORP, 4
+France, GPE, 3
+Thailand, GPE, 3
+more than 500, CARDINAL, 2
+thousands, CARDINAL, 2
+Monday, DATE, 2
+Tuesday, DATE, 2
+24, CARDINAL, 2
+F1, PERSON, 2
+Japan GP, ORG, 2
+Nigeria, GPE, 2
+National Assembly, ORG, 2
+first, ORDINAL, 2
+69 years, DATE, 2
+Caribbean, LOC, 2
+Indian Kashmir, LOC, 2
+Pakistani, NORP, 2
+G7, GPE, 2
+Coronation, NORP, 2
+May 4-6, DATE, 2
+Vietnam, GPE, 2
+Kim, PERSON, 2
+New Delhi, GPE, 1
+Narendra Modi, PERSON, 1
+Thursday, DATE, 1
+Exclusive report, WORK_OF_ART, 1
+August 5, DATE, 1
+Muslim, NORP, 1
+millions, CARDINAL, 1
+Kashmiris, LOC, 1
+at least six, CARDINAL, 1
+Notre-Dame’s, FAC, 1
+Notre-Dame, FAC, 1
+French, NORP, 1
+Goma - Eye, ORG, 1
+15, CARDINAL, 1
+South Kivu, GPE, 1
+Widening Ebola, GPE, 1
+hundreds, CARDINAL, 1
+Esther Mahlangu, PERSON, 1
+Suzuka, PERSON, 1
+24 Suzuka, PERSON, 1
+Two, CARDINAL, 1
+Nigerian, NORP, 1
+Shiite, NORP, 1
+Shiite Muslims, NORP, 1
+The Islamic Movement of Nigeria, ORG, 1
+IMN, ORG, 1
+two, CARDINAL, 1
+afternoon, TIME, 1
+Shi'ite Muslim, NORP, 1
+Reuters, ORG, 1
+Thousands, CARDINAL, 1
+Biarritz, PERSON, 1
+this weekend, DATE, 1
+Vajiralongkorn, PERSON, 1
+Thailand Thai King Maha Vajiralongkorn, ORG, 1
+Rama X, PERSON, 1
+Saturday, DATE, 1
+Christmas, DATE, 1
+50, CARDINAL, 1
+Pacific, LOC, 1
+Samoa, ORG, 1
+the Christmas holiday season, DATE, 1
+50, DATE, 1
+France 24 Genes, ORG, 1

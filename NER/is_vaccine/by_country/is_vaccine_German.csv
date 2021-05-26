@@ -1,0 +1,1320 @@
+,entity,label,occurrences
+0,German,NORP,283
+1,Germany,GPE,211
+2,EU,ORG,195
+3,US,GPE,132
+4,first,ORDINAL,123
+5,COVID-19,PERSON,90
+6,AstraZeneca,ORG,86
+7,UK,GPE,78
+8,Africa,LOC,73
+9,Europe,LOC,64
+10,COVID-19,PRODUCT,57
+11,India,GPE,47
+12,Russia,GPE,44
+13,Berlin,GPE,42
+14,China,GPE,40
+15,DW,ORG,40
+16,one,CARDINAL,29
+17,Pfizer,PERSON,29
+18,Chinese,NORP,26
+19,European,NORP,25
+20,two,CARDINAL,24
+21,France,GPE,23
+22,Pakistan,GPE,22
+23,South Africa,GPE,22
+24,Germans,NORP,22
+25,WHO,ORG,22
+26,Brazil,GPE,22
+27,UN,ORG,21
+28,second,ORDINAL,20
+29,DW Business Africa,ORG,19
+30,three,CARDINAL,18
+31,Russian,NORP,18
+32,Italy,GPE,18
+33,Angela Merkel,PERSON,17
+34,DW Business - Europe,ORG,17
+35,CureVac,ORG,17
+36,British,NORP,16
+37,Israel,GPE,16
+38,Australia,GPE,16
+39,African,NORP,16
+40,Joe Biden,PERSON,15
+41,millions,CARDINAL,14
+42,Sputnik,ORG,14
+43,Vaccine,PERSON,14
+44,Denmark,GPE,14
+45,Oxford,ORG,13
+46,Moderna,GPE,13
+47,Leyen,GPE,13
+48,DW Business – Europe & America,ORG,13
+49,300 million,CARDINAL,12
+50,Jens Spahn,PERSON,12
+51,Brussels,GPE,12
+52,The World Health Organization,ORG,12
+53,Philippines,GPE,12
+54,Media Center,ORG,12
+55,French,NORP,11
+56,Kenya,GPE,11
+57,Biden,PERSON,11
+58,BioNTech,GPE,10
+59,Ursula von,PERSON,10
+60,Japan,GPE,10
+61,Brexit,PERSON,10
+62,The European Union,ORG,10
+63,| Europe| News,ORG,10
+64,the World Health Organization,ORG,10
+65,Mexico,GPE,10
+66,billions,CARDINAL,10
+67,this year,DATE,10
+68,17.03.2021,CARDINAL,9
+69,DW Business – Europe,ORG,9
+70,Hungary,GPE,9
+71,thousands,CARDINAL,9
+72,Canada,GPE,9
+73,Donald Trump,PERSON,8
+74,Nigeria,GPE,8
+75,Health,ORG,8
+76,J&J,ORG,8
+77,South African,NORP,8
+78,Moscow,GPE,8
+79,third,ORDINAL,8
+80,Inside Europe,LOC,8
+81,DW Business,ORG,8
+82,2022,DATE,8
+83,Indian,NORP,8
+84,05.02.2021,CARDINAL,8
+85,Christmas,DATE,8
+86,Johnson & Johnson,ORG,7
+87,South American,NORP,7
+88,Moderna,PERSON,7
+89,3,CARDINAL,7
+90,90%,PERCENT,7
+91,next month,DATE,7
+92,Serbia,GPE,7
+93,WTO,ORG,7
+94,Poland,GPE,7
+95,The European Medicines Agency,ORG,7
+96,Indonesia,GPE,7
+97,Uganda,GPE,7
+98,EMA,ORG,7
+99,Guinea,GPE,6
+100,years,DATE,6
+101,October,DATE,6
+102,hundreds,CARDINAL,6
+103,Two,CARDINAL,6
+104,mid-2021,DATE,6
+105,the European Union,ORG,6
+106,One,CARDINAL,6
+107,12.01.2021,CARDINAL,6
+108,daily,DATE,6
+109,months,DATE,6
+110,Spain,GPE,6
+111,DR Congo,ORG,6
+112,Oxford University,ORG,6
+113,Trump,PERSON,6
+114,the Democratic Republic of Congo,GPE,6
+115,American,NORP,6
+116,Italian,NORP,6
+117,DW Business - Europe & America,ORG,6
+118,20.08.2020,CARDINAL,6
+119,First,ORDINAL,6
+120,DW Business - Africa,ORG,6
+121,2020,DATE,6
+122,South Korea,GPE,5
+123,Ugur Sahin,PERSON,5
+124,31.03.2021,CARDINAL,5
+125,11.01.2021,CARDINAL,5
+126,Britain,GPE,5
+127,09.11.2020,CARDINAL,5
+128,FDA,ORG,5
+129,2021,DATE,5
+130,30-minute,TIME,5
+131,next week,DATE,5
+132,Congo,GPE,5
+133,Sweden,GPE,5
+134,last year,DATE,5
+135,December,DATE,5
+136,18.11.2020,DATE,5
+137,DRC,ORG,5
+138,European Commission,ORG,5
+139,Arab,NORP,5
+140,100 million,CARDINAL,5
+141,Switzerland,GPE,5
+142,England,GPE,5
+143,Austria,GPE,5
+144,December 27,DATE,4
+145,mid-December,DATE,4
+146,16.02.2021,DATE,4
+147,AstraZeneca COVID,ORG,4
+148,16.03.2021,CARDINAL,4
+149,Hong Kong,GPE,4
+150,April,DATE,4
+151,Putin,PERSON,4
+152,fourth,ORDINAL,4
+153,world′s,GPE,4
+154,Ghana,GPE,4
+155,five minutes,TIME,4
+156,OECD,ORG,4
+157,12.03.2021,CARDINAL,4
+158,Africa Link,WORK_OF_ART,4
+159,Africans,NORP,4
+160,March,DATE,4
+161,Kosovo,GPE,4
+162,London,GPE,4
+163,the end of the year,DATE,4
+164,South Africa's,GPE,4
+165,Egypt,GPE,4
+166,DR Congo,GPE,4
+167,12.02.2021,CARDINAL,4
+168,DW Business – International | Business| Economy,ORG,4
+169,Netherlands,GPE,4
+170,11.12.2020,CARDINAL,4
+171,New York,GPE,4
+172,the United States,GPE,4
+173,Boris Johnson,PERSON,4
+174,1 million,CARDINAL,4
+175,Oxford-AstraZeneca,ORG,4
+176,Taiwan,GPE,4
+177,Afghanistan,GPE,4
+178,September,DATE,3
+179,28.01.2021,CARDINAL,3
+180,West Africa,GPE,3
+181,Somalia,GPE,3
+182,Europeans,NORP,3
+183,YouGov,ORG,3
+184,Irish,NORP,3
+185,Ireland,GPE,3
+186,every year,DATE,3
+187,the end of December,DATE,3
+188,30,CARDINAL,3
+189,12.08.2020,DATE,3
+190,AstraZeneca,LAW,3
+191,Zika,PERSON,3
+192,02.12.2020,DATE,3
+193,DW,PERSON,3
+194,13.08.2020,CARDINAL,3
+195,next year,DATE,3
+196,the European Commission,ORG,3
+197,Three,CARDINAL,3
+198,two weeks,DATE,3
+199,one year,DATE,3
+200,Greece,GPE,3
+201,West,LOC,3
+202,summer,DATE,3
+203,Swedish,NORP,3
+204,Coronavirus,ORG,3
+205,South America,LOC,3
+206,Monday,DATE,3
+207,20.11.2020,DATE,3
+208,Trump,ORG,3
+209,2014,DATE,3
+210,Americans,NORP,3
+211,19.03.2021,CARDINAL,3
+212,up to 90%,PERCENT,3
+213,Frank-Walter Steinmeier,PERSON,3
+214,2018,DATE,3
+215,09.02.2021,CARDINAL,3
+216,August,DATE,3
+217,Iran,GPE,3
+218,two months,DATE,3
+219,95%,PERCENT,3
+220,today,DATE,3
+221,The European Commission,ORG,3
+222,15.02.2021,CARDINAL,3
+223,Elon Musk,PERSON,3
+224,19.01.2021,DATE,3
+225,Antonio Guterres,PERSON,3
+226,15.12.2020,CARDINAL,3
+227,this week,DATE,3
+228,Costa Rica,GPE,3
+229,Friday,DATE,3
+230,Reddit,NORP,3
+231,25.01.2021,CARDINAL,3
+232,Markus Söder,PERSON,3
+233,Millions,CARDINAL,3
+234,Ukraine,GPE,3
+235,Nigerian,NORP,3
+236,24.02.2021,CARDINAL,3
+237,IATA,ORG,3
+238,15.12.2020,DATE,3
+239,Latest,ORG,3
+240,Lufthansa,ORG,3
+241,Jens Thurau,PERSON,3
+242,22.02.2021,CARDINAL,3
+243,AstraZeneca COVID-19,PRODUCT,3
+244,′vaccine,PERSON,3
+245,27.12.2020,DATE,3
+246,Brazilian,NORP,3
+247,Joe Biden's,PERSON,3
+248,"30,000",CARDINAL,3
+249,Asia,LOC,3
+250,Dubai,GPE,3
+251,Angola,GPE,3
+252,Ursula,GPE,3
+253,2,CARDINAL,3
+254,Cuba,GPE,3
+255,Marburg,GPE,3
+256,a year,DATE,3
+257,18.12.2020,CARDINAL,2
+258,the European Union's,ORG,2
+259,Gambia,GPE,2
+260,19.03.2021,DATE,2
+261,13.01.2021,CARDINAL,2
+262,annual,DATE,2
+263,Spotify,PERSON,2
+264,Netflix,GPE,2
+265,5 minutes,TIME,2
+266,China′s Sinovac,ORG,2
+267,Sinovac Biotech,PERSON,2
+268,100%,PERCENT,2
+269,European Council,ORG,2
+270,Charles Michel,PERSON,2
+271,Macron,PERSON,2
+272,the Red Cross,ORG,2
+273,70%,PERCENT,2
+274,Zambia,GPE,2
+275,six weeks,DATE,2
+276,8.4%,PERCENT,2
+277,Rodrigo Duterte,PERSON,2
+278,′Russian,NORP,2
+279,Hundreds,CARDINAL,2
+280,seven,CARDINAL,2
+281,February 2021,DATE,2
+282,White House,ORG,2
+283,22.01.2021,DATE,2
+284,60%,PERCENT,2
+285,Merkel,PERSON,2
+286,a week,DATE,2
+287,14.12.2020,CARDINAL,2
+288,March 2021,DATE,2
+289,Polish,NORP,2
+290,25.06.2020,CARDINAL,2
+291,20%,PERCENT,2
+292,four,CARDINAL,2
+293,Olympics,EVENT,2
+294,Rome,GPE,2
+295,DR,GPE,2
+296,"1,000",CARDINAL,2
+297,November,DATE,2
+298,18.01.2021,CARDINAL,2
+299,Thorsten Schmidt,PERSON,2
+300,The United States,GPE,2
+301,at least 14,CARDINAL,2
+302,€400 million,MONEY,2
+303,Bangladesh,GPE,2
+304,second quarter,DATE,2
+305,- Logistics,ORG,2
+306,Argentina,GPE,2
+307,66%,PERCENT,2
+308,"200,000",CARDINAL,2
+309,China′s,ORG,2
+310,May 1,DATE,2
+311,Turkish,NORP,2
+312,Dozens,CARDINAL,2
+313,this month,DATE,2
+314,22.05.2020,CARDINAL,2
+315,Beijing,GPE,2
+316,eight,CARDINAL,2
+317,Malaria,GPE,2
+318,Ana P. Santos,PERSON,2
+319,DW Business Asia,ORG,2
+320,Washington,GPE,2
+321,Bayer,ORG,2
+322,Russia′s Sputnik,PERSON,2
+323,Lancet,ORG,2
+324,"190,000",CARDINAL,2
+325,17.01.2021,DATE,2
+326,2.5,CARDINAL,2
+327,January,DATE,2
+328,BioNTech,ORG,2
+329,Chile,GPE,2
+330,12.11.2020,CARDINAL,2
+331,December 21,DATE,2
+332,the new year,DATE,2
+333,Palestinians,NORP,2
+334,"2,000",CARDINAL,2
+335,the West Bank,GPE,2
+336,10th,ORDINAL,2
+337,Johnson,PERSON,2
+338,Saxony-Anhalt,ORG,2
+339,some 200,CARDINAL,2
+340,Bavarian,NORP,2
+341,Delhi,GPE,2
+342,1 billion,CARDINAL,2
+343,11.09.2020,CARDINAL,2
+344,Peru,GPE,2
+345,Four,CARDINAL,2
+346,Pope Francis,PERSON,2
+347,DW Business – Africa,ORG,2
+348,BioNTech & Pfizer,ORG,2
+349,Gaza,GPE,2
+350,′over,GPE,2
+351,minus 70 degrees,QUANTITY,2
+352,the Serum Institute of India,ORG,2
+353,Barbara Wesel,PERSON,2
+354,Biontech,GPE,2
+355,Özlem Türeci,PERSON,2
+356,80 million,CARDINAL,2
+357,Guatemala,GPE,2
+358,the end of this year,DATE,2
+359,the White House,ORG,2
+360,five,CARDINAL,2
+361,the end of 2021,DATE,2
+362,vaccine - Asian-Pacific,NORP,2
+363,the European Medicines Agency,ORG,2
+364,40 million,CARDINAL,2
+365,one-fourth,CARDINAL,2
+366,Amsterdam,GPE,2
+367,25.02.2021,CARDINAL,2
+368,The United Kingdom,GPE,2
+369,Turkey,GPE,2
+370,North Korea,GPE,2
+371,South Korean,NORP,2
+372,North,LOC,2
+373,Second,ORDINAL,2
+374,Sergey Satanovskiy,PERSON,2
+375,25.11.2020,CARDINAL,2
+376,Dow,ORG,2
+377,2009,DATE,2
+378,Qatar,GPE,2
+379,June,DATE,2
+380,15,CARDINAL,2
+381,South Sudan,GPE,2
+382,G20,ORG,2
+383,Black Friday,EVENT,2
+384,the next months,DATE,2
+385,| Middle East| News,ORG,2
+386,Papua New Guinea,GPE,2
+387,at least a year,DATE,2
+388,the age of 45,DATE,2
+389,Paraguay,ORG,2
+390,July,DATE,2
+391,16.12.2020,CARDINAL,2
+392,half,CARDINAL,2
+393,"40,000",CARDINAL,2
+394,Montenegro,GPE,2
+395,last month,DATE,2
+396,50,CARDINAL,2
+397,last week,DATE,2
+398,The United Nations,ORG,2
+399,- Germany,GPE,2
+400,Russia′s Sputnik V COVID-19,PERSON,2
+401,30.01.2021,CARDINAL,2
+402,Wirecard,PERSON,2
+403,Indonesian,NORP,2
+404,Inside Europe,FAC,2
+405,Norway,GPE,2
+406,the Czech Republic,GPE,2
+407,GAVI,PERSON,2
+408,02.04.2021,CARDINAL,2
+409,Rohingya,ORG,2
+410,Vladimir Putin,PERSON,2
+411,European Union,ORG,2
+412,Heiko Maas,PERSON,2
+413,BCG,ORG,2
+414,Vienna,GPE,2
+415,Miodrag Soric,PERSON,2
+416,IBM,ORG,2
+417,Benjamin Netanyahu,PERSON,2
+418,Medicines Law & Policy,ORG,1
+419,over 200,CARDINAL,1
+420,March 2020,DATE,1
+421,the Health Ministry,ORG,1
+422,the end of the summer,DATE,1
+423,Tanzania,GPE,1
+424,Magufuli,GPE,1
+425,Knight Commander′s Cross,ORG,1
+426,Özlem Türeci,ORG,1
+427,January 2021,DATE,1
+428,more than 2.5 million,CARDINAL,1
+429,the end of April,DATE,1
+430,Emmanuel Macron,PERSON,1
+431,28.11.2020,CARDINAL,1
+432,more than 300 million,MONEY,1
+433,Simon Coveney,PERSON,1
+434,Nine months,DATE,1
+435,Alex Gorsky,PERSON,1
+436,Eli Lilly's,ORG,1
+437,Margaret Keenan,PERSON,1
+438,90,DATE,1
+439,"800,000",CARDINAL,1
+440,up to 4 million,CARDINAL,1
+441,′every,NORP,1
+442,ARD,ORG,1
+443,East Asians,NORP,1
+444,"over 14,000",CARDINAL,1
+445,Physician Winfried Stöcker,ORG,1
+446,10.04.2020,CARDINAL,1
+447,Anna Carthaus,PERSON,1
+448,Indians,NORP,1
+449,26.03.2021,CARDINAL,1
+450,170,CARDINAL,1
+451,′double,ORG,1
+452,Sputnik,PERSON,1
+453,the eve of,DATE,1
+454,World AIDS Day,EVENT,1
+455,December 1,DATE,1
+456,Damascus,GPE,1
+457,01.06.2016 Trucks,ORG,1
+458,month-long,DATE,1
+459,late summer,DATE,1
+460,26.02.2021,CARDINAL,1
+461,Brigitte Osterath,PERSON,1
+462,Johnson & Johnson's,ORG,1
+463,TB,ORG,1
+464,Zipporah Nyamburah,PERSON,1
+465,90 million,CARDINAL,1
+466,30 percent,PERCENT,1
+467,′immense,ORG,1
+468,16.03.2020,CARDINAL,1
+469,Seattle,GPE,1
+470,many months,DATE,1
+471,At least two,CARDINAL,1
+472,Sputnik-V,PERSON,1
+473,EpiVacCorona,GPE,1
+474,CoviVac,ORG,1
+475,′unexplained,GPE,1
+476,the middle of next year,DATE,1
+477,as early as May 2021,DATE,1
+478,EU COVID,ORG,1
+479,Malawi,GPE,1
+480,World Malaria Day,EVENT,1
+481,Kremlin,ORG,1
+482,′must,PERSON,1
+483,Cyril Ramaphosa,PERSON,1
+484,27,CARDINAL,1
+485,early next year,DATE,1
+486,Dutch,NORP,1
+487,Rijeka,PERSON,1
+488,Croatia,GPE,1
+489,European Capital of Culture,ORG,1
+490,Belarus,GPE,1
+491,Qantas,ORG,1
+492,the World Economic Forum,ORG,1
+493,89.3%,PERCENT,1
+494,Sabine Kinkartz,PERSON,1
+495,17.11.2020,CARDINAL,1
+496,Roissy Airport,FAC,1
+497,the Green party,ORG,1
+498,12.12.2020,DATE,1
+499,early next week,DATE,1
+500,15.02.2021,DATE,1
+501,+ Guinea,GPE,1
+502,$8.8 billion,MONEY,1
+503,Europol,ORG,1
+504,27.03.2020,DATE,1
+505,Bernd Riegert,PERSON,1
+506,autumn,DATE,1
+507,the end of this summer,DATE,1
+508,Eurozone Growth - Vaccine,ORG,1
+509,$4 billion,MONEY,1
+510,Sierra Leone,FAC,1
+511,Tomorrow,DATE,1
+512,Today,DATE,1
+513,19.05.2017,DATE,1
+514,early 2016,DATE,1
+515,nearly 100%,PERCENT,1
+516,Sierra Leone,ORG,1
+517,1.3 billion,CARDINAL,1
+518,Latin American,NORP,1
+519,FDP,ORG,1
+520,Christian Lindner,PERSON,1
+521,94.5%,PERCENT,1
+522,Third,ORDINAL,1
+523,Elon Musk′s,PERSON,1
+524,the week,DATE,1
+525,77 Percent,PERCENT,1
+526,220,CARDINAL,1
+527,2nd,ORDINAL,1
+528,17.03.2020,CARDINAL,1
+529,over half a million,CARDINAL,1
+530,"Some 166,000",CARDINAL,1
+531,World Health Organization,ORG,1
+532,"640,000",CARDINAL,1
+533,WWII,EVENT,1
+534,15.06.2020,CARDINAL,1
+535,€300 million,MONEY,1
+536,Air - 30 March 2021,LAW,1
+537,30-year,DATE,1
+538,Bosco Ntaganda+++,PERSON,1
+539,COVID 19,DATE,1
+540,South Sudan+++Plus,NORP,1
+541,Europe′s ′unacceptably,ORG,1
+542,Vaccine - Biden Introduces Economic Team - Taiwan's,ORG,1
+543,French,LANGUAGE,1
+544,Spanish,NORP,1
+545,79,CARDINAL,1
+546,Cameroon+++ Nigeria,ORG,1
+547,Uganda,PERSON,1
+548,Tokyo Summer Olympics,EVENT,1
+549,Mike Ryan,PERSON,1
+550,three months,DATE,1
+551,mid-year,DATE,1
+552,Sergey,PERSON,1
+553,18.09.2020,CARDINAL,1
+554,Kenyan,NORP,1
+555,32,CARDINAL,1
+556,"more than 3,000",CARDINAL,1
+557,8%,PERCENT,1
+558,above 65,CARDINAL,1
+559,Abdullahi Rilwani,PERSON,1
+560,Kerkoff Consulting,ORG,1
+561,21.05.2018,DATE,1
+562,Burundi,GPE,1
+563,Piere Nkurunziza's,LOC,1
+564,the fasting month,DATE,1
+565,"250,000",CARDINAL,1
+566,a quarter of a million,DATE,1
+567,Deaths,PERSON,1
+568,Operation Warp Speed,ORG,1
+569,24 hours,TIME,1
+570,Biotechs,GPE,1
+571,Biontech and Curevac,ORG,1
+572,Pfizer & BioNTech,ORG,1
+573,PlayStation,PRODUCT,1
+574,fewer than 100,CARDINAL,1
+575,Cai Nebe,PERSON,1
+576,6 months,DATE,1
+577,Bataclan,PERSON,1
+578,Paris,GPE,1
+579,five years ago,DATE,1
+580,Quetta,ORG,1
+581,13.01.2016,CARDINAL,1
+582,Quetta,GPE,1
+583,20,CARDINAL,1
+584,Elisabeth Massute,PERSON,1
+585,Russians,NORP,1
+586,Sputnik V | Europe| News,ORG,1
+587,5.6%,PERCENT,1
+588,24%,PERCENT,1
+589,€1.1 billion,MONEY,1
+590,Nairobi,GPE,1
+591,Jair Bolsonaro,PERSON,1
+592,Deborah Bräutigam,PERSON,1
+593,COVID-19,ORG,1
+594,Almost 170,CARDINAL,1
+595,three-month,DATE,1
+596,Maharashtra,ORG,1
+597,40 years ago,DATE,1
+598,the months ahead,DATE,1
+599,IHS,ORG,1
+600,Rajiv Biswas,PERSON,1
+601,Margaritis Schinas,PERSON,1
+602,Conflict Zone,GPE,1
+603,season,DATE,1
+604,6.3,CARDINAL,1
+605,Nicolas Sarkozy,PERSON,1
+606,′Dangerous′,GPE,1
+607,Almost 20 million,CARDINAL,1
+608,14.05.2020,CARDINAL,1
+609,Traditional Medicine,ORG,1
+610,′too,PERSON,1
+611,the European Parliament,ORG,1
+612,Media,ORG,1
+613,Muslims,NORP,1
+614,Erdogan - Coronavirus,ORG,1
+615,Bergamo,GPE,1
+616,Denmark,ORG,1
+617,1.3,CARDINAL,1
+618,surge - Japanese,NORP,1
+619,the past year,DATE,1
+620,anti-Zika,PERSON,1
+621,50 million,CARDINAL,1
+622,the Olympic Games,EVENT,1
+623,Rio,GPE,1
+624,jump 50 percent,PERCENT,1
+625,17.02.2017,DATE,1
+626,the Middle East,LOC,1
+627,Amid Danish,PERSON,1
+628,160 million,CARDINAL,1
+629,′green,PERSON,1
+630,B.1.351,PERSON,1
+631,Will Germany,GPE,1
+632,"up to 15,000",CARDINAL,1
+633,Tens,LOC,1
+634,Jonas Salk,PERSON,1
+635,This week,DATE,1
+636,Ngozi Okonjo-Iweala,PERSON,1
+637,Tshesikedi,ORG,1
+638,AU,ORG,1
+639,Ramaphosa +++ Zambia,LOC,1
+640,Inside Europe,WORK_OF_ART,1
+641,10 years,DATE,1
+642,Syria,GPE,1
+643,Alexei Navalny,PERSON,1
+644,Latvians,NORP,1
+645,16.01.2021,CARDINAL,1
+646,Narendra Modi,PERSON,1
+647,Suez Canal - EU &,GPE,1
+648,Lebanon,GPE,1
+649,disease′s,ORG,1
+650,"11,300",CARDINAL,1
+651,Alexander Nuyken,PERSON,1
+652,22.04.2020,DATE,1
+653,Capitol,ORG,1
+654,18.09.2020,DATE,1
+655,Ashutosh Pandey,PERSON,1
+656,Mainz,ORG,1
+657,22.06.2020,CARDINAL,1
+658,America,GPE,1
+659,Asian,NORP,1
+660,26.08.2020,CARDINAL,1
+661,Earth,LOC,1
+662,19 January 2021,DATE,1
+663,Akufo-Addo +,PERSON,1
+664,24 million,CARDINAL,1
+665,Bobi Wine's,PERSON,1
+666,Vaccines,ORG,1
+667,each year,DATE,1
+668,China′s Sinopharm,ORG,1
+669,"550,000",CARDINAL,1
+670,Budapest,GPE,1
+671,"275,000",CARDINAL,1
+672,17.06.2020,CARDINAL,1
+673,Red Cross,ORG,1
+674,91.6%,PERCENT,1
+675,"20,000",CARDINAL,1
+676,December 2019,DATE,1
+677,tens of thousands,CARDINAL,1
+678,"around 800,000",CARDINAL,1
+679,300,CARDINAL,1
+680,Vanishing,PERSON,1
+681,above one million,CARDINAL,1
+682,Safety of Nigerian,ORG,1
+683,one day,DATE,1
+684,PayPal,ORG,1
+685,Vaccine Doubts - Shopping Hopes,PERSON,1
+686,Queue,PERSON,1
+687,US Congress | News,ORG,1
+688,06.03.2019,DATE,1
+689,Ethan Lindenberger,PERSON,1
+690,the US Congress,ORG,1
+691,90 percent,PERCENT,1
+692,Amina J. Mohammed,PERSON,1
+693,Frontier Airlines,ORG,1
+694,July 1,DATE,1
+695,′100%,PERCENT,1
+696,between 12 to 15-years-old,CARDINAL,1
+697,Latin America,LOC,1
+698,10.12.2020,DATE,1
+699,Ethiopian,NORP,1
+700,more than 300,CARDINAL,1
+701,14.08.2015,CARDINAL,1
+702,almost 320,CARDINAL,1
+703,"at least 20,000",CARDINAL,1
+704,Paris Peace Forum,ORG,1
+705,more than $500 million,MONEY,1
+706,Tedros Adhanom Ghebreyesus,PERSON,1
+707,Robinhood,ORG,1
+708,2.4,MONEY,1
+709,the Palestinian Authority,ORG,1
+710,Romania - Student,ORG,1
+711,the next two months,DATE,1
+712,Weekly,DATE,1
+713,EU,GPE,1
+714,Trump for COVID,WORK_OF_ART,1
+715,18.11.2020,CARDINAL,1
+716,737,CARDINAL,1
+717,101-year-old,DATE,1
+718,at least 21,CARDINAL,1
+719,Inside Europe,ORG,1
+720,Corona,GPE,1
+721,Postman for Peace* - Greece,WORK_OF_ART,1
+722,the first half of 2018,DATE,1
+723,Boeing - UVC,ORG,1
+724,this fall,DATE,1
+725,The Robert Koch Institute,ORG,1
+726,Johns Hopkins University,ORG,1
+727,Lagos,GPE,1
+728,Flourish,NORP,1
+729,Chukwurah,PERSON,1
+730,6 weeks,DATE,1
+731,Germany|,DATE,1
+732,South Africa′s,NORP,1
+733,IP,ORG,1
+734,This year,DATE,1
+735,Belgium,GPE,1
+736,more than 95%,PERCENT,1
+737,&,ORG,1
+738,09.12.2020,CARDINAL,1
+739,Palestinian,NORP,1
+740,5-year-old,DATE,1
+741,five years,DATE,1
+742,$120 billion,MONEY,1
+743,30bn,MONEY,1
+744,94.1%,PERCENT,1
+745,03.12.2020,CARDINAL,1
+746,+ Germany,GPE,1
+747,Mathias Mester's,PERSON,1
+748,Bundestag,PERSON,1
+749,Canary Islands,GPE,1
+750,Britons,PERSON,1
+751,The European Union's,ORG,1
+752,DW Business – Europe & Asia,ORG,1
+753,Suez Canal - Renewable,ORG,1
+754,ASEAN,ORG,1
+755,Southeast Asia,LOC,1
+756,27.11.2020,CARDINAL,1
+757,Bavaria,GPE,1
+758,State,ORG,1
+759,Democratic Republic of Congo,GPE,1
+760,The Democratic Republic of Congo,GPE,1
+761,nearly half a billion,CARDINAL,1
+762,98.9%,PERCENT,1
+763,Citing Health Ministry,ORG,1
+764,17.03.2020,DATE,1
+765,Zimbabwe,GPE,1
+766,the European Commission's,ORG,1
+767,100 years ago,DATE,1
+768,91-year-old,DATE,1
+769,five days,DATE,1
+770,Independence Day,EVENT,1
+771,August 15,DATE,1
+772,Caroline Schmutte,PERSON,1
+773,Welcome Trust,ORG,1
+774,Belfast,GPE,1
+775,Dublin,GPE,1
+776,At least 5,CARDINAL,1
+777,78%,PERCENT,1
+778,13.01.2021,DATE,1
+779,February,DATE,1
+780,Imran Khan,PERSON,1
+781,just two days,DATE,1
+782,24.03.2017,CARDINAL,1
+783,116 million,CARDINAL,1
+784,British Airways,ORG,1
+785,Virgin Atlantic,GPE,1
+786,about 70%,PERCENT,1
+787,18.04.2020,CARDINAL,1
+788,Uganda | Africa,ORG,1
+789,the age of 74,DATE,1
+790,nine,CARDINAL,1
+791,"3,500",CARDINAL,1
+792,yesterday,DATE,1
+793,nearly 80 million,CARDINAL,1
+794,11.5 million,CARDINAL,1
+795,some 11.5 million,CARDINAL,1
+796,at least 40,CARDINAL,1
+797,the past two months,DATE,1
+798,Just 51%,PERCENT,1
+799,69%,PERCENT,1
+800,′plausible′,CARDINAL,1
+801,the day,DATE,1
+802,Ursula von der,NORP,1
+803,Poorer,GPE,1
+804,- Germany's,GPE,1
+805,Brexit London,PERSON,1
+806,under 55s,DATE,1
+807,Tokyo,GPE,1
+808,"COVID-19 ′silver bullet,′ WHO",ORG,1
+809,21.02.2021,CARDINAL,1
+810,the end of July,DATE,1
+811,Cuban,NORP,1
+812,Gunmen,GPE,1
+813,21.01.2021,CARDINAL,1
+814,the University of Oxford,ORG,1
+815,The White House,ORG,1
+816,next month's,DATE,1
+817,AstraZeneca ′over,ORG,1
+818,the beginning of the year,DATE,1
+819,2017,DATE,1
+820,33,CARDINAL,1
+821,the century,DATE,1
+822,vaccinate 70%,PERCENT,1
+823,several million,CARDINAL,1
+824,Antibiotics,ORG,1
+825,The Johnson & Johnson,ORG,1
+826,Roughly half,CARDINAL,1
+827,Only half,CARDINAL,1
+828,$213 million,MONEY,1
+829,14.08.2020,CARDINAL,1
+830,more than €180 million,MONEY,1
+831,International Air Transport Association,ORG,1
+832,Alexandre de Juniac,PERSON,1
+833,75 million,CARDINAL,1
+834,around 2 billion,MONEY,1
+835,150 years ago,DATE,1
+836,Mbandaka,GPE,1
+837,17.05.2018,DATE,1
+838,Kinshasa,GPE,1
+839,Halle,GPE,1
+840,The US Food and Drug Administration,ORG,1
+841,′exciting,GPE,1
+842,Essen,GPE,1
+843,Guterres,PERSON,1
+844,surge - Shortlist,NORP,1
+845,3-month,DATE,1
+846,May 9,DATE,1
+847,2.2,CARDINAL,1
+848,12.06.2020,CARDINAL,1
+849,centuries,DATE,1
+850,Republic Day,EVENT,1
+851,Tuesday,DATE,1
+852,′far,ORG,1
+853,the first 100 days,DATE,1
+854,Greifswald,GPE,1
+855,App,ORG,1
+856,Panabios,ORG,1
+857,19-29%,PERCENT,1
+858,14.02.2021,CARDINAL,1
+859,Japanese,NORP,1
+860,a matter of days,DATE,1
+861,Vaccine Victory - Vaccine Distribution - Wirecard Sale,WORK_OF_ART,1
+862,ISS +++ WHO,PERSON,1
+863,OPEC,ORG,1
+864,2026,DATE,1
+865,Bolsonaro,PERSON,1
+866,Brazilians,NORP,1
+867,22.07.2020,CARDINAL,1
+868,56 days,DATE,1
+869,′Fourth-quarter,DATE,1
+870,the final quarter of the year,DATE,1
+871,Munich,GPE,1
+872,Around Germany,GPE,1
+873,the World Trade Organisation,ORG,1
+874,Dengue Fever,PERSON,1
+875,World Bank,ORG,1
+876,Mamta Murthi,PERSON,1
+877,the World Bank,ORG,1
+878,Biotech,PERSON,1
+879,CureVac ,ORG,1
+880,Supreme,ORG,1
+881,Ayatollah Khamanei,PERSON,1
+882,"34,000",CARDINAL,1
+883,"more than 34,000",CARDINAL,1
+884,the first two months of 2019,DATE,1
+885,Just this week,DATE,1
+886,′100 percent,PERCENT,1
+887,the University of Tübingen,ORG,1
+888,100 percent,PERCENT,1
+889,Peter Kremsner,PERSON,1
+890,6 to 17,DATE,1
+891,Donald Trump's,PERSON,1
+892,447 million,CARDINAL,1
+893,Only 1.3%,PERCENT,1
+894,Alexei Navalny,ORG,1
+895,Uighur,PERSON,1
+896,David Bowie,PERSON,1
+897,Spain - Food,ORG,1
+898,under-12,DATE,1
+899,later this year,DATE,1
+900,Sudan,GPE,1
+901,Abdalla Hamdouk,PERSON,1
+902,dozens,CARDINAL,1
+903,Cameroon,LOC,1
+904,the Gulf of Guinea,LOC,1
+905,Russian Sputnik,PERSON,1
+906,29.12.2020,CARDINAL,1
+907,16.07.2020,DATE,1
+908,World Cup,EVENT,1
+909,the FIFA World Cup,ORG,1
+910,Melbourne,GPE,1
+911,10.03.2021,CARDINAL,1
+912,Rwandans,NORP,1
+913,Kerkhoff Consulting,ORG,1
+914,11.01.2021,DATE,1
+915,West Bank,GPE,1
+916,a later date,DATE,1
+917,the Financial Times,ORG,1
+918,14.07.2020,CARDINAL,1
+919,two to three months,DATE,1
+920,14.04.2020,CARDINAL,1
+921,Two-thirds,CARDINAL,1
+922,more than half,CARDINAL,1
+923,16,CARDINAL,1
+924,Sunday,DATE,1
+925,"more than 11,000",CARDINAL,1
+926,December 2,DATE,1
+927,07.02.2021,CARDINAL,1
+928,13.03.2021,DATE,1
+929,DW Business - Europe & Africa,ORG,1
+930,Deutsche,ORG,1
+931,7.2 Billion Dollar,MONEY,1
+932,Paschi - WHO,ORG,1
+933,€750 million,MONEY,1
+934,three-quarters,MONEY,1
+935,billion,CARDINAL,1
+936,two-thirds,CARDINAL,1
+937,Steinmeier,ORG,1
+938,′a day,DATE,1
+939,Easter,ORG,1
+940,Some German,NORP,1
+941,Latest Ebola,ORG,1
+942,North Kivu,GPE,1
+943,27.01.2021,CARDINAL,1
+944,Bulgaria,GPE,1
+945,Bulgarians,NORP,1
+946,Boyko Borisov,PERSON,1
+947,Alexandar Detev,ORG,1
+948,January 29,DATE,1
+949,up to 12 weeks,DATE,1
+950,three hours,TIME,1
+951,hours,TIME,1
+952,Vaccine Distribution - A Place To Chat,ORG,1
+953,long months,DATE,1
+954,24.03.2021,DATE,1
+955,03.09.2020 States,GPE,1
+956,November 1,DATE,1
+957,about 800,CARDINAL,1
+958,Suez Canal - EU,LOC,1
+959,Allianz,ORG,1
+960,"Adidas, Deutsche Post",ORG,1
+961,Deutsche Telekom,PERSON,1
+962,Siemens,ORG,1
+963,Axel Springer,PERSON,1
+964,Dessau,ORG,1
+965,Northern Hemisphere,LOC,1
+966,up to 300 million,MONEY,1
+967,one million,CARDINAL,1
+968,Americas,LOC,1
+969,14.12.2020,DATE,1
+970,5,CARDINAL,1
+971,34,CARDINAL,1
+972,World Immunization Week,EVENT,1
+973,the next three months,DATE,1
+974,13.08.2016,DATE,1
+975,Boko Haram,ORG,1
+976,Just over 60%,PERCENT,1
+977,"Angola ′serious,′",ORG,1
+978,3 billion COVID,MONEY,1
+979,23.11.2020,CARDINAL,1
+980,up to,PERCENT,1
+981,12.5 million,CARDINAL,1
+982,same day,DATE,1
+983,2 million,CARDINAL,1
+984,up to 2 million,CARDINAL,1
+985,82-year-old,DATE,1
+986,17.09.2020,CARDINAL,1
+987,Storm Filomena,PERSON,1
+988,Madrid,GPE,1
+989,half a century,DATE,1
+990,The World Health Organization's,ORG,1
+991,Swine,GPE,1
+992,′science′ &,ORG,1
+993,02.02.2021,CARDINAL,1
+994,the United Arab Emirates,GPE,1
+995,′vaccine,NORP,1
+996,04.09.2020,CARDINAL,1
+997,Boeing - South,ORG,1
+998,decades,DATE,1
+999,IDT Biologika,ORG,1
+1000,4.2 million,CARDINAL,1
+1001,Bottrop,ORG,1
+1002,theses days,DATE,1
+1003,Cameroon +,LOC,1
+1004,UN World Pulses Day,ORG,1
+1005,10 million,CARDINAL,1
+1006,Theresa,GPE,1
+1007,Pawel Adamowicz,PERSON,1
+1008,Israeli,NORP,1
+1009,Danube River,LOC,1
+1010,week,DATE,1
+1011,Tedros Adhanom Ghebreyesus,EVENT,1
+1012,′gap′,ORG,1
+1013,Davos,PERSON,1
+1014,Fabian,NORP,1
+1015,Schmidt,PERSON,1
+1016,Around 60%,PERCENT,1
+1017,30.12.2020 Days,DATE,1
+1018,Health Ministry,ORG,1
+1019,′most,GPE,1
+1020,California,GPE,1
+1021,′short,ORG,1
+1022,the coming weeks,DATE,1
+1023,the Chilean Andes,LOC,1
+1024,Mapuche,ORG,1
+1025,2010,DATE,1
+1026,′gross,ORG,1
+1027,10.12.2015,CARDINAL,1
+1028,Twenty-two thousand,CARDINAL,1
+1029,21.11.2020 Days,DATE,1
+1030,Eleven months,DATE,1
+1031,VPM1002,ORG,1
+1032,Vaccine Victory - Harvest Headache,WORK_OF_ART,1
+1033,SPD,ORG,1
+1034,Karl Lauterbach,PERSON,1
+1035,nearly three,CARDINAL,1
+1036,65 and older,DATE,1
+1037,Samoa,ORG,1
+1038,two days,DATE,1
+1039,62,CARDINAL,1
+1040,the second quarter,DATE,1
+1041,the first quarter,DATE,1
+1042,a day,DATE,1
+1043,under 60,DATE,1
+1044,Twitter,PRODUCT,1
+1045,DW Fact Check,ORG,1
+1046,2 billion,CARDINAL,1
+1047,48 hours,TIME,1
+1048,Almost a million,CARDINAL,1
+1049,John Nkengasong,PERSON,1
+1050,the Africa Centres for Disease Control and Prevention,ORG,1
+1051,2016,DATE,1
+1052,Nana Akufo-Addo,PERSON,1
+1053,"Some 600,000",CARDINAL,1
+1054,16.07.2020,CARDINAL,1
+1055,Balkan,NORP,1
+1056,Hair,PRODUCT,1
+1057,13.03.2019,DATE,1
+1058,Across Italy,ORG,1
+1059,Gloomy,GPE,1
+1060,16.03.2021 Germany,GPE,1
+1061,winter,DATE,1
+1062,EU Commission,ORG,1
+1063,University of Queensland,ORG,1
+1064,CSL,ORG,1
+1065,′early,PERSON,1
+1066,Eric Feigl-Ding,PERSON,1
+1067,the Harvard Chan School of Public Health,ORG,1
+1068,only 50 million,CARDINAL,1
+1069,RNA,ORG,1
+1070,17.04.2016,CARDINAL,1
+1071,zero,CARDINAL,1
+1072,50000,MONEY,1
+1073,Portugal,GPE,1
+1074,Samoan,ORG,1
+1075,Scotland,GPE,1
+1076,Scottish,NORP,1
+1077,Nicola Sturgeon,PERSON,1
+1078,24.03.2021,CARDINAL,1
+1079,About 1.4 million,CARDINAL,1
+1080,2019,DATE,1
+1081,1.5 million,CARDINAL,1
+1082,almost 12 million,CARDINAL,1
+1083,Frontline,PRODUCT,1
+1084,the age of 80,DATE,1
+1085,54,MONEY,1
+1086,500 million,CARDINAL,1
+1087,€27 billion,MONEY,1
+1088,German Drug Commission,ORG,1
+1089,Ethiopia,GPE,1
+1090,9 million,CARDINAL,1
+1091,The University of Queensland-CSL,ORG,1
+1092,Vaccine Distribution,ORG,1
+1093,Focus - Euro,ORG,1
+1094,Tyrol,ORG,1
+1095,16%,PERCENT,1
+1096,the Tokyo Olympics,EVENT,1
+1097,America First,ORG,1
+1098,Dijana Roscic,PERSON,1
+1099,17.08.2016 Democratic Republic of Congo,GPE,1
+1100,the beginning of this year,DATE,1
+1101,South Korea's,GPE,1
+1102,Pyongyang,GPE,1
+1103,The Serum Institute of India,ORG,1
+1104,SII,ORG,1
+1105,Serum,ORG,1
+1106,45,DATE,1
+1107,around 40,CARDINAL,1
+1108,Achim Hörauf,PERSON,1
+1109,€100 million,MONEY,1
+1110,$35 billion,MONEY,1
+1111,almost €800 million,MONEY,1
+1112,North Macedonia,GPE,1
+1113,Bosnia,GPE,1
+1114,"210,000",CARDINAL,1
+1115,20.02.2021,CARDINAL,1
+1116,Islamic,NORP,1
+1117,Serbian,NORP,1
+1118,Aleksandar Vucic,PERSON,1
+1119,Pristina,GPE,1
+1120,Goldman Sachs,ORG,1
+1121,Malaysia,GPE,1
+1122,1MDB,CARDINAL,1
+1123,Fauci,ORG,1
+1124,Trump′s,CARDINAL,1
+1125,Fauci,PERSON,1
+1126,his first 100 days,DATE,1
+1127,$8.5 billion,MONEY,1
+1128,Brexit - German,PERSON,1
+1129,Italy′s,NORP,1
+1130,Scott Morrison,PERSON,1
+1131,World,ORG,1
+1132,Vaccine - Cargo Challenge - Protecting the Poorest Countries,ORG,1
+1133,′a,PERSON,1
+1134,the end of 2020,DATE,1
+1135,€336 million,MONEY,1
+1136,8,CARDINAL,1
+1137,Tesla,ORG,1
+1138,Musk,PERSON,1
+1139,Sputnik V. After,PERSON,1
+1140,Business – Europe & Asia,ORG,1
+1141,30.06.2020,CARDINAL,1
+1142,Anthony Fauci,PERSON,1
+1143,Bali′s,PERSON,1
+1144,Bali,GPE,1
+1145,around 15 million,CARDINAL,1
+1146,Joy,PERSON,1
+1147,three month,DATE,1
+1148,Bosnia-Herzegovina,GPE,1
+1149,the European Tree of the Year Award - And,ORG,1
+1150,"nearly 20,000 years ago",DATE,1
+1151,Iceland,GPE,1
+1152,a few weeks,DATE,1
+1153,months earlier,DATE,1
+1154,Finland,GPE,1
+1155,COVID-19 Christmas,ORG,1
+1156,EU Medicines,ORG,1
+1157,66 million,CARDINAL,1
+1158,HPV,ORG,1
+1159,World AIDS Day,DATE,1
+1160,Cubans,NORP,1
+1161,Western Union,ORG,1
+1162,19.06.2019,DATE,1
+1163,33%,PERCENT,1
+1164,Caribbean,LOC,1
+1165,Carsten Spohr,PERSON,1
+1166,India′s Serum Institute,ORG,1
+1167,the University of Oxford's,ORG,1
+1168,The Netherlands,GPE,1
+1169,Ghana,PERSON,1
+1170,2.5 billion,MONEY,1
+1171,25%,PERCENT,1
+1172,more than a billion,MONEY,1
+1173,North Kivu Province,GPE,1
+1174,11.07.2020,CARDINAL,1
+1175,that year,DATE,1
+1176,a quarter million,CARDINAL,1
+1177,zur Hausen:,PERSON,1
+1178,Nobel Prize,WORK_OF_ART,1
+1179,Harald,PERSON,1
+1180,23.04.2020,CARDINAL,1
+1181,Biosafety,PRODUCT,1
+1182,Vaccination,ORG,1
+1183,$7.5 billion,MONEY,1
+1184,2015,DATE,1
+1185,Melissa Chan,PERSON,1
+1186,2 April 2021,DATE,1
+1187,the 1990s,DATE,1
+1188,DW Business Europe,ORG,1
+1189,A day,DATE,1
+1190,the middle of March,DATE,1
+1191,27.06.2020,CARDINAL,1
+1192,Fourteen,CARDINAL,1
+1193,Angela,PERSON,1
+1194,Merkel’s Last Dance,WORK_OF_ART,1
+1195,Gabriel Felbermayr,PERSON,1
+1196,the Kiel Institute,ORG,1
+1197,Manila,GPE,1
+1198,Nord Stream 2,ORG,1
+1199,"29,000",CARDINAL,1
+1200,€7.4 billion,MONEY,1
+1201,A European Commission,ORG,1
+1202,Nearly one million,CARDINAL,1
+1203,the age of 60,DATE,1
+1204,18-59,DATE,1
+1205,Lasker Award,PERSON,1
+1206,Ralf Bartenschlager,PERSON,1
+1207,the Lasker Award,PERSON,1
+1208,Sputnik V.,PERSON,1
+1209,late June,DATE,1
+1210,Serrana,ORG,1
+1211,"45,000",CARDINAL,1
+1212,21.01.2021,DATE,1
+1213,Marina Strauss,PERSON,1
+1214,first 100 days,DATE,1
+1215,Francis,PERSON,1
+1216,Ilona Kickbusch,PERSON,1
+1217,Russia′s Sputnik V COVID,PERSON,1
+1218,60,CARDINAL,1
+1219,Tasmanian,NORP,1
+1220,28.06.2017,CARDINAL,1
+1221,Petya,GPE,1
+1222,last long,DATE,1
+1223,Communists,NORP,1
+1224,10,CARDINAL,1
+1225,Evangelical,NORP,1
+1226,about eight years,DATE,1
+1227,Mainz,GPE,1
+1228,Xi Jinping,PERSON,1
+1229,03.03.2021,CARDINAL,1
+1230,seven-day,DATE,1
+1231,a decade ago,DATE,1
+1232,Jordanian,NORP,1
+1233,$1 billion,MONEY,1
+1234,18 million,CARDINAL,1
+1235,Wuhan,GPE,1
+1236,just hours,TIME,1
+1237,April 2021,DATE,1
+1238,12.10.2020,DATE,1
+1239,the first three months of 2021,DATE,1
+1240,Frank Sieren,PERSON,1
+1241,€7.5 billion,MONEY,1
+1242,H5N8,CARDINAL,1
+1243,Bird,ORG,1
+1244,Slovakia,GPE,1
+1245,the United Kingdom,GPE,1
+1246,Six,CARDINAL,1
+1247,"up to $2,000",MONEY,1
+1248,25,CARDINAL,1
+1249,At least three,CARDINAL,1
+1250,Heinsberg,GPE,1
+1251,EU ′coronavirus,ORG,1
+1252,almost a year,DATE,1
+1253,Vidi Legowo-Zipperer,ORG,1
+1254,DW Business – Europe | Business News -,ORG,1
+1255,Bundestag,ORG,1
+1256,Congress,ORG,1
+1257,′still,PERSON,1
+1258,weeks,DATE,1
+1259,Sanofi,ORG,1
+1260,Dengvaxia,GPE,1
+1261,more than 1 million,CARDINAL,1
+1262,"nearly 50,000",CARDINAL,1
+1263,Who′s,ORG,1
+1264,The World Health Organization (WHO,ORG,1
+1265,Middle East,LOC,1
+1266,Groups,ORG,1
+1267,Five,CARDINAL,1
+1268,10 days,DATE,1
+1269,Tübingen,ORG,1
+1270,Sinopharm,ORG,1
+1271,Islamabad,GPE,1
+1272,Pakistanis,NORP,1
+1273,Forget Wuhan,ORG,1
+1274,dozen,CARDINAL,1
+1275,GlaxoSmithKline,PERSON,1
+1276,22.12.2020,CARDINAL,1
+1277,6,CARDINAL,1
+1278,Pacific,LOC,1
+1279,23.12.2020,CARDINAL,1
+1280,Uruguay,GPE,1
+1281,billions of dollars,MONEY,1
+1282,Duterte,ORG,1
+1283,Rio,ORG,1
+1284,Rio de Janeiro,GPE,1
+1285,more than 100,CARDINAL,1
+1286,54,CARDINAL,1
+1287,almost a fifth,CARDINAL,1
+1288,′Vaccine,PERSON,1
+1289,Franz-Werner Haas,PERSON,1
+1290,€10 to €15,MONEY,1
+1291,17.09.2020,DATE,1
+1292,six,CARDINAL,1
+1293,Eight months,DATE,1
+1294,Thousands,CARDINAL,1
+1295,recent weeks,DATE,1
+1296,G20,PERSON,1
+1297,Jonas Schmidt-Chanasit,PERSON,1
+1298,Kate Ferguson,PERSON,1
+1299,Vaccine Venture - Chaos,ORG,1
+1300,late last year,DATE,1
+1301,Australian,NORP,1
+1302,13.08.2020,DATE,1
+1303,the next year,DATE,1
+1304,08.02.2021,CARDINAL,1
+1305,"around 2,000",CARDINAL,1
+1306,Amazonas,ORG,1
+1307,Northern Ireland,GPE,1
+1308,Northern Ireland's,GPE,1
+1309,Arlene Foster,PERSON,1
+1310,01 June 2018,DATE,1
+1311,more sanctions ++,TIME,1
+1312,Darfur,GPE,1
+1313,Israelis,NORP,1
+1314,two years,DATE,1
+1315,the end of May.,DATE,1
+1316,Astrazeneca,ORG,1
+1317,Gamaleya Institute,ORG,1
+1318,Shingles,PERSON,1

@@ -1,0 +1,126 @@
+entity, label, count
+CSL, ORG, 12
+Melbourne, GPE, 5
+ABC News, ORG, 5
+Vaccine, PERSON, 4
+South Australia, LOC, 4
+Senate, ORG, 3
+Friday, DATE, 3
+Queensland, GPE, 3
+Australian, NORP, 3
+first, ORDINAL, 3
+West Australian, NORP, 3
+Michael Leunig, PERSON, 3
+GlaxoSmithKline, PERSON, 2
+Africa, LOC, 2
+full-year, DATE, 2
+Renmark, PERSON, 2
+Guinea, GPE, 2
+100 per cent, MONEY, 2
+Peter Wellington, PERSON, 2
+Qld, PERSON, 2
+second, ORDINAL, 2
+New Zealand, GPE, 2
+Novartis, ORG, 2
+David Leyonhjelm, PERSON, 2
+Parliament, ORG, 2
+Brisbane, PERSON, 2
+Chickenpox, ORG, 2
+Federal Government, ORG, 2
+African, NORP, 1
+$US1.4 billion, MONEY, 1
+$US1,379 million, MONEY, 1
+Novartis, PRODUCT, 1
+500, MONEY, 1
+Hundreds, CARDINAL, 1
+Australians, NORP, 1
+PBS, ORG, 1
+the National Immunisation Program Schedule, ORG, 1
+2,700, CARDINAL, 1
+the World Health Organisation, ORG, 1
+almost 10pc, DATE, 1
+Landline, NORP, 1
+last month's, DATE, 1
+ABC Landline, ORG, 1
+4, CARDINAL, 1
+The World Health Organization, ORG, 1
+Queensland Parliament, ORG, 1
+the Queensland Parliament, ORG, 1
+Independent, ORG, 1
+a State Government, ORG, 1
+this week, DATE, 1
+thousands, CARDINAL, 1
+More than 30,000, CARDINAL, 1
+last year, DATE, 1
+ABC News, WORK_OF_ART, 1
+The Save the Tasmanian Devil, ORG, 1
+Chemical, ORG, 1
+APVMA, ORG, 1
+NSW, ORG, 1
+Homeopathy Plus, PERSON, 1
+Fran Sheffield, PERSON, 1
+five years, DATE, 1
+138,000, MONEY, 1
+$100 mark, MONEY, 1
+Fifth, ORDINAL, 1
+fifth, ORDINAL, 1
+the past five weeks, DATE, 1
+the World Health Organization (WHO, ORG, 1
+only two, CARDINAL, 1
+the Year, DATE, 1
+Time, ORG, 1
+Australia, GPE, 1
+Veterinary Medicines, ORG, 1
+$US275 million, MONEY, 1
+$376.1 million, MONEY, 1
+90 per cent, MONEY, 1
+Donald Trump, PERSON, 1
+ABC News Crossbench, ORG, 1
+Government, ORG, 1
+100, MONEY, 1
+One, CARDINAL, 1
+99 years, DATE, 1
+Victorian, NORP, 1
+| SBS News, ORG, 1
+ABC News A Brisbane, ORG, 1
+The Australian Medical Association, ORG, 1
+the Health Department, ORG, 1
+Western Australia, LOC, 1
+Sri Lanka, GPE, 1
+Tom Westbrook, PERSON, 1
+Brunswick North West Primary, FAC, 1
+ABC News Health, ORG, 1
+up to a quarter, DATE, 1
+Cairns, PERSON, 1
+Eighty, CARDINAL, 1
+Brunswick North West Primary, ORG, 1
+More than a quarter, DATE, 1
+HPV, ORG, 1
+15-year-old, DATE, 1
+Tasmania, GPE, 1
+Flu, PERSON, 1
+Canberra, GPE, 1
+Henry Belot, PERSON, 1
+World, ORG, 1
+EU, ORG, 1
+European, NORP, 1
+the Victorian Government's, ORG, 1
+Four, CARDINAL, 1
+University of Queensland, ORG, 1
+the University of Queensland, ORG, 1
+Queensland Health, PERSON, 1
+Victoria - ABC, GPE, 1
+the State Government, ORG, 1
+Rabbit Calicivirus Diseases, ORG, 1
+CSL BLOOD, PRODUCT, 1
+just 12 months, DATE, 1
+Hollie Singleton’s, PERSON, 1
+Vaccine Free Australia, WORK_OF_ART, 1
+AUSTRALIA, ORG, 1
+US1.4b, ORG, 1
+Biotechnology, ORG, 1
+5.5 per cent, MONEY, 1
+$US1.38 billion, MONEY, 1
+one, CARDINAL, 1
+Vic, ORG, 1
+| SBS News Victoria’s, ORG, 1

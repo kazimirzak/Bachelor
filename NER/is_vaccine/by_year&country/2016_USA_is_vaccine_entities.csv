@@ -1,0 +1,825 @@
+entity, label, count
+Zika, PERSON, 95
+HPV, ORG, 53
+Fox News, ORG, 51
+U.S., GPE, 43
+The Boston Globe, ORG, 27
+first, ORDINAL, 27
+The Washington Post, ORG, 25
+CDC, ORG, 24
+The New York Times, ORG, 18
+California, GPE, 18
+CBS News, ORG, 16
+two, CARDINAL, 16
+Congress, ORG, 16
+one, CARDINAL, 15
+Wednesday, DATE, 15
+US, GPE, 15
+the World Health Organization, ORG, 14
+Angola, GPE, 14
+Brazil, GPE, 14
+Africa, LOC, 13
+NIH, ORG, 12
+Congo, GPE, 12
+Friday, DATE, 12
+China, GPE, 12
+Shots - Health News, ORG, 11
+Robert De Niro, PERSON, 11
+Zika, NORP, 11
+Anthony Fauci, PERSON, 11
+Thursday, DATE, 11
+Pakistan, GPE, 11
+Texas, GPE, 10
+this year, DATE, 9
+2016, DATE, 9
+Florida, GPE, 8
+year, DATE, 8
+three, CARDINAL, 8
+South Africa, GPE, 8
+Jill Stein, PERSON, 7
+Mark Zuckerberg, PERSON, 7
+Two, CARDINAL, 7
+Vaccine, PERSON, 7
+NPR A, ORG, 7
+Monday, DATE, 7
+Americans, NORP, 7
+WHO, ORG, 7
+NPR, ORG, 6
+America, GPE, 6
+Zika Vaccine, PERSON, 6
+Tuesday, DATE, 6
+decades, DATE, 6
+Pediatricians, NORP, 6
+millions, CARDINAL, 6
+The World Health Organization, ORG, 6
+last year, DATE, 6
+Donald Trump, PERSON, 6
+the United States, GPE, 6
+LA Times, ORG, 6
+the Tribeca Film Festival, EVENT, 5
+De Niro, PERSON, 5
+Atlantic, LOC, 5
+White House, ORG, 5
+First, ORDINAL, 5
+Guinea, GPE, 5
+Haiti, GPE, 5
+at least 18 months, DATE, 5
+2, CARDINAL, 5
+the Centers for Disease Control and Prevention, ORG, 5
+second, ORDINAL, 5
+Senate, ORG, 4
+Merck, ORG, 4
+hundreds, CARDINAL, 4
+Brazilian, NORP, 4
+AP, ORG, 4
+100 percent, PERCENT, 4
+$81 million, MONEY, 4
+Jon LaPook, PERSON, 4
+Hillary Clinton, PERSON, 4
+CBS, ORG, 4
+Hundreds, CARDINAL, 4
+Democrats, NORP, 4
+- LA Times, ORG, 4
+Three, CARDINAL, 4
+Nigeria, GPE, 4
+FDA, ORG, 3
+Puerto Rico, GPE, 3
+$19.8 million, MONEY, 3
+thousands, CARDINAL, 3
+West Africa, GPE, 3
+American, NORP, 3
+Bob Sears, PERSON, 3
+Tara Narula, PERSON, 3
+Arizona, GPE, 3
+summer, DATE, 3
+WASHINGTON, GPE, 3
+weeks, DATE, 3
+Washington, GPE, 3
+Saturday, DATE, 3
+Liberia, GPE, 3
+the Democratic Republic of Congo, GPE, 3
+Philippines, GPE, 3
+years, DATE, 3
+1 million, CARDINAL, 3
+Fox News Health, ORG, 3
+Cuba, GPE, 3
+Americas, LOC, 3
+2015, DATE, 3
+a decade ago, DATE, 3
+One, CARDINAL, 3
+African, NORP, 3
+a decade, DATE, 3
+14, CARDINAL, 3
+only two, CARDINAL, 3
+155, CARDINAL, 3
+third, ORDINAL, 3
+Pfizer, PERSON, 3
+Cambridge, GPE, 3
+12-year-old, DATE, 3
+Santa Clara University, ORG, 3
+the National Institute of Allergy and Infectious Diseases, ORG, 3
+the American Academy of Pediatrics, ORG, 3
+Los Angeles, GPE, 3
+Indonesia, GPE, 3
+$1.1 billion, MONEY, 2
+Vaxxed: From Cover-Up to Catastrophe, WORK_OF_ART, 2
+HHS, ORG, 2
+Robert Sears, PERSON, 2
+Judith Light, PERSON, 2
+Face the Nation, WORK_OF_ART, 2
+April 6, DATE, 2
+this week, DATE, 2
+the World Health Organization (WHO, ORG, 2
+The World Health Organization's, ORG, 2
+New York, GPE, 2
+months, DATE, 2
+microcephaly, GPE, 2
+NPR There's, ORG, 2
+Republicans, NORP, 2
+22, CARDINAL, 2
+Galveston, GPE, 2
+Science, WORK_OF_ART, 2
+Colombia, GPE, 2
+California&apos;s, PERSON, 2
+7, CARDINAL, 2
+Fox News Researchers, ORG, 2
+This Morning, TIME, 2
+one million, CARDINAL, 2
+Vladimir Duthiers, PERSON, 2
+this coming flu season, DATE, 2
+Hurricane Matthew, EVENT, 2
+British, NORP, 2
+Thousands, CARDINAL, 2
+the Food and Drug Administration, ORG, 2
+CBSN, ORG, 2
+Manny, PERSON, 2
+Anti-Vaccine Film, ORG, 2
+The Post, ORG, 2
+as early as next spring, DATE, 2
+R.I., GPE, 2
+Cuban, NORP, 2
+2016-2017, DATE, 2
+29-year-old, DATE, 2
+more than 60 percent, PERCENT, 2
+Bharat Biotech, ORG, 2
+Afghanistan, GPE, 2
+Pakistani, NORP, 2
+Sanofi, ORG, 2
+Hollywood, GPE, 2
+Andrew Wakefield, PERSON, 2
+the National Institutes of Health, ORG, 2
+Gardasil, GPE, 2
+Californians, NORP, 2
+Pennsylvania, GPE, 2
+Barack Obama, PERSON, 2
+90 percent, PERCENT, 2
+Vladimir Putin, PERSON, 2
+Russia, GPE, 2
+Trump’s, ORG, 2
+Olympics, EVENT, 2
+J&J, ORG, 2
+Chinese, NORP, 2
+Russian, NORP, 2
+$1.9 billion, MONEY, 2
+Australian, NORP, 2
+August, DATE, 2
+Mom, PERSON, 2
+Latin America, LOC, 2
+Mark Zuckerberg's, PERSON, 2
+The Boston Globe All, ORG, 2
+2013, DATE, 2
+U.S. Army, ORG, 2
+French, NORP, 2
+seven years, DATE, 2
+UN, ORG, 2
+Asia, LOC, 2
+Orange, NORP, 2
+Nigerian, NORP, 2
+Today, DATE, 2
+morning, TIME, 2
+Zika - LA Times, ORG, 2
+Flossmoor, GPE, 2
+FluMist, ORG, 2
+3, CARDINAL, 2
+seventh, ORDINAL, 2
+59%, PERCENT, 2
+NPR Scientists, ORG, 2
+Thailand, GPE, 2
+L.A., GPE, 2
+2018, DATE, 2
+Donald Trump’s, PERSON, 2
+The Boston Globe The Zika, ORG, 1
+Flu Myths Busted, PERSON, 1
+The Atlantic Daily, ORG, 1
+Zika Vaccines, PERSON, 1
+Atlantic Russian, NORP, 1
+Rio, GPE, 1
+Deerfield's, ORG, 1
+Takeda Vaccines, PERSON, 1
+last week, DATE, 1
+Obama, PERSON, 1
+2017, CARDINAL, 1
+February, DATE, 1
+Global Citizens, PERSON, 1
+Watertown, GPE, 1
+The Boston Globe Selecta, ORG, 1
+Philadephia, GPE, 1
+Spark, ORG, 1
+- LA Times Final, ORG, 1
+nearly half, CARDINAL, 1
+William Sears, PERSON, 1
+U.S. Health Agencies Intensify Fight Against Zika Virus :, ORG, 1
+NPR The Centers for Disease Control and Prevention and the National Institutes of Health, ORG, 1
+Broadway, FAC, 1
+All The Ways To Say I Love You, WORK_OF_ART, 1
+Morning Rounds, GPE, 1
+David Agus, PERSON, 1
+The HPV Vaccine Is Lowering Infection Rates, ORG, 1
+Measles Outbreak Caused, PERSON, 1
+U.S. Surgeon General, ORG, 1
+Vivek Murthy, PERSON, 1
+U.S, GPE, 1
+ShowBiz Minute, ORG, 1
+Hudgens, GPE, 1
+Porsche, ORG, 1
+Paul Walker, PERSON, 1
+Vanessa Hudgens, PERSON, 1
+Sedona, GPE, 1
+Tribeca Film Festival, ORG, 1
+Globe Magazine - The Boston Globe Epic Boston, ORG, 1
+Fox News Democratic Republic of Congo, ORG, 1
+Ben Franklin, PERSON, 1
+The Washington Post Too, ORG, 1
+Michigan, GPE, 1
+Chicago Tribune Researchers, ORG, 1
+their 20s, DATE, 1
+&, ORG, 1
+New Approach, GPE, 1
+The HPV Vaccine Has, ORG, 1
+30, CARDINAL, 1
+Aug. 30, DATE, 1
+Democratic Republic of Congo, GPE, 1
+Fox News Doctors Without Borders, ORG, 1
+New York City, GPE, 1
+Pass Bill Hurts Research | Time Failure, ORG, 1
+Hunt, GPE, 1
+Butantan, GPE, 1
+Takeda Pharmaceuticals, ORG, 1
+Deerfield, GPE, 1
+Ill., GPE, 1
+Killing, GPE, 1
+The White House's, ORG, 1
+$1.8 billion, MONEY, 1
+Dale Schenk, PERSON, 1
+59, CARDINAL, 1
+Schenk, PERSON, 1
+Possible Zika, WORK_OF_ART, 1
+The World Health Organization (WHO, ORG, 1
+Guillain-Barre, PERSON, 1
+Yellow Fever Outbreak Abroad, ORG, 1
+Save the Children, ORG, 1
+Boston’s, ORG, 1
+600, CARDINAL, 1
+Boston, GPE, 1
+Vaxxed, WORK_OF_ART, 1
+the waning days, DATE, 1
+West African, NORP, 1
+Congress Deadlocked, ORG, 1
+11-year-olds - Chicago Tribune Nine years, DATE, 1
+Midwest, LOC, 1
+Olympians, NORP, 1
+TheHill Congressional, ORG, 1
+at least 93, CARDINAL, 1
+the University of Texas Medical, ORG, 1
+Omar Villafranca, PERSON, 1
+Purdue University, ORG, 1
+Block Infection | Time, ORG, 1
+a couple of seconds, TIME, 1
+Swedish, NORP, 1
+“Happy Place, WORK_OF_ART, 1
+NPR Some, ORG, 1
+More than 3,100, CARDINAL, 1
+more than 3,100, CARDINAL, 1
+SB, GPE, 1
+July 1, DATE, 1
+the public months ago, DATE, 1
+&quot;personal, ORG, 1
+Vaccines Forward, PERSON, 1
+Denise Blostein, PERSON, 1
+Michelle Gustafson, PERSON, 1
+The Wall Street Journal, ORG, 1
+Week, DATE, 1
+An Isolated Incident : Goats and Soda : NPR The, WORK_OF_ART, 1
+Quetta, GPE, 1
+Takeda Pharmaceutical Co., ORG, 1
+up to $312 million, MONEY, 1
+Fox News Gunmen, ORG, 1
+seven, CARDINAL, 1
+Karachi, GPE, 1
+Bernie, ORG, 1
+DNC, ORG, 1
+Hillary, PERSON, 1
+Michelle Goldberg, PERSON, 1
+at least a, DATE, 1
+quarter-century old, DATE, 1
+six, CARDINAL, 1
+8, CARDINAL, 1
+13.7, CARDINAL, 1
+Adam Frank, PERSON, 1
+the end of 2015, DATE, 1
+about 36.7 million, CARDINAL, 1
+UNAIDS, ORG, 1
+Jeffrey Kluger, PERSON, 1
+Jeffrey Kluger / Vaccines on Time, PERSON, 1
+Vienna, GPE, 1
+TSS, ORG, 1
+eight, CARDINAL, 1
+Hurricane Matthew - CBS News, EVENT, 1
+The Washington Post Scientists, ORG, 1
+Nasal, PERSON, 1
+this season, DATE, 1
+CDC Endorses A More Effective HPV Vaccine To Prevent Cancer :, ORG, 1
+nine, CARDINAL, 1
+Cholera, ORG, 1
+Hurricane Matthew - CBS News Cholera, EVENT, 1
+1,000, CARDINAL, 1
+More than 85, CARDINAL, 1
+Port-à-Piment, GPE, 1
+Port, GPE, 1
+Congressional, NORP, 1
+Spur Vaccine Hunt, PERSON, 1
+the World Economic Forum, ORG, 1
+10, CARDINAL, 1
+Nasal Flu Vaccine, ORG, 1
+Time Data, ORG, 1
+Ebola - The Atlantic, PERSON, 1
+the Race Against Antibiotic Resistance, ORG, 1
+The New York Times Preventing, ORG, 1
+The Boston Globe Only 21 percent, ORG, 1
+less than three months, DATE, 1
+only three days, DATE, 1
+11.6M, PERCENT, 1
+11.6 million, CARDINAL, 1
+July 20, DATE, 1
+3-year-old, DATE, 1
+Lena, PERSON, 1
+MANILA, GPE, 1
+390 million, CARDINAL, 1
+​Mexican, NORP, 1
+31, CARDINAL, 1
+Fox News Women, ORG, 1
+Preventive Medicine, ORG, 1
+Fox News Mice, ORG, 1
+one to two months later, DATE, 1
+Zika, GPE, 1
+Eli Lilly, ORG, 1
+$885 Million - WSJ Eli Lilly & Co., MONEY, 1
+Boehringer Ingelheim Vetmedica Inc.’s, ORG, 1
+$885 million, MONEY, 1
+the Conspiracy Theory Election Trump, ORG, 1
+Benghazi, GPE, 1
+four years ago, DATE, 1
+16,000, CARDINAL, 1
+Schumer, PERSON, 1
+Democrat, NORP, 1
+1.5, CARDINAL, 1
+2014 to 2015, DATE, 1
+Cimavax, PERSON, 1
+Buffalo, GPE, 1
+A decade, DATE, 1
+more than 11,000, CARDINAL, 1
+Dana Jacobson, PERSON, 1
+A few weeks ago, DATE, 1
+Tribeca Film Festival, EVENT, 1
+Taxi Driver, PERSON, 1
+the Angelika Film Center, ORG, 1
+The Boston Globe Top, ORG, 1
+Parents Seek School, ORG, 1
+NPR Data, ORG, 1
+Weill Cornell Medicine, ORG, 1
+Guinea Tries a Vaccine - The New York Times, ORG, 1
+Maryland, GPE, 1
+this December, DATE, 1
+Baltimore, GPE, 1
+‘Weeks, DATE, 1
+the Washington Post, ORG, 1
+The Boston Globe A, ORG, 1
+Fox News Companies, ORG, 1
+NY, ORG, 1
+Andrew Cuomo, PERSON, 1
+Biden, PERSON, 1
+Gore, PERSON, 1
+CBS News New, ORG, 1
+The United States, GPE, 1
+the end of this year, DATE, 1
+several years, DATE, 1
+Robert De Niro Pulls, PERSON, 1
+De Niro’s, PERSON, 1
+$7.5 million, MONEY, 1
+850, CARDINAL, 1
+Gaithersburg, GPE, 1
+Tuesday, Feb. 23, DATE, 1
+D.C., GPE, 1
+RSVP, GPE, 1
+the third year in a row, DATE, 1
+1.1B, MONEY, 1
+A Guy To Get The HPV Vaccine, WORK_OF_ART, 1
+Jake Harper, PERSON, 1
+TB, ORG, 1
+Halloween, DATE, 1
+this winter, DATE, 1
+M&M, ORG, 1
+Fox News Indian, ORG, 1
+Islamists, NORP, 1
+Zika - CBS News, ORG, 1
+the last two months, DATE, 1
+almost 70 years, DATE, 1
+five, CARDINAL, 1
+28 weeks, DATE, 1
+a full three months, DATE, 1
+Vaccine | Time, WORK_OF_ART, 1
+Decade, DATE, 1
+the worst year, DATE, 1
+Mammogram, ORG, 1
+Chicago Tribune Female, ORG, 1
+New Hampshire, GPE, 1
+More than 800, CARDINAL, 1
+almost 50 percent, PERCENT, 1
+Dengvaxia, GPE, 1
+50 percent, PERCENT, 1
+Europe - Business Insider, ORG, 1
+about 400,000, CARDINAL, 1
+nearly 15 years, DATE, 1
+Nasal Vaccine, PERSON, 1
+June, DATE, 1
+Canadian, NORP, 1
+The Boston Globe Researchers, ORG, 1
+the third day, DATE, 1
+at least 14, CARDINAL, 1
+more than 400, CARDINAL, 1
+the Department of Health and Human Services, ORG, 1
+World’s, ORG, 1
+Fox News Federal, ORG, 1
+NIH’s, ORG, 1
+billions, CARDINAL, 1
+The Boston Globe Switching, ORG, 1
+an estimated $27 billion, MONEY, 1
+the next 35 years, DATE, 1
+the new year, DATE, 1
+807, CARDINAL, 1
+The Boston Globe Zika, ORG, 1
+NPR There, ORG, 1
+about a decade, DATE, 1
+The Boston Globe Cancer, ORG, 1
+Tom Marsilje, PERSON, 1
+Find Zika Vaccine, PERSON, 1
+About 15, CARDINAL, 1
+Vaccine Scandal, PERSON, 1
+357, CARDINAL, 1
+four or five, CARDINAL, 1
+between now and next fall, DATE, 1
+the age of 24, DATE, 1
+Yellow Fever Outbreak Pressures Global Vaccine Supply, ORG, 1
+GSK, ORG, 1
+4 years, DATE, 1
+GlaxoSmithKline, PERSON, 1
+age 70, DATE, 1
+four years, DATE, 1
+Fox News Drones, ORG, 1
+Montana, GPE, 1
+Pfizer - The Atlantic, ORG, 1
+The Washington Post Dormitory, ORG, 1
+2016 - Chicago Tribune, ORG, 1
+Caribbean, LOC, 1
+130, CARDINAL, 1
+Some 20,000, CARDINAL, 1
+Slate’s, ORG, 1
+20th, ORDINAL, 1
+20 this year, DATE, 1
+the Zika Virus - The New York Times, WORK_OF_ART, 1
+Dilma Rousseff, PERSON, 1
+Rio de Janeiro, GPE, 1
+more than 400 million, CARDINAL, 1
+Marburg, PERSON, 1
+The Boston Globe No, ORG, 1
+Pentagon, ORG, 1
+Relocate Pregnant Family Members, ORG, 1
+The Defense Department, ORG, 1
+Dozens, CARDINAL, 1
+Vaccine Scandal - WSJ, PERSON, 1
+37, CARDINAL, 1
+Vladimir Sorokin’s, PERSON, 1
+The Washington Post Many, ORG, 1
+47 million, CARDINAL, 1
+10-year, DATE, 1
+CBS News Health, ORG, 1
+Fox News Infants, ORG, 1
+World Health Organization: Possible Zika, ORG, 1
+about 18 months, DATE, 1
+- LA Times The World Health Organization, ORG, 1
+Fox News Breastfeeding, ORG, 1
+Trump, PERSON, 1
+Gates, NORP, 1
+Flu Vaccine, PERSON, 1
+more than 100, CARDINAL, 1
+Fox News China, ORG, 1
+135, CARDINAL, 1
+Dems, NORP, 1
+GOP, ORG, 1
+Genzyme Corp., ORG, 1
+the White House, FAC, 1
+at least a decade, DATE, 1
+Borno, GPE, 1
+flu - CBS News Mother, ORG, 1
+8,800, CARDINAL, 1
+Vaccine for Zika Virus, ORG, 1
+Disease Experts Warn -, ORG, 1
+University of Texas, ORG, 1
+Health Ministry, ORG, 1
+the University of Texas, ORG, 1
+Signal, ORG, 1
+‘Vaxxed’, WORK_OF_ART, 1
+The New York Times Far, ORG, 1
+the Western Hemisphere, LOC, 1
+Orange County, GPE, 1
+Oxfam, ORG, 1
+Female Food Heroes', WORK_OF_ART, 1
+Female Food Heroes, WORK_OF_ART, 1
+Tanzania, GPE, 1
+Ethiopia, GPE, 1
+The HPV Vaccine For Preteens : Shots - Health News, ORG, 1
+NPR Though, ORG, 1
+Baystate Medical, ORG, 1
+The Boston Globe The Equal Employment Opportunity Commission, ORG, 1
+Stephanie Clarke, PERSON, 1
+Steve McQueen, PERSON, 1
+Reformation, GPE, 1
+Brianna Lance, PERSON, 1
+Freddie Cowan, ORG, 1
+English, NORP, 1
+Vaccines, PRODUCT, 1
+as early as 2018, DATE, 1
+the end of the year, DATE, 1
+USA TODAY, ORG, 1
+Liz Szabo, PERSON, 1
+Under Need Fewer HPV Vaccine Doses - The New York Times, WORK_OF_ART, 1
+11, CARDINAL, 1
+14-year-olds, DATE, 1
+Gary Johnson, PERSON, 1
+Jill Stein, ORG, 1
+Trump, ORG, 1
+the White House, ORG, 1
+Moderna, PERSON, 1
+$8 million, MONEY, 1
+$125 million, MONEY, 1
+Mass., GPE, 1
+The Boston Globe Takeda Pharmaceutical, ORG, 1
+nearly $20 million, MONEY, 1
+Pence, ORG, 1
+Eight, CARDINAL, 1
+Mike Pence, PERSON, 1
+at least one, CARDINAL, 1
+schoolchildren - LA Times, ORG, 1
+New Zika, GPE, 1
+Measles Risk, PERSON, 1
+Vaccine Post, ORG, 1
+the Health Department, ORG, 1
+Bloomberg, GPE, 1
+the Vaccine Alliance, ORG, 1
+flu - Videos - CBS News, ORG, 1
+CBSN, WORK_OF_ART, 1
+Inovio Pharma, PERSON, 1
+Fox News Drug, ORG, 1
+Inovio Pharmaceuticals Inc, ORG, 1
+GeneOne Life Sciences Inc, ORG, 1
+Tom Frieden, PERSON, 1
+recent years, DATE, 1
+Putin Says, PERSON, 1
+Highly Effective" Ebola Vaccine, WORK_OF_ART, 1
+Moscow, GPE, 1
+billions of dollars, MONEY, 1
+Smart, ORG, 1
+Bill Gates, PERSON, 1
+Sanofi SA, PERSON, 1
+AstraZeneca’s Flu-Vaccine Spray, ORG, 1
+Shot - WSJ FluMist, ORG, 1
+a third year, DATE, 1
+CBS News Scientists, ORG, 1
+one day, DATE, 1
+Vaccine Rates, PERSON, 1
+the Rise | Time Vaccine, ORG, 1
+Yellow Fever Epidemic, ORG, 1
+Vaccine Pipeline -, PERSON, 1
+Tribeca Film Festival, PERSON, 1
+Robert DeNiro, PERSON, 1
+Vaxxed: From Cover Up to Catastrophe, WORK_OF_ART, 1
+Jericka Duncan, PERSON, 1
+World Health Organization Approves Dengue Vaccine | Time, ORG, 1
+Bill Nye, PERSON, 1
+Fox News DAKAR, ORG, 1
+Washington Times, ORG, 1
+Yellow Fever Outbreak, ORG, 1
+Soda, PERSON, 1
+2000, DATE, 1
+- LA Times Health, ORG, 1
+One day, DATE, 1
+only 2, CARDINAL, 1
+Fox News MAIDUGURI, ORG, 1
+Boko Haram, PERSON, 1
+Fox News A, ORG, 1
+Robert De Niro Weighs, PERSON, 1
+Vaxxed', WORK_OF_ART, 1
+Nasal, ORG, 1
+Barack Obama  , PERSON, 1
+Congress , PERSON, 1
+Cancer Centers Urge Increase, ORG, 1
+The American Academy of Pediatrics, ORG, 1
+Vaccine For the Plague, WORK_OF_ART, 1
+the Middle Ages, DATE, 1
+The Boston Globe Several, ORG, 1
+NPR Correspondents Answer Your Questions About The Zika Virus : Goats, ORG, 1
+NPR NPR, ORG, 1
+The National Institutes of Health, ORG, 1
+the National Institute of Allergy & Infectious Diseases, ORG, 1
+The Boston Globe Experts, ORG, 1
+The New York Times Welcome, ORG, 1
+Fox News Outbreaks, ORG, 1
+the World Health Organisation (WHO, ORG, 1
+Yellow Fever, PERSON, 1
+Robert De Niro Defends Screening, PERSON, 1
+Tribeca Festival -, EVENT, 1
+Latin America's, LOC, 1
+TODAY, DATE, 1
+15th, ORDINAL, 1
+weeks-long, DATE, 1
+seven-week, DATE, 1
+Vaccine for Toxic Shock Syndrome, ORG, 1
+Outbreak, ORG, 1
+DR, GPE, 1
+LONDON, GPE, 1
+Thomson Reuters Foundation, ORG, 1
+’ - The Washington Post, WORK_OF_ART, 1
+Green Party's, ORG, 1
+NPR More, ORG, 1
+more than $1.8 billion, MONEY, 1
+The White House, ORG, 1
+69, CARDINAL, 1
+more than 80 percent, PERCENT, 1
+Green Party, ORG, 1
+This year, DATE, 1
+it&apos;s, PERSON, 1
+Greens, NORP, 1
+Tom’ -, PERSON, 1
+CNN, ORG, 1
+Ajamu Baraka, PERSON, 1
+a month, DATE, 1
+the past decade, DATE, 1
+Fox News Thousands, ORG, 1
+Democratic Republic of Congo's, GPE, 1
+Kinshasa, GPE, 1
+Inovio, ORG, 1
+Fox News Inovio Pharmaceuticals Inc, ORG, 1
+55 percent, PERCENT, 1
+one year, DATE, 1
+64%, PERCENT, 1
+6 years, DATE, 1
+the U.S. Department of Health and Human Services, ORG, 1
+Malaria Vaccine Lasts, ORG, 1
+One Year, DATE, 1
+up to a year, DATE, 1
+now than a decade ago, DATE, 1
+nearly 12,000, CARDINAL, 1
+Lancet, ORG, 1
+United States, GPE, 1
+dozens, CARDINAL, 1
+today, DATE, 1
+Carolyn Hax, PERSON, 1
+Just two-thirds, CARDINAL, 1
+the first day, DATE, 1
+last month, DATE, 1
+Just 2, CARDINAL, 1
+age 15, DATE, 1
+Nesochi Igbokwe, PERSON, 1
+the New York University Langone Medical Center, ORG, 1
+CBSN, FAC, 1
+World Health Organization, ORG, 1
+Zika - The Washington Post World Health Organization (WHO, WORK_OF_ART, 1
+three-day, DATE, 1
+Nevada County, GPE, 1
+France, GPE, 1
+Fox News Public, ORG, 1
+This winter, DATE, 1
+Sugar, GPE, 1
+The Washington Post Poinsettias, ORG, 1
+thirty, CARDINAL, 1
+this fall, DATE, 1
+later this year, DATE, 1
+Almost $90 million, MONEY, 1
+15, DATE, 1
+The Cats Roundtable, WORK_OF_ART, 1
+Roshini Raj, PERSON, 1
+HPV Sharply Reduced in Teenage Girls Following Vaccine, ORG, 1
+almost two-thirds, CARDINAL, 1
+Found Successful, PERSON, 1
+Monkeys - The Atlantic Next, ORG, 1
+84%, PERCENT, 1
+after-hours, TIME, 1
+Just five months, DATE, 1
+at least two months, DATE, 1
+Fox News Parents, ORG, 1
+1999, DATE, 1
+the 20th century, DATE, 1
+HPV Shots for Preteens    - WSJ The Centers for Disease Control and Prevention, ORG, 1
+U.N., ORG, 1
+Daraya, PERSON, 1
+Syria, GPE, 1
+The Red Cross, ORG, 1
+New Vaccine Mandate Takes Effect, ORG, 1
+the year, DATE, 1
+MSNBC, ORG, 1
+Robert De Niro's, PERSON, 1
+Mosquito, PERSON, 1
+surpasses 4,000, CARDINAL, 1
+the U.S. Army, ORG, 1
+Chicago Tribune, ORG, 1
+Illinois, GPE, 1
+Nov. 21, DATE, 1
+The Boston Globe A WHO, ORG, 1
+STAT, ORG, 1
+everyone - LA Times Health, ORG, 1
+Allergy and Infectious Diseases, ORG, 1
+Fauci, ORG, 1
+next week, DATE, 1
+Keith Hamilton, PERSON, 1
+Takeda, PERSON, 1
+Fox News Japanese, ORG, 1
+Takeda Pharmaceutical Co, PERSON, 1
+University Working, ORG, 1
+the University of Texas Medical Branch, ORG, 1
+Los Angeles County, GPE, 1
+LGBT, ORG, 1
+U.S. National Institutes of Health, ORG, 1
+the next two weeks, DATE, 1
+half-century, DATE, 1
+up to 90, CARDINAL, 1
+NPR The American Academy of Pediatrics, ORG, 1
+late August, DATE, 1
+Centers for Disease Control and Prevention, ORG, 1
+Healthy Start, PERSON, 1
+The Washington Post Weekly, ORG, 1
+2015-2016, DATE, 1
+Pegy Lowery, PERSON, 1
+Piper’s, ORG, 1
+26, CARDINAL, 1
+CBS News Doctors Without Borders, ORG, 1
+Greece, GPE, 1
+20, CARDINAL, 1
+Obamacare - POLITICO, ORG, 1
+CARA, ORG, 1
+CBS News Experts, ORG, 1
+July, DATE, 1
+Andrew Wakefield&amp;nbsp;will  , PERSON, 1
+amp;nbsp;at, PERSON, 1
+Santa Monica's&amp;nbsp;Laemmle, ORG, 1
+Monica Film Center, PERSON, 1
+Pasadena, GPE, 1
+Laemmle Playhouse 7, ORG, 1
+The Remarkable Science Behind the Ebola Vaccine Trials, WORK_OF_ART, 1
+The Boston Globe Preventive, ORG, 1
+Hildegund Ertl, PERSON, 1
+Ertl, ORG, 1
+The Cats, WORK_OF_ART, 1
+Fox News Children, ORG, 1
+Just Weeks, DATE, 1
+Medicare, ORG, 1
+David Duke, PERSON, 1
+Tom Brady, PERSON, 1
+Tribeca Film Festival Boots Film, PERSON, 1
+Vaccines - WSJ, ORG, 1
+money - Washington Times, ORG, 1
+AFP, ORG, 1
+Saint Louis University, ORG, 1
+Fox News Saint Louis University, ORG, 1
+NPR Haiti, ORG, 1
+800,000, CARDINAL, 1
+the years, DATE, 1
+De Niro Reversal, PERSON, 1
+Health Experts The Tribeca Film Festival, ORG, 1
+Childhood Vaccination Rates Climb, ORG, 1
+NPR State, ORG, 1
+Fox News Final, ORG, 1
+The Boston Globe Two, ORG, 1
+two-thirds, CARDINAL, 1
+Jill Stein -, PERSON, 1
+The Boston Globe The Green Party, ORG, 1
+Elusive, NORP, 1
+Louis Picker, PERSON, 1
+Fox News Experts, ORG, 1
+Fox News Flu, ORG, 1
+15, CARDINAL, 1
+Vaccine Efforts Boosted, WORK_OF_ART, 1
+just a week, DATE, 1
+Massachusetts Institute of Technology, ORG, 1
+Obama Asks Congress, ORG, 1
+$1.8 Billion, MONEY, 1
+Combat Zika Virus - The New York Times, ORG, 1

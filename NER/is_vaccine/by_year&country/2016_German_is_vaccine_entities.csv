@@ -1,0 +1,83 @@
+entity, label, count
+Africa, LOC, 6
+Guinea, GPE, 3
+the World Health Organization, ORG, 3
+DW, ORG, 3
+WHO, ORG, 3
+Zika, PERSON, 3
+Pakistan, GPE, 3
+Nigeria, GPE, 3
+South Africa, GPE, 3
+Angola, GPE, 3
+China, GPE, 2
+Chinese, NORP, 2
+hundreds, CARDINAL, 2
+US, GPE, 2
+Brazil, GPE, 2
+at least 14, CARDINAL, 2
+first, ORDINAL, 2
+two, CARDINAL, 2
+German, NORP, 1
+Lasker Award, PERSON, 1
+Ralf Bartenschlager, PERSON, 1
+the Lasker Award, PERSON, 1
+300, CARDINAL, 1
+Beijing, GPE, 1
+2018, DATE, 1
+11,300, CARDINAL, 1
+Americas, LOC, 1
+DW Business - Europe & Africa, ORG, 1
+Deutsche, ORG, 1
+7.2 Billion Dollar, MONEY, 1
+Italian, NORP, 1
+Paschi - WHO, ORG, 1
+First, ORDINAL, 1
+Frank Sieren, PERSON, 1
+2016, DATE, 1
+three, CARDINAL, 1
+Brigitte Osterath, PERSON, 1
+Quetta, ORG, 1
+13.01.2016, CARDINAL, 1
+Quetta, GPE, 1
+20, CARDINAL, 1
+′exciting, GPE, 1
+Essen, GPE, 1
+Germany, GPE, 1
+Abdullahi Rilwani, PERSON, 1
+17.04.2016, CARDINAL, 1
+zero, CARDINAL, 1
+billions, CARDINAL, 1
+about 800, CARDINAL, 1
+The World Health Organization, ORG, 1
+the Olympic Games, EVENT, 1
+Rio, GPE, 1
+August, DATE, 1
+Damascus, GPE, 1
+01.06.2016 Trucks, ORG, 1
+years, DATE, 1
+the Red Cross, ORG, 1
+Moscow, GPE, 1
+month-long, DATE, 1
+13.08.2016, DATE, 1
+Boko Haram, ORG, 1
+the eve of, DATE, 1
+World AIDS Day, EVENT, 1
+December 1, DATE, 1
+34, CARDINAL, 1
+last year, DATE, 1
+Afghanistan, GPE, 1
+anti-Zika, PERSON, 1
+50 million, CARDINAL, 1
+World AIDS Day, DATE, 1
+2020, DATE, 1
+17.08.2016 Democratic Republic of Congo, GPE, 1
+the beginning of this year, DATE, 1
+Angola ′serious,′, ORG, 1
+DR Congo, ORG, 1
+Uganda, GPE, 1
+Kenya, GPE, 1
+Three, CARDINAL, 1
+DW, PERSON, 1
+UN, ORG, 1
+World Immunization Week, EVENT, 1
+Millions, CARDINAL, 1

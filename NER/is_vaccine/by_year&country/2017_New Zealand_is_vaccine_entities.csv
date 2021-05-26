@@ -1,0 +1,173 @@
+entity, label, count
+HPV, ORG, 13
+US, GPE, 8
+New Zealand, GPE, 6
+first, ORDINAL, 4
+Pacific, LOC, 3
+PHARMAC, ORG, 3
+one, CARDINAL, 3
+Vaccine, PERSON, 3
+Australian, NORP, 3
+this week, DATE, 3
+this winter, DATE, 3
+Wellington, GPE, 3
+Maori, GPE, 2
+| Scoop News, PRODUCT, 2
+HPV Vaccine, ORG, 2
+Parliament, ORG, 2
+Ian Frazer, PERSON, 2
+Sana’a, ORG, 2
+the last year, DATE, 2
+Cathy Stephenson, PERSON, 2
+Tauranga, GPE, 2
+AUCKLAND, ORG, 2
+Five-year, DATE, 2
+three, CARDINAL, 2
+Gardasil, GPE, 2
+New Zealanders, NORP, 2
+15, CARDINAL, 2
+Fifteen, CARDINAL, 2
+a million and a half, CARDINAL, 2
+United Nations, ORG, 2
+Rohingya, ORG, 2
+Tuesday, DATE, 2
+Bangladesh, GPE, 2
+15-month-old, DATE, 2
+South Sudan, GPE, 2
+Maori, ORG, 1
+Nelson, PERSON, 1
+Thousands, CARDINAL, 1
+a year, DATE, 1
+1 July 2017, DATE, 1
+the Medicines New Zealand, ORG, 1
+this evening, TIME, 1
+the Chair of Health Committee, ORG, 1
+Yemen, GPE, 1
+| Scoop News Yemen’s, ORG, 1
+Trump, ORG, 1
+Herald Ever, ORG, 1
+Herald Tonsil, PERSON, 1
+Lincoln, ORG, 1
+over 140, CARDINAL, 1
+1.4 million, CARDINAL, 1
+More than 1000, CARDINAL, 1
+Scoop News The University of Auckland, ORG, 1
+American, NORP, 1
+10-29 year-olds - NZ, DATE, 1
+years, DATE, 1
+‘Vaxxed’, WORK_OF_ART, 1
+Timaru, ORG, 1
+Stuff.co.nz Niki, PERSON, 1
+Chris Saunders, PERSON, 1
+Kiwi, PERSON, 1
+Scoop News Vaccination, ORG, 1
+NZ, GPE, 1
+2006, DATE, 1
+24 March 2017, DATE, 1
+COUNTRY, ORG, 1
+today, DATE, 1
+Each year, DATE, 1
+the Canterbury Health System, ORG, 1
+Southern DHB, ORG, 1
+Scoop News Southern DHB, ORG, 1
+STD, ORG, 1
+Kanoa Lloyd, PERSON, 1
+Don Brash, PERSON, 1
+William Gallagher, PERSON, 1
+Māori, PERSON, 1
+Auckland, GPE, 1
+the 20 years, DATE, 1
+Herald Movie's, ORG, 1
+next week - NZ, DATE, 1
+Herald Chickenpox, ORG, 1
+July 1, DATE, 1
+Hamilton, PERSON, 1
+decades, DATE, 1
+Suaado Salah, PERSON, 1
+Somali, NORP, 1
+Minnesota, GPE, 1
+March, DATE, 1
+the start of the winter season, DATE, 1
+winter, DATE, 1
+16 March 2017, DATE, 1
+65, DATE, 1
+Unichem & Life, ORG, 1
+April 1, DATE, 1
+Ministry of Health, ORG, 1
+Auckland, PERSON, 1
+the Health Ministry, ORG, 1
+Rachel Smalley, PERSON, 1
+Jamie-Lee MacInnes, PERSON, 1
+two, CARDINAL, 1
+Auckland’s, ORG, 1
+ARPHS, ORG, 1
+55, CARDINAL, 1
+May 2017, DATE, 1
+Waikato school - NZ Herald The, FAC, 1
+Herald University, ORG, 1
+65+, QUANTITY, 1
+Scoop News Funded, ORG, 1
+this year, DATE, 1
+Herald News, ORG, 1
+12 years old, DATE, 1
+South Sudan's, GPE, 1
+Friday, DATE, 1
+Rebecca Bredow, PERSON, 1
+Aussie, PERSON, 1
+Malcolm Turnbull, PERSON, 1
+Pauline Hanson, PERSON, 1
+Vladimir Putin, PERSON, 1
+Russia, GPE, 1
+Waikato, PERSON, 1
+MANILA, GPE, 1
+24 April 2017, DATE, 1
+the tens of millions, CARDINAL, 1
+an estimated 400, CARDINAL, 1
+Flu Jab Uptake, ORG, 1
+Scoop News, ORG, 1
+Society, ORG, 1
+1 April, DATE, 1
+65s, DATE, 1
+Victoria University of Wellington’s, ORG, 1
+Ferrier Research Institute, ORG, 1
+the Breast Cancer Foundation New Zealand, ORG, 1
+between 2004 and 2008, DATE, 1
+Helen Petousis-Harris, PERSON, 1
+the University’s Faculty of Medical, ORG, 1
+Health, ORG, 1
+Jonathan Coleman, PERSON, 1
+Pharmac, LOC, 1
+as early as April 2018, DATE, 1
+ECE, ORG, 1
+ECNZ, NORP, 1
+Grantlea Downs, ORG, 1
+Pox Vaccine, PERSON, 1
+the Southern District, LOC, 1
+1 July, DATE, 1
+15 months, DATE, 1
+11 years, DATE, 1
+9-year-old, DATE, 1
+South Canterbury, NORP, 1
+Oxford University, ORG, 1
+TB, ORG, 1
+Herald Oxford University, ORG, 1
+The Pharmacy Guild of New Zealand, ORG, 1
+UN Diphtheria Vaccination Campaign for Rohingya Children, ORG, 1
+12 December 2017, DATE, 1
+nine, CARDINAL, 1
+NZMSA Supports, ORG, 1
+Lance O’Sullivan, PERSON, 1
+Vaccines Save, PERSON, 1
+The New Zealand Medical Students’ Association, ORG, 1
+NZMSA, ORG, 1
+Lance O’Sullivan’s, PERSON, 1
+Healthcare, ORG, 1
+O’Sullivan, PERSON, 1
+Two, CARDINAL, 1
+UN, ORG, 1
+10 October 2017, DATE, 1
+more than half a million, CARDINAL, 1
+the past six weeks, DATE, 1
+Cox, GPE, 1
+Bazaar, GPE, 1
+12, CARDINAL, 1

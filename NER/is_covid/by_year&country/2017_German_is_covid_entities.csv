@@ -1,0 +1,47 @@
+entity, label, count
+Germany, GPE, 3
+four, CARDINAL, 2
+Reichsbürger, PERSON, 1
+DW Business – Europe & America, ORG, 1
+Lockdown, ORG, 1
+Trump, ORG, 1
+Trump′s holiday, DATE, 1
+German, NORP, 1
+2 weeks, DATE, 1
+Trump, PERSON, 1
+Bedminster, GPE, 1
+New Jersey, GPE, 1
+Birgit Maass, PERSON, 1
+Focus on Europe, ORG, 1
+2000, DATE, 1
+week, DATE, 1
+London, GPE, 1
+English, NORP, 1
+Hong Kong′s, PERSON, 1
+20-year, DATE, 1
+Hong Kong, GPE, 1
+Chinese, NORP, 1
+twenty years ago, DATE, 1
+156 years, DATE, 1
+British, NORP, 1
+China, GPE, 1
+Isaac Makwala, PERSON, 1
+200, CARDINAL, 1
+last minute, TIME, 1
+400, CARDINAL, 1
+Tuesday, DATE, 1
+Botswanan Isaac Makwala, PERSON, 1
+just hours, TIME, 1
+California, GPE, 1
+15.11.2017, CARDINAL, 1
+US, GPE, 1
+at least 10, CARDINAL, 1
+Democratic Republic of the, GPE, 1
+Congo, GPE, 1
+Africa, LOC, 1
+Two years, DATE, 1
+dozens, CARDINAL, 1
+DRC, ORG, 1
+UN, ORG, 1
+West African, NORP, 1
+2014 to 2016, DATE, 1

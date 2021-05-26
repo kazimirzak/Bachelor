@@ -1,0 +1,344 @@
+entity, label, count
+Toronto, GPE, 20
+two, CARDINAL, 9
+Canadian, NORP, 8
+Coronation Park, LOC, 8
+first, ORDINAL, 7
+| CTV News, ORG, 6
+U.S., GPE, 6
+Coronation Street, FAC, 6
+Sunday, DATE, 6
+Wednesday, DATE, 5
+New York, GPE, 5
+GlobalNews.ca, ORG, 5
+The Globe and Mail, ORG, 5
+Canada, GPE, 5
+CNE, ORG, 5
+evening, TIME, 5
+Dubai, GPE, 4
+Washington, GPE, 4
+White House, ORG, 4
+Vancouver Sun, PERSON, 4
+fourth, ORDINAL, 4
+JFK, PERSON, 3
+Kingston, GPE, 3
+Ont, PERSON, 3
+CBC News, ORG, 3
+Vanilla Ice, ORG, 3
+Pyeongchang, GPE, 3
+Quebec, GPE, 3
+Elizabeth, PERSON, 3
+Congo, GPE, 3
+Friday, DATE, 3
+Tuesday, DATE, 3
+Elizabeth II, PERSON, 3
+30-year-old, DATE, 3
+Coronation Park, FAC, 3
+Australia, GPE, 3
+the White House, ORG, 3
+30s, DATE, 3
+Massachusetts, GPE, 2
+Alberta Children’s Hospital, ORG, 2
+Sun Rapper, PERSON, 2
+Vanilla Ice’s, PERSON, 2
+Delta, LOC, 2
+B.C., GPE, 2
+10, CARDINAL, 2
+William Roache, PERSON, 2
+Jessica Mulroney, PERSON, 2
+Corona, GPE, 2
+four hours, TIME, 2
+65 years, DATE, 2
+Saturday, DATE, 2
+Thursday, DATE, 2
+three, CARDINAL, 2
+Leonard Churchill, PERSON, 2
+millions, CARDINAL, 2
+Lockdown, ORG, 2
+Western Technical-Commercial School, ORG, 2
+Tory, NORP, 2
+one, CARDINAL, 2
+Calif., GPE, 2
+Toronto Sun, ORG, 2
+House of Commons, ORG, 2
+Ottawa, GPE, 2
+Kim, PERSON, 2
+17-year-old, DATE, 2
+four years, DATE, 2
+The Globe and Mail Animal, ORG, 2
+B.C., ORG, 2
+Black Death, ORG, 2
+second, ORDINAL, 2
+Helen Flanagan, PERSON, 2
+Spanish, NORP, 2
+Queen, PERSON, 2
+American, NORP, 2
+Jamaica, GPE, 2
+Michael Lewis, PERSON, 2
+Scarborough, GPE, 2
+18-year-old, DATE, 2
+CTV News Channel, ORG, 2
+This year, DATE, 2
+100 years, DATE, 2
+GTA, ORG, 2
+hundreds, CARDINAL, 2
+the Canadian National Exhibition, ORG, 2
+The Globe and Mail Police, ORG, 2
+Alastair Bruce, PERSON, 2
+SickKids, PRODUCT, 2
+ER, GPE, 2
+Lin-Manuel Miranda, PERSON, 2
+Ten, CARDINAL, 1
+the second day in a row, DATE, 1
+Peter Armitage, PERSON, 1
+78, CARDINAL, 1
+Kevin Webster's, PERSON, 1
+Bill Webster, PERSON, 1
+more than 30 years ago, DATE, 1
+12-year-old, DATE, 1
+Calgary, GPE, 1
+the Calgary International Airport, FAC, 1
+Vancouver Island, LOC, 1
+Nanaimo, GPE, 1
+Comox, PERSON, 1
+Emirates, GPE, 1
+Mikael Kingsbury, PERSON, 1
+Alexandre Bilodeau, PERSON, 1
+his 58 years, DATE, 1
+Ken Barlow - National, PERSON, 1
+Global News, ORG, 1
+Prince Harry, PERSON, 1
+Meghan Markle's, PERSON, 1
+billions, CARDINAL, 1
+CBC Radio Constellation Brands, ORG, 1
+$5-billion, MONEY, 1
+Mississauga, ORG, 1
+Star Tactical, WORK_OF_ART, 1
+TL Kennedy, FAC, 1
+Mississauga, PERSON, 1
+Bristol, GPE, 1
+Hurontario, GPE, 1
+Hamilton, PERSON, 1
+Montreal, GPE, 1
+up to two weeks, DATE, 1
+Manitoba, GPE, 1
+COVID-19, PRODUCT, 1
+Brent Roussin, PERSON, 1
+Health, ORG, 1
+Cameron Friesen, PERSON, 1
+Winnipeg, PERSON, 1
+LIVE NOW, ORG, 1
+3, CARDINAL, 1
+same night, TIME, 1
+The Alberta Children’s Hospital, ORG, 1
+the same night, TIME, 1
+The Leafs' Top 5, ORG, 1
+nine, CARDINAL, 1
+a long spring, DATE, 1
+the Maple…, ORG, 1
+St. George, GPE, 1
+Pittsburgh, GPE, 1
+only 44, DATE, 1
+Feds, NORP, 1
+The World Health Organization, ORG, 1
+Africa, LOC, 1
+nearly 30 per cent, MONEY, 1
+N.L., ORG, 1
+44-year-old, DATE, 1
+Newfoundland, ORG, 1
+Jan. 31, DATE, 1
+Constellation Brands, ORG, 1
+The Globe and Mail Net, ORG, 1
+$925.5 million, MONEY, 1
+the fourth quarter, DATE, 1
+$452 million, MONEY, 1
+a year earlier, DATE, 1
+U.K., GPE, 1
+40 years, DATE, 1
+Candida, PERSON, 1
+Century, ORG, 1
+1918, DATE, 1
+annual, DATE, 1
+one every five years, DATE, 1
+10 years, DATE, 1
+Highline Community College, ORG, 1
+The White House, ORG, 1
+about an hour, TIME, 1
+The Globe and Mail Since Columbine, ORG, 1
+1999, DATE, 1
+hours, TIME, 1
+Bloor West Village, GPE, 1
+Three, CARDINAL, 1
+Cambodia, GPE, 1
+Hun Sen, PERSON, 1
+Hun Sen’s, PERSON, 1
+The Pot Post Newsletter Signup Canadian, ORG, 1
+Videos Online Watch Pattern, ORG, 1
+Kingston Video Online, ORG, 1
+Doug Ford, PERSON, 1
+Ontario Progressive Conservative, ORG, 1
+Ford, ORG, 1
+a tumultuous six weeks, DATE, 1
+Man City, GPE, 1
+EPL, PERSON, 1
+Chelsea, PERSON, 1
+Royal Newsletter Signup Canadian, ORG, 1
+Newfoundlander, PERSON, 1
+50-year, DATE, 1
+World War, EVENT, 1
+nearly 1 million, CARDINAL, 1
+Americans, NORP, 1
+Guitarist Jimmy Page, PERSON, 1
+50 years, DATE, 1
+Led Zeppelin, PERSON, 1
+CORONA, GPE, 1
+Jimmy Page, PERSON, 1
+Wynne, PERSON, 1
+| CTV News A, ORG, 1
+Toronto City Hall, ORG, 1
+Sunday night, TIME, 1
+the Labour Day long weekend, DATE, 1
+COVID-19 - National | Globalnews.ca Get, ORG, 1
+Lego, ORG, 1
+Denmark, GPE, 1
+The Globe and Mail Kubik, ORG, 1
+Netherlands, GPE, 1
+David Saint-Jacques, PERSON, 1
+Rubik, ORG, 1
+Kazakhstan, GPE, 1
+next month, DATE, 1
+December, DATE, 1
+Gatineau, GPE, 1
+Chloe Kim, PERSON, 1
+Torrance, GPE, 1
+North America, LOC, 1
+−, PERSON, 1
+Easter, ORG, 1
+36 hours, TIME, 1
+Stollery Children’s Hospital, ORG, 1
+Edmonton, PERSON, 1
+Stollery Children's Hospital, PERSON, 1
+2, CARDINAL, 1
+British, NORP, 1
+50 million, CARDINAL, 1
+U.S. Army, ORG, 1
+500 million, CARDINAL, 1
+Ontario, GPE, 1
+the past year, DATE, 1
+Paul Dube, PERSON, 1
+1953, CARDINAL, 1
+Coronation, NORP, 1
+65th, ORDINAL, 1
+Crown Jewels, ORG, 1
+Crown, ORG, 1
+Coronation Day, EVENT, 1
+BBC, ORG, 1
+late Tuesday morning, TIME, 1
+the Greater Toronto Area, LOC, 1
+just 24 hours, TIME, 1
+Markham, GPE, 1
+Lockdown Drill, PERSON, 1
+five-year-old, DATE, 1
+Marquis, PERSON, 1
+Kingsbury - The Globe and Mail Kingsbury, ORG, 1
+Sochi, ORG, 1
+The Star Schools in Etobicoke, WORK_OF_ART, 1
+Pennsylvania, GPE, 1
+the Millcreek Township School District, ORG, 1
+Dog, PERSON, 1
+Brisbane, PERSON, 1
+French, NORP, 1
+last week, DATE, 1
+High Park, LOC, 1
+Service - National | Globalnews.ca The Secret Service, ORG, 1
+about noon, TIME, 1
+Rapper Vanilla Ice, PERSON, 1
+New York's, GPE, 1
+Kennedy Airport, FAC, 1
+520, CARDINAL, 1
+COVID-19 | CTV News Health, ORG, 1
+Christian Dube, PERSON, 1
+Horacio Arruda, PERSON, 1
+Quebec, PERSON, 1
+The Secret Service, ORG, 1
+the North Lawn, LOC, 1
+Louisiana, GPE, 1
+South America, LOC, 1
+England, GPE, 1
+Monday night, TIME, 1
+100 years later, DATE, 1
+Alberta, GPE, 1
+a century ago, DATE, 1
+Sri Lanka - The Globe and Mail Sri Lanka's, GPE, 1
+seven-day, DATE, 1
+Sinhalese, NORP, 1
+Muslim, NORP, 1
+Video Online, PERSON, 1
+Earlier Sunday, TIME, 1
+North Las Vegas, ORG, 1
+1, CARDINAL, 1
+Plane, ORG, 1
+| The Star The Emirates, PRODUCT, 1
+about 9:10 a.m., TIME, 1
+Sept. 5, DATE, 1
+Mecca, GPE, 1
+CTV National News, ORG, 1
+Genevieve Beauchemin, PERSON, 1
+Evgenia Medvedeva, FAC, 1
+Russian, NORP, 1
+Olympic, EVENT, 1
+just minutes, TIME, 1
+the year, DATE, 1
+LEVY, PERSON, 1
+less than three months, DATE, 1
+2018, DATE, 1
+Vancouver Sun, ORG, 1
+DES MOINES, GPE, 1
+Wash., GPE, 1
+billion, CARDINAL, 1
+Trudeau, PERSON, 1
+COVID-19 | CTV News, ORG, 1
+Justin Trudeau, PERSON, 1
+The Black Death, ORG, 1
+Europe, LOC, 1
+the 14th to 19th century, DATE, 1
+The Nitric Oxide, ORG, 1
+Thomas Daigle, PERSON, 1
+coronation day, DATE, 1
+1953, DATE, 1
+The Coronation”, WORK_OF_ART, 1
+The Globe and Mail A, ORG, 1
+Toronto’s Coronation Park, ORG, 1
+CNN, ORG, 1
+Nikhil Kumar, PERSON, 1
+up to a week, DATE, 1
+Ted Cruz's, PERSON, 1
+Republican, NORP, 1
+Ted Cruz, PERSON, 1
+Cruz, PERSON, 1
+Houston, GPE, 1
+the Greater Vancouver Zoo, ORG, 1
+four, CARDINAL, 1
+Calgary International Airport, FAC, 1
+about 1:45 p.m., TIME, 1
+The Globe and Mail Even, ORG, 1
+weeks, DATE, 1
+months, DATE, 1
+Sun COLE HARBOUR, PERSON, 1
+N.S., GPE, 1
+Stephanie Wiebe, PERSON, 1
+the Calgary Airport Authority, ORG, 1
+the busy holiday season, DATE, 1
+The U.S. Secret Service, ORG, 1
+Monday, DATE, 1
+Canopy Growth, ORG, 1
+third-quarter, DATE, 1
+Canopy Growth Corp., ORG, 1
+Corona Beer, ORG, 1
+July 2019, DATE, 1
+Mission Institution, ORG, 1
+Sun Correctional Service of Canada, ORG, 1
+Mission Institution’s, ORG, 1
+NASA, ORG, 1
+NEW YORK, GPE, 1
+Broadway, FAC, 1

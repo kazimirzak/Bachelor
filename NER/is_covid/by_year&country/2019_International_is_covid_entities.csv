@@ -1,0 +1,1019 @@
+entity, label, count
+Kashmir, LOC, 143
+India, GPE, 98
+Thailand, GPE, 53
+Indian, NORP, 49
+Corona, GPE, 47
+two, CARDINAL, 39
+St. Lucia, GPE, 33
+Tuesday, DATE, 30
+Saturday, DATE, 30
+Al Jazeera, ORG, 28
+Thai, NORP, 27
+Friday, DATE, 27
+first, ORDINAL, 27
+Reuters, ORG, 26
+Wednesday, DATE, 23
+Maha Vajiralongkorn, PERSON, 23
+Curacao, GPE, 20
+California, GPE, 20
+U.S., GPE, 20
+Monday, DATE, 20
+Muslim, NORP, 19
+Thursday, DATE, 19
+Natalie Corona, PERSON, 18
+Bangkok, GPE, 18
+China, GPE, 17
+US, GPE, 17
+Sunday, DATE, 16
+Pakistan, GPE, 16
+Caribbean, LOC, 15
+Costco, ORG, 15
+Hong Kong, GPE, 15
+Srinagar, GPE, 14
+Two, CARDINAL, 13
+2, CARDINAL, 13
+thousands, CARDINAL, 13
+one, CARDINAL, 13
+three, CARDINAL, 12
+Beijing, GPE, 12
+Los Angeles, GPE, 12
+Buddhist, NORP, 11
+Japan, GPE, 11
+Charlotte, GPE, 11
+the Church of Scientology, ORG, 10
+White House, ORG, 10
+Donald Trump, PERSON, 10
+French, NORP, 10
+Pakistani, NORP, 9
+Venezuela, GPE, 9
+Texas, GPE, 9
+three days, DATE, 9
+night, TIME, 9
+UK, GPE, 8
+four, CARDINAL, 8
+One, CARDINAL, 7
+Davis, PERSON, 7
+Himalayan, NORP, 7
+New Delhi, GPE, 7
+Trump, PERSON, 7
+Indian Kashmir, LOC, 7
+this weekend, DATE, 7
+22-year-old, DATE, 7
+Japanese, NORP, 7
+Chinese, NORP, 6
+ABC News, ORG, 6
+Thousands, CARDINAL, 6
+22, DATE, 6
+Curacao, PERSON, 6
+May, DATE, 6
+Hawaii, GPE, 6
+CNN, ORG, 6
+Vajiralongkorn, PERSON, 6
+Dutch, NORP, 6
+Narendra Modi, PERSON, 6
+Paris, GPE, 6
+morning, TIME, 6
+Corona Costco, ORG, 6
+London, GPE, 6
+August, DATE, 5
+second, ORDINAL, 5
+RT USA News, ORG, 5
+Denver, GPE, 5
+Trump, ORG, 5
+Nicolas Maduro, PERSON, 5
+Caribbean, NORP, 5
+4, CARDINAL, 5
+about 30, CARDINAL, 5
+the Grand Palace, FAC, 5
+October, DATE, 5
+British, NORP, 5
+2020, DATE, 5
+Hundreds, CARDINAL, 5
+the United States, GPE, 5
+Constellation Brands, ORG, 5
+Hindu, NORP, 5
+Constellation, PRODUCT, 5
+Brahmin, PERSON, 5
+three-day, DATE, 5
+UNC, ORG, 5
+North Carolina, GPE, 5
+Charlotte, PERSON, 5
+LAPD, ORG, 5
+Modelo, PERSON, 5
+Xi Jinping, PERSON, 4
+The White House, ORG, 4
+Washington, GPE, 4
+Mexican, NORP, 4
+Florida, GPE, 4
+NASA, ORG, 4
+Muslims, NORP, 4
+1950, DATE, 4
+LAPD, PRODUCT, 4
+$1.7 billion, MONEY, 4
+E. & J. Gallo Winery, ORG, 4
+Pearl Harbor, FAC, 4
+Spanish, NORP, 4
+hundreds, CARDINAL, 4
+Rookie, PERSON, 4
+AP, ORG, 4
+Tens of thousands, CARDINAL, 4
+30th, ORDINAL, 4
+Tiananmen Square, FAC, 4
+a day, DATE, 4
+CNBC, ORG, 4
+the White House, ORG, 4
+2019, DATE, 4
+100, CARDINAL, 4
+Amsterdam, GPE, 4
+Ecuador, GPE, 4
+3, CARDINAL, 4
+€12 billion, MONEY, 4
+Louisiana, GPE, 4
+300, CARDINAL, 4
+Jammu, GPE, 4
+four months, DATE, 4
+Jersey City, GPE, 4
+quarterly, DATE, 4
+dozens, CARDINAL, 4
+the first day, DATE, 4
+FBI, ORG, 3
+Freewinds, ORG, 3
+next month, DATE, 3
+69 years, DATE, 3
+the Corona Police Department, ORG, 3
+Navy, ORG, 3
+India News, ORG, 3
+Sri Lanka, GPE, 3
+this year, DATE, 3
+Wisconsin, GPE, 3
+nearly 50, CARDINAL, 3
+LA, GPE, 3
+Northern California, LOC, 3
+RT Newsline, PERSON, 3
+weeks, DATE, 3
+more than two months, DATE, 3
+WILLEMSTAD, ORG, 3
+third, ORDINAL, 3
+Asian, NORP, 3
+Corona Costco, GPE, 3
+mosques, FAC, 3
+Kenneth French, PERSON, 3
+Kashmiris, PERSON, 3
+Kashmir’s, LOC, 3
+Reddit, NORP, 3
+millions, CARDINAL, 3
+RT World News, ORG, 3
+UCLA, ORG, 3
+Costco, FAC, 3
+Columbine High School, ORG, 3
+Brooks Koepka, PERSON, 3
+Mongolia, GPE, 3
+several hours, TIME, 3
+1, CARDINAL, 3
+The Los Angeles Police Department, ORG, 3
+The University of North Carolina, ORG, 3
+Trystan Andrew Terrell, PERSON, 3
+Islamabad, GPE, 3
+Kashmir, GPE, 3
+20, CARDINAL, 3
+Pearl Harbor Naval Shipyard, FAC, 3
+WHO, ORG, 3
+Aurora, GPE, 3
+70 years, DATE, 2
+the People's Republic, GPE, 2
+Virgin Atlantic, LOC, 2
+Siamese, NORP, 2
+Kevin Douglas Limbaugh, PERSON, 2
+48, DATE, 2
+RT World News A, ORG, 2
+the Naval Air Station, FAC, 2
+U.S. Navy, ORG, 2
+Parker Solar Probe, ORG, 2
+May 4-6, DATE, 2
+a week, DATE, 2
+66, DATE, 2
+Group M, ORG, 2
+Abbott Laboratories, ORG, 2
+Thai King's, ORG, 2
+the Black Death, ORG, 2
+Mongolian, NORP, 2
+Saint Lucia, PERSON, 2
+Saint Lucia, GPE, 2
+Nearly 300, CARDINAL, 2
+Islamic, NORP, 2
+next week, DATE, 2
+YouTube, ORG, 2
+Kashmiris, GPE, 2
+days, DATE, 2
+Jeffery Murawski, PERSON, 2
+Andrea Zamperoni, PERSON, 2
+Capitol, ORG, 2
+32-year-old, DATE, 2
+UN, ORG, 2
+hours later, TIME, 2
+Supreme Court, ORG, 2
+Chicago, GPE, 2
+the three months to January, DATE, 2
+2011, DATE, 2
+US Navy, ORG, 2
+HONG KONG, GPE, 2
+70th, ORDINAL, 2
+Marc Siegel, PERSON, 2
+9, CARDINAL, 2
+Thai King, ORG, 2
+2014, DATE, 2
+Parliament, ORG, 2
+2015, DATE, 2
+Capitol Hill, ORG, 2
+Al Jazeera Lawyers, ORG, 2
+August 5, DATE, 2
+Democrat, NORP, 2
+RT World, ORG, 2
+two-week, DATE, 2
+five, CARDINAL, 2
+a fifth day, DATE, 2
+an Independence Day, EVENT, 2
+Arizona, GPE, 2
+Just days, DATE, 2
+Sweden, GPE, 2
+Calif., GPE, 2
+El Paso, ORG, 2
+Al Jazeera Residents, ORG, 2
+pro-Trump, PERSON, 2
+hours, TIME, 2
+Democratic, NORP, 2
+Modi, GPE, 2
+Middle East, LOC, 2
+Britain, GPE, 2
+Nigeria, GPE, 2
+Shi'ite, NORP, 2
+National Assembly, ORG, 2
+Shi'ite Muslim, NORP, 2
+Mississippi, GPE, 2
+Newark Airport, FAC, 2
+Bahamas, GPE, 2
+Up to 15, CARDINAL, 2
+Coronado, GPE, 2
+Samoa, ORG, 2
+5, CARDINAL, 2
+Nearly 700, CARDINAL, 2
+Biarritz, GPE, 2
+G7, FAC, 2
+months-long, DATE, 2
+Naruhito, PERSON, 2
+New York, GPE, 2
+New Jersey, GPE, 2
+fourth, ORDINAL, 2
+European, NORP, 2
+Michael Carey, PERSON, 2
+BBC, ORG, 2
+Lenin Moreno, PERSON, 2
+Global Fund, ORG, 2
+Merlene Frederick-James, PERSON, 2
+Lockdown, ORG, 2
+last day, DATE, 2
+Imran Khan, PERSON, 2
+May 4, DATE, 2
+Barbados, GPE, 2
+60, CARDINAL, 2
+Kashmiri, PRODUCT, 2
+N.J., GPE, 2
+7-year-old, DATE, 2
+March, DATE, 2
+Canada, GPE, 2
+6-month-old, DATE, 2
+Culver City, GPE, 2
+Constellation Brands Inc, ORG, 2
+Congo city’s, GPE, 2
+17, CARDINAL, 2
+Iraq, GPE, 2
+10, CARDINAL, 2
+May 5, DATE, 2
+May 4 to 6, DATE, 2
+Virginia, GPE, 2
+two days, DATE, 2
+Illinois, GPE, 2
+evening, TIME, 2
+six, CARDINAL, 2
+annual, DATE, 2
+Canadian, NORP, 2
+Vermont, GPE, 2
+a year, DATE, 2
+Indian Kashmir's, LOC, 2
+summer, DATE, 2
+seven-decade-long, DATE, 2
+Conyers, ORG, 2
+Georgia, GPE, 2
+Colorado, GPE, 2
+more than $2.4 billion, MONEY, 2
+St Lucia, PERSON, 2
+Afghan, NORP, 2
+April, DATE, 2
+France, GPE, 2
+Europe, LOC, 2
+Neil Woodford, PERSON, 2
+Ill., GPE, 2
+0.25%, PERCENT, 2
+100 days, DATE, 1
+Over 300, CARDINAL, 1
+several days, DATE, 1
+October 1, DATE, 1
+National Day, EVENT, 1
+Columbine, ORG, 1
+Health, ORG, 1
+early Saturday, DATE, 1
+earlier this week, DATE, 1
+Toqeer Gillani, PERSON, 1
+Jammu-Kashmir Liberation Front, ORG, 1
+RT Newsline, ORG, 1
+over a week, DATE, 1
+NBC News, ORG, 1
+Reuters Mexico, PERSON, 1
+American, NORP, 1
+tens of thousands, CARDINAL, 1
+Guaido, GPE, 1
+Venezuelan, NORP, 1
+Al Capone, PERSON, 1
+RT Op-ed Scour, PERSON, 1
+Donald Trump’s de-, PERSON, 1
+DR Congo, GPE, 1
+Democratic Republic of, GPE, 1
+tens of millions, MONEY, 1
+last Sunday's, DATE, 1
+Saudi Air Force, ORG, 1
+Pensacola, GPE, 1
+one day, DATE, 1
+Guatemalan, ORG, 1
+McAllen, PERSON, 1
+Three-day, DATE, 1
+Bhumibol, GPE, 1
+Kashmir Tradition, ORG, 1
+Bashir Ahmad, PERSON, 1
+about $31.5 million, MONEY, 1
+Al Jazeera Restrictions, ORG, 1
+Narendra Modi, ORG, 1
+Barron Trump, PERSON, 1
+the Inland Empire, GPE, 1
+Buddha, PERSON, 1
+Saturday to Monday, DATE, 1
+King Rama X., FAC, 1
+Corpus Christi Naval Air Station, ORG, 1
+nearly 2 decades, DATE, 1
+19 years, DATE, 1
+Two Years, DATE, 1
+Throne, ORG, 1
+66-year-old, DATE, 1
+King Bhumibol Adulyadej, ORG, 1
+October 2016, DATE, 1
+Crown, ORG, 1
+Costco, PERSON, 1
+9 years, DATE, 1
+Richard Sepolio, PERSON, 1
+more than 80 mph, QUANTITY, 1
+the Coronado Bridge, FAC, 1
+Four, CARDINAL, 1
+Kashmiris, LOC, 1
+Imran Khan’s UN, PERSON, 1
+55-day, DATE, 1
+UN General Assembly, ORG, 1
+California Costco, GPE, 1
+Turkish, NORP, 1
+Police, ORG, 1
+37-year-old, DATE, 1
+Gokmen Tanis, PERSON, 1
+hours-long, TIME, 1
+Netherlands, GPE, 1
+Twenty-eight, CARDINAL, 1
+Inner Mongolia, LOC, 1
+the fifth day, DATE, 1
+&quot;seriously, ORG, 1
+RT World News Mongolia, ORG, 1
+Russian, NORP, 1
+the Bubonic Plague, ORG, 1
+Sri Lankan, NORP, 1
+Easter, GPE, 1
+Black Death, ORG, 1
+5,200, CARDINAL, 1
+ICE, ORG, 1
+America, GPE, 1
+Measles Confirmed, PERSON, 1
+Rafiq, PERSON, 1
+more than two weeks, DATE, 1
+CDC, ORG, 1
+24-hour, TIME, 1
+Narendra Modi&#39;s, PERSON, 1
+the Ministry of Health, ORG, 1
+Merlene Fredericks James, PERSON, 1
+Ramadan 2020, DATE, 1
+6-year-old, DATE, 1
+Defense Department, ORG, 1
+last week, DATE, 1
+ninth, ORDINAL, 1
+$31 million, MONEY, 1
+the next weekend's, DATE, 1
+nearly seven decades, DATE, 1
+New York City:, GPE, 1
+Queens, GPE, 1
+The Corona Police Department, ORG, 1
+New Zealand, GPE, 1
+Bay area, LOC, 1
+Al Jazeera UN, ORG, 1
+At least 2,300, CARDINAL, 1
+About 2,300, CARDINAL, 1
+Reuters India’s, ORG, 1
+fourth week, DATE, 1
+Julie Hyman, PERSON, 1
+Izzy Gerstenbluth, PERSON, 1
+30 miles, QUANTITY, 1
+ONS - Reuters Britain, ORG, 1
+2 months, DATE, 1
+the Persian Gulf, LOC, 1
+the USS Fort, PRODUCT, 1
+318, CARDINAL, 1
+BEIJING, GPE, 1
+the People&#39;s Republic on Oct, GPE, 1
+About 2,000, CARDINAL, 1
+Fox News, ORG, 1
+NYU Langone Medical Center, ORG, 1
+Netflix, ORG, 1
+Bill, PERSON, 1
+Al Jazeera India’s, ORG, 1
+BJP, ORG, 1
+2016, DATE, 1
+final day, DATE, 1
+the final day, DATE, 1
+a third day, DATE, 1
+Scientolgy, ORG, 1
+Al Jazeera Gunfire, ORG, 1
+Shia Muslim, NORP, 1
+month-old, DATE, 1
+a month, DATE, 1
+Ahmed Khan, PERSON, 1
+Tuesday night, TIME, 1
+August 6, DATE, 1
+Atlantic, LOC, 1
+A century ago, DATE, 1
+up to 100 million people—5 percent, MONEY, 1
+2013, DATE, 1
+North America, LOC, 1
+two-thirds, CARDINAL, 1
+some 200,000, CARDINAL, 1
+The Church of Scientology, ORG, 1
+Juan, GPE, 1
+the United States', GPE, 1
+the California Department of Corrections and Rehabilitation, ORG, 1
+US Air Force, ORG, 1
+DC, GPE, 1
+roughly 30 minutes later, TIME, 1
+nearly two decades, DATE, 1
+the University of Missouri, ORG, 1
+Kansas City, GPE, 1
+Maha Vajiralongkorn's, PERSON, 1
+NBCNEWS, ORG, 1
+57, DATE, 1
+Brookfield, PERSON, 1
+Feb. 22, DATE, 1
+Suzuka, PERSON, 1
+F1, PERSON, 1
+Japan GP, ORG, 1
+Japanese Grand Prix, PERSON, 1
+Typhoon Hagibis, ORG, 1
+Suzuka Circuit, ORG, 1
+The Democratic Party, ORG, 1
+2.0, CARDINAL, 1
+Dozens, CARDINAL, 1
+More than 50,000, CARDINAL, 1
+Man Killed, PERSON, 1
+Cousin, PERSON, 1
+Paola, GPE, 1
+Russell French, PERSON, 1
+Stephanie Link, ORG, 1
+"Closing Bell, WORK_OF_ART, 1
+1969, CARDINAL, 1
+next year, DATE, 1
+Houston, GPE, 1
+Apollo 11, ORG, 1
+Neil Armstrong, PERSON, 1
+1969, DATE, 1
+North American Aerospace Defense Command, ORG, 1
+Pakistan Indian, NORP, 1
+about 7 million, CARDINAL, 1
+an 11th day, DATE, 1
+Corona del, PERSON, 1
+Tempe, GPE, 1
+Lockdown, GPE, 1
+Bloomberg, PERSON, 1
+eighth day, DATE, 1
+the People's Republic of China, GPE, 1
+Communist Party, ORG, 1
+Swedish, NORP, 1
+CME, ORG, 1
+Davis Officer, PERSON, 1
+Mark Hoppus Details, PERSON, 1
+over 4 months, DATE, 1
+fiscal 2019, DATE, 1
+only 2 weeks, DATE, 1
+CBS News, ORG, 1
+Davis Police Department, ORG, 1
+about 6:45 p.m., TIME, 1
+Sacramento, GPE, 1
+Trump-Macron ‘, ORG, 1
+Emmanuel Macron, PERSON, 1
+UK Home Office, ORG, 1
+Priti Patel, PERSON, 1
+Dejuan Robinson, PERSON, 1
+20, DATE, 1
+Los Angeles County, GPE, 1
+three day, DATE, 1
+The Wrong Response, ORG, 1
+Lockdown Drills, PERSON, 1
+TikTok, ORG, 1
+| Reuters Nigeria's, ORG, 1
+Farooq Abdullah’s, PERSON, 1
+Al Jazeera Arrest, ORG, 1
+Grand Palace, FAC, 1
+its seventh month, DATE, 1
+ACLU, ORG, 1
+Family Demands Answers, ORG, 1
+June 14, DATE, 1
+Terminal C. A, ORG, 1
+Hurricane Dorian St. John's, EVENT, 1
+Hurricane Dorian, EVENT, 1
+Dorian, PERSON, 1
+Al Jazeera Srinagar, ORG, 1
+ABC News A, ORG, 1
+Christmas, DATE, 1
+50, CARDINAL, 1
+Pacific, LOC, 1
+the Christmas holiday season, DATE, 1
+50, DATE, 1
+Over 150, CARDINAL, 1
+Al Jazeera Records, ORG, 1
+earlier this month, DATE, 1
+PHOTOS, ORG, 1
+San Roque, GPE, 1
+Spain, GPE, 1
+Shelley Harrison Reed, PERSON, 1
+G - Reuters, ORG, 1
+Huawei, ORG, 1
+Finland, GPE, 1
+Nokia, ORG, 1
+fifth, ORDINAL, 1
+Euronews City, GPE, 1
+Naruhito Takes Throne, ORG, 1
+First New Emperor, ORG, 1
+30 Years, DATE, 1
+Bloomberg, GPE, 1
+Tokyo, GPE, 1
+Empress Masako, PERSON, 1
+Imperial, ORG, 1
+nearly 700, CARDINAL, 1
+Michigan, GPE, 1
+Southeast Asian, NORP, 1
+LITTLETON, GPE, 1
+Colo., GPE, 1
+the People's Republic on Oct, GPE, 1
+Crown Prince Naruhito, PERSON, 1
+Bethpage, ORG, 1
+Tedros Adhanom Ghebreyesus, ORG, 1
+Charlotte Shooting, PERSON, 1
+North Carolina’s, GPE, 1
+Charlotte Campus, PERSON, 1
+Tuesday, April 30, DATE, 1
+Carey, PERSON, 1
+more than an hour, TIME, 1
+New King, WORK_OF_ART, 1
+the First Time, ORG, 1
+›, CARDINAL, 1
+Schiphol Airport, FAC, 1
+22, CARDINAL, 1
+three decades later, DATE, 1
+Koepka, ORG, 1
+PGA Championship, ORG, 1
+Andrew Both FARMINGDALE, PERSON, 1
+N.Y., GPE, 1
+the PGA Championship, EVENT, 1
+an hour, TIME, 1
+Kashmir Police, PERSON, 1
+the last day, DATE, 1
+late Tuesday, TIME, 1
+afternoon, TIME, 1
+Later in the evening, TIME, 1
+seven decades, DATE, 1
+over 2,000, CARDINAL, 1
+At least 1, CARDINAL, 1
+34, CARDINAL, 1
+Coronation of Thailand's, ORG, 1
+| Reuters.com Thailand's, ORG, 1
+May 4, 2019, DATE, 1
+August 15, DATE, 1
+Independence Day, EVENT, 1
+Black Day, EVENT, 1
+Tehreek-e-Insaf, DATE, 1
+Narendra Modi’s, PERSON, 1
+the Bosnian War of the 1990s, EVENT, 1
+Srebrenica, PERSON, 1
+the same day, DATE, 1
+the Associated Press, ORG, 1
+a Black Day, DATE, 1
+Radio Free Europe/Radio Liberty, ORG, 1
+Al Jazeera Intense, ORG, 1
+150,000, CARDINAL, 1
+30, CARDINAL, 1
+seven, CARDINAL, 1
+Streets, ORG, 1
+250, CARDINAL, 1
+Colombo, GPE, 1
+Negombo, PERSON, 1
+At least 250, CARDINAL, 1
+21 million, CARDINAL, 1
+ABC News Passengers, ORG, 1
+Virgin Atlantic, GPE, 1
+Aerobic, NORP, 1
+17 percent, PERCENT, 1
+Xarelto, GPE, 1
+decades, DATE, 1
+David Begnaud, PERSON, 1
+Five years, DATE, 1
+West Africa’s, GPE, 1
+the Los Angeles Police Department, ORG, 1
+Measles Outbreak Scientology, PERSON, 1
+doesn&#39;t, PERSON, 1
+Millions, CARDINAL, 1
+Khan, PERSON, 1
+St., GPE, 1
+the St, FAC, 1
+Measles Outbreak Medical, ORG, 1
+it&#39;s &quot;likely&quot, ORG, 1
+more than one, CARDINAL, 1
+Two hundred thousand, CARDINAL, 1
+South Pacific, LOC, 1
+two day, DATE, 1
+this time of, DATE, 1
+ABC News Medical, ORG, 1
+Delaware, GPE, 1
+Indian High Commission, ORG, 1
+Tuesday, September 3, DATE, 1
+30th day, DATE, 1
+Parliament Square, FAC, 1
+the Indian High Commission, ORG, 1
+the United Nations, ORG, 1
+@anxiouxoul, DATE, 1
+Akihito, PERSON, 1
+12-year-old, DATE, 1
+Jared Polis, PERSON, 1
+St. Lucia Health, ORG, 1
+St. Lucia's, GPE, 1
+fewer than 300, CARDINAL, 1
+the University of North Carolina-Charlotte, ORG, 1
+New Emperor, ORG, 1
+Toyota, ORG, 1
+Century, ORG, 1
+Pensacola, ORG, 1
+Paris Disneyland, ORG, 1
+VIDEOS, ORG, 1
+RT World News Fears, ORG, 1
+the French National Police, ORG, 1
+Tiny Canadian, ORG, 1
+The Royal Canadian Mounted Police, ORG, 1
+Kam McLeod, PERSON, 1
+19, DATE, 1
+Bryer Schmegelsky, PERSON, 1
+18, DATE, 1
+More than 300, CARDINAL, 1
+the University of California and Cal State, ORG, 1
+Article 370:, LAW, 1
+Jammu & Kashmir, ORG, 1
+J&K, ORG, 1
+nine, CARDINAL, 1
+Maduro, PERSON, 1
+RT World News Venezuelan, ORG, 1
+the Security Council, ORG, 1
+Orlando, GPE, 1
+Universal Orlando, ORG, 1
+$54.8 mln, MONEY, 1
+Canopy, ORG, 1
+Aug.26), ORG, 1
+about $54.8 million, MONEY, 1
+current quarter, DATE, 1
+billion-dollar, MONEY, 1
+Canopy Growth, PERSON, 1
+Rene Favaloro, PERSON, 1
+Latin America, LOC, 1
+Al Jazeera Argentine, ORG, 1
+four-year, DATE, 1
+UNGA, ORG, 1
+the previous month, DATE, 1
+Jersey, GPE, 1
+Thai King’s, ORG, 1
+Coors Light, PRODUCT, 1
+Budweiser, GPE, 1
+Heineken, ORG, 1
+Guinness, ORG, 1
+Samuel Adams, PERSON, 1
+Louisiana State University, ORG, 1
+The Louisiana State University’s, ORG, 1
+St George's Day, PERSON, 1
+England, GPE, 1
+Macron, PERSON, 1
+French-American, NORP, 1
+Luxury, ORG, 1
+World, ORG, 1
+World War III, EVENT, 1
+Opens Fire, ORG, 1
+Department of Defense, ORG, 1
+the Joint Base Pearl Harbor-Hickam, FAC, 1
+Honolulu, GPE, 1
+December 4, DATE, 1
+Robert Chadwick, PERSON, 1
+the USS Columbia, PRODUCT, 1
+the USS Missouri, PRODUCT, 1
+The USS Missouri, PRODUCT, 1
+Euronews, ORG, 1
+200, CARDINAL, 1
+California State University, ORG, 1
+CSU, ORG, 1
+over 200, CARDINAL, 1
+May 1, DATE, 1
+ABC News Ebola, ORG, 1
+At least two, CARDINAL, 1
+a long day, DATE, 1
+RT World News Having, ORG, 1
+South American, NORP, 1
+Corpus Christi, GPE, 1
+Bill Newlands, PERSON, 1
+Suthida Vajiralongkorn, PERSON, 1
+Queen Suthida, PERSON, 1
+Lancet, ORG, 1
+nearly 100 days, DATE, 1
+McAllen, GPE, 1
+Midwestern, NORP, 1
+2nd, ORDINAL, 1
+BANGKOK, ORG, 1
+Maharashtra, Modi, ORG, 1
+Ninety-five percent, PERCENT, 1
+Davis Police, ORG, 1
+Tunisian Parliamentarians Sing National Anthem, ORG, 1
+March 18, DATE, 1
+Tunis, NORP, 1
+Bardo Museum, ORG, 1
+At least 19, CARDINAL, 1
+Tunisians, NORP, 1
+Habib Essid, PERSON, 1
+Tunisian, NORP, 1
+Maria Glenna, PERSON, 1
+| Reuters Authorities, ORG, 1
+More than 500, CARDINAL, 1
+Royal Caribbean, ORG, 1
+Al Jazeera Vacant, ORG, 1
+Thailand Officially Welcomes New King, ORG, 1
+month-long, DATE, 1
+A day after, DATE, 1
+OPEC, ORG, 1
+RT USA News Two, ORG, 1
+the Pearl Harbor Naval Shipyard, FAC, 1
+the St. Lucia Ministry of Health, ORG, 1
+the Pan American Health Organization, ORG, 1
+Al Jazeera Clash, ORG, 1
+Baramulla, GPE, 1
+St. Lucia Coast Guard, ORG, 1
+Ramas, PERSON, 1
+10th, ORDINAL, 1
+the Chakri dynasty, DATE, 1
+Southern California, LOC, 1
+the World Health Organization, ORG, 1
+two months, DATE, 1
+A few days later, DATE, 1
+Kashmir&#39;s, PERSON, 1
+Mohammad Saleem, PERSON, 1
+its third week, DATE, 1
+day two, DATE, 1
+Thai PBS, ORG, 1
+PR Thai Government, ORG, 1
+ONS, ORG, 1
+Reuters Britain, ORG, 1
+Curacao A, FAC, 1
+Kashmir Postpaid, PERSON, 1
+Landline, ORG, 1
+last month, DATE, 1
+9th day, DATE, 1
+a ninth day, DATE, 1
+Lille, PERSON, 1
+LOCKDOWN, GPE, 1
+GAS, ORG, 1
+Lille, GPE, 1
+St. John's, GPE, 1
+Six, CARDINAL, 1
+Hundreds of thousands, CARDINAL, 1
+each year, DATE, 1
+Malaysia, GPE, 1
+Kuala Lumpur, GPE, 1
+Gender, ORG, 1
+19th day, DATE, 1
+Swiss, NORP, 1
+Half, CARDINAL, 1
+two years later, DATE, 1
+Constellation Brands', ORG, 1
+one-day, DATE, 1
+Jan. 9, DATE, 1
+12.4%, PERCENT, 1
+New Mexico, GPE, 1
+The Southern New Mexico Correctional Facility, ORG, 1
+December 10, DATE, 1
+Myrtle Avenue, FAC, 1
+Bayview Cemetery, PERSON, 1
+1 pm, TIME, 1
+Steven Fulop, PERSON, 1
+nj.com, ORG, 1
+Fulop, ORG, 1
+4.15 pm, TIME, 1
+2,000, CARDINAL, 1
+REUTERS, ORG, 1
+Christian Mejia, PERSON, 1
+early January, DATE, 1
+Pine Prairie U.S. Immigration and Customs Enforcement (ICE, ORG, 1
+years, DATE, 1
+The Metropolitan Museum of Art, ORG, 1
+New York City, GPE, 1
+1948, DATE, 1
+the Costume Institute's, ORG, 1
+year, DATE, 1
+About Time: Fashion and Duration, WORK_OF_ART, 1
+Met Gala, LOC, 1
+the years, DATE, 1
+Justin Bieber's, PERSON, 1
+Justin Bieber, PERSON, 1
+2009, DATE, 1
+Bieber, ORG, 1
+King Mongkut, PERSON, 1
+1851, DATE, 1
+1868, DATE, 1
+Montpelier, GPE, 1
+Jane Carr, PERSON, 1
+Rohit Kansal, PERSON, 1
+Dart Container, ORG, 1
+RT USA News One, ORG, 1
+Alabama, GPE, 1
+Cal State Los Angeles, ORG, 1
+More than 2,000, CARDINAL, 1
+25-day, DATE, 1
+E.&J. Gallo Winery, ORG, 1
+Suthida, GPE, 1
+Muslim Day Parade, ORG, 1
+nearly 3,000, CARDINAL, 1
+Naval Air Station Corpus Christi, FAC, 1
+early Wednesday, TIME, 1
+almost 69 years, DATE, 1
+Three, CARDINAL, 1
+Curacao - Reuters A Church of Scientology, ORG, 1
+Reuters Social, ORG, 1
+Notre Dame - CNN, FAC, 1
+World War II, EVENT, 1
+Notre Dame's, FAC, 1
+Terminal C.  , ORG, 1
+Jennifer Lopez's, PERSON, 1
+Jennifer Lopez, PERSON, 1
+Lopez, ORG, 1
+Selena, PERSON, 1
+Maid, PERSON, 1
+Manhattan, GPE, 1
+The Wedding Planner, WORK_OF_ART, 1
+Lopez, GPE, 1
+eight, CARDINAL, 1
+$1.7 billion - Reuters Constellation Brands Inc, MONEY, 1
+Run, PERSON, 1
+Lockdown, PERSON, 1
+eight days, DATE, 1
+Halle, GPE, 1
+those hours, TIME, 1
+Yaffa Fogel, PERSON, 1
+Castries, ORG, 1
+11:15pm, DATE, 1
+GMT, ORG, 1
+28, CARDINAL, 1
+ABC News Authorities, ORG, 1
+11, CARDINAL, 1
+Al Jazeera Thousands, ORG, 1
+a month ago, DATE, 1
+Kabul, GPE, 1
+Grenade, PERSON, 1
+3rd month, DATE, 1
+at least 10, CARDINAL, 1
+a third month, DATE, 1
+19%, PERCENT, 1
+nearly a fifth, CARDINAL, 1
+more than a third, CARDINAL, 1
+Shinzo Abe, PERSON, 1
+decades ago, DATE, 1
+Explainer, PERSON, 1
+Images, GPE, 1
+Reuters.com, ORG, 1
+August 2019, DATE, 1
+Amazon, ORG, 1
+Canice Leung, PERSON, 1
+Al Jazeera Modi, ORG, 1
+SWAT, PERSON, 1
+Boca, GPE, 1
+Orange County, GPE, 1
+Nine-year-old, DATE, 1
+nearly 150, CARDINAL, 1
+144, CARDINAL, 1
+nine-year-old, DATE, 1
+early August, DATE, 1
+ITV, ORG, 1
+BritBox, ORG, 1
+6 pounds, MONEY, 1
+Love Island, WORK_OF_ART, 1
+Gentleman Jack, PERSON, 1
+Nearly 80, CARDINAL, 1
+Bear Creek High School&#39;s, ORG, 1
+Stockton, GPE, 1
+Anger, ORG, 1
+one month, DATE, 1
+One month, DATE, 1
+New Delhi’s, GPE, 1
+At least 2, CARDINAL, 1
+Joint Base Pearl Harbor-Hickam, FAC, 1
+King Maja, GPE, 1
+seven km, QUANTITY, 1
+four-mile, QUANTITY, 1
+seven weeks, DATE, 1
+Dec. 12, DATE, 1
+Royal Coronation, ORG, 1
+Royal Coronation Ceremony, ORG, 1
+NORAD, ORG, 1
+D.C., GPE, 1
+Mohammad Sikander, PERSON, 1
+Shafiq Ahmed, PERSON, 1
+about 85 km, QUANTITY, 1
+53 miles, QUANTITY, 1
+HURRIYET DAILY NEWS, ORG, 1
+500, CARDINAL, 1
+a fourth day, DATE, 1
+Vegetarians, NORP, 1
+Modelo, GPE, 1
+last year, DATE, 1
+more than 500, CARDINAL, 1
+the World Health Organization (WHO, ORG, 1
+DAILY MAIL, ORG, 1
+the White House, FAC, 1
+half-hour, TIME, 1
+Capitol Police, ORG, 1
+9:00 a.m., TIME, 1
+- Reuters Nigeria's, ORG, 1
+Israel, GPE, 1
+Gaza, GPE, 1
+Reuters Fund, ORG, 1
+four-month, DATE, 1
+hundreds of millions of pounds, MONEY, 1
+RT USA News More, ORG, 1
+20th, ORDINAL, 1
+Kashmiri, ORG, 1
+400 years ago, DATE, 1
+Ferdinand II, FAC, 1
+Srinaga, GPE, 1
+17-year-old, DATE, 1
+Seminole County Sheriff, ORG, 1
+Dennis Lemma, PERSON, 1
+11th, ORDINAL, 1
+Toshimitsu Motegi, PERSON, 1
+Twitter, PRODUCT, 1
+a second straight day, DATE, 1
+Al Jazeera Muslims, ORG, 1
+non-Muslim, NORP, 1
+December 5, DATE, 1
+SOUNDBITE, ORG, 1
+English, LANGUAGE, 1
+ROBERT CHADWICK, PERSON, 1
+USS Columbia, PERSON, 1
+SSN, ORG, 1
+771, PRODUCT, 1
+the Department of Defense, ORG, 1
+two hours, TIME, 1
+1941, DATE, 1
+World War Two, EVENT, 1
+Australia, GPE, 1
+Reuters Australia's, ORG, 1
+Northern California ', LOC, 1
+DAVIS, ORG, 1
+a few months ago, DATE, 1
+Barbados, ORG, 1
+Gatwick airport, FAC, 1
+Gatwick Airport, FAC, 1
+The Scientology Cruise Ship Quarantined for Measles Has Set Sail, WORK_OF_ART, 1
+Curaçao, ORG, 1
+Isil, PERSON, 1
+Abu Ibrahim al-Hashemi al-Qurayshi, PERSON, 1
+Abu Bakr al-Baghdadi, PERSON, 1
+al-Nuri, ORG, 1
+Mosul, GPE, 1
+jihadist, NORP, 1
+Syria, GPE, 1
+Indian Kashmir Some Kashmir, LOC, 1
+two-weeks, DATE, 1
+190, CARDINAL, 1
+half, CARDINAL, 1
+Video] &#39;I WANTED TO BE, ORG, 1
+EU, ORG, 1
+European Parliament, ORG, 1

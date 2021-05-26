@@ -1,0 +1,54 @@
+entity, label, count
+France, GPE, 11
+24, CARDINAL, 7
+second, ORDINAL, 5
+DRC, ORG, 3
+Europe, LOC, 3
+Chinese, NORP, 2
+French, NORP, 2
+Philippines, GPE, 2
+tonight, TIME, 2
+thousands, CARDINAL, 2
+first, ORDINAL, 2
+Egypt, GPE, 2
+China, GPE, 2
+80, CARDINAL, 2
+Pakistan, GPE, 2
+Sweden, GPE, 2
+Louis Pasteur's, PERSON, 1
+MSF, ORG, 1
+Monday, DATE, 1
+the World Health Organization, ORG, 1
+the Democratic Republic of Congo, GPE, 1
+more than 2,100, CARDINAL, 1
+Africa, LOC, 1
+one, CARDINAL, 1
+Wednesday, DATE, 1
+Second, ORDINAL, 1
+Ebola - Eye on Africa, ORG, 1
+Tunisi, GPE, 1
+Madagascar, GPE, 1
+around 1,000, CARDINAL, 1
+last September, DATE, 1
+France - Focus Vaccines, ORG, 1
+billions, CARDINAL, 1
+Chlamydia, ORG, 1
+Algeria, GPE, 1
+Observers, ORG, 1
+The World Health Organization, ORG, 1
+nearly 90,000, CARDINAL, 1
+the first half, DATE, 1
+C. Back, PERSON, 1
+the 1960s, DATE, 1
+US Congress - France, ORG, 1
+US, GPE, 1
+Friday, DATE, 1
+Talking Europe, WORK_OF_ART, 1
+March 1, DATE, 1
+European, NORP, 1
+the last couple of weeks, DATE, 1
+American, NORP, 1
+DR Congo, ORG, 1
+Democratic Republic of Congo, GPE, 1
+Saturday, DATE, 1
+Johnson & Johnson, ORG, 1

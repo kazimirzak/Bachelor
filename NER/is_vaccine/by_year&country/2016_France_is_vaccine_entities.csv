@@ -1,0 +1,27 @@
+entity, label, count
+South Africa, GPE, 5
+Africa, LOC, 2
+tonight, TIME, 2
+Rwanda, GPE, 2
+1994, DATE, 2
+Wednesday, DATE, 2
+First, ORDINAL, 1
+South Africa - Eye, GPE, 1
+first, ORDINAL, 1
+France, GPE, 1
+Gambia, GPE, 1
+thousands, CARDINAL, 1
+West Africa, GPE, 1
+’ Zika, WORK_OF_ART, 1
+European, NORP, 1
+Thursday, DATE, 1
+Zika, PERSON, 1
+week, DATE, 1
+French, NORP, 1
+Camer, GPE, 1
+last month’s, DATE, 1
+Nigeria, GPE, 1
+Pakistan, GPE, 1
+At least 15, CARDINAL, 1
+Pakistani, NORP, 1
+Quetta, GPE, 1

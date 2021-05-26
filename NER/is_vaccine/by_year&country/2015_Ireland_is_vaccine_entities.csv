@@ -1,0 +1,35 @@
+entity, label, count
+HPV, ORG, 14
+2013, DATE, 2
+European, NORP, 2
+one, CARDINAL, 2
+Bill Gates, PERSON, 2
+Fiona Kirby, PERSON, 1
+Gardasil, PERSON, 1
+131, CARDINAL, 1
+"more than 11,000", CARDINAL, 1
+100pc, ORDINAL, 1
+130, CARDINAL, 1
+Irish, NORP, 1
+Gardasil, GPE, 1
+18, CARDINAL, 1
+Eighteen, CARDINAL, 1
+TB, ORG, 1
+thousands, CARDINAL, 1
+Ireland The Department of Health, ORG, 1
+this year, DATE, 1
+60pc, ORDINAL, 1
+this winter, DATE, 1
+Abbey Colohan, PERSON, 1
+The National Immunisation Programme, ORG, 1
+Universal, PERSON, 1
+HSE, ORG, 1
+’s, GPE, 1
+Europe, LOC, 1
+the European Commission, ORG, 1
+West Africa, GPE, 1
+Sierra Leone Trials, ORG, 1
+Sierra Leone, ORG, 1
+Success, ORG, 1
+EU, ORG, 1
+European Medicines Agency, ORG, 1

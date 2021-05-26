@@ -1,0 +1,967 @@
+,entity,label,occurrences
+0,France,GPE,307
+1,US,GPE,188
+2,24,CARDINAL,162
+3,first,ORDINAL,125
+4,EU,ORG,117
+5,AstraZeneca,ORG,87
+6,French,NORP,73
+7,China,GPE,70
+8,UK,GPE,66
+9,Pfizer,PERSON,46
+10,Europe,LOC,44
+11,Russia,GPE,43
+12,Tuesday,DATE,42
+13,Friday,DATE,42
+14,Monday,DATE,40
+15,India,GPE,38
+16,Brazil,GPE,36
+17,Wednesday,DATE,35
+18,Thursday,DATE,35
+19,second,ORDINAL,33
+20,Israel,GPE,31
+21,Britain,GPE,30
+22,Vaccine,PERSON,29
+23,Chinese,NORP,28
+24,two,CARDINAL,27
+25,Biden,PERSON,25
+26,Moderna,GPE,25
+27,Africa,LOC,25
+28,Saturday,DATE,22
+29,South Africa,GPE,22
+30,Germany,GPE,21
+31,Sunday,DATE,21
+32,Italy,GPE,19
+33,UN,ORG,19
+34,U.S.,GPE,18
+35,Russian,NORP,17
+36,Covid,NORP,16
+37,one,CARDINAL,16
+38,COVID-19,PRODUCT,15
+39,2021,DATE,15
+40,FRANCE,GPE,15
+41,European,NORP,15
+42,Oxford,ORG,15
+43,German,NORP,14
+44,Japan,GPE,13
+45,Joe Biden,PERSON,13
+46,COVID-19,PERSON,13
+47,Moderna,PERSON,13
+48,Paris,GPE,13
+49,British,NORP,12
+50,Philippines,GPE,12
+51,Israeli,NORP,12
+52,Canada,GPE,12
+53,Sputnik,ORG,11
+54,the European Union,ORG,11
+55,this week,DATE,11
+56,The European Union,ORG,11
+57,¦,PERSON,11
+58,Johnson & Johnson,ORG,11
+59,Australia,GPE,11
+60,Mexico,GPE,10
+61,Americans,NORP,10
+62,Iran,GPE,10
+63,third,ORDINAL,9
+64,thousands,CARDINAL,9
+65,European Union,ORG,9
+66,tonight,TIME,9
+67,Oxford University,ORG,9
+68,WHO,ORG,9
+69,Covid,PERSON,8
+70,Sinopharm,ORG,8
+71,Palestinians,NORP,8
+72,The United States,GPE,8
+73,millions,CARDINAL,8
+74,Spain,GPE,8
+75,100 million,CARDINAL,8
+76,Emmanuel Macron,PERSON,8
+77,Argentina,GPE,8
+78,First,ORDINAL,8
+79,days,DATE,8
+80,Hungary,GPE,8
+81,Olympics,EVENT,8
+82,Chile,GPE,7
+83,Texas,GPE,7
+84,Macron,PERSON,7
+85,24,MONEY,7
+86,Covid vaccine,PERSON,7
+87,American,NORP,7
+88,Pakistan,GPE,7
+89,the World Health Organization,ORG,6
+90,95%,PERCENT,6
+91,the United States,GPE,6
+92,Trump,ORG,6
+93,Pfizer-BioNTech,PERSON,6
+94,G20,ORG,6
+95,CDC,ORG,6
+96,100,CARDINAL,6
+97,The World Health Organization,ORG,6
+98,Peru,GPE,6
+99,Indonesia,GPE,6
+100,BioNTech,GPE,6
+101,Tokyo,GPE,6
+102,Gaza,GPE,6
+103,Donald Trump,PERSON,6
+104,79%,PERCENT,5
+105,Palestinian,NORP,5
+106,Denmark,GPE,5
+107,New York,GPE,5
+108,Latin American,NORP,5
+109,South Korea,GPE,5
+110,Breaking News Alerts,WORK_OF_ART,5
+111,2 million,CARDINAL,5
+112,Algeria,GPE,5
+113,Jean Castex,PERSON,5
+114,daily,DATE,5
+115,months,DATE,5
+116,2020,DATE,5
+117,Putin,PERSON,5
+118,Australian,NORP,5
+119,Serbia,GPE,5
+120,African Americans,NORP,5
+121,J&J,ORG,5
+122,one million,CARDINAL,5
+123,100%,PERCENT,5
+124,Sweden,GPE,5
+125,AstraZeneca-Oxford,ORG,4
+126,Hong Kong,GPE,4
+127,20 million,CARDINAL,4
+128,NBA,ORG,4
+129,Singapore,GPE,4
+130,Berlin,GPE,4
+131,90%,PERCENT,4
+132,early next year,DATE,4
+133,Thailand,GPE,4
+134,March,DATE,4
+135,The European Commission,ORG,4
+136,Ursula von,PERSON,4
+137,Leyen,GPE,4
+138,Sputnik,PERSON,4
+139,April,DATE,4
+140,Covid vaccines,PERSON,4
+141,three,CARDINAL,4
+142,S. Africa,GPE,4
+143,Pentagon,ORG,4
+144,decades,DATE,4
+145,Iraq,GPE,4
+146,Trump,PERSON,4
+147,Ethiopia,GPE,4
+148,15,CARDINAL,4
+149,fourth,ORDINAL,4
+150,New York's,GPE,4
+151,England,GPE,4
+152,Covid-hit,PERSON,4
+153,Papua New Guinea,GPE,4
+154,Vietnam,GPE,4
+155,IOC,ORG,4
+156,Correspondence,WORK_OF_ART,4
+157,Netherlands,GPE,3
+158,four,CARDINAL,3
+159,GSK,ORG,3
+160,20,CARDINAL,3
+161,one year,DATE,3
+162,This week,DATE,3
+163,the European Medicines Agency,ORG,3
+164,FRANCE 24,ORG,3
+165,next year,DATE,3
+166,90 percent,PERCENT,3
+167,One,CARDINAL,3
+168,Brazilian,NORP,3
+169,DRC,ORG,3
+170,early 2021,DATE,3
+171,winter,DATE,3
+172,80%,PERCENT,3
+173,the European Union's,ORG,3
+174,Costa Rica,GPE,3
+175,next month,DATE,3
+176,African,NORP,3
+177,Rwanda,GPE,3
+178,Kremlin,ORG,3
+179,DR Congo,ORG,3
+180,sixth,ORDINAL,3
+181,this year,DATE,3
+182,America,GPE,3
+183,billions,CARDINAL,3
+184,Johnson,PERSON,3
+185,Boris Johnson,PERSON,3
+186,Spanish,NORP,3
+187,the European Commission,ORG,3
+188,just days,DATE,3
+189,24 Germany,PERCENT,3
+190,Macron,GPE,3
+191,billion,CARDINAL,3
+192,Fauci,PERSON,3
+193,West,LOC,3
+194,Yemen,GPE,3
+195,three months,DATE,3
+196,the U.S. Food and Drug Administration,ORG,3
+197,Saudi,NORP,3
+198,Christmas,DATE,3
+199,Latin America,LOC,3
+200,Johnson & Johnson's,ORG,3
+201,next week,DATE,3
+202,Lebanon,GPE,3
+203,Middle East,LOC,3
+204,Republicans,NORP,3
+205,Italian,NORP,3
+206,Covid - France,ORG,3
+207,million,CARDINAL,3
+208,Egypt,GPE,3
+209,Pasteur Institute,ORG,3
+210,Israelis,NORP,3
+211,24,DATE,3
+212,Pope,PERSON,3
+213,EU,GPE,3
+214,AstraZeneca,LAW,3
+215,Pfizer Inc,PERSON,3
+216,Brexit,PERSON,3
+217,Thousands,CARDINAL,3
+218,Fauci,ORG,3
+219,January,DATE,3
+220,November,DATE,3
+221,South Korea's,GPE,2
+222,South Korean,NORP,2
+223,Record,GPE,2
+224,Latin America's,LOC,2
+225,the end of 2021,DATE,2
+226,five,CARDINAL,2
+227,Kuwait,GPE,2
+228,Gulf,LOC,2
+229,27,CARDINAL,2
+230,Millions,CARDINAL,2
+231,40 million,CARDINAL,2
+232,3,CARDINAL,2
+233,"5,000",CARDINAL,2
+234,EMA,ORG,2
+235,2022,DATE,2
+236,late April,DATE,2
+237,more than one million,CARDINAL,2
+238,AstraZeneca’s,ORG,2
+239,Amazon,ORG,2
+240,Health,ORG,2
+241,8,CARDINAL,2
+242,summer,DATE,2
+243,year,DATE,2
+244,BioNTech,ORG,2
+245,Angela Merkel,PERSON,2
+246,Paul McCartney,PERSON,2
+247,1,CARDINAL,2
+248,year end,DATE,2
+249,two million,CARDINAL,2
+250,Benjamin Netanyahu,PERSON,2
+251,30 million,CARDINAL,2
+252,World,ORG,2
+253,the end of the year,DATE,2
+254,March 1,DATE,2
+255,Christmas eve,DATE,2
+256,1994,DATE,2
+257,the West Bank,GPE,2
+258,Frankfurt,GPE,2
+259,Murray,ORG,2
+260,Oman,GPE,2
+261,Asia,LOC,2
+262,86%,PERCENT,2
+263,Pelicans,NORP,2
+264,Moscow,GPE,2
+265,PM Castex,PERSON,2
+266,weeks,DATE,2
+267,OECD,ORG,2
+268,Ukrainians,NORP,2
+269,Louis Pasteur,PERSON,2
+270,Saudi Arabia,GPE,2
+271,NYC,LOC,2
+272,Nigeria,GPE,2
+273,CoronaVac,ORG,2
+274,Scotland,GPE,2
+275,Western,NORP,2
+276,Dutch,NORP,2
+277,Yankee Stadium,FAC,2
+278,Bronx,GPE,2
+279,"250,000 as billions",MONEY,2
+280,2 months,DATE,2
+281,92%,PERCENT,2
+282,Americas,LOC,2
+283,European Commission,ORG,2
+284,half a million,CARDINAL,2
+285,Observers,ORG,2
+286,Easter,ORG,2
+287,Almost a million,CARDINAL,2
+288,Macron,ORG,2
+289,78%,PERCENT,2
+290,February 11,DATE,2
+291,Ghana,GPE,2
+292,Fed,ORG,2
+293,Powell,PERSON,2
+294,one day,DATE,2
+295,Charles Michel,PERSON,2
+296,Indo-Pacific,ORG,2
+297,half a billion,MONEY,2
+298,Guantanamo,FAC,2
+299,South African,NORP,2
+300,The World Health Organization (WHO,ORG,2
+301,300 million,CARDINAL,2
+302,Ho,PERSON,2
+303,Santa,GPE,2
+304,Katalin Kariko,PERSON,2
+305,Hungarian,NORP,2
+306,Myanmar,GPE,2
+307,Bolsonaro,PERSON,2
+308,$5.6 million,MONEY,2
+309,Khashoggi,GPE,2
+310,12,MONEY,2
+311,Rio,ORG,2
+312,"100,000",CARDINAL,2
+313,"over 1,000",CARDINAL,2
+314,Vaccine,ORG,2
+315,South America,LOC,2
+316,Albania,GPE,2
+317,North Korea,GPE,2
+318,500 million,CARDINAL,2
+319,Brussels,GPE,2
+320,18,CARDINAL,2
+321,Dubai,GPE,2
+322,S.Africa,GPE,2
+323,AstraZeneca Covid,ORG,2
+324,Vladimir Putin,PERSON,2
+325,Jordan,PERSON,2
+326,"200,000",CARDINAL,2
+327,Netanyahu,PERSON,2
+328,The European Medicines Agency,ORG,2
+329,Francis,PERSON,2
+330,2.5,CARDINAL,2
+331,Bahrain,NORP,2
+332,Benedict,PERSON,2
+333,Elizabeth,PERSON,2
+334,Philip,PERSON,2
+335,Five,CARDINAL,2
+336,six,CARDINAL,2
+337,G7,GPE,2
+338,Bill Gates,PERSON,2
+339,Kyodo,ORG,2
+340,Social,NORP,2
+341,Maia Sandu,PERSON,2
+342,three-week,DATE,2
+343,year-end,DATE,2
+344,70 percent,PERCENT,2
+345,Governors Ball,FAC,2
+346,Valneva,PERSON,2
+347,Florida,GPE,2
+348,60,CARDINAL,2
+349,Australians,NORP,2
+350,TB,ORG,2
+351,"20,000",CARDINAL,2
+352,$1.9 trillion,MONEY,2
+353,Wuhan,GPE,2
+354,Cambodia,GPE,2
+355,Congress,ORG,2
+356,65,DATE,2
+357,70 million,CARDINAL,2
+358,August,DATE,2
+359,FDA,ORG,2
+360,Johnson &,ORG,2
+361,$1.6 billion,MONEY,2
+362,two years,DATE,2
+363,Madagascan,NORP,2
+364,Covid,GPE,2
+365,DR Congo,FAC,2
+366,S. Africa,PERSON,2
+367,$1.95 billion,MONEY,2
+368,91.6%,PERCENT,2
+369,Lancet,ORG,2
+370,15 million,CARDINAL,2
+371,NFL,ORG,2
+372,millionth,DATE,2
+373,New Zealand,GPE,2
+374,Cuban,NORP,2
+375,Bangladesh,GPE,2
+376,Munich,GPE,2
+377,Kamala Harris,PERSON,2
+378,'weeks,DATE,2
+379,80 percent,PERCENT,2
+380,Houston,GPE,2
+381,IBM,ORG,2
+382,1 million,CARDINAL,2
+383,February,DATE,2
+384,Lego,PERSON,2
+385,Mars,LOC,2
+386,Explainer,PERSON,2
+387,Coronavirus,ORG,2
+388,Los Angeles,GPE,2
+389,Macau,GPE,2
+390,12-15 year,DATE,2
+391,Cuba,GPE,2
+392,GSK Covid,ORG,2
+393,Rouhani,ORG,2
+394,65 million,CARDINAL,2
+395,3 million,CARDINAL,2
+396,TikTok,ORG,2
+397,More than 60,CARDINAL,2
+398,the United Kingdom,GPE,2
+399,200 million,CARDINAL,2
+400,G7,ORG,2
+401,Kenya,GPE,2
+402,2nd quarter of 2021,DATE,2
+403,1.5 million,CARDINAL,2
+404,at least 3 months,DATE,2
+405,Senegal,GPE,2
+406,"3,000",CARDINAL,2
+407,Bahraini,NORP,2
+408,Covid vaccine - France,PERSON,2
+409,101-year-old,DATE,2
+410,Pence,PERSON,2
+411,80,CARDINAL,2
+412,tens of millions,MONEY,2
+413,PNG,ORG,2
+414,Trudeau,PERSON,2
+415,90-year old,DATE,2
+416,Nigerian,NORP,2
+417,One-third,CARDINAL,2
+418,up to 160 million,CARDINAL,2
+419,More than a dozen,CARDINAL,2
+420,California,GPE,2
+421,Moon Jae-,PERSON,1
+422,Europe’s,ORG,1
+423,Inclusive Vaccines Alliance,ORG,1
+424,up to 400 million,MONEY,1
+425,Serum Institute - France,ORG,1
+426,Serum Institute,ORG,1
+427,Sanofi,FAC,1
+428,Parisians,NORP,1
+429,Asian,NORP,1
+430,Moderna Inc.,ORG,1
+431,Mariya Gabriel - Talking Europe,ORG,1
+432,Mariya Gabriel,PERSON,1
+433,Croatian PM - Talking Europe,WORK_OF_ART,1
+434,"more than 571,000",CARDINAL,1
+435,Some 45 million,CARDINAL,1
+436,Serawit Bruck-Landais,ORG,1
+437,1 billion,CARDINAL,1
+438,Moderna Inc's,PERSON,1
+439,9 million,CARDINAL,1
+440,EU AstraZeneca,ORG,1
+441,nine million,CARDINAL,1
+442,the first quarter of this year,DATE,1
+443,300 million India,MONEY,1
+444,Digital Green Certificate - Tech 24,ORG,1
+445,Digital Green Pass,ORG,1
+446,Benny Gantz,PERSON,1
+447,Emer Cooke,PERSON,1
+448,the Harvard School of Public Health,ORG,1
+449,Vaccination,ORG,1
+450,A full 20 percent,PERCENT,1
+451,50%,PERCENT,1
+452,almost half,CARDINAL,1
+453,the end of May,DATE,1
+454,recent days,DATE,1
+455,Ireland ,GPE,1
+456,WW2 - Business daily Canada,ORG,1
+457,covid-19 -,ORG,1
+458,Covid 19,EVENT,1
+459,November 9th,DATE,1
+460,MSF,ORG,1
+461,the Democratic Republic of Congo,GPE,1
+462,"more than 2,100",CARDINAL,1
+463,US A,ORG,1
+464,United States,GPE,1
+465,the East Coast,LOC,1
+466,560,CARDINAL,1
+467,73,CARDINAL,1
+468,563,CARDINAL,1
+469,mid-December,DATE,1
+470,early December,DATE,1
+471,Pfizer ,PERSON,1
+472,Anh Wartel,PERSON,1
+473,the International Vaccine Institute,ORG,1
+474,Seoul,GPE,1
+475,European Medicines Agency,ORG,1
+476,Some 50,CARDINAL,1
+477,Gender,ORG,1
+478,The 51%,PERCENT,1
+479,Vaccine - France,ORG,1
+480,Pas-de-Calais Hundreds of thousands,ORG,1
+481,24-hour,TIME,1
+482,their worst day,DATE,1
+483,the end of January,DATE,1
+484,at least 10 million,CARDINAL,1
+485,mid-April,DATE,1
+486,mid-May,DATE,1
+487,the summer,DATE,1
+488,the United States,GPE,1
+489,G20,PERSON,1
+490,Antonio Guterres,PERSON,1
+491,Drugmakers Sanofi,PERSON,1
+492,GlaxoSmithKline,PERSON,1
+493,late next year,DATE,1
+494,As more than 600,CARDINAL,1
+495,Gibraltar,GPE,1
+496,December 2020,DATE,1
+497,the vaccâ€¦,PRODUCT,1
+498,Talking Europe,WORK_OF_ART,1
+499,the last couple of weeks,DATE,1
+500,"Tuesday, March 16",DATE,1
+501,Libération,LOC,1
+502,South Africa - Eye,GPE,1
+503,Gambia,GPE,1
+504,Second,ORDINAL,1
+505,Ebola - Eye on Africa,ORG,1
+506,Tunisi,GPE,1
+507,The Palestinian Health Ministry,ORG,1
+508,July,DATE,1
+509,Democratic Republic of Congo,GPE,1
+510,UK The European Union,ORG,1
+511,Russians,NORP,1
+512,Thirty-seven,CARDINAL,1
+513,Slaoui,LOC,1
+514,World War II,EVENT,1
+515,zero,CARDINAL,1
+516,Earth,LOC,1
+517,Noubar Ayefan,ORG,1
+518,94.5%,PERCENT,1
+519,The International Monetary Fund,ORG,1
+520,Petya Koeve Brooks,PERSON,1
+521,Stra,PRODUCT,1
+522,Commission,ORG,1
+523,France - Focus Vaccines,ORG,1
+524,morning,TIME,1
+525,"300,000",CARDINAL,1
+526,Africa Millions,ORG,1
+527,DR Congo,GPE,1
+528,Angola,GPE,1
+529,Scottish,NORP,1
+530,the World Health Organisation’s,ORG,1
+531,London,GPE,1
+532,the Loire Valley,LOC,1
+533,over 65s,DATE,1
+534,Covid variants,PERSON,1
+535,the age of 65,DATE,1
+536,24 Putin,TIME,1
+537,24 Airlines,ORG,1
+538,New York City's,GPE,1
+539,Jessica L,PRODUCT,1
+540,FRANCE 24 ',ORG,1
+541,Ursula von der Leyen,ORG,1
+542,May 4,DATE,1
+543,€7.5 bil,MONEY,1
+544,"Wednesday, April 22",DATE,1
+545,Earth Day's,EVENT,1
+546,50th,ORDINAL,1
+547,tomorrow,DATE,1
+548,the Food and Drug Administration,ORG,1
+549,4 million,CARDINAL,1
+550,an additional four million,CARDINAL,1
+551,Africa Follow,LOC,1
+552,Michael Hewson,PERSON,1
+553,CM,ORG,1
+554,Britney Spears,ORG,1
+555,#FreeBritney,MONEY,1
+556,"Friday, July 17",DATE,1
+557,Hundreds,CARDINAL,1
+558,Almost 500,CARDINAL,1
+559,Peruvian,NORP,1
+560,"80,000",CARDINAL,1
+561,mid-February,DATE,1
+562,autumn,DATE,1
+563,some 2 million,CARDINAL,1
+564,between April and June next year,DATE,1
+565,the Élysée Palace,FAC,1
+566,Early 2021,DATE,1
+567,the United Nations,ORG,1
+568,"600,000",CARDINAL,1
+569,Iranian,NORP,1
+570,Hassan Rouhani,PERSON,1
+571,’ European Council,ORG,1
+572,Faster,GPE,1
+573,"Some 400,000",CARDINAL,1
+574,ten,CARDINAL,1
+575,76 percent,PERCENT,1
+576,the end of 2022,DATE,1
+577,Biden - France,ORG,1
+578,50,DATE,1
+579,Olivier Véran,PERSON,1
+580,"nearly 2,000",CARDINAL,1
+581,J&J’s,ORG,1
+582,the World Health Organisation,ORG,1
+583,Madagascar,GPE,1
+584,"around 1,000",CARDINAL,1
+585,last September,DATE,1
+586,French,LANGUAGE,1
+587,Pfizer’s,ORG,1
+588,15.02.2021,CARDINAL,1
+589,more than 1.7 million,CARDINAL,1
+590,The International Airline Transport Association,ORG,1
+591,290,CARDINAL,1
+592,World Bank,ORG,1
+593,24 World Bank,ORG,1
+594,Covid vaccine - Business,PERSON,1
+595,European Council,ORG,1
+596,"Tuesday, November 10, 2020: Papers",DATE,1
+597,Donald Trump ,PERSON,1
+598,Republican,NORP,1
+599,Mediterranean,LOC,1
+600,Marseille,GPE,1
+601,Von der Leyen,ORG,1
+602,the end of next month,DATE,1
+603,EU Commission,ORG,1
+604,Poorer,GPE,1
+605,€7.4 billion,MONEY,1
+606,$8.1 billion,MONEY,1
+607,the Suez Canal,LOC,1
+608,more than 150,CARDINAL,1
+609,Stewart Cole,PERSON,1
+610,the Pasteur Institute,ORG,1
+611,Politicans,NORP,1
+612,Supreme Court,ORG,1
+613,South American,NORP,1
+614,"More than 1,000",CARDINAL,1
+615,late Friday,DATE,1
+616,Moderna Inc's,ORG,1
+617,EUA,ORG,1
+618,45-60,DATE,1
+619,Africa The World Health Organization,WORK_OF_ART,1
+620,Sputnik - France,ORG,1
+621,Talking Europe,LOC,1
+622,Merkel,PERSON,1
+623,The year 2020,DATE,1
+624,Margaret Keenan,PERSON,1
+625,90-year-old,DATE,1
+626,Stade,NORP,1
+627,Europe Johnson & Johnson,ORG,1
+628,April 19,DATE,1
+629,Astrazeneca,WORK_OF_ART,1
+630,Trojan,GPE,1
+631,18.03.2021,CARDINAL,1
+632,Shanghai Fosun Pharmaceutical,ORG,1
+633,today,DATE,1
+634,5.8 percent,PERCENT,1
+635,the pandemicâ€¦,LOC,1
+636,the World Bank,ORG,1
+637,less than two months,DATE,1
+638,More than four,CARDINAL,1
+639,10,CARDINAL,1
+640,Andrés Manuel López,PERSON,1
+641,Obrador,PERSON,1
+642,Austria,GPE,1
+643,U.K.,GPE,1
+644,two days,DATE,1
+645,The Pasteur Institute's,ORG,1
+646,24 Netanyahu,PERSON,1
+647,half,CARDINAL,1
+648,"Tuesday, February 9, 2021:",DATE,1
+649,Donald Trump's,PERSON,1
+650,the US Senate,ORG,1
+651,Biden,ORG,1
+652,first 100 days,DATE,1
+653,only two,CARDINAL,1
+654,Rome,GPE,1
+655,the end of summer,DATE,1
+656,Sarkozy,PERSON,1
+657,Meghan Markle,PERSON,1
+658,Anthony Fauci - The,PERSON,1
+659,$9 trillion,MONEY,1
+660,the International Chamber of Commerce,ORG,1
+661,Covi,ORG,1
+662,nearly 95%,PERCENT,1
+663,almost 95 percent,PERCENT,1
+664,Agnès Pannier-Runacher,PERSON,1
+665,Sanofi,WORK_OF_ART,1
+666,Sanofi,ORG,1
+667,July 27,DATE,1
+668,Vatican,GPE,1
+669,Pope Francis,PERSON,1
+670,Vatican,FAC,1
+671,last month’s,DATE,1
+672,Buckingham Palace,FAC,1
+673,75,CARDINAL,1
+674,75,DATE,1
+675,Students,ORG,1
+676,MetooIncest,ORG,1
+677,earlier this week,DATE,1
+678,DTP,ORG,1
+679,5%,PERCENT,1
+680,2032,DATE,1
+681,22.01.2021,DATE,1
+682,South Africa's,GPE,1
+683,Cyril Ramaphosa ,PERSON,1
+684,only 2.4%,PERCENT,1
+685,193,CARDINAL,1
+686,General Assembly,ORG,1
+687,the age of 70,DATE,1
+688,Hamas,ORG,1
+689,Gaza Hamas,PERSON,1
+690,"some 2,000",CARDINAL,1
+691,David Hockney,PERSON,1
+692,Normandy,GPE,1
+693,Union Day,EVENT,1
+694,hundreds of thousands,CARDINAL,1
+695,a month,DATE,1
+696,three or four weeks,DATE,1
+697,24 Australian PM,TIME,1
+698,Moldova,ORG,1
+699,pro-EU,GPE,1
+700,Moldova,GPE,1
+701,"24, three months",DATE,1
+702,pro-Russian,NORP,1
+703,Yemeni,NORP,1
+704,the New Year,EVENT,1
+705,the White House,ORG,1
+706,UAE,GPE,1
+707,Mahmud Abbas,PERSON,1
+708,Zambia,GPE,1
+709,Africa Zambia,GPE,1
+710,PM - France,ORG,1
+711,Friend,ORG,1
+712,Health Minist,ORG,1
+713,Merck,ORG,1
+714,Democrat,NORP,1
+715,Bloomberg,GPE,1
+716,Washington,GPE,1
+717,$1 billion,MONEY,1
+718,$2.5 billion,MONEY,1
+719,November 13th 2015,DATE,1
+720,130,CARDINAL,1
+721,This Friday 13th,DATE,1
+722,12 months,DATE,1
+723,under 65,DATE,1
+724,the end of August,DATE,1
+725,The European Union's,ORG,1
+726,the age of 18,DATE,1
+727,the US Federal Reserve,ORG,1
+728,Ghana - Eye on Africa,ORG,1
+729,Ghana,PERSON,1
+730,Covid 19,LAW,1
+731,the World Health Organisation’s,ORG,1
+732,US Food and Drug Administration,ORG,1
+733,The U.S. Food and Drug Administration,ORG,1
+734,Pfizer Inc’s,ORG,1
+735,the United St,GPE,1
+736,70,CARDINAL,1
+737,"Monday, March 22, 2021: Papers",DATE,1
+738,Covid vaccines - France,PERSON,1
+739,Covid-negative,PERSON,1
+740,as much as 300,MONEY,1
+741,The past week,DATE,1
+742,Oxford AstraZeneca,ORG,1
+743,"23,000",CARDINAL,1
+744,78-year-old,DATE,1
+745,Francis ,PERSON,1
+746,Black Americans,NORP,1
+747,just 13 percent,PERCENT,1
+748,"nearly 90,000",CARDINAL,1
+749,the first half,DATE,1
+750,Mbandaka,GPE,1
+751,1.2 million,CARDINAL,1
+752,Bolsonaro,ORG,1
+753,28.01.2021,CARDINAL,1
+754,Vendée Globe,ORG,1
+755,Bernie Sanders',ORG,1
+756,July 4,DATE,1
+757,One year,DATE,1
+758,night,TIME,1
+759,Telegraph,PERSON,1
+760,afternoon,TIME,1
+761,C. Back,PERSON,1
+762,the 1960s,DATE,1
+763,deliver 100 million,CARDINAL,1
+764,West Africa - Eye,GPE,1
+765,one-third,CARDINAL,1
+766,1.3 billion,CARDINAL,1
+767,Israel Prison Service,ORG,1
+768,24 Israel Prison Service,PERCENT,1
+769,the Norwegian Institute of Public Health,ORG,1
+770,20 years,DATE,1
+771,More than 50,CARDINAL,1
+772,two decades,DATE,1
+773,At least 15,CARDINAL,1
+774,Pakistani,NORP,1
+775,Quetta,GPE,1
+776,East Coast,LOC,1
+777,the United States',GPE,1
+778,New York City,GPE,1
+779,a third,CARDINAL,1
+780,a day earlier,DATE,1
+781,Johnson & Johnson’s Janssen,ORG,1
+782,up to,CARDINAL,1
+783,16 million,CARDINAL,1
+784,Jacinda Ardern,PERSON,1
+785,Phase III,ORG,1
+786,Argentinians,NORP,1
+787,Jewish,NORP,1
+788,THE PRESS – ,WORK_OF_ART,1
+789,"Monday, January 4, 2021:",DATE,1
+790,the Washington Post,ORG,1
+791,Georgia,GPE,1
+792,"11,780",CARDINAL,1
+793,Facebook and Twitter,WORK_OF_ART,1
+794,West Africa,GPE,1
+795,Chlamydia,ORG,1
+796,Petrobras,PERSON,1
+797,Joe Biden's,PERSON,1
+798,Riyadh,GPE,1
+799,MBS,ORG,1
+800,2018,DATE,1
+801,Johnson ,PERSON,1
+802,two months,DATE,1
+803,the end of May.,DATE,1
+804,Americ,ORG,1
+805,Two,CARDINAL,1
+806,the United Kingdom and South,GPE,1
+807,Anthony Fauci ,PERSON,1
+808,State,ORG,1
+809,Depart,PERSON,1
+810,Paolo Gentilon,PERSON,1
+811,week,DATE,1
+812,Camer,GPE,1
+813,The Democratic Republic of Congo,GPE,1
+814,at least 14,CARDINAL,1
+815,Viktor Orban,PERSON,1
+816,6pm curfew,TIME,1
+817,6pm Saturday,TIME,1
+818,Storm Filomena,PERSON,1
+819,Panda,ORG,1
+820,Olivier Veran,PERSON,1
+821,Breakfast,GPE,1
+822,Fukushima,PERSON,1
+823,March 1 - France 24,DATE,1
+824,Covid vaccines -,PERSON,1
+825,Nearly two weeks,DATE,1
+826,Islamo,GPE,1
+827,Perseverance Rover,FAC,1
+828,Jezero,PERSON,1
+829,2,CARDINAL,1
+830,messenger-RNA ,PERSON,1
+831,the 19th century,DATE,1
+832,Feb 4 - France,DATE,1
+833,Feb 4,DATE,1
+834,Pedro Sanchez,PERSON,1
+835,90 million,CARDINAL,1
+836,more than two million,CARDINAL,1
+837,’ Zika,WORK_OF_ART,1
+838,Zika,PERSON,1
+839,Lockdowns,PERSON,1
+840,before end of year,DATE,1
+841,"more than 3,000",CARDINAL,1
+842,95 percent,PERCENT,1
+843,Cyril Ramaphosa,PERSON,1
+844,The Debate Countries,ORG,1
+845,the European Union ,ORG,1
+846,Seventy-eight-year-old,CARDINAL,1
+847,Mauricette M.,PERSON,1
+848,"December 27, 2020",DATE,1
+849,mid-January,DATE,1
+850,Mauricette,PERSON,1
+851,last year's,DATE,1
+852,Johnson & Johnson’s,ORG,1
+853,a holiday this year,DATE,1
+854,Digital G,ORG,1
+855,Nadhim Zahawi,PERSON,1
+856,the end of July,DATE,1
+857,Communist,NORP,1
+858,US Congress - France,ORG,1
+859,The Organisation for Economic Co-operation and,ORG,1
+860,140,CARDINAL,1
+861,Vaccine Deployment Min,ORG,1
+862,Tokyo Games,EVENT,1
+863,the Tokyo 2020 Olympics,EVENT,1
+864,this summer,DATE,1
+865,a year,DATE,1
+866,PM - France 24 Others,ORG,1
+867,Moderna Inc’s,ORG,1
+868,AstraZeneca COVID-19,PRODUCT,1
+869,over 50 percent,PERCENT,1
+870,the Chinese Center for Disease Control and Prevention,ORG,1
+871,Mike Pence,PERSON,1
+872,Roughly half,CARDINAL,1
+873,a decade,DATE,1
+874,Queen Elizabeth,PERSON,1
+875,TeamHalo,ORG,1
+876,"30,000",CARDINAL,1
+877,Northern Ireland,GPE,1
+878,Irish,NORP,1
+879,Sinovac,ORG,1
+880,Sharia,LAW,1
+881,Calais,PERSON,1
+882,El Salvador - Correspondence,GPE,1
+883,Anthony Fauci,PERSON,1
+884,"Tuesday, July 21",DATE,1
+885,Uighur,PERSON,1
+886,the year,DATE,1
+887,the day,DATE,1
+888,the spring,DATE,1
+889,Fran,GPE,1
+890,05.03.2021,CARDINAL,1
+891,years,DATE,1
+892,Ousmane Sonko,PERSON,1
+893,Islamist,NORP,1
+894,The Palestinian Authority,ORG,1
+895,West Bank,GPE,1
+896,Pierre-Marie Girard,PERSON,1
+897,month-long,DATE,1
+898,A third,CARDINAL,1
+899,The US Centers for Disease Control and Prevention,ORG,1
+900,late October,DATE,1
+901,Donald Trump,PERSON,1
+902,24 hours,TIME,1
+903,"more than 3,250",CARDINAL,1
+904,a single day,DATE,1
+905,DR,GPE,1
+906,Frontières,PERSON,1
+907,last month,DATE,1
+908,last week of December,DATE,1
+909,Pfizer/BioNTech,ORG,1
+910,the last week of December,DATE,1
+911,Jean Ca,PERSON,1
+912,a day ahead,DATE,1
+913,MDR,ORG,1
+914,Independence Day - France,EVENT,1
+915,Independence Day,EVENT,1
+916,Up to 100 million,CARDINAL,1
+917,20 million mark,MONEY,1
+918,More than 20 million,CARDINAL,1
+919,Sharon Alroy-Preis,PERSON,1
+920,Pompeo,ORG,1
+921,Mike Pompeo's,PERSON,1
+922,United Nations,ORG,1
+923,W.House - France,ORG,1
+924,"over 100,000",CARDINAL,1
+925,Xinhua,ORG,1
+926,€100 billion,MONEY,1
+927,600 million,CARDINAL,1
+928,Danish,NORP,1
+929,Burundi,GPE,1
+930,Pierre Nkurunziza,PERSON,1
+931,Oxford-AstraZeneca,ORG,1
+932,Oxford University's,ORG,1
+933,Drugmakers,PERSON,1
+934,tens of millions,CARDINAL,1
+935,Anthony F,PERSON,1
+936,Paris Forum - France 24 World,ORG,1
+937,Paris Forum,ORG,1
+938,LatAm,ORG,1
+939,LatAm,PRODUCT,1
+940,Ivory Coast - Correspondence,GPE,1
+941,Nearly 2 million,CARDINAL,1
+942,"350,000",CARDINAL,1
+943,Louis Pasteur's,PERSON,1
+944,$7.5 billion,MONEY,1
+945,Leaders of the Group of Seven,ORG,1
+946,a little under half,DATE,1
+947,19.02.2021,CARDINAL,1
+948,Almost half,CARDINAL,1
+949,Brexit,GPE,1
+950,Israel & Morocco,ORG,1
+951,Dateline Coventry,ORG,1
+952,October,DATE,1
+953,19,CARDINAL,1
+954,Niger,PERSON,1
+955,Mohamed Bazoum,PERSON,1
+956,Tuesda,PERSON,1
+957,Enniskillen,PERSON,1
+958,Bre,PERSON,1
+959,Today,DATE,1
+960,well over a year now,DATE,1
+961,Last week,DATE,1
+962,Johns Hopkins University,ORG,1
+963,at least two million,CARDINAL,1
+964,Lincoln Memorial,ORG,1
+965,Covid,ORG,1

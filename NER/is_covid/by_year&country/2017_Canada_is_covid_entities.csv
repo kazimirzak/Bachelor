@@ -1,0 +1,234 @@
+entity, label, count
+Canadian, NORP, 10
+Liz Dawn, PERSON, 7
+two, CARDINAL, 7
+The Globe and Mail, ORG, 6
+Canada, GPE, 6
+Saturday, DATE, 5
+Wednesday, DATE, 5
+Toronto, GPE, 5
+Coronation Street, FAC, 5
+Alabama, GPE, 5
+77, CARDINAL, 4
+British, NORP, 4
+Tuesday, DATE, 4
+Paris, GPE, 4
+Lockdown, ORG, 4
+Thursday, DATE, 4
+French, NORP, 3
+Australian, NORP, 3
+Taiwan, GPE, 3
+U.S., GPE, 3
+Vera Duckworth, ORG, 3
+Langley, ORG, 3
+Toronto Sun, ORG, 3
+London, GPE, 3
+five, CARDINAL, 3
+U.K., GPE, 3
+Ottawa, GPE, 3
+first, ORDINAL, 3
+Las Vegas, GPE, 2
+the Las Vegas Strip, ORG, 2
+night, TIME, 2
+Georgia, GPE, 2
+85,000, MONEY, 2
+Volunteer, PERSON, 2
+morning, TIME, 2
+Monday, DATE, 2
+more than 30 years, DATE, 2
+735,000, MONEY, 2
+Thousands, CARDINAL, 2
+California, GPE, 2
+one, CARDINAL, 2
+CBC News, ORG, 2
+Westminster Bridge, PERSON, 2
+House of Commons, ORG, 2
+23-year-old, DATE, 2
+last fall, DATE, 2
+the Louvre Museum, ORG, 2
+2, CARDINAL, 2
+Neil Young, PERSON, 2
+Friday, DATE, 2
+Mistaken, PERSON, 2
+California Air Force, ORG, 2
+| CTV News, ORG, 2
+Kashmir, LOC, 2
+Indian, NORP, 2
+London Bridge, FAC, 2
+Delaware, GPE, 2
+Richmond, GPE, 2
+centuries-old, DATE, 1
+France, GPE, 1
+WHO, ORG, 1
+Syrians, NORP, 1
+As many as 5.5 million, CARDINAL, 1
+Syrian, NORP, 1
+Damascus, GPE, 1
+Degrassi, ORG, 1
+Coronation Street, LOC, 1
+Angela Griffin, PERSON, 1
+Wendy Crewson, PERSON, 1
+Detail, GPE, 1
+UC Berkeley, ORG, 1
+Milo Yiannopoulos - National | Globalnews.ca The University of California at Berkeley, ORG, 1
+Vera Duckworth on 'Coronation Street', WORK_OF_ART, 1
+34 years, DATE, 1
+the first week, DATE, 1
+2017, DATE, 1
+Virginia State University, ORG, 1
+Globalnews.ca University, ORG, 1
+Shooting on Campus - VSU, WORK_OF_ART, 1
+40, CARDINAL, 1
+Ontario, GPE, 1
+Sun Ontario’s, PERSON, 1
+Conservatives, NORP, 1
+Liberals, NORP, 1
+almost a decade, DATE, 1
+Tories, NORP, 1
+Maxime Bernier's, ORG, 1
+Langara College, ORG, 1
+18-year-old, DATE, 1
+Texas Tech, ORG, 1
+CBC News A, ORG, 1
+Texas Tech University, ORG, 1
+Lubbock, GPE, 1
+Coronation Street', FAC, 1
+77, DATE, 1
+Napoleon, ORG, 1
+Napoleon Bonaparte, PERSON, 1
+Sunday, DATE, 1
+Publi, PERSON, 1
+Florida, GPE, 1
+second, ORDINAL, 1
+Bakersfield Heart Hospital, ORG, 1
+Damian Warner, ORG, 1
+Two days, DATE, 1
+Federer, ORG, 1
+eighth, CARDINAL, 1
+Wimbledon, EVENT, 1
+Swiss, NORP, 1
+19th, DATE, 1
+8 a.m., TIME, 1
+the school day, DATE, 1
+Worth County High School, GPE, 1
+Macleans.ca British Parliament, ORG, 1
+at least 4, CARDINAL, 1
+at least 20, CARDINAL, 1
+Northern California, LOC, 1
+MacIntyre, PERSON, 1
+the San Jose Sharks, ORG, 1
+nine, CARDINAL, 1
+Surrey, PERSON, 1
+Vancouver Sun, FAC, 1
+27-year-old, DATE, 1
+last month, DATE, 1
+Bruno Langley ', PERSON, 1
+Bruno Langley, PERSON, 1
+17-year-old, DATE, 1
+Eight, CARDINAL, 1
+RHS, NORP, 1
+The United Kingdom Parliament, ORG, 1
+1974 to 2008, DATE, 1
+Jack, PERSON, 1
+COVID-19 - National | Globalnews.ca Get, ORG, 1
+Jordan Spieth’s, PERSON, 1
+British Open, ORG, 1
+the British Open, FAC, 1
+Matsqui, GPE, 1
+Sun Corrections Service of Canada, ORG, 1
+Matsqui Institution, ORG, 1
+the weekend, DATE, 1
+Chris Gascoyne, PERSON, 1
+Barlow, PERSON, 1
+Peter Barlow, PERSON, 1
+Glebe Collegiate Institute, ORG, 1
+BUFFERY, ORG, 1
+Aheadbyacentury, NORP, 1
+the Coronation Futurity, ORG, 1
+Century, ORG, 1
+the night, TIME, 1
+25, CARDINAL, 1
+Fort Lauderdale, GPE, 1
+more than six hours, TIME, 1
+Louvre  , LAW, 1
+The Star Toronto Fire Services, ORG, 1
+St. Luke Lane, FAC, 1
+College St., ORG, 1
+Quarantined Parise, PERSON, 1
+Pominville, PERSON, 1
+Toronto Sun ST, ORG, 1
+Minn., GPE, 1
+Minnesota Wild, LOC, 1
+Zach Parise, PERSON, 1
+Jason Pominville, PERSON, 1
+at least three, CARDINAL, 1
+The Bellagio Resort, ORG, 1
+Four, CARDINAL, 1
+Coronation, NORP, 1
+Wednesday night, TIME, 1
+Trudeau, PERSON, 1
+COVID-19 | CTV News, ORG, 1
+Justin Trudeau, PERSON, 1
+LIVE NOW, ORG, 1
+Ala., GPE, 1
+911, CARDINAL, 1
+Louvre Museum, ORG, 1
+CBC News Soldiers, ORG, 1
+Coronation Dr., ORG, 1
+Fixer, PERSON, 1
+Republican, NORP, 1
+Betty Price, PERSON, 1
+England, GPE, 1
+Pit, PERSON, 1
+minivan - National |, ORG, 1
+Pennsylvania, GPE, 1
+U.K. Parliament, ORG, 1
+Superior Court, ORG, 1
+Secret Service, ORG, 1
+White House - National, ORG, 1
+the White House, ORG, 1
+several minutes, TIME, 1
+Coronation Hall, FAC, 1
+Omemee, GPE, 1
+Ont, PERSON, 1
+Omemee, Ont., ORG, 1
+last-minute, TIME, 1
+The Globe and Mail Gates, ORG, 1
+more than an hour, TIME, 1
+Travis Air Force Base, FAC, 1
+Louvre,, LAW, 1
+Akbar, PRODUCT, 1
+India, GPE, 1
+LONDON, GPE, 1
+GlobalNews.ca, ORG, 1
+St. Louis Cardinals, ORG, 1
+Star Cardinals, ORG, 1
+Ron Watermon, PERSON, 1
+the St. Louis Feral Cat Outreach, ORG, 1
+10-day, DATE, 1
+Northern Lights, LOC, 1
+Brittany Crew, PERSON, 1
+sixth, ORDINAL, 1
+18.21 metres, QUANTITY, 1
+Crew, PERSON, 1
+18.01 metres, QUANTITY, 1
+TB, ORG, 1
+The Canadian Food Inspection Agency, ORG, 1
+the past month, DATE, 1
+Two, CARDINAL, 1
+North Carolina, GPE, 1
+afternoon, TIME, 1
+One, CARDINAL, 1
+four, CARDINAL, 1
+Sun Spoofed, PERSON, 1
+CTV News, ORG, 1
+Travis Air Force Base, ORG, 1
+Australia, GPE, 1
+Asia, LOC, 1
+Indonesian, NORP, 1
+Health Canada, ORG, 1
+CTV News Health Canada, ORG, 1
+Fluorouracil, PERSON, 1
+3,608, CARDINAL, 1
+Vancouver Canucks, PERSON, 1
+five days, DATE, 1

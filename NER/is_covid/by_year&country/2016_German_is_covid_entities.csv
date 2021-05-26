@@ -1,0 +1,162 @@
+entity, label, count
+Brexit, PERSON, 27
+EU, ORG, 16
+UK, GPE, 15
+US, GPE, 9
+Britain, GPE, 8
+Brussels, GPE, 7
+London, GPE, 5
+Kashmir, LOC, 4
+01.07.2016, CARDINAL, 4
+British, NORP, 4
+Dallas, GPE, 4
+Germany, GPE, 3
+Europeans, NORP, 3
+the European Union, ORG, 3
+German, NORP, 3
+two, CARDINAL, 3
+French, NORP, 3
+Greece, GPE, 3
+Inside Europe, LOC, 3
+Incirlik, GPE, 2
+Munich, GPE, 2
+DW, ORG, 2
+India, GPE, 2
+24.06.2016, DATE, 2
+Inside Europe, WORK_OF_ART, 2
+France, GPE, 2
+Paris, GPE, 2
+30.06.2016, CARDINAL, 2
+Bernd Riegert, PERSON, 2
+Europe, LOC, 2
+Israel, GPE, 2
+tens of thousands, CARDINAL, 2
+Hebron, GPE, 2
+one, CARDINAL, 2
+nine, CARDINAL, 2
+Toronto, GPE, 2
+UN, ORG, 2
+2030, DATE, 2
+2020, DATE, 2
+25.06.2016, CARDINAL, 2
+Bonn, GPE, 2
+Indian, NORP, 2
+52-day, DATE, 2
+Two, CARDINAL, 2
+16.07.2016, DATE, 1
+Turkey, GPE, 1
+Islamic, NORP, 1
+Kim′s, ORG, 1
+North Korea′s, ORG, 1
+North Korea's, GPE, 1
+Workers' Party, ORG, 1
+this week, DATE, 1
+first, ORDINAL, 1
+36 years, DATE, 1
+Kim, PERSON, 1
+Six, CARDINAL, 1
+Christoph Hasselbach, PERSON, 1
+six, CARDINAL, 1
+New Year's Eve, EVENT, 1
+University College, ORG, 1
+Christian Dustmann, PERSON, 1
+Himalayan, NORP, 1
+Jews, NORP, 1
+Israelis, NORP, 1
+Poles, NORP, 1
+Last week’s, DATE, 1
+next year, DATE, 1
+Lisa Bryant, PERSON, 1
+The Day, DATE, 1
+Phil Gayle, PERSON, 1
+Donald Trump, PERSON, 1
+COVID-19, PRODUCT, 1
+Democrats, NORP, 1
+Norwegian, NORP, 1
+Tuesday, DATE, 1
+John Kerry, PERSON, 1
+Theresa, GPE, 1
+May, DATE, 1
+Andrea Leadsom, PERSON, 1
+Brexiter, PRODUCT, 1
+Justice, ORG, 1
+Michael Gove, PERSON, 1
+Samira Shackle, PERSON, 1
+Thousands, CARDINAL, 1
+Macedonia, GPE, 1
+Quo Vadis, PERSON, 1
+last week, DATE, 1
+27, CARDINAL, 1
+Emma Wallis, PERSON, 1
+Heinz Schulte, PERSON, 1
+Lars Bevanger, PERSON, 1
+Norway, GPE, 1
+two decades ago, DATE, 1
+Postcard, GPE, 1
+Manchester, DATE, 1
+Frexit, PERSON, 1
+Jake Cigainero, PERSON, 1
+Palestinians, NORP, 1
+Jewish, NORP, 1
+17.11.2016, DATE, 1
+Treating TB, ORG, 1
+Teri Schultz, PERSON, 1
+Belgium, GPE, 1
+Lockdown, ORG, 1
+Andrews, GPE, 1
+Joint Base Andrews, FAC, 1
+Washington, GPE, 1
+D.C., GPE, 1
+Air Force One, PRODUCT, 1
+Obama, PERSON, 1
+the United Kingdom, GPE, 1
+the next two years, DATE, 1
+Britons, PERSON, 1
+18-year-old, DATE, 1
+German-Iranian, NORP, 1
+Munich, PERSON, 1
+hours, TIME, 1
+30 million, CARDINAL, 1
+New York, GPE, 1
+A year, DATE, 1
+Grexit, ORG, 1
+One, CARDINAL, 1
+zero, CARDINAL, 1
+Omaira Gill, PERSON, 1
+Athens, GPE, 1
+World AIDS Day, DATE, 1
+South Africa, GPE, 1
+Two days, DATE, 1
+Capitol Hill, ORG, 1
+28.03.2016, CARDINAL, 1
+Capitol Visitor Center, ORG, 1
+The White House, ORG, 1
+24.06.2016, CARDINAL, 1
+Remain, ORG, 1
+Kate Brady, PERSON, 1
+Texas, GPE, 1
+five, CARDINAL, 1
+WHO of ′potential Zika, ORG, 1
+the World Health Organization, ORG, 1
+Zika, PERSON, 1
+Scotland, GPE, 1
+Scots, ORG, 1
+Thursday, DATE, 1
+Scottish, NORP, 1
+Peter Geoghegan, PERSON, 1
+Edinburgh, ORG, 1
+Curfew, PERSON, 1
+Hill, PERSON, 1
+European Finance, ORG, 1
+Jonathan Hill, PERSON, 1
+University of California′s LA, ORG, 1
+the University of California, Los Angeles, ORG, 1
+Los Angeles, GPE, 1
+Dakota, ORG, 1
+Seventeen, CARDINAL, 1
+North Dakota's, GPE, 1
+Capitol, FAC, 1
+Bismarck, ORG, 1
+2, CARDINAL, 1
+1, CARDINAL, 1
+Stephen Beard, PERSON, 1

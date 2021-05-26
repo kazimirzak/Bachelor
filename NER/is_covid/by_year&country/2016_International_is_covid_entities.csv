@@ -1,0 +1,630 @@
+entity, label, count
+Tuesday, DATE, 16
+Brussels, GPE, 16
+U.S., GPE, 13
+Monday, DATE, 13
+White House, ORG, 12
+California, GPE, 10
+Two, CARDINAL, 10
+Wednesday, DATE, 10
+Friday, DATE, 10
+RT USA News, ORG, 10
+two, CARDINAL, 9
+Corona, GPE, 9
+Texas, GPE, 9
+US, GPE, 9
+Thursday, DATE, 8
+afternoon, TIME, 8
+Mexico, GPE, 8
+Sunday, DATE, 8
+Navy, ORG, 7
+Joint Base Andrews, PERSON, 7
+UCLA, ORG, 7
+three, CARDINAL, 6
+The White House, ORG, 6
+Cleveland, GPE, 6
+Adriana Coronado, PERSON, 6
+first, ORDINAL, 6
+Washington, GPE, 5
+morning, TIME, 5
+one, CARDINAL, 5
+UK, GPE, 5
+Reuters, ORG, 5
+German, NORP, 5
+Alabama, GPE, 5
+Myanmar, GPE, 5
+Saturday, DATE, 5
+Dallas, GPE, 5
+Los Angeles, GPE, 4
+CDC, ORG, 4
+Al Jazeera, ORG, 4
+evening, TIME, 4
+San Diego, GPE, 4
+Limitless - Close Encounters, ORG, 4
+third, ORDINAL, 4
+second, ORDINAL, 4
+Arkansas State University, ORG, 4
+Arkansas, GPE, 4
+Paris, GPE, 4
+Muslim, NORP, 4
+Lockdown, GPE, 4
+Kashmir, LOC, 4
+Republican, NORP, 4
+the United States, GPE, 3
+Joint Base Andrews, FAC, 3
+millions, CARDINAL, 3
+2016, DATE, 3
+Donald Trump's, PERSON, 3
+Europe, LOC, 3
+GOP, ORG, 3
+Oklahoma, GPE, 3
+China, GPE, 3
+RT World News, ORG, 3
+RT World, ORG, 3
+2009, DATE, 3
+dozens, CARDINAL, 3
+New Jersey, GPE, 3
+2, CARDINAL, 3
+today, DATE, 3
+13-year-old, DATE, 3
+nine, CARDINAL, 3
+five, CARDINAL, 3
+Capitol, FAC, 3
+North Carolina, GPE, 3
+British, NORP, 3
+Thailand, GPE, 3
+Detroit, GPE, 3
+UN, ORG, 3
+Maryland, GPE, 3
+Germany, GPE, 3
+Cuba, GPE, 3
+1, CARDINAL, 2
+Azusa, GPE, 2
+Donald Trump, PERSON, 2
+the Centers for Disease Control and Prevention, ORG, 2
+Georgia, GPE, 2
+Hebron, GPE, 2
+USS Coronado, PRODUCT, 2
+Molenbeek, GPE, 2
+Spanish, NORP, 2
+Spain, GPE, 2
+Houston, GPE, 2
+Bono, PERSON, 2
+Nice, GPE, 2
+Peek 1, DATE, 2
+Yahoo News, ORG, 2
+Brian, PERSON, 2
+Rebecca, GPE, 2
+Rebecca catches Brian, PERSON, 2
+NZT, ORG, 2
+Limitless, ORG, 2
+Tuesday, March 8th at 10/9c, DATE, 2
+CBS, ORG, 2
+Hillary Clinton, PERSON, 2
+French, NORP, 2
+Q&A, ORG, 2
+CNN, ORG, 2
+Brazilian, NORP, 2
+Zika, PERSON, 2
+Shades Valley High School, ORG, 2
+Clinton, PERSON, 2
+Rams, PERSON, 2
+L.A., GPE, 2
+Tony Warren, PERSON, 2
+Coronation Street, FAC, 2
+this afternoon, TIME, 2
+University of Toronto, ORG, 2
+Ohio, GPE, 2
+Lockdown, ORG, 2
+EU, ORG, 2
+4, CARDINAL, 2
+Four, CARDINAL, 2
+Venezuela, GPE, 2
+D.C., GPE, 2
+seven, CARDINAL, 2
+Utah, GPE, 2
+16-year-old, DATE, 2
+Biles, PRODUCT, 2
+Simone Biles, PERSON, 2
+Aly Raisman, PERSON, 2
+$600 million, MONEY, 2
+Al Jazeera Death, ORG, 2
+the White House, FAC, 2
+FBI, ORG, 2
+Africa, LOC, 2
+the White House, ORG, 2
+90th, ORDINAL, 2
+Americas, LOC, 2
+Pennsylvania, GPE, 2
+12, CARDINAL, 2
+four, CARDINAL, 2
+U.S. Navy, ORG, 2
+India, GPE, 2
+America, GPE, 2
+ABC News, ORG, 2
+David Muir, PERSON, 2
+anti-India, ORG, 2
+Chinese, NORP, 2
+Wukan, PERSON, 2
+hours, TIME, 2
+Helen Flanagan, PERSON, 2
+Katherine Kelly, PERSON, 2
+Pennsylvania Avenue, FAC, 2
+Calif., GPE, 2
+Air Force One, PRODUCT, 2
+Hundreds, CARDINAL, 2
+Arizona, GPE, 2
+Pentagon, ORG, 2
+Turkish, NORP, 2
+Kurdish, NORP, 2
+North America, LOC, 2
+Ohio College, ORG, 2
+Earth, LOC, 2
+PHOTOS, ORG, 2
+21-day, DATE, 2
+the Republican National Convention, ORG, 2
+Japan, GPE, 2
+Walter Isaacson, PERSON, 2
+Chicago, GPE, 2
+3, CARDINAL, 1
+RT USA News One, ORG, 1
+approximately a third, CARDINAL, 1
+American, NORP, 1
+Andrews Air Force, ORG, 1
+NEWSDAY, ORG, 1
+Star Wars, WORK_OF_ART, 1
+Farmingdale State College, ORG, 1
+9:45 a.m., TIME, 1
+8, CARDINAL, 1
+Brawl, GPE, 1
+Gang Feuds - ABC, PERSON, 1
+Eight, CARDINAL, 1
+June, DATE, 1
+16, CARDINAL, 1
+Israel, GPE, 1
+Palestinians, NORP, 1
+Middle East, LOC, 1
+Israeli, NORP, 1
+RAF, ORG, 1
+RAF Marham, ORG, 1
+Norfolk, GPE, 1
+U.S. Navy - Yahoo News, ORG, 1
+five weeks ago, DATE, 1
+the U.S. Navy, ORG, 1
+Luna, ORG, 1
+2 miles, QUANTITY, 1
+3.2 km, QUANTITY, 1
+San Clemente Island, GPE, 1
+Sandy DeMunnik, PERSON, 1
+U.S. Navy's, ORG, 1
+The U.S. Navy, ORG, 1
+Total Ship Survivability Trial, ORG, 1
+Independence, ORG, 1
+a couple hours, TIME, 1
+about 10:39 a.m., TIME, 1
+RT Viral, ORG, 1
+Antonino Fernandez, PERSON, 1
+August this year, DATE, 1
+Cerezales del Condado, FAC, 1
+West Texas, LOC, 1
+Alpine High School, ORG, 1
+the Alpine Independent School District, ORG, 1
+Antonio Fernández, PERSON, 1
+Castile-Leon, LOC, 1
+Bastille Day, EVENT, 1
+Hillary, PERSON, 1
+Democrats, NORP, 1
+Democratic, NORP, 1
+Republicans, NORP, 1
+84, CARDINAL, 1
+Grenade-Filled, ORG, 1
+Washington University, ORG, 1
+90-minute, TIME, 1
+St. Louis, GPE, 1
+Kevin Murphy, PERSON, 1
+Coordinated Labor, ORG, 1
+Gezi, ORG, 1
+| Euronews Police, ORG, 1
+Istanbul, GPE, 1
+Istiklal, NORP, 1
+Taksim Square, FAC, 1
+Brazil, GPE, 1
+South America's, LOC, 1
+Irondale, GPE, 1
+about 7 miles, QUANTITY, 1
+11 kilometers, QUANTITY, 1
+Birmingham, GPE, 1
+Jake Novak, PERSON, 1
+Obama, PERSON, 1
+Navy Reopens Building Where Shots Reported - ABC News, PERSON, 1
+the Naval Medical Center San Diego, FAC, 1
+4 p.m., TIME, 1
+Naval Medical Center San Diego, FAC, 1
+Tampa High School, ORG, 1
+Tampa, GPE, 1
+Hillsborough High School, ORG, 1
+Bud Light, PERSON, 1
+NFL, ORG, 1
+79, CARDINAL, 1
+79, DATE, 1
+Lockdown After Report of Shooting Nearby Video - ABC News, ORG, 1
+the U.S. Park Police, ORG, 1
+West Executive Drive, ORG, 1
+The University of Toronto's, ORG, 1
+St. George, LOC, 1
+late Sunday afternoon, TIME, 1
+South Africa, GPE, 1
+7-year, DATE, 1
+RT World News Still, ORG, 1
+seven years ago, DATE, 1
+South African, NORP, 1
+9 a.m. ET, TIME, 1
+Student Injured, PERSON, 1
+Alpine, GPE, 1
+Alpine, ORG, 1
+Al Jazeera US, ORG, 1
+Belgium, GPE, 1
+Swine, GPE, 1
+21-year-old, DATE, 1
+last week, DATE, 1
+his first week, DATE, 1
+Coronado, GPE, 1
+James "Derek" Lovelace, PERSON, 1
+Oregon, GPE, 1
+Nora, PERSON, 1
+10-month-old, DATE, 1
+30 day, DATE, 1
+U.N., ORG, 1
+United Nations, ORG, 1
+Islamists, NORP, 1
+Lockdown After Shots Were Fired Video - ABC News, ORG, 1
+Capitol Complex, ORG, 1
+UK Parliament, ORG, 1
+London, GPE, 1
+Squirrel Hunters Cause Lockdown, ORG, 1
+Arkansas Primary School - ABC News, ORG, 1
+Gardner STEM Magnet School, ORG, 1
+Hot Springs, GPE, 1
+about 8 a.m., TIME, 1
+About a dozen, CARDINAL, 1
+the California Republican Party, ORG, 1
+One, CARDINAL, 1
+Will Rogers Airport, FAC, 1
+Oklahoma City, GPE, 1
+DHS, ORG, 1
+Asia Pacific, LOC, 1
+Al Jazeera Tear, ORG, 1
+Wukan, ORG, 1
+Zoo, PERSON, 1
+Columbus Zoo, ORG, 1
+Aquarium, GPE, 1
+the weekend, DATE, 1
+Washington, DC, GPE, 1
+9 a.m., TIME, 1
+the University at Toronto, ORG, 1
+CDC Warns of Severe Cases, ORG, 1
+Young Adults - Yahoo News Flu, ORG, 1
+last year's, DATE, 1
+Today, DATE, 1
+Feb. 1, DATE, 1
+Reuters Bomb, PERSON, 1
+more than two dozen, CARDINAL, 1
+at least six, CARDINAL, 1
+thousands, CARDINAL, 1
+EU, GPE, 1
+& Metro, FAC, 1
+Monday morning - two, TIME, 1
+Metro, FAC, 1
+the University of California at Los Angeles, ORG, 1
+Alabama Prison Leads, FAC, 1
+Some 100, CARDINAL, 1
+James Lewis, PERSON, 1
+$60 billion, MONEY, 1
+trillions of dollars, MONEY, 1
+San Diego Bridge, GPE, 1
+Pepper Spray, ORG, 1
+Ohio Mall - ABC News Police, FAC, 1
+Beachwood Place, FAC, 1
+Copa America, ORG, 1
+Uruguay, GPE, 1
+Jamaica, GPE, 1
+Manuel Corona's, PERSON, 1
+80th-minute, TIME, 1
+Group C., PERSON, 1
+Post-Dallas, ORG, 1
+Capitol, PERSON, 1
+Twitter, PRODUCT, 1
+miles, CARDINAL, 1
+Southern California, LOC, 1
+Corona Del Mar State Beach, FAC, 1
+Joint Andrews Base, PERSON, 1
+| US & Canada, ORG, 1
+DAILY MAIL, ORG, 1
+Mountain View High School, ORG, 1
+Provo, LOC, 1
+8am, TIME, 1
+Orem Police, ORG, 1
+Nebraska Prison, ORG, 1
+Prison, LOC, 1
+Nebraska, GPE, 1
+the Lincoln Correctional Center, ORG, 1
+Department of Correctional Services, ORG, 1
+Renee Smith, PERSON, 1
+The Associated Press, ORG, 1
+Wednesday night, TIME, 1
+Coronation, NORP, 1
+Bulgarian, NORP, 1
+Harmanli, GPE, 1
+Yellow Jackets, PERSON, 1
+NC, GPE, 1
+Carver High School, ORG, 1
+Winston-Salem, GPE, 1
+Islamic State, ORG, 1
+Islamic, NORP, 1
+at least 30, CARDINAL, 1
+March 22, 2016, DATE, 1
+Zaventem airport, FAC, 1
+Modelo, GPE, 1
+Mexican, NORP, 1
+FTC, ORG, 1
+these days, DATE, 1
+the Electronic Frontier Foundation, ORG, 1
+Florida, GPE, 1
+the Florida Keys, ORG, 1
+Key Largo, LOC, 1
+Johns Hopkins University, ORG, 1
+Lockdown: See Tightened Security, ORG, 1
+one morning, TIME, 1
+Lahore, GPE, 1
+Euronews Suicide, ORG, 1
+Christians, NORP, 1
+Memorial Day, EVENT, 1
+RT USA News Bomb, ORG, 1
+ISIL, GPE, 1
+more than 30, CARDINAL, 1
+Western Europe, LOC, 1
+1am Saturday, TIME, 1
+Phoenix, GPE, 1
+Turf Paradise Racetrack Under, ORG, 1
+more than a dozen, CARDINAL, 1
+New Mexico, GPE, 1
+the U.S. Secret Service, ORG, 1
+Lockdown Drill, PERSON, 1
+Home - ABC News She, ORG, 1
+3-year-old, DATE, 1
+Facebook Post, ORG, 1
+University of Central Florida, ORG, 1
+WESH, ORG, 1
+Gail Paschall-Brown, PERSON, 1
+Hack Phones Suppose, ORG, 1
+Apple, ORG, 1
+iPhone, ORG, 1
+Lockdown Lifted - ABC News Authorities, PERSON, 1
+Department of Defense, ORG, 1
+Naval, GPE, 1
+Andrea Leadsom, PERSON, 1
+Conservative Party, ORG, 1
+Theresa, GPE, 1
+May, DATE, 1
+Glasgow, PERSON, 1
+35 million, CARDINAL, 1
+78 million, CARDINAL, 1
+UCLA Shooting Renews Concerns About Classrooms With No Locks - ABC News, ORG, 1
+Halliburton, ORG, 1
+Pfizer Trade Higher, ORG, 1
+the New York Stock Exchange, ORG, 1
+Nasdaq, ORG, 1
+NYSE Constellation Brands Inc., ORG, 1
+$8.98 to $, MONEY, 1
+160.34, MONEY, 1
+Negra Modelo, PERSON, 1
+Pacifico, GPE, 1
+quarterly, DATE, 1
+Secret Service, PERSON, 1
+Thailand Fights to Prevent, ORG, 1
+Outbreak, ORG, 1
+Americans, NORP, 1
+ISIS, ORG, 1
+Iran, GPE, 1
+Russia, GPE, 1
+Lockdown Sparked, ORG, 1
+Student Video Project - ABC, ORG, 1
+about an hour, TIME, 1
+ASU, ORG, 1
+Jonesboro, ORG, 1
+2 p.m., TIME, 1
+FDA, ORG, 1
+the U.S. Food and Drug Administration, ORG, 1
+Elizabeth II, PERSON, 1
+Queen Elizabeth, PERSON, 1
+the 1980s, DATE, 1
+650, CARDINAL, 1
+Indianapolis, GPE, 1
+Stupid, ORG, 1
+Wrong, Report, ORG, 1
+West Africa, GPE, 1
+San Diego's, GPE, 1
+White House Briefly, ORG, 1
+82, CARDINAL, 1
+Corrections Department, ORG, 1
+Capitol Police, ORG, 1
+Matthew Verderosa, PERSON, 1
+Stacey Feeley, PERSON, 1
+Detroit City Hall, ORG, 1
+Wayne County, GPE, 1
+about 3 p.m., TIME, 1
+Coleman, PERSON, 1
+World News Tonight, ORG, 1
+Lone Gunman, PERSON, 1
+Lockdown Watch, PERSON, 1
+2016-05-20, DATE, 1
+World News Tonight, WORK_OF_ART, 1
+Kids Battling Cancer Graduate, ORG, 1
+Curfew Quiets Eid Festivities, ORG, 1
+Indian, NORP, 1
+Communist Party, ORG, 1
+DUI, ORG, 1
+WHO, ORG, 1
+RT World News A, ORG, 1
+the World Health Organization, ORG, 1
+June 1st, DATE, 1
+911, CARDINAL, 1
+Trump University, ORG, 1
+Lockdown Lifted, PERSON, 1
+Army Hospital, ORG, 1
+Army, ORG, 1
+Fort Bliss, GPE, 1
+William Beaumont, PERSON, 1
+Amabilia Payen, PERSON, 1
+El Paso, GPE, 1
+Coronation Street', FAC, 1
+Rosie Webster, PERSON, 1
+Ohio State, ORG, 1
+Ohio State University, ORG, 1
+Monday, November 28, DATE, 1
+Biles Soars, PERSON, 1
+Rio Olympic Arena, GPE, 1
+Raisman, PERSON, 1
+years, DATE, 1
+Lockdown After Report, PERSON, 1
+Prince George's County, GPE, 1
+this morning, TIME, 1
+Greg Austin, PERSON, 1
+Fady Elsayed, PERSON, 1
+Sophie Hopkins, ORG, 1
+Vivian Oparah, PERSON, 1
+Searches Home, PERSON, 1
+14, CARDINAL, 1
+San Bernardino, GPE, 1
+Dec. 2, DATE, 1
+Paris Streets Transformed, ORG, 1
+next year, DATE, 1
+9, CARDINAL, 1
+RT USA, ORG, 1
+Nine, CARDINAL, 1
+Al Jazeera Indian, ORG, 1
+more than a thousand, CARDINAL, 1
+pro-Trump, PERSON, 1
+Cleveland - Reuters, ORG, 1
+Chris Cox, PERSON, 1
+mid-July, DATE, 1
+15-year-old, DATE, 1
+Crown Prince Maha Vajiralongkorn, PERSON, 1
+Adriana Coronado Cavazos, ORG, 1
+14, DATE, 1
+Scalia, PERSON, 1
+Antonin Scalia, PERSON, 1
+the Supreme Court's, ORG, 1
+Presidio County, GPE, 1
+Rod Ponton, PERSON, 1
+Baltimore, GPE, 1
+Reuters.com, ORG, 1
+Patrick T. Fallon, PERSON, 1
+Santa Clara County Jail, GPE, 1
+Santa Clara, GPE, 1
+Costco, ORG, 1
+Schaerbeek, GPE, 1
+a period this evening, TIME, 1
+Calais, PERSON, 1
+RT USA News The US Department of Defense, ORG, 1
+weeks, DATE, 1
+at least five, CARDINAL, 1
+2nd day, DATE, 1
+less than 24 hours, TIME, 1
+hundreds, CARDINAL, 1
+United States, GPE, 1
+recent years, DATE, 1
+Ponce de Leon, PERSON, 1
+1513, DATE, 1
+1527, DATE, 1
+1539, DATE, 1
+1540, DATE, 1
+Cabrillo, ORG, 1
+1542, DATE, 1
+Lockdown Prompted, PERSON, 1
+Police Chase Lifted, ORG, 1
+Oklahoma College - ABC News, ORG, 1
+Kenny Day, PERSON, 1
+Oklahoma Baptist University, ORG, 1
+Shawnee, PERSON, 1
+John Modie, PERSON, 1
+58, DATE, 1
+12 years, DATE, 1
+18-year, DATE, 1
+ONS, ORG, 1
+Reuters Britain, ORG, 1
+the three months to January, DATE, 1
+2011, DATE, 1
+Lockdown Identified - ABC News, PERSON, 1
+8:30 p.m., TIME, 1
+2nd, ORDINAL, 1
+the Corona World Championships of Snowboarding, EVENT, 1
+Yabuli, GPE, 1
+Over 200, CARDINAL, 1
+40, CARDINAL, 1
+Munich, PERSON, 1
+Constellation Brands, ORG, 1
+Obregon Brewery, PERSON, 1
+Grupo Modelo - Reuters Constellation Brands Inc, ORG, 1
+Modelo, PERSON, 1
+Grupo Modelo, ORG, 1
+Anheuser Busch InBev SA NV, ORG, 1
+London Zoo, PERSON, 1
+Kumbuka, LOC, 1
+The London Zoo, ORG, 1
+400-pound, QUANTITY, 1
+Canadian, NORP, 1
+National Center for Foreign Animal Disease, ORG, 1
+Winnipeg, GPE, 1
+Canada, GPE, 1
+Six months, DATE, 1
+Raul Castro, PERSON, 1
+the Western Hemisphere, LOC, 1
+HILL, ORG, 1
+Nearly a dozen, CARDINAL, 1
+an hour, TIME, 1
+Stat News, ORG, 1
+The Sacramento Bee, ORG, 1
+20-inch-long, QUANTITY, 1
+50 centimeters, QUANTITY, 1
+Jan. 12, DATE, 1
+Pelamis, NORP, 1
+Reuters Myanmar, PERSON, 1
+more than four weeks, DATE, 1
+Rakhine, PERSON, 1
+Boetler Hall, ORG, 1
+Fiji, NORP, 1
+Fiji, GPE, 1
+South Pacific, LOC, 1
+Cyclone Winston, ORG, 1
+Seattle Pacific University, ORG, 1
+RT USA News The Pacific University Campus, ORG, 1
+27-day, DATE, 1
+Belgian, NORP, 1
+Forest, NORP, 1
+Biden, PERSON, 1
+next week's, DATE, 1
+Joe Biden, PERSON, 1
+US & Canada, ORG, 1
+the Capitol Visitors Center, ORG, 1
+Only hours, TIME, 1
+WND, ORG, 1
+Hewlett-Packard, ORG, 1
+White House Returns, ORG, 1
+Lockdown - ABC News, ORG, 1
+The Secret Service, ORG, 1
+early Monday, TIME, 1
+Secret Service, ORG, 1
+Robert Hoback, PERSON, 1
+about 12:15 p.m., TIME, 1
+Cook County, GPE, 1
+Yahoo News, WORK_OF_ART, 1
+Cook County Sheriff's, ORG, 1
+Ben Breit, PERSON, 1
+Eighteen percent, PERCENT, 1
+day, DATE, 1
+142, CARDINAL, 1
+the 7 a.m. to 3 p.m., TIME, 1
+Breit, PERSON, 1
+Rancho Cucamonga, GPE, 1
+John F. Kennedy, PERSON, 1

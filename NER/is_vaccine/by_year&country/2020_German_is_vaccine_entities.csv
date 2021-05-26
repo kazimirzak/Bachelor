@@ -1,0 +1,631 @@
+entity, label, count
+German, NORP, 171
+Germany, GPE, 104
+US, GPE, 81
+first, ORDINAL, 65
+EU, ORG, 52
+COVID-19, PERSON, 47
+UK, GPE, 39
+COVID-19, PRODUCT, 36
+Russia, GPE, 28
+Berlin, GPE, 25
+Europe, LOC, 22
+Africa, LOC, 21
+Pfizer, PERSON, 20
+DW, ORG, 17
+China, GPE, 16
+India, GPE, 15
+DW Business Africa, ORG, 14
+Germans, NORP, 13
+CureVac, ORG, 13
+Chinese, NORP, 11
+France, GPE, 10
+DW Business - Europe, ORG, 10
+DW Business – Europe & America, ORG, 10
+billions, CARDINAL, 9
+Vaccine, PERSON, 9
+second, ORDINAL, 9
+Brazil, GPE, 9
+UN, ORG, 9
+Moderna, GPE, 9
+BioNTech, GPE, 9
+one, CARDINAL, 8
+African, NORP, 8
+AstraZeneca, ORG, 8
+millions, CARDINAL, 8
+two, CARDINAL, 8
+Christmas, DATE, 8
+three, CARDINAL, 8
+DW Business, ORG, 7
+Italy, GPE, 7
+WHO, ORG, 7
+British, NORP, 7
+Donald Trump, PERSON, 7
+Russian, NORP, 6
+Australia, GPE, 6
+European, NORP, 6
+20.08.2020, CARDINAL, 6
+DW Business – Europe, ORG, 6
+American, NORP, 6
+mid-2021, DATE, 6
+Pakistan, GPE, 5
+October, DATE, 5
+Moderna, PERSON, 5
+FDA, ORG, 5
+Trump, PERSON, 5
+300 million, CARDINAL, 5
+Oxford, ORG, 5
+3, CARDINAL, 5
+18.11.2020, DATE, 5
+South American, NORP, 5
+Jens Spahn, PERSON, 5
+Two, CARDINAL, 5
+next week, DATE, 5
+Brexit, PERSON, 5
+30-minute, TIME, 5
+90%, PERCENT, 5
+09.11.2020, CARDINAL, 5
+French, NORP, 5
+daily, DATE, 4
+Inside Europe, LOC, 4
+Media Center, ORG, 4
+December 27, DATE, 4
+Moscow, GPE, 4
+South Africa, GPE, 4
+Denmark, GPE, 4
+Sputnik, ORG, 4
+mid-December, DATE, 4
+Joe Biden, PERSON, 4
+five minutes, TIME, 4
+Oxford University, ORG, 4
+DW Business – International | Business| Economy, ORG, 4
+Indian, NORP, 4
+2022, DATE, 4
+Britain, GPE, 4
+One, CARDINAL, 4
+Leyen, GPE, 4
+The World Health Organization, ORG, 4
+Biden, PERSON, 4
+thousands, CARDINAL, 4
+hundreds, CARDINAL, 4
+Canada, GPE, 4
+11.12.2020, CARDINAL, 4
+Taiwan, GPE, 4
+13.08.2020, CARDINAL, 3
+Hungary, GPE, 3
+Switzerland, GPE, 3
+up to 90%, PERCENT, 3
+15.12.2020, DATE, 3
+95%, PERCENT, 3
+27.12.2020, DATE, 3
+the United States, GPE, 3
+Serbia, GPE, 3
+the end of the year, DATE, 3
+2020, DATE, 3
+12.08.2020, DATE, 3
+Mexico, GPE, 3
+OECD, ORG, 3
+02.12.2020, DATE, 3
+months, DATE, 3
+European Commission, ORG, 3
+Ursula von, PERSON, 3
+IATA, ORG, 3
+Poland, GPE, 3
+20.11.2020, DATE, 3
+Antonio Guterres, PERSON, 3
+South America, LOC, 3
+30,000, CARDINAL, 3
+South African, NORP, 3
+Cuba, GPE, 3
+Coronavirus, ORG, 3
+15.12.2020, CARDINAL, 3
+Angela Merkel, PERSON, 3
+December, DATE, 3
+2021, DATE, 3
+Lufthansa, ORG, 3
+Philippines, GPE, 2
+Rodrigo Duterte, PERSON, 2
+Swedish, NORP, 2
+vaccine - Asian-Pacific, NORP, 2
+Kenya, GPE, 2
+2009, DATE, 2
+a year, DATE, 2
+Netherlands, GPE, 2
+Jens Thurau, PERSON, 2
+January, DATE, 2
+80 million, CARDINAL, 2
+11.09.2020, CARDINAL, 2
+Africans, NORP, 2
+December 21, DATE, 2
+Biontech, GPE, 2
+Ugur Sahin, PERSON, 2
+| Europe| News, ORG, 2
+Putin, PERSON, 2
+Vladimir Putin, PERSON, 2
+six weeks, DATE, 2
+Wirecard, PERSON, 2
+Health, ORG, 2
+next month, DATE, 2
+′vaccine, PERSON, 2
+eight, CARDINAL, 2
+five, CARDINAL, 2
+Second, ORDINAL, 2
+this year, DATE, 2
+Brussels, GPE, 2
+the World Health Organization, ORG, 2
+50, CARDINAL, 2
+Asia, LOC, 2
+Vienna, GPE, 2
+€400 million, MONEY, 2
+Italian, NORP, 2
+- Logistics, ORG, 2
+BioNTech & Pfizer, ORG, 2
+14.12.2020, CARDINAL, 2
+18.12.2020, CARDINAL, 2
+12.11.2020, CARDINAL, 2
+Egypt, GPE, 2
+2, CARDINAL, 2
+Qatar, GPE, 2
+Argentina, GPE, 2
+at least a year, DATE, 2
+Trump, ORG, 2
+minus 70 degrees, QUANTITY, 2
+IBM, ORG, 2
+5 minutes, TIME, 2
+this week, DATE, 2
+25.11.2020, CARDINAL, 2
+Dow, ORG, 2
+the new year, DATE, 2
+First, ORDINAL, 2
+Spotify, PERSON, 2
+Netflix, GPE, 2
+the end of December, DATE, 2
+22.05.2020, CARDINAL, 2
+one-fourth, CARDINAL, 2
+South Korea, GPE, 2
+Black Friday, EVENT, 2
+25.06.2020, CARDINAL, 2
+August, DATE, 2
+Sergey Satanovskiy, PERSON, 2
+8.4%, PERCENT, 2
+DW Business – Africa, ORG, 2
+G20, ORG, 2
+16.12.2020, CARDINAL, 2
+Elon Musk, PERSON, 2
+years, DATE, 2
+The European Union, ORG, 2
+Frank-Walter Steinmeier, PERSON, 2
+four, CARDINAL, 2
+seven, CARDINAL, 2
+BCG, ORG, 2
+Monday, DATE, 2
+North Korea, GPE, 2
+Ursula, GPE, 2
+26.08.2020, CARDINAL, 1
+Earth, LOC, 1
+as early as May 2021, DATE, 1
+18.04.2020, CARDINAL, 1
+a decade ago, DATE, 1
+Europeans, NORP, 1
+Vaccine Victory - Vaccine Distribution - Wirecard Sale, WORK_OF_ART, 1
+Swine, GPE, 1
+′science′ &, ORG, 1
+last long, DATE, 1
+The US Food and Drug Administration, ORG, 1
+Spain, GPE, 1
+Sweden, GPE, 1
+French, LANGUAGE, 1
+Spanish, NORP, 1
+Dutch, NORP, 1
+Rijeka, PERSON, 1
+Croatia, GPE, 1
+European Capital of Culture, ORG, 1
+Belarus, GPE, 1
+4.2 million, CARDINAL, 1
+€100 million, MONEY, 1
+The United Nations, ORG, 1
+$35 billion, MONEY, 1
+almost €800 million, MONEY, 1
+91-year-old, DATE, 1
+five days, DATE, 1
+Tasmanian, NORP, 1
+almost 12 million, CARDINAL, 1
+94.5%, PERCENT, 1
+a week, DATE, 1
+The European Union's, ORG, 1
+Just over 60%, PERCENT, 1
+Heinsberg, GPE, 1
+′Fourth-quarter, DATE, 1
+the final quarter of the year, DATE, 1
+Munich, GPE, 1
+Özlem Türeci, PERSON, 1
+Amid Danish, PERSON, 1
+Mainz, GPE, 1
+160 million, CARDINAL, 1
+17.11.2020, CARDINAL, 1
+Roissy Airport, FAC, 1
+Gamaleya Institute, ORG, 1
+disease′s, ORG, 1
+almost a year, DATE, 1
+6 weeks, DATE, 1
+Germany|, DATE, 1
+DW Business Europe, ORG, 1
+about eight years, DATE, 1
+This year, DATE, 1
+Montenegro, GPE, 1
+16.07.2020, CARDINAL, 1
+Balkan, NORP, 1
+Operation Warp Speed, ORG, 1
+24 hours, TIME, 1
+University of Queensland, ORG, 1
+CSL, ORG, 1
+next year, DATE, 1
+Elon Musk′s, PERSON, 1
+the week, DATE, 1
+′Russian, NORP, 1
+Lancet, ORG, 1
+the European Commission, ORG, 1
+Four, CARDINAL, 1
+Kate Ferguson, PERSON, 1
+1 million, CARDINAL, 1
+more than 1 million, CARDINAL, 1
+nearly 50,000, CARDINAL, 1
+two months, DATE, 1
+this fall, DATE, 1
+The Robert Koch Institute, ORG, 1
+′early, PERSON, 1
+Eric Feigl-Ding, PERSON, 1
+the Harvard Chan School of Public Health, ORG, 1
+VPM1002, ORG, 1
+only 50 million, CARDINAL, 1
+Latin American, NORP, 1
+Vaccine Victory - Harvest Headache, WORK_OF_ART, 1
+$8.8 billion, MONEY, 1
+Antibiotics, ORG, 1
+Europol, ORG, 1
+27.03.2020, DATE, 1
+Bernd Riegert, PERSON, 1
+09.12.2020, CARDINAL, 1
+′over, GPE, 1
+billions of dollars, MONEY, 1
+Eight months, DATE, 1
+Thousands, CARDINAL, 1
+recent weeks, DATE, 1
+West, LOC, 1
+almost a fifth, CARDINAL, 1
+18 million, CARDINAL, 1
+40 years ago, DATE, 1
+Peru, GPE, 1
+RNA, ORG, 1
+Only half, CARDINAL, 1
+YouGov, ORG, 1
+BioNTech, ORG, 1
+the European Medicines Agency, ORG, 1
+Hong Kong, GPE, 1
+April, DATE, 1
+14.04.2020, CARDINAL, 1
+Two-thirds, CARDINAL, 1
+more than half, CARDINAL, 1
+′Vaccine, PERSON, 1
+Franz-Werner Haas, PERSON, 1
+€10 to €15, MONEY, 1
+Tübingen, ORG, 1
+International Air Transport Association, ORG, 1
+Alexandre de Juniac, PERSON, 1
+Inside Europe, FAC, 1
+Finland, GPE, 1
+COVID-19 Christmas, ORG, 1
+16, CARDINAL, 1
+Sunday, DATE, 1
+Islamabad, GPE, 1
+Pakistanis, NORP, 1
+The European Medicines Agency, ORG, 1
+India′s Serum Institute, ORG, 1
+the University of Oxford's, ORG, 1
+the Serum Institute of India, ORG, 1
+the months ahead, DATE, 1
+IHS, ORG, 1
+Rajiv Biswas, PERSON, 1
+Twitter, PRODUCT, 1
+DW Fact Check, ORG, 1
+China′s, ORG, 1
+Deborah Bräutigam, PERSON, 1
+′a, PERSON, 1
+the end of 2020, DATE, 1
+Guterres, PERSON, 1
+$213 million, MONEY, 1
+14.08.2020, CARDINAL, 1
+New York, GPE, 1
+more than €180 million, MONEY, 1
+Friday, DATE, 1
+Paris Peace Forum, ORG, 1
+more than $500 million, MONEY, 1
+Tedros Adhanom Ghebreyesus, PERSON, 1
+Biotechs, GPE, 1
+Biontech and Curevac, ORG, 1
+Arab, NORP, 1
+July 1, DATE, 1
+30.12.2020 Days, DATE, 1
+Health Ministry, ORG, 1
+10.12.2020, DATE, 1
+DR Congo, ORG, 1
+nearly three, CARDINAL, 1
+the Democratic Republic of Congo, GPE, 1
+12.06.2020, CARDINAL, 1
+World Cup, EVENT, 1
+the FIFA World Cup, ORG, 1
+Melbourne, GPE, 1
+June, DATE, 1
+Latin America, LOC, 1
+Chile, GPE, 1
+Costa Rica, GPE, 1
+EU Medicines, ORG, 1
+Forget Wuhan, ORG, 1
+dozen, CARDINAL, 1
+17.09.2020, DATE, 1
+Pfizer & BioNTech, ORG, 1
+PlayStation, PRODUCT, 1
+′far, ORG, 1
+100 million, CARDINAL, 1
+the first 100 days, DATE, 1
+Zambia, GPE, 1
+TB, ORG, 1
+Zipporah Nyamburah, PERSON, 1
+Caribbean, LOC, 1
+22.12.2020, CARDINAL, 1
+16.03.2020, CARDINAL, 1
+Seattle, GPE, 1
+many months, DATE, 1
+Jair Bolsonaro, PERSON, 1
+Sinovac Biotech, PERSON, 1
+fewer than 100, CARDINAL, 1
+17.06.2020, CARDINAL, 1
+the end of this year, DATE, 1
+H5N8, CARDINAL, 1
+Bird, ORG, 1
+the Czech Republic, GPE, 1
+Slovakia, GPE, 1
+10.04.2020, CARDINAL, 1
+Anna Carthaus, PERSON, 1
+European Union, ORG, 1
+the United Kingdom, GPE, 1
+90 percent, PERCENT, 1
+Bundestag, ORG, 1
+three months, DATE, 1
+mid-year, DATE, 1
+28.11.2020, CARDINAL, 1
+more than 300 million, MONEY, 1
+EU ′coronavirus, ORG, 1
+July, DATE, 1
+Heiko Maas, PERSON, 1
+22.06.2020, CARDINAL, 1
+America, GPE, 1
+Bali′s, PERSON, 1
+Indonesian, NORP, 1
+Bali, GPE, 1
+COVID-19 ′silver bullet,′ WHO, ORG, 1
+Business – Europe & Asia, ORG, 1
+the United Arab Emirates, GPE, 1
+250,000, CARDINAL, 1
+a quarter of a million, DATE, 1
+Deaths, PERSON, 1
+Vaccine - Biden Introduces Economic Team - Taiwan's, ORG, 1
+170, CARDINAL, 1
+Goldman Sachs, ORG, 1
+Malaysia, GPE, 1
+1MDB, CARDINAL, 1
+Vaccine Doubts - Shopping Hopes, PERSON, 1
+Brexit - German, PERSON, 1
+Shingles, PERSON, 1
+12.5 million, CARDINAL, 1
+Red Cross, ORG, 1
+the Red Cross, ORG, 1
+18.09.2020, CARDINAL, 1
+Nine months, DATE, 1
+more than 2.5 million, CARDINAL, 1
+the end of April, DATE, 1
+World, ORG, 1
+Vaccine - Cargo Challenge - Protecting the Poorest Countries, ORG, 1
+10 days, DATE, 1
+East Asians, NORP, 1
+Brazilian, NORP, 1
+Bolsonaro, PERSON, 1
+Brazilians, NORP, 1
+GlaxoSmithKline, PERSON, 1
+the end of 2021, DATE, 1
+Margaret Keenan, PERSON, 1
+90, DATE, 1
+800,000, CARDINAL, 1
+up to 4 million, CARDINAL, 1
+Beijing, GPE, 1
+17.03.2020, DATE, 1
+40,000, CARDINAL, 1
+13.08.2020, DATE, 1
+the next months, DATE, 1
+the next year, DATE, 1
+70%, PERCENT, 1
+100 years ago, DATE, 1
+Communists, NORP, 1
+OPEC, ORG, 1
+over 200, CARDINAL, 1
+September, DATE, 1
+some 200, CARDINAL, 1
+around 40, CARDINAL, 1
+23.11.2020, CARDINAL, 1
+up to, PERCENT, 1
+The University of Queensland-CSL, ORG, 1
+Wuhan, GPE, 1
+5, CARDINAL, 1
+14.05.2020, CARDINAL, 1
+Frontline, PRODUCT, 1
+the age of 80, DATE, 1
+England, GPE, 1
+22.07.2020, CARDINAL, 1
+56 days, DATE, 1
+Traditional Medicine, ORG, 1
+two weeks, DATE, 1
+Around Germany, GPE, 1
+640,000, CARDINAL, 1
+WWII, EVENT, 1
+Greece, GPE, 1
+Independence Day, EVENT, 1
+August 15, DATE, 1
+17.03.2020, CARDINAL, 1
+Achim Hörauf, PERSON, 1
+Vanishing, PERSON, 1
+Hundreds, CARDINAL, 1
+April 2021, DATE, 1
+12.10.2020, DATE, 1
+the first three months of 2021, DATE, 1
+COVID-19, ORG, 1
+Almost 170, CARDINAL, 1
+WTO, ORG, 1
+November, DATE, 1
+03.09.2020 States, GPE, 1
+November 1, DATE, 1
+Russian Sputnik, PERSON, 1
+29.12.2020, CARDINAL, 1
+DW Business - Africa, ORG, 1
+2.2, CARDINAL, 1
+27.11.2020, CARDINAL, 1
+3-month, DATE, 1
+May 9, DATE, 1
+Vaccine Distribution, ORG, 1
+Focus - Euro, ORG, 1
+Somalia, GPE, 1
+G20, PERSON, 1
+14.12.2020, DATE, 1
+Evangelical, NORP, 1
+14.07.2020, CARDINAL, 1
+two to three months, DATE, 1
+the middle of next year, DATE, 1
+Duterte, ORG, 1
+A day, DATE, 1
+more than a billion, MONEY, 1
+J&J, ORG, 1
+′unexplained, GPE, 1
+Johnson & Johnson, ORG, 1
+EU Commission, ORG, 1
+The Serum Institute of India, ORG, 1
+SII, ORG, 1
+Serum, ORG, 1
+23.12.2020, CARDINAL, 1
+today, DATE, 1
+centuries, DATE, 1
+three hours, TIME, 1
+Nord Stream 2, ORG, 1
+29,000, CARDINAL, 1
+Francis, PERSON, 1
+Pope Francis, PERSON, 1
+Steinmeier, ORG, 1
+′a day, DATE, 1
+EMA, ORG, 1
+$120 billion, MONEY, 1
+30bn, MONEY, 1
+early next year, DATE, 1
+Three, CARDINAL, 1
+54, CARDINAL, 1
+15.06.2020, CARDINAL, 1
+€300 million, MONEY, 1
+20%, PERCENT, 1
+Gabriel Felbermayr, PERSON, 1
+the Kiel Institute, ORG, 1
+18.11.2020, CARDINAL, 1
+737, CARDINAL, 1
+Millions, CARDINAL, 1
+Boeing - UVC, ORG, 1
+Eleven months, DATE, 1
+12.12.2020, DATE, 1
+early next week, DATE, 1
+101-year-old, DATE, 1
+Saxony-Anhalt, ORG, 1
+The United Kingdom, GPE, 1
+London, GPE, 1
+Boris Johnson, PERSON, 1
+December 2, DATE, 1
+24%, PERCENT, 1
+second quarter, DATE, 1
+the century, DATE, 1
+27.06.2020, CARDINAL, 1
+At least two, CARDINAL, 1
+2 billion, CARDINAL, 1
+Barbara Wesel, PERSON, 1
+€7.4 billion, MONEY, 1
+A European Commission, ORG, 1
+South Africa's, GPE, 1
+23.04.2020, CARDINAL, 1
+Biosafety, PRODUCT, 1
+nearly 80 million, CARDINAL, 1
+94.1%, PERCENT, 1
+Tokyo, GPE, 1
+11.07.2020, CARDINAL, 1
+Russia′s Sputnik V COVID-19, PERSON, 1
+Sputnik V., PERSON, 1
+The United States, GPE, 1
+DW, PERSON, 1
+Carsten Spohr, PERSON, 1
+Cuban, NORP, 1
+the University of Oxford, ORG, 1
+Bataclan, PERSON, 1
+Paris, GPE, 1
+five years ago, DATE, 1
+the Chilean Andes, LOC, 1
+Mapuche, ORG, 1
+around 15 million, CARDINAL, 1
+White House, ORG, 1
+The White House, ORG, 1
+next month's, DATE, 1
+Ireland, GPE, 1
+€750 million, MONEY, 1
+three-quarters, MONEY, 1
+billion, CARDINAL, 1
+Who′s, ORG, 1
+Boeing - South, ORG, 1
+Bundestag, PERSON, 1
+Canary Islands, GPE, 1
+Britons, PERSON, 1
+South Korean, NORP, 1
+North, LOC, 1
+Donald Trump's, PERSON, 1
+Joe Biden's, PERSON, 1
+Tesla, ORG, 1
+Musk, PERSON, 1
+Cubans, NORP, 1
+Western Union, ORG, 1
+Latest, ORG, 1
+AstraZeneca COVID, ORG, 1
+about 70%, PERCENT, 1
+6 months, DATE, 1
+77 Percent, PERCENT, 1
+220, CARDINAL, 1
+Just 51%, PERCENT, 1
+69%, PERCENT, 1
+16.07.2020, DATE, 1
+03.12.2020, CARDINAL, 1
+Ukraine, GPE, 1
++ Germany, GPE, 1
+Mathias Mester's, PERSON, 1
+same day, DATE, 1
+21.11.2020 Days, DATE, 1
+22.04.2020, DATE, 1
+′vaccine, NORP, 1
+04.09.2020, CARDINAL, 1
+above one million, CARDINAL, 1
+€7.5 billion, MONEY, 1
+8, CARDINAL, 1
+$8.5 billion, MONEY, 1
+The European Commission, ORG, 1
+half, CARDINAL, 1
+17.09.2020, CARDINAL, 1
+December 2019, DATE, 1
+tens of thousands, CARDINAL, 1
+around 800,000, CARDINAL, 1
+30.06.2020, CARDINAL, 1
+Anthony Fauci, PERSON, 1
+66%, PERCENT, 1
+18.09.2020, DATE, 1
+Ashutosh Pandey, PERSON, 1
+Mainz, ORG, 1
+Caroline Schmutte, PERSON, 1
+Welcome Trust, ORG, 1
+the next three months, DATE, 1

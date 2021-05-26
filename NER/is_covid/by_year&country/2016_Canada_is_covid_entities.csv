@@ -1,0 +1,367 @@
+entity, label, count
+Canada, GPE, 16
+Alberta, GPE, 13
+U.S., GPE, 13
+The Globe and Mail, ORG, 9
+Tuesday, DATE, 8
+Ottawa, GPE, 7
+Mexico, GPE, 7
+White House, ORG, 7
+Tony Warren, PERSON, 6
+UCLA, ORG, 6
+Friday, DATE, 6
+Corona, GPE, 6
+Australian, NORP, 6
+Brussels, GPE, 6
+World Cup, EVENT, 6
+Coronation Street, FAC, 5
+| CTV News, ORG, 5
+Zika, PERSON, 5
+the University of California, Los Angeles, ORG, 5
+Two, CARDINAL, 5
+Monday, DATE, 4
+79, CARDINAL, 4
+British, NORP, 4
+Toronto, GPE, 4
+Lockdown, ORG, 4
+afternoon, TIME, 4
+Surrey, PERSON, 4
+2, CARDINAL, 4
+CBC News, ORG, 4
+Washington, GPE, 4
+Ont, PERSON, 4
+Donald Trump, PERSON, 4
+TB, ORG, 4
+GlobalNews.ca, ORG, 4
+Medicine Hat, PERSON, 3
+Thursday, DATE, 3
+at least one, CARDINAL, 3
+two, CARDINAL, 3
+Democratic, NORP, 3
+Ohio, GPE, 3
+3, CARDINAL, 3
+India, GPE, 3
+Republican, NORP, 3
+4, CARDINAL, 2
+Carleton University, ORG, 2
+Sunday, DATE, 2
+University of Toronto, ORG, 2
+Greece, GPE, 2
+Parliament Hill, ORG, 2
+Arkansas, GPE, 2
+Michigan, GPE, 2
+three-year-old, DATE, 2
+The Canadian Food Inspection Agency, ORG, 2
+five, CARDINAL, 2
+Saturday, DATE, 2
+COVID-19, PRODUCT, 2
+one, CARDINAL, 2
+years, DATE, 2
+North Carolina, GPE, 2
+CTV National News, ORG, 2
+Dallas, GPE, 2
+Cuba, GPE, 2
+Peter Akman, PERSON, 2
+Jose Guardado, PERSON, 2
+Mexico City, GPE, 2
+Lockdowns, PERSON, 2
+morning, TIME, 2
+Connecticut, GPE, 2
+2014, DATE, 2
+GOP, ORG, 2
+Donald Trump's, PERSON, 2
+Wednesday, DATE, 2
+last week, DATE, 2
+Saskatchewan, NORP, 2
+Johnny Depp, PERSON, 2
+Amber Heard, FAC, 2
+Bernie Sanders, PERSON, 2
+Iowa, GPE, 2
+House of Commons, ORG, 2
+Florida, GPE, 2
+her 28 years, DATE, 2
+Lisa Hilsenteger, PERSON, 2
+Tim Wharnsby, PERSON, 2
+Hirving Lozano, PERSON, 2
+Jesus Manuel Corona, PERSON, 2
+Belgian, NORP, 2
+Europe, LOC, 2
+Williams Lake, GPE, 2
+California, GPE, 2
+Trystan Ashley Sago, PERSON, 2
+32, DATE, 2
+Trudeau, PERSON, 2
+COVID-19 | CTV News, ORG, 2
+Justin Trudeau, PERSON, 2
+A-Fib, PRODUCT, 2
+Americans, NORP, 2
+San Diego, GPE, 2
+Antonin Scalia, PERSON, 2
+Houston, GPE, 2
+ERT, ORG, 2
+Japan, GPE, 2
+Calgary, GPE, 2
+four, CARDINAL, 1
+911, CARDINAL, 1
+England, GPE, 1
+the minutes, TIME, 1
+Coronation Street', FAC, 1
+Jersey Shore, ORG, 1
+5, CARDINAL, 1
+The University of Toronto’s, ORG, 1
+Macedonia, GPE, 1
+At least 12,000, CARDINAL, 1
+Idomeni, NORP, 1
+Vancouver Island University, ORG, 1
+Nanaimo RCMP, PERSON, 1
+about 30 minutes, TIME, 1
+22 Minutes, TIME, 1
+Stephen Harper, PERSON, 1
+October 2014, DATE, 1
+three, CARDINAL, 1
+Leslie Beck, PERSON, 1
+The Globe and Mail Researchers, ORG, 1
+10 years, DATE, 1
+22, CARDINAL, 1
+Dozens, CARDINAL, 1
+| CTV News University of Toronto, ORG, 1
+hours-long, TIME, 1
+evening, TIME, 1
+Manitoba, GPE, 1
+Brent Roussin, PERSON, 1
+Health, ORG, 1
+Cameron Friesen, PERSON, 1
+Winnipeg, PERSON, 1
+Russia, GPE, 1
+The Globe and Mail Sports, ORG, 1
+century-long, DATE, 1
+The Globe and Mail Daily, ORG, 1
+Twitter, PERSON, 1
+African, NORP, 1
+Raleigh, GPE, 1
+the Crabtree Valley Mall, LOC, 1
+Fort McMurray, ORG, 1
+Canadian, NORP, 1
+Cherry, PERSON, 1
+Joy Malbon, PERSON, 1
+Six months, DATE, 1
+Raul Castro, PERSON, 1
+Danforth Collegiate, PERSON, 1
+all summer, DATE, 1
+as many as four million, CARDINAL, 1
+Americas, LOC, 1
+the next year, DATE, 1
+this fall, DATE, 1
+The Star BottleLox, ORG, 1
+130, CARDINAL, 1
+79, DATE, 1
+56 years old, DATE, 1
+millions, CARDINAL, 1
+First-half, DATE, 1
+Tuesday night, TIME, 1
+2018, DATE, 1
+the Azteca Stadium, EVENT, 1
+The Globe and Mail Group, ORG, 1
+U of T, ORG, 1
+the University of Toronto, ORG, 1
+8, CARDINAL, 1
+West Africa, GPE, 1
+CBC News Ottawa, ORG, 1
+Mother Teresa High School, FAC, 1
+UCLA - The Globe and Mail A, ORG, 1
+next month's, DATE, 1
+Republican National Convention, ORG, 1
+The Globe and Mail Children, ORG, 1
+Joint Base Andrews, FAC, 1
+Maryland, GPE, 1
+At least two, CARDINAL, 1
+Rough Cut, ORG, 1
+CTV News Food, ORG, 1
+Utah, GPE, 1
+Hundreds, CARDINAL, 1
+Salt Lake City, GPE, 1
+Alberta Oil Crisis Canadian, ORG, 1
+30, CARDINAL, 1
+the Saskatchewan Stock Growers Association, ORG, 1
+Oct. 22, DATE, 1
+Alberta Beef Producers, ORG, 1
+the last five years, DATE, 1
+Oregon Zoo - The Globe and Mail Polar, ORG, 1
+Nora, PERSON, 1
+Conservatives, NORP, 1
+Edmonton, ORG, 1
+Edmonton, PERSON, 1
+21 days, DATE, 1
+The Star Someone, WORK_OF_ART, 1
+Leamington, WORK_OF_ART, 1
+3-year-old, DATE, 1
+Stacey Feeley, PERSON, 1
+D.C., GPE, 1
+Clinton, PERSON, 1
+six months ago, DATE, 1
+Hillary Clinton’s, PERSON, 1
+first, ORDINAL, 1
+Avian, NORP, 1
+About 14,000, CARDINAL, 1
+H5N2, ORG, 1
+24-year-old, DATE, 1
+Trent Harmon, PERSON, 1
+the “American Idol”, EVENT, 1
+U.S. Secret Service, ORG, 1
+The Globe and Mail The White House, ORG, 1
+The Star Persistent, WORK_OF_ART, 1
+Trump, ORG, 1
+Constellation Brands Inc., ORG, 1
+Defiant Sharks, ORG, 1
+Pittsburgh Penguins’, ORG, 1
+Arthur, PERSON, 1
+night, TIME, 1
+Belgium, GPE, 1
+last month, DATE, 1
+COVID-19 - National | Globalnews.ca Get, ORG, 1
+Miami Gardens, LOC, 1
+Fort McMurray, GPE, 1
+Jimi Hendrix's, PERSON, 1
+London, GPE, 1
+Jimi Hendrix, PERSON, 1
+85,000, MONEY, 1
+| The Star Maplehurst Correctional Complex, WORK_OF_ART, 1
+the White House, ORG, 1
+early Monday afternoon, TIME, 1
+CTV News Government, ORG, 1
+5:30 p.m. ET, TIME, 1
+Eastern Conference, ORG, 1
+NHL, ORG, 1
+CBC Sports -  , ORG, 1
+only a few weeks ago, DATE, 1
+the Tampa Bay Lightning, ORG, 1
+a few months, DATE, 1
+The Globe and Mail Man, ORG, 1
+Pennsylvania, GPE, 1
+Philadelphia, GPE, 1
+Youngstown, PERSON, 1
+Cleveland, GPE, 1
+two hours, TIME, 1
+Mexico | CTV News, ORG, 1
+Javier Hernandez, PERSON, 1
+N.B. Anglophone, ORG, 1
+Gregg Ingersoll, PERSON, 1
+RCMP, PERSON, 1
+The White House, ORG, 1
+The Star Toronto South Detention Centre, ORG, 1
+One, CARDINAL, 1
+early this morning, TIME, 1
+46, DATE, 1
+Nigeria, GPE, 1
+Nov. 4, DATE, 1
+St. Catharines, ORG, 1
+Opposition, ORG, 1
+52-year-old, DATE, 1
+Maria Korcsmaros, PERSON, 1
+Videos & Articles, ORG, 1
+Sagamok Anishnawbek First Nation, ORG, 1
+Sagamok Anishnawbek, ORG, 1
+COVID-19 | CTV News Health, ORG, 1
+Christian Dube, PERSON, 1
+Horacio Arruda, PERSON, 1
+Quebec, PERSON, 1
+Constellation, PRODUCT, 1
+More than 100, CARDINAL, 1
+AHS, ORG, 1
+Stollery ER | CTV News One, FAC, 1
+Alberta Health Services, ORG, 1
+more than a week, DATE, 1
+LIVE NOW, ORG, 1
+60,000, MONEY, 1
+The Globe and Mail Explosions, ORG, 1
+At least 31, CARDINAL, 1
+Harry Styles’, PERSON, 1
+Latin America, LOC, 1
+Wency Leung, PERSON, 1
+Ivan Semeniuk, PERSON, 1
+Maplehurst Correctional Complex | The Star Prisoners, ORG, 1
+Kashmir - National | Globalnews.ca Fresh, ORG, 1
+Kashmir, LOC, 1
+Seven, CARDINAL, 1
+Northern Ontario, LOC, 1
+hundreds, CARDINAL, 1
+just the past three months, DATE, 1
+Earth, LOC, 1
+Earth Video, PERSON, 1
+The Star Fears, ORG, 1
+election-day, DATE, 1
+Toronto South Detention Centre, FAC, 1
+third, ORDINAL, 1
+the Toronto South Detention Centre, FAC, 1
+Southern Ontario - The Globe and Mail Food, LOC, 1
+The Star The White House, WORK_OF_ART, 1
+the Memorial Day, EVENT, 1
+the Naval Medical Centre San Diego, ORG, 1
+a Department of Defence, ORG, 1
+Detroit, GPE, 1
+4-year-old, DATE, 1
+The Star, WORK_OF_ART, 1
+three-kilometre, QUANTITY, 1
+McMurray, ORG, 1
+12, CARDINAL, 1
+| The Star The White House, PRODUCT, 1
+Barack Obama, PERSON, 1
+Truck, PERSON, 1
+Four, CARDINAL, 1
+nine, CARDINAL, 1
+Brazil, GPE, 1
+White House - National | Globalnews.ca A, ORG, 1
+the White House, FAC, 1
+six-hour, TIME, 1
+Western Canadian, NORP, 1
+26,000, CARDINAL, 1
+Ian Mulgrew, PERSON, 1
+10 days, DATE, 1
+January 2010, DATE, 1
+Kent Institution, ORG, 1
+Agassiz, ORG, 1
+Peter Smith, PERSON, 1
+the Corona Tavern, ORG, 1
+Ten hours, TIME, 1
+each day, DATE, 1
+the Supreme Court's, ORG, 1
+US, GPE, 1
+Capitol - National | Globalnews.ca Three, ORG, 1
+Capitol, ORG, 1
+China, GPE, 1
+The Globe and Mail China’s, ORG, 1
+AQSIQ, ORG, 1
+February, DATE, 1
+April 1, DATE, 1
+The Globe and Mail Law, ORG, 1
+Sun HOUSTON, PERSON, 1
+Vendor, PERSON, 1
+the University of Missouri, ORG, 1
+the Republican National Convention, ORG, 1
+| Watch, ORG, 1
+Video Online, PERSON, 1
+The Globe and Mail Campus, ORG, 1
+two-hour, TIME, 1
+months, DATE, 1
+Millwood, ORG, 1
+Three, CARDINAL, 1
+Millwood High School, ORG, 1
+CTV, ORG, 1
+Kayla Hounsell, PERSON, 1
+Columbus Zoo, ORG, 1
+7-month-old, DATE, 1
+about 15 minutes, TIME, 1
+The Globe and Mail Coronary, ORG, 1
+an estimated 370,000, CARDINAL, 1
+Group of Seven, ORG, 1
+this week, DATE, 1
+up to $16.7M, MONEY, 1
+Lawrence MacAulay, PERSON, 1
+$16.7 million, MONEY, 1
+10,000, CARDINAL, 1
+MacAulay, ORG, 1
+the House of Commons, ORG, 1
+the Saskatchewan Penitentiary, LOC, 1
+Corrections Canada, ORG, 1
+Neighbourhood, ORG, 1
+Saturday night, TIME, 1

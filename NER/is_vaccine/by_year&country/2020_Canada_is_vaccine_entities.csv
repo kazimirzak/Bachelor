@@ -1,0 +1,2878 @@
+entity, label, count
+Canada, GPE, 612
+COVID-19, PRODUCT, 561
+first, ORDINAL, 414
+COVID-19, PERSON, 406
+The Globe and Mail, ORG, 318
+U.S., GPE, 305
+Pfizer, PERSON, 207
+Canadians, NORP, 187
+Canadian, NORP, 162
+Moderna, GPE, 123
+GlobalNews.ca, ORG, 120
+Trudeau, PERSON, 117
+Toronto, GPE, 107
+Monday, DATE, 106
+China, GPE, 97
+Health Canada, ORG, 88
+Tuesday, DATE, 88
+U.K., GPE, 86
+Russia, GPE, 83
+AstraZeneca, ORG, 80
+two, CARDINAL, 77
+Alberta, GPE, 74
+Ottawa, GPE, 73
+Moderna, PERSON, 73
+CBC News, ORG, 72
+Wednesday, DATE, 71
+Britain, GPE, 67
+one, CARDINAL, 59
+Justin Trudeau, PERSON, 58
+Chinese, NORP, 52
+next week, DATE, 51
+today, DATE, 51
+Ontario, GPE, 50
+second, ORDINAL, 50
+Friday, DATE, 45
+B.C., GPE, 44
+First, ORDINAL, 42
+Thursday, DATE, 41
+millions, CARDINAL, 39
+the United States, GPE, 39
+2021, DATE, 39
+Americans, NORP, 39
+Quebec, GPE, 38
+Manitoba, GPE, 37
+Donald Trump, PERSON, 35
+this week, DATE, 33
+Saturday, DATE, 33
+CBC Radio, ORG, 32
+Vaccine, PERSON, 32
+Today, DATE, 31
+British, NORP, 30
+FDA, ORG, 30
+Vancouver Sun, PERSON, 30
+Sunday, DATE, 30
+Russian, NORP, 30
+Biden, PERSON, 29
+January, DATE, 27
+EU, ORG, 25
+four, CARDINAL, 25
+Tam, PERSON, 24
+Germany, GPE, 24
+| CTV News, ORG, 24
+months, DATE, 24
+Trump, ORG, 23
+B.C., PERSON, 23
+Brazil, GPE, 23
+1st, ORDINAL, 22
+Bill Kelly, PERSON, 22
+WHO, ORG, 22
+Vancouver, GPE, 21
+Europe, LOC, 21
+early 2021, DATE, 21
+this year, DATE, 21
+Doug Ford, PERSON, 20
+German, NORP, 19
+Mexico, GPE, 19
+Oxford, ORG, 18
+3, CARDINAL, 18
+daily, DATE, 18
+US, GPE, 18
+Pfizer’s, ORG, 18
+Christmas, DATE, 18
+next year, DATE, 18
+Theresa Tam, PERSON, 18
+Toronto Sun, ORG, 18
+Rick Hillier, PERSON, 17
+Bonnie Henry, PERSON, 17
+three, CARDINAL, 17
+Moderna’s, ORG, 17
+Trump, PERSON, 16
+Joe Biden, PERSON, 16
+TSX, ORG, 16
+Moderna COVID-19, PERSON, 15
+Ottawa, ORG, 15
+days, DATE, 15
+Ford, ORG, 15
+India, GPE, 15
+American, NORP, 15
+Quebec City, GPE, 14
+November, DATE, 14
+Feds, NORP, 14
+2020, DATE, 14
+BioNTech, GPE, 14
+years, DATE, 14
+this month, DATE, 14
+2nd, ORDINAL, 14
+Johnson & Johnson, ORG, 14
+last week, DATE, 13
+Jason Kenney, PERSON, 13
+The Globe and Mail Brent, ORG, 13
+Oxford University, ORG, 13
+Video Online, PERSON, 13
+White House, ORG, 13
+thousands, CARDINAL, 13
+90%, PERCENT, 13
+2, CARDINAL, 13
+Moscow, GPE, 12
+Two, CARDINAL, 12
+weeks, DATE, 12
+UN, ORG, 12
+NHL, ORG, 11
+Saskatchewan, NORP, 11
+20 million, CARDINAL, 11
+CTV National News, ORG, 11
+billions, CARDINAL, 11
+94.5%, PERCENT, 11
+Dalhousie University, ORG, 10
+third, ORDINAL, 10
+30,000, CARDINAL, 10
+March, DATE, 10
+Ontario, PERSON, 10
+Anthony Fauci, PERSON, 10
+Saskatchewan, GPE, 10
+New Brunswick, PERSON, 10
+UK, GPE, 10
+five, CARDINAL, 10
+Dec. 14, DATE, 10
+Australia, GPE, 10
+| Watch News, ORG, 10
+1, CARDINAL, 9
+5, CARDINAL, 9
+the United Kingdom, GPE, 9
+BC, ORG, 9
+1,950, CARDINAL, 9
+95%, PERCENT, 9
+Fauci, PERSON, 9
+Kamala Harris, PERSON, 9
+the end of the year, DATE, 9
+LONDON, GPE, 9
+Indonesia, GPE, 9
+One, CARDINAL, 9
+Liberals, NORP, 9
+Atlantic, LOC, 9
+Globe, ORG, 8
+the World Health Organization, ORG, 8
+1st, DATE, 8
+April, DATE, 8
+Olympics, EVENT, 8
+Johnson, PERSON, 8
+London, GPE, 8
+next month, DATE, 8
+Christine Elliott, PERSON, 8
+December, DATE, 8
+Saskatoon, GPE, 8
+CDC, ORG, 8
+Fauci, ORG, 8
+The Globe and Mail Canada, ORG, 7
+Dow, ORG, 7
+African, NORP, 7
+The Globe and Mail U.S., ORG, 7
+AstraZeneca’s, ORG, 7
+Mike Pence, PERSON, 7
+hundreds, CARDINAL, 7
+The Globe and Mail Also, ORG, 7
+September, DATE, 7
+early next year, DATE, 7
+Ivan Semeniuk, PERSON, 7
+300,000, CARDINAL, 7
+morning, TIME, 7
+hours, TIME, 7
+100 million, CARDINAL, 7
+GlaxoSmithKline, PERSON, 7
+European, NORP, 7
+Three, CARDINAL, 7
+six, CARDINAL, 7
+The Globe and Mail Federal, ORG, 6
+500,000, CARDINAL, 6
+Prince Edward Island, GPE, 6
+at least a year, DATE, 6
+Trump’s, ORG, 6
+90 per cent, MONEY, 6
+mid-2021, DATE, 6
+the end of this year, DATE, 6
+Vladimir Putin, PERSON, 6
+Montreal, GPE, 6
+British Columbia, GPE, 6
+winter, DATE, 6
+CanSino, ORG, 6
+the end of December, DATE, 6
+Tokyo Games, EVENT, 6
+SNL, ORG, 6
+EXPLAINER, PERSON, 6
+Moderna Inc., ORG, 6
+French, NORP, 6
+The Globe and Mail Pfizer, ORG, 6
+20, CARDINAL, 6
+the White House, ORG, 6
+July, DATE, 6
+a day, DATE, 6
+South Korea, GPE, 6
+B.C.’s, ORG, 6
+HPV, ORG, 6
+year, DATE, 6
+Africa, LOC, 6
+the new year, DATE, 6
+$20 million, MONEY, 6
+G20, ORG, 6
+Vaccinology, ORG, 6
+13, CARDINAL, 6
+week, DATE, 6
+half, CARDINAL, 6
+AstraZeneca COVID-19, PRODUCT, 6
+this fall, DATE, 6
+September 2021, DATE, 5
+Ipsos, PERSON, 5
+The Globe and Mail Investors, ORG, 5
+the Food and Drug Administration, ORG, 5
+Congress, ORG, 5
+Pence, ORG, 5
+RNA, ORG, 5
+Alaska, GPE, 5
+Latin America, LOC, 5
+IOC, ORG, 5
+Israeli, NORP, 5
+Ontarians, NORP, 5
+N.S., GPE, 5
+New Brunswick, GPE, 5
+168,000, CARDINAL, 5
+South Africa, GPE, 5
+Reuters, ORG, 5
+June, DATE, 5
+Health, ORG, 5
+The Star Ontario, WORK_OF_ART, 5
+Vancouver Sun, ORG, 5
+The Globe and Mail Canadian, ORG, 5
+U.S. FDA, ORG, 5
+Florida, GPE, 5
+Avis Favaro, PERSON, 5
+Pfizer Inc., ORG, 5
+night, TIME, 5
+70, CARDINAL, 5
+billions of dollars, MONEY, 5
+New York, GPE, 5
+York Region, GPE, 5
+the end of 2021, DATE, 5
+more than 90%, PERCENT, 5
+Erin O'Toole, PERSON, 5
+The Star, WORK_OF_ART, 5
+Canada Video Online, ORG, 5
+California, GPE, 5
+’ Video Online, WORK_OF_ART, 5
+England, GPE, 5
+B.C., ORG, 5
+Operation Warp Speed, ORG, 5
+Israel, GPE, 5
+Star, ORG, 5
+95 per cent, MONEY, 5
+249,000, CARDINAL, 5
+recent months, DATE, 5
+North American, NORP, 5
+year-end, DATE, 5
+CureVac, ORG, 5
+GSK, ORG, 5
+Jan. 1, DATE, 5
+The Globe and Mail Quebec, ORG, 5
+NDP, ORG, 5
+The Globe and Mail Health Canada, ORG, 5
+Henry, PERSON, 5
+October, DATE, 5
+the University of Waterloo, ORG, 5
+Pfizer, GPE, 5
+KINSELLA, PERSON, 5
+6,000, CARDINAL, 5
+tens of thousands, CARDINAL, 5
+Halifax, ORG, 5
+15, CARDINAL, 5
+COVID-19 vaccine - The Globe and Mail, PRODUCT, 5
+Italy, GPE, 5
+mid-December, DATE, 5
+CERB, ORG, 4
+three million, CARDINAL, 4
+Grade 7, FAC, 4
+CBC Sports, ORG, 4
+Calgary, GPE, 4
+Medicago, ORG, 4
+2,000, CARDINAL, 4
+Pakistan, GPE, 4
+the end of 2020, DATE, 4
+The Globe and Mail Unlike, ORG, 4
+Hungary, GPE, 4
+Election Day, DATE, 4
+the coming months, DATE, 4
+Derek Sloan, PERSON, 4
+WASHINGTON, GPE, 4
+Ont, PERSON, 4
+80, CARDINAL, 4
+Atlantic Canada, LOC, 4
+Margaret Keenan, PERSON, 4
+the European Medicines Agency, ORG, 4
+90-year-old, DATE, 4
+The Star Health Canada, ORG, 4
+1 million, CARDINAL, 4
+First Nations, ORG, 4
+more than 75 million, MONEY, 4
+CNN, ORG, 4
+Birx, PERSON, 4
+May, DATE, 4
+12, CARDINAL, 4
+Tennessee, GPE, 4
+Toronto Sun OTTAWA —, ORG, 4
+COVID-19 | CTV News, ORG, 4
+More than 100, CARDINAL, 4
+Tokyo, GPE, 4
+CBC News Canada, ORG, 4
+two weeks, DATE, 4
+2 million, CARDINAL, 4
+seven, CARDINAL, 4
+Asia, LOC, 4
+CBC, ORG, 4
+Dec. 11, DATE, 4
+hundreds of thousands, CARDINAL, 4
+500, CARDINAL, 4
+dozens, CARDINAL, 4
+the weekend, DATE, 4
+Boeing, ORG, 4
+CBC News Ontario, ORG, 4
+the first quarter of 2021, DATE, 4
+earlier this month, DATE, 4
+season, DATE, 4
+France, GPE, 4
+a year, DATE, 4
+Putin, PERSON, 4
+the European Union, ORG, 4
+Dec. 15, DATE, 4
+The World Health Organization, ORG, 4
+Oxford-AstraZeneca, ORG, 4
+last month, DATE, 4
+The Globe and Mail AstraZeneca, ORG, 4
+six million, CARDINAL, 4
+10, CARDINAL, 4
+Scott Thompson, PERSON, 4
+University of Waterloo, ORG, 4
+Sinopharm, ORG, 4
+Beijing, GPE, 4
+The Globe and Mail Scientists, ORG, 4
+Last week, DATE, 4
+about 2021, DATE, 4
+Japan, GPE, 4
+The United States, GPE, 4
+Ford, PERSON, 4
+Sun, ORG, 4
+Hinshaw, PERSON, 4
+Bank of Canada, ORG, 4
+the week, DATE, 4
+August, DATE, 4
+Isaac Bogoch, PERSON, 4
+40,000, CARDINAL, 4
+Anita Anand, PERSON, 4
+Boris Johnson, PERSON, 4
+CTV News Canada, ORG, 3
+next September, DATE, 3
+United States, GPE, 3
+The Globe and Mail Biden, ORG, 3
+later this month, DATE, 3
+50 million, CARDINAL, 3
+Justin Trudeau’s, PERSON, 3
+fourth, ORDINAL, 3
+Patty Hajdu, PERSON, 3
+MMR, ORG, 3
+Thousands, CARDINAL, 3
+afternoon, TIME, 3
+Pfizer-BioNTech, PERSON, 3
+Miramichi, GPE, 3
+Asian, NORP, 3
+172, CARDINAL, 3
+recent weeks, DATE, 3
+Trudeau, ORG, 3
+$192M, MONEY, 3
+the holidays, DATE, 3
+Newfoundland, GPE, 3
+The Star TORONTO -, WORK_OF_ART, 3
+Dec. 4, DATE, 3
+4, CARDINAL, 3
+Conservatives, NORP, 3
+Hillier, PERSON, 3
+the International Olympic Committee, ORG, 3
+1.6 million, CARDINAL, 3
+Hundreds, CARDINAL, 3
+the National Institutes of Health, ORG, 3
+two billion, CARDINAL, 3
+Video Online, WORK_OF_ART, 3
+Labrador, PERSON, 3
+CoronaVac, ORG, 3
+The Globe and Mail Vaccine, ORG, 3
+7, CARDINAL, 3
+The Globe and Mail China, ORG, 3
+Francis, PERSON, 3
+Vatican, FAC, 3
+Dany Fortin, PERSON, 3
+Ian McKellen, PERSON, 3
+Thomas Bach, PERSON, 3
+BioNtech, ORG, 3
+Trudeau - National, ORG, 3
+400,000, CARDINAL, 3
+North Korea, GPE, 3
+Pfizer Inc’s, PERSON, 3
+Statistics Canada, ORG, 3
+the University of Saskatchewan, ORG, 3
+many months, DATE, 3
+Pfizer-BioNTech’s, ORG, 3
+Brian Goldman, PERSON, 3
+Dec. 2, DATE, 3
+Health Canada's, ORG, 3
+N.B., GPE, 3
+one year, DATE, 3
+‘year, DATE, 3
+24 hours, TIME, 3
+YouTube, ORG, 3
+Dartmouth, ORG, 3
+17, CARDINAL, 3
+one-day, DATE, 3
+early January, DATE, 3
+30, CARDINAL, 3
+Dec. 10, DATE, 3
+Bolsonaro, ORG, 3
+Brazilian, NORP, 3
+the end of this month, DATE, 3
+Global News, ORG, 3
+North Korean, NORP, 3
+Ontario Video Online, ORG, 3
+CTV News, ORG, 3
+Mexican, NORP, 3
+the end of next year, DATE, 3
+Nov. 30, DATE, 3
+The Globe and Mail Russia, ORG, 3
+Health Canada’s, ORG, 3
+Netanyahu, PERSON, 3
+zero, CARDINAL, 3
+Aug. 5, DATE, 3
+67, CARDINAL, 3
+The Globe and Mail Health, ORG, 3
+Elon Musk, PERSON, 3
+Manitobans, NORP, 3
+Nunavut, ORG, 3
+Hamilton, PERSON, 3
+a week, DATE, 3
+Sanofi, ORG, 3
+VIRUS, ORG, 3
+94.5 per cent, MONEY, 3
+Dec. 16, DATE, 3
+The Star TANZANIA, WORK_OF_ART, 3
+Tanzania, GPE, 3
+2022, DATE, 3
+Dec. 7, DATE, 3
+Metro Vancouver, FAC, 3
+more than 100, CARDINAL, 3
+The Globe and Mail There’s, ORG, 3
+The Globe and Mail Countries, ORG, 3
+the next few weeks, DATE, 3
+evening, TIME, 3
+8,000, CARDINAL, 3
+Sun B.C., PERSON, 3
+The Globe and Mail There, ORG, 3
+84-year-old, DATE, 3
+300 million, CARDINAL, 3
+month's end, DATE, 3
+less than two months, DATE, 3
+Nobel, WORK_OF_ART, 3
+Howard Njoo, PERSON, 3
+The Globe and Mail A, ORG, 3
+this weekend, DATE, 3
+summer, DATE, 3
+hundreds of millions of dollars, MONEY, 3
+ICU, ORG, 3
+BioNTech, ORG, 3
+European Commission, ORG, 3
+year’s end, DATE, 3
+century-old, DATE, 3
+Dec. 9, DATE, 3
+the Canadian Centre for, FAC, 3
+400 million, CARDINAL, 3
+year's end, DATE, 3
+Ontario’s, ORG, 3
+NHS, ORG, 3
+Erin O’Toole, PERSON, 3
+21, CARDINAL, 3
+Tories, NORP, 3
+Nova Scotia, ORG, 3
+Slovakia, ORG, 3
+Nov. 3, DATE, 3
+U.S, GPE, 3
+House, ORG, 3
+Bill Gates, PERSON, 3
+Tom Hanks, PERSON, 3
+Grand River Hospital, FAC, 3
+Waterloo Region, GPE, 3
+tomorrow, DATE, 3
+The Globe and Mail For, ORG, 2
+100, CARDINAL, 2
+1,500, CARDINAL, 2
+Western, NORP, 2
+Five, CARDINAL, 2
+South African, NORP, 2
+Sun Ontario’s, PERSON, 2
+Brent Bambury, LOC, 2
+IBM, ORG, 2
+The Star A, WORK_OF_ART, 2
+coming weeks, DATE, 2
+76 million, CARDINAL, 2
+Donald Trump , PERSON, 2
+The Globe and Mail Providence Therapeutics, ORG, 2
+a year to 18 months, DATE, 2
+3,900, CARDINAL, 2
+New Brunswick, ORG, 2
+Oxford University’s, ORG, 2
+1.1B, MONEY, 2
+New York City, GPE, 2
+39, MONEY, 2
+The Globe and Mail Serbia, ORG, 2
+Cambridge, GPE, 2
+tens of millions, CARDINAL, 2
+next spring, DATE, 2
+Edmonton, GPE, 2
+2,408, CARDINAL, 2
+The Globe and Mail Speaking, ORG, 2
+the end of September, DATE, 2
+Argentina, GPE, 2
+150 million, CARDINAL, 2
+the House of Commons, ORG, 2
+the Tokyo Olympics, EVENT, 2
+The Globe and Mail Study, ORG, 2
+41, CARDINAL, 2
+The Globe and Mail Some, ORG, 2
+John Horgan, PERSON, 2
+almost 4,000, CARDINAL, 2
+Djokovic, ORG, 2
+May 16, DATE, 2
+The Globe and Mail TSX, ORG, 2
+The Globe and Mail Pair, ORG, 2
+Jan. 4, DATE, 2
+1,685, CARDINAL, 2
+half an hour, TIME, 2
+Anita Quidangen, PERSON, 2
+$214M, MONEY, 2
+William Shakespeare, PERSON, 2
+Nearly half, CARDINAL, 2
+Charlottetown, ORG, 2
+$300 million, MONEY, 2
+The Globe and Mail South Africa, ORG, 2
+fifth, ORDINAL, 2
+Netflix, GPE, 2
+The Star LONDON, PERSON, 2
+177 million, CARDINAL, 2
+8 million, CARDINAL, 2
+Pfizer Inc’s, ORG, 2
+Singapore, GPE, 2
+next summer, DATE, 2
+133, CARDINAL, 2
+Geneva, GPE, 2
+2.4 million, CARDINAL, 2
+between January and March, DATE, 2
+Turkey, GPE, 2
+the summer, DATE, 2
+Beck Bennett, PERSON, 2
+The Star Canada, ORG, 2
+Ron DeSantis, PERSON, 2
+CFL, ORG, 2
+The Globe and Mail Science, ORG, 2
+Puerto Rico, GPE, 2
+Pfizer-BioNTech's, ORG, 2
+CBC News Canada's, ORG, 2
+Latest, ORG, 2
+The Globe and Mail Loonie, ORG, 2
+Saint-Antoine, ORG, 2
+Boxing Day, EVENT, 2
+the U.S. Food and Drug Administration, ORG, 2
+yesterday, DATE, 2
+0.2%, PERCENT, 2
+Aug. 31, DATE, 2
+last year, DATE, 2
+a decade, DATE, 2
+Dominic LeBlanc, PERSON, 2
+6, CARDINAL, 2
+Illinois, GPE, 2
+Boston, GPE, 2
+June 4, DATE, 2
+Shayan Sharif, PERSON, 2
+the University of Guelph, ORG, 2
+annual, DATE, 2
+St. Peter’s Basilica, GPE, 2
+British Columbia's, GPE, 2
+Indonesian, NORP, 2
+the early months of 2021, DATE, 2
+two million, CARDINAL, 2
+Massachusetts, GPE, 2
+one year ago, DATE, 2
+$1.1 billion, MONEY, 2
+April 23, DATE, 2
+Freeland, GPE, 2
+BBC, ORG, 2
+3 million, CARDINAL, 2
+CBC News Federal, ORG, 2
+Hong Kong, GPE, 2
+more than a week, DATE, 2
+Jair Bolsonaro, PERSON, 2
+| The Star, PRODUCT, 2
+Wisconsin, GPE, 2
+Vancouver Sun Provincial, ORG, 2
+1.5 million, CARDINAL, 2
+Saskatchewan, PERSON, 2
+Sackville, GPE, 2
+| CTV News Canada's, ORG, 2
+the year, DATE, 2
+the spring, DATE, 2
+Cuomo, PERSON, 2
+Philippines, GPE, 2
+Pediatricians, NORP, 2
+155, CARDINAL, 2
+Roy Green, PERSON, 2
+McConnell, PERSON, 2
+Senate, ORG, 2
+nearly two months Monday, DATE, 2
+University of Calgary, ORG, 2
+earlier this week, DATE, 2
+The Star TEL AVIV, ORG, 2
+49, CARDINAL, 2
+Conservative, NORP, 2
+the National Research Council, ORG, 2
+May 4, DATE, 2
+Bains, PRODUCT, 2
+Bolsonaro, PERSON, 2
+Benjamin Netanyahu, PERSON, 2
+2,177, CARDINAL, 2
+Group, ORG, 2
+Muslims, NORP, 2
+Hundreds of thousands, CARDINAL, 2
+two days, DATE, 2
+Kingston, GPE, 2
+The Globe and Mail Pfizer’s, ORG, 2
+nearly 150, CARDINAL, 2
+CBC News Network, ORG, 2
+Goldman, ORG, 2
+DIY, ORG, 2
+the end of March, DATE, 2
+10 days, DATE, 2
+COVID-19, ORG, 2
+Sun Canada, ORG, 2
+Kenney, ORG, 2
+Jan. 20, DATE, 2
+101, CARDINAL, 2
+1,487, CARDINAL, 2
+United Arab Emirates, GPE, 2
+the end of the month, DATE, 2
+tens of billions of dollars, MONEY, 2
+South Korean, NORP, 2
+UBC, ORG, 2
+230,000, MONEY, 2
+Supreme Court, ORG, 2
+The Globe and Mail’s, ORG, 2
+New Zealand, GPE, 2
+several hundred thousand, CARDINAL, 2
+The Globe and Mail Move, ORG, 2
+$12-billion, MONEY, 2
+Waterloo, PERSON, 2
+2 billion, CARDINAL, 2
+$1 billion, MONEY, 2
+The Globe and Mail While, ORG, 2
+the U.S. Video Online, ORG, 2
+The Globe and Mail India, ORG, 2
+1,000, CARDINAL, 2
+The Globe and Mail Sanofi, ORG, 2
+3,000, CARDINAL, 2
+Over 3,000, CARDINAL, 2
+80, DATE, 2
+Wuhan, GPE, 2
+Second, ORDINAL, 2
+Johnson & Johnson's, ORG, 2
+coming days, DATE, 2
+More than 150, CARDINAL, 2
+The Globe and Mail Novavax, ORG, 2
+Jill Lepore, ORG, 2
+Rosenberg, PERSON, 2
+2 days, DATE, 2
+Alex Boyd, PERSON, 2
+Sun, PERSON, 2
+1.2 million, CARDINAL, 2
+The Globe and Mail Province, ORG, 2
+CRA, ORG, 2
+NATO, ORG, 2
+Medicine Hat, PERSON, 2
+U.N., ORG, 2
+OPEC+, ORG, 2
+VBI Vaccines, ORG, 2
+Delaware, GPE, 2
+Johns Hopkins University, ORG, 2
+Province, GPE, 2
+57, CARDINAL, 2
+John Diefenbaker, PERSON, 2
+Poland, GPE, 2
+B.C. COVID-19, PERSON, 2
+Newfoundland, PERSON, 2
+June 30, DATE, 2
+Gordon Pape, PERSON, 2
+Xmas, PERSON, 2
+Mike Smyth, PERSON, 2
+Brian Pallister, PERSON, 2
+May 12, DATE, 2
+The Globe and Mail Saskatchewan, ORG, 2
+July 23, DATE, 2
+The Star TAIPEI, ORG, 2
+Taiwan, GPE, 2
+Novavax, PERSON, 2
+up to 249,000, CARDINAL, 2
+$1.1-billion, MONEY, 2
+Regina, LOC, 2
+Asia-Pacific, LOC, 2
+AZD1222, LOC, 2
+Windsor-Essex, GPE, 2
+250,000, CARDINAL, 2
+680,000, CARDINAL, 2
+Vatican, GPE, 2
+686,000, CARDINAL, 2
+Edmonton, PERSON, 2
+this summer, DATE, 2
+the Bank of Canada, ORG, 2
+Nasdaq, ORG, 2
+1,887, CARDINAL, 2
+Michael Kovrig, PERSON, 2
+Michael Spavor, PERSON, 2
+Toronto Sun Canada, ORG, 2
+one day, DATE, 2
+NRC, ORG, 2
+VIDO, ORG, 2
+Dec. 8, DATE, 2
+USask, GPE, 2
+The Star TORONTO - Canada's, WORK_OF_ART, 2
+The Morning Show, WORK_OF_ART, 2
+more than 10,000, CARDINAL, 2
+Nov. 10, DATE, 2
+19, CARDINAL, 2
+2B, MONEY, 2
+The Globe and Mail Money, ORG, 2
+Letitia Wright, PERSON, 2
+Twitter, PRODUCT, 2
+one million, CARDINAL, 2
+The Globe and Mail Air Canada, ORG, 2
+National Research Council, ORG, 2
+eight, CARDINAL, 2
+1976, DATE, 2
+Western University, ORG, 2
+'The Morning Show', WORK_OF_ART, 2
+Pascal Soriot, PERSON, 2
+Air Canada, ORG, 2
+Labrador, GPE, 2
+Albertans, NORP, 2
+André Picard, PERSON, 2
+Vaccine Task Force, FAC, 2
+The Globe and Mail Researchers, ORG, 2
+619, CARDINAL, 2
+16, CARDINAL, 2
+Moncef Slaoui, PERSON, 2
+COVID-19 - The Globe and Mail, ORG, 2
+AJ Vaccines, ORG, 2
+Papua New Guinea, GPE, 2
+Dec. 29, DATE, 2
+StatCan, ORG, 2
+100,000, CARDINAL, 2
+16 million, CARDINAL, 2
+60, CARDINAL, 2
+2 billion, MONEY, 2
+next Wednesday, DATE, 2
+Democrats, NORP, 2
+tens of millions, MONEY, 2
+87, CARDINAL, 2
+The Globe and Mail Without, ORG, 2
+18, CARDINAL, 2
+more than 20, CARDINAL, 2
+The Star Pfizer, WORK_OF_ART, 2
+Niger, PERSON, 2
+Pfizer Canada, ORG, 2
+292, CARDINAL, 2
+$12 billion, MONEY, 2
+Muslim, NORP, 2
+Complex, NORP, 2
+TB, ORG, 2
+more than 100,000, CARDINAL, 2
+Gary Kobinger, PERSON, 2
+Morocco, GPE, 2
+Meera Estrada, PERSON, 2
+The Globe and Mail Britain, ORG, 2
+less than half, CARDINAL, 2
+Bahrain, GPE, 2
+the Centers for Disease Control and Prevention, ORG, 2
+BlackBerry, ORG, 2
+Natasha Crowcroft, PERSON, 2
+Summer Games, EVENT, 2
+Brian Burke, PERSON, 2
+World, ORG, 2
+Nov. 1, DATE, 2
+Chapman’s Ice Cream, ORG, 2
+Markdale, GPE, 2
+National Cyber Security Centre, ORG, 2
+Arruda, PERSON, 2
+25, CARDINAL, 2
+CBC Radio Canada's, ORG, 2
+late October, DATE, 2
+522, CARDINAL, 2
+Michigan, GPE, 2
+several months, DATE, 2
+Indian, NORP, 2
+Narendra Modi, PERSON, 2
+Half a dozen, CARDINAL, 2
+several dozen, CARDINAL, 2
+more than one, CARDINAL, 2
+140, CARDINAL, 2
+up to, CARDINAL, 2
+CBC News Health Canada, ORG, 2
+Dec. 13, DATE, 2
+The National’s, ORG, 2
+Andrew Chang, PERSON, 2
+738, CARDINAL, 2
+PPE, ORG, 2
+Albert Bourla, PERSON, 2
+Pfizer Inc, PERSON, 2
+European Union, ORG, 2
+The Globe and Mail Anyone, ORG, 2
+almost a year, DATE, 2
+Globe and Mail, ORG, 2
+this season, DATE, 2
+more than half, CARDINAL, 2
+The Globe and Mail Many, ORG, 2
+Vienna, GPE, 2
+Dec. 3, DATE, 2
+50 years, DATE, 2
+27, CARDINAL, 2
+America, GPE, 2
+$850 million, MONEY, 2
+COVID-19 Immunization Task Force, ORG, 2
+The Globe and Mail Trump, ORG, 2
+The Globe and Mail Ottawa, ORG, 2
+the next week, DATE, 2
+Christmas Day, DATE, 2
+nine, CARDINAL, 2
+Antonio Guterres, PERSON, 2
+$1-billion, MONEY, 2
+P.E.I., GPE, 2
+Novavax and Johnson & Johnson, ORG, 2
+the coming weeks, DATE, 2
+next five years, DATE, 2
+United Nations, ORG, 2
+Britons, PERSON, 2
+Rita Wilson, PERSON, 2
+Kitchener, GPE, 2
+-70 C., PERSON, 2
+SHA, ORG, 2
+The United Nations, ORG, 2
+Supriya Sharma, PERSON, 2
+the United Nations, ORG, 2
+Kim, PERSON, 2
+335, CARDINAL, 2
+Bruce Aylward, PERSON, 2
+late 2021, DATE, 2
+Denmark, GPE, 2
+21 days, DATE, 2
+LeBlanc, PERSON, 2
+1,589, CARDINAL, 2
+Covigenix, ORG, 1
+Thursday, June 11, 2020, DATE, 1
+more than 97,000, CARDINAL, 1
+nearly 8,000, CARDINAL, 1
+414 million, CARDINAL, 1
+up to five, CARDINAL, 1
+’ January, DATE, 1
+1,925, CARDINAL, 1
+Matthew Pegg, PERSON, 1
+Feb. 1, DATE, 1
+The Star Adrian Cheung, ORG, 1
+Noni MacDonald, PERSON, 1
+ATP Tour, ORG, 1
+the beginning of 2021, DATE, 1
+early August, DATE, 1
+The Globe and Mail Looking, ORG, 1
+The Star The Pfizer, WORK_OF_ART, 1
+November 2021, DATE, 1
+Nick Rossman, PERSON, 1
+Global Threat Intelligence Lead, ORG, 1
+Security X-Force, ORG, 1
+Axon Capital’s, ORG, 1
+Singh, GPE, 1
+The Globe and Mail Hedge, ORG, 1
+1.04, CARDINAL, 1
+2.43%, PERCENT, 1
+43.82, MONEY, 1
+the last decade, DATE, 1
+Matthew Herder, PERSON, 1
+the Public Health Law Institute, ORG, 1
+Mark Meadows, PERSON, 1
+the first 100 days, DATE, 1
+CBC News Pfizer, ORG, 1
+The Star While the Pfizer, WORK_OF_ART, 1
+five million, CARDINAL, 1
+late May, DATE, 1
+The Globe and Mail Public, ORG, 1
+The Globe and Mail Decision, ORG, 1
+The Globe and Mail These, ORG, 1
+a month, DATE, 1
+The Globe and Mail Optimism, ORG, 1
+CBC News Health, ORG, 1
+NYC, LOC, 1
+More than 30,000, CARDINAL, 1
+the Health Departme, ORG, 1
+3 months, DATE, 1
+at least 20 million, CARDINAL, 1
+The Globe and Mail Timelines, ORG, 1
+nearly $2 billion, MONEY, 1
+April 8, DATE, 1
+April 22, DATE, 1
+early Monday, DATE, 1
+N.B. COVID-19, ORG, 1
+Blaine Higgs, PERSON, 1
+Janssen seeks Health Canada, ORG, 1
+a tough year, DATE, 1
+The Globe and Mail About 300, ORG, 1
+roughly 1,700, CARDINAL, 1
+Atlantic Canada’s, ORG, 1
+the Canadian Medical Association, ORG, 1
+Toronto Sun Researchers, ORG, 1
+CBC Radio Pfizer, ORG, 1
+The Globe and Mail Most Canadians, ORG, 1
+Chapter One, LAW, 1
+Juneau, GPE, 1
+Moderna | Watch News, ORG, 1
+Moderna Video, PERSON, 1
+Wednesday, August 5, 2020, DATE, 1
+Beirut, GPE, 1
+101-year-old, DATE, 1
+Edith Kwoizalla, PERSON, 1
+Calgary Stampede, ORG, 1
+The Globe and Mail Stampede, ORG, 1
+Alberta Health Services, ORG, 1
+Calgary’s Emergency Management Agency, ORG, 1
+Western’s, ORG, 1
+Linda Hasenfratz, PERSON, 1
+Maxwell Smith, PERSON, 1
+BMO, ORG, 1
+The Globe and Mail Trade, ORG, 1
+The Globe and Mail Britain’s, ORG, 1
+the 'coming weeks, DATE, 1
+53,000, CARDINAL, 1
+PM, PERSON, 1
+Tatiana Golikova, PERSON, 1
+| CTV News Essential, ORG, 1
+US$10-billion, MONEY, 1
+N.B. Public Health, ORG, 1
+about 85,000, CARDINAL, 1
+BC NDP, ORG, 1
+200, CARDINAL, 1
+at least 400 million, MONEY, 1
+Trudeau Liberals, ORG, 1
+Moe, PERSON, 1
+Tokyo Olympics Q&A, EVENT, 1
+monthly, DATE, 1
+Maria Van Kerkhove, PERSON, 1
+COVID-19 - National | Globalnews.ca "Babies, ORG, 1
+Vancouver Sun Health Canada, ORG, 1
+Yellen, PERSON, 1
+| CTV News Cats, ORG, 1
+The Star Toronto, WORK_OF_ART, 1
+more than 242, CARDINAL, 1
+130, CARDINAL, 1
+72, CARDINAL, 1
+The Globe and Mail B.C., ORG, 1
+Lower Mainland, ORG, 1
+COVID, ORG, 1
+21st-century, DATE, 1
+Trump - National | Globalnews.ca U.S., ORG, 1
+CFO, ORG, 1
+within days, DATE, 1
+recent days, DATE, 1
+$15-billion, MONEY, 1
+170, MONEY, 1
+$100 billion, MONEY, 1
+World Health Organization, ORG, 1
+Tedros Adhanom Ghebreyesus, PERSON, 1
+3 billion, CARDINAL, 1
+1959, DATE, 1
+an afternoon, TIME, 1
+CTV News Pharmaceutical, ORG, 1
+overnight, TIME, 1
+$173 million, MONEY, 1
+$18.2 million, MONEY, 1
+New Brunswick | Globalnews.ca ', GPE, 1
+87-year-old, DATE, 1
+1,780, CARDINAL, 1
+COVID-19 vaccine - London, PRODUCT, 1
+Middlesex, ORG, 1
+1992, DATE, 1
+the age of, DATE, 1
+Atlantic Canada, ORG, 1
+Francis Maguire, PERSON, 1
+Angus Reid, PERSON, 1
+the U.S. Justice Department, ORG, 1
+the fall of 2021, DATE, 1
+Ethiopia, GPE, 1
+Tigray’s, ORG, 1
+Sobeys, ORG, 1
+Empire, GPE, 1
+Bonnie Lysyk, PERSON, 1
+Nov. 26, DATE, 1
+583,653, CARDINAL, 1
+11,677, CARDINAL, 1
+Netflix, ORG, 1
+RCMP, ORG, 1
+Constitution, LAW, 1
+Margaret Keenan’s, PERSON, 1
+Becton Dickinson, PERSON, 1
+NB, ORG, 1
+Kan Chai, PERSON, 1
+Eighty-four-year-old, CARDINAL, 1
+Pauline Gauvin, PERSON, 1
+Shannex Losier Hall, FAC, 1
+the Cape Breton Regional Hospital, FAC, 1
+Colchester East Hants Health Centre, ORG, 1
+Valley Regional Hospital, ORG, 1
+Yarmouth Regional Hospital, ORG, 1
+Acuitas Therapeutics, ORG, 1
+The Globe and Mail The Liberals, ORG, 1
+25,000, CARDINAL, 1
+The Globe and Mail Alberta, ORG, 1
+$2.5-billion, MONEY, 1
+The Globe and Mail White House, ORG, 1
+May 21, DATE, 1
+80 million, CARDINAL, 1
+Only a third, CARDINAL, 1
+20%, PERCENT, 1
+the Tokyo Games, EVENT, 1
+106, CARDINAL, 1
+the last few days, DATE, 1
+800,000, CARDINAL, 1
+sixth, ORDINAL, 1
+Indigenous Services Canada, ORG, 1
+the coming flu season, DATE, 1
+Nearly 5K, CARDINAL, 1
+Nearly 5,000, CARDINAL, 1
+CNBC, ORG, 1
+Bangladesh, GPE, 1
+June 6, DATE, 1
+Blitzer, PERSON, 1
+Kate McKinnon, PERSON, 1
+Heidi Gardner, PERSON, 1
+352,778, CARDINAL, 1
+11,799, CARDINAL, 1
+December date, DATE, 1
+2024, DATE, 1
+The Globe and Mail Paul Molinaro, ORG, 1
+15 billion, CARDINAL, 1
+The Globe and Mail Florida, ORG, 1
+North America, LOC, 1
+NBA, ORG, 1
+MLS, ORG, 1
+More than 80%, PERCENT, 1
+The Star Experts, ORG, 1
+Fauci - National | Globalnews.ca, ORG, 1
+1,871, CARDINAL, 1
+the Miramichi Regional Hospital, FAC, 1
+‘early’ 2021, DATE, 1
+The Globe and Mail Quebec’s Medicago, ORG, 1
+More than 17, CARDINAL, 1
+Puerto Rico - More than 17,800, GPE, 1
+The Star MOSCOW - Russia, WORK_OF_ART, 1
+Mississippi, GPE, 1
+Memphis, GPE, 1
+about 1%, PERCENT, 1
+third week, DATE, 1
+76 cents, MONEY, 1
+1.7 per cent, MONEY, 1
+44.96, MONEY, 1
+AstraZeneca - The Globe and Mail Pharmaceutical, ORG, 1
+12 months, DATE, 1
+Italian, NORP, 1
+more than 88,000, CARDINAL, 1
+1, MONEY, 1
+$44.32 barrel, MONEY, 1
+1.04, MONEY, 1
+2.4 per cent, MONEY, 1
+Front Burner, PERSON, 1
+| CTV News There, ORG, 1
+100-per cent, MONEY, 1
+75.98 U.S. cents, MONEY, 1
+190,000, CARDINAL, 1
+the Nov. 3, DATE, 1
+Gisèle Lévesque, PERSON, 1
+89-year-old, DATE, 1
+The Star Meanwhile, WORK_OF_ART, 1
+the European Centre for Disease Prevention and Control, ORG, 1
+Yin Weidong, PERSON, 1
+SinoVac, ORG, 1
+Kelowna, PERSON, 1
+An estimated 11,000, CARDINAL, 1
+between 1949 and 1954, DATE, 1
+Serum Institute, ORG, 1
+The Globe and Mail Serum India’s, ORG, 1
+nearly 500,000, CARDINAL, 1
+Kanguru, PERSON, 1
+Vaccine Research Organizations, ORG, 1
+Seige, PERSON, 1
+Kanguru Military-Grade AES Hardware Encrypted, ORG, 1
+Mass., GPE, 1
+Sept. 10, DATE, 1
+more than 70, CARDINAL, 1
+26%, PERCENT, 1
+2008, DATE, 1
+Derrick Rossi, PERSON, 1
+7 cents, MONEY, 1
+43.75, MONEY, 1
+9 cents, MONEY, 1
+41.43, MONEY, 1
+Oliver Stone, PERSON, 1
+34, CARDINAL, 1
+the World Health Organization (WHO, ORG, 1
+hundreds of millions, CARDINAL, 1
+just 12 to 18 months, DATE, 1
+Fraser Health, ORG, 1
+Vancouver Sun Long, PERSON, 1
+Abbotsford, NORP, 1
+Canadians |, ORG, 1
+‘every day, DATE, 1
+Anand - National | Globalnews.ca Canada, ORG, 1
+CBC News Federal Intergovernmental Affairs, ORG, 1
+Novavax, Johnson & Johnson, ORG, 1
+8.5 per cent, MONEY, 1
+40.29, MONEY, 1
+Djokovic, PERSON, 1
+The Globe and Mail Djokovic, ORG, 1
+Serb, NORP, 1
+Staten Island, LOC, 1
+N.S. Grade, ORG, 1
+this past school year, DATE, 1
+2014, DATE, 1
+Eula Biss, PERSON, 1
+Biss, NORP, 1
+409, CARDINAL, 1
+more than 7 billion, CARDINAL, 1
+Hossein Sadrzadeh, PERSON, 1
+NYT, ORG, 1
+nine-month, DATE, 1
+1,890, CARDINAL, 1
+28, CARDINAL, 1
+553, CARDINAL, 1
+Cross Protection, ORG, 1
+Encephalitis Vaccine, PERSON, 1
+Lesser COVID Mortality, ORG, 1
+Sun Novel, ORG, 1
+Edogawa Hospital, ORG, 1
+Amnesty International - National | Globalnews.ca Rich, ORG, 1
+nearly three, CARDINAL, 1
+Amnesty International, ORG, 1
+Michael Houghton, PERSON, 1
+Maimonides, GPE, 1
+the Côte Saint-Luc, FAC, 1
+Tokyo Olympics - National, EVENT, 1
+The Globe and Mail Maj, ORG, 1
+Gandalf, ORG, 1
+Gandalf, PERSON, 1
+Rings, ORG, 1
+The Globe and Mail By, ORG, 1
+The Globe and Mail Those, ORG, 1
+the Tour de France, ORG, 1
+Ticketmaster, PERSON, 1
+Bandung, GPE, 1
+West Java, GPE, 1
+the next four weeks, DATE, 1
+the 20th century’s, DATE, 1
+Sun Cecie Elnicki, PERSON, 1
+Astra, ORG, 1
+the next few days, DATE, 1
+The Globe and Mail Manitoba MP, ORG, 1
+Niki Ashton, PERSON, 1
+more than 1.2 million, CARDINAL, 1
+1,723, CARDINAL, 1
+35, CARDINAL, 1
+ER, ORG, 1
+487, CARDINAL, 1
+Ten, CARDINAL, 1
+Phase, GPE, 1
+a terrible year, DATE, 1
+The Globe and Mail Vaccines, ORG, 1
+the London School of Hygiene and Tropical, ORG, 1
+less than $20, MONEY, 1
+Sputnik, ORG, 1
+less than $10, MONEY, 1
+PM's, DATE, 1
+more than 464,000, CARDINAL, 1
+IOC’s, ORG, 1
+Tokyo Olympic ‘, EVENT, 1
+Byram Bridle, PERSON, 1
+World’s, ORG, 1
+2,275, CARDINAL, 1
+about nine months, DATE, 1
+The Globe and Mail Revelation, ORG, 1
+Microsoft, ORG, 1
+July 14, DATE, 1
+four to eight weeks, DATE, 1
+Interpol, ORG, 1
+First World, ORG, 1
+Sun Dozens, PERSON, 1
+the U.S. Trials, ORG, 1
+The Star Provincially, WORK_OF_ART, 1
+Saskatoon, PERSON, 1
+Sun Travel, ORG, 1
+ten days, DATE, 1
+The Globe and Mail Researcher, ORG, 1
+early fall, DATE, 1
+U.S.-, GPE, 1
+Australia PM, ORG, 1
+| CTV News Australia's, ORG, 1
+Biden - The Globe and Mail, ORG, 1
+Joe Biden’s, PERSON, 1
+Sun Video, PERSON, 1
+The Globe and Mail Basic, ORG, 1
+Vancouver Sun ', PERSON, 1
+at least Jan. 21, DATE, 1
+The Globe and Mail Once, ORG, 1
+CBC News Provincial Health, ORG, 1
+British Columbians , ORG, 1
+the new few months, DATE, 1
+Canadians - National | Globalnews.ca Health Canada, ORG, 1
+The Globe and Mail Blustering, ORG, 1
+450, CARDINAL, 1
+K - National |, ORG, 1
+6,011, CARDINAL, 1
+The Globe and Mail Partial, ORG, 1
+CBC Radio Conversations, ORG, 1
+Iris Gorfinkel, PERSON, 1
+CBC News Finance, ORG, 1
+Chrystia Freeland, PERSON, 1
+Paul Merriman, PERSON, 1
+COVI, ORG, 1
+The Globe and Mail Canada's, ORG, 1
+more than 37,000, CARDINAL, 1
+Wisconsin Video Online, ORG, 1
+48%, PERCENT, 1
+Nanos Research, ORG, 1
+Scott Moe, PERSON, 1
+The Globe and Mail Strong, ORG, 1
+first Video Online, WORK_OF_ART, 1
+PM - National | Globalnews.ca, ORG, 1
+early April, DATE, 1
+The Globe and Mail Soumya Swaminathan, ORG, 1
+years-long, DATE, 1
+just six months, DATE, 1
+more than four months, DATE, 1
+The Globe and Mail Tedros Adhanom Ghebreyesus, ORG, 1
+$4-billion, MONEY, 1
+The Globe’s, ORG, 1
+The Globe and Mail Economic, ORG, 1
+the second quarter, DATE, 1
+The Star Crime, WORK_OF_ART, 1
+Just this week, DATE, 1
+Biontech, GPE, 1
+'a few more months', DATE, 1
+More than 500, CARDINAL, 1
+Tens of millions, CARDINAL, 1
+New Brunswick's, GPE, 1
+last year's, DATE, 1
+The Globe and Mail Portfolio, ORG, 1
+72%, PERCENT, 1
+65 and older, DATE, 1
+The Globe and Mail WHO Europe's, ORG, 1
+Hans Kluge, PERSON, 1
+Sun Moderna, PERSON, 1
+the next 48 hours, TIME, 1
+737, PRODUCT, 1
+MAX, ORG, 1
+COVID-19 - National | Globalnews.ca, ORG, 1
+737, CARDINAL, 1
+The Globe and Mail Participant, ORG, 1
+Tania Watts, PERSON, 1
+the University of Toronto, ORG, 1
+Beverly Spanier, GPE, 1
+75-year-old, DATE, 1
+The Globe and Mail The Metropolitan Police, ORG, 1
+Dec. 6, DATE, 1
+this upcoming week, DATE, 1
+Inside Wuhan, ORG, 1
+9, CARDINAL, 1
+30 cents, MONEY, 1
+50.59, MONEY, 1
+1:38 p.m. EST, TIME, 1
+Johnson & Johnson’s, ORG, 1
+the U.S. House, ORG, 1
+Automakers, GPE, 1
+More than 130,000, CARDINAL, 1
+U.S.-India, ORG, 1
+6,292, CARDINAL, 1
+12,983, CARDINAL, 1
+under 16, DATE, 1
+Australian, NORP, 1
+Surface Plasmon Resonance, PERSON, 1
+Mike, PERSON, 1
+Karen Pence, PERSON, 1
+Tom Walters, PERSON, 1
+The Globe and Mail Unless, ORG, 1
+Washington, GPE, 1
+John Barsa, PERSON, 1
+USAID, ORG, 1
+up to 300 million, MONEY, 1
+The Globe and Mail Acuitas Therapeutics, ORG, 1
+COVID-19 | CTV News Herd, ORG, 1
+1,873, CARDINAL, 1
+579, CARDINAL, 1
+July 19, DATE, 1
+U.S. Army General, ORG, 1
+IEA, ORG, 1
+The Globe and Mail The International Energy Agency’s, ORG, 1
+Israel - Israel, GPE, 1
+some 60,000, CARDINAL, 1
+Mo., GPE, 1
+its second week, DATE, 1
+Mid-November, DATE, 1
+the third week of November, DATE, 1
+331, CARDINAL, 1
+24, CARDINAL, 1
+The Star Plus, WORK_OF_ART, 1
+St. Michael’s Hospital, ORG, 1
+The Globe and Mail Long Term Care, ORG, 1
+the Unity Health Toronto, ORG, 1
+December 22nd, DATE, 1
+Dec. 5, DATE, 1
+737 Max, PRODUCT, 1
+the end of 2021 - Macleans.ca, DATE, 1
+Robert Lighthizer, PERSON, 1
+the Bureaucratic Jargon, ORG, 1
+the Day Award, DATE, 1
+The Globe and Mail Anvisa, ORG, 1
+6 million, CARDINAL, 1
+Brazilians, NORP, 1
+the year ahead, DATE, 1
+the winter, DATE, 1
+Winnipeg’s, ORG, 1
+RBC Convention Centre, ORG, 1
+Jan. 4 - Winnipeg, DATE, 1
+Dec. 24 to 26, DATE, 1
+May 17, DATE, 1
+Communities, ORG, 1
+Trump’s ‘America First’, ORG, 1
+LeBlanc - National | Globalnews.ca Trump's, ORG, 1
+November to April, DATE, 1
+Videos Online Watch, ORG, 1
+Canada Stamping, ORG, 1
+another $2.1B, MONEY, 1
+Martensville, GPE, 1
+Allison Adamus, PERSON, 1
+over 1,000, CARDINAL, 1
+three-day, DATE, 1
+Ottawa - The Globe and Mail, ORG, 1
+N.K., GPE, 1
+Microsoft - National, ORG, 1
+The Globe and Mail Investment, ORG, 1
+Brian Bloom, PERSON, 1
+Jason Kenney , PERSON, 1
+Oxford University's, ORG, 1
+3rd, ORDINAL, 1
+Moderna Inc, PERSON, 1
+Shakespeare, PERSON, 1
+90, DATE, 1
+The Globe and Mail National, ORG, 1
+The Globe and Mail Meanwhile, ORG, 1
+the late spring, DATE, 1
+Operation Warp Speed, WORK_OF_ART, 1
+LAU, ORG, 1
+Shinzo Abe, PERSON, 1
+$275 million, MONEY, 1
+94.1%, PERCENT, 1
+the U.K. Video, ORG, 1
+Sun Ontario’s, GPE, 1
+Oil’s, ORG, 1
+The Globe and Mail Reality, ORG, 1
+Fuschia Sirois, PERSON, 1
+The Globe and Mail Better-than, ORG, 1
+third-quarter, DATE, 1
+up to 8.5 million, QUANTITY, 1
+about 1 to 1.5 million, CARDINAL, 1
+The Star BC, ORG, 1
+168, CARDINAL, 1
+K Moderna, ORG, 1
+only about 40, CARDINAL, 1
+'week to 10 days, DATE, 1
+| CBC Radio Health Canada, ORG, 1
+pan-Canadian, NORP, 1
+another 20 million, CARDINAL, 1
+4 more weeks, DATE, 1
+as early as Jan. 12, DATE, 1
+Supriya Sharma's, PERSON, 1
+18 and older, DATE, 1
+more than 16, CARDINAL, 1
+Politicians, NORP, 1
+six to nine months, DATE, 1
+Kanye West, PERSON, 1
+The Globe and Mail ‘Mission, ORG, 1
+Faster, PERSON, 1
+Darryl Falzarano, PERSON, 1
+next January, DATE, 1
+seven-day, DATE, 1
+Dec. 27, DATE, 1
+The Star ABU DHABI, WORK_OF_ART, 1
+the Soviet Union's, GPE, 1
+1957, DATE, 1
+Carl Hansen, PERSON, 1
+AbCellera Biologics Inc., ORG, 1
+18 months, DATE, 1
+| CTV News Australia, ORG, 1
+Moon, PERSON, 1
+The Globe and Mail Domestic, ORG, 1
+University of Guelph’s, ORG, 1
+The University of Guelph, ORG, 1
+The Star Deals, WORK_OF_ART, 1
+this quarter, DATE, 1
+quarterly, DATE, 1
+ECB, ORG, 1
+$1-million, MONEY, 1
+each year, DATE, 1
+$2-billion, MONEY, 1
+August 26, DATE, 1
+Citi, ORG, 1
+The Globe and Mail Daily, ORG, 1
+Scott Barlow, PERSON, 1
+PMO, ORG, 1
+Morneau - The Globe and Mail, ORG, 1
+Indigo, ORG, 1
+Indigo Books & Music Inc., ORG, 1
+the City of Ottawa, GPE, 1
+Qantas, ORG, 1
+Victoria, GPE, 1
+more than eight months, DATE, 1
+COVID-19 | CTV News Researchers, ORG, 1
+North Carolina, GPE, 1
+Sun MORRISVILLE, PERSON, 1
+$20-million, MONEY, 1
+70%, PERCENT, 1
+COVID-19 second, PRODUCT, 1
+The Globe and Mail Vaccination, ORG, 1
+the past few weeks, DATE, 1
+the Canadian Centre for, ORG, 1
+The Globe and Mail Investing, ORG, 1
+Ahmad Doroudian, PERSON, 1
+the end of the third week of December, DATE, 1
+multibillion-dollar, MONEY, 1
+Siberia, LOC, 1
+Greenland, GPE, 1
+Sinovac Biotech's, PERSON, 1
+Minnesota, GPE, 1
+more than 4,400, CARDINAL, 1
+The Globe and Mail Freeland, ORG, 1
+The Globe and Mail Faster, ORG, 1
+Jason Kenney’s, PERSON, 1
+COVID-19 - National | Globalnews.ca “Having, ORG, 1
+601, CARDINAL, 1
+512, CARDINAL, 1
+Peel Region, GPE, 1
+167, CARDINAL, 1
+the next year, DATE, 1
+nearly 6,500, CARDINAL, 1
+83, CARDINAL, 1
+395,927, CARDINAL, 1
+12,407, CARDINAL, 1
+the Defence Department, ORG, 1
+later this year, DATE, 1
+Sept. 23, DATE, 1
+154, CARDINAL, 1
+Brian Morgenstern, PERSON, 1
+the U.S. Centers for Disease Control and Prevention, ORG, 1
+The Globe and Mail Details, ORG, 1
+The Globe and Mail Saskatchewan Health Authority, ORG, 1
+as many as 200 million, CARDINAL, 1
+up to 168,000, CARDINAL, 1
+Q2, CARDINAL, 1
+216, CARDINAL, 1
+CSL, ORG, 1
+The Canadian Press, ORG, 1
+less than a year later, DATE, 1
+Berlin, GPE, 1
+Musk, PERSON, 1
+Tesla, PERSON, 1
+at least 300 million, MONEY, 1
+Lee Coonfer, PERSON, 1
+daily this month, DATE, 1
+78,586, CARDINAL, 1
+1,676, CARDINAL, 1
+more than 2,200, CARDINAL, 1
+One-day, DATE, 1
+9-11, CARDINAL, 1
+The Star MISSION, PERSON, 1
+Kan., GPE, 1
+'90 days, DATE, 1
+Brian Pallister , PERSON, 1
+Ontarian, NORP, 1
+the Rekai Centre, FAC, 1
+12 p.m. ET, TIME, 1
+Gloria Lallouz, PERSON, 1
+Maimonides Geriatric Centre, FAC, 1
+Inovio’s, ORG, 1
+The Globe and Mail U.S. FDA, ORG, 1
+Inovio Pharmaceuticals', ORG, 1
+CHICAGO, GPE, 1
+the U.S. National Institutes of Health, ORG, 1
+NIH, ORG, 1
+12 to 24 months, DATE, 1
+First Quebecer, ORG, 1
+Kremlin, ORG, 1
+almost 50, CARDINAL, 1
+1,464, CARDINAL, 1
+32, CARDINAL, 1
+Prevnar, GPE, 1
+the National Research Council of Canada, ORG, 1
+460K, PRODUCT, 1
+Marguerite Blais, PERSON, 1
+the age of 50, DATE, 1
+less than 1,000, CARDINAL, 1
+Tam - National | Globalnews.ca, ORG, 1
+August 8, DATE, 1
+one month, DATE, 1
+Gao Fu, PERSON, 1
+AstraZeneca Plc, ORG, 1
+Modern Inc., ORG, 1
+The Star CHARLOTTETOWN - Health, ORG, 1
+Michael Patterson, PERSON, 1
+Moderna’s, PERSON, 1
+Gavino Garay, PERSON, 1
+CBC Kids News, ORG, 1
+Saara Chaudry, PERSON, 1
+The New Yorker's, ORG, 1
+the Food and Drug Administration's, ORG, 1
+6,744, CARDINAL, 1
+468,475, CARDINAL, 1
+13,553, CARDINAL, 1
+Pfizer-BioNTech's, PERSON, 1
+CBC Explains, ORG, 1
+The Globe and Mail Approval, ORG, 1
+12,253, CARDINAL, 1
+The Globe and Mail Coronavirus, ORG, 1
+West, LOC, 1
+Eileen de Villa, PERSON, 1
+1,200, CARDINAL, 1
+The Star With, WORK_OF_ART, 1
+100 meter, QUANTITY, 1
+Marco Krieger, PERSON, 1
+Fiocruz, PRODUCT, 1
+Treasuries, ORG, 1
+SNL Video Online, ORG, 1
+Toronto Star, ORG, 1
+White Coat, PERSON, 1
+Black Art's, ORG, 1
+The Globe and Mail European Commission, ORG, 1
+up to six, CARDINAL, 1
+450 million, CARDINAL, 1
+Angus Reid Institute, ORG, 1
+The Star Maj, WORK_OF_ART, 1
+Joint Operations Commend, ORG, 1
+The Globe and Mail Clinical, ORG, 1
+mRNA-1273, ORG, 1
+Canadians | CTV News, ORG, 1
+86%, PERCENT, 1
+600,000, CARDINAL, 1
+Diane Harpell, PERSON, 1
+Cyril Ramaphosa’s, PERSON, 1
+Melbourne, GPE, 1
+the eve, DATE, 1
+The Star Now, WORK_OF_ART, 1
+David Olive, PERSON, 1
+CBC News Provinces, ORG, 1
+Amazon’s, ORG, 1
+Arthur Virgilio, PERSON, 1
+The Globe and Mail Surge, ORG, 1
+Zoom, GPE, 1
+The Globe and Mail Chief Public Health, ORG, 1
+November 27, 2020, DATE, 1
+November 27, DATE, 1
+1,994, CARDINAL, 1
+33, CARDINAL, 1
+Maimonides, PERSON, 1
+early this week, DATE, 1
+47.86, MONEY, 1
+1.80, MONEY, 1
+3.9%, PERCENT, 1
+44.91, MONEY, 1
+1.85, MONEY, 1
+4.3%, PERCENT, 1
+The Star Skeptics, ORG, 1
+2%, PERCENT, 1
+90 cents, MONEY, 1
+2.1%, PERCENT, 1
+44.65, MONEY, 1
+1858, CARDINAL, 1
+GMT, ORG, 1
+70, DATE, 1
+Nov. 6, DATE, 1
+83,600, CARDINAL, 1
+The Globe and Mail Surging Tesla Inc, ORG, 1
+Nasdaq’s, ORG, 1
+Nili Kaplan-Myrth, PERSON, 1
+the Christmas holidays, DATE, 1
+38, CARDINAL, 1
+Jill Biden, PERSON, 1
+Kim Jong Un, PERSON, 1
+Vancouver Sun Microsoft, ORG, 1
+CBC Marketplace’s, ORG, 1
+Asha Tomlinson, PERSON, 1
+Toronto Public Health, ORG, 1
+Vinita Dubey, PERSON, 1
+Forty-nine, CARDINAL, 1
+Toronto’s, ORG, 1
+UHN, ORG, 1
+The Ottawa Hospital, ORG, 1
+2,500, CARDINAL, 1
+The Star The Army, ORG, 1
+Darrell Bricker, PERSON, 1
+more than 40,000, CARDINAL, 1
+330, CARDINAL, 1
+948, CARDINAL, 1
+every few years, DATE, 1
+Vaccine Choice Canada, ORG, 1
+Jonas Salk's, PERSON, 1
+Jonas Salk, PERSON, 1
+Jonathan Salk, PERSON, 1
+The Globe and Mail Brazil, ORG, 1
+more than 1 million, CARDINAL, 1
+more than 55,900, CARDINAL, 1
+43 per cent, MONEY, 1
+FDA - National |, ORG, 1
+those 16 years, DATE, 1
+Erin, PERSON, 1
+the Electoral College, ORG, 1
+The Globe and Mail Top U.S., ORG, 1
+The Star WARSAW, ORG, 1
+Polish, NORP, 1
+Sumon Chakabarti, PERSON, 1
+P.E.I, ORG, 1
+90,000, CARDINAL, 1
+The current flu season, DATE, 1
+about five years, DATE, 1
+Grinch, PERSON, 1
+Soumya Swaminathan, PERSON, 1
+multimillion-dollar, MONEY, 1
+CanSino, PERSON, 1
+The Globe and Mail “Priority, ORG, 1
+Operation Vector’, EVENT, 1
+The Globe and Mail The Serum Institute, ORG, 1
+hundreds of millions, MONEY, 1
+Harvard, ORG, 1
+William Haseltine, PERSON, 1
+FedEx, PERSON, 1
+500, MONEY, 1
+America First', WORK_OF_ART, 1
+Fauci, NORP, 1
+| CTV News Once, ORG, 1
+The Tokyo Olympics, EVENT, 1
+eight months ago, DATE, 1
+eight months, DATE, 1
+July 23, 2021, DATE, 1
+the Canadian Armed Forces, ORG, 1
+The Globe and Mail Torstar, ORG, 1
+at least one year, DATE, 1
+new year, DATE, 1
+253,470, CARDINAL, 1
+InterVac, ORG, 1
+Peterborough Public Health - Peterborough |, ORG, 1
+Matt Hancock, PERSON, 1
+Healthcare Products Regulatory Agency, ORG, 1
+Cameron Friesen, PERSON, 1
+Bill, PERSON, 1
+The Globe and Mail Counties, ORG, 1
+Novak Djokovic, ORG, 1
+Toronto Sun Health Canada, ORG, 1
+'million dollar, MONEY, 1
+Mike Wilkinson, PERSON, 1
+Act Respecting Proof of Immunization, ORG, 1
+22 to 20, CARDINAL, 1
+this past week, DATE, 1
+Sept. 1, DATE, 1
+Tory, NORP, 1
+Camille Bains, PERSON, 1
+Videos Online Watch Health Canada, ORG, 1
+Ipsos - National, ORG, 1
+Nov. 29, DATE, 1
+Brampton, PERSON, 1
+United Kingdom, GPE, 1
+United Kingdom Video Online, GPE, 1
+’ day, DATE, 1
+Obama, PERSON, 1
+Bush, PERSON, 1
+Canada’s, ORG, 1
+Parliament, ORG, 1
+The Star Ottawa, ORG, 1
+The Globe and Mail Plan, ORG, 1
+close to $115-million, MONEY, 1
+The Star REGINA - Saskatchewan, WORK_OF_ART, 1
+The Star Get, WORK_OF_ART, 1
+Martin Regg Cohn, PERSON, 1
+The Globe and Mail MSCI’s, ORG, 1
+0.17 per cent, MONEY, 1
+Sarah Gilbert, PERSON, 1
+the Phase III, WORK_OF_ART, 1
+12:01 Monday, DATE, 1
+90 million, CARDINAL, 1
+COVID-19 - National, ORG, 1
+Jason Tetro, PERSON, 1
+weekly, DATE, 1
+The Star Nunavut, ORG, 1
+444, CARDINAL, 1
+First Nation, ORG, 1
+a desperate hour, TIME, 1
+Northern Ontario, LOC, 1
+Nov. 23, DATE, 1
+Third, ORDINAL, 1
+The Globe and Mail Doctors, ORG, 1
+St. Louis or Pittsburgh, GPE, 1
+CBC Radio The World Health Organization, ORG, 1
+Emily Chung, PERSON, 1
+Tokyo Olympics, EVENT, 1
+12-18 months, DATE, 1
+the last week, DATE, 1
+The Globe and Mail The Imperial, ORG, 1
+August 25, DATE, 1
+the upcoming weeks, DATE, 1
+Prairies, WORK_OF_ART, 1
+July 28, DATE, 1
+The Star OTTAWA - Positive, WORK_OF_ART, 1
+Yaffe |, PERSON, 1
+Barbara Yaffe, PERSON, 1
+6,442, CARDINAL, 1
+2nd, DATE, 1
+15,378, CARDINAL, 1
+roughly two million, CARDINAL, 1
+Yellowknife, GPE, 1
+The Globe and Mail Resource, ORG, 1
+29,000, CARDINAL, 1
+The Star Possibility of a second, ORG, 1
+HONG KONG, GPE, 1
+Assets Supervision, ORG, 1
+New Hampshire, GPE, 1
+24,000, CARDINAL, 1
+The Star CONCORD, ORG, 1
+N.H., GPE, 1
+New Hampshire’s, GPE, 1
+Videos Online Watch Canada, ORG, 1
+Donald Trump’s, PERSON, 1
+2016, DATE, 1
+The Globe and Mail Ontario’s, ORG, 1
+almost 100,000, CARDINAL, 1
+Citizen Lab, PERSON, 1
+The Star LONDON - Shipments, PERSON, 1
+Santa Claus, ORG, 1
+Four months, DATE, 1
+Lynora Saxinger, PERSON, 1
+Raywat Deonandan, PERSON, 1
+The Globe and Mail Demand, ORG, 1
+Toronto Sun HALIFAX, ORG, 1
+37 million, CARDINAL, 1
+almost 414 million, MONEY, 1
+Two-year, DATE, 1
+$1.5 billion, MONEY, 1
+Toronto Sun OTTAWA — Canada, ORG, 1
+as early as January, DATE, 1
+Paul Thompson, PERSON, 1
+Fraser Valley Dry Ice, ORG, 1
+CBC Radio Conservationists, ORG, 1
+Serum Institute of India, ORG, 1
+one billion, MONEY, 1
+Barack Obama, PERSON, 1
+George W. Bush, PERSON, 1
+Bill Clinton, PERSON, 1
+last Friday’s, DATE, 1
+EU, GPE, 1
+Toronto Sun Politics, ORG, 1
+Jimmy Carter, PERSON, 1
+the second half of this year, DATE, 1
+The Globe and Mail Food, ORG, 1
+Goldman Sachs, ORG, 1
+Maclean, ORG, 1
+UCP, ORG, 1
+The Globe and Mail Maintaining, ORG, 1
+Kenney, PERSON, 1
+The Globe and Mail First, ORG, 1
+Watch Ottawa, PERSON, 1
+CBC News Staging, ORG, 1
+300-million, CARDINAL, 1
+The Globe and Mail U.S. Department of Health, ORG, 1
+up to $1.2-billion, MONEY, 1
+The Star Alberta, WORK_OF_ART, 1
+39%, PERCENT, 1
+coming months, DATE, 1
+ten or more years, DATE, 1
+Red Chamber, ORG, 1
+The Globe and Mail Results, ORG, 1
+around a quarter, DATE, 1
+CanSino’s, ORG, 1
+Zyus Life Sciences, ORG, 1
+BBIBP-CorV, ORG, 1
+Meng Wanzhou, PERSON, 1
+Danuta Skowronski, PERSON, 1
+Rempel Garner, PERSON, 1
+The Globe and Mail China’s, ORG, 1
+The Globe and Mail EU, ORG, 1
+$8-billion, MONEY, 1
+only dozens, CARDINAL, 1
+about 90 per cent, MONEY, 1
+Scott Moe’s, PERSON, 1
+Dec. 8, Tuesday, DATE, 1
+50,000, CARDINAL, 1
+CBC News Immunizations, ORG, 1
+February, DATE, 1
+last months, DATE, 1
+more than 30,000, CARDINAL, 1
+Iceland, GPE, 1
+The Star TORONTO - Vulnerable, WORK_OF_ART, 1
+New Democrats, NORP, 1
+1463, DATE, 1
+Scotians, NORP, 1
+The Globe and Mail Internal, ORG, 1
+as late as 2024, DATE, 1
+Winnipeg, PERSON, 1
+| Globalnews.ca A University of Saskatchewan, ORG, 1
+the U.N. General Assembly, ORG, 1
+5, MONEY, 1
+200,000, CARDINAL, 1
+2,819, CARDINAL, 1
+62, CARDINAL, 1
+Innomar Strategies, ORG, 1
+549,000, CARDINAL, 1
+CBC Radio Fresh, ORG, 1
+About 3,900, CARDINAL, 1
+three weeks later, DATE, 1
+29, CARDINAL, 1
+Paul Griffin, PERSON, 1
+The Globe and Mail Experts, ORG, 1
+Kelly Grant, PERSON, 1
+Trudeau | CTV News, ORG, 1
+US$2 billion, MONEY, 1
+a bad flu season, DATE, 1
+The Globe and Mail Central, ORG, 1
+0.25 per cent, MONEY, 1
+CBC News Government, ORG, 1
+later today, TIME, 1
+Sun Letitia Wright, PERSON, 1
+CBC News Central, ORG, 1
+Lucky Aguila, PERSON, 1
+27-year-old, DATE, 1
+Aguila, PERSON, 1
+1,940, CARDINAL, 1
+13%, PERCENT, 1
+CBC Radio Oxford, ORG, 1
+Monday, Aug. 31, 2020, DATE, 1
+The Globe and Mail Head, ORG, 1
+Russian Direct Investment Fund, ORG, 1
+the Liberal government’s, ORG, 1
+the age of 70, DATE, 1
+Nearly $1M, MONEY, 1
+Once Canada, ORG, 1
+The Globe and Mail Long-, ORG, 1
+five-year, DATE, 1
+The Globe and Mail Bond, ORG, 1
+The Globe and Mail Warm, ORG, 1
+Spain, GPE, 1
+Vido-InterVac, ORG, 1
+U.K. Video, ORG, 1
+Ben Carson, PERSON, 1
+Mark Esper, PERSON, 1
+Adrian Hill, PERSON, 1
+the Jenner Institute, ORG, 1
+Monday, June 29, 2020, DATE, 1
+The Globe and Mail Shipments, ORG, 1
+71 million, CARDINAL, 1
+New Brunswick | Globalnews.ca Health, GPE, 1
+2,400, CARDINAL, 1
+| Globalnews.ca Clinics, ORG, 1
+its worst week, DATE, 1
+the second half of the year, DATE, 1
+Ugur Sahin, PERSON, 1
+Moderna Inc’s, ORG, 1
+Games, PERSON, 1
+’ - The Globe and Mail, WORK_OF_ART, 1
+Yoshiro Mori, PERSON, 1
+the Tokyo 2020 Organizing Committee, EVENT, 1
+‘1st, DATE, 1
+The Globe and Mail Blistering, ORG, 1
+at least six months, DATE, 1
+CBC News Oil, ORG, 1
+Hong Kong’s, GPE, 1
+Cathay Pacific Airways, ORG, 1
+The Globe and Mail Added, ORG, 1
+five to seven years, DATE, 1
+Democratic, NORP, 1
+Oct. 13, DATE, 1
+approximately 360,000, CARDINAL, 1
+1.96 million, CARDINAL, 1
+2019 to 2020, DATE, 1
+| The Star Why Canada, WORK_OF_ART, 1
+May 8, DATE, 1
+about March, DATE, 1
+CBC Radio Reports, ORG, 1
+The Globe and Mail Duke University, ORG, 1
+The U.S. Justice Department, ORG, 1
+The Star Beset, PERSON, 1
+Ca, PERSON, 1
+Toronto Sun MADRID, ORG, 1
+Mackenzie Health, LOC, 1
+more than 117 million, CARDINAL, 1
+more than three dozen, CARDINAL, 1
+PPE - National | Globalnews.ca Ottawa, ORG, 1
+up to $500 million, MONEY, 1
+86, CARDINAL, 1
+The Star Johnson & Johnson, ORG, 1
+55, DATE, 1
+University Hospital, ORG, 1
+Coventry, England, GPE, 1
+Breakthrough, GPE, 1
+the Global Battle Against Polio, FAC, 1
+Polio Vaccine, PERSON, 1
+Palestinians, NORP, 1
+Palestinian Territory - Israel, ORG, 1
+48, CARDINAL, 1
+Aug. 10, DATE, 1
+The Globe and Mail As Health Canada, ORG, 1
+Conor Barnes, ORG, 1
+Torontonian, GPE, 1
+Pope Francis, PERSON, 1
+almost 450 million, CARDINAL, 1
+Routine, ORG, 1
+The Globe and Mail AstraZeneca’s, ORG, 1
+Swiss, NORP, 1
+Adam Reed, PERSON, 1
+the World Health Organization’s, ORG, 1
+K - National | Globalnews.ca Another, ORG, 1
+6,738, CARDINAL, 1
+441,705, CARDINAL, 1
+The Star Children, WORK_OF_ART, 1
+the EU Commission, ORG, 1
+727, CARDINAL, 1
+third quarter, DATE, 1
+40 million, CARDINAL, 1
+The Globe and Mail Questions, ORG, 1
+J&J, ORG, 1
+249,600, CARDINAL, 1
+Eduardo Pazuello, PERSON, 1
+Sao Paulo, GPE, 1
+Joo Doria, PERSON, 1
+Butantan Institute, ORG, 1
+| CTV News Canada’s, ORG, 1
+K - National | Globalnews.ca Many, ORG, 1
+1,677, CARDINAL, 1
+€400-million, MONEY, 1
+TODAY, DATE, 1
+5 days, DATE, 1
+late November, DATE, 1
+$5-million, MONEY, 1
+$5 million, MONEY, 1
+Tenn., GPE, 1
+K-12, PRODUCT, 1
+Lukasz Kwapisz, PERSON, 1
+1,460, CARDINAL, 1
+Tyler Shandro, PERSON, 1
+Patrick Vallance, PERSON, 1
+Israelis, NORP, 1
+the holiday season, DATE, 1
+election day, DATE, 1
+39 million, CARDINAL, 1
+11, CARDINAL, 1
+OPP, ORG, 1
+CBC News AstraZeneca, ORG, 1
+Horgan, PERSON, 1
+Tam - The Globe and Mail, ORG, 1
+The Globe and Mail Mandatory, ORG, 1
+84 per cent, MONEY, 1
+a couple weeks, DATE, 1
+1,735, CARDINAL, 1
+Deena Hinshaw, PERSON, 1
+nearly 890,000, CARDINAL, 1
+two-day, DATE, 1
+Saudi Arabia, GPE, 1
+Scott Morrison, PERSON, 1
+Australians, NORP, 1
+just weeks, DATE, 1
+the Ontario Media Association, ORG, 1
+National Geographic Explorer, ORG, 1
+The Public Health Agency of, ORG, 1
+Only 39, DATE, 1
+12 of the week’s, DATE, 1
+May 9-15, 2020, DATE, 1
+Yukon, ORG, 1
+Brendan Hanley, PERSON, 1
+another 90 days, DATE, 1
+Bach, PERSON, 1
+International Olympic Committee, ORG, 1
+Sun Francis, PERSON, 1
+Sinovac, NORP, 1
+| CTV News China, ORG, 1
+2040, CARDINAL, 1
+Jeffrey Betcher, PERSON, 1
+Alberta Video Online, ORG, 1
+Gavi, PERSON, 1
+75, CARDINAL, 1
+90, CARDINAL, 1
+America First’, EVENT, 1
+the Health Canada, ORG, 1
+at least 96,000, CARDINAL, 1
+May 11, DATE, 1
+The Globe and Mail Plus, ORG, 1
+Cargill, ORG, 1
+about 100, CARDINAL, 1
+Brits, NORP, 1
+World Bank, ORG, 1
+World Bank Group, ORG, 1
+up to $160 billion, MONEY, 1
+2-3 years, DATE, 1
+The Globe and Mail Liberal, ORG, 1
+Chuck Chiasson, PERSON, 1
+as early as Thursday, DATE, 1
+The Globe and Mail Heightened, ORG, 1
+the end of the second quarter of 2021, DATE, 1
+Leger and the Association for Canadian Studies, ORG, 1
+Bulgaria, GPE, 1
+Rick Hiller, PERSON, 1
+the first three months of 2021, DATE, 1
+U.K, GPE, 1
+1,463, CARDINAL, 1
+roughly seven, CARDINAL, 1
+The Globe and Mail Several, ORG, 1
+at least 10, CARDINAL, 1
+Dirk Huyer, PERSON, 1
+weeks’, DATE, 1
+The Star RABAT, PERSON, 1
+vaccinate 80%, PERCENT, 1
+Anita, PERSON, 1
+Nükhet Varlik, PERSON, 1
+Hajdu - National | Globalnews.ca, ORG, 1
+around $2.5 billion, MONEY, 1
+1 billion, CARDINAL, 1
+12,000, CARDINAL, 1
+at least two months, DATE, 1
+Oct. 9, DATE, 1
+400, CARDINAL, 1
+Francois Legault, PERSON, 1
+Christian Dube, PERSON, 1
+38 million, CARDINAL, 1
+Romeo Saganash, PERSON, 1
+UNDRIP, ORG, 1
+Oct. 2, DATE, 1
+BC COVID, ORG, 1
+Oct. 2, 2020, DATE, 1
+4 p.m. Monday, TIME, 1
+13,200, CARDINAL, 1
+Halifax, NORP, 1
+Toronto Sun Canada’s, ORG, 1
+The Star MEXICO CITY - Mexican, WORK_OF_ART, 1
+Andrés Manuel López, PERSON, 1
+Obrador, PERSON, 1
+Harris, PERSON, 1
+Black, ORG, 1
+Asian-American, NORP, 1
+about six, CARDINAL, 1
+ten, CARDINAL, 1
+Julian, NORP, 1
+Alison Braley-Rattai of Brock University, PERSON, 1
+The Globe and Mail We, ORG, 1
+the Department of Health and Human Services, ORG, 1
+Sweden, GPE, 1
+| CTV News Drug, ORG, 1
+Greece, GPE, 1
+The Star ‘We, WORK_OF_ART, 1
+the two weeks, DATE, 1
+all year, DATE, 1
+Vancouver Sun, GPE, 1
+Alaska - Health, ORG, 1
+The Globe and Mail Wastewater, ORG, 1
+nearly one-third, CARDINAL, 1
+more than 106,000, CARDINAL, 1
+more than 2,100, CARDINAL, 1
+Sask, PERSON, 1
+$23M, MONEY, 1
+$23 million, MONEY, 1
+1975, DATE, 1
+June 18, DATE, 1
+The Globe and Mail Two, ORG, 1
+Amazon, ORG, 1
+Dose, PERSON, 1
+The Globe and Mail Canadian Olympic Committee, ORG, 1
+David Shoemaker, PERSON, 1
+6,846, CARDINAL, 1
+12,470, CARDINAL, 1
+close to 10,000, CARDINAL, 1
+Sun Henry, PERSON, 1
+The Globe and Mail One, ORG, 1
+US Supreme Court, ORG, 1
+the U.S. Supreme Court, ORG, 1
+3D, ORG, 1
+Karen, PERSON, 1
+over 100, CARDINAL, 1
+the past week, DATE, 1
+more than a decade, DATE, 1
+US$15-billion - The Globe and Mail, MONEY, 1
+The Star WELLINGTON, ORG, 1
+| Awesome Activities & Fun Facts, ORG, 1
+Black, LOC, 1
+the Middle East, LOC, 1
+Nevada, GPE, 1
+Madeleine White, PERSON, 1
+Thursday, Oct. 22, DATE, 1
+1:30 p.m. ET, TIME, 1
+the Globe’s, ORG, 1
+Saskatoon, LOC, 1
+June or July, DATE, 1
+University of Oxford, ORG, 1
+CBC Radio Canada, ORG, 1
+nearly 3%, PERCENT, 1
+1.21, MONEY, 1
+2.9%, PERCENT, 1
+43.61, MONEY, 1
+1.07, MONEY, 1
+2.7%, PERCENT, 1
+41.36, MONEY, 1
+The Globe and Mail World, ORG, 1
+at least $8-billion, MONEY, 1
+1st week of January, DATE, 1
+The Globe and Mail Uber, ORG, 1
+Dara Khosrowshahi, PERSON, 1
+Quebec City -, GPE, 1
+some 30,000, CARDINAL, 1
+four weeks, DATE, 1
+Trans Mountain, LOC, 1
+Jean-Paul Riopelle, PERSON, 1
+225 million, CARDINAL, 1
+The European Union’s, ORG, 1
+late Thursday, TIME, 1
+The Canadian Center for, ORG, 1
+Johnson & Johnson , ORG, 1
+Suncor, ORG, 1
+Cineplex, PERSON, 1
+28 days, DATE, 1
+François Legault, PERSON, 1
+the Calgary Flames, ORG, 1
+2009, DATE, 1
+1,030, CARDINAL, 1
+Dec. 24, DATE, 1
+2,316, CARDINAL, 1
+several million, CARDINAL, 1
+CBC News Johnson & Johnson, ORG, 1
+The Globe and Mail Federal Conservative, ORG, 1
+Pfizer Inc, ORG, 1
+CBC News B.C., ORG, 1
+Tonda MacCharles, PERSON, 1
+The Globe and Mail Staff, ORG, 1
+The Globe and Mail Information, ORG, 1
+The Globe and Mail YouTube, ORG, 1
+The Globe and Mail Hackers, ORG, 1
+Honda, ORG, 1
+Sun Northern Michigan, PERSON, 1
+the spring and summer, DATE, 1
+UAE, GPE, 1
+ABU DHABI, GPE, 1
+Sinopharm CNBG’s, ORG, 1
+CBC News International, ORG, 1
+The National Research Council of Canada, ORG, 1
+40 per cent, MONEY, 1
+1.6B, MONEY, 1
+CTV News Health, ORG, 1
+$1.58 billion, MONEY, 1
+2 years, DATE, 1
+Canadian National Exhibition, ORG, 1
+Canadian Nationial Exhibition, NORP, 1
+$790-million, MONEY, 1
+Neal Browning, PERSON, 1
+44, CARDINAL, 1
+Toronto Sun OTTAWA, ORG, 1
+a new year, DATE, 1
+Susan Delacourt, PERSON, 1
+Delay, PERSON, 1
+decades, DATE, 1
+The Globe and Mail About, ORG, 1
+Monday night, TIME, 1
+the coming days, DATE, 1
+‘months, DATE, 1
+’ - National | Globalnews.ca, ORG, 1
+Quebec’s, ORG, 1
+Quoc Nguyen, PERSON, 1
+12 to 18 months, DATE, 1
+The Globe and Mail Globe and Mail, ORG, 1
+Aug. 6, DATE, 1
+Jimmy K, PERSON, 1
+next Tuesday, DATE, 1
+2,432, CARDINAL, 1
+23, CARDINAL, 1
+four-week, DATE, 1
+Univers, ORG, 1
+Canadian Centre, FAC, 1
+Kayleigh McEnany, PERSON, 1
+moments, TIME, 1
+6,415, CARDINAL, 1
+Kennedy, PERSON, 1
+Robert F. Kennedy Jr., PERSON, 1
+114 million, CARDINAL, 1
+as early as next month, DATE, 1
+Tuesday, Aug. 11, 2020, DATE, 1
+Joe Biden's, PERSON, 1
+Lancet, ORG, 1
+The Globe and Mail Human, ORG, 1
+CBC Radio A, ORG, 1
+IATA | CTV News Providing, ORG, 1
+7.8 billion, CARDINAL, 1
+747, PRODUCT, 1
+the International Air Transport Association, ORG, 1
+CBC News Human, ORG, 1
+Charities, PERSON, 1
+more than 23 million, CARDINAL, 1
+126,000, CARDINAL, 1
+the European Union's, ORG, 1
+FDA - National | Globalnews.ca Pfizer, ORG, 1
+Inside Canada's, ORG, 1
+CBC Saskatoon, ORG, 1
+Alicia Bridges, PERSON, 1
+Front Burner, ORG, 1
+| CTV News New, ORG, 1
+around ‘Christmas,’ 1st, DATE, 1
+79.3, CARDINAL, 1
+250, CARDINAL, 1
+Sun Danish, PERSON, 1
+at least 12 to 18 months, CARDINAL, 1
+Remdesivir, ORG, 1
+Sun Trump, PERSON, 1
+the Health Ministry, Unifesp, ORG, 1
+706, CARDINAL, 1
+941, CARDINAL, 1
+O'Toole, ORG, 1
+the Liberal government, ORG, 1
+Pfizer’s , ORG, 1
+‘coming days, DATE, 1
+Dec. 21, DATE, 1
+80 this summer, DATE, 1
+L. Wagner, PERSON, 1
+the University of Michigan, ORG, 1
+23,000, CARDINAL, 1
+the Justice Department, ORG, 1
+The Globe and Mail The Public Health Agency of, ORG, 1
+four million, CARDINAL, 1
+well as two million, CARDINAL, 1
+The Globe and Mail Virtual, ORG, 1
+Iran, GPE, 1
+The Globe and Mail Iran, ORG, 1
+nearly 55,000, CARDINAL, 1
+Nearly five months, DATE, 1
+first week, DATE, 1
+August 15, DATE, 1
+mid-2022, DATE, 1
+2023, DATE, 1
+The Star The COVAX Facility, WORK_OF_ART, 1
+| CTV News Pharmaceutical company, ORG, 1
+The Globe and Mail Pending Health Canada, ORG, 1
+Tories’, ORG, 1
+two months, DATE, 1
+The Globe and Mail Airlines, ORG, 1
+B.C. Premier, PERSON, 1
+nearly 4,000, CARDINAL, 1
+Greg MacCallum, PERSON, 1
+the New Brunswick Emergency Measures Organization, ORG, 1
+the “coming days, DATE, 1
+Merck, ORG, 1
+as many as 100,000, CARDINAL, 1
+Toronto Catholic, ORG, 1
+The Star Former NATO, WORK_OF_ART, 1
+Thailand, GPE, 1
+26 million, CARDINAL, 1
+Edouard Philippe, PERSON, 1
+’, DATE, 1
+14 days, DATE, 1
+10 years, DATE, 1
+well over 100, CARDINAL, 1
+1.1 million, CARDINAL, 1
+8-month, DATE, 1
+75 cents, MONEY, 1
+1.6%, PERCENT, 1
+48.61, MONEY, 1
+early March, DATE, 1
+the busy holiday season, DATE, 1
+up to $2.1 billion, MONEY, 1
+FSIN, ORG, 1
+Bobby Cameron, PERSON, 1
+John Haggie, PERSON, 1
+The Globe and Mail New, ORG, 1
+Capitol Hill, ORG, 1
+almost $1 trillion, MONEY, 1
+Soviet, NORP, 1
+Monday Video Online, ORG, 1
+July 2021, DATE, 1
+more than 200,000, CARDINAL, 1
+Ottawa’s, ORG, 1
+190 million, CARDINAL, 1
+roughly 69,000, CARDINAL, 1
+Fraser Health, GPE, 1
+77-year-old, DATE, 1
+Fraser Health, FAC, 1
+Christmas Eve of all days, DATE, 1
+The Globe and Mail Regulator, ORG, 1
+The Globe and Mail Positive, ORG, 1
+The Globe and Mail Hopes, ORG, 1
+Winnipeg, ORG, 1
+Jennifer Juno, PERSON, 1
+Nov. 4, DATE, 1
+London Drugs Ltd., ORG, 1
+2,108, CARDINAL, 1
+COVID-19 - Macleans.ca Canada, ORG, 1
+Alyson Kelvin, PERSON, 1
+LinkedIn, GPE, 1
+WhatsApp, ORG, 1
+The Globe and Mail Canadians, ORG, 1
+today that Christmas, DATE, 1
+the same this year, DATE, 1
+Videos Online Watch Health Matters, ORG, 1
+222%, PERCENT, 1
+The Globe and Mail CureVac, ORG, 1
+Sun Vaccines, PERSON, 1
+spring 2021, DATE, 1
+Sun Vaccine, PERSON, 1
+Ipsos - National | Globalnews.ca Canadians, ORG, 1
+Vladimir Putin's, PERSON, 1
+$19-billion, MONEY, 1
+July 16, DATE, 1
+less than, CARDINAL, 1
+the early morning hours, TIME, 1
+The Globe and Mail Apple Inc, ORG, 1
+Baroque, ORG, 1
+this winter, DATE, 1
+Viennese, NORP, 1
+The Globe and Mail Cold-storage, ORG, 1
+Six, CARDINAL, 1
+Phillips, PERSON, 1
+Horacio Arruda, PERSON, 1
+NDP - National | Globalnews.ca Procurement, ORG, 1
+over 400,000, CARDINAL, 1
+The Star Legal, ORG, 1
+The Globe and Mail Authorities, ORG, 1
+Papua New Guinea, PERSON, 1
+two-year, DATE, 1
+77.28 U.S. cents, MONEY, 1
+The Globe and Mail Moderna’s, ORG, 1
+Qatar, GPE, 1
+’ World Cup, EVENT, 1
+The Star Qatar, ORG, 1
+World Cup, EVENT, 1
+Star Canada’s, ORG, 1
+More than a dozen, CARDINAL, 1
+September 5, DATE, 1
+Serbia, GPE, 1
+a holiday, DATE, 1
+The Globe and Mail Leaving, ORG, 1
+more than €2-billion, MONEY, 1
+14%, PERCENT, 1
+the next 10 days, DATE, 1
+at least 25, CARDINAL, 1
+The Globe and Mail South Korea, ORG, 1
+U.S. Food and Drug Administration, ORG, 1
+the winter and spring, DATE, 1
+last years, DATE, 1
+| The Star The Public Health Agency of, PRODUCT, 1
+Cansino Biologics Inc, ORG, 1
+Walvax Biotechnology Co Ltd., ORG, 1
+as early as next Monday, DATE, 1
+The Globe and Mail Dozens, ORG, 1
+the third straight day, DATE, 1
+Vaccine Tracker, PERSON, 1
+about three weeks, DATE, 1
+371, CARDINAL, 1
+2017, DATE, 1
+Tesla Inc., ORG, 1
+about a dozen, CARDINAL, 1
+Canadians Video Online, ORG, 1
+Sun Ontario, PERSON, 1
+more than half a million, CARDINAL, 1
+about $9-million, MONEY, 1
+over 3,000, CARDINAL, 1
+105,805, CARDINAL, 1
+late Wednesday, DATE, 1
+18%, PERCENT, 1
+the previous two weeks, DATE, 1
+The Globe and Mail Conservative, ORG, 1
+300k, PRODUCT, 1
+The Star News, WORK_OF_ART, 1
+Ipsos - National | Globalnews.ca While, ORG, 1
+Tuesday, July 14, 2020, DATE, 1
+60,000, CARDINAL, 1
+year end or early next year, DATE, 1
+Auditor, ORG, 1
+About 4,000, CARDINAL, 1
+the Lower Mainland, LOC, 1
+the Fraser Valley, LOC, 1
+the National Institute of Allergy and Infectious Diseases, ORG, 1
+The Globe and Mail Johnson, ORG, 1
+PBS NewsHour's, ORG, 1
+Judy Woodruff, PERSON, 1
+Republicans, NORP, 1
+CBC Radio Pfizer Canada, ORG, 1
+Cole Pinnow, PRODUCT, 1
+more than 60%, PERCENT, 1
+at least 20, CARDINAL, 1
+4 million, CARDINAL, 1
+the end of next month, DATE, 1
+about 4.4 million, CARDINAL, 1
+465,000, CARDINAL, 1
+221,000, CARDINAL, 1
+season’s first, DATE, 1
+Russians, NORP, 1
+Nov. 25, DATE, 1
+Chrystia Freeland, ORG, 1
+The Star BEIJING - A, WORK_OF_ART, 1
+the Japan Medical Association, ORG, 1
+Judy Mikovits, PERSON, 1
+Four, CARDINAL, 1
+The Globe and Mail Nova Scotia, ORG, 1
+4,900, CARDINAL, 1
+the week of Dec. 28, DATE, 1
+1988, DATE, 1
+the University of B.C., ORG, 1
+The Globe and Mail PnuVax, ORG, 1
+Providence Therapeutics, PERSON, 1
+At least 13, CARDINAL, 1
+Middlesex, PERSON, 1
+Adam Dukelow, PERSON, 1
+Adrian Dix, PERSON, 1
+Richard Zussman, PERSON, 1
+PARIS/MADRID, ORG, 1
+CBC Radio Reuters, ORG, 1
+Steve Stecklow, PERSON, 1
+Brent Bambury, PERSON, 1
+Bay Street's, FAC, 1
+The Star PORTAGE, WORK_OF_ART, 1
+Mich., GPE, 1
+Roger Connor, PERSON, 1
+GSK Vaccines, ORG, 1
+The Globe and Mail Isolation, ORG, 1
+last March, DATE, 1
+Nine, CARDINAL, 1
+Matthew Kent, PERSON, 1
+South Korea's, GPE, 1
+The Globe and Mail Public Procurement, ORG, 1
+Alaskan, NORP, 1
+minutes, TIME, 1
+Sun Beset, PERSON, 1
+20-day, DATE, 1
+Lunar New Year, EVENT, 1
+The Globe and Mail South China, ORG, 1
+the University Healt, ORG, 1
+6,302, CARDINAL, 1
+389,436, CARDINAL, 1
+WTO, ORG, 1
+The Globe and Mail Wealthy, ORG, 1
+Sun Rick Hillier, PERSON, 1
+the Trans-Canada Highway, ORG, 1
+Vaccine Distribution Task Force, ORG, 1
+nearly 90, CARDINAL, 1
+the U.S. Centers for Disease Control, ORG, 1
+only about 0.3%, PERCENT, 1
+Andrei Kelin, PERSON, 1
+Oct. 20, DATE, 1
+The Globe and Mail The University of Saskatchewan’s Vaccine, ORG, 1
+the Public Health Agency of, ORG, 1
+The Globe and Mail Moderna's, ORG, 1
+Rosie DiManno, PERSON, 1
+350 million, CARDINAL, 1
+Lonza, PERSON, 1
+Visp, GPE, 1
+Colette Cameron, PERSON, 1
+USports, ORG, 1
+Clint Hamilton, PERSON, 1
+up to eight months, DATE, 1
+Tam | Watch News, ORG, 1
+Tam Video, PERSON, 1
+Bloc, LOC, 1
+the Green Party, ORG, 1
+Andrew Cuomo, PERSON, 1
+the end of year, DATE, 1
+U.S. Congress, ORG, 1
+almost US$1-trillion, MONEY, 1
+The Globe and Mail Hungary, ORG, 1
+Vaccine Task Force, ORG, 1
+Vaccine Task Force, PRODUCT, 1
+Tam - National | Globalnews.ca Dr., ORG, 1
+the Emergencies Act, LAW, 1
+$5.6-million, MONEY, 1
+Aug. 19, DATE, 1
+Peter Wearing, PERSON, 1
+Arizona, GPE, 1
+6,345, CARDINAL, 1
+474,820, CARDINAL, 1
+Kristina M.L. Acri, PERSON, 1
+millions of dollars, MONEY, 1
+Oct. 12, DATE, 1
+up to 400 million, MONEY, 1
+more than a year, DATE, 1
+Global Affairs, ORG, 1
+’ | Watch News, ORG, 1
+first quarter, DATE, 1
+CBC Radio Immunization, ORG, 1
+$220-million, MONEY, 1
+Drugmakers, PERSON, 1
+Fauci - National, ORG, 1
+| CTV News Facebook, ORG, 1
+PM Trudeau, PERSON, 1
+Vatican, ORG, 1
+Catholics, NORP, 1
+The Globe and Mail The Congregation for the Doctrine of the Faith, ORG, 1
+Tracking Canada’s, ORG, 1
+more than 35 million, CARDINAL, 1
+Sept. 2, DATE, 1
+Wear, PERSON, 1
+2,202, CARDINAL, 1
+Michael Garron Hospital, ORG, 1
+more than 295,000, CARDINAL, 1
+Oxford-AstraZeneca’s, ORG, 1
+3,600, CARDINAL, 1
+Yukon, GPE, 1
+N.W.T. - National | Globalnews.ca, ORG, 1
+7,200, CARDINAL, 1
+The Globe and Mail The Correctional Service of Canada, ORG, 1
+276, CARDINAL, 1
+additional 100 million, CARDINAL, 1
+at least 70 million, MONEY, 1
+no later than July 31, DATE, 1
+Drugmaker Novavax, ORG, 1
+13 of the week’s, DATE, 1
+Nov. 14-20, 2020, DATE, 1
+The Globe and Mail PM, ORG, 1
+Edward Baran, PERSON, 1
+Maritimes, ORG, 1
+at least next week, DATE, 1
+Michael Ryan, PERSON, 1
+The Globe and Mail Jostling, ORG, 1
+Sun Billionaire, PERSON, 1
+Mikhail Murashko, PERSON, 1
+37, CARDINAL, 1
+less than a year, DATE, 1
+Dec. 23, DATE, 1
+Kenney’s, ORG, 1
+MAID, ORG, 1
+The Globe and Mail Weakness, ORG, 1
+the era of, DATE, 1
+a frantic year, DATE, 1
+the University of Oxford's, ORG, 1
+about a year, DATE, 1
+48 hours, TIME, 1
+US$8.8-billion, MONEY, 1
+Global Vaccine Summit, ORG, 1
+around 3.5 million, CARDINAL, 1
+Century-old, DATE, 1
+Rapper M.I.A., ORG, 1
+Toronto Sun M.I.A., ORG, 1
+1,396, CARDINAL, 1
+116, CARDINAL, 1
+The Star FDA, ORG, 1
+Manitoba Health, ORG, 1
+The Province of Manitoba, GPE, 1
+338Canada, CARDINAL, 1
+nearly 38 million, CARDINAL, 1
+79%, PERCENT, 1
+The United Arab Emirates, GPE, 1
+86 per cent, MONEY, 1
+The Globe and Mail British, ORG, 1
+$4.2 billion, MONEY, 1
+the next two months, DATE, 1
+the World Health Organization's, ORG, 1
+year Video Online, ORG, 1
+CTV News Experts, ORG, 1
+early December, DATE, 1
+Alan McGreevy, PERSON, 1
+the University of Winnipeg, ORG, 1
+Switzerland, GPE, 1
+nine months, DATE, 1
+The Star NEW DELHI - With, ORG, 1
+August 22, DATE, 1
+Alberta Teachers’ Association, ORG, 1
+The Globe and Mail Gavi, ORG, 1
+about the holiday season, DATE, 1
+CanSino Biologics, PERSON, 1
+before end of year, DATE, 1
+14, CARDINAL, 1
+the past day, DATE, 1
+The Globe and Mail Company, ORG, 1
+Rhode Island, GPE, 1
+Texas, GPE, 1
+New Mexico, GPE, 1
+The week, DATE, 1
+| The Star Here’s, WORK_OF_ART, 1
+mid or late 2021, DATE, 1
+the Asia-Pacific region, LOC, 1
+500%, PERCENT, 1
+2019, DATE, 1
+Charles Weijer, PERSON, 1
+more than 2,700, CARDINAL, 1
+Vancouver - BC |, FAC, 1
+less than 10, CARDINAL, 1
+Belgium, GPE, 1
+The Globe and Mail Yoshitake Yokokura, ORG, 1
+The Globe and Mail The Ministry of Health, ORG, 1
+Latin American, NORP, 1
+Caribbean, NORP, 1
+40-year-old, DATE, 1
+16,900, CARDINAL, 1
+$70-million, MONEY, 1
+The Globe and Mail Ugur Sahin, ORG, 1
+about six weeks, DATE, 1
+22, CARDINAL, 1
+Arabic, NORP, 1
+Cree, NORP, 1
+Ojibwe, GPE, 1
+Punjabi, ORG, 1
+Spanish, LANGUAGE, 1
+Tagalog, NORP, 1
+Urdu, GPE, 1
+Globalnews.ca University of Manitoba, ORG, 1
+Arthur Schafer, PERSON, 1
+Warp Speed, WORK_OF_ART, 1
+surpasses 3,000, CARDINAL, 1
+over 2%, PERCENT, 1
+1.10, MONEY, 1
+2.45 %, PERCENT, 1
+46.06, MONEY, 1
+64 cents, MONEY, 1
+43.06, MONEY, 1
+1.51%, PERCENT, 1
+another year, DATE, 1
+150,000, CARDINAL, 1
+late-night, TIME, 1
+edged past 150,000, CARDINAL, 1
+tens of millions of dollars, MONEY, 1
+The Globe and Mail The National Advisory Committee on Immunization, ORG, 1
+billion, CARDINAL, 1
+one billion, CARDINAL, 1
+AstraZeneca COVID, ORG, 1
+The Star Check, WORK_OF_ART, 1
+$1.5-billion, MONEY, 1
+COVID-19 vaccine - The Globe and Mail Moderna’s, PRODUCT, 1
+around $30.50, MONEY, 1
+an additional $1.1 billion, MONEY, 1
+Wright, PERSON, 1
+Hank, ORG, 1
+The Globe and Mail Estimates, ORG, 1
+more than $10-billion, MONEY, 1
+annually, DATE, 1
+Rich Coleman, PERSON, 1
+Twitter, PERSON, 1
+Coleman, PERSON, 1
+99.5%, PERCENT, 1
+99.7%, PERCENT, 1
+Oct. 18, DATE, 1
+Carol Anne Chenard, PERSON, 1
+FIFA, ORG, 1
+The Star NAIROBI, ORG, 1
+Kenya, GPE, 1
+94.1 per cent, MONEY, 1
+Manitoba, PERSON, 1
+The Globe and Mail Only, ORG, 1
+At least a year, DATE, 1
+More than 7,700, CARDINAL, 1
+170, CARDINAL, 1
+The Globe and Mail Regulators, ORG, 1
+as early as end of December, DATE, 1
+Fortin, ORG, 1
+The Star Bach, PERSON, 1
+10-20 million, CARDINAL, 1
+end-2020, DATE, 1
+The Globe and Mail Companies, ORG, 1
+North Korea’s, GPE, 1
+1,859, CARDINAL, 1
+U.Ss, ORG, 1
+nearly 228,000, CARDINAL, 1
+ETA, ORG, 1
+The Globe and Mail Around, ORG, 1
+Megan Revell, PERSON, 1
+Ninety-year-old, DATE, 1
+Coventry Hospital, ORG, 1
+Birmingham, GPE, 1
+Angela Merkel, PERSON, 1
+Del., GPE, 1
+Ontario Medical Association, ORG, 1
+Geraldo Rivera’s, PERSON, 1
+Jack the Ripper | The Star I’m, PERSON, 1
+Sanofi, NORP, 1
+72 million, CARDINAL, 1
+The Globe and Mail Materials, ORG, 1
+the Ontario Medical Association, ORG, 1
+CSIS, ORG, 1
+Reid, PERSON, 1
+538, CARDINAL, 1
+York, GPE, 1
+Halton, GPE, 1
+May 25, DATE, 1
+$40.33-billion, MONEY, 1
+$600-million, MONEY, 1
+Venice, GPE, 1
+days - Macleans.ca, DATE, 1
+up to seven, CARDINAL, 1
+Joel Lexchin, PERSON, 1
+York University, ORG, 1
+Theresa, PERSON, 1
+Kitchener, PERSON, 1
+The Globe and Mail German, ORG, 1
+Gates, PERSON, 1
+Anand, GPE, 1
+Saturday, Aug. 22, 2020, DATE, 1
+Brampton, GPE, 1
+The Star Right, WORK_OF_ART, 1
+Elliott, PERSON, 1
+Europe’s, ORG, 1
+Inclusive Vaccines Alliance, ORG, 1
+Netherlands, GPE, 1
+330 million, CARDINAL, 1
+Sun Health Canada, ORG, 1
+National Health Service, ORG, 1
+66 million, CARDINAL, 1
+Chengdu, GPE, 1
+mid-summer, DATE, 1
+May 19, DATE, 1
+Sun Museums, PERSON, 1
+mid-May., DATE, 1
+Lockdown, ORG, 1
+COVID-19 | CTV News Researchers in, ORG, 1
+Jason Kindrachuck, PERSON, 1
+John Coates, PERSON, 1
+CTV National News:, ORG, 1
+| CTV News America's, ORG, 1
+Rick Bright, PERSON, 1
+A week ago, DATE, 1
+Olivia Chan, PERSON, 1
+Amir Attaran, PERSON, 1
+Seven, CARDINAL, 1
+three months, DATE, 1
+four billion, MONEY, 1
+| CTV News Even, ORG, 1
+Burnaby, PERSON, 1
+Murthy, PERSON, 1
+the University of Oxford, ORG, 1
+Indigenous, GPE, 1
+Miller, ORG, 1
+The Globe and Mail Indigenous Services, ORG, 1
+Marc Miller, PERSON, 1
+Trump - National | Globalnews.ca Trump, ORG, 1
+the Soviet Union, GPE, 1
+1,285, CARDINAL, 1
+120, CARDINAL, 1
+206, CARDINAL, 1
+3,990, CARDINAL, 1
+9,649, CARDINAL, 1
+a few dozen, CARDINAL, 1
+Peter Nygard, PERSON, 1
+Iranian, NORP, 1
+Flight PS752, PRODUCT, 1
+14 cents, MONEY, 1
+0.3 per cent, MONEY, 1
+43.28, MONEY, 1
+The Globe and Mail Purchasing Managers, ORG, 1
+about the year ahead, DATE, 1
+Over 150, CARDINAL, 1
+at least two, CARDINAL, 1
+48.84, MONEY, 1
+5 cents, MONEY, 1
+The Globe and Mail Need, ORG, 1
+Roy Gori, PERSON, 1
+three-month, DATE, 1
+Matt Galloway, PERSON, 1
+Afghanistan, GPE, 1
+Ladakh, PERSON, 1
+P.E.I., ORG, 1
+COVID-19 vaccine - The Globe and Mail U.S., PERSON, 1
+25,000, MONEY, 1
+CBC Radio New, ORG, 1
+the Angus Reid Institute, ORG, 1
+Throne Speech, ORG, 1
+half-billion, MONEY, 1
+COVID-19 vaccine - The Globe and Mail Like, PRODUCT, 1
+Michael Houghton’s, PERSON, 1
+The Globe and Mail Governments, ORG, 1
+’ | Watch News Videos Online Watch Coronavirus: Trudeau, WORK_OF_ART, 1
+Over 2,000, CARDINAL, 1
+CBC Radio Retired, ORG, 1
+the first few days, DATE, 1
+the Serum Institute of India, ORG, 1
+CBC Radio Medical, ORG, 1
+Sean Doyle, PERSON, 1
+43, DATE, 1
+The Star NEW DELHI - India’s Health Ministry, ORG, 1
+Canadian Light Source, ORG, 1
+Dalhousie University’s Canadian Centre for Vaccinology, ORG, 1
+Success, ORG, 1
+The Globe and Mail Answering, ORG, 1
+40, CARDINAL, 1
+de Villa, PERSON, 1
+the fall, DATE, 1
+81, CARDINAL, 1
+Access, PRODUCT, 1
+COVID-19 Tools, PERSON, 1
+July 20, DATE, 1
+Star Federal, ORG, 1
+Joanne Langley, PERSON, 1
+The Star AMSTERDAM - As, ORG, 1
+the Canadian Medical Association Journal, ORG, 1
+ER, GPE, 1
+Vela, PERSON, 1
+about 800, CARDINAL, 1
+approximately 5,000, CARDINAL, 1
+The Globe and Mail Date, ORG, 1
+Halton Region, PERSON, 1
+the mid-20th century, DATE, 1
+weekend, DATE, 1
+15,000, CARDINAL, 1
+The Globe and Mail Global, ORG, 1
+17 million, CARDINAL, 1
+Comparing, ORG, 1
+The Star Moderna, PERSON, 1
+the Public Health Agency of Canada, ORG, 1
+Red Cross, ORG, 1
+July to October this year, DATE, 1
+Many hard months, DATE, 1
+The Globe and Mail Conventional, ORG, 1
+H1N1, CARDINAL, 1
+the months ahead, DATE, 1
+Chief Public Health, ORG, 1
+17 per cent, MONEY, 1
+COVID-19 - The Globe and Mail Moderna’s, ORG, 1
+17.3%, PERCENT, 1
+88, MONEY, 1
+COVID-19 |, PRODUCT, 1
+Provincial Health Officer, ORG, 1
+American Airlines, ORG, 1
+Southwest, LOC, 1
+$25-billion, MONEY, 1
+at least 1.2 million, CARDINAL, 1
+Jan. 31, DATE, 1
+The Star Behind, WORK_OF_ART, 1
+The Star OTTAWA - Health Canada, WORK_OF_ART, 1
+Nancy Pelosi, PERSON, 1
+Philip Morris International, ORG, 1
+the Trudeau Liberals, ORG, 1
+Fifty-four, CARDINAL, 1
+British Columbians, ORG, 1
+Inside Canada’s, ORG, 1
+$1.6-billion, MONEY, 1
+the beginning of next year, DATE, 1
+180, CARDINAL, 1
+COVID-19 - The Globe and Mail Researchers, ORG, 1
+BCG, ORG, 1
+The White House, ORG, 1
+83 cents, MONEY, 1
+1.75%, PERCENT, 1
+48.25, MONEY, 1
+The Globe and Mail Twitter, ORG, 1
+another two weeks, DATE, 1
+The Star BERLIN - The, WORK_OF_ART, 1
+Entos Pharmaceuticals, ORG, 1
+Sun Fusogenix, PERSON, 1
+PLV, ORG, 1
+just 20 years, DATE, 1
+The Globe and Mail Distributing, ORG, 1
+Chapman, ORG, 1
+Ashley Chapman, PERSON, 1
+10,000, CARDINAL, 1
+March, 2021, DATE, 1
+May 18, DATE, 1
+The Star Newfoundland, ORG, 1
+another single-day, DATE, 1

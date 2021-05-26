@@ -1,0 +1,383 @@
+entity, label, count
+ABC News, ORG, 23
+Australia, GPE, 17
+US, GPE, 16
+Australians, NORP, 12
+Sydney, GPE, 12
+first, ORDINAL, 11
+NSW, ORG, 11
+Samoa, ORG, 10
+The West Australian, LOC, 9
+one, CARDINAL, 9
+this year, DATE, 8
+Anthony Mundine, PERSON, 8
+NRL, ORG, 8
+Australian, NORP, 8
+Melbourne, GPE, 7
+two, CARDINAL, 7
+Samoan, ORG, 6
+millions, CARDINAL, 5
+Bryce Cartwright, PERSON, 5
+Victorian, NORP, 4
+Queensland, GPE, 4
+four, CARDINAL, 4
+season, DATE, 4
+Europe, LOC, 4
+South Australian, NORP, 4
+2019, DATE, 4
+New York, GPE, 4
+24, CARDINAL, 4
+90 per cent, MONEY, 4
+African, NORP, 4
+HPV, ORG, 3
+thousands, CARDINAL, 3
+400,000, CARDINAL, 3
+Philippines, GPE, 3
+25-year, DATE, 3
+MMR, ORG, 3
+five, CARDINAL, 3
+summer, DATE, 3
+year, DATE, 3
+Jessica Biel, PERSON, 3
+Germany, GPE, 3
+More than 63, CARDINAL, 3
+Two, CARDINAL, 3
+Perth, GPE, 3
+YouTube, ORG, 3
+Italian, NORP, 3
+32, CARDINAL, 3
+Jeff O'Toole, PERSON, 2
+150 years ago, DATE, 2
+Canada, GPE, 2
+this week, DATE, 2
+10, CARDINAL, 2
+SA Health, ORG, 2
+Danish, NORP, 2
+Vaccine, PERSON, 2
+the United States, GPE, 2
+Flu Vaccine, PERSON, 2
+United States, GPE, 2
+Outspoken, PERSON, 2
+Samoans, NORP, 2
+the Immunisation Coalition, ORG, 2
+11-month-old, DATE, 2
+New South Wales, LOC, 2
+Pete Evans, PERSON, 2
+Victoria, GPE, 2
+Greens, NORP, 2
+Pacific, LOC, 2
+Australian Broadcasting Corporation, ORG, 2
+174,000, CARDINAL, 2
+Sri Lanka, GPE, 2
+New York City, GPE, 2
+Bill de Blasio, PERSON, 2
+37, CARDINAL, 2
+Children's Hospital, ORG, 2
+dozens, CARDINAL, 2
+American, NORP, 2
+two-day, DATE, 2
+Flinders University, ORG, 2
+second, ORDINAL, 2
+NSW Health, ORG, 2
+InvoCare’s, ORG, 2
+West Australian, NORP, 2
+Mandurah, ORG, 2
+Samoa - ABC News, ORG, 2
+the next decade, DATE, 2
+decades, DATE, 2
+three, CARDINAL, 2
+The West Australian, GPE, 2
+Julie Bishop, PERSON, 2
+Titans, NORP, 2
+Gold Coast, LOC, 2
+Donald Trump, PERSON, 2
+Flu Outbreak, PERSON, 2
+RSV, ORG, 2
+GoFundMe, NORP, 2
+Pharmacists, NORP, 2
+Medicare, ORG, 2
+Malaria, GPE, 2
+Coburg, GPE, 1
+Vancouver, GPE, 1
+year's end, DATE, 1
+ABC News Researchers, ORG, 1
+between 20 and 53, DATE, 1
+ABC News Families, ORG, 1
+the University of Adelaide, ORG, 1
+Thousands, CARDINAL, 1
+| SBS News Authorities, ORG, 1
+more than 650,000, CARDINAL, 1
+The West Australian Demystifying, LOC, 1
+Flu Australia, ORG, 1
+Adelaide, ORG, 1
+Sam, PERSON, 1
+July last year, DATE, 1
+25, CARDINAL, 1
+Twenty-five, CARDINAL, 1
+more than half, CARDINAL, 1
+last year, DATE, 1
+European, NORP, 1
+The West Australian Young, GPE, 1
+ICU, ORG, 1
+just three days, DATE, 1
+Josh Johnston, PERSON, 1
+nine-year-old, DATE, 1
+seven, CARDINAL, 1
+27, CARDINAL, 1
+at least seven, CARDINAL, 1
+Toddler, PERSON, 1
+14, CARDINAL, 1
+21, CARDINAL, 1
+25-year-high, DATE, 1
+About 3,000, CARDINAL, 1
+Sydney GP, FAC, 1
+Measles, Mumps and, ORG, 1
+Rubella and Whooping Cough, ORG, 1
+the past nine years, DATE, 1
+Townsville, GPE, 1
+More than 400, CARDINAL, 1
+Royal Children's Hospital, ORG, 1
+Michelle Pfeiffer, PERSON, 1
+Celebrities, ORG, 1
+decade, DATE, 1
+the World Health Organisation, ORG, 1
+200, MONEY, 1
+Eseta Meki, PERSON, 1
+two-year-old, DATE, 1
+the weekend, DATE, 1
+the winter, DATE, 1
+two months, DATE, 1
+Liam Eldridge, PERSON, 1
+Apiam Animal Health, PERSON, 1
+Bendigo, ORG, 1
+Apiam, PERSON, 1
+ACE Laboratory Services, ORG, 1
+$16 million, MONEY, 1
+Rubella, ORG, 1
+Robert F. Kennedy, PERSON, 1
+Robert F. Kennedy Jr., PERSON, 1
+California, GPE, 1
+season 2019, DATE, 1
+more than 220, CARDINAL, 1
+more than 100,000, CARDINAL, 1
+the flu season, DATE, 1
+More than 400,000, CARDINAL, 1
+South Australia&#x27;s Riverland, LOC, 1
+South Australians, NORP, 1
+Therapeutic Goods Administration, ORG, 1
+Israel, GPE, 1
+Orthodox Jewish, NORP, 1
+ABC News Chickenpox, ORG, 1
+the age of 65, DATE, 1
+about $120, MONEY, 1
+4000, MONEY, 1
+German, NORP, 1
+Meet Australia's, ORG, 1
+The Australian Financial Review Women of Influence Awards, ORG, 1
+Julie Leask, PERSON, 1
+Vanuatu, ORG, 1
+Vanuatu, GPE, 1
+eight weeks old, DATE, 1
+3 million, CARDINAL, 1
+annually, DATE, 1
+ABC News Doctors, ORG, 1
+the Federal Government's, ORG, 1
+State, ORG, 1
+Federal Government, ORG, 1
+10-month-old, DATE, 1
+America, GPE, 1
+Orthodox, NORP, 1
+Jewish, NORP, 1
+zero, CARDINAL, 1
+more than 25 years, DATE, 1
+election 2019, DATE, 1
+Coalition - ABC News Labor, ORG, 1
+Richmond, GPE, 1
+the National Party, ORG, 1
+Nazi, NORP, 1
+ABC News Medical, ORG, 1
+39, CARDINAL, 1
+2014, DATE, 1
+97, CARDINAL, 1
+Samoa - World News - ABC News, ORG, 1
+one year, DATE, 1
+the last year, DATE, 1
+seven-year-old, DATE, 1
+Edward Jenner, PERSON, 1
+the last two centuries, DATE, 1
+Samoa - Health - ABC News, ORG, 1
+Port Stephens, FAC, 1
+The Red Cross, ORG, 1
+David Edmonston, PERSON, 1
+1991, DATE, 1
+'summer', DATE, 1
+13, CARDINAL, 1
+Gates Foundation, ORG, 1
+University of Queensland, ORG, 1
+The University of Queensland, ORG, 1
+$14.7 million, MONEY, 1
+500, CARDINAL, 1
+May, DATE, 1
+one day, DATE, 1
+Hunter Valley, LOC, 1
+at least two years, DATE, 1
+GP’s, ORG, 1
+Adelaide's Women's and, ORG, 1
+today, DATE, 1
+West Australian Letters, NORP, 1
+140, CARDINAL, 1
+last day, DATE, 1
+| SBS News Samoa's, ORG, 1
+Priorix, ORG, 1
+GlaxoKlineSmith One, PERSON, 1
+Queensland AMA, PERSON, 1
+LSD, ORG, 1
+| SBS News Samoa, ORG, 1
+South Australia's, GPE, 1
+Queensland Health's, PERSON, 1
+Queensland Health, PERSON, 1
+A Current Affair Two-year-old Marko Magic, WORK_OF_ART, 1
+SA, ORG, 1
+Harrisdale, PERSON, 1
+Western Australia, LOC, 1
+Shanelle Cartwright, PERSON, 1
+one week, DATE, 1
+YouTube Anti, PRODUCT, 1
+five years, DATE, 1
+Three, CARDINAL, 1
+the first three months of 2019, DATE, 1
+previous years, DATE, 1
+winter, DATE, 1
+38, CARDINAL, 1
+More than 1 million, CARDINAL, 1
+Queenslanders, ORG, 1
+a bad flu season, DATE, 1
+five-year, DATE, 1
+this time of year, DATE, 1
+The West Australian, NORP, 1
+Expert, PERSON, 1
+STI, ORG, 1
+The Feed, WORK_OF_ART, 1
+More than 50 years, DATE, 1
+Routine, ORG, 1
+2021, DATE, 1
+Teenager, ORG, 1
+Tasmanians, NORP, 1
+Sarah Beltz, PERSON, 1
+the day, DATE, 1
+Mozambique, ORG, 1
+nearly 900,000, CARDINAL, 1
+Cholera, ORG, 1
+Mozambique, NORP, 1
+France, GPE, 1
+French, NORP, 1
+48 hours, TIME, 1
+1000, MONEY, 1
+Curtin University, ORG, 1
+$4m, MONEY, 1
+Perth, PERSON, 1
+$4 million, MONEY, 1
+The Samoa Government, ORG, 1
+81, CARDINAL, 1
+more than 5,600, CARDINAL, 1
+days, DATE, 1
+Dozens, CARDINAL, 1
+Hawaii, GPE, 1
+Centrelink, GPE, 1
+last month, DATE, 1
+Tom, PERSON, 1
+the World Health Organisation (WHO, ORG, 1
+ABC News, WORK_OF_ART, 1
+Each year, DATE, 1
+200 million, CARDINAL, 1
+early last century, DATE, 1
+a given year, DATE, 1
+63, CARDINAL, 1
+More than 160 million, CARDINAL, 1
+the past eight years, DATE, 1
+Cathy, PERSON, 1
+20 years, DATE, 1
+British, NORP, 1
+Andrew Wakefield, PERSON, 1
+more than 50, CARDINAL, 1
+55, CARDINAL, 1
+2018, DATE, 1
+under 54, DATE, 1
+6128, CARDINAL, 1
+Sophia Barbagallo, ORG, 1
+Universe Australia, ORG, 1
+ABC News Vaccination, ORG, 1
+the Human Vaccines Project, ORG, 1
+Shanelle, PERSON, 1
+the Gold Coast, LOC, 1
+Bryce Cartwright’s, PERSON, 1
+Garth Brennan, PERSON, 1
+pre-season, DATE, 1
+first year, DATE, 1
+Spike, PERSON, 1
+2017-18, DATE, 1
+recent years, DATE, 1
+Curfew, PERSON, 1
+QLD, ORG, 1
+At least 25, CARDINAL, 1
+Queensland, PERSON, 1
+25, DATE, 1
+as many as one, CARDINAL, 1
+20, CARDINAL, 1
+Jessica Biel’s, PERSON, 1
+Hollywood, GPE, 1
+Americans, NORP, 1
+almost 1,000, CARDINAL, 1
+Los Angeles, GPE, 1
+18-year-old, DATE, 1
+Kentucky, GPE, 1
+Cape York, GPE, 1
+More than 60, CARDINAL, 1
+WAG, ORG, 1
+Instagram, ORG, 1
+Facebook - ABC News, ORG, 1
+Jessica Kaufman, PERSON, 1
+Margie Danchin, PERSON, 1
+The Australian Medical Association, ORG, 1
+More than 10,000, CARDINAL, 1
+almost three, CARDINAL, 1
+half, CARDINAL, 1
+up to 10 years, DATE, 1
+5 years, DATE, 1
+one-year-olds, DATE, 1
+October 31, 1923, DATE, 1
+Druids and Women’s Hospital, ORG, 1
+NSW Labor, ORG, 1
+11-year, DATE, 1
+Fred Bart, PERSON, 1
+Laurence Freedman, PERSON, 1
+Immunovative, ORG, 1
+Bart, ORG, 1
+Michael Har-Noy, PERSON, 1
+Riley Hughes, PERSON, 1
+Jessica Breheny, PERSON, 1
+Joondalup Health Campus, ORG, 1
+Greg Hunt, PERSON, 1
+24,000, CARDINAL, 1
+last Wednesday, DATE, 1
+ABC News Samoa's, ORG, 1
+53, CARDINAL, 1
+Flinders Uni, ORG, 1
+ABC News Measles, ORG, 1
+between six months and nine years, DATE, 1
+a month earlier, DATE, 1
+China, GPE, 1
+several weeks, DATE, 1
+Daniel Foulds, PERSON, 1
+3000, CARDINAL, 1
+2010, DATE, 1
+Brave Tahlea’s, PERSON, 1
+SA Free, ORG, 1
+South Australia, LOC, 1
+more than a decade, DATE, 1
+third, ORDINAL, 1
+72 hours, TIME, 1
+Telethon Kids Institute, ORG, 1
+The West Australian Groundbreaking, LOC, 1
+the Telethon Kids Institute, ORG, 1
+Malawi, GPE, 1

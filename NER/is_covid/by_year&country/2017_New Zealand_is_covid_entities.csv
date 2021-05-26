@@ -1,0 +1,146 @@
+entity, label, count
+Coronation Street, FAC, 9
+two, CARDINAL, 6
+Christchurch, ORG, 5
+NZ, GPE, 4
+Coronation Street's, FAC, 4
+Liz Dawn, PERSON, 4
+three, CARDINAL, 4
+Bruno Langley, PERSON, 4
+Vera Duckworth, ORG, 4
+Remuera, PERSON, 3
+22-hour, TIME, 2
+today, DATE, 2
+Tracy Barlow, PERSON, 2
+West Auckland, GPE, 2
+Sally, PERSON, 2
+Michelle Keegan, PERSON, 2
+Las Vegas, GPE, 2
+Nick, PERSON, 2
+Carla, PERSON, 2
+White House, ORG, 2
+Auckland, GPE, 2
+US, GPE, 2
+New Zealand, GPE, 2
+yesterday, DATE, 2
+Timaru Hospital, ORG, 2
+Darth Vader, PERSON, 2
+this afternoon, TIME, 2
+London, GPE, 2
+Bill Gates, PERSON, 2
+Jane Danson, PERSON, 2
+Leanne, ORG, 2
+Texas Tech University, ORG, 2
+NZH, ORG, 2
+Herald Video, ORG, 2
+Marlborough, GPE, 2
+California, GPE, 2
+| Scoop News, PRODUCT, 1
+Spring Hill Corrections Facility, ORG, 1
+months, DATE, 1
+Prisons, GPE, 1
+Mangere Bridge, FAC, 1
+Coronation Road, Mangere Bridge, FAC, 1
+Vera Duckworth, WORK_OF_ART, 1
+34 years, DATE, 1
+one, CARDINAL, 1
+Spectre Expedition, ORG, 1
+Sastrugi, PERSON, 1
+Yesterday, DATE, 1
+Leo Houlding, PERSON, 1
+Patrick Gower, PERSON, 1
+Bill English, PERSON, 1
+Winston Peters, PERSON, 1
+earlier today, TIME, 1
+Quarantine Island’s, LOC, 1
+Dunedin, PERSON, 1
+summer, DATE, 1
+Quarantine Island/Kamau Taurua, LOC, 1
+QI, ORG, 1
+first, ORDINAL, 1
+Kevin, PERSON, 1
+Otago, PERSON, 1
+Newshub The Otago Corrections Facility, ORG, 1
+Melbourne, GPE, 1
+19, CARDINAL, 1
+Emergo Train System, WORK_OF_ART, 1
+ETS, ORG, 1
+Tauranga Hospital, FAC, 1
+Quarantined Botswana, PERSON, 1
+Isaac Makwala, PERSON, 1
+200, CARDINAL, 1
+Botswana, PERSON, 1
+second, ORDINAL, 1
+Australian, NORP, 1
+19th century, DATE, 1
+Aussie, GPE, 1
+the second season, DATE, 1
+Alec Gilroy, PERSON, 1
+Roy Barraclough, PERSON, 1
+Coronation St, PRODUCT, 1
+Kiwis, GPE, 1
+Ben Price, PERSON, 1
+Sarah Lancashire, PERSON, 1
+Raquel, PERSON, 1
+Rural Tauranga, ORG, 1
+Whakamarama, GPE, 1
+Herald Lockdown, ORG, 1
+Tokomairiro High School, ORG, 1
+Coronation, NORP, 1
+12 month, DATE, 1
+Zombie Actors Protest, ORG, 1
+Auckland Trade Office, ORG, 1
+this morning, TIME, 1
+the Ministry for Foreign Affairs and Trade, ORG, 1
+MFAT, ORG, 1
+Real Choice, ORG, 1
+Herald New Zealand, ORG, 1
+UK, GPE, 1
+John Michie, PERSON, 1
+Bestival, GPE, 1
+Herald A, ORG, 1
+Auckland's Remuera, ORG, 1
+Sacked Coronation Street, ORG, 1
+Tangata Whenua, PERSON, 1
+the Petroleum Summit, ORG, 1
+Two years, DATE, 1
+Bay Regional Prison, FAC, 1
+hours, TIME, 1
+Wellington, GPE, 1
+Buckingham, GPE, 1
+Herald Buckingham, ORG, 1
+Auckland Prison, GPE, 1
+Josh Masters, PERSON, 1
+Las Vegas ', GPE, 1
+Rolex, PERSON, 1
+Westminster, PERSON, 1
+the next decade, DATE, 1
+Central Otago, LOC, 1
+one hour, TIME, 1
+Herald Four, ORG, 1
+North Canterbury, ORG, 1
+Herald Bromfield School, ORG, 1
+English, LANGUAGE, 1
+Scoop News Hāpai, ORG, 1
+Hauora, PERSON, 1
+the University of Otago, ORG, 1
+the British Medical Journal, ORG, 1
+this month, DATE, 1
+Zoe Hawke, PERSON, 1
+the National Tobacco Control, ORG, 1
+Paris, GPE, 1
+One, CARDINAL, 1
+Bonamia, ORG, 1
+Coronation Street's, ORG, 1
+Ed Sheeran, PERSON, 1
+Ed Sheeran's, PERSON, 1
+four, CARDINAL, 1
+Sandy Hook-like, PERSON, 1
+Herald Local, ORG, 1
+At least five, CARDINAL, 1
+40, CARDINAL, 1
+Bruno Langley ', PERSON, 1
+Herald Bruno Langley, ORG, 1
+Hannover Airport, FAC, 1
+Lockdown, ORG, 1
+Otago Correctional Facility, ORG, 1

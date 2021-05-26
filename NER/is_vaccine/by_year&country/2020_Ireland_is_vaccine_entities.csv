@@ -1,0 +1,1683 @@
+entity, label, count
+first, ORDINAL, 231
+Ireland, GPE, 195
+US, GPE, 150
+UK, GPE, 136
+Pfizer, PERSON, 133
+Irish, NORP, 80
+Oxford, ORG, 69
+EU, ORG, 67
+today, DATE, 50
+Vaccine, PERSON, 44
+Moderna, GPE, 41
+Russia, GPE, 40
+First, ORDINAL, 39
+two, CARDINAL, 32
+Christmas, DATE, 31
+China, GPE, 31
+Northern Ireland, GPE, 30
+AstraZeneca, ORG, 28
+Europe, LOC, 27
+Oxford University, ORG, 26
+European, NORP, 25
+one, CARDINAL, 24
+Tuesday, DATE, 24
+2021, DATE, 22
+HSE, ORG, 22
+Donald Trump, PERSON, 22
+HPV, ORG, 20
+Covid, NORP, 20
+yesterday, DATE, 19
+second, ORDINAL, 19
+next year, DATE, 19
+Russian, NORP, 19
+German, NORP, 18
+TheJournal.ie - Breaking Irish and International News, WORK_OF_ART, 18
+FDA, ORG, 17
+Trump, PERSON, 17
+Britain, GPE, 17
+Joe Biden, PERSON, 17
+Reuters, ORG, 16
+State, ORG, 16
+Dublin, GPE, 15
+Paul Reid, PERSON, 15
+next week, DATE, 15
+Moderna, PERSON, 15
+Americans, NORP, 15
+Anthony Fauci, PERSON, 14
+Johnson, PERSON, 14
+Biden, PERSON, 14
+three, CARDINAL, 13
+Germany, GPE, 13
+Explainer, PERSON, 12
+January, DATE, 12
+90%, PERCENT, 12
+WHO, ORG, 12
+Monday, DATE, 12
+Thousands, CARDINAL, 12
+2020, DATE, 12
+Brexit, PERSON, 12
+Cabinet, ORG, 11
+Moscow, GPE, 11
+this year, DATE, 11
+MMR, ORG, 11
+British, NORP, 11
+December, DATE, 10
+four, CARDINAL, 10
+Chinese, NORP, 10
+EMA, ORG, 10
+COVID-19, PRODUCT, 10
+the end of the year, DATE, 10
+weeks, DATE, 10
+October, DATE, 10
+September, DATE, 10
+Taoiseach, ORG, 9
+Leyen, GPE, 9
+the European Medicines Agency, ORG, 9
+London, GPE, 9
+Stephen Donnelly, PERSON, 9
+BioNTech, GPE, 9
+One, CARDINAL, 9
+Annie Lynch, ORG, 9
+Boris Johnson, PERSON, 9
+The World Health Organization, ORG, 9
+CORONAVIRUS, ORG, 8
+Leo Varadkar, PERSON, 8
+next summer, DATE, 8
+Ryan Tubridy, PERSON, 8
+3, CARDINAL, 8
+this week, DATE, 8
+early 2021, DATE, 8
+American, NORP, 8
+Australia, GPE, 8
+Wednesday, DATE, 8
+Mike Pence, PERSON, 8
+Brazil, GPE, 8
+early January, DATE, 8
+White House, ORG, 8
+79-year-old, DATE, 7
+Simon Harris, PERSON, 7
+November, DATE, 7
+Putin, PERSON, 7
+Pfizer’s, ORG, 7
+morning, TIME, 7
+Covid, PERSON, 7
+600,000, CARDINAL, 7
+five, CARDINAL, 7
+95%, PERCENT, 7
+France, GPE, 7
+Spain, GPE, 7
+5, CARDINAL, 7
+Two, CARDINAL, 7
+next month, DATE, 7
+Ronan Glynn, PERSON, 7
+North, LOC, 6
+GAA, ORG, 6
+94.5%, PERCENT, 6
+Second, ORDINAL, 6
+a week, DATE, 6
+Fauci, ORG, 6
+Micheál Martin, PERSON, 6
+a year, DATE, 6
+six, CARDINAL, 6
+thousands, CARDINAL, 6
+Harris, PERSON, 6
+Taoiseach, PERSON, 6
+Friday, DATE, 6
+last week, DATE, 6
+April, DATE, 6
+Ursula von, PERSON, 5
+The Irish Times, ORG, 5
+EU, GPE, 5
+Q&A, ORG, 5
+The Irish Sun, WORK_OF_ART, 5
+60 million, CARDINAL, 5
+Mike Ryan, PERSON, 5
+the University of Oxford, ORG, 5
+90-year-old, DATE, 5
+Sunday, DATE, 5
+Micheal Martin, PERSON, 5
+Canada, GPE, 5
+tomorrow, DATE, 5
+Coronavirus, ORG, 5
+Martin, PERSON, 5
+79, CARDINAL, 5
+winter, DATE, 5
+Health, ORG, 5
+Belfast, GPE, 5
+BioNtech, ORG, 5
+100 million, CARDINAL, 5
+BCG, ORG, 5
+The European Union, ORG, 5
+2022, DATE, 5
+millions, CARDINAL, 5
+tens of thousands, CARDINAL, 5
+England, GPE, 5
+days, DATE, 5
+the end of this year, DATE, 4
+the Sunday Independent, ORG, 4
+Five, CARDINAL, 4
+David Nabarro, PERSON, 4
+Vladimir Putin, PERSON, 4
+Pandemrix, ORG, 4
+Bill Gates, PERSON, 4
+Pharmacists, NORP, 4
+Trinity College Dublin, ORG, 4
+Thanksgiving, DATE, 4
+70%, PERCENT, 4
+SECOND, ORDINAL, 4
+Oxford-AstraZeneca, ORG, 4
+Wuhan, GPE, 4
+the World Health Organization, ORG, 4
+this Christmas, DATE, 4
+December 30, DATE, 4
+Olympics, EVENT, 4
+Italy, GPE, 4
+2,000, CARDINAL, 4
+Tony Holohan, PERSON, 4
+Taoiseach Leo Varadkar, PERSON, 4
+last month, DATE, 4
+90pc, ORDINAL, 4
+months, DATE, 4
+Russians, NORP, 4
+more than 90%, PERCENT, 4
+Melania Trump, PERSON, 4
+Kamala Harris, PERSON, 4
+European Commission, ORG, 4
+Donald, PERSON, 4
+500, CARDINAL, 4
+The Irish Sun, ORG, 4
+GSK, ORG, 4
+Sanofi, ORG, 4
+French, NORP, 4
+Taoiseach Micheál Martin, PERSON, 4
+Sputnik, PERSON, 4
+G20, ORG, 4
+IBM, ORG, 4
+10,000, CARDINAL, 3
+European Medicines Agency, ORG, 3
+autumn, DATE, 3
+hundreds, CARDINAL, 3
+NPHET, ORG, 3
+Greens, NORP, 3
+Saturday, DATE, 3
+Lancet, ORG, 3
+1, CARDINAL, 3
+32, CARDINAL, 3
+Beijing, GPE, 3
+11, CARDINAL, 3
+8am, TIME, 3
+the Royal Victoria Hospital, ORG, 3
+World Health Organisation, ORG, 3
+the World Health Organisation, ORG, 3
+200, CARDINAL, 3
+zero, CARDINAL, 3
+Ryanair, PERSON, 3
+Tánaiste, PERSON, 3
+evening, TIME, 3
+Christmas Day, DATE, 3
+European Union, ORG, 3
+March, DATE, 3
+the coming months, DATE, 3
+two weeks, DATE, 3
+Johnson & Johnson, ORG, 3
+this afternoon, TIME, 3
+the last 24 hours, TIME, 3
+COVID-19, PERSON, 3
+J&J, ORG, 3
+Republic, GPE, 3
+the Republic of Ireland, GPE, 3
+Australian, NORP, 3
+Gabriel Scally, PERSON, 3
+early November, DATE, 3
+Laura Brennan, PERSON, 3
+six weeks, DATE, 3
+400,000, CARDINAL, 3
+Delaware, GPE, 3
+12 to 18 months, DATE, 3
+Tokyo, GPE, 3
+New York, GPE, 3
+Amazon, ORG, 3
+fifth, ORDINAL, 3
+the Health Service Executive, ORG, 3
+last night, TIME, 3
+the middle of next year, DATE, 3
+Two million, CARDINAL, 3
+Adrian Hill, PERSON, 3
+24, CARDINAL, 3
+Republican, NORP, 3
+10, CARDINAL, 3
+Angela Merkel, PERSON, 3
+65, DATE, 3
+AstraZeneca’s, ORG, 3
+Oireachtas, ORG, 3
+90 million, CARDINAL, 3
+2-12, DATE, 3
+recent days, DATE, 3
+Varadkar, ORG, 3
+third, ORDINAL, 3
+Martin, ORG, 3
+a day earlier, DATE, 3
+Expert, PERSON, 3
+Sinn Féin TD, PERSON, 3
+Democratic, NORP, 3
+Rachel McLoughlin, PERSON, 3
+up to 160 million, CARDINAL, 3
+the European Commission, ORG, 3
+Nasal, PERSON, 3
+Food and Drug Administration, ORG, 3
+Mexico, GPE, 3
+Today, DATE, 3
+70s, DATE, 3
+Grainne Gallanagh, PERSON, 3
+80, CARDINAL, 3
+300,000, CARDINAL, 3
+The European Commission, ORG, 3
+100, CARDINAL, 3
+before end of year, DATE, 3
+100-year-old, DATE, 3
+year, DATE, 3
+DAA, ORG, 3
+100,000, CARDINAL, 3
+18 months, DATE, 3
+this morning, TIME, 3
+at least a year, DATE, 3
+Covid vaccine - Independent.ie, PERSON, 3
+Italian, NORP, 3
+NHS, ORG, 3
+300, CARDINAL, 3
+2,500, CARDINAL, 3
+875,000, CARDINAL, 2
+1.5 million, CARDINAL, 2
+weekly, DATE, 2
+70,000, CARDINAL, 2
+the end of February, DATE, 2
+Cork GP, PERSON, 2
+TDs, ORG, 2
+Dolly Parton, PERSON, 2
+Four, CARDINAL, 2
+Scotland, GPE, 2
+one third, CARDINAL, 2
+32%, PERCENT, 2
+Three, CARDINAL, 2
+World View:, EVENT, 2
+just WEEKS, DATE, 2
+less than two months, DATE, 2
+Ryanair, ORG, 2
+Tanaiste Leo Varadkar, PERSON, 2
+Tanaiste, GPE, 2
+Livingston, PERSON, 2
+Nine, CARDINAL, 2
+this month, DATE, 2
+Joanna Sloan, PERSON, 2
+10 years, DATE, 2
+30,000, CARDINAL, 2
+Easter 2021, PERSON, 2
+Sarah Gilbert, PERSON, 2
+next winter, DATE, 2
+hundreds of thousands, CARDINAL, 2
+The European Medicines Agency, ORG, 2
+South Africa, GPE, 2
+earlier today, TIME, 2
+Ben Dunne, PERSON, 2
+RNA, ORG, 2
+Europol, ORG, 2
+Vladimir Putin’s, PERSON, 2
+Henry, PERSON, 2
+AIB, ORG, 2
+Bank of Ireland, ORG, 2
+the coming week, DATE, 2
+June 2021, DATE, 2
+351, CARDINAL, 2
+the Department of Health, ORG, 2
+Francis, PERSON, 2
+Fianna Fáil, ORG, 2
+Tánaiste, ORG, 2
+5,000, CARDINAL, 2
+the end of November, DATE, 2
+Andreas Kluth, LOC, 2
+six-week, DATE, 2
+World, ORG, 2
+May 5th, DATE, 2
+Auntie Peggy, WORK_OF_ART, 2
+Luke, PERSON, 2
+Varadkar, PERSON, 2
+The Irish Sun A, ORG, 2
+Annie Lynch, PERSON, 2
+the new year, DATE, 2
+117 million, CARDINAL, 2
+Irish Pharmacy Union, ORG, 2
+First Northern Ireland, ORG, 2
+Jerome Adams, PERSON, 2
+the United States, GPE, 2
+Cillian De Gascun, PERSON, 2
+the coming weeks, DATE, 2
+Sarah Jarvis, PERSON, 2
+Dr Ronan Glynn, PERSON, 2
+Pfizer/BioNTech, ORG, 2
+The United States, GPE, 2
+ICU, ORG, 2
+Sandra Lindsay, PERSON, 2
+THOUSANDS, CARDINAL, 2
+44, CARDINAL, 2
+1,000, CARDINAL, 2
+two months, DATE, 2
+Independent.ie Ireland, GPE, 2
+High Court, ORG, 2
+The Irish Sun EXPERTS, ORG, 2
+the University of Oxford's, ORG, 2
+Matt Hancock, PERSON, 2
+the Irish Independent, ORG, 2
+this winter, DATE, 2
+four days, DATE, 2
+eight, CARDINAL, 2
+Venice, GPE, 2
+Adrian Hill, ORG, 2
+Hill, PERSON, 2
+U.S., GPE, 2
+US FDA, ORG, 2
+Country, ORG, 2
+RTE, ORG, 2
+Maynooth University, ORG, 2
+the end of next month, DATE, 2
+301, CARDINAL, 2
+Vaccines, ORG, 2
+nine, CARDINAL, 2
+CUH, ORG, 2
+next three days, DATE, 2
+Robin Swann, PERSON, 2
+IRFU, ORG, 2
+IRELAND, PERSON, 2
+Mary Lou McDonald, PERSON, 2
+1,296, CARDINAL, 2
+Michael Ryan, PERSON, 2
+the White House, FAC, 2
+the weekend, DATE, 2
+over 20,000, CARDINAL, 2
+as early as March, DATE, 2
+Healthcare, ORG, 2
+90, CARDINAL, 2
+Modubuild, GPE, 2
+Six months, DATE, 2
+Bob Geldof, PERSON, 2
+Michael Palin, PERSON, 2
+Michael Parkinson, PERSON, 2
+David McWilliams, PERSON, 2
+late next year, DATE, 2
+summer, DATE, 2
+early next week, DATE, 2
+This week, DATE, 2
+tonight, TIME, 2
+6, CARDINAL, 2
+Level 5, FAC, 2
+Donald Trump's, PERSON, 2
+184, CARDINAL, 2
+Hundreds of thousands, CARDINAL, 2
+CHINESE, NORP, 2
+CMO, ORG, 2
+Orphan, GPE, 2
+Vaccination, ORG, 2
+this weekend, DATE, 2
+9,750, CARDINAL, 2
+as early as Saturday, DATE, 2
+New Zealand, GPE, 2
+May and June, DATE, 2
+February, DATE, 2
+Iseq, ORG, 2
+22, CARDINAL, 2
+30 December, DATE, 2
+BBC, ORG, 2
+14, CARDINAL, 2
+Luke O'Neill, PERSON, 2
+3,900, MONEY, 2
+New Year, EVENT, 2
+Trump, ORG, 2
+seasonal, DATE, 2
+9, CARDINAL, 2
+Boris, PERSON, 2
+Limerick, GPE, 2
+132, CARDINAL, 2
+The Irish Sun CHINA, ORG, 2
+Paul Moynagh, PERSON, 2
+Cambridge, GPE, 2
+seven, CARDINAL, 2
+Instagram, ORG, 2
+British Government, ORG, 2
+76,496, CARDINAL, 2
+Belarus, GPE, 2
+Argentina, GPE, 2
+300million, CARDINAL, 2
+every week, DATE, 2
+Moderna’s, ORG, 2
+up to, CARDINAL, 2
+Ciaran Hancock, PERSON, 2
+Dublin, PERSON, 2
+100%, PERCENT, 2
+Thursday, DATE, 2
+only half, CARDINAL, 2
+CureVac, ORG, 2
+70.4%, PERCENT, 2
+Covid-free, PERSON, 2
+Lapland, GPE, 2
+Anthony Joshua, PERSON, 2
+Fauci, PERSON, 2
+Last Monday, DATE, 2
+Blanchardstown, ORG, 2
+David Gough, PERSON, 2
+Joyce Fegan, PERSON, 2
+70, DATE, 2
+John Giles, PERSON, 2
+29 December, DATE, 2
+Catholics, NORP, 2
+Margaret Keenan, PERSON, 2
+Switzerland, GPE, 2
+Piers Morgan, PERSON, 2
+early December, DATE, 2
+Andrew Marr Show, PERSON, 2
+The Irish Sun SCIENTISTS, ORG, 2
+Hong Kong, GPE, 2
+Bourla, GPE, 2
+€, CARDINAL, 2
+4.6, MONEY, 2
+21-year-olds, DATE, 2
+IAG, ORG, 2
+the day, DATE, 2
+27 December, DATE, 2
+Norwegian Air, ORG, 2
+Vaccine Taskforce, ORG, 2
+early this week, DATE, 2
+mid-2021, DATE, 2
+the middle of 2021, DATE, 2
+Brit, ORG, 2
+the European Union, ORG, 2
+December 11, DATE, 2
+mid-December, DATE, 2
+3,000, CARDINAL, 2
+95pc, ORDINAL, 2
+Munster, PERSON, 2
+Three quarters, DATE, 2
+late autumn, TIME, 2
+more than 90pc, CARDINAL, 2
+Oliver Mangan, PERSON, 2
+14 million, CARDINAL, 2
+every nine seconds, TIME, 1
+the European Medicine Agency’s, ORG, 1
+750,000, CARDINAL, 1
+January 11, DATE, 1
+next winter’s, DATE, 1
+13k, MONEY, 1
+The Irish Sun BLOOD, ORG, 1
+Ryanair Holdings, ORG, 1
+European Union ', ORG, 1
+the middle of December EU Commission, DATE, 1
+Harris Simon Harris, PERSON, 1
+the start of next year, DATE, 1
+autumn 2021, DATE, 1
+Last week, DATE, 1
+the end of January, DATE, 1
+Philip Nolan, ORG, 1
+the start of May, DATE, 1
+$1m, MONEY, 1
+$1 million, MONEY, 1
+over 600, CARDINAL, 1
+THE World Health Organisation’s, ORG, 1
+The Who’s Special Envoy, ORG, 1
+John Kierans, PERSON, 1
+Almost a third, CARDINAL, 1
+2029, DATE, 1
+Eurocontrol, ORG, 1
+6 January, DATE, 1
+12 January, DATE, 1
+Vaccination - News, ORG, 1
+the Irish Mirror's, ORG, 1
+1796, DATE, 1
+English, LANGUAGE, 1
+Edward Jenner, PERSON, 1
+4, CARDINAL, 1
+Oxford University-AstraZeneca, ORG, 1
+ALMOST a third, CARDINAL, 1
+more than half, CARDINAL, 1
+August' - Irish Mirror Online Researchers at, DATE, 1
+University of Oxford, ORG, 1
+'80, DATE, 1
+Electric Picnic, ORG, 1
+Benn, PERSON, 1
+Caitriona Lally, PERSON, 1
+one-year-old, DATE, 1
+Iseq, NORP, 1
+14%, PERCENT, 1
+West Wing, GPE, 1
+WEST Wing, GPE, 1
+NBC, ORG, 1
+1999, DATE, 1
+2006, DATE, 1
+Liz Canavan, PERSON, 1
+year end, DATE, 1
+midweek, DATE, 1
+Mainz, ORG, 1
+just a few months, DATE, 1
+more than 24, CARDINAL, 1
+a month ago, DATE, 1
+100-plus, CARDINAL, 1
+Pfizer , PERSON, 1
+NI, GPE, 1
+28, DATE, 1
+28-year-old, DATE, 1
+six years, DATE, 1
+Stephen Donnelly - Irish Mirror, PERSON, 1
+the end of the month, DATE, 1
+ten years, DATE, 1
+German Measles, ORG, 1
+this September, DATE, 1
+Johnson & Jo, ORG, 1
+O'Leary Ryanair, ORG, 1
+Michael O'Leary, PERSON, 1
+the end of the week, DATE, 1
+The Irish Pharmacy Union, ORG, 1
+eleventh, ORDINAL, 1
+spring of 2021, DATE, 1
+mid-summer, DATE, 1
+The Irish Sun DRUGS, ORG, 1
+­mid-summer, DATE, 1
+the beginning of next year, DATE, 1
+Speed of Science, ORG, 1
+Science Gallery, ORG, 1
+John Joyce, PERSON, 1
+last year, DATE, 1
+Oxford Vaccine, ORG, 1
+Jim Power, PERSON, 1
+the World Health Organisation (WHO, ORG, 1
+David Heymann, PERSON, 1
+Africa, LOC, 1
+more than 100,000, CARDINAL, 1
+Drugmaker, ORG, 1
+Seán Barrett, PERSON, 1
+Reopening Ireland, GPE, 1
+More than 100, CARDINAL, 1
+Deirdre Clune, PERSON, 1
+Ireland South MEP, ORG, 1
+the European Parliament’s Environment, Public Health and Food Safety Committee, ORG, 1
+1.25bn, MONEY, 1
+George Clooney, PERSON, 1
+George Floyd, PERSON, 1
+the United States’, GPE, 1
+400 years, DATE, 1
+UN, ORG, 1
+late last year, DATE, 1
+the next couple of months, DATE, 1
+Andy Murray, PERSON, 1
+ATP, ORG, 1
+33-year-old, DATE, 1
+Saira Khan - Irish Mirror Online, PERSON, 1
+first year, DATE, 1
+419, CARDINAL, 1
+Oireachtas, GPE, 1
+156, CARDINAL, 1
+55%, PERCENT, 1
+Covid vaccine Drop, PERSON, 1
+1,025, CARDINAL, 1
+Youtube.com, ORG, 1
+up to five years, DATE, 1
+Elisa Granato, PERSON, 1
+8211, DATE, 1
+Fourteen, CARDINAL, 1
+Kathy Sheridan, PERSON, 1
+1967, DATE, 1
+Whole New Ball Game, FAC, 1
+Bild, PERSON, 1
+23 December, DATE, 1
+as early as October, DATE, 1
+Belgium, GPE, 1
+Fed, ORG, 1
+end-2021, DATE, 1
+Jay Powell, PERSON, 1
+Pence, ORG, 1
+The US Food and Drug Administration, ORG, 1
+Stephen Hahn, PERSON, 1
+within days, DATE, 1
+Alison O'Connor, PERSON, 1
+three-week, DATE, 1
+10 Christmas Day, DATE, 1
+Normal People, PERSON, 1
+Covid-particle, PERSON, 1
+JUST over half, CARDINAL, 1
+Ipsos MRBI, PERSON, 1
+Oxford University/ Reuters, ORG, 1
+Michael McKillop, PERSON, 1
+the Tokyo Games, EVENT, 1
+Paralympic Games, EVENT, 1
+McKillop, PERSON, 1
+Joy, PERSON, 1
+nine months ago, DATE, 1
+‘next couple of months, DATE, 1
+next couple of months, DATE, 1
+each evening, TIME, 1
+400 million, CARDINAL, 1
+at least one, CARDINAL, 1
+8220;will, MONEY, 1
+Dr Paul Duffy, PERSON, 1
+Pfizer Global Supply, PERSON, 1
+next winter' - Independent.ie, DATE, 1
+1bn, MONEY, 1
+Coronavirus Ireland, GPE, 1
+over 2,000, CARDINAL, 1
+Chris Johns, PERSON, 1
+Astrazeneca, NORP, 1
+May or June, DATE, 1
+Taoiseach Rollout, PERSON, 1
+Paris, GPE, 1
+at least 300 million, MONEY, 1
+Dr Muiris, PERSON, 1
+Jennifer Kahn, PERSON, 1
+No 10, CARDINAL, 1
+Micheál Martin - Independent.ie, PERSON, 1
+the National Covid-19 Vaccination Programme, ORG, 1
+Taoiseach Micheál Martin’s, EVENT, 1
+8220;very, MONEY, 1
+Harris - Independent.ie SOCIAL, ORG, 1
+New York Times, ORG, 1
+Groups, ORG, 1
+between 70% to 90%, PERCENT, 1
+18-55, DATE, 1
+the Licensed Vintners Association, ORG, 1
+Virgin Media, PERSON, 1
+Andrew Cuomo, PERSON, 1
+Glynn, PERSON, 1
+three quarters, DATE, 1
+Covid vaccineÃÂ¢s, PERSON, 1
+Surgery, PERSON, 1
+RSCI, PERSON, 1
+Mark Shrime, PERSON, 1
+Trial, ORG, 1
+60,000, CARDINAL, 1
+Vaxart, PERSON, 1
+now’- Annie Lynch, PERSON, 1
+the University of Queensland, ORG, 1
+the end of September, DATE, 1
+FIRST, ORDINAL, 1
+Cambridge University, ORG, 1
+Abbott, GPE, 1
+#8220;voluntarily paused&#8221, MONEY, 1
+December 12, DATE, 1
+Ireland, PERSON, 1
+60 year-old, DATE, 1
+the past year, DATE, 1
+Lewis Hamilton, PERSON, 1
+the winter, DATE, 1
+Next year one, DATE, 1
+15 billion, CARDINAL, 1
+The Irish Sun FOOTBALL, ORG, 1
+UCC, ORG, 1
+St Stephen's, PERSON, 1
+ECB, ORG, 1
+later this month, DATE, 1
+the National Vaccine Taskforce, ORG, 1
+Scally Dr, PERSON, 1
+Denmark, GPE, 1
+Czech, NORP, 1
+up to €250, MONEY, 1
+2001, DATE, 1
+19 years ago, DATE, 1
+FDA Analysis, ORG, 1
+37, CARDINAL, 1
+81.2, CARDINAL, 1
+1.77, CARDINAL, 1
+4.6, CARDINAL, 1
+just days, DATE, 1
+Soviet, NORP, 1
+RUSSIA, ORG, 1
+Laura, PERSON, 1
+Covid-hit, PERSON, 1
+Dalata Hotel, ORG, 1
+Irish Ferries, ORG, 1
+ICG, ORG, 1
+minutes, TIME, 1
+Boots, PERSON, 1
+January 11th, DATE, 1
+Karen Pence, PERSON, 1
+Flu Vaccine, PERSON, 1
+Plans, NORP, 1
+as early as next week, DATE, 1
+Republic, ORG, 1
+more than 145, CARDINAL, 1
+past 1,000, CARDINAL, 1
+GSK World’s, ORG, 1
+8220;as, MONEY, 1
+up to 400,000, CARDINAL, 1
+Newark, GPE, 1
+August, DATE, 1
+GMB, ORG, 1
+Morning, TIME, 1
+months’, DATE, 1
+2021 Fears that Games, DATE, 1
+June, DATE, 1
+Benson, ORG, 1
+Hedges, GPE, 1
+British American Tobacco, ORG, 1
+Fluenz Tetra, PRODUCT, 1
+2013, DATE, 1
+Ugur Sahin, ORG, 1
+Ozlem Tureci, PERSON, 1
+84, MONEY, 1
+3,250, CARDINAL, 1
+past 24 hours, TIME, 1
+9/11, CARDINAL, 1
+more than 3,250, CARDINAL, 1
+a single day, DATE, 1
+New York City, GPE, 1
+Limerick, ORG, 1
+Regeneron, ORG, 1
+Djokovic World, ORG, 1
+Novak Djokovic's, ORG, 1
+50 million, CARDINAL, 1
+more than 1.7 million, CARDINAL, 1
+Reid HSE, PERSON, 1
+mid-October, DATE, 1
+Interpol, ORG, 1
+The White House/ Youtube, ORG, 1
+EU Aer Lingus, ORG, 1
+next MONTH, DATE, 1
+CDC, ORG, 1
+50, CARDINAL, 1
+late October, DATE, 1
+the Centers for Disease Control and Prevention, ORG, 1
+the New York Times, ORG, 1
+Sputnik V Drug, ORG, 1
+150,000, CARDINAL, 1
+Pfizer Covid vaccine Company, PERSON, 1
+Less than HALF, CARDINAL, 1
+LESS than HALF, CARDINAL, 1
+Travel, ORG, 1
+1.1%, PERCENT, 1
+0.5%, PERCENT, 1
+Users, PERSON, 1
+100 years' -  , DATE, 1
+almost 1.6m, CARDINAL, 1
+Moderna Covid, PERSON, 1
+the second evening, TIME, 1
+the Republican National Convention, ORG, 1
+16 years, DATE, 1
+2036, DATE, 1
+the end of this summer, DATE, 1
+under-60, DATE, 1
+Swedish, NORP, 1
+Tech, ORG, 1
+Fears thousands, CARDINAL, 1
+The Irish Sun CANCER, ORG, 1
+Jabs, PERSON, 1
+Mike Tildesley, PERSON, 1
+Western, NORP, 1
+TWO million, CARDINAL, 1
+Pfizer-BioNTech's, GPE, 1
+Covid vaccine Doctors, PERSON, 1
+60, CARDINAL, 1
+the early hours, TIME, 1
+15-year-old, DATE, 1
+Ben Blackwell, PERSON, 1
+the High Court, ORG, 1
+Dutch, NORP, 1
+EU , ORG, 1
+Mike Ryan Ronan Glynn, PERSON, 1
+more than one, CARDINAL, 1
+KAMALA Harris, PERSON, 1
+Joe Biden’s, PERSON, 1
+Russian Intelligence Services, ORG, 1
+More than 70%, PERCENT, 1
+Red C, ORG, 1
+1,001, CARDINAL, 1
+Tedros Adhanom Ghebreyesus, ORG, 1
+Central Bank, ORG, 1
+44bn, MONEY, 1
+Facebook, Instagram and, ORG, 1
+YouTube, ORG, 1
+€7.4 billion, MONEY, 1
+Covid  , PERSON, 1
+SAP, GPE, 1
+Qualtrics, ORG, 1
+The Irish Sun SIMON Harris, WORK_OF_ART, 1
+571, CARDINAL, 1
+MASK, ORG, 1
+the School of Immunology, ORG, 1
+as early as 'September, DATE, 1
+Laura Brennan ', PERSON, 1
+Laura Brennan's, PERSON, 1
+Vicky Phelan, PERSON, 1
+Melania, GPE, 1
+Donald Trump, PERSON, 1
+Almost a year, DATE, 1
+GERMAN, NORP, 1
+Ms Merkel, PERSON, 1
+the US Food and Drug Administration, ORG, 1
+new year, DATE, 1
+Donnelly European Medicines Agency, ORG, 1
+December 29th, DATE, 1
+recent weeks, DATE, 1
+this Saturday, DATE, 1
+less than one third, CARDINAL, 1
+Oxford Covid, ORG, 1
+2,437, CARDINAL, 1
+two-week, DATE, 1
+December 11th, DATE, 1
+Nursing, PERSON, 1
+Taylor, PERSON, 1
+the years, DATE, 1
+Moderna Inc, PERSON, 1
+94.1 per cent, MONEY, 1
+10%, PERCENT, 1
+Trinity College, ORG, 1
+just 65%, PERCENT, 1
+€117.6, MONEY, 1
+Fiona Sherlock, PERSON, 1
+daily, DATE, 1
+Kizzmekia Corbett, PERSON, 1
+Vacci, PERSON, 1
+2 billion, MONEY, 1
+the end of 2021, DATE, 1
+Moderna Inc's, PERSON, 1
+45, CARDINAL, 1
+Vaccine Task Force, ORG, 1
+billions, CARDINAL, 1
+Leo Varadkar ', PERSON, 1
+the first few months of next year, DATE, 1
+Pfizer Ireland’s, GPE, 1
+eight-month, DATE, 1
+more than a billion, MONEY, 1
+Mary Poppins, PERSON, 1
+Julie Andrews’s, PERSON, 1
+3.8%, PERCENT, 1
+Albert Bourla, PERSON, 1
+BRITAIN, GPE, 1
+Government&#, ORG, 1
+Annie, ORG, 1
+Covid19 Vaccine, PERSON, 1
+Scott Morrison, PERSON, 1
+10,647, CARDINAL, 1
+Cillian de Gascun, PERSON, 1
+Virologist Dr Cillian de Gascun, PERSON, 1
+2-12 years, DATE, 1
+more than one million, CARDINAL, 1
+Pope, PERSON, 1
+Sputnik V - and, PERSON, 1
+DAUGHTER, ORG, 1
+VLADIMIR Putin, PERSON, 1
+New Year' - Donnelly, EVENT, 1
+Mike Yeadon, PERSON, 1
+hours, TIME, 1
+THE European Medicines Agency, ORG, 1
+next Monday, DATE, 1
+Glenn Deshields, PERSON, 1
+Citywest, LOC, 1
+just months, DATE, 1
+Univers, ORG, 1
+Orla Healy, PERSON, 1
+Public Health Specialist, ORG, 1
+Interim Chief Operations Officer, ORG, 1
+the HSE South, LOC, 1
+South West, LOC, 1
+nine months, DATE, 1
+6-9 months, DATE, 1
+a positive year, DATE, 1
+2 to 17 year olds, DATE, 1
+‘days’, DATE, 1
+Swann Northern Ireland, PERSON, 1
+1,026, CARDINAL, 1
+Guinness Book of Records, WORK_OF_ART, 1
+the past few months, DATE, 1
+Irishman, NORP, 1
+the Jenner Institute, ORG, 1
+€10m, MONEY, 1
+250 million, CARDINAL, 1
+Commons, PRODUCT, 1
+Fines, ORG, 1
+summer 2021, DATE, 1
+BBC Breakfast, ORG, 1
+Prof Adrian Hill, ORG, 1
+94.1%, PERCENT, 1
+Sam McConkey, PERSON, 1
+352%, PERCENT, 1
+The World Health Organisation's, ORG, 1
+Government Buildings, ORG, 1
+Seven months, DATE, 1
+a century, DATE, 1
+100-day, DATE, 1
+his first 100 days, DATE, 1
+CSPAN, ORG, 1
+Novak Djokovic, PERSON, 1
+season, DATE, 1
+The Irish Sun NOVAK DJOKOVIC’s, ORG, 1
+The Irish Sun THE UK’s, WORK_OF_ART, 1
+a year ago, DATE, 1
+HLTF, ORG, 1
+Anglo, NORP, 1
+Foley, PERSON, 1
+Norma Foley, PERSON, 1
+Let&#8217;s, CARDINAL, 1
+Specialist, NORP, 1
+over 1,000, CARDINAL, 1
+Midleton, ORG, 1
+one weekend, DATE, 1
+Henry - Irish Mirror, ORG, 1
+Anne Moore, PERSON, 1
+UCC, GPE, 1
+Coronas, PERSON, 1
+a big year, DATE, 1
+after week, DATE, 1
+Michigan, GPE, 1
+early yesterday, DATE, 1
+3,300, CARDINAL, 1
+â¬52, CARDINAL, 1
+Fianna Fail, ORG, 1
+Santa, GPE, 1
+Pfizer Albert Bourla, PERSON, 1
+Callum Thornhill, PERSON, 1
+Pence, PERSON, 1
+WON'T, PERSON, 1
+#, CARDINAL, 1
+a Health Research Board Knowledge Exchange, ORG, 1
+Dissemination Award, PERSON, 1
+NI, ORG, 1
+Ireland - Vintners Association, ORG, 1
+IRELAND, GPE, 1
+Vintners Association, ORG, 1
+Yesterday, DATE, 1
+Galway, ORG, 1
+Gordon Joyce, PERSON, 1
+USA, GPE, 1
+Walter Reed Army Institute of Research's, ORG, 1
+Fermanagh, PERSON, 1
+Enniskillen, PERSON, 1
+Terry Prone, PERSON, 1
+Hiqa&#8217;s, NORP, 1
+Karen, PERSON, 1
+the Eisenhower Executive Office Building, ORG, 1
+Walter Reed National Military Medical Centre, ORG, 1
+Kilkenny, PERSON, 1
+456, CARDINAL, 1
+At least 20%, PERCENT, 1
+3.7 billion, CARDINAL, 1
+only a few weeks, DATE, 1
+Healthcare Products Regulatory Authority, ORG, 1
+As many as 100, CARDINAL, 1
+Chris Whitty, PERSON, 1
+earlier than a year, DATE, 1
+Barbara Scully, PERSON, 1
+the first half of next year, DATE, 1
+McDonald, ORG, 1
+Stanley, ORG, 1
+Provos, DATE, 1
+Sinn Féin, ORG, 1
+Brian Stanley, PERSON, 1
+34, CARDINAL, 1
+Medically, ORG, 1
+160 million, CARDINAL, 1
+the University of Cambridge, ORG, 1
+25%, PERCENT, 1
+Brits, NORP, 1
+100million, CARDINAL, 1
+The Irish Sun BRITISH, WORK_OF_ART, 1
+early summer, DATE, 1
+the Oxford University, ORG, 1
+Green, ORG, 1
+the Irish Government, ORG, 1
+Jen and Harry, PRODUCT, 1
+Sinn Féin, PERSON, 1
+European Parliament, ORG, 1
+Brussels, GPE, 1
+Europe Correspondent Naomi, PRODUCT, 1
+Dr Nuala, PERSON, 1
+the end of December, DATE, 1
+EU Commission, ORG, 1
+Europe News, LOC, 1
+National Virus Reference Laboratory, ORG, 1
+Level, ORG, 1
+Michael Moynihan, PERSON, 1
+Government, ORG, 1
+Emmanuel, PERSON, 1
+Rose Garden, PERSON, 1
+Only 190,000, CARDINAL, 1
+460,000, CARDINAL, 1
+New York State, GPE, 1
+years, DATE, 1
+not months, DATE, 1
+More than 28,000, CARDINAL, 1
+Hundreds, CARDINAL, 1
+Around one-fifth, CARDINAL, 1
+Brazilians, NORP, 1
+Taoiseach Micheál Martin, EVENT, 1
+February next year, DATE, 1
+this December, DATE, 1
+Nasal Vaccine, PERSON, 1
+Bat Woman, WORK_OF_ART, 1
+Virologist Sh, PERSON, 1
+between two and eight, CARDINAL, 1
+More than 150, CARDINAL, 1
+38, CARDINAL, 1
+coming days, DATE, 1
+Brian, PERSON, 1
+British PM, PERSON, 1
+Covid Vaccine, PERSON, 1
+Jolene, PERSON, 1
+Patrick Freyne, PERSON, 1
+Square, FAC, 1
+Vaccine Roll Out, PERSON, 1
+hVivo, ORG, 1
+US Coronavirus, FAC, 1
+SNP, ORG, 1
+1990, DATE, 1
+State Papers, EVENT, 1
+two years', DATE, 1
+the next two years, DATE, 1
+January Recipients, DATE, 1
+University of Warwick, ORG, 1
+less than a week, DATE, 1
+Donegal, GPE, 1
+EC, ORG, 1
+120,000, CARDINAL, 1
+The Health Service Executive, ORG, 1
+345, CARDINAL, 1
+583, CARDINAL, 1
+more than 70,000, CARDINAL, 1
+405, CARDINAL, 1
+nearly 2bn, CARDINAL, 1
+TWO YEARS, DATE, 1
+New Zealand PM, GPE, 1
+more than two years, DATE, 1
+Helen Clark, PERSON, 1
+the summer, DATE, 1
+First NI, ORG, 1
+Courts, PERSON, 1
+TB, ORG, 1
+BOMBSHELL, ORG, 1
+Covid $, PERSON, 1
+1.95bn, MONEY, 1
+Luke Connolly, PERSON, 1
+U.K., GPE, 1
+552, CARDINAL, 1
+Ivanka Trump, PERSON, 1
+38, DATE, 1
+TCD, ORG, 1
+almost €5m, MONEY, 1
+Carlos Alvarado Quesada, PERSON, 1
+Tedros Adhanom Ghebrey, PERSON, 1
+Taoiseach, GPE, 1
+Vaccine News, ORG, 1
+more than 2, CARDINAL, 1
+Pfizer Covid, PERSON, 1
+August 29th, DATE, 1
+43,500, CARDINAL, 1
+Pascal Soriot, PERSON, 1
+the Irish Sun, ORG, 1
+70, CARDINAL, 1
+Denis Desmond, PERSON, 1
+1,200, CARDINAL, 1
+March of next year, DATE, 1
+24 hours, TIME, 1
+next May or June, DATE, 1
+More than one, CARDINAL, 1
+the Club Players' Association, ORG, 1
+8220;go, MONEY, 1
+94%, PERCENT, 1
+two-month, DATE, 1
+Russian Cozy Bear, PERSON, 1
+VLADIMIR Putin’s, ORG, 1
+Northern Ireland Inoculation, GPE, 1
+This year, DATE, 1
+each week, DATE, 1
+Over half, CARDINAL, 1
+Tuesday,, DATE, 1
+Reuters/National Geographic, ORG, 1
+the upcoming Christmas holiday, DATE, 1
+overnight, TIME, 1
+1.3 billion, MONEY, 1
+Andrew Pollard, PERSON, 1
+the National Immunisation Advisory Committee, ORG, 1
+the last 15 years, DATE, 1
+early days, DATE, 1
+FF, ORG, 1
+15, CARDINAL, 1
+Margaret Harris, PERSON, 1
+Karina Butler, PERSON, 1
+Chair of the National Immunisation Advisory Committee, ORG, 1
+the National Virus Reference Laboratory, ORG, 1
+Pope Francis, PERSON, 1
+Q&A, CARDINAL, 1
+the next nine months, DATE, 1
+184,000, CARDINAL, 1
+Ohio, GPE, 1
+Digital, ORG, 1
+the United States', GPE, 1
+BioNTech, ORG, 1
+annual, DATE, 1
+season next winter, DATE, 1
+Annual, DATE, 1
+about €16bn, MONEY, 1
+Lockdowns, PERSON, 1
+the week, DATE, 1
+the European Medical Agency, ORG, 1
+the late autumn, DATE, 1
+early winter, DATE, 1
+Europe Europe’s, LOC, 1
+Inclusive Vaccines Alliance, ORG, 1
+Netherlands, GPE, 1
+Direct Provision, ORG, 1
+Phil Hogan, PERSON, 1
+Club Players Association, ORG, 1
+Tess Lambe, ORG, 1
+three billion, MONEY, 1
+at least a month, DATE, 1
+5.45am, CARDINAL, 1
+Boston, GPE, 1
+Bray, ORG, 1
+David Dowling, PERSON, 1
+a few hours, TIME, 1
+a week later, DATE, 1
+Main, ORG, 1
+more than a decade, DATE, 1
+Cork The HSE, FAC, 1
+more than a century old, DATE, 1
+later this year, DATE, 1
+the coming days', DATE, 1
+early Christmas, DATE, 1
+two to 12 years, DATE, 1
+Ngaire Woods, PERSON, 1
+Chatham House, ORG, 1
+Dr Fauci, PERSON, 1
+the National Institute of Allergy and Infectious Diseases, ORG, 1
+Nearly 70%, PERCENT, 1
+July, DATE, 1
+The Irish Sun CONCERN, ORG, 1
+More than 25, CARDINAL, 1
+1.6, CARDINAL, 1
+2 years, DATE, 1
+Texas, GPE, 1
+Greffex Inc, ORG, 1
+Houston, GPE, 1
+Operation Warp Speed, WORK_OF_ART, 1
+Whi, PERSON, 1
+Medics, ORG, 1
+The Tokyo Olympics, EVENT, 1
+next July, DATE, 1
+up to 300 million, MONEY, 1
+Von der Leyen, ORG, 1
+only seven months ago, DATE, 1
+Hungary, GPE, 1
+S Korea, GPE, 1
+Democrat, NORP, 1
+Varadkar - Independent.ie, PERSON, 1
+Muhammad Munir, PERSON, 1
+Glasgow, PERSON, 1
+first half of next year, DATE, 1
+Pfizer's, ORG, 1
+Grange Castle, PERSON, 1
+the 1960s, DATE, 1
+Sputnik, ORG, 1
+almost two weeks, DATE, 1
+More than 500, CARDINAL, 1
+Global, ORG, 1
+last MONTHS, DATE, 1
+8 weeks, DATE, 1
+at least another six months, DATE, 1
+Vladimir Putin - Irish Mirror Online, PERSON, 1
+Gamaleya Institute, ORG, 1
+#8220;packed pubs&#8221, MONEY, 1
+Ciara Kelly, PERSON, 1
+the first week of six weeks, DATE, 1
+The next six weeks, DATE, 1
+the next six weeks, DATE, 1
+World Health Organisation (WHO, ORG, 1
+Futures, PERSON, 1
+11 to 30 year, DATE, 1
+between the ages of 11 and 30 years of age, DATE, 1
+Israel, GPE, 1
+Benjamin Netanyahu, PERSON, 1
+Qantas, ORG, 1
+Alan Joyce, PERSON, 1
+Pfizer Vaccine, PERSON, 1
+Prince William, GPE, 1
+up to, PERCENT, 1
+Mondays, DATE, 1
+15.40, MONEY, 1
+17.40, MONEY, 1
+Hvivo, ORG, 1
+$1bn-, MONEY, 1
+50 hospitals, MONEY, 1
+LloydsPharmacy, ORG, 1
+Laura Dowling, PERSON, 1
+the EU Europe’s, LOC, 1
+Aaron Connolly, PERSON, 1
+Real Housewives Leanne Brown, ORG, 1
+The Irish Sun REAL Housewives, ORG, 1
+Leanne Brown, PERSON, 1
+42-year-old, DATE, 1
+the public later this year, DATE, 1
+10pm, TIME, 1
+Some 50,000, CARDINAL, 1
+six-month, DATE, 1
+Twelve weeks, DATE, 1
+John Kiely's, PERSON, 1
+John Kiely, PERSON, 1
+Limerick’s, ORG, 1
+end of the year, DATE, 1
+Gilbert, PERSON, 1
+Coronavirus - EU, ORG, 1
+Late Late Toy Show - Irish Mirror Online RTE, WORK_OF_ART, 1
+the Toy Show, LAW, 1
+Tens of thousands, CARDINAL, 1
+the first week, DATE, 1
+Tánaiste Leo Varadkar, PERSON, 1
+Kentucky, GPE, 1
+APC, ORG, 1
+Vaxine, PERSON, 1
+Richard Haass, PERSON, 1
+Richard N Haass, PERSON, 1
+Teresa Lambe, PERSON, 1
+Twitter, PRODUCT, 1
+Finance, ORG, 1
+Paschal Donohoe, PERSON, 1
+Ryan Tubridy - Independent.ie, PERSON, 1
+CNN, ORG, 1
+White House Administration, ORG, 1
+Dalton Philips, PERSON, 1
+Dalton Philips, GPE, 1
+Aer Rianta International, ORG, 1
+Dublin Airport, FAC, 1
+Cork Airport, FAC, 1
+some days, DATE, 1
+Ciaran, GPE, 1
+NCSC, ORG, 1
+40,000, CARDINAL, 1
+some 40,000, CARDINAL, 1
+West, LOC, 1
+Djokovic’s, ORG, 1
+Amelie Mauresmo, ORG, 1
+Maryland, GPE, 1
+the US National Institutes of Health, ORG, 1
+More than three-quarters, CARDINAL, 1
+Almost 600, CARDINAL, 1
+5.4%, PERCENT, 1
+Citywest, GPE, 1
+Croydon University Hospital, ORG, 1
+between 11 to 30, DATE, 1
+between 11 and 30, DATE, 1
+FACE, LOC, 1
+Kelly, PERSON, 1
+Micheál, GPE, 1
+Joe Biden', PERSON, 1
+over $10 billion, MONEY, 1
+more than $10 billion, MONEY, 1
+€8.4 billion, MONEY, 1
+hundreds of millions, CARDINAL, 1
+Pfizer-BioNTech, PERSON, 1
+15.50, MONEY, 1
+70pc, ORDINAL, 1
+TWO, CARDINAL, 1
+Neal Browning, PERSON, 1
+46, DATE, 1
+Jennifer Haller, PERSON, 1
+43, DATE, 1
+Boris - Farming Independent Dear Santa, ORG, 1
+Michael Clifford, PERSON, 1
+Nurse Joanna Sloan, PERSON, 1
+Dundrum, PERSON, 1
+the Toy Show - and, FAC, 1
+Nearly 10,000, CARDINAL, 1
+EU Council, ORG, 1
+at least a YEAR, DATE, 1
+Barry Hearn, PERSON, 1
+Tyson Fury, PERSON, 1
+The Irish Sun BARRY, WORK_OF_ART, 1
+Tyson Fury, LOC, 1
+SunSport, ORG, 1
+Matchroom, PERSON, 1
+-WHO’s Ryan, PERSON, 1
+The National Institute of Allergy, ORG, 1
+Tom Cotton, PERSON, 1
+Arkansas, GPE, 1
+20,000, CARDINAL, 1
+the month, DATE, 1
+Daniel McConnell, PERSON, 1
+the horrendous year, DATE, 1
+Asian, NORP, 1
+late February, DATE, 1
+early March, DATE, 1
+Rotunda, PERSON, 1
+Christmas - Irish Mirror Online, DATE, 1
+Cork, GPE, 1
+80, DATE, 1
+Saudi Arabia, GPE, 1
+Mohammed Al-Jadaan, PERSON, 1
+29 December Health Service Executive, DATE, 1
+TD, GPE, 1
+Richmond, GPE, 1
+the end of the year’, DATE, 1
+up to 100,000, CARDINAL, 1
+Japan, GPE, 1
+Dr Padraig Murphy, PERSON, 1
+Nearly three-quarters, CARDINAL, 1
+That&#8217;s, ORG, 1
+the Irish Pharmaceutical Healthcare Association, ORG, 1
+8220;If, MONEY, 1
+it.&#8221, PERSON, 1
+CATS, ORG, 1
+the National Cold Chain Centre, ORG, 1
+between 175,000 and 200,000, CARDINAL, 1
+Barry Cronin, PERSON, 1
+Drugmakers, PERSON, 1
+Pfizer, GPE, 1
+Seven, CARDINAL, 1
+Joe Brolly, PERSON, 1
+AZD1222, WORK_OF_ART, 1
+Oxford University's, ORG, 1
+Jenner Institute, ORG, 1
+last Tuesday, DATE, 1
+Scott Z Burns, PERSON, 1
+2,143, CARDINAL, 1
+Approval, PERSON, 1
+’ Following, WORK_OF_ART, 1
+Eoin Roche, PERSON, 1
+Luke O’, PERSON, 1
+483, CARDINAL, 1
+Fauci Immunologist, PERSON, 1
+GMB’s, ORG, 1
+Hilary, PERSON, 1
+Hilary Jones, PERSON, 1
+under 16, DATE, 1
+RTE’s Next Normal, ORG, 1
+Fox News, ORG, 1
+more than 80, CARDINAL, 1
+up to $1,200, MONEY, 1
+UCD, ORG, 1
+Zoom, GPE, 1
+the year, DATE, 1
+AstraZeneca Covid, ORG, 1
+Six, CARDINAL, 1
+449, CARDINAL, 1
+Up to 20,000, CARDINAL, 1
+2024, DATE, 1
+Serum Institute, ORG, 1
+GP, ORG, 1
+200,000, CARDINAL, 1
+almost 3million, CARDINAL, 1
+MORE than 200,000, CARDINAL, 1
+three million, CARDINAL, 1
+Guizhen Wu, PERSON, 1
+Yuen Kwok-yung, PERSON, 1
+Grandmother, PERSON, 1
+Liberties, FAC, 1
+St James Hospital, FAC, 1
+Raine, PERSON, 1
+more than 90, CARDINAL, 1
+CNBC, ORG, 1
+Ana, GPE, 1
+Hoodies, PERSON, 1
+Orla O'Donnell, PERSON, 1
+Coronavir, ORG, 1
+Irish Mirror Online Men, ORG, 1
+Jill, PERSON, 1
+Monday Earlier, DATE, 1
+at least 90, CARDINAL, 1
+Jack Byrne, PERSON, 1
+full-year, DATE, 1
+2, CARDINAL, 1
+The Irish Sun CORONAVIRUS, ORG, 1
+More than 106,000, CARDINAL, 1
+405 million, CARDINAL, 1
+nearly two billion, MONEY, 1
+hundreds of millions, MONEY, 1
+America, GPE, 1
+Games, WORK_OF_ART, 1
+Yoshiro Mori, PERSON, 1
+next Friday, DATE, 1
+3,008, CARDINAL, 1
+last week's, DATE, 1
+Joe O'Shea, PERSON, 1
+Joe O'Shea - Irish Mirror Online, PERSON, 1
+9, MONEY, 1
+South Korea’s, GPE, 1
+Misinformation, ORG, 1
+At least a year', DATE, 1
+the World Health Organization's, ORG, 1
+BBC/, PERSON, 1
+English, NORP, 1
+10 days, DATE, 1
+McCartan, GPE, 1
+Magaluf, GPE, 1
+Lucy McCartan, PERSON, 1
+Betting, NORP, 1
+Flutter Entertainment, ORG, 1
+Ocado, PERSON, 1
+Volunteer, PERSON, 1
+Astrazeneca Covid, NORP, 1
+VOLUNTEER, ORG, 1
+João Pedro Feitosa, PERSON, 1
+half, CARDINAL, 1
+Colm Henry, PERSON, 1
+the first three months, DATE, 1
+the first 100 days, DATE, 1
+78-year-old, DATE, 1
+96-year-old, DATE, 1
+Spaniard, NORP, 1
+29-year-old, DATE, 1
+Imperial College Lo, ORG, 1
+FDA US, ORG, 1
+80%, PERCENT, 1
+just weeks, DATE, 1
+no &#8220;pseudoscience, ORG, 1
+53, CARDINAL, 1
+the Daily Digest, ORG, 1
+Tom Ferrett, PERSON, 1
+27 December 27, DATE, 1
+Leyen, ORG, 1
+Ian McKellen, PERSON, 1
+Prue Leith - Irish Mirror Online, PERSON, 1
+Aubree Gordon, PERSON, 1
+the University of Michigan, ORG, 1
+Florian Krammer, PERSON, 1
+Harris Vaccines, PERSON, 1
+Ontario, GPE, 1
+Canadians, NORP, 1
+Sun, ORG, 1
+The European Union , ORG, 1
+ECDC, ORG, 1
+Achilles Heel, WORK_OF_ART, 1
+Kate Bingham, PERSON, 1
+World Rugby, ORG, 1
+Southampton, ORG, 1
+some 10,000, CARDINAL, 1
+Vaccinations, GPE, 1
+dozens, CARDINAL, 1
+Vaccinations, PERSON, 1
+1%, PERCENT, 1
+Austria, GPE, 1
+Portugal, GPE, 1
+Dylan Thomas, PERSON, 1
+Over 117 million, CARDINAL, 1
+Operation Vaccination - Independent.ie, ORG, 1
+Bristol, GPE, 1
+dusk, TIME, 1
+A few days later, DATE, 1
+Exercise Panacea, PERSON, 1
+mid to late 2021, DATE, 1
+the second half, DATE, 1
+FTSE, ORG, 1
+the Health Protection Surveillance Centre, ORG, 1
+Mumps, ORG, 1
+covid-19, PERSON, 1
+Simeon Courtie, PERSON, 1
+4 January, DATE, 1
+Laois, GPE, 1
+Offaly, GPE, 1
+Longford, PERSON, 1
+African, NORP, 1
+post-Covid world Virtual, LAW, 1
+Hiqa, PERSON, 1
+between two and six months, DATE, 1
+Ryanair’s, ORG, 1
+Taoiseach Micheál Martin, ORG, 1
+EMA Data, ORG, 1
+‘Six months, DATE, 1
+the Tropical Medical Bureau, ORG, 1
+Glad, PERSON, 1
+Royal Victoria Hospital, ORG, 1
+one day, DATE, 1
+more than 13,000, CARDINAL, 1
+two days, DATE, 1
+nine years ago, DATE, 1
+the Long Island Jewish Medical Center, LOC, 1
+Laura Brennan - Independent.ie, PERSON, 1
+26, CARDINAL, 1
+before end of the year, DATE, 1
+the Starship Enterprise, WORK_OF_ART, 1
+more than 2,500, CARDINAL, 1
+next September, DATE, 1
+The Irish Sun WHITE House, ORG, 1
+12-18 month, DATE, 1
+#8220;highest bidders&#8221, MONEY, 1
+up to six, CARDINAL, 1
+the coming months and year, DATE, 1
+The Republic of Ireland, GPE, 1
+around 9,750, CARDINAL, 1
+St Stephen’s Day, PERSON, 1
+BioNTech-Pfizer’s, ORG, 1
+Alexander Chuchalin, PERSON, 1
+160, CARDINAL, 1
+18 to 55, DATE, 1
+625, MONEY, 1
+The Irish Sun VOLUNTEERS, WORK_OF_ART, 1
+up to £625, MONEY, 1
+Imperial College, ORG, 1
+Bristol Children’s Vaccine Centre, ORG, 1
+University Hospital Southam, ORG, 1
+two-months, DATE, 1
+Aisling Kiernan, PERSON, 1
+late December, DATE, 1
+Ciara O'Connor, PERSON, 1
+2015, DATE, 1
+Henry VIII, ORG, 1
+Anne Boleyn, PERSON, 1
+Wednesday of every month, DATE, 1
+Bernard Mallee, PERSON, 1
+William, PERSON, 1
+Boss, GPE, 1
+weeks' - Irish Mirror Online Paul Reid, DATE, 1
+Pfizer Ireland, GPE, 1
+Viagra, PRODUCT, 1
+Mexican, NORP, 1
+Inside Business - Widespread, ORG, 1
+Taoiseach Micheal Martin Taoiseach, PERSON, 1
+Catholic, NORP, 1
+a year’, DATE, 1
+1 million, CARDINAL, 1
+The Irish Sun BY, ORG, 1
+The National Health Commission, ORG, 1
+Lanzhou, GPE, 1
+Ban, PERSON, 1
+Lockdown Take, PERSON, 1
+215, CARDINAL, 1
+Holohan, ORG, 1
+Francis Rynd, PERSON, 1
+1844, DATE, 1
+Helen, GPE, 1
+Róisín Ingle, PERSON, 1
+the end of 2020, DATE, 1
+360, CARDINAL, 1
+at beginning of next month, DATE, 1
+Rome, GPE, 1
+Takis Biotech, ORG, 1
+up to 12 weeks, DATE, 1
+Ursula von der Leyen, ORG, 1
+Gao Fu, PERSON, 1
+Centre for Disease Control, ORG, 1
+EU27, ORG, 1
+Move, PERSON, 1
+Benjamin Blackwell, PERSON, 1
+15, DATE, 1
+Jack Sommers, PERSON, 1
+Ms Hurst, PERSON, 1
+another year, DATE, 1
+next 6 months, DATE, 1
+the next six months, DATE, 1
+the National Public Health Emerg, ORG, 1
+Sinovac Biotech, PERSON, 1
+At least half, CARDINAL, 1
+10 December, DATE, 1
+Wilmington, GPE, 1
+Oxford Uni, ORG, 1
+one month, DATE, 1
+a month, DATE, 1
+Three weeks, DATE, 1
+December 1st, DATE, 1
+a busy week, DATE, 1
+Poorer, GPE, 1
+Anne O. Krueger, PERSON, 1
+World Bank, ORG, 1
+Pfizer Ireland, PERSON, 1
+Thomas Bach, PERSON, 1
+IOC, ORG, 1
+Japanese, NORP, 1
+between November 15 and 18, DATE, 1
+264, CARDINAL, 1
+Drugs, ORG, 1
+Millions, CARDINAL, 1
+Philippines, GPE, 1
+The World Health Organisation, ORG, 1
+Valneva, PERSON, 1
+Trump US, ORG, 1
+The White House, ORG, 1
+Vaccine Passports, ORG, 1
+the early days, DATE, 1
+a week ago, DATE, 1
+Pfizer Inc, PERSON, 1
+€36m, MONEY, 1
+Covid Seen & Heard, ORG, 1
+Montrose, ORG, 1
+University of Oxford’s Jenner Institute, ORG, 1
+0.48%, PERCENT, 1
+Aer Lingus, ORG, 1
+18 months’, DATE, 1
+last month's, DATE, 1
+Late Late Toy Show, WORK_OF_ART, 1
+the six weeks, DATE, 1
+Companies, ORG, 1
+May, DATE, 1
+Covid Vaccines, PERSON, 1
+About a dozen, CARDINAL, 1
+the EU Commission, ORG, 1
+Liu Xiaoming, PERSON, 1
+Gavin Williamson, PERSON, 1
+Autumn, GPE, 1
+The Irish Sun A VACCINE, ORG, 1
+John Conlon, PERSON, 1
+Championship, ORG, 1
+this season, DATE, 1
+Cambodia, GPE, 1
+recent years, DATE, 1
+State, GPE, 1
+December 29th, 2020, DATE, 1
+afternoon, TIME, 1
+Marc O'Sullivan, PERSON, 1
+Congress, ORG, 1
+PTSB, ORG, 1
+125, MONEY, 1
+299, CARDINAL, 1
+Health Stephen Donnelly, ORG, 1
+Ireland &#, ORG, 1
+Volunteers, WORK_OF_ART, 1
+Families, ORG, 1
+The Morning Sports Briefing, WORK_OF_ART, 1
+The Irish Times’, ORG, 1
+Moderna Second, PERSON, 1
+mid-March, DATE, 1
+Brian MacCraith, PERSON, 1
+Vaccine Race, PERSON, 1
+one week, DATE, 1
+between seven and 10 days, DATE, 1
+Frontline, PRODUCT, 1
+Every year, DATE, 1
+Anne Cornally, PERSON, 1
+Áine, PERSON, 1
+about six weeks ago, DATE, 1
+The United Kingdom, GPE, 1
+Dominic Raab, PERSON, 1
+12-18 months, DATE, 1
+Covid, GPE, 1

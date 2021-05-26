@@ -1,0 +1,541 @@
+entity, label, count
+Corona, GPE, 19
+U.S., GPE, 18
+two, CARDINAL, 10
+Reuters, ORG, 10
+French, NORP, 9
+Wednesday, DATE, 9
+Saturday, DATE, 9
+NASA, ORG, 9
+Thursday, DATE, 8
+the United States, GPE, 8
+US, GPE, 8
+first, ORDINAL, 8
+one, CARDINAL, 8
+Tuesday, DATE, 7
+Paris, GPE, 7
+White House, ORG, 7
+Friday, DATE, 7
+Florida, GPE, 7
+Ohio, GPE, 7
+Virginia, GPE, 7
+Nebraska, GPE, 6
+China, GPE, 6
+Maryland, GPE, 6
+JFK, PERSON, 6
+Washington, GPE, 6
+Australia, GPE, 5
+the Democratic Republic of Congo, GPE, 5
+afternoon, TIME, 5
+Germany, GPE, 5
+Sunday, DATE, 5
+Spanish, NORP, 5
+Pennsylvania, GPE, 5
+$4 billion, MONEY, 5
+UK, GPE, 5
+Strasbourg, GPE, 4
+three, CARDINAL, 4
+morning, TIME, 4
+New York City, GPE, 4
+Monday, DATE, 4
+Parker Solar Probe, ORG, 4
+Constellation Brands, ORG, 4
+Emmanuel Macron, PERSON, 4
+Walter Reed, PERSON, 4
+Modelo, PERSON, 4
+Rob Sands, PERSON, 4
+RT World News, ORG, 4
+Christmas, DATE, 3
+Mass., GPE, 3
+Bill Gates, PERSON, 3
+Japan, GPE, 3
+Muslim, NORP, 3
+1, CARDINAL, 3
+15, CARDINAL, 3
+Texas, GPE, 3
+3, CARDINAL, 3
+last year, DATE, 3
+1918, DATE, 3
+CDC, ORG, 3
+Erdogan, GPE, 3
+four, CARDINAL, 3
+12, CARDINAL, 3
+night, TIME, 3
+New York's, GPE, 3
+Utica College, ORG, 3
+Al Jazeera, ORG, 3
+second, ORDINAL, 3
+10, CARDINAL, 3
+Dubai, GPE, 3
+ABC News, ORG, 3
+Canada, GPE, 3
+Emirates, GPE, 3
+California, GPE, 3
+Constellation, PRODUCT, 3
+Russia, GPE, 3
+Constellation, ORG, 3
+South Korea, GPE, 3
+2, CARDINAL, 3
+Rebecca Zahau, PERSON, 3
+Calvin Coolidge, PERSON, 3
+Finland, GPE, 3
+10,000, MONEY, 2
+0.25%, PERCENT, 2
+Westminster Abbey, PERSON, 2
+Queen Elizabeth, PERSON, 2
+Tokyo, GPE, 2
+the day, DATE, 2
+the University of Utah, ORG, 2
+Second Amendment, WORK_OF_ART, 2
+third, ORDINAL, 2
+The White House, ORG, 2
+the Secret Service, ORG, 2
+London, GPE, 2
+Americans, NORP, 2
+year, DATE, 2
+Pittsburgh, GPE, 2
+at least two years, DATE, 2
+4, CARDINAL, 2
+Four, CARDINAL, 2
+University of Utah, ORG, 2
+New York, GPE, 2
+British, NORP, 2
+this year, DATE, 2
+Philippines, GPE, 2
+22, CARDINAL, 2
+One, CARDINAL, 2
+MS-13, PRODUCT, 2
+Southern California, LOC, 2
+millions, CARDINAL, 2
+CNN, ORG, 2
+Yoncheva, PERSON, 2
+Claudio Monterverdi's, PERSON, 2
+Sonya Yoncheva, PERSON, 2
+Kate Lindsey, PERSON, 2
+the Salzburg Festival, EVENT, 2
+Canopy Growth, ORG, 2
+Middle East, LOC, 2
+North Carolina, GPE, 2
+Santa Fe High School, ORG, 2
+Turpin, GPE, 2
+Navy, ORG, 2
+Portsmouth, GPE, 2
+Spain, GPE, 2
+North America, LOC, 2
+Thailand, GPE, 2
+Vladimir Putin, PERSON, 2
+three years, DATE, 2
+RT USA News, ORG, 2
+Donald Trump, PERSON, 2
+Britain, GPE, 2
+BBC, ORG, 2
+Ohio Air Force, ORG, 2
+more than $3 billion, MONEY, 2
+today, DATE, 2
+Nipah, ORG, 2
+Ukraine, GPE, 2
+Team USA, ORG, 2
+France, GPE, 2
+Hong Kong, GPE, 2
+LONDON, GPE, 2
+six years, DATE, 2
+Cologne, GPE, 2
+Sun, ORG, 2
+Mexican, NORP, 2
+fourth, ORDINAL, 2
+This Day, DATE, 2
+Jan. 5, 1933, DATE, 2
+Northampton, GPE, 2
+the age of 60, DATE, 2
+Connecticut, GPE, 2
+Paul Simon, PERSON, 2
+Queens, GPE, 2
+ABC News Police, ORG, 2
+Three, CARDINAL, 2
+Salisbury, GPE, 2
+Elizabeth II, PERSON, 2
+Chinese, NORP, 2
+Chérif Chekatt, PERSON, 1
+Neudorf, ORG, 1
+29-year-old, DATE, 1
+Cherif, ORG, 1
+WLS, ORG, 1
+Massachusetts, GPE, 1
+$12M, MONEY, 1
+Billionaire Bill Gates, PERSON, 1
+$12 million, MONEY, 1
+Reuters Australia's, ORG, 1
+Queen, PERSON, 1
+Hockney, GPE, 1
+Britons, PERSON, 1
+David Hockney, PERSON, 1
+Kyoto, GPE, 1
+more than a year ahead, DATE, 1
+Crown Prince Naruhito, PERSON, 1
+May 1 of next year, DATE, 1
+Al Jazeera Muslims, ORG, 1
+non-Muslim, NORP, 1
+ABC News Sick, ORG, 1
+last week, DATE, 1
+the third straight week, DATE, 1
+Hawaii, GPE, 1
+Last week, DATE, 1
+2009, DATE, 1
+First Liberty Institute, ORG, 1
+Lee Frost, PERSON, 1
+National Park, GPE, 1
+Yellowstone, GPE, 1
+seven, CARDINAL, 1
+Suspicious, ORG, 1
+Twitter, PERSON, 1
+The City of London, GPE, 1
+Gherkin, PERSON, 1
+Today, DATE, 1
+the flu season, DATE, 1
+Last winter, DATE, 1
+an estimated 80,000, CARDINAL, 1
+recent years, DATE, 1
+between 12,000 and 56,000, CARDINAL, 1
+the worst year, DATE, 1
+more than 500,000, CARDINAL, 1
+Last year, DATE, 1
+A century after 1918, DATE, 1
+One hundred years ago, DATE, 1
+two years - CNNPolitics, DATE, 1
+Beltsville, GPE, 1
+United States Department of Agriculture, ORG, 1
+Turkey, GPE, 1
+| Euronews Turkey's, ORG, 1
+Royal Ascot Day, ORG, 1
+Alpha Centauri, ORG, 1
+Coronation Cup, EVENT, 1
+Alpha Centauri, PERSON, 1
+Royal Ascot, ORG, 1
+Phoenix, GPE, 1
+47-year-old, DATE, 1
+Dimas Coronado, PERSON, 1
+about one, CARDINAL, 1
+more than 500, CARDINAL, 1
+John F. Kennedy International Airport, PERSON, 1
+RT USA News Heavily, ORG, 1
+Walter Reed Medical Center, ORG, 1
+Bethesda, GPE, 1
+an hour, TIME, 1
+Time, ORG, 1
+Centers for Disease Control and Prevention, ORG, 1
+172, CARDINAL, 1
+2017-2018, DATE, 1
+late-May, DATE, 1
+early Sunday, DATE, 1
+Burundi, GPE, 1
+season, DATE, 1
+next year's, DATE, 1
+days, DATE, 1
+pro-Islamic, NORP, 1
+Isulan, ORG, 1
+Christian, NORP, 1
+Mindanao, NORP, 1
+Sandy Hook, PERSON, 1
+Code Red Lockdown, WORK_OF_ART, 1
+Diana Haneski, PERSON, 1
+Sandy Hook Elementary School, ORG, 1
+Seventh, ORDINAL, 1
+seventh, ORDINAL, 1
+the last century, DATE, 1
+Alleged, ORG, 1
+East Coast, LOC, 1
+Long Island, GPE, 1
+Newsday, ORG, 1
+Miguel Angel Corea Diaz, PERSON, 1
+Scott Gross, PERSON, 1
+Corea Diaz, PERSON, 1
+Infant, PERSON, 1
+Interstate 15, FAC, 1
+Los Angeles, GPE, 1
+the Parker Solar Probe's, ORG, 1
+RT USA News All, ORG, 1
+Tessa Arcilla, PERSON, 1
+RT Op-ed, PERSON, 1
+the White House, FAC, 1
+Canopy, ORG, 1
+Lockdown, ORG, 1
+a teacher's day, DATE, 1
+Jerusalem, GPE, 1
+At least 52, CARDINAL, 1
+Gaza, GPE, 1
+Israeli, NORP, 1
+Israel, GPE, 1
+Palestinian, NORP, 1
+Matthews, GPE, 1
+10 miles, QUANTITY, 1
+Charlotte, GPE, 1
+Alice Han, PERSON, 1
+JFK — RT USA News, ORG, 1
+Videos, ORG, 1
+500, CARDINAL, 1
+Arizona, GPE, 1
+Mark Uffer, PERSON, 1
+Corona Regional Medical Center, ORG, 1
+Daily Mail, ORG, 1
+The Palmdale Sheriff's Department, ORG, 1
+Highland High School, ORG, 1
+7am, TIME, 1
+Fire Department, ORG, 1
+Trump, ORG, 1
+Macron, PERSON, 1
+the White House, ORG, 1
+last week's, DATE, 1
+Seattle, GPE, 1
+about two hours, TIME, 1
+Heineken Molson Coors, PERSON, 1
+Heineken, ORG, 1
+Molson Coors, PERSON, 1
+The New York Times, ORG, 1
+RT USA News The General Dynamics, ORG, 1
+ONS - Reuters Britain, ORG, 1
+the three months to January, DATE, 1
+2011, DATE, 1
+up to two weeks, DATE, 1
+the University of Nebraska Medical Center, ORG, 1
+UNMC, ORG, 1
+Omaha, GPE, 1
+Nebraska Medicine, ORG, 1
+Canopy Growth Constellation Brands, ORG, 1
+an additional $4 billion, MONEY, 1
+Fifteen, CARDINAL, 1
+Margery, ORG, 1
+Minnesota, GPE, 1
+six-hour, TIME, 1
+United Arab Emirates, GPE, 1
+At least 19, CARDINAL, 1
+14-hour, TIME, 1
+Americas, LOC, 1
+Ponce de Leon, PERSON, 1
+1513, DATE, 1
+1527, DATE, 1
+1539, DATE, 1
+1540, DATE, 1
+Cabrillo, ORG, 1
+1542, DATE, 1
+the Spanish Empire, GPE, 1
+shooter&quot, PERSON, 1
+General Dynamics, ORG, 1
+earlier in, TIME, 1
+Portsmouth, PERSON, 1
+up to a week, DATE, 1
+weekend, DATE, 1
+some 20%, PERCENT, 1
+17%, PERCENT, 1
+Harry Brumpton, PERSON, 1
+Joshua Franklin, PERSON, 1
+Constellation Brands Inc, ORG, 1
+| Reuters Constellation Brands Inc's, ORG, 1
+3 years, DATE, 1
+Middle East Respiratory Syndrome, LOC, 1
+W. Sydney, PERSON, 1
+RT Newsline, PERSON, 1
+The Nepean Hospital, ORG, 1
+Sydney, GPE, 1
+The Global Virome Project, ORG, 1
+100, CARDINAL, 1
+Philadelphia International Airport, FAC, 1
+NBC Philadelphia, ORG, 1
+American Airlines, ORG, 1
+Skeleton, PERSON, 1
+Iron Man', PERSON, 1
+South Korea's, GPE, 1
+Yun Sung-bin, PERSON, 1
+thousands, CARDINAL, 1
+Rhode Island, GPE, 1
+Woonsocket Middle School, ORG, 1
+Hamlet, WORK_OF_ART, 1
+Providence, GPE, 1
+Pennsylvania - ABC News, ORG, 1
+24, CARDINAL, 1
+North Korea, GPE, 1
+Singapore, GPE, 1
+five, CARDINAL, 1
+St. Regis, ORG, 1
+North Korean, NORP, 1
+Kim Jong Un, PERSON, 1
+only two, CARDINAL, 1
+Noah’s Ark, ORG, 1
+Venezuela, GPE, 1
+Venezuelans, NORP, 1
+Canopy - Reuters, ORG, 1
+Canopy Growth, PERSON, 1
+65th, ORDINAL, 1
+$600 billion, MONEY, 1
+as much as $600 billion, MONEY, 1
+about 0.8 percent, PERCENT, 1
+Nearly seven years, DATE, 1
+Rebecca Zahau's, PERSON, 1
+San Diego, GPE, 1
+Emirates Airline, ORG, 1
+the Port Authority of New York, ORG, 1
+New Jersey, GPE, 1
+The Parker Solar Probe, ORG, 1
+last August's, DATE, 1
+Kerala, GPE, 1
+India, GPE, 1
+about 1,400, CARDINAL, 1
+London Daily Mail, ORG, 1
+the North Lawn, LOC, 1
+around noon, TIME, 1
+10,000, CARDINAL, 1
+PHOTOS, ORG, 1
+Up to three, CARDINAL, 1
+More than 10,000, CARDINAL, 1
+Thai, NORP, 1
+Al Jazeera Footage, ORG, 1
+RT World News South Yorkshire Police, ORG, 1
+32, CARDINAL, 1
+USA Today, ORG, 1
+Champs-Elysees, ORG, 1
+RT Newsline, FAC, 1
+WWII, EVENT, 1
+8, CARDINAL, 1
+'100 percent, PERCENT, 1
+100 percent, PERCENT, 1
+Dan Polster, PERSON, 1
+MTV, ORG, 1
+The MTV Video Music Awards, ORG, 1
+8 p.m. EDT, TIME, 1
+August 30, 2020, DATE, 1
+years past, DATE, 1
+Luxury, ORG, 1
+World, ORG, 1
+World War III, EVENT, 1
+Kingsbury, ORG, 1
+Pyeongchang, ORG, 1
+Jack Tarrant, PERSON, 1
+Quebec, GPE, 1
+Jean-Luc Brassard, PERSON, 1
+Umbrella, ORG, 1
+Barron Trump, PERSON, 1
+2020, DATE, 1
+early Thursday, DATE, 1
+More than 4 million, CARDINAL, 1
+the past year, DATE, 1
+the Washington Post, ORG, 1
+Fire Scout, ORG, 1
+Initial Operational Test and Evaluation, ORG, 1
+USS Coronado, PRODUCT, 1
+Africa 2018, LAW, 1
+VIDEOS, ORG, 1
+2018, DATE, 1
+$950 million, MONEY, 1
+Global Resources Inc, ORG, 1
+up to, MONEY, 1
+A$1.3 billion, MONEY, 1
+$946.1 million, MONEY, 1
+Asian, NORP, 1
+Turkish, NORP, 1
+Tayyip Erdogan, PERSON, 1
+Hamilton, PERSON, 1
+Alan Baldwin, PERSON, 1
+Lewis Hamilton, PERSON, 1
+Formula One, FAC, 1
+Mexico, GPE, 1
+12-day, DATE, 1
+12 days, DATE, 1
+Reuters Constellation Brands Inc, ORG, 1
+fourth-quarter, DATE, 1
+UPI Archives, ORG, 1
+NYC, ORG, 1
+Mayoral, ORG, 1
+Eric Phillips, PERSON, 1
+Gender, ORG, 1
+RT USA News LGBTQ, ORG, 1
+JFK NEW YORK, FAC, 1
+JFK Airport, FAC, 1
+9 a.m., TIME, 1
+Devon, PERSON, 1
+Cornwall, PERSON, 1
+Durham, PERSON, 1
+Fox News, ORG, 1
+Carl Lemon, PERSON, 1
+63, DATE, 1
+Harding High School, ORG, 1
+Bridgeport, GPE, 1
+Highline College, ORG, 1
+RT USA News Highline Community College, ORG, 1
+Des Moines, GPE, 1
+76-year-old, DATE, 1
+Flushing Meadows, PRODUCT, 1
+the first night of autumn, TIME, 1
+RT World News Venture, ORG, 1
+Matthew Ocko, PERSON, 1
+Twitter, PRODUCT, 1
+ER, GPE, 1
+Orlando Police, ORG, 1
+John Mina, PERSON, 1
+Orlando Regional, GPE, 1
+Trump-Macron, ORG, 1
+at least 2 years, DATE, 1
+Macron, ORG, 1
+April, DATE, 1
+days later, DATE, 1
+Wisconsin National Guard, ORG, 1
+Wisconsin Air National Guard, ORG, 1
+Guard, ORG, 1
+Denver, GPE, 1
+Denver Health Medical Center, ORG, 1
+Hannover Airport, FAC, 1
+hours, TIME, 1
+RT World, ORG, 1
+Some 20, CARDINAL, 1
+Congolese, NORP, 1
+nearly 1.2 million, CARDINAL, 1
+this week, DATE, 1
+Man City, GPE, 1
+Manchester City’s, GPE, 1
+Premier League, ORG, 1
+Novichok, ORG, 1
+Novichok, NORP, 1
+Prezzo, PERSON, 1
+Democratic Republic of the, GPE, 1
+$5M, MONEY, 1
+nearly seven years ago, DATE, 1
+Crown, ORG, 1
+65 years old, DATE, 1
+England, GPE, 1
+Pittsburgh School Near Site of Synagogue Shooting Put on, ORG, 1
+Lockdown Colfax K-8, ORG, 1
+$730 million, MONEY, 1
+Coronado Coal, PERSON, 1
+Energy and Minerals Group, ORG, 1
+A$1 billion, MONEY, 1
+$732 million, MONEY, 1
+Cramer’s Exec Cut, ORG, 1
+Jim Cramer, PERSON, 1
+65 years, DATE, 1
+92, DATE, 1
+Flushing Meadows, WORK_OF_ART, 1
+Park, GPE, 1
+Tuesday evening, TIME, 1
+30-year-old, DATE, 1
+42-year-old, DATE, 1
+The US Navy, ORG, 1
+Walter Reed National Military Medical Center, ORG, 1
+CNBC, ORG, 1
+last month, DATE, 1
+Emmanuel Macron’s, PERSON, 1
+30-million, CARDINAL, 1
+WASHINGTON, GPE, 1
+33 million, CARDINAL, 1
+200 days, DATE, 1
+National Security, ORG, 1
+John Bolton, PERSON, 1
+Bill, PERSON, 1
+Two, CARDINAL, 1
+month-long, DATE, 1
+Hua Bao, PERSON, 1
+4-year-old, DATE, 1
+3-year-old, DATE, 1
+Jin Baobao, PERSON, 1
+Jan. 18, DATE, 1
+100 years, DATE, 1
+A century after one, DATE, 1
+Jan. 5, DATE, 1
+Flu, PERSON, 1

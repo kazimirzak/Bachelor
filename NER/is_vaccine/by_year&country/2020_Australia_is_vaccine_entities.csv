@@ -1,0 +1,2260 @@
+entity, label, count
+Australia, GPE, 386
+US, GPE, 378
+COVID-19, PRODUCT, 347
+COVID-19, PERSON, 282
+first, ORDINAL, 256
+Australian, NORP, 196
+UK, GPE, 191
+Pfizer, PERSON, 179
+Australians, NORP, 128
+China, GPE, 106
+today, DATE, 105
+Oxford, ORG, 97
+AstraZeneca, ORG, 96
+Russia, GPE, 89
+Donald Trump, PERSON, 88
+ABC News, ORG, 81
+ASX, ORG, 79
+Victoria, GPE, 76
+two, CARDINAL, 73
+Scott Morrison, PERSON, 70
+Melbourne, GPE, 66
+NSW, ORG, 65
+Britain, GPE, 65
+one, CARDINAL, 64
+CSL, ORG, 63
+Moderna, PERSON, 61
+Oxford University, ORG, 58
+Vaccine, PERSON, 56
+2021, DATE, 48
+Greg Hunt, PERSON, 46
+Chinese, NORP, 45
+second, ORDINAL, 45
+Moderna, GPE, 42
+three, CARDINAL, 42
+Joe Biden, PERSON, 40
+Russian, NORP, 39
+NRL, ORG, 38
+Norman, PERSON, 36
+next year, DATE, 35
+Americans, NORP, 33
+British, NORP, 32
+the United States, GPE, 31
+next week, DATE, 31
+UQ, GPE, 30
+Indonesia, GPE, 29
+Europe, LOC, 29
+Trump, PERSON, 28
+this week, DATE, 28
+Queensland, GPE, 27
+2020, DATE, 27
+European, NORP, 26
+Qantas, ORG, 25
+The West Australian, LOC, 25
+Canada, GPE, 25
+millions, CARDINAL, 24
+Sydney, GPE, 24
+Anthony Fauci, PERSON, 24
+WHO, ORG, 24
+University of Queensland, ORG, 24
+Brazil, GPE, 23
+New Zealand, GPE, 22
+Christmas, DATE, 22
+Germany, GPE, 22
+Two, CARDINAL, 20
+EU, ORG, 20
+Friday, DATE, 19
+FDA, ORG, 19
+America, GPE, 19
+Tuesday, DATE, 19
+March, DATE, 19
+Coronavirus Australia, ORG, 19
+years, DATE, 19
+90 per cent, MONEY, 18
+Johnson & Johnson, ORG, 18
+3, CARDINAL, 18
+Morrison, PERSON, 18
+9News, CARDINAL, 17
+Victoria, PERSON, 17
+Monday, DATE, 17
+First, ORDINAL, 17
+four, CARDINAL, 16
+this year, DATE, 16
+weeks, DATE, 16
+Health, ORG, 16
+the end of the year, DATE, 15
+The West Australian, GPE, 15
+months, DATE, 15
+Vladimir Putin, PERSON, 15
+White House, ORG, 15
+UN, ORG, 14
+daily, DATE, 14
+Mike Pence, PERSON, 14
+West Australian, NORP, 13
+Thursday, DATE, 13
+American, NORP, 13
+Alan Joyce, PERSON, 13
+the University of Queensland, ORG, 12
+Trump, ORG, 12
+One, CARDINAL, 12
+third, ORDINAL, 12
+Victorian, NORP, 12
+Pete Evans, PERSON, 12
+Boris Johnson, PERSON, 12
+India, GPE, 12
+November, DATE, 12
+more than 90, CARDINAL, 11
+Bill Gates, PERSON, 11
+BioNTech, GPE, 11
+Victorians, NORP, 11
+Wednesday, DATE, 11
+April, DATE, 11
+days, DATE, 11
+five, CARDINAL, 11
+Bryce Cartwright, PERSON, 11
+Pacific, LOC, 10
+October, DATE, 10
+The West Australian, NORP, 10
+German, NORP, 10
+Norman Swan, PERSON, 10
+the Federal Government, ORG, 10
+Biden, PERSON, 9
+Wuhan, GPE, 9
+Daniel Andrews, PERSON, 9
+Brendan Murphy, PERSON, 9
+Kamala Harris, PERSON, 9
+Saturday, DATE, 9
+hundreds, CARDINAL, 9
+Australian Broadcasting Corporation, ORG, 9
+CDC, ORG, 9
+JobKeeper, ORG, 8
+United States, GPE, 8
+18 months, DATE, 8
+Sunday, DATE, 8
+4, CARDINAL, 8
+Aussie, GPE, 8
+this month, DATE, 8
+National Cabinet, ORG, 8
+zero, CARDINAL, 8
+Nick Coatsworth, PERSON, 8
+300,000, CARDINAL, 8
+Tegan, GPE, 8
+France, GPE, 8
+the World Health Organisation, ORG, 8
+Beijing, GPE, 7
+Sputnik, ORG, 7
+Three, CARDINAL, 7
+South Australia, LOC, 7
+Philippines, GPE, 7
+Tokyo, GPE, 7
+two weeks, DATE, 7
+winter, DATE, 7
+Italy, GPE, 7
+Western, NORP, 7
+Gladys Berejiklian, PERSON, 7
+25 million, CARDINAL, 7
+yesterday, DATE, 7
+2 million, CARDINAL, 7
+RBA, ORG, 7
+Roger Cook, PERSON, 7
+Moscow, GPE, 7
+95 per cent, MONEY, 7
+Spain, GPE, 7
+the United Kingdom, GPE, 7
+billions, CARDINAL, 6
+NSW Health, ORG, 6
+Dow Jones, ORG, 6
+30,000, CARDINAL, 6
+the US Food and Drug Administration, ORG, 6
+U.S., GPE, 6
+CSIRO, ORG, 6
+early next year, DATE, 6
+January, DATE, 6
+The Federal Government, ORG, 6
+Queensland, PERSON, 6
+December, DATE, 6
+the White House, ORG, 6
+Japan, GPE, 6
+Africa, LOC, 6
+next month, DATE, 6
+New York, GPE, 6
+the weekend, DATE, 6
+Margaret Keenan, PERSON, 6
+September, DATE, 6
+RNA, ORG, 6
+AFL, ORG, 6
+at least one year, DATE, 6
+Thousands, CARDINAL, 6
+90-year-old, DATE, 6
+thousands, CARDINAL, 6
+six, CARDINAL, 6
+50 million, CARDINAL, 6
+ABC News, WORK_OF_ART, 6
+Indonesian, NORP, 5
+30 million, CARDINAL, 5
+early next week, DATE, 5
+Russians, NORP, 5
+Josh Papalii, PERSON, 5
+Flight Centre, FAC, 5
+Putin, PERSON, 5
+Mexico, GPE, 5
+SA, ORG, 5
+CureVac, ORG, 5
+African, NORP, 5
+the end of 2020, DATE, 5
+ABC News Australia, ORG, 5
+QAnon, ORG, 5
+the end of next year, DATE, 5
+Brazilians, NORP, 5
+State, ORG, 5
+the end of this year, DATE, 5
+Oxford-AstraZeneca, ORG, 5
+Yesterday, DATE, 5
+The United States, GPE, 5
+March next year, DATE, 5
+The United Kingdom, GPE, 5
+the week, DATE, 5
+Novak Djokovic, PERSON, 5
+The University of Queensland, ORG, 5
+Today, DATE, 5
+Fauci, ORG, 5
+CoronaVac, ORG, 5
+last week, DATE, 5
+Hundreds, CARDINAL, 5
+450, CARDINAL, 5
+Sweden, GPE, 5
+the Australian Government, ORG, 4
+Joko Widodo, PERSON, 4
+12, CARDINAL, 4
+Brexit, PERSON, 4
+up to, CARDINAL, 4
+the World Health Organization, ORG, 4
+the Food and Drug Administration, ORG, 4
+England, GPE, 4
+Karen Andrews, PERSON, 4
+20 million, CARDINAL, 4
+mid-2021, DATE, 4
+Asian, NORP, 4
+as early as next month, DATE, 4
+more than 100, CARDINAL, 4
+Paul Kelly, PERSON, 4
+Turkey, GPE, 4
+ABC, ORG, 4
+5, CARDINAL, 4
+1 million, CARDINAL, 4
+NZ, GPE, 4
+Labor, ORG, 4
+$1.7 billion, MONEY, 4
+Lancet, ORG, 4
+1, CARDINAL, 4
+| SBS News Australia, ORG, 4
+West Australians, NORP, 4
+Treasury, ORG, 4
+week, DATE, 4
+year's end, DATE, 4
+Moderna COVID-19, PERSON, 4
+Scott Morrison’s, PERSON, 4
+CBA, ORG, 4
+Federal Government, ORG, 4
+90 million, CARDINAL, 4
+AMA, ORG, 4
+Berlin, GPE, 4
+$1 billion, MONEY, 4
+The World Health Organisation, ORG, 4
+the University of Queensland's, ORG, 4
+Vaxxas, PERSON, 4
+six months, DATE, 4
+one day, DATE, 4
+tens of millions, CARDINAL, 4
+Liam Mannix, PERSON, 4
+Raiders, ORG, 4
+10, CARDINAL, 4
+Wisconsin, GPE, 4
+Oxford-AstraZeneca COVID-19, ORG, 4
+Spanish, NORP, 4
+1918, DATE, 4
+tomorrow, DATE, 4
+Tory Maguire, PERSON, 4
+Oxford University's, ORG, 4
+French, NORP, 4
+Fed, ORG, 4
+nine-month, DATE, 4
+the first half of next year, DATE, 3
+Jakarta, GPE, 3
+decades, DATE, 3
+World Health Organisation, ORG, 3
+USA, GPE, 3
+billion-dollar, MONEY, 3
+Macquarie, ORG, 3
+100 million, CARDINAL, 3
+Reserve Bank, ORG, 3
+Christians, NORP, 3
+Israel, GPE, 3
+374, CARDINAL, 3
+Dow, ORG, 3
+The World Health Organisation (WHO, ORG, 3
+G20, ORG, 3
+early 2021, DATE, 3
+Canberra Raiders, ORG, 3
+May, DATE, 3
+at least a year, DATE, 3
+99, CARDINAL, 3
+the White House, FAC, 3
+Chile, GPE, 3
+Melbourne, PERSON, 3
+many months, DATE, 3
+Rodrigo Duterte, PERSON, 3
+1.2 million, CARDINAL, 3
+ABC News Australian, ORG, 3
+year end, DATE, 3
+South-East Asia, LOC, 3
+Hungary, GPE, 3
+Olympics, EVENT, 3
+Third, ORDINAL, 3
+September 13, DATE, 3
+40, CARDINAL, 3
+20, CARDINAL, 3
+216, CARDINAL, 3
+Brian Kelly, PERSON, 3
+a year, DATE, 3
+the year, DATE, 3
+ABC News Experts, ORG, 3
+Vaccination, NORP, 3
+Each week, DATE, 3
+Jeremy Fernandez, PERSON, 3
+Tonight, TIME, 3
+Jair Bolsonaro, PERSON, 3
+The World Health Organization, ORG, 3
+Indigenous, ORG, 3
+the next few days, DATE, 3
+Anthony Fisher, PERSON, 3
+94.5 per cent, MONEY, 3
+10,000, CARDINAL, 3
+Peter Doherty, PERSON, 3
+eight, CARDINAL, 3
+late January, DATE, 3
+Papua New Guinea, GPE, 3
+18-month, DATE, 3
+11, CARDINAL, 3
+Ireland, GPE, 3
+The US Food and Drug Administration, ORG, 3
+Quick Fire, FAC, 3
+Brisbane, PERSON, 3
+Canberra, GPE, 3
+Canadian, NORP, 3
+Science, ORG, 3
+Food and Drug Administration, ORG, 3
+100, CARDINAL, 3
+S&P, ORG, 3
+the Federal Government's, ORG, 3
+a week, DATE, 3
+the University of Oxford, ORG, 3
+The Australian Government, ORG, 3
+South Australian, NORP, 3
+a day, DATE, 3
+$2 million, MONEY, 3
+100 per cent, MONEY, 3
+Latest, ORG, 3
+7.30, CARDINAL, 3
+Budget, ORG, 3
+Shaun Burgoyne, PERSON, 3
+GlaxoSmithKline, PERSON, 3
+Telethon Kids Institute, ORG, 3
+Craig Hutchison, PERSON, 3
+summer, DATE, 3
+7 weeks, DATE, 3
+BCG, ORG, 3
+Brazilian, NORP, 3
+$123 million, MONEY, 3
+Morgan Stanley, ORG, 3
+Pascal Soriot, PERSON, 3
+100,000, CARDINAL, 3
+AstraZeneca COVID-19, PRODUCT, 3
+3000, CARDINAL, 3
+July, DATE, 3
+AstraZeneca’s, ORG, 3
+less than two months, DATE, 3
+season, DATE, 3
+nine, CARDINAL, 3
+two days, DATE, 3
+Michigan, GPE, 3
+Donald Trump's, PERSON, 3
+hours, TIME, 3
+the next decade, DATE, 3
+Millions, CARDINAL, 3
+No.1, CARDINAL, 3
+4000, CARDINAL, 3
+Joe Biden's, PERSON, 3
+| SBS News, ORG, 3
+Asia, LOC, 3
+2022, DATE, 3
+Anthony Albanese, PERSON, 3
+Titans, NORP, 3
+three more weeks, DATE, 3
+BHP, ORG, 3
+Edward O'Neill, PERSON, 2
+the World Health Organisation's, ORG, 2
+Tom Lembong, PERSON, 2
+early August, DATE, 2
+Christmas Day, DATE, 2
+Elon Musk, PERSON, 2
+Nev Power, ORG, 2
+nine months, DATE, 2
+the Reserve Bank, ORG, 2
+Goldman Sachs, ORG, 2
+81, CARDINAL, 2
+$80 million, MONEY, 2
+New York City, GPE, 2
+86, CARDINAL, 2
+Santos, GPE, 2
+Sinovac, NORP, 2
+2019, DATE, 2
+last year, DATE, 2
+Bahrain, GPE, 2
+Andrew Cuomo, PERSON, 2
+Volunteer, PERSON, 2
+three weeks, DATE, 2
+four weeks, DATE, 2
+later this year, DATE, 2
+5,000, CARDINAL, 2
+Johnson & Johnson's, ORG, 2
+US Congress, ORG, 2
+just months, DATE, 2
+two months, DATE, 2
+South Koreans, NORP, 2
+Singapore, GPE, 2
+another year, DATE, 2
+August, DATE, 2
+less than two weeks, DATE, 2
+AstraZeneca-Oxford, ORG, 2
+Michelle Grattan, PERSON, 2
+House, ORG, 2
+the University of Oxford's, ORG, 2
+West, LOC, 2
+Lebanon, GPE, 2
+European Union, ORG, 2
+Tokyo Games, EVENT, 2
+IOC, ORG, 2
+the Tokyo Olympics, EVENT, 2
+Alison McMillan, PERSON, 2
+14 days, DATE, 2
+Matt Hancock, PERSON, 2
+TikTok, ORG, 2
+WFH, ORG, 2
+PPE, ORG, 2
+Merck, ORG, 2
+80, CARDINAL, 2
+2, CARDINAL, 2
+a decade, DATE, 2
+Karen, PERSON, 2
+Sarah Gilbert, PERSON, 2
+10-week, DATE, 2
+Kyle, PERSON, 2
+Jackie O, PERSON, 2
+60,000, CARDINAL, 2
+SA, GPE, 2
+37, CARDINAL, 2
+Australian Government, ORG, 2
+0.7%, PERCENT, 2
+overnight, TIME, 2
+28 days, DATE, 2
+Morocco, GPE, 2
+2009, DATE, 2
+90, CARDINAL, 2
+University of Sydney, ORG, 2
+late next year, DATE, 2
+Perth, GPE, 2
+Oxford AstraZeneca, ORG, 2
+Gold Coast Titans, LOC, 2
+year, DATE, 2
+the end of 2021, DATE, 2
+New Year's, EVENT, 2
+Second, ORDINAL, 2
+$800 million, MONEY, 2
+JobSeeker, ORG, 2
+Coronavirus USA, ORG, 2
+Operation Warp Speed, ORG, 2
+Instagram, ORG, 2
+the Royal Adelaide Hospital, ORG, 2
+seven years, DATE, 2
+three days, DATE, 2
+the European Union, ORG, 2
+National Health Service, ORG, 2
+Tegan Taylor, PERSON, 2
+the next 12 months, DATE, 2
+hundreds of millions of dollars, MONEY, 2
+Alex Azar, PERSON, 2
+10 million, CARDINAL, 2
+ABC News Pfizer, ORG, 2
+more than 60, CARDINAL, 2
+800,000, CARDINAL, 2
+$30 billion, MONEY, 2
+mid-next year, DATE, 2
+Nine, CARDINAL, 2
+Indian, NORP, 2
+each day, DATE, 2
+Vaccination, ORG, 2
+tens of millions, MONEY, 2
+a single day, DATE, 2
+Yvonne Sampson, PERSON, 2
+Alaska, GPE, 2
+December 3, 2020, DATE, 2
+$1.8 billion, MONEY, 2
+1.7b, MONEY, 2
+Sinovac Biotech, PERSON, 2
+Recce Pharmaceuticals, ORG, 2
+December 14, DATE, 2
+December 15, 2020, DATE, 2
+States, GPE, 2
+the coming weeks, DATE, 2
+early December, DATE, 2
+Brits, NORP, 2
+Mike Ryan, PERSON, 2
+Singapore Airlines, ORG, 2
+late 2021, DATE, 2
+Federal Health, ORG, 2
+Jenny D'Ubios, PERSON, 2
+41, CARDINAL, 2
+114, CARDINAL, 2
+Latin America, LOC, 2
+65, DATE, 2
+Medical Research Future Fund, ORG, 2
+the United Nations, ORG, 2
+August 12, DATE, 2
+410, CARDINAL, 2
+21, CARDINAL, 2
+Olympic Games, EVENT, 2
+June 17, DATE, 2
+Helen Clark, PERSON, 2
+dozens, CARDINAL, 2
+an additional 100 million, MONEY, 2
+Pope, PERSON, 2
+a million, CARDINAL, 2
+February, DATE, 2
+University of Oxford, ORG, 2
+25,000, CARDINAL, 2
+11 years, DATE, 2
+19, CARDINAL, 2
+fourth, ORDINAL, 2
+Scientists, NORP, 2
+Qld, PERSON, 2
+US Food and Drug Administration, ORG, 2
+Arizona, GPE, 2
+This week, DATE, 2
+the past few days, DATE, 2
+At least four, CARDINAL, 2
+Paul Young, PERSON, 2
+94.1 per cent, MONEY, 2
+November 3, DATE, 2
+November 16, 2020, DATE, 2
+Adelaide, LOC, 2
+tonight, TIME, 2
+Champagne, ORG, 2
+Twitter, PERSON, 2
+May 28, DATE, 2
+Texas, GPE, 2
+Stan Grant, PERSON, 2
+ten, CARDINAL, 2
+ABC News University of Queensland, ORG, 2
+Trump Administration, ORG, 2
+Doherty Institute, ORG, 2
+Monash University, ORG, 2
+Andy Murray, PERSON, 2
+South Australia's, LOC, 2
+100%, PERCENT, 2
+Peru, GPE, 2
+Melbourne, ORG, 2
+more than a year, DATE, 2
+Robert F. Kennedy, PERSON, 2
+Jr, PERSON, 2
+Pauline Hanson, PERSON, 2
+AFLPA, ORG, 2
+Brett Sutton, PERSON, 2
+Front, ORG, 2
+912, CARDINAL, 2
+79-year-old, DATE, 2
+Almost a million, CARDINAL, 2
+up to 12 months, DATE, 2
+Bali, GPE, 2
+115, CARDINAL, 2
+annual, DATE, 2
+London, GPE, 2
+earlier this year, DATE, 2
+ICU, ORG, 2
+Danish, NORP, 2
+South Australians, NORP, 2
+20 per cent, MONEY, 2
+Steve Price, PERSON, 2
+40 million, CARDINAL, 2
+| SBS News America's, ORG, 2
+Seven, CARDINAL, 2
+Pope Francis, PERSON, 2
+15 million, CARDINAL, 2
+Scentre, GPE, 2
+12 months, DATE, 2
+the second half of 2021, DATE, 2
+North Korea, GPE, 2
+South Korean, NORP, 2
+South, LOC, 2
+COVID-19 Vaccine, PERSON, 2
+More than two million, CARDINAL, 2
+ABC News Pharmaceutical, ORG, 2
+Hong Kong, GPE, 2
+first quarter, DATE, 2
+100 year old, DATE, 2
+the National Health Service, ORG, 2
+United Nations, ORG, 2
+Hulk Hogan, PERSON, 2
+Aussie, PERSON, 2
+more than 100,000, CARDINAL, 2
+United Kingdom, GPE, 2
+$500 million, MONEY, 2
+Angela Merkel, PERSON, 2
+Queensland COVID-19, PERSON, 2
+40-year-old, DATE, 2
+Hopes, PERSON, 2
+907, CARDINAL, 2
+Terry Nolan, PERSON, 2
+Kate Aubusson, PERSON, 2
+$495m, MONEY, 2
+Coronavirus, ORG, 2
+Twitter, PRODUCT, 2
+Government, ORG, 2
+coming weeks, DATE, 2
+20pc, DATE, 2
+UWA, ORG, 2
+six weeks, DATE, 2
+Robert Redfield, PERSON, 2
+13, CARDINAL, 2
+the United Kingdom's, GPE, 2
+FBI, ORG, 2
+the new year, DATE, 2
+Westpac, ORG, 2
+December 16, 2020, DATE, 2
+500, CARDINAL, 2
+25, CARDINAL, 2
+Adria Tour, PERSON, 2
+Johnson, PERSON, 2
+Informed Medical Options Party, ORG, 2
+almost $13 billion, MONEY, 2
+more than one, CARDINAL, 2
+Albert Bourla, PERSON, 2
+Guérin, PERSON, 2
+December 11, 2020, DATE, 2
+Isabel Lucas, ORG, 2
+Isabel Lucas, PERSON, 2
+December 8, 2020, DATE, 2
+$100 billion, MONEY, 2
+Bollywood, GPE, 2
+more than a month, DATE, 2
+more than 15,000, CARDINAL, 2
+Jacinda Ardern, PERSON, 2
+three billion, MONEY, 2
+December 10, 2020, DATE, 2
+Pfizer COVID-19, PERSON, 2
+Northampton, GPE, 2
+Mexican, NORP, 2
+Australian Medical Association, ORG, 2
+Ian McKellen, PERSON, 2
+Jane Halton, PERSON, 2
+500,000, CARDINAL, 2
+Hungarian, NORP, 2
+Austria, GPE, 2
+December 27, DATE, 2
+2850, MONEY, 2
+COVID-19 - ABC News, ORG, 2
+Tommy, PERSON, 2
+Nicole Baldwin, PERSON, 2
+Brisbane, GPE, 2
+200, CARDINAL, 2
+Wade Graham, PERSON, 2
+Annastacia Palaszczuk, PERSON, 2
+Rafael Nadal, PERSON, 2
+Sia Soliola, PERSON, 2
+CoronaCheck, ORG, 2
+monthly, DATE, 2
+Pennsylvania, GPE, 2
+70, CARDINAL, 2
+second day, DATE, 2
+BRICS, ORG, 2
+Health Ministry, ORG, 2
+the first day, DATE, 2
+Five, CARDINAL, 2
+$49 billion, MONEY, 2
+400 million, CARDINAL, 2
+David Swallow, PERSON, 2
+Genuine, PERSON, 1
+45b, MONEY, 1
+About a third, CARDINAL, 1
+the National Child Health Poll, ORG, 1
+Joko Widodo's, GPE, 1
+Sarah Pitt, PERSON, 1
+ABC News With an Army General, WORK_OF_ART, 1
+morning, TIME, 1
+Macquarie, PERSON, 1
+last 2 years, DATE, 1
+Minnesota, GPE, 1
+Moderns, PERSON, 1
+only weeks, DATE, 1
+five-month, DATE, 1
+early March, DATE, 1
+Tesla, PERSON, 1
+Biden, ORG, 1
+first 100 days, DATE, 1
+his first 100 days, DATE, 1
+every year, DATE, 1
+at least nine months, DATE, 1
+fourth straight week, DATE, 1
+seven-month, DATE, 1
+Oxford Univers, ORG, 1
+Beast, LOC, 1
+more than 310,000, CARDINAL, 1
+4-month, DATE, 1
+March 6, DATE, 1
+75, MONEY, 1
+126, CARDINAL, 1
+this afternoon, TIME, 1
+the Australian Government’s, ORG, 1
+Volunteers, PRODUCT, 1
+Universi, ORG, 1
+530, CARDINAL, 1
+Massachusetts, GPE, 1
+up to $2350, MONEY, 1
+ASX A, ORG, 1
+SBS News Pharmaceutical, ORG, 1
+26b, MONEY, 1
+a few weeks ago, DATE, 1
+Western Sydney, LOC, 1
+United Arab Emirates, GPE, 1
+The United Arab Emirates, GPE, 1
+0.6 per cent, MONEY, 1
+the end of 2019, DATE, 1
+National Vaccination Policy, ORG, 1
+Fesharaki, PERSON, 1
+about 2035, DATE, 1
+2050, DATE, 1
+6500, CARDINAL, 1
+| SBS News Efforts, ORG, 1
+Six months, DATE, 1
+Cuomo, PERSON, 1
+more than a million, CARDINAL, 1
+Chris Patten, PERSON, 1
+Alicia Broadbent, PERSON, 1
+Deb Stokes, PERSON, 1
+Mike Parton, PERSON, 1
+Nick Hendel, PERSON, 1
+Patty Dyson, PERSON, 1
+Ric Baxter, PERSON, 1
+MIT, ORG, 1
+1.4b, MONEY, 1
+Bob Langer's, PERSON, 1
+3.2, CARDINAL, 1
+the last three weeks, DATE, 1
+September quarter, DATE, 1
+the University of Oxford’s, ORG, 1
+The Australian Security Intelligence Organisation, ORG, 1
+'three weeks, DATE, 1
+four weeks', DATE, 1
+94,000, CARDINAL, 1
+billion, CARDINAL, 1
+State of Origin, ORG, 1
+$849 million, MONEY, 1
+1995, DATE, 1
+Nobel Peace Prize NSW Health, WORK_OF_ART, 1
+61 days, DATE, 1
+Ugur Sahin, PERSON, 1
+Özlem Türeci, PERSON, 1
+between two, CARDINAL, 1
+Late on, TIME, 1
+Wednesday night, TIME, 1
+Gold Coast, ORG, 1
+Michael Good, PERSON, 1
+$US900 billion, MONEY, 1
+US600, MONEY, 1
+$211m, MONEY, 1
+last week's, DATE, 1
+Aussies, ORG, 1
+PM, PERSON, 1
+2.8b, MONEY, 1
+1.7bn, MONEY, 1
+more than 80 million, MONEY, 1
+WeChat, ORG, 1
+an Independence Day, EVENT, 1
+Palaszczuk - ABC News, ORG, 1
+Australia Post's, ORG, 1
+Christine Holgate, PERSON, 1
+Sydney *, LOC, 1
+New Year, EVENT, 1
+Western Australia, LOC, 1
+134 million, CARDINAL, 1
+Holly Seale, PERSON, 1
+South China Sea, LOC, 1
+89, DATE, 1
+Joko Widodo’s, ORG, 1
+a second consecutive day, DATE, 1
+Australi, PERSON, 1
+South Asia - 9News, LOC, 1
+South Asia, LOC, 1
+222 days, DATE, 1
+5 million, CARDINAL, 1
+Moderna COVID, ORG, 1
+| SBS News UK, ORG, 1
+7.4 billion euros, MONEY, 1
+$A12.6 billion, MONEY, 1
+$1 million, MONEY, 1
+Scammers, PRODUCT, 1
+New South Wales, LOC, 1
+Michael Mrozinski, PERSON, 1
+$US1 billion, MONEY, 1
+more than 750,000, CARDINAL, 1
+more than 35,000, CARDINAL, 1
+Scott Morrison - ABC News, PERSON, 1
+ChristianaCare Hospital, ORG, 1
+Newark, GPE, 1
+Delaware, GPE, 1
+Brookings, GPE, 1
+Forest Hill Family Clinic, ORG, 1
+year-end, DATE, 1
+Pfizer Inc, ORG, 1
+Moderna Inc, PERSON, 1
+World Bank, ORG, 1
+The World Bank, ORG, 1
+Yo, PERSON, 1
+Sydneysiders, PERSON, 1
+5pm, TIME, 1
+Andrews, PERSON, 1
+Americ, PERSON, 1
+Gardasil, GPE, 1
+Oslo, ORG, 1
+Coalition for Epidemic Preparedness Innovation, ORG, 1
+Slovakia, ORG, 1
+Twenty-seven, CARDINAL, 1
+Doug Emhoff, PERSON, 1
+City, GPE, 1
+Less than 30, CARDINAL, 1
+at least 50, CARDINAL, 1
+ANU, ORG, 1
+At least 6, CARDINAL, 1
+more than 5,000, CARDINAL, 1
+129, CARDINAL, 1
+123, CARDINAL, 1
+Tokyo Olympic Games ', EVENT, 1
+Ian Chesterman, PERSON, 1
+more than 400, CARDINAL, 1
+almost 20 minutes, TIME, 1
+this morning, TIME, 1
+Jacinda Ardern's, PERSON, 1
+Winston Peters, PERSON, 1
+International Olympic Committee, ORG, 1
+John Coates, PERSON, 1
+US Centers for Disease Control and Prevention, ORG, 1
+older than 75, CARDINAL, 1
+Around 30 million, CARDINAL, 1
+Drugmaker AstraZeneca, ORG, 1
+US AFL, ORG, 1
+Port Adelaide, FAC, 1
+this weekend, DATE, 1
+Tania Ewing, PERSON, 1
+Measles, PERSON, 1
+24, CARDINAL, 1
+6, MONEY, 1
+more than 80 million, CARDINAL, 1
+6340, DATE, 1
+Astra, ORG, 1
+a World Health Organisation-led, ORG, 1
+Oxford University Jenner Institute, ORG, 1
+Julia Gillard, ORG, 1
+more than $50 billion, MONEY, 1
+Zika, PERSON, 1
+Moderna Phase, ORG, 1
+15, CARDINAL, 1
+18-55, DATE, 1
+US1900, MONEY, 1
+about three weeks, DATE, 1
+three or four weeks, DATE, 1
+Mark Riley, PERSON, 1
+several months, DATE, 1
+Oxford University - ABC, ORG, 1
+a few months, DATE, 1
+UQ COVID-19, ORG, 1
+96, CARDINAL, 1
+56, DATE, 1
+Nearly 90, CARDINAL, 1
+Julie Leask, PERSON, 1
+$55 billion, MONEY, 1
+8,000, CARDINAL, 1
+Thursday 2 July, 2020, DATE, 1
+1.7%, PERCENT, 1
+$29 billion, MONEY, 1
+68.62, MONEY, 1
+Michael Kidd, PERSON, 1
+Heartbroken, ORG, 1
+two-year-old, DATE, 1
+eight month, DATE, 1
+$4.1 million, MONEY, 1
+More than $10 million, MONEY, 1
+Africans, NORP, 1
+WHO The World Health Organisation, ORG, 1
+Nearly 1000, CARDINAL, 1
+The West Australian ‘, GPE, 1
+Big Pharma's, ORG, 1
+Dale Steyn, PERSON, 1
+Sachin Tendulkar’s, ORG, 1
+European Medicines Agency, ORG, 1
+Marco Cavaleri, PERSON, 1
+roughly a third, CARDINAL, 1
+Scott Morrison - ABC, PERSON, 1
+Historic, GPE, 1
+Rapper Kanye West, PERSON, 1
+Kanye West, PERSON, 1
+Remdesivir, ORG, 1
+William Petri, PERSON, 1
+as little as nine months, DATE, 1
+the United States', GPE, 1
+URW, ORG, 1
+44pc, DATE, 1
+8pc, ORDINAL, 1
+March 5, DATE, 1
+Unibail-Rodamco-Westfield, PERSON, 1
+43.6 per cent, MONEY, 1
+more than 50 million, CARDINAL, 1
+Trump’s, ORG, 1
+December 7, DATE, 1
+a tough few months, DATE, 1
+Melbourne Airport, FAC, 1
+800, MONEY, 1
+Mond, PERSON, 1
+Cities, ORG, 1
+Mastercard, ORG, 1
+three years', DATE, 1
+Keith Chappell, PERSON, 1
+BioNtech, ORG, 1
+Hydroxychloroquine, PERSON, 1
+only a week, DATE, 1
+Optimism, NORP, 1
+years-long, DATE, 1
+250, MONEY, 1
+only 20, CARDINAL, 1
+Vic, GPE, 1
+Experts, ORG, 1
+first Indigenous, ORG, 1
+Tanya Hosch, PERSON, 1
+the next eight weeks, DATE, 1
+ABC News Gold, ORG, 1
+British Qanon, ORG, 1
+Pacific Island, LOC, 1
+The University of Queensland-CSL, ORG, 1
+past few months, DATE, 1
+the past few months, DATE, 1
+$6 million, MONEY, 1
+| SBS News Federal Health, ORG, 1
+Rhinomed, PERSON, 1
+Rupert Murdoch, PERSON, 1
+89-year-old, DATE, 1
+FOMO, ORG, 1
+The Australian Financial Review, ORG, 1
+the The Sydney Morning Herald, FAC, 1
+James, PERSON, 1
+Finn, PERSON, 1
+Estelle, GPE, 1
+Alice, PERSON, 1
+Nobel, WORK_OF_ART, 1
+The United States', GPE, 1
+1990s, DATE, 1
+A World Health Organisation, ORG, 1
+$US31.3 billion, MONEY, 1
+$A45.7 billion, MONEY, 1
+CEPI, ORG, 1
+up to 100 million, MONEY, 1
+160, CARDINAL, 1
+Hackers, PERSON, 1
+the US Justice Department, ORG, 1
+11 consecutive days, DATE, 1
+Joao Doria, PERSON, 1
+North Korean, NORP, 1
+AstraZeneca North Korean, NORP, 1
+a University of Queensland, ORG, 1
+Biotech, PERSON, 1
+Brandon Capital's Nave on Australia's, ORG, 1
+roughly 2 million, CARDINAL, 1
+20 million US, MONEY, 1
+Some 1.4 million, CARDINAL, 1
+Greece, GPE, 1
+mid-December, DATE, 1
+US Government's, ORG, 1
+The US Government's, ORG, 1
+NYE, ORG, 1
+nearly a year, DATE, 1
+later this month, DATE, 1
+hundreds of thousands, CARDINAL, 1
+Travellers, ORG, 1
+Mars, LOC, 1
+September — months ahead, DATE, 1
+News Germany, GPE, 1
+'month, DATE, 1
+'month', DATE, 1
+18 months - before, DATE, 1
+Thirty-five, CARDINAL, 1
+University of Queensland - ABC News Human, ORG, 1
+120, CARDINAL, 1
+the end of September, DATE, 1
+Commonwealth Bank, ORG, 1
+Matt Comyn, PERSON, 1
+Manly Sea Eagles, ORG, 1
+Addin Fonua-Blake, PERSON, 1
+Queensland Addin Fonua-Blake, PERSON, 1
+next month's, DATE, 1
+Cowboys, ORG, 1
+early November, DATE, 1
+more than 184,000, CARDINAL, 1
+the next five years, DATE, 1
+$1.5 billion, MONEY, 1
+Australia - Coronacast - ABC Radio, ORG, 1
+only 50 percent, PERCENT, 1
+The United Kingdom's, GPE, 1
+as early as January, DATE, 1
+Joko Widodo, ORG, 1
+the Indonesian Government, ORG, 1
+the Centers for Disease Control and Prevention, ORG, 1
+six to nine months, DATE, 1
+Tedros Adhanom Ghebreyesus, PERSON, 1
+AEC, ORG, 1
+September 8, DATE, 1
+Daniel Andrews ', PERSON, 1
+NSW Latest, ORG, 1
+September 8, 2020, DATE, 1
+the Serum Institute, ORG, 1
+Trump's 'Operation Warp Speed', ORG, 1
+Patrick Vallance, PERSON, 1
+1.5 million, CARDINAL, 1
+every nine seconds, TIME, 1
+weekly, DATE, 1
+about 89, CARDINAL, 1
+79, DATE, 1
+the Nobel Prize, WORK_OF_ART, 1
+Johnson & Johnson’s, ORG, 1
+Anglican Church, ORG, 1
+Anglican, NORP, 1
+nearly 50 years ago, DATE, 1
+Vaccine | Latest Health News & Updates, ORG, 1
+ABC News Emergency, ORG, 1
+Oxford-AstraZeneca's, ORG, 1
+more than 9.57 million, CARDINAL, 1
+nearly 140,000, CARDINAL, 1
+SBS News Australia, ORG, 1
+the past month, DATE, 1
+more than 500,000, CARDINAL, 1
+Lawrence Gostin, PERSON, 1
+Georgetown University, ORG, 1
+1973, DATE, 1
+ABC News Using, ORG, 1
+the Catholic Church, ORG, 1
+day, DATE, 1
+PEE, ORG, 1
+15 minutes, TIME, 1
+Rugby league, ORG, 1
+2nd worst day, DATE, 1
+second worst day, DATE, 1
+nearly two weeks, DATE, 1
+100th, ORDINAL, 1
+Australia’s, ORG, 1
+PM Latest, PERSON, 1
+million dollar, MONEY, 1
+Futuristic, NORP, 1
+300 million, CARDINAL, 1
+the US Department of Health and Human Services, ORG, 1
+almost a third, CARDINAL, 1
+more than 84.8 million, CARDINAL, 1
+7,000, CARDINAL, 1
+91.25 per cent, MONEY, 1
+Byron Bay, FAC, 1
+Duterte, PERSON, 1
+Asia-Pacific, LOC, 1
+ABC News The World Health Organization, WORK_OF_ART, 1
+the Asia-Pacific region, LOC, 1
+up to, QUANTITY, 1
+15 billion, CARDINAL, 1
+Platinum Asset Management, ORG, 1
+around 3,000, CARDINAL, 1
+CMO, ORG, 1
+Paul Perreault, PERSON, 1
+Gold Coast Titans, ORG, 1
+Cozy Bears, PERSON, 1
+Hidden Cobras, FAC, 1
+ABC News Cyber, ORG, 1
+Mesoblast, ORG, 1
+US Election, ORG, 1
+The United States Studies Centre, GPE, 1
+US100b, MONEY, 1
+The World Health Organization's, ORG, 1
+Changi Airport, FAC, 1
+SIA, ORG, 1
+the Asia-Pacific, LOC, 1
+this season, DATE, 1
+three to four months, DATE, 1
+the end of August, DATE, 1
+Anti-COVID, ORG, 1
+anti-COVID, NORP, 1
+Reignite Australia, ORG, 1
+September 7, DATE, 1
+Four, CARDINAL, 1
+9, CARDINAL, 1
+Greg Hunt's, PERSON, 1
+September 7, 2020 - Stay, DATE, 1
+11 overnight, TIME, 1
+the Morrison Government, ORG, 1
+11 months, DATE, 1
+about three, CARDINAL, 1
+just the last two weeks, DATE, 1
+about one million, CARDINAL, 1
+Latin America's, LOC, 1
+Costa Rica, GPE, 1
+months or even years, DATE, 1
+more than half, CARDINAL, 1
+the Commonwealth Government's, ORG, 1
+B., ORG, 1
+’ season, DATE, 1
+Alert, PERSON, 1
+Breaking News, ORG, 1
+August 12, 2020 - Stay, DATE, 1
+1b, MONEY, 1
+Jim Simons, PERSON, 1
+Codagenix, PERSON, 1
+$33 billion, MONEY, 1
+Renaissance Technologies, ORG, 1
+a vaccine months, DATE, 1
+Cold War, EVENT, 1
+Kremlin, ORG, 1
+Cozy Bear, PERSON, 1
+next year's, DATE, 1
+Aussie, ORG, 1
+the Federal Reserve, ORG, 1
+700, CARDINAL, 1
+COVID-19 Australia, ORG, 1
+two and a half years, DATE, 1
+Christmas University of Oxford, ORG, 1
+Magellan, ORG, 1
+ABC News Imagine, ORG, 1
+David Taylor, PERSON, 1
+COVID, ORG, 1
+next winter, DATE, 1
+the Queensland University, ORG, 1
+seven, CARDINAL, 1
+More than 100, CARDINAL, 1
+Robert Litan, PERSON, 1
+the Brookings Institution, ORG, 1
+US1000, MONEY, 1
+Lockdowns, PERSON, 1
+the end of February, DATE, 1
+as many as 15 million, CARDINAL, 1
+Mail, GPE, 1
+Alan Joyce’s ‘, PERSON, 1
+AI, ORG, 1
+one billion, CARDINAL, 1
+One billion, CARDINAL, 1
+just two weeks, DATE, 1
+the Christmas holiday, DATE, 1
+the age of 30, DATE, 1
+The New South Wales, ORG, 1
+Pelosi, PERSON, 1
+yearly, DATE, 1
+Rebecca Ashfield, PERSON, 1
+$130 billion, MONEY, 1
+Rome, GPE, 1
+Assisi, GPE, 1
+first week, DATE, 1
+NSW South Coast, LOC, 1
+19 May, 2020, DATE, 1
+1.8 per cent, MONEY, 1
+more than, CARDINAL, 1
+multibillion-dollar, MONEY, 1
+ABC News Trials of CSL, ORG, 1
+National Health, ORG, 1
+10 to 15 months, DATE, 1
+ten to 15 months, DATE, 1
+Industry, Science and Technology, ORG, 1
+Kingston Mills, PERSON, 1
+2.1, CARDINAL, 1
+9.4 per cent, MONEY, 1
+the best week, DATE, 1
+December 2011, DATE, 1
+the Australian Financial Review, ORG, 1
+August 11, DATE, 1
+Daniel Andrews', PERSON, 1
+331, CARDINAL, 1
+August 11, 2020, DATE, 1
+Edward Holmes, PERSON, 1
+1850s, DATE, 1
+Healthcare, ORG, 1
+a week old, DATE, 1
+hundreds and hundreds, CARDINAL, 1
+the New England Journal of Medicine, ORG, 1
+World Health Organization's, ORG, 1
+2024, DATE, 1
+ABC News Extensive, ORG, 1
+Biomedical Advanced Research and Development Authority, ORG, 1
+at least 12 to 18 months, CARDINAL, 1
+more than 285,000, CARDINAL, 1
+ABC News Researchers, ORG, 1
+US Army National Guard, ORG, 1
+US$2 billion, MONEY, 1
+the "Warp Speed, LAW, 1
+Almost $6 million, MONEY, 1
+almost $3 million, MONEY, 1
+Vietnam, GPE, 1
+More than 10,000, CARDINAL, 1
+500, MONEY, 1
+Asia Australia, LOC, 1
+half a billion dollars, MONEY, 1
+Rob Harris, PERSON, 1
+more than 2%, PERCENT, 1
+more than 2, CARDINAL, 1
+Kevan Gosper, PERSON, 1
+Games, FAC, 1
+Hawks, ORG, 1
+DHL, ORG, 1
+$160 million, MONEY, 1
+Alan Joyce Qantas, PERSON, 1
+$80m, MONEY, 1
+South East Asia, LOC, 1
+a year two, DATE, 1
+ABC News All, ORG, 1
+Danielle, PERSON, 1
+Johnson Mak, PERSON, 1
+Andrew Nash, PERSON, 1
+the University of Queensland Vaccine Project’s, ORG, 1
+the Innovation Summit, ORG, 1
+Vaxine, PERSON, 1
+just days, DATE, 1
+British PM, PERSON, 1
+Scientist, PERSON, 1
+Banks, PERSON, 1
+Sydney COVID-19, FAC, 1
+Great Depression - ABC News Producers, EVENT, 1
+an estimated, QUANTITY, 1
+$230 million, MONEY, 1
+220, MONEY, 1
+Geelong, NORP, 1
+Outraged, ORG, 1
+Cuomo New York, ORG, 1
+2.1pc, CARDINAL, 1
+Christian, NORP, 1
+the late 19th century, DATE, 1
+Mary Baker Eddy, PERSON, 1
+Christian Science, ORG, 1
+the Tokyo Games, EVENT, 1
+ABC News There's, ORG, 1
+more than 450 million, CARDINAL, 1
+Linton Besser, PERSON, 1
+minutes, TIME, 1
+Sidney Powell, PERSON, 1
+more than 2,400, CARDINAL, 1
+92 per cent, MONEY, 1
+nearly 1,500, CARDINAL, 1
+almost 1,500, CARDINAL, 1
+Silicon Valley, LOC, 1
+Josh Frydenberg's, PERSON, 1
+Amnesty International, ORG, 1
+nearly 70, CARDINAL, 1
+September 20, DATE, 1
+14, CARDINAL, 1
+Almost $6, MONEY, 1
+Fourteen, CARDINAL, 1
+September 20, 2020 - Stay, DATE, 1
+Ángel Eduardo, PERSON, 1
+Frank Madrid, ORG, 1
+Synairgen, ORG, 1
+Maitreyi Shivkumar, PERSON, 1
+BioNTech, ORG, 1
+some 30,000, CARDINAL, 1
+past 300,000, CARDINAL, 1
+SBS News, ORG, 1
+19th, ORDINAL, 1
+$3 million, MONEY, 1
+the University of Melbourne's, ORG, 1
+European Central Bank, ORG, 1
+Martin Pakula, PERSON, 1
+two week, DATE, 1
+Australian Open, EVENT, 1
+one to two weeks, DATE, 1
+Sputnik-V, ORG, 1
+COVID-19 Security, ORG, 1
+Adelaide, ORG, 1
+more than 4000, CARDINAL, 1
+coming days, DATE, 1
+at least the next fortnight or so, DATE, 1
+Josh Frydenberg, PERSON, 1
+Treasurer Josh Frydenberg, PERSON, 1
+UN Summit, ORG, 1
+World War II, EVENT, 1
+Pfizer-BioNTech's, PERSON, 1
+Drugmakers, PERSON, 1
+Sinopharm COVID, ORG, 1
+an additional 30 million, CARDINAL, 1
+The US Food and Drug Administration's, ORG, 1
+Ordinary Americans, LAW, 1
+four months, DATE, 1
+World War II' - ABC News, EVENT, 1
+hundreds of millions, CARDINAL, 1
+Hawthorn, NORP, 1
+ABC News Lauded, ORG, 1
+Glaxo, ORG, 1
+Jacqueline Maley, PERSON, 1
+94.5%, PERCENT, 1
+AZD1222, FAC, 1
+McEnany, PERSON, 1
+The White House, ORG, 1
+$10 million, MONEY, 1
+Zoom, PERSON, 1
+Bill Gates', PERSON, 1
+about 5, CARDINAL, 1
+Sputnik V Top US, ORG, 1
+Royal Adelaide Hospital Phase, ORG, 1
+between 1, DATE, 1
+Behind Australia's, ORG, 1
+the Federal Government - ABC News, ORG, 1
+the Australian Academy of Science, ORG, 1
+three or four months, DATE, 1
+Soumya Swaminathan, PERSON, 1
+Geneva, GPE, 1
+Ibuprofen, ORG, 1
+ABC News Communications, ORG, 1
+Carnival, ORG, 1
+2 months, DATE, 1
+Vaccines, ORG, 1
+Perth Children’s Hospital, ORG, 1
+Fiona Stanley Hospital, ORG, 1
+Charles Gairdner, PERSON, 1
+The West Australian About 2000, GPE, 1
+AFL Indigenous, GPE, 1
+Nova Peris, PERSON, 1
+Footy Classified, PRODUCT, 1
+the AFL’s Indigenous, ORG, 1
+ABC News Cooler, ORG, 1
+Antarctic, ORG, 1
+the end of January, DATE, 1
+COVID-19 anti-vaxxers, PERSON, 1
+2pc, DATE, 1
+Microchips, ORG, 1
+Dublin, GPE, 1
+Access, PRODUCT, 1
+Sinopharm, ORG, 1
+Niterói, PERSON, 1
+Rio de Janeiro, GPE, 1
+Des Hasler Australian Rugby League Commission, ORG, 1
+Peter V’landys, PERSON, 1
+76, CARDINAL, 1
+Unity Hall Hotel Balmain, ORG, 1
+781, CARDINAL, 1
+Whistleblower Rick Bright, PERSON, 1
+$23.9 million, MONEY, 1
+one billion, MONEY, 1
+200 years, DATE, 1
+the end of March, DATE, 1
+$123m, MONEY, 1
+NIH, ORG, 1
+around June, DATE, 1
+1.5 billion, CARDINAL, 1
+Insecure, NORP, 1
+Western Australia’s, ORG, 1
+Nature, WORK_OF_ART, 1
+the early days, DATE, 1
+Kardinia Capital, ORG, 1
+3,000, CARDINAL, 1
+African Americans, NORP, 1
+every day, DATE, 1
+January AstraZeneca, DATE, 1
+hundreds of millions, MONEY, 1
+Melissa Purcell, PERSON, 1
+Breakthrough, GPE, 1
+Sputnik V - ABC, PERSON, 1
+over 100,000, CARDINAL, 1
+Chinese Communist Party, ORG, 1
+Communist Party, ORG, 1
+David Heymann, PERSON, 1
+Childhood, ORG, 1
+Denmark, GPE, 1
+zeros, CARDINAL, 1
+three-day, DATE, 1
+Nasdaq, ORG, 1
+Australia Prisoners, GPE, 1
+Victims, NORP, 1
+January 2, DATE, 1
+more than 30, CARDINAL, 1
+late July - 9News, DATE, 1
+late July, DATE, 1
+Kevin Rudd Scott Morrison, PERSON, 1
+March The first UK, DATE, 1
+at least March, DATE, 1
+Media, ORG, 1
+Project, ORG, 1
+the beginning of 2021, DATE, 1
+ABC News Luggage, ORG, 1
+election day, DATE, 1
+only 50%, PERCENT, 1
+Adrian Hill, PERSON, 1
+Discovery, PRODUCT, 1
+US FDA, ORG, 1
+some 250,000, CARDINAL, 1
+‘three or four months, DATE, 1
+79 per cent, MONEY, 1
+Ben Fordham, PERSON, 1
+Central, ORG, 1
+2.5 year, DATE, 1
+75 US cents, MONEY, 1
+Serum Institute, ORG, 1
+Rick Bright, PERSON, 1
+US Food and Drug Authority Moderna, ORG, 1
+about 5.9 million, CARDINAL, 1
+COVID-19 Symptoms, ORG, 1
+Treatments, Testing & Vaccines, ORG, 1
+NRd-1629, ORG, 1
+ABC News Australians, ORG, 1
+AstraZe, ORG, 1
+Sputnik, PERSON, 1
+Adam Kamradt-Scott, PERSON, 1
+ABC Health, ORG, 1
+The West Australian Celebrity, GPE, 1
+the Federal Government’s, ORG, 1
+Australia A, ORG, 1
+Proof, PERSON, 1
+the UK Government, ORG, 1
+27, MONEY, 1
+$2m, MONEY, 1
+The Queensland Government, ORG, 1
+$27.25 million, MONEY, 1
+the International Society of Vaccines, ORG, 1
+Gates Foundation, ORG, 1
+The Bill & Melinda Gates Foundation, ORG, 1
+an additional US$150 million, MONEY, 1
+$48 billion, MONEY, 1
+Less than 10, CARDINAL, 1
+Stanley Wang, PERSON, 1
+the next two or three months, DATE, 1
+Great, PERSON, 1
+2b, MONEY, 1
+more than two weeks, DATE, 1
+the Supreme Court, ORG, 1
+2000, MONEY, 1
+Republicans, NORP, 1
+Republican, NORP, 1
+United Kingdom - ABC, GPE, 1
+North, LOC, 1
+Soumya Swaminathan - ABC News Clinical, ORG, 1
+up to eight months, DATE, 1
+New Australian, NORP, 1
+the past few weeks, DATE, 1
+fewer than 14,000, CARDINAL, 1
+20,000, CARDINAL, 1
+Federal H, ORG, 1
+9/11's for months, DATE, 1
+the next two to three months, DATE, 1
+Covid, NORP, 1
+Qantas Airlines, ORG, 1
+| SBS News Researchers at, ORG, 1
+Imperial College, ORG, 1
+12 months' time, DATE, 1
+$40 million, MONEY, 1
+the September quarter, DATE, 1
+more than 20, CARDINAL, 1
+90, DATE, 1
+91, CARDINAL, 1
+tens of thousands, CARDINAL, 1
+Colac, ORG, 1
+More than 100 years ago, DATE, 1
+More than a third, CARDINAL, 1
+13 year old, DATE, 1
+Chris Zappone, PERSON, 1
+Australian National University, ORG, 1
+More than 1, CARDINAL, 1
+Webjet, PERSON, 1
+53,000, CARDINAL, 1
+the UN General Assembly, ORG, 1
+Australia Flu, GPE, 1
+the National Institut, ORG, 1
+AstraZene, ORG, 1
+the Oxford University's, ORG, 1
+Wrestling, GPE, 1
+The West Australian Federal Health, ORG, 1
+Federal Budget, ORG, 1
+April 15 2020, DATE, 1
+April 15, 2020, DATE, 1
+Novavax COVID-19, PRODUCT, 1
+RNC, ORG, 1
+Jacob Blake, PERSON, 1
+ABC News Governments, ORG, 1
+Cancellation of University of Queensland's, ORG, 1
+Billionaire, PERSON, 1
+A FULL WRAP OF HOW THE, ORG, 1
+VIRUS, ORG, 1
+30 years, DATE, 1
+March 1988, DATE, 1
+US74¢, ORG, 1
+Freedom Foods, ORG, 1
+$174.5m, MONEY, 1
+Oxford University-AstraZeneca, ORG, 1
+More than 25 years ago, DATE, 1
+Crossing, ORG, 1
+the Health Ministry’s, ORG, 1
+Robert Booy, PERSON, 1
+1,900, CARDINAL, 1
+PM Scott Morrison, PERSON, 1
+1,868, CARDINAL, 1
+98, CARDINAL, 1
+the previous day, DATE, 1
+National Health Commission, ORG, 1
+December 18, DATE, 1
+Tesco, ORG, 1
+Two years ago, DATE, 1
+Morrison Government’s, ORG, 1
+about two, CARDINAL, 1
+three-year-old, DATE, 1
+G-20, PRODUCT, 1
+Anthony, PERSON, 1
+Kate Golle, PERSON, 1
+Scentre Group, ORG, 1
+Sydney Airport, FAC, 1
+ALS, ORG, 1
+IR, ORG, 1
+William Shakespeare, PERSON, 1
+Fauci, PERSON, 1
+just weeks, DATE, 1
+Mark Meadows, PERSON, 1
+Dr Stephen Hahn, PERSON, 1
+Malek Fahd Islamic School, ORG, 1
+44 million, CARDINAL, 1
+Johns Hopkins University, ORG, 1
+1.17 million, CARDINAL, 1
+World Health Organization, ORG, 1
+ABC News Trucks, ORG, 1
+Volatile ASX, ORG, 1
+390, CARDINAL, 1
+CMO Paul Kelly, ORG, 1
+Obama, PERSON, 1
+Bush, PERSON, 1
+Clinton, PERSON, 1
+D-Day, DATE, 1
+2.9 million, CARDINAL, 1
+late next week, DATE, 1
+before end of 2020, DATE, 1
+Microsoft, ORG, 1
+the Food and Drug Administration and Centres for Disease Control and Protection, ORG, 1
+All year, DATE, 1
+12 to 18 months, DATE, 1
+Peter Doherty Institute for Infection, ORG, 1
+Murdoch Children's, PERSON, 1
+Research Institute, ORG, 1
+seven-year, DATE, 1
+Karen Hitchcock, PERSON, 1
+Karen Hitchcock's, PERSON, 1
+Leaders of the world, WORK_OF_ART, 1
+The West Australian Health Department, GPE, 1
+65s first, DATE, 1
+the National Immunisation Program, ORG, 1
+Harvard, ORG, 1
+Timothy Springer, PERSON, 1
+17,000 per cent, MONEY, 1
+Herald’s, ORG, 1
+Guy Debelle, PERSON, 1
+315 million, CARDINAL, 1
+Greg Jennett, PERSON, 1
+$660 million, MONEY, 1
+ABC News News, ORG, 1
+Scott Morrison's, PERSON, 1
+April 9, 2020, DATE, 1
+the next couple of months, DATE, 1
+5,368, CARDINAL, 1
+Georgia, GPE, 1
+Supreme Court, ORG, 1
+Sydney NYE, PERSON, 1
+30, CARDINAL, 1
+Fauci | SBS News, PERSON, 1
+final quarter, DATE, 1
+its best month, DATE, 1
+Antonio Guterre, PERSON, 1
+many years, DATE, 1
+South Wales, GPE, 1
+85 per cent, MONEY, 1
+ABC News Gretel Whitting, ORG, 1
+Sambuca, GPE, 1
+Malibu, GPE, 1
+Tasmania, ORG, 1
+10-15 percent, PERCENT, 1
+More than half, CARDINAL, 1
+The European Medicines Agency, ORG, 1
+24 hours, TIME, 1
+The United Nations, ORG, 1
+Nick Coatesworth, PERSON, 1
+AstraZeneca-Oxford, PRODUCT, 1
+ACCC, ORG, 1
+Scamwatch, ORG, 1
+only eight, CARDINAL, 1
+Scott Morrison People, PERSON, 1
+1.8pc, ORG, 1
+CCTV, ORG, 1
+the United Kingdom - ABC News, GPE, 1
+The University of Queensland’s, ORG, 1
+CMO Totally, ORG, 1
+Novavax, Nucleus Network Australian, ORG, 1
+Nucleus Network, PERSON, 1
+Nova, PERSON, 1
+Tony Blakely - Rolling, PERSON, 1
+August 19, DATE, 1
+Six, CARDINAL, 1
+August 19, 2020, DATE, 1
+mRNA-1273, GPE, 1
+US Food and Drug Association, ORG, 1
+the Telethon Kids Institute, ORG, 1
+the Democratic Party, ORG, 1
+fifty-fold, QUANTITY, 1
+Zhong Shanshan, PERSON, 1
+Pfizer-BioTech, PERSON, 1
+Gulf, LOC, 1
+March 2021, DATE, 1
+an extra hour, TIME, 1
+three months, DATE, 1
+the Centers for Diease Control and Prevention, ORG, 1
+the spring or summer of 2021, DATE, 1
+July 21, DATE, 1
+Victoria Latest, GPE, 1
+July 21, 2020, DATE, 1
+Conservative MP Nadhim Zahawi, ORG, 1
+The US FBI, ORG, 1
+more than a decade, DATE, 1
+the day, DATE, 1
+Belgium, GPE, 1
+new year, DATE, 1
+Vladimir Putin’s, PERSON, 1
+Alan Joyce’s, PERSON, 1
+Nationals, ORG, 1
+David Littleproud, PERSON, 1
+Ian Frazer, PERSON, 1
+'day, DATE, 1
+Scott Morrison Trials, PERSON, 1
+the days, DATE, 1
+Last week, DATE, 1
+90 percent, PERCENT, 1
+Sydney Nine, FAC, 1
+Doherty Institute's, ORG, 1
+A day, DATE, 1
+eight-month, DATE, 1
+November 2013, DATE, 1
+century, DATE, 1
+Space Race, WORK_OF_ART, 1
+the coming days, DATE, 1
+94.5pc, CARDINAL, 1
+Angry Anderson's, PERSON, 1
+Crack WHO, ORG, 1
+| SBS News Airlines, ORG, 1
+more than 500, CARDINAL, 1
+Tim Elliott's, PERSON, 1
+Katrina Strickland, PERSON, 1
+FOUR, CARDINAL, 1
+the Commonwealth of Australia, GPE, 1
+seven-day, DATE, 1
+seven trading days, DATE, 1
+Donald Trump’s, PERSON, 1
+Joe Hockey, PERSON, 1
+30s, DATE, 1
+almost a month, DATE, 1
+a few days, DATE, 1
+400,000, MONEY, 1
+the McGowan Government’s, ORG, 1
+Britons, PERSON, 1
+Ramsay, PERSON, 1
+John Deakin-Bell, PERSON, 1
+at least one, CARDINAL, 1
+next financial year, DATE, 1
+Biotechs, GPE, 1
+Swedish, NORP, 1
+Explainer, PERSON, 1
+123, MONEY, 1
+Greg H, PERSON, 1
+Sao Paulo, GPE, 1
+November 1st, DATE, 1
+Jeannette Young, PERSON, 1
+Dan Andrews, PERSON, 1
+5000, MONEY, 1
+the late 1960s, DATE, 1
+Sydney Airport Sydney Airport, FAC, 1
+Geoff Culbert, PERSON, 1
+D614G, ORG, 1
+PfizerBioNtech, ORG, 1
+$132 billion, MONEY, 1
+eight days, DATE, 1
+just eight days, DATE, 1
+more than $900 million, MONEY, 1
+Joseph M Cheers, ORG, 1
+Colin Michael Hall, PERSON, 1
+Jarkko Saarinen, PERSON, 1
+Johnson COVID-19, PERSON, 1
+Moncef Slaoui, PERSON, 1
+as early as December, DATE, 1
+Breakthroughs, ORG, 1
+the Soviet Union's, GPE, 1
+Cold War-era, EVENT, 1
+another 50 million, CARDINAL, 1
+seven or eight, CARDINAL, 1
+The Vaccine Alliance, ORG, 1
+32, CARDINAL, 1
+Melbourne Storm's, PERSON, 1
+Christian Welch Melbourne's, PERSON, 1
+Christian Welch, PERSON, 1
+Storm, PRODUCT, 1
+California, GPE, 1
+Group Aussies, ORG, 1
+1.2pc, CARDINAL, 1
+Enthusiastic, NORP, 1
+mid-March, DATE, 1
+Victoria Formula One, LOC, 1
+Lewis Hamilton, PERSON, 1
+seven days, DATE, 1
+$5.7 billion, MONEY, 1
+as early as, DATE, 1
+50 years, DATE, 1
+28-year-old, DATE, 1
+Fundstrat, PERSON, 1
+Tom Lee, PERSON, 1
+Pfizer BioNTech COVID, ORG, 1
+Andrei Kelin, PERSON, 1
+Malcolm Knox, PERSON, 1
+the UK two days, DATE, 1
+Cruise, ORG, 1
+Summer, PERSON, 1
+Nonagenarians, NORP, 1
+Britons, ORG, 1
+Porton Down, ORG, 1
+Wiltshire, GPE, 1
+Toronto, GPE, 1
+ABC News Billions, ORG, 1
+Novavax, Johnson & Johnson, ORG, 1
+barely a month, DATE, 1
+Brexit D-day, PERSON, 1
+13pc, ORDINAL, 1
+the University of Queensland-CSL, ORG, 1
+2.4b, MONEY, 1
+Declan Murphy, PERSON, 1
+Peter MacCallum Cancer Centre, ORG, 1
+the University of ..., ORG, 1
+85, CARDINAL, 1
+AstraZenenca, ORG, 1
+Ed Husic, PERSON, 1
+95 percent, PERCENT, 1
+Doubt, PERSON, 1
+| SBS News US Democratic, ORG, 1
+Future Fund, ORG, 1
+Raphael Arndt, PERSON, 1
+more than 700,000, CARDINAL, 1
+up to half, CARDINAL, 1
+Sydney Archbishops, GPE, 1
+Archbishops, ORG, 1
+144, MONEY, 1
+5-year, DATE, 1
+2023, DATE, 1
+only half, CARDINAL, 1
+155, CARDINAL, 1
+World Health Assembly, ORG, 1
+a catastrophic year, DATE, 1
+| SBS News Along, ORG, 1
+Almost $330 million, MONEY, 1
+The World Health Organisation's, ORG, 1
+Eli Lilly, ORG, 1
+Eli Lilly's, ORG, 1
+Southeast Asian, NORP, 1
+an additional $500 million, MONEY, 1
+Australia International, ORG, 1
+two million, CARDINAL, 1
+more than 800, CARDINAL, 1
+Michael Mosley, PERSON, 1
+66 million, CARDINAL, 1
+COVID-19, ORG, 1
+$66 million, MONEY, 1
+Seattle, GPE, 1
+Eight, CARDINAL, 1
+The University of Oxford, ORG, 1
+2 billion, MONEY, 1
+as much as 10 per cent, PERCENT, 1
+| SBS News US, ORG, 1
+the Moderna COVID, LOC, 1
+Royal Children's Hospital, ORG, 1
+Nazi, NORP, 1
+15 degrees, QUANTITY, 1
+3500, MONEY, 1
+6956, MONEY, 1
+Congo, GPE, 1
+Jerome Powell, PERSON, 1
+ABC News Passengers, ORG, 1
+Qantas, NORP, 1
+full-year, DATE, 1
+James Massola, PERSON, 1
+America’s Food and Drug Administration, ORG, 1
+Byron Bay, LOC, 1
+84 million, CARDINAL, 1
+More than 84 million, CARDINAL, 1
+Telstra, NORP, 1
+Telstra, ORG, 1
+AstraZeneca Johnson, PERSON, 1
+the United Stat, GPE, 1
+January 2021, DATE, 1
+NSW Vets, ORG, 1
+Nobel Prize, WORK_OF_ART, 1
+early this year, DATE, 1
+the flu season, DATE, 1
+The Victorian Government, ORG, 1
+70 to 80, CARDINAL, 1
+10 to 15, CARDINAL, 1
+the Victorian Government's, ORG, 1
+100b, MONEY, 1
+the Reserve Bank of Australia, ORG, 1
+70, DATE, 1
+six weeks', DATE, 1
+John Bell, PERSON, 1
+several hundred, CARDINAL, 1
+Congress, ORG, 1
+Goodman, ORG, 1
+Western Australia, ORG, 1
+| SBS News World Health Organization (WHO, ORG, 1
+Scientist Soumya Swaminathan, PERSON, 1
+Vladimir Putin Russian, PERSON, 1
+earlier this mon, DATE, 1
+Massive $US100b, MONEY, 1
+Antonio Banderas, PERSON, 1
+60th, ORDINAL, 1
+Trump AstraZeneca, ORG, 1
+Kerry Chant, PERSON, 1
+94, CARDINAL, 1
+Next week's, DATE, 1
+30 per cent, MONEY, 1
+Woman, PERSON, 1
+Lindt, NORP, 1
+Jennifer Duke, PERSON, 1
+UTS, GPE, 1
+John Wardle, PERSON, 1
+the beginning of next week, DATE, 1
+Coronas, ORG, 1
+Hudson, ORG, 1
+Late yesterday, DATE, 1
+Sydney van, PERSON, 1
+the Medicines Health Regulatory Authority, ORG, 1
+Two million, CARDINAL, 1
+CNN, ORG, 1
+13 days, DATE, 1
+Jobseeker, PRODUCT, 1
+up to eight weeks, DATE, 1
+last-minute, TIME, 1
+The European Commission, ORG, 1
+10131, DATE, 1
+45, CARDINAL, 1
+QLD COVID, ORG, 1
+over 2,000, CARDINAL, 1
+at least 2,000, CARDINAL, 1
+Moderna Inc., ORG, 1
+Australia Anti, GPE, 1
+Nursing, PERSON, 1
+billions of dollars, MONEY, 1
+Aussies, PERSON, 1
+Transurban, ORG, 1
+Scott Charlton, PERSON, 1
+111, MONEY, 1
+Earlier this week, DATE, 1
+11:59pm tonight, TIME, 1
+June 9th, DATE, 1
+9-12 month, DATE, 1
+18 to 30, DATE, 1
+ABC News Information, ORG, 1
+David Lipson, PERSON, 1
+Bondi, GPE, 1
+Sydney’s, ORG, 1
+November 1, DATE, 1
+Medical Association, ORG, 1
+Elizabeth II, PERSON, 1
+the Great Depression, EVENT, 1
+Global, ORG, 1
+the next two months, DATE, 1
+Anthony Faucci, PERSON, 1
+only 9000, CARDINAL, 1
+April 1, DATE, 1
+the Institute for Health Metrics and Evaluation, ORG, 1
+Budapest, ORG, 1
+Bolsonaro, PERSON, 1
+as many as 60 million, CARDINAL, 1
+earlier this month, DATE, 1
+next few days, DATE, 1
+January 1, DATE, 1
+Xinja, GPE, 1
+Aussie Home Loans, ORG, 1
+Lendi, PERSON, 1
+the middle of next year, DATE, 1
+Young, PERSON, 1
+Recce, ORG, 1
+Quirks, NORP, 1
+Bentley, ORG, 1
+Ricky Stuart, PERSON, 1
+Joe Tapine, PRODUCT, 1
+Canberra, PERSON, 1
+as high as one, CARDINAL, 1
+Art Kids, GPE, 1
+Inner Worlds, WORK_OF_ART, 1
+God, PERSON, 1
+Araceli Hidalgo, PERSON, 1
+96, DATE, 1
+Powell, PERSON, 1
+More than 60,000, CARDINAL, 1
+KPMG, ORG, 1
+$117 billion, MONEY, 1
+two years, DATE, 1
+The Feed The WHO, WORK_OF_ART, 1
+the Sunday Times, ORG, 1
+Nucleus Network Testing, ORG, 1
+less than a week, DATE, 1
+| SBS News Health, ORG, 1
+12 days, DATE, 1
+almost two weeks, DATE, 1
+120,000, CARDINAL, 1
+about 23 per cent, MONEY, 1
+300 million euro, MONEY, 1
+$A495 million, MONEY, 1
+$13 billion, MONEY, 1
+the Royal Australian College, ORG, 1
+two-week, DATE, 1
+Hunter, PERSON, 1
+Ohio, GPE, 1
+Abbott, GPE, 1
+the Coalition Government's, ORG, 1
+2014, DATE, 1
+$110 million, MONEY, 1
+Fragile, ORG, 1
+up to a decade, DATE, 1
+Ambrose Evans-Pritchard, PERSON, 1
+Seb Coe Athletes, PERSON, 1
+Seb Coe, PERSON, 1
+Pfizer-BioNTech, ORG, 1
+9 months, DATE, 1
+Nikolai Petrovsky, PERSON, 1
+13 years ago, DATE, 1
+ABC News Trials, ORG, 1
+ABC News Queensland, ORG, 1
+two decades, DATE, 1
+Jenna Clarke, PERSON, 1
+São Paulo, GPE, 1
+$12 million, MONEY, 1
+the International Air Transport Association, ORG, 1
+Perth A Perth company, ORG, 1
+ABC News Treasury, ORG, 1
+next March, DATE, 1
+ABC News Leaders, ORG, 1
+Cargo, ORG, 1
+78, DATE, 1
+the Oxford University, ORG, 1
+a thousand, CARDINAL, 1
+10 years, DATE, 1
+Menzies Health Institute’s, ORG, 1
+Nigel McMillan, PERSON, 1
+CSL Biotechnology, ORG, 1
+Scott Morrison’s ‘, PERSON, 1
+$3.7 billion, MONEY, 1
+Tattersall, ORG, 1
+five days, DATE, 1
+1.4 billion, CARDINAL, 1
+94.5, CARDINAL, 1
+Louisiana, GPE, 1
+ABC News Health, ORG, 1
+Brazilian Oxford-AstraZeneca, PERSON, 1
+seventh day, DATE, 1
+a South Australian, NORP, 1
+75th, ORDINAL, 1
+15 years, DATE, 1
+SA's Civil and Administrative Tribunal, ORG, 1
+17, CARDINAL, 1
+the World Health Organisation’s, ORG, 1
+Only half, CARDINAL, 1
+More than two thirds, CARDINAL, 1
+40 per cent, MONEY, 1
+Albanese, NORP, 1
+UK Opposition, ORG, 1
+Kelin, PERSON, 1
+more than 10,000, CARDINAL, 1
+Cronulla Sharks, ORG, 1
+White House, FAC, 1
+ABC Radio Australia, ORG, 1
+December 1, DATE, 1
+Victoria’s, GPE, 1
+84.8 million, CARDINAL, 1
+Nucleus Network Human, ORG, 1
+Great Depression, EVENT, 1
+Tokyo Olympics 2021, EVENT, 1
+three-quarters, DATE, 1
+Japanese, NORP, 1
+ABC News The University of Queensland, WORK_OF_ART, 1
+Gladys Berejiklian, GPE, 1
+election year, DATE, 1
+Strait Island, LOC, 1
+the Players’ Association, ORG, 1
+50 year-old, DATE, 1
+the start of the month, DATE, 1
+more than 700, CARDINAL, 1
+IKEA, ORG, 1
+100 years ago, DATE, 1
+ABC News Alarming, ORG, 1
+1919, DATE, 1
+Europe Germany, GPE, 1
+5.4 million, CARDINAL, 1
+102, CARDINAL, 1
+Hackers, WORK_OF_ART, 1
+the Department of Homeland Security, ORG, 1
+New Zealand's, GPE, 1
+Cabinet, ORG, 1
+NSW, GPE, 1
+10th, ORDINAL, 1
+Nathan Sheets, PERSON, 1
+PGIM, ORG, 1
+Rochelle Crossley, PERSON, 1
+UAE, GPE, 1
+Queensland - ABC News, ORG, 1
+Novak Djokovic, ORG, 1
+88, CARDINAL, 1
+Aboriginal, ORG, 1
+The British Government, ORG, 1
+Parafield, PERSON, 1
+Nathanael Cooper, PERSON, 1
+Christopher Joye, PERSON, 1
+ECB, ORG, 1
+the Bank of England, ORG, 1
+the Gold Coast's, LOC, 1
+February 29, DATE, 1
+the end of this week, DATE, 1
+Joe Tapine, PERSON, 1
+Josh Papalli, PERSON, 1
+Gold Coast Titan Bryce Cartwright, ORG, 1
+The West Australian Gold Coast’s, LOC, 1
+Simon Birmingham, PERSON, 1
+Project Apollo, ORG, 1
+Phil, PERSON, 1
+as many weeks, DATE, 1
+Theranos, ORG, 1
+Vaccine, GPE, 1
+ASX Australian, ORG, 1
+the month of November on Monday, DATE, 1
+16 million, CARDINAL, 1
+L1 Capital, ORG, 1
+Mark Landau, PERSON, 1
+More than 3500, CARDINAL, 1
+the 19th straight day, DATE, 1
+The West Australian Days, GPE, 1
+Pfizer-BioNTech, PERSON, 1
+Moderna Therapeutics, PERSON, 1
+Lisa Jackson, PERSON, 1
+Pfizer Inc, PERSON, 1
+the Financial Times, ORG, 1
+US Surgeon-General, ORG, 1
+Jerome Adams, PERSON, 1
+December 29, DATE, 1
+68,124, CARDINAL, 1
+New York Times, ORG, 1
+late November, DATE, 1
+Balyasny Asset Management, ORG, 1
+Democrats, NORP, 1
+the end of, DATE, 1
+less than 50, CARDINAL, 1
+Numbers, ORG, 1
+The Health Report, WORK_OF_ART, 1
+Pharmacists, NORP, 1
+early this season, DATE, 1
+Germany Berlin, GPE, 1
+Washington, GPE, 1
+Melbourne’s Doherty Institute, ORG, 1
+Alarm, PERSON, 1
+the past week, DATE, 1
+Emmanuel Macron, PERSON, 1
+5.9pc, CARDINAL, 1
+James Hardie, PERSON, 1
+11pc, DATE, 1
+Rio, PERSON, 1
+4.7pc, CARDINAL, 1
+4.2pc, CARDINAL, 1
+AUD, ORG, 1
+Elizabeth, PERSON, 1
+weeks’, DATE, 1
+Laybuy, ORG, 1
+11.6pc, CARDINAL, 1
+RBC, ORG, 1
+PayPal, ORG, 1
+Star Entertainment, ORG, 1
+SeaLink, ORG, 1
+Austal, ORG, 1
+ABC News A, ORG, 1
+at least two, CARDINAL, 1
+the New Year, EVENT, 1
+Janet Yellen, PERSON, 1
+Wealth, GPE, 1
+Perpetual, PERSON, 1
+Barrow-Hanley's, ORG, 1
+Kayleigh McEnany, PERSON, 1
+as many as 40 million, CARDINAL, 1
+Royal Botanic Garden, ORG, 1
+the Royal Botanic Gardens, ORG, 1
+RBA QE, ORG, 1
+Sanofi, FAC, 1
+September 13, 2020, DATE, 1
+$7.7m, MONEY, 1
+above $US2000, MONEY, 1
+over 6 months, DATE, 1
+Harrisburg, GPE, 1
+Democratic, NORP, 1
+Tom Wolf's, PERSON, 1
+LinkedIn, GPE, 1
+WhatsApp, ORG, 1
+March 15, DATE, 1
+Screen, ORG, 1
+March 15, 2020, DATE, 1
+half million, CARDINAL, 1
+AFL The AFL, ORG, 1
+49, CARDINAL, 1
+Sydney’s, FAC, 1
+| SBS News China, ORG, 1
+Israeli, NORP, 1
+2½ years, DATE, 1
+century-old, DATE, 1
+more than 140, CARDINAL, 1
+Boris Johnson’s, PERSON, 1
+the darkest hours, TIME, 1
+Rhode Island, GPE, 1
+New Mexic, GPE, 1
+$17 million, MONEY, 1
+Sinopharm Governments, ORG, 1
+Only 68, CARDINAL, 1
+first half of 2021, DATE, 1
+above $US19,000, MONEY, 1
+0.7pc, PERSON, 1
+January 24, DATE, 1
+up to 400,000, CARDINAL, 1
+Bio Farma, PERSON, 1
+More than 60, CARDINAL, 1
+at least two months, DATE, 1
+$12.5 billion, MONEY, 1
+BoQ Bank, ORG, 1
+George Frazis, PERSON, 1
+94.5 percent, PERCENT, 1
+GFC, ORG, 1
+the second straight day, DATE, 1
+Victoria’s Health and Human Services, ORG, 1
+Kym Peake, PERSON, 1
+The Boxing Day Test, EVENT, 1
+Disease X News, ORG, 1
+more than 94, CARDINAL, 1
+December 21, DATE, 1
+The European Union's, ORG, 1
+37b, MONEY, 1
+a busy week, DATE, 1
+240, CARDINAL, 1
+463, CARDINAL, 1
+recent weeks, DATE, 1
+Damien Purcell, PERSON, 1
+the Doherty Institute, ORG, 1
+Senegal, GPE, 1
+May, June this year, DATE, 1
+589, CARDINAL, 1
+iPad, ORG, 1
+September 11, DATE, 1
+Adrian Esterman, PERSON, 1
+Black Americans, NORP, 1
+‘80, DATE, 1
+Pfizer-BioNTech’s, ORG, 1
+Travellers, PRODUCT, 1
+Dolly Parton, PERSON, 1
+| SBS News Volunteers, ORG, 1
+not months, DATE, 1
+ABC News Scientists, WORK_OF_ART, 1
+Kirsty Short, PERSON, 1
+The West Australian Billions of dollars, GPE, 1
+Trade, ORG, 1
+Graham Turner, PERSON, 1
+June, DATE, 1
+Michael Head, PERSON, 1
+Darwin, PERSON, 1
+about a dozen, CARDINAL, 1
+Oracle, ORG, 1
+ASX, NORP, 1
+Some 84.8 million, CARDINAL, 1
+Convention, ORG, 1
+Adam Taylor, PERSON, 1
+West Aussies, GPE, 1
+Drugmakers GlaxoSmithKline, PERSON, 1
+Sanofi, ORG, 1
+Vicinity, GPE, 1
+Westfield, LOC, 1
+Vicinity, ORG, 1
+less than 24 hours' -, TIME, 1
+more than 292,000, CARDINAL, 1
+COVID-19 Western Australia, ORG, 1
+2000, DATE, 1
+Frontline COVID-19, PRODUCT, 1
+Sandra Lindsay, PERSON, 1
+Long Island Jewish Medical Center, LOC, 1
+Queens, GPE, 1
+Alpacas, NORP, 1
+The Federal Budget, ORG, 1
+the middle of 2021, DATE, 1
+ABC News Vaccine, ORG, 1
+the Australian Government's, ORG, 1
+Herbert Rebhan, PERSON, 1
+Al Kuwait, PERSON, 1
+the Al Kuwait, LOC, 1
+USS Theodore Roosevelt, PRODUCT, 1
+about one, CARDINAL, 1
+Ardern, ORG, 1
+15,000, CARDINAL, 1
+ABC News One of, WORK_OF_ART, 1
+secondly, ORDINAL, 1
+14-day, DATE, 1
+another volatile day, DATE, 1
+Kieran Wong, PERSON, 1
+Serum Institute of India, ORG, 1
+| SBS News A, ORG, 1
+The West Australian Research, ORG, 1
+the “Five Eyes, ORG, 1
+Austra, ORG, 1
+early next year', DATE, 1
+Netherlands, GPE, 1
+2020, CARDINAL, 1
+Joseph Tapine, PERSON, 1
+Can Victoria, PERSON, 1
+the next 10 days, DATE, 1
+Pfizer’s, ORG, 1
+nearly 300,000, CARDINAL, 1
+Australian Pharmaceutical Industries, ORG, 1
+SA’s, ORG, 1
+Royal Adelaide Hospital, ORG, 1
+PNG, ORG, 1
+a few weeks earlier, DATE, 1
+as early as this week, DATE, 1
+Reuters, ORG, 1
+Lunar New Year, EVENT, 1
+pre-Christmas, DATE, 1
+NHS, ORG, 1
+the next month, DATE, 1
+G20, PERSON, 1
+Saudi, NORP, 1
+two-day, DATE, 1
+Saudi Arabia, GPE, 1
+Kannika McClelland, PERSON, 1
+Catholic, NORP, 1
+Catholics, NORP, 1
+the 1970s, DATE, 1
+Nature Medicine, ORG, 1
+2015, DATE, 1
+August 7, DATE, 1
+Scott Morrison National Cabinet, PERSON, 1
+Clive Palmer, PRODUCT, 1
+August 7, 2020, DATE, 1
+the Australian Medical Association, ORG, 1
+a good week, DATE, 1
+Novavax, PERSON, 1
+Coronavirus Australia LIVE, ORG, 1
+15th day, DATE, 1
+the World Health Organization's, ORG, 1
+Gold Coast Suns, ORG, 1
+The West Australian Gold Coast, LOC, 1
+only one-sixth, CARDINAL, 1
+24 hours', TIME, 1

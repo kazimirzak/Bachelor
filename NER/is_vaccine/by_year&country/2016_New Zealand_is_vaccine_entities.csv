@@ -1,0 +1,108 @@
+entity, label, count
+Zika, PERSON, 5
+first, ORDINAL, 4
+MMR, ORG, 3
+HPV, ORG, 3
+Vaccine, PERSON, 3
+Brazil, GPE, 2
+years, DATE, 2
+Gardasil, GPE, 2
+Southern DHB, ORG, 2
+Queenstown, GPE, 2
+today, DATE, 2
+Pharmac, NORP, 2
+2016, DATE, 2
+about 30 percent, PERCENT, 1
+Scoop News Medical, ORG, 1
+GM, ORG, 1
+Auckland, GPE, 1
+three, CARDINAL, 1
+| Scoop News Coalition, ORG, 1
+Farmers, ORG, 1
+Herald Video, ORG, 1
+BBC, ORG, 1
+70s, DATE, 1
+Polly Gillespie, PERSON, 1
+Polly Gillesp, PERSON, 1
+3 to 5 years, DATE, 1
+Zuckerberg, PERSON, 1
+Auckland | Scoop News Medical, ORG, 1
+the University of Auckland, ORG, 1
+the Auckland Medical, ORG, 1
+nine, CARDINAL, 1
+Cambodia, GPE, 1
+October, DATE, 1
+their holidays, DATE, 1
+Helen Petousis-Harris, PERSON, 1
+season, DATE, 1
+this year, DATE, 1
+two months, DATE, 1
+UK, GPE, 1
+276, CARDINAL, 1
+the morning or afternoon, TIME, 1
+one month later, DATE, 1
+Maori, GPE, 1
+Pacific Island Children to Benefit, LOC, 1
+Pacific Island, LOC, 1
+a Starship Paediatric Ear Nose, ORG, 1
+Throat Specialist, PERSON, 1
+yesterday, DATE, 1
+Zika, NORP, 1
+Brazilian, NORP, 1
+New Zealanders, NORP, 1
+GRAPHIC IMAGES, ORG, 1
+February, DATE, 1
+March this year, DATE, 1
+Year 8, DATE, 1
+Kiwis, GPE, 1
+NZ, GPE, 1
+three-year-old, DATE, 1
+Chloe Crump, PERSON, 1
+Tauranga, GPE, 1
+OSA, ORG, 1
+MARTIN, ORG, 1
+National ', ORG, 1
+Maureen Pugh, PERSON, 1
+Scoop News Southern DHB/Public Health South, ORG, 1
+Scoop News PHARMAC, ORG, 1
+100,000, CARDINAL, 1
+PHARMAC, ORG, 1
+Sarah Fitt, PERSON, 1
+Mid North, LOC, 1
+four, CARDINAL, 1
+Northland, GPE, 1
+Northland DHB, ORG, 1
+the Mid North, LOC, 1
+Media Release - University of Auckland - 4, ORG, 1
+Rio, GPE, 1
+New Zealand, GPE, 1
+Scoop News Vaccination, ORG, 1
+Two, CARDINAL, 1
+PCE, ORG, 1
+Scoop News, ORG, 1
+Oct. 18, DATE, 1
+BusinessDesk, ORG, 1
+two, CARDINAL, 1
+Waikato, PERSON, 1
+Midlands Community Pharmacy Group, ORG, 1
+Waikato, LOC, 1
+Ministry of Health, ORG, 1
+Fieldays, GPE, 1
+next month, DATE, 1
+Swee Tan, PERSON, 1
+PHARMAC’s, ORG, 1
+the Bay of Plenty, LOC, 1
+five years, DATE, 1
+Coleman, PERSON, 1
+Jonathan Coleman, PERSON, 1
+Pharmac’s, ORG, 1
+the Human Papillomavirus (HPV, ORG, 1
+an extra $124 million, MONEY, 1
+four years, DATE, 1
+Australian, NORP, 1
+Robert De Niro, PERSON, 1
+Herald Actor, ORG, 1
+March, DATE, 1
+the start of the winter season, DATE, 1
+Kiwi, ORG, 1
+Kiwi, PERSON, 1

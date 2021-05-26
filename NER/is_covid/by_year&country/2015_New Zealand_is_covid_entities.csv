@@ -1,0 +1,68 @@
+entity, label, count
+Paris, GPE, 5
+Brussels, GPE, 4
+Coronation Street, FAC, 4
+the White House, FAC, 3
+Nelson, PERSON, 3
+Belgian, NORP, 2
+third, ORDINAL, 2
+three, CARDINAL, 2
+White House, ORG, 2
+first, ORDINAL, 2
+tonight, TIME, 2
+16, CARDINAL, 2
+Auckland, GPE, 2
+Corrections, ORG, 2
+Herald Brussels, ORG, 1
+a second day, DATE, 1
+Herald News, ORG, 1
+French, NORP, 1
+Lockdown, ORG, 1
+Waitara, PRODUCT, 1
+Waitara, LOC, 1
+several hours, TIME, 1
+Saturday, DATE, 1
+afternoon, TIME, 1
+Great Barrier Island, FAC, 1
+American, NORP, 1
+Thursday, DATE, 1
+Thanksgiving, DATE, 1
+Herald Popular, ORG, 1
+Great Barrier Islanders, ORG, 1
+Great Barrier Island, GPE, 1
+10 years ago, DATE, 1
+Sally Lindsay, PERSON, 1
+Uganda, GPE, 1
+the Netball World Cup, ORG, 1
+Auckland Zoo's, PERSON, 1
+Anjalee, ORG, 1
+New Zealand, GPE, 1
+June, DATE, 1
+600,000, MONEY, 1
+the White House, ORG, 1
+Coro, PERSON, 1
+Herald TV's, ORG, 1
+British, NORP, 1
+Coronation Street, LOC, 1
+Belgium, GPE, 1
+Herald News Belgian, ORG, 1
+today, DATE, 1
+Salah Abdeslam, PERSON, 1
+The Green Party, ORG, 1
+Sam Lotu-Iiga, PERSON, 1
+23 hours, TIME, 1
+Mt Eden Prison, LOC, 1
+more than a year ago, DATE, 1
+Auckland city, GPE, 1
+Herald Video, ORG, 1
+Central Auckland, GPE, 1
+one, CARDINAL, 1
+Myers Park, FAC, 1
+Wainuiomata, ORG, 1
+this afternoon, TIME, 1
+Two, CARDINAL, 1
+Sierra Leone, ORG, 1
+Sierra Leone's, ORG, 1
+23-year-old, DATE, 1
+Tauranga, GPE, 1
+yesterday, DATE, 1

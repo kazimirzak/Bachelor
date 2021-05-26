@@ -1,0 +1,377 @@
+entity, label, count
+Australia, GPE, 26
+first, ORDINAL, 17
+Australian, NORP, 16
+two, CARDINAL, 15
+ABC News, ORG, 15
+Australians, NORP, 13
+Congo, GPE, 13
+this year, DATE, 9
+China, GPE, 9
+CSL, ORG, 9
+season, DATE, 9
+Chinese, NORP, 9
+Sydney, GPE, 7
+one, CARDINAL, 7
+second, ORDINAL, 7
+NSW, ORG, 7
+Indonesia, GPE, 7
+last year, DATE, 7
+Vanuatu, ORG, 6
+Melbourne, GPE, 6
+ABC News, WORK_OF_ART, 6
+Victorian, NORP, 5
+Pakistan, GPE, 5
+Hobart, PERSON, 5
+800,000, CARDINAL, 5
+Mosman, ORG, 5
+Hong Kong, GPE, 5
+last year's, DATE, 5
+The West Australian, LOC, 4
+winter, DATE, 4
+Queensland, GPE, 4
+Victoria, GPE, 4
+US, GPE, 4
+today, DATE, 4
+the coming months, DATE, 4
+year, DATE, 4
+Islamic, NORP, 4
+Russian, NORP, 4
+Vic, ORG, 3
+Tasmanians, NORP, 3
+Greg Hunt, PERSON, 3
+$3.5 million, MONEY, 3
+Tasmania, GPE, 3
+four, CARDINAL, 3
+under five, DATE, 3
+2018, DATE, 3
+60 Minutes, TIME, 3
+Aussie, PERSON, 3
+three, CARDINAL, 3
+Li Keqiang, PERSON, 3
+Canberra, PERSON, 3
+South Australian, NORP, 3
+six, CARDINAL, 2
+July, DATE, 2
+Western Australia, LOC, 2
+next month, DATE, 2
+the Federal Government's, ORG, 2
+World Health Organisation, ORG, 2
+five, CARDINAL, 2
+annual, DATE, 2
+2021, DATE, 2
+Nexvax2, PERSON, 2
+2017, DATE, 2
+1 to 2, CARDINAL, 2
+Bond University, ORG, 2
+Chris Del Mar, PERSON, 2
+Thursday, DATE, 2
+up to, CARDINAL, 2
+Papua New Guinea, GPE, 2
+Vaccine, PERSON, 2
+Swoop Aero, PERSON, 2
+Jack Klemich, PERSON, 2
+New South Wales, LOC, 2
+AMA, ORG, 2
+The Australian Medical Association, ORG, 2
+May, DATE, 2
+Aladdin, ORG, 2
+Terry Rossio, PERSON, 2
+Second, ORDINAL, 2
+Samoa, ORG, 2
+South Australia, LOC, 2
+half-year, DATE, 2
+12, CARDINAL, 2
+the Australian Medical Association, ORG, 2
+Perth, PERSON, 2
+Katherine Gong, PERSON, 2
+The Federal Government, ORG, 2
+$31 million, MONEY, 2
+$53 million, MONEY, 2
+65, DATE, 2
+Victorians, NORP, 2
+one-month-old, DATE, 2
+Three, CARDINAL, 2
+Muslim, NORP, 2
+London, GPE, 2
+Philippines, GPE, 1
+Philippine, NORP, 1
+Victoria, PERSON, 1
+thousands, CARDINAL, 1
+ABC News Tasmania, ORG, 1
+5,000, CARDINAL, 1
+this weekend, DATE, 1
+one month, DATE, 1
+Tuesday, DATE, 1
+Vanuatu, GPE, 1
+ten, CARDINAL, 1
+ABC News Vaccination, ORG, 1
+Baby’s, ORG, 1
+Geraldton, ORG, 1
+Geraldton, PERSON, 1
+Tasmanian, NORP, 1
+| SBS News Vaccinations, ORG, 1
+20, CARDINAL, 1
+ABC News Federal Health, ORG, 1
+a week, DATE, 1
+The Victorian Government, WORK_OF_ART, 1
+Older Queenslanders, PERSON, 1
+Queenslanders, GPE, 1
+36 per cent, MONEY, 1
+the last US winter, DATE, 1
+Tas, PERSON, 1
+under 21, DATE, 1
+Cumulus Inc - ABC, PERSON, 1
+Cumulus Inc, PERSON, 1
+the past three weeks, DATE, 1
+the weekend, DATE, 1
+350, MONEY, 1
+2011, DATE, 1
+Victoria’s, GPE, 1
+three months, DATE, 1
+just weeks, DATE, 1
+Little Violet Duffield, ORG, 1
+only two weeks, DATE, 1
+Killer, PERSON, 1
+Last year's&nbsp;flu season, DATE, 1
+Sarah Hawthorn, PERSON, 1
+SA Government, ORG, 1
+The South Australian Government, ORG, 1
+five-and-under, DATE, 1
+Australian Broadcasting Corporation, ORG, 1
+Last year, DATE, 1
+390 million, CARDINAL, 1
+Pakistani, NORP, 1
+Quetta, GPE, 1
+three-fold, QUANTITY, 1
+Byron Bay, PERSON, 1
+Byron Bay, FAC, 1
+July 1, DATE, 1
+the new financial year, DATE, 1
+Older Tasmanians, PERSON, 1
+ABC News Health, ORG, 1
+the age of 65, DATE, 1
+the NSW Government's, ORG, 1
+Butembo, GPE, 1
+more than 1 million, CARDINAL, 1
+West Australian Vaccination, NORP, 1
+hundreds, CARDINAL, 1
+Sydney, ORG, 1
+Headaches, ORG, 1
+InvoCare, ORG, 1
+Sonic, ORG, 1
+Primary, PERSON, 1
+ASX, NORP, 1
+More than a million, CARDINAL, 1
+30, CARDINAL, 1
+| SBS News Experts, ORG, 1
+Gardasil A, ORG, 1
+500,000, MONEY, 1
+NIP, ORG, 1
+Reds, ORG, 1
+Stormers, ORG, 1
+Push, PERSON, 1
+Malcolm Turnbull, PERSON, 1
+the National Immunisati, ORG, 1
+last year’s, DATE, 1
+65s, DATE, 1
+early winter, DATE, 1
+SA, GPE, 1
+18-year-old, DATE, 1
+nine years ago, DATE, 1
+MMR, ORG, 1
+Democratic Republic of Congo, GPE, 1
+World Health Organisation (WHO, ORG, 1
+between six months and five years, DATE, 1
+New South, LOC, 1
+NSW Health, ORG, 1
+PUSH, ORG, 1
+Caribbean, LOC, 1
+Aussie, GPE, 1
+day, DATE, 1
+Canadian, NORP, 1
+Ken Milne, PERSON, 1
+16-year-olds, DATE, 1
+West Australian, NORP, 1
+Stomach, PERSON, 1
+Flu Shot, PERSON, 1
+LAST year, DATE, 1
+an estimated 29,000, CARDINAL, 1
+VIC, ORG, 1
+Tasmania's Public Health Service, ORG, 1
+the age of 21, DATE, 1
+TWO years ago, DATE, 1
+Rachel Heap, PERSON, 1
+SA, ORG, 1
+31, MONEY, 1
+days later, DATE, 1
+Oren, PERSON, 1
+Britain, GPE, 1
+Qld, PERSON, 1
+Queensland, PERSON, 1
+ABC News Doctors, ORG, 1
+Western Australia's, LOC, 1
+Goldfields, ORG, 1
+Aboriginal, ORG, 1
+the past six months, DATE, 1
+The West Australian Authorities, ORG, 1
+18 and 19 year olds, DATE, 1
+two weeks, DATE, 1
+2028, DATE, 1
+coming decades, DATE, 1
+35%, PERCENT, 1
+34.9 per cent, MONEY, 1
+$US1.09 billion, MONEY, 1
+$A1.53 billion, MONEY, 1
+The Top Reasons People Don't Get the Flu Vaccination, WORK_OF_ART, 1
+Joko Widodo, PERSON, 1
+Rubella-Measles, ORG, 1
+2017 season, DATE, 1
+more than 50, CARDINAL, 1
+Almost 700, CARDINAL, 1
+Central Africa, GPE, 1
+the Democratic Republic of the, GPE, 1
+April 2019, DATE, 1
+2019, DATE, 1
+South Australia&rsquo;s State Government, ORG, 1
+under five years, DATE, 1
+between six months and five years old, DATE, 1
+Changsheng Bio-technology, PERSON, 1
+Pacific, LOC, 1
+Two, CARDINAL, 1
+meningococcal days, DATE, 1
+Yuan, ORG, 1
+Labor, ORG, 1
+1100, CARDINAL, 1
+more than 90, CARDINAL, 1
+65 years or older, DATE, 1
+Five years, DATE, 1
+Paul Perreault, PERSON, 1
+Child’s, ORG, 1
+Last month, DATE, 1
+DR Congo, ORG, 1
+WHO, ORG, 1
+the Republic of Congo, GPE, 1
+Govt, ORG, 1
+More than 250,000, CARDINAL, 1
+millions, CARDINAL, 1
+week-long, DATE, 1
+34-year-old, DATE, 1
+ABC News Equestrian Australia, ORG, 1
+Zoetis, GPE, 1
+ABC News The World Health Organisation, ORG, 1
+about one million, CARDINAL, 1
+ABC News The Centre for Disease Control, WORK_OF_ART, 1
+80, CARDINAL, 1
+under a month, DATE, 1
+Six, CARDINAL, 1
+18, CARDINAL, 1
+New Jersey, GPE, 1
+Federal Government, ORG, 1
+about 1,000, CARDINAL, 1
+29%, PERCENT, 1
+29, CARDINAL, 1
+$US1.73 billion, MONEY, 1
+2030, DATE, 1
+nearly $US9 billion, MONEY, 1
+$12 billion, MONEY, 1
+a year, DATE, 1
+BRISBANE, PERSON, 1
+XXXX, PERSON, 1
+the World Health Organisation (WHO, ORG, 1
+nearly 40 years, DATE, 1
+Sixth, ORDINAL, 1
+66-year-old, DATE, 1
+Donald Bradman, PERSON, 1
+Zoetis - ABC News, PERSON, 1
+more than 1100, CARDINAL, 1
+SA Labor Lives, ORG, 1
+Filipino, NORP, 1
+barely a week, DATE, 1
+54, CARDINAL, 1
+33, CARDINAL, 1
+23, CARDINAL, 1
+Jac Taylor, PERSON, 1
+More than 1.5 million, CARDINAL, 1
+months, DATE, 1
+the Tasmanian Government, ORG, 1
+Rubella, ORG, 1
+The West Australian Federal Health, GPE, 1
+Five-year-old, DATE, 1
+Faris, PERSON, 1
+the United Nations, ORG, 1
+Two-thirds, CARDINAL, 1
+Riley Nixon's, PERSON, 1
+more than 80, CARDINAL, 1
+83 per cent, MONEY, 1
+Gong, GPE, 1
+eight months', DATE, 1
+six months, DATE, 1
+ACT Government, ORG, 1
+One, CARDINAL, 1
+over 100, CARDINAL, 1
+next-day, DATE, 1
+ACT Health, ORG, 1
+9News, CARDINAL, 1
+seasonal, DATE, 1
+Perth, ORG, 1
+NSW Government, ORG, 1
+Aussies, ORG, 1
+up to 10 years Last year, DATE, 1
+1127, DATE, 1
+2017, CARDINAL, 1
+the age of six months, DATE, 1
+five years, DATE, 1
+2017 flu season, DATE, 1
+three-year-old, DATE, 1
+ABC News Lily O'Connell, ORG, 1
+recent years, DATE, 1
+the NSW Government, ORG, 1
+SA - 9News Demand, ORG, 1
+seven, CARDINAL, 1
+last year's ', DATE, 1
+' season, DATE, 1
+1,000, CARDINAL, 1
+more than 1,000, CARDINAL, 1
+Brisbane, PERSON, 1
+AMA West Australians, ORG, 1
+Killer Flu, PERSON, 1
+10 year, DATE, 1
+Hawthorn, PERSON, 1
+two months, DATE, 1
+Federal Budget 2018, ORG, 1
+third, ORDINAL, 1
+Fatwa, ORG, 1
+Indonesian, NORP, 1
+August, DATE, 1
+the Telethon Kids Institute, ORG, 1
+RSV, ORG, 1
+WE’RE, PERSON, 1
+Allen Cheng, PERSON, 1
+Queensland Reds', PERSON, 1
+South Africa, GPE, 1
+Sao Paulo, GPE, 1
+Cape Town, GPE, 1
+15-hour, TIME, 1
+Manly, ORG, 1
+Killara, GPE, 1
+Palm Beach, GPE, 1
+the Telethon Kids Institute’s, ORG, 1
+PNG, ORG, 1
+two decades, DATE, 1
+Fairfax Media, ORG, 1
+Matt Wade, PERSON, 1
+Louise Kennerley, PERSON, 1
+Port Moresby, FAC, 1
+Professor of Public Health, ORG, 1
+2, CARDINAL, 1
+Melbourne A WORLD-FIRST, ORG, 1
+Bikoro, GPE, 1
+National Immunisation Program | SBS News, ORG, 1
+the National Immunisation Program, ORG, 1
+six years, DATE, 1
+ASX, ORG, 1
+Nadsaq, PERSON, 1
+Nabi, PERSON, 1
+Aviragen, PERSON, 1
+15 per cent, MONEY, 1

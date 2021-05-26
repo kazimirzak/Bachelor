@@ -1,0 +1,440 @@
+entity, label, count
+Thailand, GPE, 15
+two, CARDINAL, 15
+Queensland, GPE, 15
+Sydney, GPE, 14
+ABC News, ORG, 10
+US, GPE, 10
+today, DATE, 9
+three, CARDINAL, 9
+NSW, ORG, 9
+Australia, GPE, 8
+NSW Labor, ORG, 7
+Australian, NORP, 7
+Melbourne, GPE, 7
+Saturday, DATE, 6
+Two, CARDINAL, 6
+second, ORDINAL, 6
+Kashmir, LOC, 5
+Thai, NORP, 5
+four, CARDINAL, 5
+Maha Vajiralongkorn, PERSON, 5
+first, ORDINAL, 5
+White House, ORG, 5
+Victorian, NORP, 5
+one, CARDINAL, 4
+100,000, MONEY, 4
+dozens, CARDINAL, 4
+Parkville, GPE, 4
+Malmsbury, ORG, 4
+Columbine, ORG, 4
+2019, DATE, 4
+three-day, DATE, 4
+Gold Coast, LOC, 4
+this afternoon, TIME, 4
+Michael Daley, PERSON, 3
+Scott Morrison, PERSON, 3
+Canberra, PERSON, 3
+Monday, DATE, 3
+thousands, CARDINAL, 3
+Johnson, PERSON, 3
+India, GPE, 3
+Columbine High School, ORG, 3
+Denver, GPE, 3
+Melbourne Zoo, PERSON, 3
+afternoon, TIME, 3
+Caribbean, LOC, 3
+Donald Trump, PERSON, 3
+Southern Cross University, ORG, 3
+Florida, GPE, 3
+Corona, GPE, 3
+Japanese, NORP, 3
+St Kilda, PERSON, 3
+African, NORP, 3
+17, CARDINAL, 2
+South Australia, LOC, 2
+13, CARDINAL, 2
+Perth, PERSON, 2
+Jakarta, GPE, 2
+three days, DATE, 2
+William Yang, PERSON, 2
+James Bond, PERSON, 2
+six, CARDINAL, 2
+| SBS News Thailand's, ORG, 2
+69 years, DATE, 2
+150, CARDINAL, 2
+Wednesday, DATE, 2
+Lockhart River, LOC, 2
+Boris Johnson, PERSON, 2
+two weeks, DATE, 2
+Brisbane Airport, FAC, 2
+Grand Palace, FAC, 2
+third, ORDINAL, 2
+Australians, NORP, 2
+John Prine, PERSON, 2
+Tuesday, DATE, 2
+Colorado, GPE, 2
+FBI, ORG, 2
+Friday, DATE, 2
+The White House, ORG, 2
+British, NORP, 2
+Four, CARDINAL, 2
+New South Wales, LOC, 2
+America, GPE, 2
+Lockdown, ORG, 2
+Thailand’s King Maha Vajiralongkorn, ORG, 2
+Qld, PERSON, 2
+the United States, GPE, 2
+Los Angeles, GPE, 2
+Christmas, DATE, 2
+600,000, MONEY, 2
+Americans, NORP, 2
+China, GPE, 2
+Three, CARDINAL, 2
+the White House, ORG, 2
+morning, TIME, 2
+23rd, DATE, 2
+1, CARDINAL, 2
+Netflix, GPE, 2
+Hollywood, GPE, 2
+Crown, ORG, 2
+Brisbane's Coronation Drive, ORG, 2
+Perth, ORG, 2
+night, TIME, 2
+AK-47, PRODUCT, 2
+The West Australian, LOC, 2
+Britain, GPE, 2
+Malmsbury Youth Justice Centre, ORG, 2
+this morning, TIME, 2
+three-year-old, DATE, 2
+Sol Pais, PERSON, 2
+Toyota, ORG, 2
+Venezuela, GPE, 2
+Kelmscott, GPE, 2
+2015, DATE, 2
+yesterday, DATE, 2
+Chris Hemsworth, PERSON, 2
+Matthew Wing, PERSON, 2
+Geraldton, GPE, 2
+66, MONEY, 2
+Melbourne Zoo's, ORG, 2
+at least 2300, CARDINAL, 1
+anti-India, GPE, 1
+this year, DATE, 1
+Clark the Clown, ORG, 1
+Justin Hemmes, ORG, 1
+Joel Cheeseman, PERSON, 1
+ICAC, PERSON, 1
+Perth street, LOC, 1
+Indonesia, GPE, 1
+Joko Widodo’s, PERSON, 1
+one hour, TIME, 1
+Canberra, GPE, 1
+23-hour-a-day, TIME, 1
+ACT, ORG, 1
+Vajiralongkorn, PERSON, 1
+News World USA:, ORG, 1
+University of North Carolina Charlotte, ORG, 1
+The University of North Carolina’s, ORG, 1
+Charlotte, GPE, 1
+Brisbane Airport Lockdown, FAC, 1
+International Terminal, ORG, 1
+Brisbane Airport’s, FAC, 1
+overnight, TIME, 1
+four decades, DATE, 1
+the early days, DATE, 1
+Qld city, GPE, 1
+10 hours - 9News Police, TIME, 1
+Deh Linh Ho, PERSON, 1
+two hours, TIME, 1
+St Helena Secondary College, PERSON, 1
+Eltham, PERSON, 1
+Six, CARDINAL, 1
+the Capricornia Correctional Centre, ORG, 1
+Rockhampton Hospital, ORG, 1
+centuries-old, DATE, 1
+Bali, GPE, 1
+Bali, PERSON, 1
+hours, TIME, 1
+Seige, PERSON, 1
+Eltham North, PERSON, 1
+A Virgin Atlantic, WORK_OF_ART, 1
+Gatwick Airport, FAC, 1
+Cyclone Trevor, PERSON, 1
+this week, DATE, 1
+Alan Duncan, PERSON, 1
+Jammu, GPE, 1
+summer, DATE, 1
+Srinagar, GPE, 1
+Brisbane Airport's, FAC, 1
+North Queensland, GPE, 1
+Cyclone Trevor, ORG, 1
+| SBS News Cyclone Trevor, ORG, 1
+the Lockhart River, LOC, 1
+FIFO, ORG, 1
+Fortescue Metals Group, ORG, 1
+the University of Sydney, ORG, 1
+The Church of Scientology, ORG, 1
+final day, DATE, 1
+Tonight, TIME, 1
+SBS World News, ORG, 1
+Sam Stone, PERSON, 1
+Sam Phillips, PERSON, 1
+Nashville, GPE, 1
+73, DATE, 1
+Last year, DATE, 1
+AFR, ORG, 1
+Fitzgerald State School, ORG, 1
+about a dozen, CARDINAL, 1
+Orangutan, PERSON, 1
+Love Island, ORG, 1
+Eoghan Murphy, PERSON, 1
+Washington DC, GPE, 1
+Secret, PERSON, 1
+Church of Scientology, ORG, 1
+the Church of Scientology, ORG, 1
+UK, GPE, 1
+Capricornia Correctional Centre, ORG, 1
+UN, ORG, 1
+Nepean Hospital, ORG, 1
+ABC News Fake, ORG, 1
+American, NORP, 1
+25, CARDINAL, 1
+Workcover, GPE, 1
+Hannah, PERSON, 1
+A Church of Scientology, ORG, 1
+ABC News Seizures, ORG, 1
+more than 5,000kg, QUANTITY, 1
+2017, DATE, 1
+Townsville, GPE, 1
+25-year, DATE, 1
+more than 1000, CARDINAL, 1
+Qld, GPE, 1
+9News, CARDINAL, 1
+Christmas Day, DATE, 1
+Casey, PERSON, 1
+Sam Aziz, PERSON, 1
+week, DATE, 1
+John Woodman, PERSON, 1
+Byron Bay school A, FAC, 1
+Byron Bay, LOC, 1
+Lebanon, GPE, 1
+billion-dollar, MONEY, 1
+ABC News Quarantine, ORG, 1
+$8 billion, MONEY, 1
+Eastern Hills, ORG, 1
+The West Australian Police, GPE, 1
+Sawyers Valley, LOC, 1
+West Australians, NORP, 1
+New Thai, NORP, 1
+third day, DATE, 1
+almost 1,000, CARDINAL, 1
+Donald Trump’s, PERSON, 1
+the Middle Kingdom’s, LOC, 1
+Vic, ORG, 1
+Mansfield Park, LOC, 1
+millions, CARDINAL, 1
+Up to 80 million, CARDINAL, 1
+Spanish, NORP, 1
+Hindmarsh Streets, ORG, 1
+Adelaide, LOC, 1
+Hakeem al-Araibi's, PERSON, 1
+Bahrain, GPE, 1
+Hakeem al-Araibi, PERSON, 1
+Queen days, DATE, 1
+about three years, DATE, 1
+Asia, LOC, 1
+Hong Kong, GPE, 1
+7kg, QUANTITY, 1
+more than a decade, DATE, 1
+less than two months ago, DATE, 1
+$31 million, MONEY, 1
+almost 70 years, DATE, 1
+Scott Morrison’s, PERSON, 1
+Bill Shorten, PERSON, 1
+Bill, PERSON, 1
+seven, CARDINAL, 1
+years, DATE, 1
+nearly seven decades, DATE, 1
+Parent, GPE, 1
+Byron Bay Public School - ABC News, ORG, 1
+Byron Bay Public School, ORG, 1
+NSW Police, ORG, 1
+three-hour, TIME, 1
+Bunbury, ORG, 1
+South West, LOC, 1
+Winx, PERSON, 1
+Winx’s, ORG, 1
+Happy Clapper, PERSON, 1
+Federal Budget, ORG, 1
+Melbourne&#39;s east, LOC, 1
+Brisbane, PERSON, 1
+Netflix Hollywood, ORG, 1
+3, CARDINAL, 1
+Perth, GPE, 1
+NRL, ORG, 1
+Manly Sea Eagles, ORG, 1
+Daly Cherry-Evans, PERSON, 1
+South Sydney Rabbitohs, LOC, 1
+Manly, ORG, 1
+South Sydney, GPE, 1
+AFL, ORG, 1
+at least one, CARDINAL, 1
+Welcome to Relationship Rehab, WORK_OF_ART, 1
+news.com.au, DATE, 1
+weekly, DATE, 1
+This week, DATE, 1
+Isiah McKimmie, PERSON, 1
+London, GPE, 1
+Heathrow Airport, FAC, 1
+just three weeks, DATE, 1
+Gatwick, GPE, 1
+Federal Election, ORG, 1
+ICAC, ORG, 1
+50-year-old, DATE, 1
+the Brisbane International Airport, FAC, 1
+Alleged, ORG, 1
+Paul Whyte’s, PERSON, 1
+Department of Communities, ORG, 1
+the Department of Communities, ORG, 1
+Paul Whyte, PERSON, 1
+Godolphin, GPE, 1
+Godolphin’s, ORG, 1
+1100, DATE, 1
+Kensington, PERSON, 1
+an afternoon, TIME, 1
+James Cummings', PERSON, 1
+20th, ORDINAL, 1
+18, DATE, 1
+The West Australian Wikipedia, GPE, 1
+between 1957 and 2002, DATE, 1
+ABC News Visitors, ORG, 1
+Barbados, GPE, 1
+a day, DATE, 1
+Peru, GPE, 1
+Venezuelan, NORP, 1
+Apple, ORG, 1
+Android, ORG, 1
+US Netflix, ORG, 1
+Netflix, ORG, 1
+| SBS News, ORG, 1
+Mongolian, NORP, 1
+days, DATE, 1
+Curacao Scientology, ORG, 1
+Freewinds, ORG, 1
+Curacao, GPE, 1
+Russian, NORP, 1
+More than 50, CARDINAL, 1
+Russia, GPE, 1
+Conservative Party, ORG, 1
+Borallon Correctional Centre, ORG, 1
+Rama X, PERSON, 1
+7-kilometre, QUANTITY, 1
+the second day, DATE, 1
+St Lucia, PERSON, 1
+the early hours, TIME, 1
+Sunday, DATE, 1
+Victoria, GPE, 1
+as many days, DATE, 1
+tonight, TIME, 1
+The_Donald, ORG, 1
+roughly 750,000, CARDINAL, 1
+45th, ORDINAL, 1
+Donald J. Trump, PERSON, 1
+Lynwood Senior High School, ORG, 1
+Nigerian, NORP, 1
+Shi'ite, NORP, 1
+| SBS News Nigeria's, ORG, 1
+National Assembly, ORG, 1
+Shi'ite Muslim, NORP, 1
+Thai King’s, ORG, 1
+300, CARDINAL, 1
+More than 300 hundred, CARDINAL, 1
+Bangkok, GPE, 1
+Mong, GPE, 1
+Eltham, ORG, 1
+ABC News Police, ORG, 1
+10 hours, TIME, 1
+more than 10 hours, TIME, 1
+season 2019, DATE, 1
+22, CARDINAL, 1
+1950, DATE, 1
+Greg Martin, PERSON, 1
+Martin, ORG, 1
+Coronado Global Resources, ORG, 1
+ASX, ORG, 1
+At least four, CARDINAL, 1
+Millennium Drought, PERSON, 1
+Sydney News, ORG, 1
+Elsa Pataky, PERSON, 1
+Byron Bay school, FAC, 1
+Gemma Tognini, PERSON, 1
+Auckland, GPE, 1
+West Auckland, GPE, 1
+80 million, CARDINAL, 1
+15-year-old, DATE, 1
+SCG, ORG, 1
+day two, DATE, 1
+Melbourne Zoo, ORG, 1
+four years, DATE, 1
+48, DATE, 1
+Coronation Beach, GPE, 1
+| SBS News Security, ORG, 1
+Muslims, NORP, 1
+Manly Vale Sydney, PERSON, 1
+Boris, PERSON, 1
+Brexit, PERSON, 1
+Tasmanian, NORP, 1
+ABC News Inmate, ORG, 1
+Tasmania, GPE, 1
+Pearl Harbour, PERSON, 1
+Hawaii, GPE, 1
+Hundreds of thousands, CARDINAL, 1
+fewer than six hours, TIME, 1
+Wellington St, GPE, 1
+800, CARDINAL, 1
+Wollongong, GPE, 1
+hours this morning, TIME, 1
+Hotels, ORG, 1
+Brunei Sultan, PERSON, 1
+anti-LGBT, NORP, 1
+Brunei, GPE, 1
+Sharia Law, WORK_OF_ART, 1
+Labor, ORG, 1
+only an hour's, TIME, 1
+Five, CARDINAL, 1
+Lys Gracieux, ORG, 1
+Lys Gracieux, PERSON, 1
+the Cox Plate - and, LAW, 1
+$2 million, MONEY, 1
+Kiara, GPE, 1
+West Australian, NORP, 1
+Kiara, PERSON, 1
+A St Kilda, WORK_OF_ART, 1
+half an hour, TIME, 1
+this Christmas, DATE, 1
+Malu, PERSON, 1
+Just days, DATE, 1
+James Maasdorp -, PERSON, 1
+Australian Broadcasting Corporation, ORG, 1
+James Maasdorp, PERSON, 1
+ABC News Online, ORG, 1
+2008, DATE, 1
+South Africa, GPE, 1
+2003, DATE, 1
+Bachelor of Journalism and Bachelor of Arts, ORG, 1
+The University of Queensland, ORG, 1
+James, PERSON, 1
+A-League, ORG, 1
+Formula One, ORG, 1
+Bathurst, GPE, 1
+Grandstand, GPE, 1
+McLaughlin, PERSON, 1
+41, CARDINAL, 1
+Scott McLaughlin’s, ORG, 1
+Ford, ORG, 1
+Mustang, PERSON, 1
+this Saturday, DATE, 1
+Prison, LOC, 1
+earlier this week, DATE, 1
+dozen, CARDINAL, 1

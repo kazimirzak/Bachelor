@@ -1,0 +1,212 @@
+entity, label, count
+first, ORDINAL, 16
+HPV, ORG, 6
+one, CARDINAL, 5
+ITV News, ORG, 5
+England, GPE, 4
+100%, PERCENT, 4
+today, DATE, 4
+Africa, LOC, 4
+UK, GPE, 4
+winter, DATE, 3
+Wales, GPE, 3
+Guinea, GPE, 3
+GlaxoSmithKline, PERSON, 3
+US, GPE, 3
+Pauline Cafferkey, PERSON, 3
+London, GPE, 3
+seven, CARDINAL, 3
+World, ORG, 3
+West Africa, GPE, 3
+Vaccines, ORG, 2
+Somerset, GPE, 2
+Dorset, PERSON, 2
+100 per cent, MONEY, 2
+Donald Trump, PERSON, 2
+BBC News, ORG, 2
+Malaria, GPE, 2
+May 1, DATE, 2
+Mumbai, GPE, 2
+58, CARDINAL, 2
+second, ORDINAL, 2
+the European Medicines Agency, ORG, 2
+thousands, CARDINAL, 2
+California, GPE, 2
+Britain, GPE, 2
+Oxford, ORG, 2
+Australian, NORP, 2
+Science &, ORG, 2
+Bosnia, GPE, 2
+more than 11,000, CARDINAL, 2
+weeks, DATE, 1
+| Music | Going Out, ORG, 1
+21st-century, DATE, 1
+English Graffiti, PERSON, 1
+Alexandra Palace, PERSON, 1
+O2, FAC, 1
+last night, TIME, 1
+the first of this week’s, DATE, 1
+three, CARDINAL, 1
+Brixton Academy, ORG, 1
+2011, DATE, 1
+a year, DATE, 1
+the Office for National Statistics, ORG, 1
+43,900, CARDINAL, 1
+2014/15, CARDINAL, 1
+151 per cent, MONEY, 1
+the previous year, DATE, 1
+Health News - Health & Families -, ORG, 1
+more than one, CARDINAL, 1
+Liz Truss, PERSON, 1
+Gloucestershire, GPE, 1
+Gloucestershire, PERSON, 1
+Thursday, DATE, 1
+Health News - Health & Families - The Independent, ORG, 1
+the World Health Organization (WHO, ORG, 1
+31 July, DATE, 1
+millions, CARDINAL, 1
+Microsoft, ORG, 1
+Bill Gates, PERSON, 1
+World Health Organisation, ORG, 1
+Mark Dybul, PERSON, 1
+Mosquirix, PERSON, 1
+Ohio State University, ORG, 1
+Central Africa, GPE, 1
+Outbreaks of Ebola, ORG, 1
+90%, PERCENT, 1
+38, DATE, 1
+BBC News Leading, ORG, 1
+More than 7,500, CARDINAL, 1
+Public Health England, ORG, 1
+Guardian International, ORG, 1
+Scotland, GPE, 1
+yesterday, DATE, 1
+Daily Mail Online, ORG, 1
+2008, DATE, 1
+500, CARDINAL, 1
+17-month, DATE, 1
+Tuesday, DATE, 1
+NHS, ORG, 1
+18 to, CARDINAL, 1
+65-year-olds, DATE, 1
+November, DATE, 1
+12, CARDINAL, 1
+$113m, MONEY, 1
+U.S., GPE, 1
+around $113million dollars, MONEY, 1
+Herpes, NORP, 1
+two-thirds, CARDINAL, 1
+under 50, DATE, 1
+WHO, ORG, 1
+| World Health Organization, ORG, 1
+1, CARDINAL, 1
+more than 3.7bn, CARDINAL, 1
+2016, DATE, 1
+93,000, CARDINAL, 1
+this year, DATE, 1
+season, DATE, 1
+British, NORP, 1
+39-year-old, DATE, 1
+African, NORP, 1
+World’s, ORG, 1
+a few years, DATE, 1
+daily, DATE, 1
+Brits, NORP, 1
+jab - Mirror Online Family, ORG, 1
+this winter, DATE, 1
+Brigitte Bardot, PERSON, 1
+Francois Hollande, PERSON, 1
+Alpine, ORG, 1
+Richard Pan, PERSON, 1
+tens of thousands, CARDINAL, 1
+London Life, ORG, 1
+Amy Tan, PERSON, 1
+four years, DATE, 1
+three months, DATE, 1
+60, CARDINAL, 1
+nearly 60, CARDINAL, 1
+October, DATE, 1
+the Grand Challenge, ORG, 1
+100, MONEY, 1
+the next two months, DATE, 1
+Grand Challenge, ORG, 1
+Just over half, CARDINAL, 1
+annual, DATE, 1
+Tech - The Independent Scientists, ORG, 1
+400, MONEY, 1
+Sarah Montrose, PERSON, 1
+34, DATE, 1
+six-month-old, DATE, 1
+Alex, PERSON, 1
+a month early, DATE, 1
+the University of Mexico, ORG, 1
+750, MONEY, 1
+Daily Mail, ORG, 1
+recent years, DATE, 1
+ITV News Millions, ORG, 1
+European, NORP, 1
+Thousands, CARDINAL, 1
+Daily Star, WORK_OF_ART, 1
+Kenyan, NORP, 1
+seventh, ORDINAL, 1
+Robert Gallo, PERSON, 1
+T-Cells, ORG, 1
+At least 80, CARDINAL, 1
+Brunswick North West Primary School, ORG, 1
+The Scripps Research Institute, ORG, 1
+Childhood, ORG, 1
+Indie, ORG, 1
+Brixton, GPE, 1
+pub - London - News - London Evening, PERSON, 1
+11-year-old, DATE, 1
+Rottweiler, PERSON, 1
+Brixton, ORG, 1
+Israeli, NORP, 1
+Dechra, ORG, 1
+Veterinary, PERSON, 1
+51.4, MONEY, 1
+Croatia, GPE, 1
+Genera, ORG, 1
+one million, CARDINAL, 1
+every year, DATE, 1
+Pfizer, PERSON, 1
+Statins, ORG, 1
+Isabella, PERSON, 1
+more than 8,000, CARDINAL, 1
+30 years, DATE, 1
+The European Medicines Agency, ORG, 1
+next few years, DATE, 1
+Hyde, PERSON, 1
+ITV, ORG, 1
+Downton Abbey, ORG, 1
+Sri Lankan, NORP, 1
+Vaccine, PERSON, 1
+8.50, MONEY, 1
+GSK, ORG, 1
+Catherine Ostler, PERSON, 1
+Catherine Ostler's, PERSON, 1
+12-year-old, DATE, 1
+Catherine, PERSON, 1
+New York Blood Center, ORG, 1
+Liberian, NORP, 1
+the New York Blood Centre, ORG, 1
+Liberia, GPE, 1
+ASK, ORG, 1
+DR ELLIE CANNON, ORG, 1
+The Black Death, ORG, 1
+Americans, NORP, 1
+VSV-EBOV, ORG, 1
+VSV-EBOLV, ORG, 1
+5 years', DATE, 1
+16, MONEY, 1
+Imperial College, ORG, 1
+Liam Taylor, PERSON, 1
+Aneurin Bevan Health Board, ORG, 1
+MenACWY, LOC, 1
+the Research Institute, ORG, 1
+Two, CARDINAL, 1
+Guardian Rapid, ORG, 1
+winter deaths last year, DATE, 1
+almost 44,000, CARDINAL, 1
+75.ITV, CARDINAL, 1
+Martha Fairlie, PERSON, 1

@@ -1,0 +1,20 @@
+entity, label, count
+Paris, GPE, 6
+Brussels, GPE, 3
+Belgian, NORP, 3
+last week, DATE, 2
+Saint-Denis, ORG, 2
+four-day, DATE, 2
+Belgia, GPE, 2
+Saturday, DATE, 1
+Belgians, NORP, 1
+BrusselsLockdown, ORG, 1
+Sunday, DATE, 1
+Guy Verhofstadt, ORG, 1
+This week, DATE, 1
+Lockdown, GPE, 1
+INTERNATIONAL PAPERS, EVENT, 1
+Monday 23.11.2015, DATE, 1
+the third day, DATE, 1
+1, CARDINAL, 1
+2, CARDINAL, 1

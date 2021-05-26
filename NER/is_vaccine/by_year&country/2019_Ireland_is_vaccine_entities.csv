@@ -1,0 +1,337 @@
+entity, label, count
+HPV, ORG, 84
+Laura Brennan, PERSON, 35
+Ireland, GPE, 31
+Laura, PERSON, 16
+MMR, ORG, 15
+first, ORDINAL, 13
+Irish, NORP, 12
+three, CARDINAL, 10
+26, CARDINAL, 10
+Pandemrix, ORG, 10
+Simon Harris, PERSON, 9
+HSE, ORG, 9
+today, DATE, 9
+26-year-old, DATE, 8
+200, CARDINAL, 8
+TheJournal.ie - Breaking Irish and International News, WORK_OF_ART, 8
+thousands, CARDINAL, 7
+Vaccine, PERSON, 7
+Dundalk, GPE, 7
+yesterday, DATE, 6
+26, DATE, 6
+two, CARDINAL, 6
+Laura Brennan's, PERSON, 6
+State, ORG, 5
+GSK, ORG, 5
+Aoife Bennett, ORG, 5
+UK, GPE, 5
+Chinese, NORP, 5
+Harris, PERSON, 5
+September, DATE, 4
+this year, DATE, 4
+the next five years, DATE, 4
+The Irish Sun, ORG, 4
+US, GPE, 4
+one, CARDINAL, 4
+High Court, ORG, 4
+World Health Organisation, ORG, 3
+Vicky Phelan, PERSON, 3
+70%, PERCENT, 3
+The Irish Times, ORG, 3
+New York, GPE, 3
+Ryan Tubridy, PERSON, 3
+the High Court, ORG, 3
+European, NORP, 3
+Brexit, PERSON, 3
+2019, DATE, 3
+Ennis Cathedral, ORG, 2
+more than 300,000, CARDINAL, 2
+First, ORDINAL, 2
+Medical Council, ORG, 2
+last year, DATE, 2
+Sweden, GPE, 2
+ThankYouLaura, MONEY, 2
+GlaxoSmithKline, PERSON, 2
+Laura Brennan - Independent.ie, PERSON, 2
+first year, DATE, 2
+280, MONEY, 2
+Thousands, CARDINAL, 2
+each year, DATE, 2
+WuXi Vaccines, ORG, 2
+Twitter, PRODUCT, 2
+decades, DATE, 2
+Shanelle Cartwright, PERSON, 2
+Australian, NORP, 2
+2021, DATE, 2
+Tubridy, PERSON, 2
+Kevin Kelleher, PERSON, 2
+2020, DATE, 2
+Two, CARDINAL, 2
+14-year-old, DATE, 2
+next month, DATE, 2
+Kennedy, PERSON, 2
+ten years ago, DATE, 2
+James Brady, PERSON, 2
+Friday, DATE, 2
+four, CARDINAL, 2
+Explainer, PERSON, 2
+March 2019, DATE, 2
+The New York Times, ORG, 2
+five years, DATE, 2
+the Irish Mirror's, ORG, 2
+Britain, GPE, 2
+Laura Brennan’s, PERSON, 2
+Meningitis, NORP, 2
+the World Health Organisation, ORG, 2
+Brooklyn, GPE, 2
+Santa, GPE, 2
+nine months, DATE, 2
+Narcolepsy, PERSON, 2
+March, DATE, 2
+Japan, GPE, 2
+anti-EU, GPE, 2
+Miriam Stoppard, PERSON, 2
+80 million, CARDINAL, 2
+almost £7,000, MONEY, 1
+6,885, MONEY, 1
+up to three, CARDINAL, 1
+The Jenner Institute, ORG, 1
+Clare Laura Brennan, PERSON, 1
+this afternoon, TIME, 1
+Earlier this week, DATE, 1
+204%, PERCENT, 1
+A Fine Gael TD, WORK_OF_ART, 1
+hundreds, CARDINAL, 1
+Hundreds, CARDINAL, 1
+INSTAGRAM, ORG, 1
+Ciara Kelly, PERSON, 1
+The Medical Council, ORG, 1
+Family, ORG, 1
+7, CARDINAL, 1
+Harris, ORG, 1
+AG’s, ORG, 1
+Yesterday, DATE, 1
+Taoiseach, ORG, 1
+120, MONEY, 1
+2009, DATE, 1
+Facebook, PERSON, 1
+Google, ORG, 1
+TWITTER, PRODUCT, 1
+tonight, TIME, 1
+Ennis, Co Clare, ORG, 1
+Wha, PERSON, 1
+13th-month, DATE, 1
+2000, DATE, 1
+GSK Glaxo - and thousands, ORG, 1
+Munster, PERSON, 1
+second-quarter, DATE, 1
+the first year, DATE, 1
+Northern Ireland, GPE, 1
+12, CARDINAL, 1
+13-year-olds, DATE, 1
+Septem, ORG, 1
+September of this year, DATE, 1
+Some 1.5, CARDINAL, 1
+Radhika Batra, PERSON, 1
+the HSE Health, ORG, 1
+Pat Fitzpatrick, PERSON, 1
+Kit Yates, PERSON, 1
+World Cancer Day, EVENT, 1
+Stephen Teap, PERSON, 1
+five, CARDINAL, 1
+more than 3,100, CARDINAL, 1
+Cyclone Idai, LOC, 1
+13-year-old, DATE, 1
+last Friday, DATE, 1
+217, MONEY, 1
+Levi Dale, PERSON, 1
+Bryce Cartwright, PERSON, 1
+winter 2019, DATE, 1
+HSE Ireland, GPE, 1
+The Irish Sun, WORK_OF_ART, 1
+Laura BrennanLaura Brennan, PERSON, 1
+second, ORDINAL, 1
+March 20th, DATE, 1
+early December 2016, DATE, 1
+the 15th June 2017, DATE, 1
+just three months later, DATE, 1
+5%, PERCENT, 1
+51%, PERCENT, 1
+70%.“Don’t, CARDINAL, 1
+Democratic Republic of the, GPE, 1
+Congo, GPE, 1
+More than 2,700, CARDINAL, 1
+Aoife Bennett, PERSON, 1
+early this year, DATE, 1
+season, DATE, 1
+two months early this year, DATE, 1
+Support, ORG, 1
+RYAN Tubridy, PERSON, 1
+Taliban, ORG, 1
+Afghanistan, GPE, 1
+Pakistan, GPE, 1
+Vaccine Myths, PERSON, 1
+91%, PERCENT, 1
+Andrew Wakefield’s, PERSON, 1
+MENINGITIS, ORG, 1
+Zero, CARDINAL, 1
+HPV Gender-neutral, ORG, 1
+’ fall, DATE, 1
+Vaccine Rates, PERSON, 1
+TWO, CARDINAL, 1
+Young Clare, ORG, 1
+seven, CARDINAL, 1
+90,000, CARDINAL, 1
+Robert F Kennedy Jr, PERSON, 1
+Simon, PERSON, 1
+nearly €1bn - Independent.ie The Aquafresh and, MONEY, 1
+Panadol, NORP, 1
+up to €955m, MONEY, 1
+Vicky Phelan Tributes, PERSON, 1
+Half, CARDINAL, 1
+all first year, DATE, 1
+Today, DATE, 1
+Irishman, NORP, 1
+Spain, GPE, 1
+Hvivo, ORG, 1
+$1bn-, MONEY, 1
+72%, PERCENT, 1
+Jessica Biel, PERSON, 1
+California, GPE, 1
+SIMON HARRIS, PERSON, 1
+every year, DATE, 1
+27, DATE, 1
+Eleven, CARDINAL, 1
+the flu season, DATE, 1
+as little as €20, MONEY, 1
+earlier this year, DATE, 1
+David Robert Grimes, PERSON, 1
+years, DATE, 1
+32, CARDINAL, 1
+Four years ago, DATE, 1
+Sarah Murray, PERSON, 1
+12-month, DATE, 1
+216, MONEY, 1
+Gates, NORP, 1
+Dr Seuss, FAC, 1
+Pat Malone, PERSON, 1
+Clare, ORG, 1
+6, DATE, 1
+FURIOUS, ORG, 1
+Kayla Amerson, PERSON, 1
+CervicalCheck, ORG, 1
+Swine Flu, PERSON, 1
+Aoife Bennett’s, ORG, 1
+twenty one days, DATE, 1
+Labour Party's, ORG, 1
+Alan Kelly, PERSON, 1
+the Labour Party’s, ORG, 1
+half, CARDINAL, 1
+Blackrock, ORG, 1
+Trinity, ORG, 1
+World’s, ORG, 1
+Orthodox, NORP, 1
+Jewish, NORP, 1
+New York City, GPE, 1
+TDs, ORG, 1
+Vaccination - News, ORG, 1
+night, TIME, 1
+Late Late Show, WORK_OF_ART, 1
+Laura Brennan Brennan, PERSON, 1
+the age of 24, DATE, 1
+’ - Harris Potential, ORG, 1
+ten, CARDINAL, 1
+Bette Browne, PERSON, 1
+at least three, CARDINAL, 1
+Hong Kong, GPE, 1
+China, GPE, 1
+Singapore, GPE, 1
+WuXi Vaccines –, PERSON, 1
+WuXi Vaccines, PERSON, 1
+€200 million, MONEY, 1
+NHS, ORG, 1
+Robert F Kennedy, PERSON, 1
+two weeks, DATE, 1
+LAURA Brennan’s, PERSON, 1
+Multi, GPE, 1
+The Irish Sun VACCINES, WORK_OF_ART, 1
+Evening, TIME, 1
+weekend, DATE, 1
+The Irish Sun A VACCINE, ORG, 1
+Rese, PERSON, 1
+560, MONEY, 1
+the Rugby World Cup, EVENT, 1
+30 per cent, MONEY, 1
+Japanese, NORP, 1
+Platform, PERSON, 1
+more than 140,000, CARDINAL, 1
+more than 140, CARDINAL, 1
+79%, PERCENT, 1
+35, CARDINAL, 1
+Mistruths, GPE, 1
+annual, DATE, 1
+weeks, DATE, 1
+Vaccine Alliance, PERSON, 1
+Tusk European Council, ORG, 1
+Donald Tusk, PERSON, 1
+European Parliament, ORG, 1
+EU Council, ORG, 1
+millions, CARDINAL, 1
+Each year, DATE, 1
+10 million, CARDINAL, 1
+anti-MMR, NORP, 1
+London, GPE, 1
+Ana, GPE, 1
+Hoodies, PERSON, 1
+Orla O'Donnell, PERSON, 1
+University Hospital Limerick, ORG, 1
+Hpv Vaccine, PERSON, 1
+recent weeks, DATE, 1
+just 40%, PERCENT, 1
+Kerry, PERSON, 1
+74%, PERCENT, 1
+Dublin, GPE, 1
+over 200%, PERCENT, 1
+More than 80, CARDINAL, 1
+8220;very, MONEY, 1
+three weeks, DATE, 1
+the past three weeks, DATE, 1
+3, CARDINAL, 1
+Lancet, ORG, 1
+almost 2,500, CARDINAL, 1
+George Ezra, PERSON, 1
+Malahide Castle - Irish Mirror Online, FAC, 1
+Vaccines, NORP, 1
+KAWALA, PERSON, 1
+Sinead Kennedy, PERSON, 1
+Laura Brennan ', PERSON, 1
+Refusal, PERSON, 1
+Alison, PERSON, 1
+The Irish Sun GETTING, WORK_OF_ART, 1
+the World Health Organisation (WHO, ORG, 1
+29, CARDINAL, 1
+The High Court, ORG, 1
+Laura Brennan - Irish Mirror Online ', PERSON, 1
+The Irish Sun AN, ORG, 1
+World Health Organisation (WHO, ORG, 1
+the 26 year old, DATE, 1
+Campaigns, GPE, 1
+62%, PERCENT, 1
+Woman, PERSON, 1
+10 years ago, DATE, 1
+€4m, MONEY, 1
+Helen, GPE, 1
+Denise, PERSON, 1
+RTE Player - Irish Mirror Online, ORG, 1
+208%, PERCENT, 1
+weekly, DATE, 1
+LAURA Brennan, PERSON, 1
+Tributes, ORG, 1
+the age of 26, DATE, 1
+a 'bittersweet day', DATE, 1
+First-year, DATE, 1
+this September, DATE, 1
+Scotland, GPE, 1
+Glaxo, ORG, 1
+more than £1bn, MONEY, 1

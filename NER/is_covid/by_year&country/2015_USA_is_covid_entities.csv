@@ -1,0 +1,695 @@
+entity, label, count
+Brussels, GPE, 57
+Paris, GPE, 34
+Corona, GPE, 34
+Thursday, DATE, 24
+Belgian, NORP, 16
+Belgium, GPE, 15
+Fox News, ORG, 13
+White House, ORG, 12
+1, CARDINAL, 12
+two, CARDINAL, 12
+Monday, DATE, 11
+American, NORP, 11
+Chris Christie, PERSON, 11
+Wednesday, DATE, 11
+first, ORDINAL, 10
+California, GPE, 10
+New Jersey, GPE, 10
+morning, TIME, 9
+Friday, DATE, 9
+Saturday, DATE, 8
+ISIS, ORG, 8
+Corona Centennial, ORG, 8
+The New York Times, ORG, 8
+The Washington Post, ORG, 7
+Tuesday, DATE, 6
+- LA Times, ORG, 6
+CBS News, ORG, 6
+French, NORP, 6
+Arkansas State University, ORG, 6
+U.S., GPE, 6
+Kaci Hickox, PERSON, 6
+one, CARDINAL, 6
+night, TIME, 6
+New York Post, ORG, 6
+San Bernardino, GPE, 5
+last year, DATE, 5
+Thanksgiving, DATE, 5
+BrusselsLockdown, ORG, 5
+South Carolina, GPE, 5
+LA Times, ORG, 5
+One, CARDINAL, 5
+Two, CARDINAL, 5
+Hillary, PERSON, 5
+Salah Abdeslam, PERSON, 4
+Debora Patta, PERSON, 4
+Hillary Clinton, PERSON, 4
+Sunday, DATE, 4
+The Boston Globe, ORG, 4
+West Africa, GPE, 4
+House, ORG, 4
+Texas Southern University, ORG, 4
+4, CARDINAL, 4
+SABMiller, ORG, 4
+Donald Trump, PERSON, 4
+2, CARDINAL, 4
+Democrats, NORP, 4
+Belgians, NORP, 4
+Sacramento, GPE, 4
+Georgia, GPE, 3
+France, GPE, 3
+Southern California, LOC, 3
+Carol Ann Coronado, PERSON, 3
+today, DATE, 3
+two days, DATE, 3
+Nigeria, GPE, 3
+MSNBC, ORG, 3
+Israeli, NORP, 3
+evening, TIME, 3
+The White House, ORG, 3
+De La Salle, ORG, 3
+Houston, GPE, 3
+Savannah State University, ORG, 3
+Paul Ryan, PERSON, 3
+Europe, LOC, 3
+21, CARDINAL, 3
+Christmas, DATE, 3
+Kentucky, GPE, 3
+14, CARDINAL, 3
+Colorado, GPE, 3
+Winston-Salem, GPE, 3
+Texas, GPE, 3
+Caltrans, ORG, 3
+Delta State University, ORG, 3
+Obama, PERSON, 3
+Twitter, PRODUCT, 3
+Four, CARDINAL, 2
+Marines, NORP, 2
+CBSN, ORG, 2
+City Hall, FAC, 2
+Michigan, GPE, 2
+three, CARDINAL, 2
+32, DATE, 2
+91, CARDINAL, 2
+four, CARDINAL, 2
+At least one, CARDINAL, 2
+Philadelphia, GPE, 2
+seven, CARDINAL, 2
+500+, QUANTITY, 2
+third, ORDINAL, 2
+Modelo, GPE, 2
+2015, DATE, 2
+Indiana, GPE, 2
+- LA Times Police, ORG, 2
+Arabic, NORP, 2
+Illinois, GPE, 2
+Ten, CARDINAL, 2
+the White House, FAC, 2
+Kevin McCarthy, PERSON, 2
+Mount Prospect, GPE, 2
+this week, DATE, 2
+the day, DATE, 2
+Delaware, GPE, 2
+Centennial, ORG, 2
+Concord De La Salle, PERSON, 2
+Open Division, ORG, 2
+Sacramento State, GPE, 2
+Centennial High School, ORG, 2
+Breitbart, PERSON, 2
+World AIDS Day, DATE, 2
+Americans, NORP, 2
+BRUSSELS, ORG, 2
+CNN, ORG, 2
+Amtrak, ORG, 2
+Alabama, GPE, 2
+US, GPE, 2
+afternoon, TIME, 2
+China, GPE, 2
+NPR, ORG, 2
+Justin Bieber, PERSON, 2
+David Steinberg, PERSON, 2
+1,000, CARDINAL, 2
+AB InBev, ORG, 2
+Budweiser, ORG, 2
+late Friday, DATE, 2
+Elizabeth II's, PERSON, 2
+Jeb Bush, PERSON, 2
+Clinton, PERSON, 2
+Republican, NORP, 2
+Iraq, GPE, 2
+Newport Beach, GPE, 2
+El Rancho High School, ORG, 2
+El Paso, GPE, 2
+Reddit, NORP, 2
+Sierra Leone, ORG, 2
+Fort Meade, GPE, 2
+Maryland, GPE, 2
+FBI, ORG, 2
+second, ORDINAL, 2
+overnight, TIME, 2
+Queens, GPE, 2
+Syria, GPE, 2
+Las Vegas, GPE, 2
+Larry Lessig, PERSON, 2
+Atlantic, LOC, 2
+Chicago Tribune, ORG, 2
+BrusselsLockdown, PRODUCT, 2
+WSJ, ORG, 2
+Mississippi, GPE, 2
+World, ORG, 2
+Budweiser, GPE, 2
+European, NORP, 2
+Clock, ORG, 2
+Coronation, NORP, 2
+a fourth day, DATE, 2
+pre-K, PERSON, 2
+State University, ORG, 2
+Liberia, GPE, 2
+10, CARDINAL, 2
+Three, CARDINAL, 2
+15, CARDINAL, 2
+British, NORP, 2
+Lockdown as Counterterror Operations Continue, ORG, 1
+the early hours, TIME, 1
+Ga., GPE, 1
+Polk County, GPE, 1
+Rose Parade, ORG, 1
+this year&amp;rsquo;s Tournament of Roses Parade, ORG, 1
+Tennessee, GPE, 1
+The Washington Post The Navy, ORG, 1
+Howard Stern’s, PERSON, 1
+Sirius, ORG, 1
+$90M, MONEY, 1
+Howard Stern, PERSON, 1
+King of All Media, WORK_OF_ART, 1
+five-year, DATE, 1
+Muslim, NORP, 1
+Marquez, ORG, 1
+Fox, PERSON, 1
+Yousef Bahghani, PERSON, 1
+the Islamic Society of Corona Norco, ORG, 1
+Enrique Marquez, PERSON, 1
+Guinea, GPE, 1
+last 68, DATE, 1
+68, CARDINAL, 1
+West African, NORP, 1
+more than 120, CARDINAL, 1
+24, CARDINAL, 1
+Phoebe Lanzer Wood, PERSON, 1
+Two days, DATE, 1
+Mohamed Abrini, PERSON, 1
+five days, DATE, 1
+Medtronic Results to Provide Checkup, ORG, 1
+$50 billion, MONEY, 1
+Ark., GPE, 1
+Fox News Referring, ORG, 1
+Brighton Debate En Español Team Gives Students, ORG, 1
+Shelby Lum, PERSON, 1
+Ramon Trinidad, PERSON, 1
+Manuel Coronado, PERSON, 1
+Valeria Pereira, PERSON, 1
+Globe, ORG, 1
+Jenna Russell, PERSON, 1
+Dearborn Heights, GPE, 1
+Fox 2, PERSON, 1
+COMPTON, ORG, 1
+Calif., GPE, 1
+$2-billion, MONEY, 1
+Freeway, PERSON, 1
+Fullerton, GPE, 1
+California &amp;mdash, ORG, 1
+Five, CARDINAL, 1
+this season, DATE, 1
+CBS News Belgium, ORG, 1
+The Washington Post Soldiers, ORG, 1
+EDITORIAL, PERSON, 1
+Hillary Clinton's, PERSON, 1
+Times Anot-so-funny, PERSON, 1
+next summer, DATE, 1
+the Community College of Philadelphia, ORG, 1
+Australian, NORP, 1
+Prince William, GPE, 1
+The Washington Post Schools, ORG, 1
+Woodbridge, GPE, 1
+Intense, NORP, 1
+$1-billion, MONEY, 1
+Ballast Point, ORG, 1
+year, DATE, 1
+LA Times Constellation Brands, ORG, 1
+Pacifico, GPE, 1
+&, ORG, 1
+Ballast Point Brewing, LOC, 1
+1, MONEY, 1
+Pacific, LOC, 1
+Mar 90 years ago, DATE, 1
+Duke Kahanamoku, PERSON, 1
+Hawaiian, NORP, 1
+the third day, DATE, 1
+the tenth day, DATE, 1
+the Nov. 13, DATE, 1
+Kane County Jail, GPE, 1
+the Kane County, FAC, 1
+3, CARDINAL, 1
+the May 20, 2014, DATE, 1
+L.A., GPE, 1
+Steve Silberman - The New York Times, PERSON, 1
+Islam, NORP, 1
+Augusta County, GPE, 1
+Virginia - CBS News, FAC, 1
+Western Virginia, LOC, 1
+next year, DATE, 1
+ISIL, GPE, 1
+one year, DATE, 1
+NJ, ORG, 1
+the Associated Press, ORG, 1
+Nov. 26, DATE, 1
+GOP, ORG, 1
+noon, TIME, 1
+Schools Reopen - WSJ, PERSON, 1
+four-day, DATE, 1
+Lions Park, GPE, 1
+Sierra Leone, PERSON, 1
+a full week, DATE, 1
+early last year, DATE, 1
+the World Health Organization, ORG, 1
+Last week, DATE, 1
+Twitter - CSMonitor.com, ORG, 1
+Socialist, NORP, 1
+about half a mile, QUANTITY, 1
+Molenbeek, GPE, 1
+5, CARDINAL, 1
+Florida, GPE, 1
+$700 Million, MONEY, 1
+NPR Officials, ORG, 1
+85 square miles, QUANTITY, 1
+Oriental, NORP, 1
+Inbar Lavi ', PERSON, 1
+Inbar Lavi, PERSON, 1
+TNT’s, ORG, 1
+Last Ship, WORK_OF_ART, 1
+Vin Diesel, PERSON, 1
+The Last Witch Hunter, WORK_OF_ART, 1
+Pandemic - Los Angeles Times Health, ORG, 1
+60 days, DATE, 1
+Barack Obama, PERSON, 1
+the holiday, DATE, 1
+Netanyahu’s, ORG, 1
+Sinks Teeth, PERSON, 1
+The New York Times Kaiya, ORG, 1
+Netanyahu, PERSON, 1
+five months, DATE, 1
+20 weeks, DATE, 1
+seventh, ORDINAL, 1
+2006, DATE, 1
+28, CARDINAL, 1
+some 150, CARDINAL, 1
+Nov. 13, DATE, 1
+NYT, ORG, 1
+Drudge, ORG, 1
+Levin, PERSON, 1
+Breitbart, GPE, 1
+two weeks ago, DATE, 1
+Francois Hollande, PERSON, 1
+all 130, CARDINAL, 1
+Germany, GPE, 1
+California Islamic Society ', ORG, 1
+90 Minutes, TIME, 1
+Corona-Norco, ORG, 1
+tonight, TIME, 1
+City Treasurers, ORG, 1
+Mormon, NORP, 1
+Episcopal Church, ORG, 1
+CAIR, ORG, 1
+State, ORG, 1
+90 minute-long, TIME, 1
+34, DATE, 1
+Christie, ORG, 1
+a third straight day, DATE, 1
+1918, DATE, 1
+Pennsylvania, GPE, 1
+Spanish, NORP, 1
+The Secret Service, ORG, 1
+Southern California - LA Times, LOC, 1
+midnight, TIME, 1
+Angel Stadium, FAC, 1
+13,599, CARDINAL, 1
+HBO’s, ORG, 1
+Zero, CARDINAL, 1
+Dec. 1, DATE, 1
+millions, CARDINAL, 1
+’ve, ORG, 1
+third day, DATE, 1
+more than 1,000, CARDINAL, 1
+Regrets Complete, PERSON, 1
+Lockdown      - WSJ Belgium’s, PERSON, 1
+last month’s, DATE, 1
+DANA ROHRABACHER, PERSON, 1
+Christians, NORP, 1
+Middle East - Washington Times, LOC, 1
+the days, DATE, 1
+the S.S. Saint Louis, ORG, 1
+1939, DATE, 1
+17-year-old, DATE, 1
+Community College of Philadelphia, ORG, 1
+more than 2,000, CARDINAL, 1
+House Transportation Committee, ORG, 1
+Peter DeFazio, PERSON, 1
+BIRMINGHAM, GPE, 1
+Ala., GPE, 1
+Birmingham, GPE, 1
+Edward Khan, PERSON, 1
+the Jefferson County Health Department, ORG, 1
+the University of California Merced's, ORG, 1
+Savannah State University -, ORG, 1
+The Boston Globe Authorities, ORG, 1
+Coronado Bridge - LA Times, FAC, 1
+at least one, CARDINAL, 1
+Navy, ORG, 1
+the Coronado Bridge, FAC, 1
+Wednesday night, TIME, 1
+San Diego Harbor, GPE, 1
+Reddit Bans, NORP, 1
+Virtual Lockdown, PERSON, 1
+jihadist, NORP, 1
+Level One,&amp;rdquo, ORG, 1
+Northwest D.C., GPE, 1
+The Washington Post Neighborhood, ORG, 1
+nearly 10 hours, TIME, 1
+Spike, GPE, 1
+Serena, GPE, 1
+Serena Williams, PERSON, 1
+Serena, PERSON, 1
+Texas Southern University &, ORG, 1
+Buzz Aldrin's, PERSON, 1
+33, MONEY, 1
+Apollo 11, ORG, 1
+Earth, LOC, 1
+21-day, DATE, 1
+the White House, ORG, 1
+9 hours, TIME, 1
+fence - Washington Times, ORG, 1
+De La Salle&apos;s, PERSON, 1
+21, DATE, 1
+CIF, ORG, 1
+Concord De La Salle, ORG, 1
+Alert Raised, PERSON, 1
+Reuters, ORG, 1
+The Middle Ages:, DATE, 1
+this 2014, DATE, 1
+1348, DATE, 1
+Black Death, ORG, 1
+Dunbar, GPE, 1
+West Virginia, GPE, 1
+Fox News Police, ORG, 1
+Slate’s The Gist: Subscribe, ORG, 1
+iTunes, NORP, 1
+Belgian Capital, ORG, 1
+MSNBC Belgian, ORG, 1
+five, CARDINAL, 1
+hours, TIME, 1
+Tennessee Navy, ORG, 1
+Army, ORG, 1
+Tennessee Riverpark, GPE, 1
+Chattanooga State Community College, ORG, 1
+AB Inbev, ORG, 1
+a month, DATE, 1
+Stella Artois, PERSON, 1
+SABMiller, PRODUCT, 1
+contains&amp;nbsp;Miller, ORG, 1
+Coors, ORG, 1
+nearly one third, CARDINAL, 1
+Years Later, EVENT, 1
+The New York Times Investigators, ORG, 1
+Africa, LOC, 1
+Zimbabwe, GPE, 1
+Akashinga, ORG, 1
+Lockdowns, PERSON, 1
+Groundhog Day, EVENT, 1
+Groundhog Mornin, PERSON, 1
+Suburban, ORG, 1
+Station Middle School, ORG, 1
+La Grange, ORG, 1
+Seventh Avenue Elementary School, ORG, 1
+La Grange, GPE, 1
+Defense, ORG, 1
+this weekend, DATE, 1
+Newark, GPE, 1
+State University - CBS News Campus, ORG, 1
+Islamic, NORP, 1
+Belgians Share Cat Photos, ORG, 1
+Daily Pilot News, ORG, 1
+Costa Mesa, GPE, 1
+Irvine, PERSON, 1
+weather - Los Angeles Times, ORG, 1
+Irvine, GPE, 1
+Pico Rivera, GPE, 1
+Lockdown Lifted, PERSON, 1
+Salah Abdeslam Manhunt Continues Schools, PERSON, 1
+First Week, DATE, 1
+Lockdown Schools, PERSON, 1
+Northwest El Paso, GPE, 1
+El Paso Community College, ORG, 1
+Financial Anxiety Following, ORG, 1
+TIME, ORG, 1
+years, DATE, 1
+2014, DATE, 1
+Lena Dunham, PERSON, 1
+Hillary Clinton - CBS News, PERSON, 1
+Lockdown on Schools, ORG, 1
+just one day, DATE, 1
+the Umpqua Community College, ORG, 1
+Oregon, GPE, 1
+CBS News Police, ORG, 1
+Fox News Sierra Leone, ORG, 1
+Ernest Bai Koroma, PERSON, 1
+UNC, ORG, 1
+Chapel Hill, LOC, 1
+The University of North Carolina, ORG, 1
+Chapel Hill, FAC, 1
+about 20 minutes, TIME, 1
+12-hour, TIME, 1
+About 120, CARDINAL, 1
+Men&amp;rsquo;s Central Jail, ORG, 1
+Los Angeles County Sheriff &, GPE, 1
+the White House's, ORG, 1
+North Lawn, LOC, 1
+Response, ORG, 1
+Sheri Fink, PERSON, 1
+Elizabeth II, PERSON, 1
+Britain, GPE, 1
+Queen Victoria, PERSON, 1
+June 1953, DATE, 1
+last October, DATE, 1
+San Bernardino, LOC, 1
+Syed Rizwan Farook, PERSON, 1
+Maryland State, ORG, 1
+the Hotel del Coronado, ORG, 1
+2010, DATE, 1
+144, CARDINAL, 1
+more than $1 million, MONEY, 1
+Lockdown, ORG, 1
+Indiana University-Purdue University Indianapolis, ORG, 1
+Chris Christie - Chicago, PERSON, 1
+Oak Park, GPE, 1
+River Forest High School - Chicago Tribune Oak Park, ORG, 1
+River Forest High School, ORG, 1
+Trump, PERSON, 1
+Sunday night, TIME, 1
+Democratic, NORP, 1
+the Texas Southern University, ORG, 1
+about 50,000, CARDINAL, 1
+the San Bernardino City Unified School District, LOC, 1
+the latter half of Wednesday, DATE, 1
+the Inland Regional Center, ORG, 1
+month-long, DATE, 1
+Flushing Meadows-Corona Park, ORG, 1
+Rick Bayless -, PERSON, 1
+Chicago Tribune Constellation Brands, ORG, 1
+Tocayo Hominy White Ale, PERSON, 1
+ObamaCare, ORG, 1
+Ashley Madison, PERSON, 1
+New York Post Cyber, ORG, 1
+- LA Times Federal, ORG, 1
+the Inland Empire, GPE, 1
+Breitbart News, ORG, 1
+Cheetah Tranquilized, PERSON, 1
+Indianapolis, GPE, 1
+Holly Phillips, PERSON, 1
+Tara Narula, PERSON, 1
+CBS, ORG, 1
+This Morning, TIME, 1
+25th Year, DATE, 1
+O’ Tannenpalm, WORK_OF_ART, 1
+the years, DATE, 1
+Sexually Active Women, ORG, 1
+World War II -, EVENT, 1
+Brian Harris, PERSON, 1
+Nov. 30, 2015, DATE, 1
+Stacey Wescott, PERSON, 1
+Lockdown Drill - The Atlantic A, PERSON, 1
+Riverside, ORG, 1
+Orange, NORP, 1
+Beligan, GPE, 1
+Titus Colbert, PERSON, 1
+Nov. 5, DATE, 1
+Capital Journal Daybreak, ORG, 1
+Washington, GPE, 1
+New York Post Sometimes, ORG, 1
+Shepard High School, ORG, 1
+Palos Heights, GPE, 1
+BB, GPE, 1
+Post, ORG, 1
+Iran, GPE, 1
+daily, DATE, 1
+Lockdown Continues, PERSON, 1
+E.U., NORP, 1
+Courtney Rennie, PERSON, 1
+Umpqua Community College, ORG, 1
+Constellation Brands Profits Climb, ORG, 1
+Modelo - WSJ Constellation Brands, ORG, 1
+its latest quarter, DATE, 1
+the current year, DATE, 1
+Eyeing, ORG, 1
+$245 Billion, MONEY, 1
+Ephraim McDowell Regional Medical Center, ORG, 1
+Danville, PERSON, 1
+Paris Security Tight, ORG, 1
+Lockdown France, ORG, 1
+Shelby Holliday, PERSON, 1
+DNC, ORG, 1
+CBS News Authorities, ORG, 1
+Lockdown, PERSON, 1
+Contessa Brewer, PERSON, 1
+Christie for New Jersey Ebola, ORG, 1
+Sierra Leone, LOC, 1
+Include New Suspected Accomplice, ORG, 1
+the past few decades, DATE, 1
+1st, ORDINAL, 1
+2011, DATE, 1
+the Tampa Bay Rays, ORG, 1
+Hillary Meter', PERSON, 1
+The Washington Post School, ORG, 1
+early Sunday, DATE, 1
+Nancy Snyderman's, PERSON, 1
+Today, DATE, 1
+November 23, 2015, DATE, 1
+U.K., GPE, 1
+CBSNews.com, ORG, 1
+Nigerian, NORP, 1
+Calabar, GPE, 1
+a year, DATE, 1
+Colorado Hospital Treating Victims of Planned Parenthood Shooting Placed on Brief, ORG, 1
+last week's, DATE, 1
+Lockdown Life - POLITICO Magazine, PERSON, 1
+nearly a week, DATE, 1
+Bud, PERSON, 1
+Miller - Washington Times, ORG, 1
+Anheuser-Busch InBev, ORG, 1
+SABMiller Plc, ORG, 1
+Jeb ​Bush, PERSON, 1
+Bush, PERSON, 1
+Turkey, GPE, 1
+Campaign Against Kurdish Militants Takes Toll, ORG, 1
+Turkish, NORP, 1
+hundreds of thousands, CARDINAL, 1
+Investigation Launched, ORG, 1
+Possible Police-Army Orgy, ORG, 1
+Coronate Carly Fiorina, ORG, 1
+Working Long Hours, ORG, 1
+Democrat, NORP, 1
+WASHINGTON, GPE, 1
+The Democratic National Committee, ORG, 1
+six, CARDINAL, 1
+Martin, ORG, 1
+A year, DATE, 1
+The Washington Post Campuses, ORG, 1
+City College, ORG, 1
+4 p.m., TIME, 1
+Georgia College Student Killed, ORG, 1
+Shooting - WSJ Authorities, ORG, 1
+18, CARDINAL, 1
+Sherwood, ORG, 1
+The Washington Post FOOTBALL, ORG, 1
+Montgomery County 4A, GPE, 1
+Liberia, PERSON, 1
+Hundreds, CARDINAL, 1
+Two months, DATE, 1
+African, NORP, 1
+St. John Bosco, GPE, 1
+62, CARDINAL, 1
+Matt Logan, PERSON, 1
+his 19th season, DATE, 1
+At least 10, CARDINAL, 1
+the 91 Freeway, FAC, 1
+a third day, DATE, 1
+Mundelein, PERSON, 1
+West Oak Middle School, ORG, 1
+10 a.m., TIME, 1
+University of North Carolina, ORG, 1
+Queens Neighborhood, GPE, 1
+Italian, NORP, 1
+Mets, ORG, 1
+Big Homes - WSJ Zoning, ORG, 1
+The Atlantic Daily, ORG, 1
+Clues, PERSON, 1
+Fact-Checks, ORG, 1
+2016, DATE, 1
+Benjamin Netanyahu’s, PERSON, 1
+Sacramento City College, ORG, 1
+Tongan, PERSON, 1
+CBS News Trending Stories - CBS News, ORG, 1
+TSU, ORG, 1
+The Potential Cardiac Dangers of Extreme Exercise  - WSJ, ORG, 1
+Mar - LA Times, ORG, 1
+Cameo Shores, PRODUCT, 1
+St. Anthony, FAC, 1
+Padua, GPE, 1
+about 11 years ago, DATE, 1
+Naperville, GPE, 1
+nine-hour, TIME, 1
+St. John Bosco - LA Times, PERSON, 1
+the 21st century, DATE, 1
+2001, DATE, 1
+Long Beach Poly, GPE, 1
+more than 17,000, CARDINAL, 1
+Veterans Stadium, ORG, 1
+2013, DATE, 1
+Bellflower St., PERSON, 1
+John Bosco, PERSON, 1
+the House Speakership, ORG, 1
+Politico, GPE, 1
+Corona Centennial - LA Times Watching, ORG, 1
+the Concord De La Salle, ORG, 1
+annual, DATE, 1
+Great California Shakeout, EVENT, 1
+Calabasas High School, ORG, 1
+LA Times Calabasas High School, ORG, 1
+Principal C.J. Foss, ORG, 1
+Joseph Caputo, PERSON, 1
+the North Lawn, LOC, 1
+the Secret Service, ORG, 1
+’ About Scientific Advances That Could Save Lives and Perhaps the Planet - The New York Times, WORK_OF_ART, 1
+John Sununu, PERSON, 1
+New Hampshire, GPE, 1
+DUBLIN, GPE, 1
+Ohio, GPE, 1
+Royal St. George’s, ORG, 1
+Paris Attacks - WSJ, ORG, 1
+at least 127, CARDINAL, 1
+11/21, CARDINAL, 1
+Twitter - CBS News Belgium, ORG, 1
+Parisians, NORP, 1
+Miller, ORG, 1
+Anheuser-Busch InBev  , ORG, 1
+Chicago Tribune School, ORG, 1
+Donald Trump - LA Times, PERSON, 1
+Freeway, ORG, 1
+Ontario Avenue, FAC, 1
+Empire, GPE, 1
+Merry Xmas, PERSON, 1
+Vote Donald Trump,&amp;quot, PERSON, 1
+New Clue, ORG, 1
+Terror Manhunt, PERSON, 1
+Lockdown - WSJ, PERSON, 1
+NPR Belgian, ORG, 1

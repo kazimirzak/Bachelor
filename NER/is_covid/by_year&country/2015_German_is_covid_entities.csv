@@ -1,0 +1,46 @@
+entity, label, count
+Brussels, GPE, 11
+Sierra Leone, ORG, 3
+Belgium, GPE, 3
+Paris, GPE, 3
+700, CARDINAL, 2
+Africa, LOC, 2
+| Europe| News, ORG, 2
+23.11.2015, CARDINAL, 2
+Parisians, NORP, 2
+Sierra Leone, LOC, 2
+US, GPE, 2
+BrusselsLockdown, ORG, 1
+PorteOuverte, ORG, 1
+RechercheParis, PERSON, 1
+almost 1,000, CARDINAL, 1
+67-year-old, DATE, 1
+Forty-eight, CARDINAL, 1
+Homeland, GPE, 1
+Berlin, GPE, 1
+Babelsberg Studios, PERSON, 1
+Homeland, WORK_OF_ART, 1
+Daniela Späth, PERSON, 1
+Inside Europe, LOC, 1
+Europe′s, ORG, 1
+4 days, DATE, 1
+James Panichi, PERSON, 1
+Politico, GPE, 1
+Helen Seeney, PERSON, 1
+14.09.2015, CARDINAL, 1
+Mississippi, GPE, 1
+several hours, TIME, 1
+Two, CARDINAL, 1
+21.11.2015, DATE, 1
+Belgian, NORP, 1
+31.07.2015, CARDINAL, 1
+Europe, LOC, 1
+French, NORP, 1
+South Korea, GPE, 1
+Hwang Kyo-Ahn, PERSON, 1
+South Koreans, NORP, 1
+thousands, CARDINAL, 1
+several days, DATE, 1
+one, CARDINAL, 1
+DW, ORG, 1
+Max Hofmann, PERSON, 1

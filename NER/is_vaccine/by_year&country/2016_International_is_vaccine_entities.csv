@@ -1,0 +1,460 @@
+entity, label, count
+Zika, PERSON, 56
+U.S., GPE, 33
+first, ORDINAL, 14
+HPV, ORG, 14
+Monday, DATE, 12
+Americas, LOC, 12
+Wednesday, DATE, 12
+Brazil, GPE, 11
+Pakistan, GPE, 11
+Tuesday, DATE, 10
+Reuters, ORG, 10
+Thursday, DATE, 9
+China, GPE, 9
+WHO, ORG, 8
+thousands, CARDINAL, 8
+South Africa, GPE, 8
+two, CARDINAL, 8
+CNN, ORG, 7
+CDC, ORG, 7
+14, CARDINAL, 7
+FluMist, ORG, 6
+this year, DATE, 6
+Syria, GPE, 6
+the World Health Organization, ORG, 6
+Pediatricians, NORP, 5
+Flu Vaccine, PERSON, 5
+Al Jazeera, ORG, 5
+Africa, LOC, 5
+$81 million, MONEY, 5
+Zika, NORP, 5
+US, GPE, 5
+three, CARDINAL, 5
+years, DATE, 5
+Russia, GPE, 5
+2, CARDINAL, 5
+Congress, ORG, 5
+100%, PERCENT, 5
+Indian, NORP, 4
+Haiti, GPE, 4
+Zika Vaccine, PERSON, 4
+California, GPE, 4
+Limitless - Bezgranichnyy, ORG, 4
+Brian, PERSON, 4
+NZT, ORG, 4
+one, CARDINAL, 4
+Guinea, GPE, 4
+Barack Obama, PERSON, 4
+Philippines, GPE, 4
+Americans, NORP, 3
+India, GPE, 3
+First, ORDINAL, 3
+French, NORP, 3
+$5 million, MONEY, 3
+Vaccine, PERSON, 3
+Friday, DATE, 3
+RSV, ORG, 3
+Obama, PERSON, 3
+12, CARDINAL, 3
+Two, CARDINAL, 3
+ISIS, ORG, 3
+Rwanda, GPE, 2
+more than 14 million, CARDINAL, 2
+Angola, GPE, 2
+the Democratic Republic of Congo, GPE, 2
+White House, ORG, 2
+Eastern Ghouta, ORG, 2
+Russian, NORP, 2
+Veronika Skvortsova, PERSON, 2
+NIH, ORG, 2
+357, CARDINAL, 2
+ABC News, ORG, 2
+annual, DATE, 2
+Florida, GPE, 2
+this week, DATE, 2
+Bulgaria, GPE, 2
+Bulgarian, NORP, 2
+United States, GPE, 2
+South African, NORP, 2
+Reuters.com, ORG, 2
+third, ORDINAL, 2
+Latin America, LOC, 2
+Caribbean, LOC, 2
+The U.S. Department of Health and Human Services, ORG, 2
+Adrian Hill, PERSON, 2
+Three, CARDINAL, 2
+recent years, DATE, 2
+Robert De Niro, PERSON, 2
+Boehringer, PERSON, 2
+EU, ORG, 2
+Sanofi, ORG, 2
+German, NORP, 2
+Yahoo News, ORG, 2
+Eddie Morra, PERSON, 2
+FBI, ORG, 2
+Piper (Georgina Haig, ORG, 2
+Morra’s, ORG, 2
+Rebecca, PERSON, 2
+Morra, PERSON, 2
+Limitless, ORG, 2
+Tuesday, March 15th at 10/9c, DATE, 2
+CBS, ORG, 2
+Cuba, GPE, 2
+Merck, ORG, 2
+Inovio, ORG, 2
+this winter, DATE, 2
+millions of dollars, MONEY, 2
+2014, DATE, 2
+weeks, DATE, 2
+Liberia, GPE, 2
+more than $1.8 billion, MONEY, 2
+the White House, ORG, 2
+RT World, ORG, 2
+Quetta, GPE, 2
+277, CARDINAL, 2
+578,000, CARDINAL, 2
+Zambia, GPE, 2
+Lancet, ORG, 2
+The World Health Organization, ORG, 2
+Hawaii, GPE, 2
+300, CARDINAL, 2
+2-Year-Old, DATE, 2
+U.S. Army, ORG, 2
+the United States, GPE, 2
+later this year, DATE, 2
+10 years, DATE, 2
+2010, DATE, 2
+UN, ORG, 2
+600, CARDINAL, 2
+Emergent BioSolutions, ORG, 2
+3 million to 4 million, CARDINAL, 2
+Hurdles International, ORG, 1
+Less than half, CARDINAL, 1
+Only about two, CARDINAL, 1
+five, CARDINAL, 1
+this season, DATE, 1
+early November, DATE, 1
+the U.S. Centers for Disease Control and Prevention, ORG, 1
+1.8bn, MONEY, 1
+US & Canada, ORG, 1
+Al Jazeera Funds, ORG, 1
+the World Health Organisation (WHO, ORG, 1
+Feds, NORP, 1
+Centers for Disease Control, ORG, 1
+Erin Mersino, PERSON, 1
+the Great Lakes Justice Center, ORG, 1
+Syrians, NORP, 1
+Almost 100%, PERCENT, 1
+the World Health Organization (WHO, ORG, 1
+Health, ORG, 1
+five months, DATE, 1
+India Vaccine Patent Application - ABC News Doctors Without Borders, ORG, 1
+Pfizer, PERSON, 1
+4 million, CARDINAL, 1
+the following year, DATE, 1
+China Punishes, ORG, 1
+Beijing, GPE, 1
+Worried Children, PERSON, 1
+155, CARDINAL, 1
+Zika Vaccine - ABC, PERSON, 1
+More than 3 million, CARDINAL, 1
+South Africans, NORP, 1
+$75 million, MONEY, 1
+Brazilian, NORP, 1
+Rousseff, PERSON, 1
+Katie Sargent, PERSON, 1
+this coming flu season, DATE, 1
+NBC News, ORG, 1
+Ecuador, GPE, 1
+Al Jazeera Ecuador, ORG, 1
+one day, DATE, 1
+more than 400,000, CARDINAL, 1
+7-year, DATE, 1
+RT World News Still, ORG, 1
+seven years ago, DATE, 1
+the Centers for Disease Control, ORG, 1
+a few years, DATE, 1
+First Round of Testing, GPE, 1
+Outbreak, ORG, 1
+Canada, GPE, 1
+Chile, GPE, 1
+Pre-Teens Need Just Two Doses, PERSON, 1
+HPV Vaccine, ORG, 1
+next year, DATE, 1
+Cholesterol-Lowering Statin, ORG, 1
+Statin, PERSON, 1
+about 28 percent, PERCENT, 1
+40, DATE, 1
+FluMist Nose Spray Vaccine, ORG, 1
+This Year, DATE, 1
+Experts Say, ORG, 1
+Widespread Zika, PERSON, 1
+Robert De Niro Pulls, PERSON, 1
+‘Vaxxed,’, WORK_OF_ART, 1
+Tribeca Film Festival, PERSON, 1
+Boehringer Ingelheim, ORG, 1
+Merial, ORG, 1
+Madagascar, GPE, 1
+Al Jazeera New, ORG, 1
+Millions, CARDINAL, 1
+Merck Sharp & Dohme, ORG, 1
+14th, ORDINAL, 1
+Vox, ORG, 1
+Reuters Eli Lilly Co, ORG, 1
+Boehringer Ingelheim's, ORG, 1
+$885 million, MONEY, 1
+World Health Organization, ORG, 1
+the World Health Org, ORG, 1
+$88 million, MONEY, 1
+Adam Jourdan, PERSON, 1
+Childhood, ORG, 1
+every five to 10 years, DATE, 1
+Amish, NORP, 1
+Niger, PERSON, 1
+2018, DATE, 1
+almost five years, DATE, 1
+Green Party's, ORG, 1
+Jill Stein, PERSON, 1
+Inovio Pharmaceuticals, ORG, 1
+the National Institutes of Health, ORG, 1
+year-end, DATE, 1
+Bomb Attack, PERSON, 1
+Southwestern Pakistan, LOC, 1
+$33 million, MONEY, 1
+Anthony Fauci, PERSON, 1
+$33 million dollars, MONEY, 1
+the next days, DATE, 1
+West African, NORP, 1
+Hundreds, CARDINAL, 1
+West Nile, LOC, 1
+2016, DATE, 1
+The United States, GPE, 1
+the end of this year, DATE, 1
+several years, DATE, 1
+Meningitis A, WORK_OF_ART, 1
+American, NORP, 1
+Save Lives Zipline, ORG, 1
+150, CARDINAL, 1
+more than half, CARDINAL, 1
+the end of the year, DATE, 1
+$5.8 billion, MONEY, 1
+Last year, DATE, 1
+billions of dollars, MONEY, 1
+This season, DATE, 1
+Zika - Yahoo News WASHINGTON, WORK_OF_ART, 1
+AP, ORG, 1
+RT USA News, ORG, 1
+Group A Streptococcus, ORG, 1
+the coming weeks, DATE, 1
+400 million, CARDINAL, 1
+annually, DATE, 1
+the end of the decade, DATE, 1
+a few weeks ago, DATE, 1
+the U.S. Congress, ORG, 1
+GSK, ORG, 1
+GlaxoSmithKline, PERSON, 1
+8 percent, PERCENT, 1
+Swine Flu', PERSON, 1
+Swedish, NORP, 1
+Syed Imtiaz Shah, PERSON, 1
+23, CARDINAL, 1
+HVTN 702, ORG, 1
+5,400, CARDINAL, 1
+between 18 and 35, DATE, 1
+Takeda, PERSON, 1
+Japanese, NORP, 1
+Takeda Pharmaceutical Co, PERSON, 1
+Yellow Fever Kills, PERSON, 1
+Infects, ORG, 1
+next two weeks, DATE, 1
+664, CARDINAL, 1
+February, DATE, 1
+Flu Vaccine News, PERSON, 1
+Photos, GPE, 1
+Videos - ABC News, ORG, 1
+Bomb Blast Hits Cops, ORG, 1
+Twelve, CARDINAL, 1
+the third day, DATE, 1
+Pentagon, ORG, 1
+nearly $2 million, MONEY, 1
+Ginkgo Bioworks, PERSON, 1
+Yellow Fever Vaccination, ORG, 1
+WASHINGTON, GPE, 1
+22-year-old, DATE, 1
+Health Department, ORG, 1
+year, DATE, 1
+the Centers for Disease Control and Prevention, ORG, 1
+African, NORP, 1
+Chinese, NORP, 1
+65 percent to, PERCENT, 1
+93 percent, PERCENT, 1
+Delaware, GPE, 1
+Dozens, CARDINAL, 1
+37, CARDINAL, 1
+last month, DATE, 1
+14 million, CARDINAL, 1
+Africans, NORP, 1
+6,136, CARDINAL, 1
+AP Top Entertainment News, ORG, 1
+10:44 P.m, TIME, 1
+ABC News Following, ORG, 1
+Tribeca, PERSON, 1
+The Black Keys, WORK_OF_ART, 1
+Steve Miller ', PERSON, 1
+Grinch, PERSON, 1
+Trump Capitol Hill, ORG, 1
+Republicans, NORP, 1
+1st, ORDINAL, 1
+Gorakhpur, GPE, 1
+Uttar Pradesh, ORG, 1
+UK, GPE, 1
+between 2 and 5 months old, DATE, 1
+Flu Shots Cut Heart, ORG, 1
+Kristen O’Meara, PERSON, 1
+decades, DATE, 1
+Only 40%, PERCENT, 1
+Americans Immunized There's, ORG, 1
+Mark Zuckerberg's, PERSON, 1
+Baby Getting Vaccinated Ignites Online Squabble, ORG, 1
+Tribeca Rolls, PERSON, 1
+Red Carpet - ABC News, ORG, 1
+15th, ORDINAL, 1
+Tribeca Film Festival, EVENT, 1
+Andrew Rossi's, PERSON, 1
+The First Monday, WORK_OF_ART, 1
+May, DATE, 1
+the Metropolitan Museum of Art, ORG, 1
+a million, CARDINAL, 1
+Inovio Pharmaceuticals - ABC News, ORG, 1
+months to years, DATE, 1
+Only two years ago, DATE, 1
+Japan, GPE, 1
+2,000, CARDINAL, 1
+84%, PERCENT, 1
+De Niro, PERSON, 1
+TODAY, DATE, 1
+Limited Vaccine, PERSON, 1
+ABC News Experts, ORG, 1
+almost daily, DATE, 1
+The World Health, ORG, 1
+Belgian, NORP, 1
+Islam, NORP, 1
+Woodward, PERSON, 1
+Bernstein, PERSON, 1
+Watergate, EVENT, 1
+the 1970s, DATE, 1
+Lech Walesa, PERSON, 1
+the Lenin Shipyards, FAC, 1
+Soviet, NORP, 1
+Poland, GPE, 1
+1980, DATE, 1
+the White House, FAC, 1
+U.N. Stops, ORG, 1
+15, CARDINAL, 1
+The United Nations, ORG, 1
+at least 15, CARDINAL, 1
+Sanofi Pasteur - ABC, PERSON, 1
+Epstein-Barr, PERSON, 1
+more than $400,000, MONEY, 1
+Turkey, GPE, 1
+Colorado, GPE, 1
+earlier this year, DATE, 1
+warmer months, DATE, 1
+Jennifer Stella’s, PERSON, 1
+Vermont, GPE, 1
+the Vermont Coalition, ORG, 1
+Robert Sears, PERSON, 1
+Bob Sears, PERSON, 1
+Daraya, ORG, 1
+Kaiser Permanente, ORG, 1
+Afghans, NORP, 1
+Brazilians, NORP, 1
+every decade, DATE, 1
+every 30 years, DATE, 1
+Test New Zika Virus Vaccine, ORG, 1
+Zuckerberg, PERSON, 1
+millions, CARDINAL, 1
+3, CARDINAL, 1
+million, CARDINAL, 1
+Hurricane Matthew, EVENT, 1
+Canadian, NORP, 1
+33, CARDINAL, 1
+At least 15, CARDINAL, 1
+about ten years, DATE, 1
+Amesh Adalja, PERSON, 1
+year's end, DATE, 1
+Fetal Brain, GPE, 1
+Clue, PRODUCT, 1
+European, NORP, 1
+New Dengue Vaccine, ORG, 1
+Only 2, CARDINAL, 1
+only two, CARDINAL, 1
+today, DATE, 1
+Iran, GPE, 1
+Al Jazeera WHO, ORG, 1
+Lance Rodewald, PERSON, 1
+Dilute Yellow Fever Vaccine, PERSON, 1
+Al Jazeera Scientists, ORG, 1
+Flu Vaccines, PERSON, 1
+the Wrong Target, ORG, 1
+85 percent, PERCENT, 1
+Chickenpox, ORG, 1
+2006, DATE, 1
+second, ORDINAL, 1
+At least 14, CARDINAL, 1
+20, CARDINAL, 1
+Polio, PERSON, 1
+Taliban, ORG, 1
+6 months, DATE, 1
+RT World News While, ORG, 1
+INDEPENDENT, ORG, 1
+British, NORP, 1
+Kelly Potter, PERSON, 1
+35, DATE, 1
+July 2015, DATE, 1
+12-year-old, DATE, 1
+Marco Arturo, PERSON, 1
+more than four million, CARDINAL, 1
+41 million, CARDINAL, 1
+U.N. - Reuters, ORG, 1
+Thomson Reuters Foundation, ORG, 1
+more than 41 million, CARDINAL, 1
+West Africa's, GPE, 1
+Lake Chad, PERSON, 1
+Nigeria, GPE, 1
+the United Nations, ORG, 1
+STI, ORG, 1
+Glaxo, ORG, 1
+Zika - Reuters, ORG, 1
+GlaxoSmithKline Plc, PERSON, 1
+West Africa, GPE, 1
+more than 11,000, CARDINAL, 1
+FDA, ORG, 1
+BioThrax, ORG, 1
+the University of Missouri, ORG, 1
+Nancy Pelosi, GPE, 1
+Democrat, NORP, 1
+the U.S. House of Representatives, ORG, 1
+HHS, ORG, 1
+First Mass Dengue Vaccination - ABC News, ORG, 1
+390 million, CARDINAL, 1
+Seven, CARDINAL, 1
+Pakistani, NORP, 1
+Karachi, GPE, 1
+Malaria Vaccine Protects, ORG, 1
+half, CARDINAL, 1
+as long as a year, DATE, 1
+the Americas - Reuters Global, ORG, 1
+RT World News Health, ORG, 1
+RT, ORG, 1
+Los Angeles Times, ORG, 1
+$2.8 Million, MONEY, 1
+$2.8 million, MONEY, 1
+Marcelo Castro, PERSON, 1
+$1 million, MONEY, 1
+US Health, ORG, 1
+Microcephaly, GPE, 1
+Breakthrough, GPE, 1
+100 percent, PERCENT, 1
+Rwandan, NORP, 1

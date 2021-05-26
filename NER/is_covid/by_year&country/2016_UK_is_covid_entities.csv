@@ -1,0 +1,4449 @@
+entity, label, count
+Coronation Street, FAC, 1262
+Coronation Street's, FAC, 312
+ITV, ORG, 211
+Coronation Street's, ORG, 152
+| TV & Radio, ORG, 124
+first, ORDINAL, 114
+Weatherfield, ORG, 100
+London, GPE, 97
+Kym Marsh, PERSON, 97
+Jean Alexander, PERSON, 94
+US, GPE, 91
+Coronation Street, ORG, 89
+13, MONEY, 89
+Coronation Street, LOC, 79
+Catherine Tyldesley, PERSON, 79
+Kylie Platt, PERSON, 76
+David Platt, PERSON, 76
+Friday, DATE, 74
+Michelle Keegan, PERSON, 74
+two, CARDINAL, 69
+Ryan Thomas, PERSON, 68
+Christmas, DATE, 65
+tonight, TIME, 64
+Coronation Street’s, ORG, 62
+UK, GPE, 60
+Marc Anwar, PERSON, 57
+one, CARDINAL, 56
+Daily Mail, ORG, 54
+Paula Lane, PERSON, 53
+Helen Flanagan, PERSON, 52
+night, TIME, 51
+Corrie, PERSON, 51
+Hilda Ogden, PERSON, 50
+Jane Danson, PERSON, 50
+Pat Phelan, PERSON, 49
+Maria Connor, PERSON, 46
+Steve McDonald, PERSON, 46
+Soaps, News, ORG, 45
+Georgia May Foote, ORG, 43
+Wednesday, DATE, 43
+Beverley Callard, PERSON, 42
+Monday, DATE, 41
+British, NORP, 39
+Maria, PERSON, 39
+today, DATE, 37
+Kylie, PERSON, 37
+Twitter, PRODUCT, 36
+six, CARDINAL, 36
+Gossip & More, ORG, 36
+Leanne Battersby, PERSON, 36
+Michelle, PERSON, 36
+Brooke Vincent, PERSON, 36
+Tracy Brabin, PERSON, 36
+Steve, PERSON, 35
+Phelan, PERSON, 35
+Rosie Webster, PERSON, 34
+Daily Express, ORG, 34
+Brussels, GPE, 34
+Shayne Ward, PERSON, 33
+Tony Warren, PERSON, 33
+Michelle Connor, PERSON, 33
+Anna Windass, PERSON, 32
+Daily Star, PERSON, 31
+Carla Connor, PERSON, 31
+Toyah Battersby, PERSON, 30
+Alison King, PERSON, 30
+Alan Halsall, PERSON, 30
+Ken Barlow, PERSON, 29
+Thursday, DATE, 29
+Coronation Street’s, FAC, 29
+Leanne, ORG, 28
+Simon Gregson, PERSON, 28
+three, CARDINAL, 28
+Coronation, NORP, 28
+Britain, GPE, 28
+Jo Cox, PERSON, 28
+Peter Barlow, PERSON, 27
+Lucy Fallon, PERSON, 27
+White House, ORG, 27
+Carla, PERSON, 27
+Nick Tilsley, PERSON, 27
+Corona, GPE, 26
+Samia Ghadie, PERSON, 26
+Michael Rodwell, PERSON, 26
+ITV News, ORG, 25
+Todd Grimshaw, PERSON, 25
+next week, DATE, 24
+Guardian, ORG, 24
+BBC, ORG, 24
+Saturday, DATE, 24
+Lucy-Jo Hudson, PERSON, 24
+Caz Hammond, PERSON, 23
+Ofcom, ORG, 23
+four, CARDINAL, 23
+Sarah Platt, PERSON, 23
+Kate, PERSON, 23
+Theresa, GPE, 23
+Jason Grimshaw, PERSON, 23
+Sunday, DATE, 22
+90th, ORDINAL, 22
+Aidan Connor, PERSON, 22
+five, CARDINAL, 21
+second, ORDINAL, 21
+yesterday, DATE, 21
+May, DATE, 21
+Kylie Platt's, PERSON, 20
+CORONATION, NORP, 20
+Weatherfield, GPE, 20
+Ken, PERSON, 20
+Jack P Shepherd, ORG, 20
+Anne Kirkbride, PERSON, 20
+Washington, GPE, 19
+2017, DATE, 19
+Caz, ORG, 19
+this week, DATE, 19
+Tuesday, DATE, 19
+90, CARDINAL, 19
+2016, DATE, 19
+Eileen Grimshaw, PERSON, 19
+Callum, ORG, 18
+Hollyoaks, GPE, 18
+Eva Price, PERSON, 18
+Giovanni Pernice, ORG, 18
+Mary Taylor, PERSON, 18
+German, NORP, 18
+Bill Roache, PERSON, 18
+last night, TIME, 18
+Liz McDonald, PERSON, 18
+Mark Wright, PERSON, 17
+Michael Le Vell, PERSON, 17
+Les Dennis, PERSON, 17
+Samia Ghadie, ORG, 16
+Michael Le, PERSON, 16
+Billy, PERSON, 16
+Kevin Webster, PERSON, 16
+10, CARDINAL, 16
+Hilda Ogden, ORG, 16
+Tracy Barlow, PERSON, 16
+Tina O'Brien, PERSON, 15
+Morag Siller, PERSON, 15
+Daily Mail Online, ORG, 15
+Callum Logan, PERSON, 15
+Gary Windass, PERSON, 15
+Leanne Battersby's, PERSON, 14
+Gail Platt, PERSON, 14
+Helen Worth, PERSON, 14
+morning, TIME, 14
+Loose Women, ORG, 14
+Bruno Langley, PERSON, 14
+Michael, PERSON, 14
+David, PERSON, 14
+Katherine Kelly, PERSON, 14
+Billy Mayhew, PERSON, 14
+32, DATE, 13
+last year, DATE, 13
+Kunta Kinte, GPE, 13
+32-year-old, DATE, 13
+Two, CARDINAL, 13
+Eileen, PERSON, 13
+this morning, TIME, 13
+Hollywood, GPE, 13
+Paris, GPE, 13
+Muslim, NORP, 13
+Emmerdale, GPE, 13
+Sharif, PERSON, 13
+Coronation Street - Mirror Online, FAC, 13
+Hollyoaks, ORG, 13
+Berlin, GPE, 13
+Sophie Austin, PERSON, 12
+New York, GPE, 12
+this afternoon, TIME, 12
+Corrie, LOC, 12
+Manchester, DATE, 12
+Europe, LOC, 12
+Roy, PERSON, 12
+Leanne Tilsley, PERSON, 11
+Callum Logan's, PERSON, 11
+Sylvain Longchambon, PERSON, 11
+EU, ORG, 11
+CORONATION Street’s, ORG, 11
+Gail, PERSON, 11
+Rhea Bailey, PERSON, 11
+Sarah, PERSON, 11
+Monday night, TIME, 11
+French, NORP, 11
+Anna, PERSON, 11
+Sally, PERSON, 11
+LOCKDOWN, GPE, 11
+Germany, GPE, 11
+Aidan, GPE, 11
+Australia, GPE, 11
+Paula Lane's, PERSON, 11
+Twitter, PERSON, 11
+Debbie Rush, PERSON, 11
+Republican, NORP, 11
+Turkey, GPE, 11
+Matt Baker, PERSON, 11
+Donald Trump, PERSON, 11
+Antony Cotton, PERSON, 11
+2014, DATE, 10
+Samia Longchambon, PERSON, 10
+third, ORDINAL, 10
+EastEnders, ORG, 10
+Denise Welch, PERSON, 10
+Birmingham, GPE, 10
+33, DATE, 10
+Todd, PERSON, 10
+Georgia Taylor, PERSON, 10
+millions, CARDINAL, 10
+Sun, ORG, 10
+Dallas, GPE, 10
+William Roache, PERSON, 10
+Katie McGlynn, PERSON, 10
+Andy Carver, PERSON, 10
+Tracy, PERSON, 10
+Ian Kelsey, PERSON, 10
+Steve McDonald's, PERSON, 10
+Craig Charles, PERSON, 10
+39-year-old, DATE, 10
+Bill Roache, ORG, 10
+a week, DATE, 10
+Les Dennis, ORG, 10
+this evening, TIME, 10
+Scotland, GPE, 10
+Spanish, NORP, 10
+Cathy, PERSON, 10
+Tory, NORP, 10
+33-year-old, DATE, 9
+Sean Ward, PERSON, 9
+This Morning, TIME, 9
+Cathy Matthews, PERSON, 9
+23 years, DATE, 9
+Kate Ford, PERSON, 9
+Daniel Brocklebank, PERSON, 9
+THE White House, ORG, 9
+Jack P. Shepherd, PERSON, 9
+Max, PERSON, 9
+Belgian, NORP, 9
+Queen, PERSON, 9
+Jenny Bradley, PERSON, 9
+Liverpool, GPE, 9
+Claire King, PERSON, 9
+1953, DATE, 9
+Bethany Platt, PERSON, 9
+1960, DATE, 9
+First, ORDINAL, 9
+Michelle McDonald, PERSON, 9
+Jack, PERSON, 9
+Mexico, GPE, 9
+later this month, DATE, 9
+13 years, DATE, 9
+six years, DATE, 9
+25-year-old, DATE, 9
+29-year-old, DATE, 9
+Tony, PERSON, 9
+Pakistan, GPE, 9
+Nick, ORG, 9
+three days, DATE, 9
+Leanne Battersby’s, PERSON, 9
+five year, DATE, 9
+Jim McDonald, PERSON, 9
+Sophie Austin, ORG, 8
+The Sun Coronation Street’s, ORG, 8
+Daily Mail Online Coronation Street, ORG, 8
+5, CARDINAL, 8
+Michelle Keegan's, PERSON, 8
+31-year-old, DATE, 8
+Manchester on, DATE, 8
+Roy Cropper, PERSON, 8
+Barlow, PERSON, 8
+Kunta Kinte', GPE, 8
+Clayton, ORG, 8
+Sharif Nazir, PERSON, 8
+years, DATE, 8
+Tom Pitfield, PERSON, 8
+28-year-old, DATE, 8
+year, DATE, 8
+Dubai, GPE, 8
+HELEN Flanagan, PERSON, 8
+decades, DATE, 8
+Aidan Connor, ORG, 8
+Colson Smith, PERSON, 8
+just days, DATE, 8
+June, DATE, 8
+Adam Barlow, PERSON, 8
+Manchester | Daily Mail, ORG, 8
+next year, DATE, 8
+Ankara, GPE, 8
+Sophie Webster, PERSON, 8
+26-year-old, DATE, 8
+Scarlett, PERSON, 8
+Chris Gascoyne, PERSON, 7
+2012, DATE, 7
+California, GPE, 7
+afternoon, TIME, 7
+two years, DATE, 7
+David Neilson, PERSON, 7
+7, CARDINAL, 7
+Porto, PERSON, 7
+weeks, DATE, 7
+BRITAIN, GPE, 7
+The White House, ORG, 7
+Liz, PERSON, 7
+India, GPE, 7
+Johnny, PERSON, 7
+earlier this month, DATE, 7
+Cologne, GPE, 7
+Daniel Osbourne, PERSON, 7
+Vinny, PERSON, 7
+Rana, PERSON, 7
+Kevin Kennedy, PERSON, 7
+34, DATE, 7
+eight, CARDINAL, 7
+Robert Preston, PERSON, 7
+summer, DATE, 7
+Les Battersby, PERSON, 7
+29, CARDINAL, 7
+Simon Barlow, PERSON, 7
+2009, DATE, 7
+Pat Phelan's, PERSON, 7
+week, DATE, 7
+Alison King, ORG, 7
+annual, DATE, 7
+Clayton, PERSON, 7
+Deirdre, PERSON, 7
+Sophie, ORG, 7
+Daily Star, WORK_OF_ART, 7
+16 years, DATE, 7
+10 years, DATE, 7
+Robert Vaughn, PERSON, 7
+Butch Dingle, PERSON, 7
+Zeedan Nazir, PERSON, 7
+Russian, NORP, 7
+40, DATE, 7
+next month, DATE, 7
+two months, DATE, 7
+Kean Bryan, PERSON, 7
+Andy, PERSON, 7
+later this year, DATE, 7
+Cleveland, GPE, 7
+Rhian Sugden, PERSON, 7
+PLATT, ORG, 7
+16, CARDINAL, 7
+Indian, NORP, 7
+24, DATE, 6
+earlier this year, DATE, 6
+a year, DATE, 6
+Jude, PERSON, 6
+Bet Lynch, PERSON, 6
+Lee, PERSON, 6
+Tisha Merry, PERSON, 6
+Canada, GPE, 6
+Dev Alahan, PERSON, 6
+Sally Webster, PERSON, 6
+24-year-old, DATE, 6
+Andre Silva, PERSON, 6
+2000, DATE, 6
+Christmas Day, DATE, 6
+Georgia, GPE, 6
+the weekend, DATE, 6
+2010, DATE, 6
+The Sun Coronation Street, ORG, 6
+Elizabeth II, PERSON, 6
+CORONATION Street, ORG, 6
+Emmerdale - Mirror Online, ORG, 6
+79, DATE, 6
+Chris Fountain, PERSON, 6
+Zika, PERSON, 6
+Johnny Depp, PERSON, 6
+Australian, NORP, 6
+36, DATE, 6
+one night, TIME, 6
+Bruce Jones, PERSON, 6
+thousands, CARDINAL, 6
+this Christmas, DATE, 6
+Kylie Platt’s, PERSON, 6
+Cobbles, ORG, 6
+Jo Cox's, PERSON, 6
+Los Angeles, GPE, 6
+New Year, EVENT, 6
+Italian, NORP, 6
+European, NORP, 6
+England, GPE, 6
+The Sun CORONATION Street’s, ORG, 6
+Indians, NORP, 6
+46, DATE, 6
+Gary, PERSON, 6
+America, GPE, 6
+Freddie, ORG, 6
+Sam Robertson, PERSON, 6
+Ohio, GPE, 6
+Corrie, NORP, 6
+weekly, DATE, 6
+Julie Hesmondhalgh, PERSON, 6
+seven years, DATE, 6
+25, DATE, 6
+Sean, NORP, 6
+Beverley Callard, ORG, 6
+George Alsford, PERSON, 6
+One, CARDINAL, 6
+45-year-old, DATE, 6
+Peter Barlow's, PERSON, 6
+Alex Warner, PERSON, 6
+Ryan, PERSON, 6
+Gossip & More | Daily Star, ORG, 6
+Adele, PERSON, 6
+Sue Cleaver, PERSON, 6
+20, CARDINAL, 6
+Faye Brookes, PERSON, 6
+Manchester, GPE, 6
+Oliver Mellor, PERSON, 6
+David Cameron, PERSON, 6
+2006, DATE, 5
+Gemma, PERSON, 5
+earlier this week, DATE, 5
+CCTV, ORG, 5
+Derek Griffiths, PERSON, 5
+Mary, PERSON, 5
+four years, DATE, 5
+Steph Britton, PERSON, 5
+American, NORP, 5
+40-year-old, DATE, 5
+26, CARDINAL, 5
+THREE, CARDINAL, 5
+3, CARDINAL, 5
+Valley, LOC, 5
+Royal Ascot, ORG, 5
+Connor McIntyre, PERSON, 5
+2, CARDINAL, 5
+winter, DATE, 5
+Hilda, ORG, 5
+Izzy, GPE, 5
+Bethnal Green, ORG, 5
+13, CARDINAL, 5
+China, GPE, 5
+ANNA Windass, PERSON, 5
+Sacked Coronation Street, ORG, 5
+Instagram, ORG, 5
+TWO, CARDINAL, 5
+LONDON, GPE, 5
+last night's, TIME, 5
+Aaron, PERSON, 5
+Scott Sinclair, PERSON, 5
+Zeedan, PERSON, 5
+Kevin, PERSON, 5
+Helen Flanagan's, PERSON, 5
+Coronation Street Spoiler, ORG, 5
+Ken Barlow’s, PERSON, 5
+Tony Warren MBE, PERSON, 5
+Scotland Yard, ORG, 5
+Wales, GPE, 5
+Anne, PERSON, 5
+| Daily Mail Online, ORG, 5
+CORONATION Street, LOC, 5
+hundreds, CARDINAL, 5
+18-year-old, DATE, 5
+Sally Metcalfe, PERSON, 5
+UCLA, ORG, 5
+seven, CARDINAL, 5
+Mike Baldwin, PERSON, 5
+nine, CARDINAL, 5
+Ozzy, PERSON, 5
+Corrie, GPE, 5
+the years, DATE, 5
+this year, DATE, 5
+the age of 90, DATE, 5
+Cerezales del Condado, FAC, 5
+Syrian, NORP, 5
+2013, DATE, 5
+Capitol, ORG, 5
+Sonia, GPE, 5
+Earth, LOC, 5
+Izzy, NORP, 5
+Belgium, GPE, 5
+Spain, GPE, 5
+14, CARDINAL, 5
+1987, DATE, 5
+last week, DATE, 5
+Jenna Coleman, PERSON, 5
+Underworld, ORG, 5
+the day, DATE, 5
+Bhavna Limbachia, PERSON, 5
+Daily Mail Online Coronation Street's, ORG, 5
+1964, DATE, 5
+| Daily Mail, ORG, 5
+Air Force One, PRODUCT, 5
+Peter Andre, PERSON, 5
+Peter, PERSON, 5
+CORRIE, ORG, 5
+Catherine Tyldesley’s, PERSON, 5
+Brazil, GPE, 5
+23-year-old, DATE, 5
+Josh McEachran, PERSON, 5
+January, DATE, 5
+Deirdre Barlow, PERSON, 5
+Kym Marsh, FAC, 5
+Elizabeth, PERSON, 5
+Ex Coronation Street, ORG, 5
+France, GPE, 5
+2004, DATE, 5
+Istanbul, GPE, 5
+Giovanni Pernice | Daily Mail, ORG, 5
+Taylor, PERSON, 5
+Nick, PERSON, 5
+30 years, DATE, 5
+just three days, DATE, 5
+Keegan Hirst, PERSON, 5
+Sharif Nazir, WORK_OF_ART, 5
+Three, CARDINAL, 4
+Adam Crofts, PERSON, 4
+Tim Healy, PERSON, 4
+27, DATE, 4
+Gemma Winter, PERSON, 4
+Tom Leech, PERSON, 4
+NASA, ORG, 4
+| Metro News, ORG, 4
+Washington DC, GPE, 4
+Buckingham Palace, FAC, 4
+Tina, PERSON, 4
+Ken Barlow's, PERSON, 4
+Caz, PERSON, 4
+12 months, DATE, 4
+Melanie Hill, PERSON, 4
+19, DATE, 4
+Devon, PERSON, 4
+Hilda Ogden's, PERSON, 4
+Amanda Barrie, PERSON, 4
+Esther Warren, PERSON, 4
+Platt, PERSON, 4
+months, DATE, 4
+Phil, PERSON, 4
+Texas, GPE, 4
+Sally Dyvenor, PERSON, 4
+Sarah Lancashire, PERSON, 4
+North Korea, GPE, 4
+Four, CARDINAL, 4
+the New Year, EVENT, 4
+Yacine Brahimi, PERSON, 4
+Diogo Jota, PERSON, 4
+the Summer Wine, FAC, 4
+51, DATE, 4
+South Africa, GPE, 4
+90, DATE, 4
+FOUR, CARDINAL, 4
+Rovers Return, PERSON, 4
+45, DATE, 4
+YouTube, ORG, 4
+- Mirror Online Coronation Street, ORG, 4
+Bill Gates, PERSON, 4
+another year, DATE, 4
+Johnny Connor, PERSON, 4
+Sean Wilson, PERSON, 4
+Sky News, WORK_OF_ART, 4
+days, DATE, 4
+Sherrie Hewson, PERSON, 4
+KYM Marsh, ORG, 4
+tomorrow, DATE, 4
+Les Dennis', ORG, 4
+79, CARDINAL, 4
+October, DATE, 4
+Dublin, GPE, 4
+Coronation Street Spoilers, ORG, 4
+50, CARDINAL, 4
+34-year-old, DATE, 4
+Strictly Come Dancing, WORK_OF_ART, 4
+Danny Dyer, PERSON, 4
+a day, DATE, 4
+Joint Base Andrews, PERSON, 4
+Pagham, PERSON, 4
+Michelle Keegan ', PERSON, 4
+Karen Briggs, PERSON, 4
+ISIS, ORG, 4
+English, LANGUAGE, 4
+43, DATE, 4
+Alexander, PERSON, 4
+Solar Dynamics Observatory, ORG, 4
+53, DATE, 4
+Liam, PERSON, 4
+36-year-old, DATE, 4
+Sally Dynevor, PERSON, 4
+Conservatives, NORP, 4
+Ukip, GPE, 4
+Sarah Harding, PERSON, 4
+the night, TIME, 4
+three years, DATE, 4
+Luke Britton, PERSON, 4
+Paul Loughran, PERSON, 4
+late 2017, DATE, 4
+18, CARDINAL, 4
+Denise, PERSON, 4
+103, CARDINAL, 4
+Tories, NORP, 4
+July, DATE, 4
+Robert, PERSON, 4
+Manchester, PERSON, 4
+Russia, GPE, 4
+Jean, PERSON, 4
+Catherine Tyldesley's, PERSON, 4
+Pat, PERSON, 4
+Katie, PERSON, 4
+fourth, ORDINAL, 4
+Tina McIntyre, PERSON, 4
+a night, TIME, 4
+David Platt's, PERSON, 4
+Michelle Connor, ORG, 4
+Webster, PERSON, 4
+Shayne Ward, FAC, 4
+Yves, PERSON, 4
+Freya, PERSON, 4
+59, DATE, 4
+Manchester City, GPE, 4
+Alexander, ORG, 4
+52, DATE, 4
+the TV Choice Awards, ORG, 4
+a decade, DATE, 4
+Leanne’s, ORG, 4
+Glasgow, GPE, 4
+Champions League, ORG, 4
+August, DATE, 4
+evening, TIME, 4
+ITV News, WORK_OF_ART, 4
+Vernon Kay, PERSON, 4
+Moorgate, ORG, 4
+2005, DATE, 4
+Hustle, ORG, 4
+¦, PERSON, 4
+Ben Price, PERSON, 4
+12, CARDINAL, 4
+Sean Tully, PERSON, 4
+Boris Johnson, PERSON, 4
+Suranne Jones, PERSON, 4
+Hull city, GPE, 4
+Michelle Collins, PERSON, 4
+Twickenham, GPE, 4
+Mark, PERSON, 4
+Sheffield, GPE, 4
+A&E, ORG, 4
+Tom Shaw, PERSON, 4
+North Greenwich, GPE, 4
+Kate Connor, PERSON, 4
+MARIA Connor, ORG, 3
+four year, DATE, 3
+Mark Wright's, PERSON, 3
+Love Island, LOC, 3
+San Diego, GPE, 3
+| Daily Star, ORG, 3
+21, DATE, 3
+15, CARDINAL, 3
+Nasa, ORG, 3
+Bobby, PERSON, 3
+a month, DATE, 3
+Pernice, ORG, 3
+Maria Connor, ORG, 3
+year-long, DATE, 3
+Seoul, GPE, 3
+Coronation Street, EVENT, 3
+KEN Barlow, PERSON, 3
+Erica Holroyd, PERSON, 3
+Broadchurch, ORG, 3
+Charlie Higson, PERSON, 3
+BAFTA, ORG, 3
+Norris, PERSON, 3
+Kim Jong-un, PERSON, 3
+six minutes, TIME, 3
+MARY Taylor, PERSON, 3
+Rosie Attwood, PERSON, 3
+SWAT, PERSON, 3
+more than a decade, DATE, 3
+BRUSSELS, ORG, 3
+Leipzig, GPE, 3
+Coronation Street ', ORG, 3
+Capitol Building, ORG, 3
+Will Chatterton, PERSON, 3
+Daniel, ORG, 3
+DIE, ORG, 3
+The British Soap Awards, ORG, 3
+2015, DATE, 3
+Martin Platt, PERSON, 3
+20 years, DATE, 3
+Chris Hargreaves, PERSON, 3
+Trump, PERSON, 3
+Tony Warren's, PERSON, 3
+Matilda, PERSON, 3
+Parliament, ORG, 3
+Rob Mallard, PERSON, 3
+56-year, DATE, 3
+SOAP, ORG, 3
+56 years, DATE, 3
+Toyah Battersby's, PERSON, 3
+30, DATE, 3
+CORONATION Street’s, FAC, 3
+Adam Thomas, PERSON, 3
+Munich, GPE, 3
+Kirk, PERSON, 3
+Callum Logan’s, PERSON, 3
+Nevada, GPE, 3
+Aidan Turner, PERSON, 3
+Jennie McAlpine, PERSON, 3
+Albert, PERSON, 3
+CORONATION Street, FAC, 3
+Helen Flanagan’s, PERSON, 3
+Matilda, ORG, 3
+the World Health Organisation, ORG, 3
+Marc Anwar's, PERSON, 3
+Brexit, PERSON, 3
+1918, DATE, 3
+this summer, DATE, 3
+Cheshire, GPE, 3
+83-year-old, DATE, 3
+two days, DATE, 3
+72-year-old, DATE, 3
+Nick Tilsley's, PERSON, 3
+Halloween, DATE, 3
+Maria Connor’s, ORG, 3
+Johnny Briggs', PERSON, 3
+LOCKDOWN, ORG, 3
+Amanda Barrie, ORG, 3
+three-day, DATE, 3
+Kim Jong-Un, PERSON, 3
+2003, DATE, 3
+two weeks, DATE, 3
+Liam Bairstow, PERSON, 3
+Revlon, ORG, 3
+Red Dwarf, ORG, 3
+Izzy Armstrong, PERSON, 3
+Antonino Fernandez, PERSON, 3
+22-year-old, DATE, 3
+Islamic, NORP, 3
+Todd Grimshaw | TV & Radio, PERSON, 3
+Tube, ORG, 3
+Venezuela, GPE, 3
+April, DATE, 3
+Danny Miller, PERSON, 3
+Donald Trump’s, PERSON, 3
+Dougie Ryan, PERSON, 3
+Catherine, PERSON, 3
+the White House, ORG, 3
+Iowa, GPE, 3
+Hillary, PERSON, 3
+Democratic, NORP, 3
+41-year-old, DATE, 3
+83, CARDINAL, 3
+March, DATE, 3
+43-year-old, DATE, 3
+Denmark, GPE, 3
+Coronation Street | TV & Radio, FAC, 3
+SIX, ORG, 3
+sixth, ORDINAL, 3
+Kevin Webster's, PERSON, 3
+recent weeks, DATE, 3
+Lincoln Townley, ORG, 3
+London Zoo, PERSON, 3
+New Year's Eve, EVENT, 3
+Louise Gibbons, PERSON, 3
+nearly 300, CARDINAL, 3
+Eva, ORG, 3
+HELEN FLANAGAN, PERSON, 3
+Kym, PERSON, 3
+KYM MARSH, ORG, 3
+Linda, PERSON, 3
+Tiffany's, ORG, 3
+Salford, GPE, 3
+the British Soap Awards, ORG, 3
+the British, ORG, 3
+Alya, PERSON, 3
+Emma, PERSON, 3
+15 years, DATE, 3
+Lorraine, PERSON, 3
+Marion, ORG, 3
+MICHELLE Keegan, PERSON, 3
+23, DATE, 3
+Sunday night, TIME, 3
+Southport, ORG, 3
+Jean Alexander - Mirror, PERSON, 3
+Alison, PERSON, 3
+LES Dennis, ORG, 3
+hours, TIME, 3
+last month, DATE, 3
+40th, ORDINAL, 3
+Pakistani, NORP, 3
+Sylvia Peters, PERSON, 3
+' - Mirror Online, ORG, 3
+Olympics, EVENT, 3
+Hillary Clinton, PERSON, 3
+three-year-old, DATE, 3
+A Celebrity, WORK_OF_ART, 3
+Richard Hawley, PERSON, 3
+Good Morning Britain, LOC, 3
+Kirk Sutherland, PERSON, 3
+Beth, PERSON, 3
+Spen, PERSON, 3
+Curly, GPE, 3
+Watts, LOC, 3
+Seven, CARDINAL, 3
+December, DATE, 3
+recent months, DATE, 3
+Johnny Briggs, PERSON, 3
+UN, ORG, 3
+Capitol Hill, ORG, 3
+Mikey North, PERSON, 3
+Turkish, NORP, 3
+Eileen Derbyshire, PERSON, 3
+Queens, GPE, 3
+almost 300, CARDINAL, 3
+12 years, DATE, 3
+Helen, PERSON, 3
+64th, ORDINAL, 3
+Mexican, NORP, 3
+50th, ORDINAL, 3
+Senate, ORG, 3
+Abi, PERSON, 3
+Laura Whitmore, PERSON, 3
+Andrea Leadsom, PERSON, 3
+National Television Awards, ORG, 3
+New Year’s Eve, EVENT, 3
+Tina O’Brien, PERSON, 3
+dozens, CARDINAL, 3
+Asda, ORG, 3
+Lauren, PERSON, 3
+400, CARDINAL, 3
+Latest News, ORG, 3
+1989, DATE, 3
+this month, DATE, 3
+Adam Rickitt, PERSON, 3
+Carla Connor's, PERSON, 3
+30th, ORDINAL, 3
+Democrats, NORP, 3
+Mrs Cox, PERSON, 3
+Michael Rodwell’s, PERSON, 3
+Batley, GPE, 3
+Gordon, PERSON, 3
+Chemnitz, GPE, 3
+Americas, LOC, 3
+Kym Marsh's, PERSON, 3
+Division, ORG, 3
+the early hours of this morning, TIME, 3
+Five, CARDINAL, 3
+Batley, PERSON, 3
+Ms Cox, PERSON, 3
+CHD, ORG, 3
+Rhian, NORP, 3
+Tess Daly's, ORG, 3
+Irish, NORP, 3
+Michael Rodwell's, PERSON, 3
+Kim Cattrall, PERSON, 3
+Jack P Shepherd, PERSON, 3
+American Airlines, ORG, 3
+Ents & Arts News, ORG, 3
+The Sunday Times, ORG, 3
+USA, GPE, 3
+Arizona, GPE, 3
+Clinton, PERSON, 3
+Bulford, PERSON, 3
+GEM, ORG, 3
+Leanne Tilsey, PERSON, 3
+Sally Dynevor, FAC, 3
+60, CARDINAL, 3
+Brendan, ORG, 3
+Maria, LOC, 2
+25, MONEY, 2
+Newcastle, GPE, 2
+Tim, PERSON, 2
+Donald Trump's, PERSON, 2
+Audrey, PERSON, 2
+Times Square, FAC, 2
+Gail Platt’s, PERSON, 2
+Friday night, TIME, 2
+Bobby | Daily Mail, ORG, 2
+This Morning - Mirror Online, WORK_OF_ART, 2
+Strictly Come Dancing's, WORK_OF_ART, 2
+the Daily Mirror, ORG, 2
+Guards Polo Club, FAC, 2
+Wivenhoe, ORG, 2
+Doctors, ORG, 2
+Star Ball, WORK_OF_ART, 2
+Sunderland, GPE, 2
+North Korean, NORP, 2
+Tesco, ORG, 2
+Alma Sedgewick, PERSON, 2
+University of Toronto, ORG, 2
+Jane Dan, PERSON, 2
+The Sun SHE, FAC, 2
+SABMiller, ORG, 2
+Wenner Johnson, PERSON, 2
+Manchester |, ORG, 2
+La Loche, ORG, 2
+Scottish, NORP, 2
+150, CARDINAL, 2
+the dramatic week, DATE, 2
+Dutch, NORP, 2
+Sean Ward ', PERSON, 2
+Sarah Parish, PERSON, 2
+David Tennant, PERSON, 2
+Kim, PERSON, 2
+36 years, DATE, 2
+Jack Shepherd, PERSON, 2
+0, CARDINAL, 2
+the last 16 of the Champions League, DATE, 2
+Group G., PERSON, 2
+Jesu, PERSON, 2
+Adam, PERSON, 2
+Scott Thomas, PERSON, 2
+Capitol, FAC, 2
+TERROR, ORG, 2
+Giovanni, ORG, 2
+Catherine Tydsley, PERSON, 2
+Thai, NORP, 2
+Ronnie Dodson, PERSON, 2
+Caz’s, ORG, 2
+’ Coronation Street’s, ORG, 2
+Wukan, PERSON, 2
+Liz McDonald’s, PERSON, 2
+the University of Edinburgh, ORG, 2
+Riot, PERSON, 2
+HMP Birmingham, PERSON, 2
+a million miles, QUANTITY, 2
+81-year-old, DATE, 2
+New Zealand, GPE, 2
+This year, DATE, 2
+the last day, DATE, 2
+Tyrone Dobbs, ORG, 2
+Leon Ockenden, PERSON, 2
+dog Ozzy, PERSON, 2
+number five, CARDINAL, 2
+Bistro, PRODUCT, 2
+JENNY BRADLEY, PERSON, 2
+the big day, DATE, 2
+Dancing On Ice, ORG, 2
+three hours, TIME, 2
+Georgia May Foote's, ORG, 2
+Bistro, FAC, 2
+Liz McDonald's, PERSON, 2
+Susie Fenwick, PERSON, 2
+1990s, DATE, 2
+North Carolina, GPE, 2
+Northern Ireland, GPE, 2
+Best Soap, PERSON, 2
+23, CARDINAL, 2
+Vanessa White, PERSON, 2
+Surrey, PERSON, 2
+day one, DATE, 2
+the Republican National Convention, ORG, 2
+Sacha Parkinson, PERSON, 2
+mid-week, DATE, 2
+Barlows, PRODUCT, 2
+Somerville Primary School, ORG, 2
+spring summer, DATE, 2
+THOUSANDS, CARDINAL, 2
+The World Health Organisation, ORG, 2
+Vinny Ashford, PERSON, 2
+Manchester United, ORG, 2
+Toyah Battersby’s, ORG, 2
+just 15 minutes, TIME, 2
+Paula, PERSON, 2
+27-year-old, DATE, 2
+daily, DATE, 2
+31, DATE, 2
+Keith Duffy, PERSON, 2
+Anna Windass', PERSON, 2
+2008, DATE, 2
+Hamish Watson, PERSON, 2
+Corrie’s, GPE, 2
+Sally Dynevor’s, PERSON, 2
+Erica, PERSON, 2
+Jon Snow, PERSON, 2
+Fritz, PERSON, 2
+Alabama, GPE, 2
+30, CARDINAL, 2
+Iranian, NORP, 2
+London Zoo, ORG, 2
+Jenny, PERSON, 2
+Scarlett Moffatt, PERSON, 2
+English, NORP, 2
+Ashley Peacock, PERSON, 2
+Harvard University, ORG, 2
+Budweiser, ORG, 2
+Syria, GPE, 2
+Vinny, ORG, 2
+Hawaiian, NORP, 2
+World Health Organisation, ORG, 2
+Tim Metcalfe, PERSON, 2
+Kylie Platt | TV & Radio, ORG, 2
+Richie O'Driscoll, PERSON, 2
+Kym Marsh ', PERSON, 2
+30,000, MONEY, 2
+late last night, TIME, 2
+three and a half, DATE, 2
+Coronation Street - Bethany Platt, ORG, 2
+25, CARDINAL, 2
+January 2015, DATE, 2
+Nick Tylsley, PERSON, 2
+five years, DATE, 2
+Ryan Thomas', PERSON, 2
+Shayne Ward's, PERSON, 2
+Edward Crawford, PERSON, 2
+Johnson, PERSON, 2
+Emma Beach, PERSON, 2
+MUSLIM, ORG, 2
+BBC Breakfast - Mirror, ORG, 2
+41, DATE, 2
+Daily Mail Online Actors, ORG, 2
+Amanda, ORG, 2
+West Yorkshire, GPE, 2
+Ms Sutcliffe, PERSON, 2
+Bethany Platt's, PERSON, 2
+Georgia Taylor, FAC, 2
+Paul Lawrie, PERSON, 2
+Laura Whitmore ', PERSON, 2
+Ohio State University, ORG, 2
+Nine, CARDINAL, 2
+Abdul Razak, PERSON, 2
+Ali Artan, PERSON, 2
+Jean Alexander’s, PERSON, 2
+Wivenhoe, PERSON, 2
+Graeme Hawley, PERSON, 2
+Bistro, LOC, 2
+Catherine Tyldesley ', PERSON, 2
+Euro 2016, DATE, 2
+four years ago, DATE, 2
+Holly Willoughby, PERSON, 2
+Chemnitz, ORG, 2
+&, ORG, 2
+McDonald, ORG, 2
+Wetherfield, GPE, 2
+Six, CARDINAL, 2
+' - Mirror, ORG, 2
+This week, DATE, 2
+THIS week, DATE, 2
+Macaulay Culkin, PERSON, 2
+90s, CARDINAL, 2
+Andy Moss, PERSON, 2
+Paddy McGuinness, PERSON, 2
+Cath Tyldesley, PERSON, 2
+Sally Lindsay, PERSON, 2
+the Memorial Day, EVENT, 2
+Barack Obama, PERSON, 2
+Pennsylvania Avenue, FAC, 2
+1,000, MONEY, 2
+Coronation Stakes, PERSON, 2
+4.20, CARDINAL, 2
+Coronation Street SPOILER, ORG, 2
+several hours, TIME, 2
+the Republican Convention, ORG, 2
+Manchester College, ORG, 2
+LBD, ORG, 2
+Lady Gaga, PERSON, 2
+Barnaby Joyce, PERSON, 2
+1000, MONEY, 2
+Belfast, GPE, 2
+Tony Stewart, PERSON, 2
+The Sun CORONATION Street, ORG, 2
+Paula Lane ', PERSON, 2
+the Inside Soap Awards, ORG, 2
+Ex-Coronation Street's, ORG, 2
+Gemma Winter, ORG, 2
+Simon Gregson's, PERSON, 2
+Sair Khan, PERSON, 2
+Qasim Akhtar, PERSON, 2
+Actress Paula Lane, PERSON, 2
+Alfie, PERSON, 2
+18 months, DATE, 2
+five years ago, DATE, 2
+15 minutes, TIME, 2
+Tom Hughes, PERSON, 2
+Queen Victoria, PERSON, 2
+Alison King’s, ORG, 2
+only 113, CARDINAL, 2
+Ian Hyland, PERSON, 2
+St Paul's, PERSON, 2
+9am, TIME, 2
+14-year-olds, DATE, 2
+Bill, PERSON, 2
+Royal, ORG, 2
+MILLIONAIRE, ORG, 2
+Samia Ghadia, LOC, 2
+New Year's, EVENT, 2
+59-year-old, DATE, 2
+WHO, ORG, 2
+decade, DATE, 2
+Ian Hyland - Mirror, PERSON, 2
+Shamed Coronation Street, ORG, 2
+Batley, ORG, 2
+Britney Spears, ORG, 2
+SHE, ORG, 2
+Chas, PERSON, 2
+Happy Valley, LOC, 2
+Carla Connor, FAC, 2
+later this week, DATE, 2
+the European Union, ORG, 2
+Mrs Slocombe, PERSON, 2
+Coronation Street , FAC, 2
+Belle, GPE, 2
+Phelan | TV & Radio, ORG, 2
+almost four years, DATE, 2
+Les, PERSON, 2
+Luke, PERSON, 2
+58 years, DATE, 2
+WEEKS, ORG, 2
+Ryan Thomas ', PERSON, 2
+Claudio Ranieri's, PERSON, 2
+Caitlyn Jenner, PERSON, 2
+Kim Kardashian, PERSON, 2
+Caitlyn, PERSON, 2
+Sun Corrie, ORG, 2
+Coronation Street CORONATION Street’s, FAC, 2
+Nicola Sturgeon, ORG, 2
+Obama, PERSON, 2
+Ryan Clark, PERSON, 2
+Daily Mail Online Arriving, ORG, 2
+Queen Elizabeth, PERSON, 2
+30-year-old, DATE, 2
+one-year-old, DATE, 2
+Laura Cross, PERSON, 2
+Peter Barlow’s, PERSON, 2
+Audrey’s, ORG, 2
+Will Rush, PERSON, 2
+Trump, ORG, 2
+Tilsley, GPE, 2
+Elisabeth, PERSON, 2
+Jack P Shepherd’s, ORG, 2
+Will Phelan, PERSON, 2
+six-hour, TIME, 2
+ARMY, ORG, 2
+Monday night's, TIME, 2
+Korea, GPE, 2
+six months, DATE, 2
+Cath, ORG, 2
+Corrie, PRODUCT, 2
+Julie Goodyear, PERSON, 2
+TONIGHT, TIME, 2
+Gossip & More | Daily Star THE Coronation Street, ORG, 2
+the Gold Coast, LOC, 2
+Samia, PERSON, 2
+Francis, PERSON, 2
+AWOL, ORG, 2
+PETER Barlow’s, PERSON, 2
+Les Dennis, FAC, 2
+Janice Battersby, PERSON, 2
+Archie, PERSON, 2
+seven years ago, DATE, 2
+Vicar Billy Mayhew, ORG, 2
+28, CARDINAL, 2
+MailOnline, PERSON, 2
+SINGLE, ORG, 2
+THE US Embassy, ORG, 2
+Tracy Brabin ', PERSON, 2
+Jo Cox - Mirror, PERSON, 2
+Craig, PERSON, 2
+Louise Platt, PERSON, 2
+Britons, PERSON, 2
+sub-zero, CARDINAL, 2
+Wetherfield, PERSON, 2
+RICHARD LITTLEJOHN, PERSON, 2
+Alison King's, PERSON, 2
+Campbell, ORG, 2
+Piers Morgan, PERSON, 2
+GEORGIA May Foote, ORG, 2
+William Klug, PERSON, 2
+Alpine High School, ORG, 2
+CNN, ORG, 2
+World Cup, EVENT, 2
+Killer Kylie, PERSON, 2
+Magaluf, GPE, 2
+Johnny Depp's, PERSON, 2
+Sarah Platt's, PERSON, 2
+Statue, PERSON, 2
+Americans, NORP, 2
+Eight, CARDINAL, 2
+Celeb, ORG, 2
+Kate Middleton, PERSON, 2
+Will - Mirror Online, ORG, 2
+Majo, PERSON, 2
+Motshegetsi, GPE, 2
+Yasmeen, ORG, 2
+Dartmoor Zoological Park, ORG, 2
+Mitchell, PERSON, 2
+29, DATE, 2
+Rachael Isherwood, PERSON, 2
+100, CARDINAL, 2
+the next five years, DATE, 2
+55 years, DATE, 2
+Eileen Derbyshire, ORG, 2
+Clayton on Coronation Street, ORG, 2
+Ben Shephard, PERSON, 2
+2016, CARDINAL, 2
+Oklahoma, GPE, 2
+ten years, DATE, 2
+Charlie, PERSON, 2
+San Antonio, GPE, 2
+1961, DATE, 2
+Southwest Airlines, ORG, 2
+Oklahoma Airport, FAC, 2
+45, CARDINAL, 2
+Nessa Warner, PERSON, 2
+83, DATE, 2
+Giant, ORG, 2
+Granada Television, ORG, 2
+Manchester, PRODUCT, 2
+BBC Army, ORG, 2
+earlier this evening, TIME, 2
+Bushtucker, ORG, 2
+Clayton Hibbs, PERSON, 2
+Richard Arnold, PERSON, 2
+Gail McIntyre, PERSON, 2
+Tina, DATE, 2
+999, CARDINAL, 2
+DEAD, ORG, 2
+Christmas 2016, DATE, 2
+Louise Allen, PERSON, 2
+Ben Kingsley, PERSON, 2
+Coronation Street's, LOC, 2
+Bootle, GPE, 2
+60,000, MONEY, 2
+Mercedes, ORG, 2
+Coronation Street’s Tina, ORG, 2
+Sonia Rahman, PERSON, 2
+Charlie Lawson, PERSON, 2
+Lockdown, ORG, 2
+Instagram | Daily Mail, ORG, 2
+more than a cent, MONEY, 2
+John Barrowman, PERSON, 2
+PAT Phelan, PERSON, 2
+Just days, DATE, 2
+PAULA LANE, PERSON, 2
+Emily Bishop, PERSON, 2
+last November, DATE, 2
+this weekend, DATE, 2
+Ubisoft, PERSON, 2
+TOYAH Battersby, PERSON, 2
+Ronnie, PERSON, 2
+2007, DATE, 2
+53-year-old, DATE, 2
+Goodison, PERSON, 2
+6000 mile, QUANTITY, 2
+Sonia Melchett, PERSON, 2
+anti-Indian, NORP, 2
+Eminem, ORG, 2
+Lose Yourself, PERSON, 2
+Gossip, Rumours & Photos | Daily Star CORONATION Street, ORG, 2
+Ted Robbins, PERSON, 2
+9,000th, CARDINAL, 2
+Charles Lawson, PERSON, 2
+Tuesday night, TIME, 2
+Dean Gaffney, PERSON, 2
+Republicans, NORP, 2
+Wednesday night, TIME, 2
+Weatherfield - Mirror Online, ORG, 2
+Jennifer Lopez, PERSON, 2
+Rana Habeeb, PERSON, 2
+Leadsom, PERSON, 2
+Home, ORG, 2
+Bridget Jones, PERSON, 2
+BT Mobile, ORG, 2
+Luke Skywalker’s, PERSON, 2
+Rey, PERSON, 2
+2020, DATE, 2
+more than 20 years, DATE, 2
+Emilia Clarke, PERSON, 2
+James, PERSON, 2
+24 hours, TIME, 2
+Nick Viall, PERSON, 2
+Good Morning America, LOC, 2
+Group C, ORG, 2
+Nick Platt, PERSON, 2
+Daniel, PERSON, 2
+David Gest, PERSON, 2
+6, CARDINAL, 2
+one half, CARDINAL, 2
+Alex, PERSON, 2
+Jean Alexander - Mirror Online Generations, PERSON, 2
+WIN Strictly Come Dancing, WORK_OF_ART, 2
+Ireland, GPE, 2
+Soapland, GPE, 2
+Steve McDonald’s, PERSON, 2
+Trump’s, ORG, 2
+BBC News, ORG, 2
+Manila, GPE, 2
+Saudi, NORP, 2
+Claudette Hubbard, ORG, 2
+Enfield, ORG, 2
+Capitol Police, ORG, 2
+10am, TIME, 2
+Cinderella, PERSON, 2
+Faye Windass, PERSON, 2
+Coronation Street - Mirror, FAC, 2
+Xbox One, PRODUCT, 2
+PlayStation 4, PRODUCT, 2
+Steven Arnold, PERSON, 2
+Stephen Crabb, PERSON, 2
+Islamist, NORP, 2
+Jonathan Harvey, PERSON, 2
+Beverley, PERSON, 2
+Chinese, NORP, 2
+Television &, ORG, 2
+Saxony, GPE, 2
+X Factor, ORG, 2
+Catherine Tyldesley, PERSON, 2
+SECOND, ORDINAL, 2
+Chrissie, ORG, 2
+Elizabeth II's, PERSON, 2
+Nauru, ORG, 2
+Greens, NORP, 2
+Asia, LOC, 2
+Twickenham, PERSON, 2
+30s, DATE, 2
+Marilyn Dingle, PERSON, 2
+Claudio Ranieri, PERSON, 2
+Foxes, PERSON, 2
+ITV’s, ORG, 2
+9pm, TIME, 2
+Giovanni Pernice - Mirror, ORG, 2
+James Bond, PERSON, 2
+Daniel Craig, PERSON, 2
+Foster, PERSON, 2
+Confederate, ORG, 2
+Ascot, ORG, 2
+EAGLE-EYED, ORG, 2
+ONE, CARDINAL, 2
+Kashmir, LOC, 2
+Congress, ORG, 2
+last night’s, TIME, 2
+eight-year-old, DATE, 2
+Luton, GPE, 2
+three weeks, DATE, 2
+seven-year-old, DATE, 2
+Marc Anwar ', PERSON, 2
+Africa, LOC, 2
+Sarah-Louise, PERSON, 2
+Joan Collins, PERSON, 2
+LA, GPE, 2
+Anwar, PERSON, 2
+New York City, GPE, 2
+Michigan, GPE, 2
+Nick Clegg, PERSON, 2
+Debbie, PERSON, 2
+the North West RTS Awards, ORG, 2
+Bowie, ORG, 2
+250,000, MONEY, 2
+just weeks, DATE, 2
+Richard Hillman, PERSON, 2
+Maxine Peacock, ORG, 2
+St Aloysius' College, PERSON, 2
+Todd Grimshaw - Mirror, PERSON, 2
+the new year, DATE, 2
+London Zoo, FAC, 2
+the National TV Awards, ORG, 2
+DALLAS, GPE, 2
+David Willcox, PERSON, 2
+Palm Beach Airport, GPE, 2
+Charles, PERSON, 2
+Craig Tinker's, PERSON, 2
+Emily, PERSON, 2
+Nick Tilsley’s, PERSON, 2
+Isis, ORG, 2
+Sarah-Louise Platt, PERSON, 2
+Alan Halsall's, PERSON, 2
+Our Girl - Mirror Online, FAC, 2
+Louis Armstrong, PERSON, 2
+44, DATE, 2
+four months, DATE, 2
+Antonio Fernandez, PERSON, 2
+Maria Connor's, ORG, 2
+Steven Yeun, PERSON, 2
+Poldark, ORG, 2
+31st, ORDINAL, 2
+28, DATE, 2
+Vera Duckworth, ORG, 2
+Angela Griffin, PERSON, 2
+Gail Rodwell, PERSON, 2
+2011, DATE, 2
+Best British Soap, PERSON, 2
+Greater Manchester, GPE, 2
+DOG, ORG, 2
+278, CARDINAL, 2
+Tina O'Brien's, PERSON, 2
+Christian, NORP, 2
+HMP Swaleside, ORG, 2
+Gossip, Rumours & Photos | Daily Star, ORG, 2
+Bridget, PERSON, 2
+Frankie Dettori, PERSON, 2
+Frozen, PERSON, 2
+Don King, PERSON, 2
+their days, DATE, 2
+Manchester Cathedral, ORG, 2
+Premier League, ORG, 2
+Kev, ORG, 2
+1-year-old, DATE, 2
+Phelan’s, ORG, 2
+Archie, LOC, 2
+Jaber Albakr, PERSON, 2
+Tesco Bank, ORG, 2
+eight-hour, TIME, 2
+Elbeuf, GPE, 2
+Dev, PERSON, 2
+Sinead Tinker, PERSON, 2
+1968, DATE, 2
+the week, DATE, 2
+Sarah Lou’s, PERSON, 2
+Dan Brocklebank, PERSON, 2
+Call of Duty, ORG, 2
+Myanmar, GPE, 2
+Pentonville, GPE, 2
+Nick Tilsey, PERSON, 2
+Beth Tinker’s, PERSON, 2
+the Republican Party, ORG, 2
+SHAYNE Ward, ORG, 1
+the X Factor, WORK_OF_ART, 1
+Samia Longchambon, ORG, 1
+Maria Connor ', PERSON, 1
+The Sun RETURNING Coronation Street, ORG, 1
+Washington State, GPE, 1
+Burlington, GPE, 1
+the Washington State Patrol, ORG, 1
+Sergeant Mark Francis, PERSON, 1
+the Cascade Mall, FAC, 1
+66 miles, QUANTITY, 1
+Seattle, GPE, 1
+a traumatic 12 months, DATE, 1
+Cirque De Soleil, ORG, 1
+Sarah Louise Platt, PERSON, 1
+Susan Cookson, PERSON, 1
+Daily Mail Online Extras, ORG, 1
+50.50, MONEY, 1
+the early 1980s, DATE, 1
+Lesley, ORG, 1
+Benidorm, PERSON, 1
+Auf Wiedersehen, PERSON, 1
+Brian Tully, PERSON, 1
+Loose Woman, ORG, 1
+1988, DATE, 1
+Matthew, ORG, 1
+1975, DATE, 1
+Joan Anderton, PERSON, 1
+just 12 weeks, DATE, 1
+Adam and, PERSON, 1
+Todd Grimshaw - Daily Star, PERSON, 1
+Rochelle Humes, FAC, 1
+Orangutan, PERSON, 1
+Sedgwick County Zoo, FAC, 1
+ZOO, GPE, 1
+Alcoholic Coronation Street's, ORG, 1
+Michael Le Vell ', PERSON, 1
+The Mere Golf Resort, WORK_OF_ART, 1
+Knutsford, GPE, 1
+nearly two years, DATE, 1
+Kylie’s Destiny’s, ORG, 1
+Coronation Street - Callum's, FAC, 1
+Audrey Robert's, PERSON, 1
+Central New York, ORG, 1
+McDonald's, ORG, 1
+Tina & Bobby, ORG, 1
+The Guardian Prison Officers’ Association, ORG, 1
+millions of miles, QUANTITY, 1
+Jane Danson's, PERSON, 1
+Jane Danson’s, PERSON, 1
+more than 60 years, DATE, 1
+HELEN FLANAGAN, ORG, 1
+Great British Bake Off, ORG, 1
+a dramatic year, DATE, 1
+the upcoming weeks, DATE, 1
+Strictly Come Dancing series - Mirror Online, WORK_OF_ART, 1
+SPOILER, ORG, 1
+one month, DATE, 1
+Corrie Horror, PERSON, 1
+| Register | The Times Buckingham, ORG, 1
+Palace23rd July, DATE, 1
+Patron, GPE, 1
+Hurlingham Polo Association, ORG, 1
+the Coronation Cup at, LAW, 1
+Windsor Great Park, FAC, 1
+Buckingham, GPE, 1
+Pablo Duarte, PERSON, 1
+KYM MARSH, PERSON, 1
+Essex, NORP, 1
+1.2million, CARDINAL, 1
+Matt Kennard CORONATION Street, PERSON, 1
+Matt Kennard, PERSON, 1
+Mary Taylor , PERSON, 1
+ITV News School, ORG, 1
+Manchester | Daily Mail Online Catherine, ORG, 1
+Blackfriars Station, ORG, 1
+Blackfriars Station, FAC, 1
+KEN Barlow’s, PRODUCT, 1
+Leicester City, GPE, 1
+the London Tube', FAC, 1
+Damon Smith, PERSON, 1
+Hilda Ogden Coronation Street, ORG, 1
+Stan - Mirror Online Actress Jean, ORG, 1
+Kim Jong Un, PERSON, 1
+Kim Jong-Un's, PERSON, 1
+Coronation Street moments, FAC, 1
+Hilda Ogden’, PERSON, 1
+FEMALE, ORG, 1
+Victoria Melaugh, PERSON, 1
+Kwaku Kumah, PERSON, 1
+Amanda Barrie - Latest news, ORG, 1
+Baldwin, PERSON, 1
+THE University of Toronto, ORG, 1
+six hour, TIME, 1
+Michelle CORONATION Street, PERSON, 1
+the age of 79, DATE, 1
+just a month, DATE, 1
+ART IMITATING LIFE, ORG, 1
+Daily Star IT, WORK_OF_ART, 1
+AB InBev's, ORG, 1
+AB InBev’s, ORG, 1
+£79 billion, MONEY, 1
+almost a third, CARDINAL, 1
+Pilsner Urquell, PERSON, 1
+86, DATE, 1
+more than 8,000, CARDINAL, 1
+Mumbai, GPE, 1
+Mumbaikars’, EVENT, 1
+Toyah Battersby - Liverpool Echo, PERSON, 1
+1750-1900, DATE, 1
+George III, PERSON, 1
+Queen Charlotte, PERSON, 1
+Robert, Tracy, ORG, 1
+Carla - Mirror Online, ORG, 1
+Peter, Daniel & Adam - Daily Star, ORG, 1
+Attacker, ORG, 1
+about 280, CARDINAL, 1
+Aidan - Mirror, ORG, 1
+Netherlands, GPE, 1
+Friesland.&#13, NORP, 1
+Nathalie Schubart, PERSON, 1
+Giovanni Pernice, PERSON, 1
+Ward, ORG, 1
+their eight month, DATE, 1
+450, CARDINAL, 1
+Nottingham City Centre, GPE, 1
+early yesterday, DATE, 1
+20 and 21, DATE, 1
+4.30am, CARDINAL, 1
+Chris Chibnall, PERSON, 1
+Dorset, PERSON, 1
+Ellie Miller, PERSON, 1
+Mistresses, ORG, 1
+Julie Hesmondhalgh.&#13, PERSON, 1
+Georgina Campbell, PERSON, 1
+Mark Bazeley, PERSON, 1
+Catherine Cawood, PERSON, 1
+Pride of Britain Awards, ORG, 1
+2016 Day, DATE, 1
+Commonwealth Cup, ORG, 1
+Coronation Cup, EVENT, 1
+Jason (Thomas, PERSON, 1
+Cheltenham Festival 2016, EVENT, 1
+Claudio Ranieri’s, ORG, 1
+the Champions League, ORG, 1
+Lucy Fallon's, PERSON, 1
+Ryan Roberts, PERSON, 1
+two-year, DATE, 1
+Lana Martin , PERSON, 1
+Daily Mail Online Ryan, ORG, 1
+12 weeks, DATE, 1
+Manchester city, GPE, 1
+Last of, DATE, 1
+Coronation Street AXED, ORG, 1
+EVER - Mirror Online, ORG, 1
+Brookside and Neighbours, ORG, 1
+Mary Taylor's, PERSON, 1
+1997, DATE, 1
+four years later, DATE, 1
+JACK P. Shepherd, PERSON, 1
+The Sun KYLIE Platt’s, ORG, 1
+Coronation Street - Les Dennis QUITS, FAC, 1
+70mph, QUANTITY, 1
+3-day, DATE, 1
+Xmas, PERSON, 1
+8 months, DATE, 1
+ACTRESS Michelle Keegan, ORG, 1
+EIGHT MONTHS, DATE, 1
+23 years from 1964 to 1987, DATE, 1
+ITV News Gunshots, ORG, 1
+Capitol Visitors Center, ORG, 1
+US Senate, ORG, 1
+Liz MacDonald, PERSON, 1
+Leanne, PERSON, 1
+Coronation Street - David's, ORG, 1
+Kelloe , PERSON, 1
+Wetherspoons, ORG, 1
+Yates, PERSON, 1
+Revolutions, ORG, 1
+at least a year, DATE, 1
+ITV News A, ORG, 1
+Alpine, ORG, 1
+NBC KWES.The, ORG, 1
+Every day, DATE, 1
+Creepy Caz, ORG, 1
+White City, GPE, 1
+Brick Lane, FAC, 1
+Cheshire Street, FAC, 1
+a mile, QUANTITY, 1
+Victoria Park Square, GPE, 1
+13-year-old, DATE, 1
+Wukan China, ORG, 1
+Guangdong province, GPE, 1
+Photographs reveal, ORG, 1
+Manchester, LOC, 1
+more than 30 years, DATE, 1
+BBC One's, ORG, 1
+Spoiler, ORG, 1
+Daily Mail Online Catherine, ORG, 1
+Lucy-Jo Hudson | Celebrity, PERSON, 1
+Tiny, ORG, 1
+Paddington, GPE, 1
+Heathrow, FAC, 1
+Paddington Station, ORG, 1
+Friday, January 15, DATE, 1
+Philip Norman, PERSON, 1
+LABOUR, ORG, 1
+at least a dozen, CARDINAL, 1
+At least nine, CARDINAL, 1
+Winson Green, PERSON, 1
+HUNDREDS, CARDINAL, 1
+Lauren Goodger | Daily Mail, PERSON, 1
+Lauren Goodger, PERSON, 1
+US Congress, ORG, 1
+Capitol Visitor Centre, ORG, 1
+Washington,, GPE, 1
+DC, GPE, 1
+Kylie Platt death - Daily Star, PERSON, 1
+Ian Liston, PERSON, 1
+Kate Ford CORONATION Street, PERSON, 1
+Norovirus, PRODUCT, 1
+Coronation Cup, ORG, 1
+Varian, NORP, 1
+five-year-old, DATE, 1
+Epsom, LOC, 1
+Elizabeth II - but, PERSON, 1
+Trevor Murfitt, PERSON, 1
+Cascade Mall |, FAC, 1
+CRAZED, ORG, 1
+Andrew Sachs, PERSON, 1
+Graeme Farrah, PERSON, 1
+New Cross, ORG, 1
+Oakham, ORG, 1
+Silkhouse Court, ORG, 1
+Tithebarn Street, LOC, 1
+Merseyside Police, ORG, 1
+Daily Star SOAP, WORK_OF_ART, 1
+Clever Coronation Street, ORG, 1
+Dev Alahan HORRIFIED, PERSON, 1
+Hilda’s, ORG, 1
+Manchester - Mirror, ORG, 1
+Kensington High Street, ORG, 1
+the Bistro CORONATION Street, LOC, 1
+STEVE MCDONALD'S, PERSON, 1
+the next few weeks - and, DATE, 1
+Sylivaian, NORP, 1
+Sylivaian Longchambon, PERSON, 1
+Star Trek to Coronation Street - TV, WORK_OF_ART, 1
+Cathy Come Home, PERSON, 1
+More than 5,000, CARDINAL, 1
+Louth, LOC, 1
+Lincs, GPE, 1
+EAGLE-EYED Coronation Street, ORG, 1
+Boaler Street School, ORG, 1
+Ben Turner, PERSON, 1
+Twitter or, LAW, 1
+The Sun SHE, ORG, 1
+United Nations General Assembly, ORG, 1
+NEW York, GPE, 1
+Sky News Ex-Coronation Street, ORG, 1
+the 1980s and, DATE, 1
+Carl Foster, PERSON, 1
+Des Barnes, GPE, 1
+TRACY Brabin, PERSON, 1
+Oldham, PERSON, 1
+Arabic, NORP, 1
+the New Year's Eve, EVENT, 1
+Nick Fagge, PERSON, 1
+Eagle, ORG, 1
+Crabtree Valley, LOC, 1
+VC, ORG, 1
+Ulster&rsquo;s, ORG, 1
+First World War, EVENT, 1
+Sgt Robert Quigg VC, PERSON, 1
+Coronation Street’s Hayley, ORG, 1
+Inside Soap Awards, EVENT, 1
+Daily Mail Online Beverley Callard, ORG, 1
+Newark, GPE, 1
+Hilary Swank, PERSON, 1
+Daily Star TELLY, PERSON, 1
+Kirby Leigh Scoular, PERSON, 1
+Luke Pasqualino, PERSON, 1
+Guards Polo Club | Daily Mail, FAC, 1
+Egham, GPE, 1
+Shayne Ward ', ORG, 1
+Kelloe, PERSON, 1
+Coronation Streets, ORG, 1
+Boxing Day CORONATION Street, EVENT, 1
+Coronation Street - Daily Star, ORG, 1
+Noah, PERSON, 1
+Granada Television&rsquo;s, PERSON, 1
+the months, DATE, 1
+Brian Packham, PERSON, 1
+Sue Cleaver, FAC, 1
+Vinny | TV & Radio, ORG, 1
+Wallasey, Merseyside, ORG, 1
+the Tyrone Dobbs, ORG, 1
+LGBT, ORG, 1
+'' - Mirror Online, WORK_OF_ART, 1
+Tina O'Brien - will, PERSON, 1
+Coronation Street | Television &, ORG, 1
+&quot;protection zone&quot, ORG, 1
+Michelle Connor's, ORG, 1
+Liv, PERSON, 1
+Swat, PERSON, 1
+Boob HQ, ORG, 1
+the Palace of Westminster, FAC, 1
+Louis Vuitton, PERSON, 1
+Rio, ORG, 1
+Ipanema, GPE, 1
+Independent &#13, ORG, 1
+the past three or so years, DATE, 1
+Milan, GPE, 1
+Havana, GPE, 1
+Palm Springs, GPE, 1
+Coronation Street -, FAC, 1
+Michael Hogan, PERSON, 1
+|, ORG, 1
+Steven Morrissey, PERSON, 1
+Radio 1, ORG, 1
+the mid-1980s, DATE, 1
+Smiths, PERSON, 1
+Hang the DJ”, WORK_OF_ART, 1
+Alderley Edge, PERSON, 1
+Coronation Street SPOILER - New Year, ORG, 1
+The new year, DATE, 1
+Controversial Coronation Street, ORG, 1
+Yorkshire, PERSON, 1
+Pistol, PERSON, 1
+Boo - Mirror, ORG, 1
+Loose Women SHERRIE Hewson, ORG, 1
+twenty years, DATE, 1
+Jose Mourinho, PERSON, 1
+Andy Tate -, PERSON, 1
+Portuguese, NORP, 1
+Manc, PERSON, 1
+LEGEND, WORK_OF_ART, 1
+Earth - World News - Mirror, LOC, 1
+The I’m A Celebrity, WORK_OF_ART, 1
+Kingston High Street, GPE, 1
+Kylie Platt DAVID Platt, PERSON, 1
+the Rover’s Retu, ORG, 1
+Daniel Osbourne’s, PERSON, 1
+Love Island's, LOC, 1
+Scott Thomas, LOC, 1
+Boohoo | Daily Mail, ORG, 1
+Alex Jones, PERSON, 1
+Jack P Shepherd's, ORG, 1
+Samantha Milewski, PERSON, 1
+Greyson, PERSON, 1
+Jean Alexander's, PERSON, 1
+DAVID Platt’s, PERSON, 1
+Times Ballyboughal’s, ORG, 1
+roughly 12km, QUANTITY, 1
+The Boyzone and Coronation, ORG, 1
+hour, TIME, 1
+Cenotaph, ORG, 1
+Parliament Square, FAC, 1
+Trafalgar Square, FAC, 1
+3.30pm, CARDINAL, 1
+5.20pm, CARDINAL, 1
+¨River City, GPE, 1
+Glaswegian, PERSON, 1
+Caledonian, NORP, 1
+Soccer Aid | Daily Mail, ORG, 1
+9, CARDINAL, 1
+Roy Cropper CANCELS, PERSON, 1
+Cathy Matthews - Mirror Online, PERSON, 1
+a rocky week, DATE, 1
+three dozen, CARDINAL, 1
+Edinburgh University, ORG, 1
+37, CARDINAL, 1
+Coronation Street Beth, ORG, 1
+Jason Grishaw, PERSON, 1
+Toyah Battersby SIMON Barlow, PERSON, 1
+Hannan Ibrahim, PERSON, 1
+nine foot, QUANTITY, 1
+Manchester, WORK_OF_ART, 1
+Snatch, NORP, 1
+Tony Warren - who, PERSON, 1
+Bethany Platt in Coronation Street, PERSON, 1
+Maria Connor MARIA Connor’s, ORG, 1
+65, DATE, 1
+MediaCity Manchester, ORG, 1
+Commonwealth, ORG, 1
+one egg, DATE, 1
+12%, PERCENT, 1
+the EpidStat Institute, ORG, 1
+Arya, NORP, 1
+Sexy TV, ORG, 1
+Ingrid Coronado, PERSON, 1
+Pat Phelan’s, PERSON, 1
+100-year-old, DATE, 1
+84, DATE, 1
+Procter R. Hug High School, ORG, 1
+Reno, GPE, 1
+74-year-old, DATE, 1
+Twitter | Daily Mail Online Actors, ORG, 1
+THE I’m A Celebrity, ORG, 1
+- Mirror Online Viewers, ORG, 1
+I Am Team GB, ORG, 1
+Chris Farr, PERSON, 1
+Manchester | Daily Mail Online, ORG, 1
+Jenny McAlpine, PERSON, 1
+SPLIT, PERSON, 1
+UPROAR, ORG, 1
+Thirty, CARDINAL, 1
+Jonathan Ross, PERSON, 1
+Sarah-Louise's, PERSON, 1
+Facebook | Daily Mail Online Munich, ORG, 1
+Olympic Park, FAC, 1
+McDonald - Mirror, ORG, 1
+Sky News An, WORK_OF_ART, 1
+Fiz, ORG, 1
+Adam Thomas's, PERSON, 1
+Twitter after Adam, WORK_OF_ART, 1
+Gogglebox, PERSON, 1
+| Daily Mail Online Busy, ORG, 1
+Grange Hill, FAC, 1
+Hollywood - Mirror Online, ORG, 1
+Tinseltown, GPE, 1
+Claire, PERSON, 1
+Julia Haworth, LOC, 1
+Claire Casey, PERSON, 1
+Ashley Peacock’s, ORG, 1
+Joshua, PERSON, 1
+Leaked Coronation Street, ORG, 1
+YESTERDAY, DATE, 1
+Adam finishes, PERSON, 1
+Adam’s, PERSON, 1
+Kady McD, PERSON, 1
+hour-long, TIME, 1
+Maria’s, PERSON, 1
+Scott Sinclair, ORG, 1
+Le Royal Meridien Beach Resort, FAC, 1
+1%, PERCENT, 1
+five per cent, MONEY, 1
+25 per cent, MONEY, 1
+the next 24 to 28 years, DATE, 1
+Peppa Pig World, FAC, 1
+AB InBev, PERSON, 1
+Anheuser-Busch InBev, ORG, 1
+Stella Artois, PERSON, 1
+The Sunday Times Terrorism, ORG, 1
+Ukraine, GPE, 1
+Doom, PERSON, 1
+Sylvain, ORG, 1
+September last year, DATE, 1
+her crown seconds, TIME, 1
+Leticia Cappatto, PERSON, 1
+Aidan & Corrie, ORG, 1
+Robert Preston’s, PERSON, 1
+Emmerdale | Television &, ORG, 1
+The Guardian Charity’s, ORG, 1
+Sarah-Lou’s, PERSON, 1
+Max - ', PERSON, 1
+around two hours, TIME, 1
+LAPD, ORG, 1
+FBI, ORG, 1
+around midday, TIME, 1
+Kylie Platt's Coronation, PERSON, 1
+El Salvador, GPE, 1
+299, CARDINAL, 1
+15 days, DATE, 1
+James Midgley, PERSON, 1
+Dean, PERSON, 1
+FURIOUS, PERSON, 1
+Newquay, GPE, 1
+Cornwall, GPE, 1
+post-Christmas ', EVENT, 1
+two-day-old, DATE, 1
+Daily Star SHARIF Nazir, WORK_OF_ART, 1
+Cockcroft, ORG, 1
+the Paralympic Games, EVENT, 1
+Hannah Cockcroft, PERSON, 1
+Leeds Festival |, FAC, 1
+Leeds Festival, EVENT, 1
+3.5, CARDINAL, 1
+Coronation Street - Beverley Callard, ORG, 1
+Tony Warren -, PERSON, 1
+Giovanni Pernice on Celebrity Juice |, ORG, 1
+Coronation Sreet, ORG, 1
+60, DATE, 1
+Emilie Cunliffe, PERSON, 1
+2 per cent, MONEY, 1
+more than $, MONEY, 1
+1.32, MONEY, 1
+31-year, DATE, 1
+The year, DATE, 1
+an estimated 50 million, CARDINAL, 1
+Steve McDonald NICK, PERSON, 1
+Celebrity Big Brother's, ORG, 1
+Stephen Bear CORONATION Street, PERSON, 1
+Sally Ann Matthews, PERSON, 1
+Stephen Bear, PERSON, 1
+Hilda Ogden - Liverpool Echo, FAC, 1
+A Celebrity | Daily Mail, WORK_OF_ART, 1
+Tony Stewart's, PERSON, 1
+Katie Price, PERSON, 1
+Colin Farrell, PERSON, 1
+Abi Titmus, PERSON, 1
+Hilda Ogden’s, PERSON, 1
+The Sun KYLIE Platt, ORG, 1
+Clayton , PERSON, 1
+Anne Kirkbride | TV & Radio, PERSON, 1
+Anne Kirkbride hours, PERSON, 1
+a little after 4, TIME, 1
+Wi-Fi, LOC, 1
+Stephanie Briggs, PERSON, 1
+less than a week, DATE, 1
+the El Centro College, ORG, 1
+17-year-old, DATE, 1
+Burning Man, WORK_OF_ART, 1
+nine-hour, TIME, 1
+60,000, CARDINAL, 1
+Black Rock Desert, GPE, 1
+TOYAH Battersby’s, PERSON, 1
+Toyah, GPE, 1
+Fitness Tips &, ORG, 1
+Tiny village STILL, ORG, 1
+more than two decades, DATE, 1
+James Bond', PERSON, 1
+Elvis Costello, PERSON, 1
+Royal Court, ORG, 1
+Down The Dock Road, WORK_OF_ART, 1
+Oliver Farnworth, PERSON, 1
+Peggy, PERSON, 1
+Albert Square, FAC, 1
+Darkstar, ORG, 1
+St Helens, PERSON, 1
+St Helens, GPE, 1
+Zombie, PERSON, 1
+Bethany, PERSON, 1
+Maria Connor's, PERSON, 1
+less than 30 MINUTES, TIME, 1
+less than half, CARDINAL, 1
+Islamic State, ORG, 1
+San Francisco, GPE, 1
+West Ipswich, GPE, 1
+Brisbane, GPE, 1
+The Red Door Bar, ORG, 1
+about 12.55am this morning, TIME, 1
+Clayton’s, ORG, 1
+Macca, GPE, 1
+Batley FORMER Coronation Street, ORG, 1
+2002, DATE, 1
+Met, PRODUCT, 1
+80, CARDINAL, 1
+Wood End Lane, ORG, 1
+Northolt, GPE, 1
+| Pictures | Pics | Express.co.uk Love, ORG, 1
+month, DATE, 1
+55, DATE, 1
+Republican National Convention - World News - Mirror Online, ORG, 1
+50,000, CARDINAL, 1
+four day, DATE, 1
+North Koreans, NORP, 1
+Charlotte Sutcliffe, PERSON, 1
+David Dixon, PERSON, 1
+Rachel Stevenson, PERSON, 1
+Marie, PERSON, 1
+BBC Radio Four, ORG, 1
+Dixon, PERSON, 1
+Earlier this year, DATE, 1
+Bethany Platt …, WORK_OF_ART, 1
+Japanese, NORP, 1
+Danny Baldwin, PERSON, 1
+December 2006?3, DATE, 1
+Oskar Potiorek, PERSON, 1
+Bosnia and Herzegovina, GPE, 1
+6,000-mile, QUANTITY, 1
+Archie McGeachy, PERSON, 1
+Campbeltown, GPE, 1
+Lawrie, PERSON, 1
+Darren Clarke, PERSON, 1
+the past few days, DATE, 1
+Marc Anwar SACKED, PERSON, 1
+24/7, CARDINAL, 1
+Ten-year, DATE, 1
+Giovanni Pernice ', ORG, 1
+Somali, NORP, 1
+Hilda Ogden FORMER Coronation Street, ORG, 1
+Farrah, PERSON, 1
+Kerry’s, ORG, 1
+the New Year IT’S, EVENT, 1
+Andrew Lancel, PERSON, 1
+Von Trapp, PERSON, 1
+Graeme, ORG, 1
+John Snape, PERSON, 1
+38, DATE, 1
+The Sunday Times Senior Tories, ORG, 1
+BBC News Coronation Street, ORG, 1
+five weeks, DATE, 1
+ANYTHING, ORG, 1
+Coronation Street - Is Toyah Battersby's, FAC, 1
+Dennis’, PERSON, 1
+Choose Love Masquerade Ball, WORK_OF_ART, 1
+Alya Nasir’s, PERSON, 1
+Michael Rodwell , PERSON, 1
+GARY WINDASS, PERSON, 1
+Sky News Tracy Brabin, ORG, 1
+between 1964 and 1987, DATE, 1
+Weatherfield | TV & Radio, ORG, 1
+at least another year, DATE, 1
+Adam Crozier, PERSON, 1
+the first quarter of the year, DATE, 1
+£400 million, MONEY, 1
+20%, PERCENT, 1
+Billionaire, PERSON, 1
+this August, DATE, 1
+Daily Mail Online Actress, ORG, 1
+about 189,000, CARDINAL, 1
+24-year, DATE, 1
+between night, TIME, 1
+CHD).&#13, GPE, 1
+ITV News Coronation Street, ORG, 1
+Sound of Music, ORG, 1
+Terence Maynard, PERSON, 1
+later this summer, DATE, 1
+Callum Harrison, PERSON, 1
+JEAN Alexander , PERSON, 1
+one week ago, DATE, 1
+Paula Lane QUITS Coronation Street, PERSON, 1
+TV Magazine, ORG, 1
+all these years, DATE, 1
+Daily Star SHE’S, WORK_OF_ART, 1
+1986, DATE, 1
+Hammersmith Tube, PERSON, 1
+2.30pm, CARDINAL, 1
+Peter Barlow - Mirror, PERSON, 1
+Jean Alexander ', PERSON, 1
+Stan, PERSON, 1
+Lucy-Jo Hudson's, PERSON, 1
+TEN years, DATE, 1
+her final days, DATE, 1
+Jose Velazquez's, PERSON, 1
+Daily Mail Online RIK, ORG, 1
+One minute, TIME, 1
+Compare The Market, ORG, 1
+Nicole Kidman, PERSON, 1
+Arnold Schwarzenegger, PERSON, 1
+Trinians, NORP, 1
+Molly, GPE, 1
+Demi Moore, PERSON, 1
+Rhys in Hollyoaks, WORK_OF_ART, 1
+Harding, PERSON, 1
+Sam, PERSON, 1
+Patrick Swayze, PERSON, 1
+Hilda Ogden , PERSON, 1
+Carla Connor - Mirror Online Alison King, PERSON, 1
+Celebrity, PERSON, 1
+Ganxian county, GPE, 1
+Jiangxi province, GPE, 1
+Coronation Street Spoilers - Gossip & Soap Storylines, ORG, 1
+Loose Women CORONATION Street, ORG, 1
+Mount Pleasant's, NORP, 1
+Sky 1, PRODUCT, 1
+Gok, PERSON, 1
+A Secret Service, ORG, 1
+Washington DC.&#13, ORG, 1
+Hillary Clinton's, PERSON, 1
+Bern, ORG, 1
+South Korean, NORP, 1
+MINUTES, TIME, 1
+Phuket | Daily Mail Online Co-pilot, ORG, 1
+Lim Hyun Soo, ORG, 1
+South Korea, GPE, 1
+Phuket International Airport, FAC, 1
+Incheon airport, FAC, 1
+the Changing the Guard, ORG, 1
+James Herriot', PERSON, 1
+- Mirror Online Crowds &, ORG, 1
+£1.3 million, MONEY, 1
+Royal Ascot, FAC, 1
+Hackney Empire, ORG, 1
+Phillip Schofield, PERSON, 1
+Viewers, ORG, 1
+Eva Price - Mirror, PERSON, 1
+Bank Holiday, ORG, 1
+The Man From UNCLE, WORK_OF_ART, 1
+Eva Price's ', PERSON, 1
+Almost 500, CARDINAL, 1
+the Al Maha Resort, LOC, 1
+Callum’s, ORG, 1
+69-year-old, DATE, 1
+Carla Conno, PERSON, 1
+Denise Osbou, PERSON, 1
+the next ten years, DATE, 1
+Microsoft, ORG, 1
+billions, CARDINAL, 1
+| Daily Star BETHANY Platt from Coronation Street, PRODUCT, 1
+the last 16 years, DATE, 1
+Shamed Corrie, PERSON, 1
+Daily Star CHRIS Fountain, WORK_OF_ART, 1
+Character Hope Stape, PERSON, 1
+5, DATE, 1
+late last year, DATE, 1
+Gossip, Rumours & Photos | Daily Star ACTRESS Tina O'Brien, ORG, 1
+Bethany Platt BETHANY Platt’s, WORK_OF_ART, 1
+Nyborg, ORG, 1
+Gun Fears For Trump's, ORG, 1
+Sky News Cleveland Police, ORG, 1
+30,000, CARDINAL, 1
+around 11am this morning, TIME, 1
+Aidan Connor-, PERSON, 1
+Stephanie Briggs', ORG, 1
+December 2014 - seven weeks, DATE, 1
+the Menagerie Bar and Restaurant, FAC, 1
+late night, TIME, 1
+Manchester - Mirror Online, ORG, 1
+just 24 years old, DATE, 1
+Corrie SOAP, GPE, 1
+Craig Ti, PERSON, 1
+Marc Jacobs', PERSON, 1
+Coronation Street ’s, FAC, 1
+Hilda Ogden | Daily Mail, ORG, 1
+New York Fashion Week, ORG, 1
+Anna, GPE, 1
+Sandra, PERSON, 1
+Gordon’s, ORG, 1
+the Australian Government, ORG, 1
+Heard, ORG, 1
+40s, DATE, 1
+Paul Slavin, PERSON, 1
+only six months, DATE, 1
+The Sun CORONATION Street, WORK_OF_ART, 1
+Brian Packman, PERSON, 1
+the fall, DATE, 1
+Alex Langshaw, PERSON, 1
+Novak Djokovic, ORG, 1
+Stygian, ORG, 1
+Novak Djokovic, PERSON, 1
+Will Jenny Bradley, PERSON, 1
+Denise Welch - Latest, PERSON, 1
+Waterloo Road, LOC, 1
+24 years, DATE, 1
+13 July 2013, DATE, 1
+Zero, CARDINAL, 1
+Gaetan Dugas, PERSON, 1
+32 years, DATE, 1
+Audi A5, FAC, 1
+Just minutes, TIME, 1
+Coronation Street, LOC, 1
+Key 103 Radio Station, ORG, 1
+Broadchurch | Daily Mail, ORG, 1
+the Bank’s, ORG, 1
+57, DATE, 1
+Launch Party, ORG, 1
+Archer Street Cocktail Lounge, ORG, 1
+Peter Andre's, PERSON, 1
+5 month, DATE, 1
+Tom Pitfield | Daily Mail Online, ORG, 1
+a date night, TIME, 1
+El Niño, ORG, 1
+1936, DATE, 1
+The SS Monte Carlo | Daily Mail, ORG, 1
+The SS Monte Carlo, ORG, 1
+South Coronado Beach, GPE, 1
+US Prohibition, ORG, 1
+August 2020, DATE, 1
+Helen Flanagan BACK, PERSON, 1
+O'Driscolls, ORG, 1
+Marta - Mirror Online, ORG, 1
+Caz, GPE, 1
+Monday night’s, TIME, 1
+At least 30, CARDINAL, 1
+Gary |, PERSON, 1
+Gay Pride, ORG, 1
+Anthony Cotton, PERSON, 1
+I’m A Celebrity, ORG, 1
+Monda, GPE, 1
+Lily, PERSON, 1
+MD, GPE, 1
+Cwm, PERSON, 1
+Radio Times', ORG, 1
+Dean Wicks, ORG, 1
+Mick, PERSON, 1
+Eastenders - Mirror, ORG, 1
+Benidorm, ORG, 1
+64-year-old, DATE, 1
+Wiedersehen Pet and Coronation Street, FAC, 1
+Colchester, GPE, 1
+Stanley Road, LOC, 1
+just after midday, TIME, 1
+more than 14 hours, TIME, 1
+Catherine Tyldesley , PERSON, 1
+Claire King ', PERSON, 1
+Ian Puleston-Davies, PERSON, 1
+Corrie - Mirror, ORG, 1
+Owen Armstrong, PERSON, 1
+Marcella - one, ORG, 1
+the US State Department, ORG, 1
+CLAYTON Hibbs, PERSON, 1
+Kylie Platt, PERSON, 1
+Best British Soap, ORG, 1
+Tom Pitfiel |, PERSON, 1
+Event City, GPE, 1
+Jack P Shepheard, ORG, 1
+23 weeks, DATE, 1
+Coronation Street’s Mariah Connor, ORG, 1
+The Sun Coronation Street’s Mariah Connor, ORG, 1
+Jean Alexander CORONATION Street, PERSON, 1
+Victoria, GPE, 1
+the German Prince, GPE, 1
+Sherrie Hewson - Latest, PERSON, 1
+Sherrie, GPE, 1
+the '70s, DATE, 1
+Reg Holdsworth's, PERSON, 1
+Maureen, PERSON, 1
+one day, DATE, 1
+Aiden Connor in, ORG, 1
+The Sun LES Dennis’, ORG, 1
+the end of this year, DATE, 1
+ITV News Fans, ORG, 1
+Independent Recent, ORG, 1
+’ Asparagus, WORK_OF_ART, 1
+14,000, MONEY, 1
+Ian Hyland - Mirror Online Mirror, PERSON, 1
+six weeks ago, DATE, 1
+St Paul’s Cathedral, ORG, 1
+Angela Londsdale, PERSON, 1
+| Travel News, ORG, 1
+| Travel, ORG, 1
+Angela Lonsdale, PERSON, 1
+49, DATE, 1
+Michelle Keegan’s, PERSON, 1
+Bethany Platt on Coronation Street’s, ORG, 1
+Twitter - Mirror, ORG, 1
+TMI, ORG, 1
+Naked Attraction, WORK_OF_ART, 1
+the fourth day, DATE, 1
+Barry Glendenning, PERSON, 1
+Coronation Street - News, FAC, 1
+Kym Marsh - Liverpool Echo, PERSON, 1
+Asian, NORP, 1
+Crabtree Valley Mall, LOC, 1
+North Carolina Pandemonium, GPE, 1
+CATHERINE Tydlesley, PERSON, 1
+Ryan Thomas' Coronation, PERSON, 1
+Ted Lyons, PERSON, 1
+Edgware, ORG, 1
+1917, DATE, 1
+five consecutive years, DATE, 1
+| Celebs | Celebrity News, ORG, 1
+Gossip, Rumours & Photos |, ORG, 1
+Loose Women | Daily Star, ORG, 1
+Coronation Street SPOILER - Caz, ORG, 1
+Aidan, PERSON, 1
+Bethany | Daily Star CORONATION Street’s, WORK_OF_ART, 1
+Sylvain Longchambon | Celebrity News, ORG, 1
+Disney, ORG, 1
+Jon McEwan, PERSON, 1
+Dallas Airport, FAC, 1
+Lincoln, ORG, 1
+Dibdob, ORG, 1
+Alpha Wing, PERSON, 1
+Lincoln Prison, ORG, 1
+the Sun Nasa's, FAC, 1
+Coronal Hole, FAC, 1
+Coronation Street Sally Dynevor, ORG, 1
+Daily Mail Online Speaking, ORG, 1
+Rosie, PERSON, 1
+Catherine Tyldesley - Latest, PERSON, 1
+Christopher Hargreaves, PERSON, 1
+four-and-a-half years, DATE, 1
+Batley - Mirror, ORG, 1
+Roy Cropper - feature, PERSON, 1
+Samuel Beckett’s Endgame, PERSON, 1
+Margaret’s Academy, ORG, 1
+Inveralmond Community High School, ORG, 1
+Bathgate Academy, ORG, 1
+West Lothian, LOC, 1
+Catherine Tydlesley, PERSON, 1
+Carla Connor, ORG, 1
+66%, PERCENT, 1
+a million, CARDINAL, 1
+University Challenge and Coronation Street, ORG, 1
+Andrew Collins, PERSON, 1
+Monday to Friday, DATE, 1
+Happy Valley | TV & Radio, LOC, 1
+Coronation Street - Will Kylie Platt, FAC, 1
+Rana | TV & Radio, ORG, 1
+Daily Express LOVE, ORG, 1
+Newsnight, WORK_OF_ART, 1
+Sorry Jeremy Corbyn, PERSON, 1
+the Parliamentary Labour Party, ORG, 1
+| World | News | Daily Express, ORG, 1
+Steve McDonald CORONATON Street, PERSON, 1
+Friends, ORG, 1
+Ross, PERSON, 1
+Insid, NORP, 1
+Aidan MARIA Connor, ORG, 1
+Caz Drummond, PERSON, 1
+just a year, DATE, 1
+Hackney Town Hall | Celebrity, ORG, 1
+The British Soap Awards, WORK_OF_ART, 1
+10 years.&#13, PERCENT, 1
+Kieron Richardson, PERSON, 1
+Hackney Town Hall, ORG, 1
+Nikki Sanderson, PERSON, 1
+Andrew Hayden Smith, PERSON, 1
+50%, PERCENT, 1
+Mirror TV, ORG, 1
+SHERRIE Hewson, PERSON, 1
+Hillman McIntyre Rodwell, PERSON, 1
+Hilda Ogden’s, ORG, 1
+two decades, DATE, 1
+age 90, DATE, 1
+Ashley, PERSON, 1
+Lisa, PERSON, 1
+Chicago, GPE, 1
+Tisha Merry, PERSON, 1
+the Opera House, ORG, 1
+Eileen Derbyshire ', PERSON, 1
+QUIT, ORG, 1
+55 years' - Mirror, DATE, 1
+Jean Alexander - famous, PERSON, 1
+Jenny tells Eva, PERSON, 1
+AGAIN, ORG, 1
+Bruno, PERSON, 1
+33, CARDINAL, 1
+Street Kensington, PERSON, 1
+Ormskirk, ORG, 1
+Tish Merry QUITS, PERSON, 1
+Lauren | Daily Star, ORG, 1
+Ipswich Hospital, ORG, 1
+Coronation Street SALLY Lindsay, FAC, 1
+Shelley Unwin, PERSON, 1
+AIDAN | TV & Radio, ORG, 1
+Lana Martin', PERSON, 1
+Bethany Platt in Coronation, WORK_OF_ART, 1
+the Champions League LEICESTER, ORG, 1
+Twitter, LANGUAGE, 1
+Mamma Mia!, PERSON, 1
+Les Misérables, PERSON, 1
+Emmerdale and Coronation Street, ORG, 1
+Carla Connors, PERSON, 1
+| Pictures, ORG, 1
+Jean Alexander - Liverpool Echo Corrie, PERSON, 1
+Coronary, PERSON, 1
+four and a half years, DATE, 1
+55 years ago, DATE, 1
+Daily Express THINGS, ORG, 1
+Pat Phelan’s van, PERSON, 1
+Phelan | Daily Star CORONATION Street’s, ORG, 1
+Adam Carver, PERSON, 1
+Kim Kardashian's, PERSON, 1
+66, DATE, 1
+Kylie Jenner, PERSON, 1
+Batmobile, GPE, 1
+Jeff Dunham's, PERSON, 1
+#Batmobile, ORG, 1
+Samia Ghadie's, PERSON, 1
+BROOKE Vincent, PERSON, 1
+Brooke , PERSON, 1
+’ two months, DATE, 1
+just two months, DATE, 1
+Pedro Andre, PERSON, 1
+Cormac Hibbs, PERSON, 1
+Jihadi, ORG, 1
+next Monday, DATE, 1
+seconds, TIME, 1
+Soapland, PERSON, 1
+Edinburgh, ORG, 1
+Aladdin, ORG, 1
+opening night, TIME, 1
+Daily Mail Online Sneaking, ORG, 1
+Emily Cunliffe, PERSON, 1
+MAD, ORG, 1
+Hilton, GPE, 1
+SACKED Corrie, ORG, 1
+September, DATE, 1
+Izzy Armstrong | TV & Radio, ORG, 1
+Armstrong, PERSON, 1
+Archie seconds, TIME, 1
+just 21 weeks, DATE, 1
+Coronation Day, EVENT, 1
+almost 82%, PERCENT, 1
+Belgians, NORP, 1
+Much of Belgium, ORG, 1
+Metro, FAC, 1
+Coronation Street CORONATION Street’s Bethany Platt, FAC, 1
+Beverley Callard ', ORG, 1
+Harrie, GPE, 1
+Sophia, ORG, 1
+Yazmine, GPE, 1
+16 months, DATE, 1
+Xenia, GPE, 1
+Micha, GPE, 1
+SISTER Toyah, ORG, 1
+| World | The Times Police, ORG, 1
+the biggest week, DATE, 1
+270, CARDINAL, 1
+Bank Holiday Monday, EVENT, 1
+Roots: The Saga of an American Family, WORK_OF_ART, 1
+Debbie Rush’s, PERSON, 1
+Zara Larsson, PERSON, 1
+Rio days, DATE, 1
+Den - Mirror, ORG, 1
+Helen Flanagan - Latest, PERSON, 1
+10 years old, DATE, 1
+February 2012, DATE, 1
+Helen, GPE, 1
+5th, ORDINAL, 1
+Bernie Sanders, ORG, 1
+three months ago, DATE, 1
+MAJOR SPOILERS AHEAD, ORG, 1
+Catherine Tyldelsey, PERSON, 1
+early last year, DATE, 1
+Tom Pitfield -, PERSON, 1
+Jenny Bradley's, PERSON, 1
+RITA, ORG, 1
+Kevin Webster - Mirror, PERSON, 1
+Vitamin D, ORG, 1
+Boulevard de la Madeleine, PERSON, 1
+11.15am, CARDINAL, 1
+Fiat, ORG, 1
+Manchester City's, GPE, 1
+Chelsea, ORG, 1
+the end of the year - with, DATE, 1
+February 2017, DATE, 1
+Butlin, PERSON, 1
+two-week, DATE, 1
+Catherine McDonall, PERSON, 1
+48-hour, TIME, 1
+AHC, ORG, 1
+Childhood, ORG, 1
+Maria Connor - Mirror, PERSON, 1
+Liam Bairstow's, PERSON, 1
+NEW YORK, GPE, 1
+Times Square New York, FAC, 1
+US Dublin Army Reserve Centre California, ORG, 1
+LaGuardia International Airport, FAC, 1
+TERMINAL, ORG, 1
+LaGuardia Airport, FAC, 1
+90.Alexander, DATE, 1
+the summer, DATE, 1
+67,000, MONEY, 1
+Richard Remde, PERSON, 1
+Laura Jacques's, PERSON, 1
+Chance, GPE, 1
+Dylan, PERSON, 1
+Instagram, PRODUCT, 1
+Alexander - ITV News, ORG, 1
+Alex | TV & Radio, ORG, 1
+Le Vell, ORG, 1
+Gossip, Rumours & Photos, ORG, 1
+Barcelona, GPE, 1
+Amber Heard's, ORG, 1
+four-day, DATE, 1
+Samia Ghadie ', PERSON, 1
+Patsy, PERSON, 1
+tens of millions, MONEY, 1
+Brian Tilsley, PERSON, 1
+the Royal Family, ORG, 1
+Coronation Street', FAC, 1
+Mexico City, GPE, 1
+Daily Mail Online Workers, ORG, 1
+Mexico City's, GPE, 1
+Amy, PERSON, 1
+Paula Lane - Mirror, PERSON, 1
+tomorrow night, TIME, 1
+Coronation Street Johnny Connor, ORG, 1
+Shayne Ward, ORG, 1
+Sophie Austin - Mirror Online, ORG, 1
+LES Dennis’s, ORG, 1
+Vicky Entwistle, ORG, 1
+Joel Fry, PERSON, 1
+Loose Women | Daily Mail, ORG, 1
+Archie, GPE, 1
+Coronation Street Kym Marsh, FAC, 1
+Simon Gregson - Mirror Online Kym, PERSON, 1
+Bishop John | Daily Mail Online Coronation Street's, ORG, 1
+Casualty, Coronation Street, ORG, 1
+Brighton, GPE, 1
+Halford, ORG, 1
+Blacks, GPE, 1
+Argos, GPE, 1
+ITV News Legendary, ORG, 1
+Coronation St, LOC, 1
+Loose Women - Mirror Online, ORG, 1
+Alison King, WORK_OF_ART, 1
+Carla Connor on Coronation Street, WORK_OF_ART, 1
+Adam Peaty, PERSON, 1
+Hannah Miley, PERSON, 1
+the opening day, DATE, 1
+the Olympic Aquatics, FAC, 1
+Daniel Osbourne's, PERSON, 1
+DANIEL Osbourne’s, PERSON, 1
+Ken’s, ORG, 1
+Beth’s, ORG, 1
+The Queen’s, WORK_OF_ART, 1
+November 20, 1947, DATE, 1
+Norman Hartnell.&#13, PERSON, 1
+between July 23 and October 2, DATE, 1
+The Queen’s Wardrobe, WORK_OF_ART, 1
+5 year, DATE, 1
+2000-2012, DATE, 1
+Citizen Khan's, PERSON, 1
+Alya Nazir's, PERSON, 1
+CITIZEN KHAN, PERSON, 1
+Cuffs, ORG, 1
+US Embassy ', ORG, 1
+Sylvain Longchambon | Daily Mail Online, ORG, 1
+six-year old, DATE, 1
+Freya -, PERSON, 1
+Matt Smith - to, PERSON, 1
+The X Factor, WORK_OF_ART, 1
+NOW, ORG, 1
+the Journal of the American Medical Association, ORG, 1
+more than one, CARDINAL, 1
+Shar, PERSON, 1
+Daily Mail Online Beverly Callard, ORG, 1
+HULL Prison, PERSON, 1
+Becky McDonald KATHERINE Kelly, ORG, 1
+Bately, PERSON, 1
+Bistro, ORG, 1
+Nick gets Robert nicked - Mirror Online, ORG, 1
+Independent Several, ORG, 1
+Rudy Giuliani’s, PERSON, 1
+At least a dozen, CARDINAL, 1
+GOP, ORG, 1
+Giovanni, GPE, 1
+Sarah-Louise Platt, ORG, 1
+Merseyside schools - Liverpool Echo Reports, ORG, 1
+Merseyside, ORG, 1
+Tweets, ORG, 1
+Pakistanis, ORG, 1
+Jacob Zuma's, PERSON, 1
+South African, NORP, 1
+Jacob Zuma, PERSON, 1
+Gail Platt - Mirror, PERSON, 1
+First SNOW, ORG, 1
+Irkutsk, GPE, 1
+FIVE, CARDINAL, 1
+HN58, PRODUCT, 1
+Spanish Flu-style, PERSON, 1
+Netherl, PERSON, 1
+Daily Mail Online Professors, ORG, 1
+Florida Atlantic University, ORG, 1
+20-minute, TIME, 1
+700, CARDINAL, 1
+30 to 40, CARDINAL, 1
+Todd | Daily Star BILLY Mayhew, ORG, 1
+the Job Centre, FAC, 1
+Alison King CORONATION Street, PERSON, 1
+Carla Connor, WORK_OF_ART, 1
+8, CARDINAL, 1
+Loose Women interview EX, ORG, 1
+Amanda, GPE, 1
+Carla Connor - played, PERSON, 1
+Alison King -, PERSON, 1
+EPIC, ORG, 1
+Rosie Webster’s, PERSON, 1
+17-month-old, DATE, 1
+Curly Watts, FAC, 1
+Online Kennedy, PERSON, 1
+between 1983 and 2003, DATE, 1
+Weatherfield - Mirror, ORG, 1
+the end of the year, DATE, 1
+37, DATE, 1
+Carnoustie, ORG, 1
+Alan Carr's Happy Hour, PERSON, 1
+Qasim Akhtar , PERSON, 1
+Quasim Akhtar, PERSON, 1
+Dales, GPE, 1
+The Emmerdale Studio Experience, ORG, 1
+Brooke, GPE, 1
+under a year ago, DATE, 1
+Clare Morrall, PERSON, 1
+Astonishing Splashes of Colour, WORK_OF_ART, 1
+the Man Booker Prize, WORK_OF_ART, 1
+Jacob Epstein’s, PERSON, 1
+The Archangel Lucifer.&#13, WORK_OF_ART, 1
+Epstein, PERSON, 1
+Lucifer, PERSON, 1
+Morrall’s, ORG, 1
+the Floods Came, WORK_OF_ART, 1
+Coronation Street - Piers Morgan ', FAC, 1
+Daily Mail Online Proudly, ORG, 1
+Arthur, PERSON, 1
+the last six weeks, DATE, 1
+Breakfast, LOC, 1
+the University of California, ORG, 1
+The Associated Press, ORG, 1
+Charles Knobler, PERSON, 1
+Klug, ORG, 1
+Torah Battersby’s, PERSON, 1
+New York's, GPE, 1
+Hell Gate, FAC, 1
+North Brother Island, LOC, 1
+the 1960s, DATE, 1
+Johnny Briggs's, PERSON, 1
+Shropshire - Mirror, ORG, 1
+Oswestry, ORG, 1
+ITV News Police, ORG, 1
+Brewster County, GPE, 1
+Cardiff city, LOC, 1
+anti-India, ORG, 1
+Brahimi, PERSON, 1
+Jota, PERSON, 1
+Games, FAC, 1
+Charlie Hebdo, PERSON, 1
+Andy Lines, PERSON, 1
+Bricks & Mortar, ORG, 1
+Times, ORG, 1
+599, MONEY, 1
+aboveCorona four, CARDINAL, 1
+310, MONEY, 1
+423.20, MONEY, 1
+1,195, MONEY, 1
+Vinny’s, ORG, 1
+Alex, ORG, 1
+Nigel - Mirror Online, ORG, 1
+Bev Callard, PERSON, 1
+Sarah Platt&#039;s, PERSON, 1
+10k, DATE, 1
+Whitney, ORG, 1
+100million, CARDINAL, 1
+Piccadilly Circus, PERSON, 1
+11 metre, QUANTITY, 1
+11-metre, QUANTITY, 1
+around 20 minutes, TIME, 1
+Martyn Hett, PERSON, 1
+Essex, LOC, 1
+Service Uniformed Division, ORG, 1
+Shawn Holtzclaw, PERSON, 1
+WTOP, ORG, 1
+Arlington Cemetery, GPE, 1
+The Duchess of Cambridge, ORG, 1
+Sky News NASA, WORK_OF_ART, 1
+Lorraine | Daily Mail Online, ORG, 1
+King Street, FAC, 1
+Coronation Chicken, ORG, 1
+Elstree, GPE, 1
+Hertfordshire, GPE, 1
+Oregon Zoo Polar, ORG, 1
+Nora, PERSON, 1
+Oregon, GPE, 1
+The Guardian Fears, ORG, 1
+House of Parliament, ORG, 1
+Coronation Street - Tina O'Brien, ORG, 1
+Michelle McDonald’s, PERSON, 1
+Instagram |, ORG, 1
+eleven years, DATE, 1
+Sun, PERSON, 1
+Dale Arnold, PERSON, 1
+Kelloe, Co…, ORG, 1
+Motshegetsi, LOC, 1
+Phil Mitchell, PERSON, 1
+Denise Fox, PERSON, 1
+170, CARDINAL, 1
+US Secret Service, ORG, 1
+Brooke Vincent ', PERSON, 1
+Josh McEachran', PERSON, 1
+Warren Fox, PERSON, 1
+Hollyoaks, NORP, 1
+Kim Tate, PERSON, 1
+Coronation Street - Liverpool Echo, FAC, 1
+Platz, GPE, 1
+Leanne Tilsley, FAC, 1
+Daily Express SOAP, ORG, 1
+Curradine Barns, PERSON, 1
+Shrawley, GPE, 1
+Worcestershire, GPE, 1
+January 29, DATE, 1
+Vladimir Putin, PERSON, 1
+35, DATE, 1
+GEORGIA Taylor, PERSON, 1
+Australia’s, ORG, 1
+Amazon, ORG, 1
+eBay, ORG, 1
+Invasive Species Council, ORG, 1
+Peter Andre', PERSON, 1
+next five years, DATE, 1
+IgG, ORG, 1
+Columbus, GPE, 1
+Louisiana, GPE, 1
+Columbus Police, ORG, 1
+| TV & Radio | Showbiz & TV, ORG, 1
+the next few months, DATE, 1
+Twitter post, LAW, 1
+55-year, DATE, 1
+85, DATE, 1
+Holly Valance, PERSON, 1
+Eyes, ORG, 1
+Dancing on Ice 2013, ORG, 1
+200, CARDINAL, 1
+Deirdre Barlow’s, PERSON, 1
+Good Morning, PERSON, 1
+Sky News Hotels, ORG, 1
+Royal Liverpool Hospital, ORG, 1
+the Royal Liverpool Hospital, ORG, 1
+UKIP, GPE, 1
+Kunta, GPE, 1
+August 2016, DATE, 1
+Qemah, PERSON, 1
+Jean Cloude-Rouget, PERSON, 1
+Fillies, ORG, 1
+One mile, QUANTITY, 1
+Julianne Moore, PERSON, 1
+Todd Haynes', PERSON, 1
+Wonderstruck, PERSON, 1
+55-year-old, DATE, 1
+Oscar, WORK_OF_ART, 1
+Oakes Fegley at, WORK_OF_ART, 1
+at least one, CARDINAL, 1
+NFL, ORG, 1
+Oklahoma City at, GPE, 1
+Dawn Acton, PERSON, 1
+Kat, PERSON, 1
+EastEnders - Mirror Online, ORG, 1
+Samia Ghadie - Mirror, ORG, 1
+JANE DANSON, PERSON, 1
+all last night, TIME, 1
+Bobby |, ORG, 1
+Tiwtter | Daily Mail Online Coronation Street, ORG, 1
+Daily Star Air Force One's, ORG, 1
+Steven Taylor, PERSON, 1
+MLS, ORG, 1
+Portland Timbers, PERSON, 1
+Hollyoaks - Mirror Online Coronation Street, ORG, 1
+the third year in a row, DATE, 1
+Vinny Ashford | Daily Mail Online Ian's, ORG, 1
+Daily Star HAPLESS, WORK_OF_ART, 1
+BETHANY Platt, PERSON, 1
+Sarah Platt’s, PERSON, 1
+Dolly Rose Campbell, PERSON, 1
+DAVID Platt’s, PERSON, 1
+22, DATE, 1
+GERMAN, NORP, 1
+Squadron, ORG, 1
+Texas Air Base, FAC, 1
+the Lackland Air Force Base, ORG, 1
+Sacked Corrie, PERSON, 1
+Manchester pub - Mirror Online, LAW, 1
+NASA&rsquo;s Solar Dynamics Observatory, ORG, 1
+60 per cent, MONEY, 1
+Joe Duttine, ORG, 1
+Tim Metcalf, PERSON, 1
+Jean Alexander - Latest, PERSON, 1
+Mrs Webb, PERSON, 1
+earlier today, TIME, 1
+Michael Winchester, PERSON, 1
+Glenda Young, PERSON, 1
+Online Corrie, PERSON, 1
+Roy Cropper TROUBLE, PERSON, 1
+Cathy Matthews’, PERSON, 1
+Giovanni Pernice's, ORG, 1
+Man From Uncle, WORK_OF_ART, 1
+Hayley Cropper - Coronation Street's, ORG, 1
+Rob, PERSON, 1
+Friday 13 November 2015, DATE, 1
+130, CARDINAL, 1
+Molenbeek, LOC, 1
+U.S., GPE, 1
+Northern Ireland's, GPE, 1
+Liam Gallagher, PERSON, 1
+the Euro 2016, LAW, 1
+Anne Kirkbride's, PERSON, 1
+42-year, DATE, 1
+Steve | Daily Star SHE’S, ORG, 1
+The Sun, WORK_OF_ART, 1
+Our Street, WORK_OF_ART, 1
+Tony Warren’s, PERSON, 1
+Screenwriter Warren, PERSON, 1
+Coronation Street Alison King, FAC, 1
+Recep Tayyip Erdogan's, PERSON, 1
+Army, ORG, 1
+Air Force, ORG, 1
+SUSPICIOUS, WORK_OF_ART, 1
+more than six decades, DATE, 1
+A Celebrity Get Me Out Of Here, WORK_OF_ART, 1
+Charlie Brooks, PERSON, 1
+Clayton Hibbs, ORG, 1
+Gutted Coronation Street, ORG, 1
+Steve McDonald - Mirror, PERSON, 1
+Toyah Battersby - Mirror, PERSON, 1
+Toyah, WORK_OF_ART, 1
+Maldives, ORG, 1
+49,800, CARDINAL, 1
+Ben Price, PERSON, 1
+44-year-old, DATE, 1
+Craig’s, ORG, 1
+the hours, TIME, 1
+North Metro station.&#13, ORG, 1
+about two miles, QUANTITY, 1
+late nights, TIME, 1
+the University of Cambridge, ORG, 1
+Gail on, ORG, 1
+Kate Garraway, PERSON, 1
+Capitol - Gunfight, ORG, 1
+ALLEGED, ORG, 1
+West Ham, GPE, 1
+London Fenchurch Street and Barking, ORG, 1
+Erdogan, PERSON, 1
+Aidan Connor - Mirror Online, ORG, 1
+Donna Graham, PERSON, 1
+Bobby Moore's, PERSON, 1
+Bobby - and, PERSON, 1
+Henry Winter, PERSON, 1
+Collapse, ORG, 1
+89 minutes, TIME, 1
+Wembley, PERSON, 1
+England, NORP, 1
+Jamie Vardy’s, PERSON, 1
+the remaining 420 seconds, TIME, 1
+LaGuardia, PERSON, 1
+MAJOR, ORG, 1
+EastEnders | Daily Star CORRIE, ORG, 1
+Eva, PERSON, 1
+Destiny, GPE, 1
+Perth A, PERSON, 1
+Queen&rsquo;s, NORP, 1
+Perth, GPE, 1
+the O'Driscolls | Daily Mail Online, ORG, 1
+Teddy | Daily Mail Online Coronation Street, ORG, 1
+Teddy, PERSON, 1
+Daily Mail Online Ofcom, ORG, 1
+Platt, ORG, 1
+NCP, ORG, 1
+Dumfries Place, FAC, 1
+Bradford, GPE, 1
+a drizzly evening, TIME, 1
+Manchester City Centre, GPE, 1
+Donegall Square, FAC, 1
+| Features | Culture |, ORG, 1
+Fifty years, DATE, 1
+the Royal Shakespeare Company, ORG, 1
+Steven Spielberg, PERSON, 1
+Martin Scorsese, PERSON, 1
+CV, PRODUCT, 1
+Oscar, PERSON, 1
+Richard Attenborough’s Gandhi, PERSON, 1
+House, ORG, 1
+Jewish, NORP, 1
+Itzhak Stern, PERSON, 1
+Cockney, ORG, 1
+Don Logan, PERSON, 1
+Sexy Beast, FAC, 1
+Coronation Star, PRODUCT, 1
+Lorraine Kelly, PERSON, 1
+75th anniversary - Liverpool Echo, DATE, 1
+Coronation Street Spoiler - Nick Tilsley, ORG, 1
+Tom Pitfield - Mirror Online, PERSON, 1
+Bethany Platt CORONATION Street, ORG, 1
+Balmoral, ORG, 1
+more than 250, CARDINAL, 1
+Portland, GPE, 1
+Maine, GPE, 1
+Holidaymakers Trevor, ORG, 1
+Mo Beeforth, FAC, 1
+Fred Olsen Cruises, PERSON, 1
+five-week, DATE, 1
+Old England to, WORK_OF_ART, 1
+New England, LOC, 1
+Sarah Jane Adventures, PERSON, 1
+Coal Hill School, ORG, 1
+Greg Austin, PERSON, 1
+Sophie Hopkins, ORG, 1
+Fady Elsayed, PERSON, 1
+Vivian Oparah, PERSON, 1
+US Capital, ORG, 1
+PREGNANT, GPE, 1
+Manchester bar, DATE, 1
+Oliver Farnworth’s, PERSON, 1
+the Danish Island of, LOC, 1
+Caz Hammond', PERSON, 1
+Will Sharif, PERSON, 1
+Sonia, PERSON, 1
+the past seven years, DATE, 1
+Sharif Nazir's, PERSON, 1
+at least two, CARDINAL, 1
+Daily Mail Online Mainak Sarkar, ORG, 1
+Mark Wright ACTRESS Michelle Keegan, PERSON, 1
+NBC, ORG, 1
+the days, DATE, 1
+Aidan Connor SPLITS, PERSON, 1
+Met Office, ORG, 1
+Mikey North, LOC, 1
+Mikey North - who, PERSON, 1
+Amanda Holden, ORG, 1
+Philip Glenister ', ORG, 1
+Mars, LOC, 1
+Suspicious Circumstances, ORG, 1
+the Britain’s, ORG, 1
+Richard Hillman - Mirror, PERSON, 1
+This Morning, WORK_OF_ART, 1
+42 years, DATE, 1
+Laurel, ORG, 1
+Ben, PERSON, 1
+Robert in Coronation Street, ORG, 1
+Emma Beach, GPE, 1
+Simon Gregson ', PERSON, 1
+12 Rounds 3, CARDINAL, 1
+WWE Intercontinental Champion Dean Ambrose - Liverpool Echo The Lionsgate, ORG, 1
+WWE Studios, ORG, 1
+ECHO, ORG, 1
+Gleb Savchenko, PERSON, 1
+Savchenko, PERSON, 1
+Italians, NORP, 1
+Netflix, GPE, 1
+three-quarter, DATE, 1
+Antony Cotton - Latest, PERSON, 1
+Antony Dunn, PERSON, 1
+Queer, GPE, 1
+Amber Heard, FAC, 1
+1.33, MONEY, 1
+Philip Hammond, PERSON, 1
+Slater, PERSON, 1
+Andy Hall, PERSON, 1
+Warren MBE, PERSON, 1
+Leave, ORG, 1
+Coronation Street |, ORG, 1
+five months, DATE, 1
+A PRIMARY SCHOOL, ORG, 1
+Northbrook Road, WORK_OF_ART, 1
+Nick and, ORG, 1
+Robert Preston | TV & Radio, PERSON, 1
+Faye Brookes, ORG, 1
+Coronation Street BEFORE, FAC, 1
+CORONATION Street’s, LOC, 1
+Andy Carver, PERSON, 1
+Michael Rod, PERSON, 1
+Brecon, GPE, 1
+Lucy-Jo Hudson SPLIT, PERSON, 1
+Jon Trickett, PERSON, 1
+Bethany Platt in Coronation Street, WORK_OF_ART, 1
+Coleen Nolan, PERSON, 1
+Coronation Street Spoiler - Is, ORG, 1
+Online Laden, PERSON, 1
+Sharif, ORG, 1
+ANDY Carver’s, ORG, 1
+STD, ORG, 1
+Foster - Latest, ORG, 1
+Gemma Foster, PERSON, 1
+Simon, PERSON, 1
+HMP Birmingham, FAC, 1
+Kym Marsh ', ORG, 1
+Battersby, PERSON, 1
+Georgia Taylor , PERSON, 1
+Weathefield, GPE, 1
+HMP Hull, PERSON, 1
+HMP Hull, LOC, 1
+Jenny, ORG, 1
+Shirley, PERSON, 1
+Vic, ORG, 1
+Nicola, ORG, 1
+Jimmy, PRODUCT, 1
+Emmedale, GPE, 1
+Coronation Street SPOILER - Cathy, ORG, 1
+ROY, ORG, 1
+Cathy’s, PERSON, 1
+Traumatised, PERSON, 1
+MARC Anwar, PERSON, 1
+Sharif N, FAC, 1
+Kylie Platt’s ‘, ORG, 1
+Police, ORG, 1
+Reformed Danny Dyer, PERSON, 1
+Jo Mas, PERSON, 1
+their wedding day, DATE, 1
+Second World War, EVENT, 1
+London.&#13, GPE, 1
+Specialist, NORP, 1
+Hampstead, ORG, 1
+Gayton Road, LOC, 1
+about 2.15pm.&#13, CARDINAL, 1
+Hampstead High Street, ORG, 1
+25 years, DATE, 1
+later tonight, TIME, 1
+NST, ORG, 1
+the Big Bear Observatory, ORG, 1
+New Jersey, GPE, 1
+Commons, ORG, 1
+FART, ORG, 1
+Tim Healy’s, PERSON, 1
+Louis, PERSON, 1
+DENISE WELCH, PERSON, 1
+Jo Cox MP's, PERSON, 1
+Anna Windass's, PERSON, 1
+Daily Mail Online Soap, ORG, 1
+Tony Bellew, PERSON, 1
+Goodison Park, GPE, 1
+Everton, GPE, 1
+This summer, DATE, 1
+Roy Barraclough, PERSON, 1
+Alec Gilroy, PERSON, 1
+Madame Tussauds, ORG, 1
+Cheryl, PERSON, 1
+Lady Gaga BOSSES, PERSON, 1
+Madame Tussauds in Blackpool, ORG, 1
+Lee | Daily Star, ORG, 1
+Billy Mayhew’s, PERSON, 1
+BILLY MAYHEW, PERSON, 1
+Shepherd, ORG, 1
+Uxbridge Road, FAC, 1
+Air Force One's, PRODUCT, 1
+over an hour, TIME, 1
+Joint Base Andrews, FAC, 1
+Maryland, GPE, 1
+Thailand, GPE, 1
+54, DATE, 1
+Kindertransport, GPE, 1
+Victoria Lambert, PERSON, 1
+Ken - Mirror Online, ORG, 1
+age 59, DATE, 1
+the age of 59, DATE, 1
+GEORGIA TAYLOR, PERSON, 1
+Beyonce, GPE, 1
+STRIPPER, NORP, 1
+60 years, DATE, 1
+Julian, NORP, 1
+the Queen’s Coronation, ORG, 1
+Mother Theresa, PERSON, 1
+Maggie May, PERSON, 1
+Mother Theresa’s, ORG, 1
+KILLS, PERSON, 1
+160million, MONEY, 1
+The Buenos Aires World Tango Championship, ORG, 1
+Coronation Street Billy, ORG, 1
+Todd | Daily Star, ORG, 1
+Weatherfield - Mirror Online Eva, ORG, 1
+Corona Sunsets –, ORG, 1
+The Sun Corona Sunsets Festival, ORG, 1
+Saturday July 30, 2016, DATE, 1
+Greenwich Peninsula, LOC, 1
+500 tons, QUANTITY, 1
+DJs, CARDINAL, 1
+5,000, CARDINAL, 1
+As many as 400, CARDINAL, 1
+Daily Mail Online New Coronation Street, ORG, 1
+Depressed Beverley Callard, PERSON, 1
+Club Liv, PERSON, 1
+Adam in Magaluf | Daily Mail, PERSON, 1
+the BH Hotel's Pool Star, ORG, 1
+Bank Holiday Monday, ORG, 1
+JENNY Bradley, PERSON, 1
+Simon Gregson |, PERSON, 1
+Zak, PERSON, 1
+Tweet, LOC, 1
+Charles Street, FAC, 1
+Golders Green Tube, ORG, 1
+Golders Green, ORG, 1
+about 9.30am, CARDINAL, 1
+Mark Neighbour, PERSON, 1
+P. Shepherd ', PERSON, 1
+Paul Lane, PERSON, 1
+SHE, GPE, 1
+last month, DATE, 1
+ADELE, ORG, 1
+Lilly, PERSON, 1
+Tom Shaw - Mirror, PERSON, 1
+Chorley, PERSON, 1
+70s, DATE, 1
+a few weeks ago, DATE, 1
+Quarantine's Wallflower, ORG, 1
+1,364, CARDINAL, 1
+Brooke Vincent’s, PERSON, 1
+Online Michelle, PERSON, 1
+Nanny Pat, PERSON, 1
+Tracy |, ORG, 1
+May 2014, DATE, 1
+Babbage - Yellow, ORG, 1
+Science &, ORG, 1
+Kenneth Cukier, PERSON, 1
+Angola, GPE, 1
+Sanjoy, PERSON, 1
+Shayne Ward EX EastEnders, PERSON, 1
+38-year-old, DATE, 1
+Shayne, PERSON, 1
+- Secret Service, ORG, 1
+January 20, DATE, 1
+Donald, PERSON, 1
+Generations of Coronation Street, ORG, 1
+Alya, ORG, 1
+Eric Trump, PERSON, 1
+Leanne Tilsley - Mirror Online Toyah, PERSON, 1
+a few minutes, TIME, 1
+This Morning CORONATION Street’s, WORK_OF_ART, 1
+Habeeb, PERSON, 1
+MARIA CONNOR’S, ORG, 1
+many years, DATE, 1
+England - Wales Online Local, ORG, 1
+Lens, PERSON, 1
+The Edge of Reason, WORK_OF_ART, 1
+Renée Zellweger, PERSON, 1
+1940s, DATE, 1
+Donna Reid, PERSON, 1
+74, CARDINAL, 1
+Peterborough, NORP, 1
+Toyah Battersbys', GPE, 1
+Toyah’s, ORG, 1
+TIMES, ORG, 1
+the show two years ago, DATE, 1
+Rosia Promotions Ltd, ORG, 1
+1million, MONEY, 1
+HUGE, ORG, 1
+This Morning CORONATION Street, WORK_OF_ART, 1
+Gail , PERSON, 1
+Star Wars Episode 8, WORK_OF_ART, 1
+Mark Hamill’s Skywalker, PERSON, 1
+Daisy Ridley’s, PERSON, 1
+Mike Zeroh, PERSON, 1
+Flanagan, PERSON, 1
+Coronation Street - Brooke Vincent, ORG, 1
+Sian Powers, PERSON, 1
+Helen Worth, GPE, 1
+PETER Barlow, PERSON, 1
+GMB, ORG, 1
+two thirds, CARDINAL, 1
+just a decade, DATE, 1
+Wimbledon, PERSON, 1
+Roger Federer, PERSON, 1
+Steve Johnson, PERSON, 1
+| Tennis | Sport | Express.co.uk TO THOSE, WORK_OF_ART, 1
+Andy Murray, PERSON, 1
+Wimbledon, EVENT, 1
+Switzerland, GPE, 1
+National Theatre Awards, ORG, 1
+Toyah Battersby - 13 years, PERSON, 1
+Glastonbury Festival - Latest news, ORG, 1
+Glastonbury, ORG, 1
+more than 150,000, CARDINAL, 1
+3 or 4 days each year, DATE, 1
+Warren, PERSON, 1
+March 1, DATE, 1
+New 60p, DATE, 1
+Diamond Jubilee, PERSON, 1
+the Royal Mint Proposals, ORG, 1
+Titanic, ORG, 1
+the Football Association, George V's, ORG, 1
+Scott, PERSON, 1
+Lindsey Roscoe, ORG, 1
+Sally Dynevor, LOC, 1
+52-year-old, DATE, 1
+nearly a year’, DATE, 1
+nearly a year, DATE, 1
+51-year-old, DATE, 1
+the TV Times, ORG, 1
+Justin Bieber's, PERSON, 1
+Sofia Richie, PERSON, 1
+Justin Bieber’s, ORG, 1
+Dora the Explorer and Spongebob Squarepants, ORG, 1
+Corrie JOSE MOURINHO, PERSON, 1
+' 3 weeks, DATE, 1
+three years last month, DATE, 1
+the next week, DATE, 1
+Kevin Webster’s, PERSON, 1
+Bill Roache - Latest, PERSON, 1
+up to 1,000, CARDINAL, 1
+Metro News Things, ORG, 1
+a few months ago, DATE, 1
+the White House, FAC, 1
+less than 24 hours, TIME, 1
+Etienne Marcel, ORG, 1
+PARIS, ORG, 1
+the Saint-Leu, FAC, 1
+Etienne Marcel, PERSON, 1
+University of California, ORG, 1
+The University of California, ORG, 1
+At least two, CARDINAL, 1
+James Herren, PERSON, 1
+The Sun FORMER Coronation Street, ORG, 1
+Victoria Beckham, PERSON, 1
+Lipsy, PERSON, 1
+Hilda | Television &, ORG, 1
+a few weeks, DATE, 1
+Macca | TV & Radio, ORG, 1
+at least 34, CARDINAL, 1
+Brussels Airport, FAC, 1
+Steve | TV & Radio, ORG, 1
+Bachelor | Daily Mail, ORG, 1
+Bachelor, ORG, 1
+ABC, ORG, 1
+Venezuela | Football |, ORG, 1
+1, CARDINAL, 1
+Cassidy, PERSON, 1
+Caitlin, PERSON, 1
+Kate Ford - Mirror, PERSON, 1
+Coronation Street Marc Anwar, ORG, 1
+several tense hours, TIME, 1
+Swine, GPE, 1
+2009/10, CARDINAL, 1
+Ibiza, GPE, 1
+Sugden, GPE, 1
+Ibiza, ORG, 1
+KISSED, GPE, 1
+Caz CORONATION Street, PERSON, 1
+Maria’s, ORG, 1
+63 years ago, DATE, 1
+SPLIT, ORG, 1
+one-night, TIME, 1
+BGT, ORG, 1
+Rachael Wooding, PERSON, 1
+150,000, MONEY, 1
+last weekend, DATE, 1
+at least end of year, DATE, 1
+Paula Lane’s, PERSON, 1
+Coronation Stre, FAC, 1
+Rachel Reeves, PERSON, 1
+2000, CARDINAL, 1
+Next week’s, DATE, 1
+Mike Baldwin's, PERSON, 1
+Mike, PERSON, 1
+Lee Mayhew, ORG, 1
+Lee Mayhew, PERSON, 1
+- Mirror Online, ORG, 1
+Tom Pifield, PERSON, 1
+the next few days, DATE, 1
+David Gest's, PERSON, 1
+Gaz Beadle, PERSON, 1
+Weatherfield Les Dennis, ORG, 1
+Manchester | Daily Mail Online Former, ORG, 1
+Orla, PERSON, 1
+Jane, PERSON, 1
+Hayley - Mirror, ORG, 1
+Strawberry, PERSON, 1
+Reine Elizabeth, PERSON, 1
+ITV’s Coronation Street, ORG, 1
+Anne Kirkbride - Latest, PERSON, 1
+1972, DATE, 1
+forty years, DATE, 1
+January 19th 2015, DATE, 1
+Brabin, PERSON, 1
+kiss - Mirror Online, ORG, 1
+Les Dennis, LOC, 1
+Sue Johnston, PERSON, 1
+Rovers, NORP, 1
+Sky, WORK_OF_ART, 1
+Les, GPE, 1
+Ms Brabin, PERSON, 1
+85.8 per cent, MONEY, 1
+West Yorkshire, PERSON, 1
+‘months’, DATE, 1
+The Sun RYAN Thomas, ORG, 1
+Lee Rigby's, PERSON, 1
+Smiles, PERSON, 1
+Scotty’s Little Soldiers, ORG, 1
+Henry Teddy, PERSON, 1
+Soaps and, ORG, 1
+Anna - Mirror Online, ORG, 1
+Martin, PERSON, 1
+Ted, PERSON, 1
+Phoenix Nights, ORG, 1
+a year ago, DATE, 1
+Oliver Mellor, ORG, 1
+Tenerife, GPE, 1
+Scott Sinclair - Latest, PERSON, 1
+Chelsea, PERSON, 1
+Brendan Rodgers' Swansea City, PERSON, 1
+2013-14 season, DATE, 1
+West Brom, GPE, 1
+Melania Trump, PERSON, 1
+Trump Towers, ORG, 1
+US Air Force, ORG, 1
+Andrews Air Force, ORG, 1
+19-month-old, DATE, 1
+Beau, PERSON, 1
+Anna BURNED, PERSON, 1
+David Platt | TV & Radio, PERSON, 1
+Kinshasa, ORG, 1
+Kinshasa, GPE, 1
+the Democratic Republic of Congo, GPE, 1
+any hour, TIME, 1
+nearly 30 years, DATE, 1
+Killer Kylie's, PERSON, 1
+Paula Lane - Daily Star CORRIE, PERSON, 1
+Saudi Airlines, ORG, 1
+Arabian, NORP, 1
+872, CARDINAL, 1
+the Met Police, ORG, 1
+Clayton Gary, PERSON, 1
+Conman Pat, PERSON, 1
+ROBOTS, ORG, 1
+Stockholm, GPE, 1
+Global Challenges Foundation, ORG, 1
+AI, ORG, 1
+the RTS Awards, ORG, 1
+person’.&#13, NORP, 1
+Gabby, ORG, 1
+Daily Star A MANHUNT, WORK_OF_ART, 1
+Caz KISSES, PERSON, 1
+CORONARY, ORG, 1
+around 73,000, CARDINAL, 1
+every year, DATE, 1
+Daughter, PERSON, 1
+Johhny Briggs, PERSON, 1
+Steve McDonald - played, PERSON, 1
+Simon Gregson - is, PERSON, 1
+Peter Barlow SHERRIE Hewson, PERSON, 1
+Maureen Webster, PERSON, 1
+Hundreds, CARDINAL, 1
+Zorro, PERSON, 1
+seventh, ORDINAL, 1
+Stamford Hill, FAC, 1
+Stamford Hill, GPE, 1
+Ravensdale Road, LOC, 1
+Anis Amri - World News - Mirror Online, PERSON, 1
+second day, DATE, 1
+the second day, DATE, 1
+Reuters, ORG, 1
+Richard Hawley - Mirror, PERSON, 1
+Aiden, GPE, 1
+Richard Hawley's, PERSON, 1
+Kay, PERSON, 1
+Wyvern Theatre, FAC, 1
+Swindon RYAN Thomas, GPE, 1
+Swindon, GPE, 1
+32-yea, MONEY, 1
+RYAN Thomas, PERSON, 1
+London - Mirror Online, ORG, 1
+Carla Connor, PERSON, 1
+Daily Mail Online Snapshots, ORG, 1
+SUICIDE, ORG, 1
+Adam return THE Barlows, PERSON, 1
+Caz Hammond, PERSON, 1
+Caz’s ‘, ORG, 1
+PlayStation 4s, PRODUCT, 1
+Tom Clancy, PERSON, 1
+Coronation Street Yasmeen Nazir, ORG, 1
+Yasmeen Nazir, PERSON, 1
+EX-CORRIE, ORG, 1
+Roache, ORG, 1
+Maria Connor CORONATION Street’s, ORG, 1
+Hull Prison, GPE, 1
+Catherine Tyldsley's, PERSON, 1
+113, CARDINAL, 1
+459, CARDINAL, 1
+Liverpool's, ORG, 1
+Club House, FAC, 1
+Shameless, ORG, 1
+Bobby Moore | TV & Radio, PERSON, 1
+Bobby Moore, PERSON, 1
+Anna Soubury, PERSON, 1
+LBC, ORG, 1
+Daily Mail Online Actress Brooke Vincent, ORG, 1
+Ken Barlow, PERSON, 1
+Jo Cox MP, PERSON, 1
+Pat Phelan ', PERSON, 1
+Bill Kenwright - Latest, PERSON, 1
+Bill Kenwright's, PERSON, 1
+the National Youth Theatre, ORG, 1
+Betty Turpin's, PERSON, 1
+the Liver Birds, FAC, 1
+Evertonian, NORP, 1
+1994, DATE, 1
+Tranmere Rovers, ORG, 1
+Peter Johnson, PERSON, 1
+Johnson, ORG, 1
+five years later, DATE, 1
+Phillip Carter, PERSON, 1
+Muswell Hill, ORG, 1
+early hours, TIME, 1
+Muswell Hill, FAC, 1
+3am, TIME, 1
+Islam, NORP, 1
+Belmarsh, PERSON, 1
+Sue, PERSON, 1
+Breakfast, GPE, 1
+34, CARDINAL, 1
+JEAN Alexander, PERSON, 1
+Hilda Ogden on Coronation Street, ORG, 1
+Coronation Street - Paddy McGuinness, FAC, 1
+Dougie Ryan | TV & Radio, PERSON, 1
+Caribbean, LOC, 1
+Amber, GPE, 1
+The Daily Telegraph, ORG, 1
+Christmas week, DATE, 1
+Hollyoaks - Mirror Online Full TV, ORG, 1
+Christmas Eve, Christmas Day, DATE, 1
+Panda Babies, ORG, 1
+two-day, DATE, 1
+Saxony-Anhalt, ORG, 1
+Keegan, PERSON, 1
+Dramatic Christmas, EVENT, 1
+Caroline Flack, PERSON, 1
+Bardot, PERSON, 1
+West Ham Station, ORG, 1
+Bethany Platt ', WORK_OF_ART, 1
+Schoolgirl Bethany, PERSON, 1
+Throwback, PERSON, 1
+a 'bad day' - Mirror, DATE, 1
+OFCOM, ORG, 1
+ADAM Barlow’s, PERSON, 1
+Marymount, ORG, 1
+Daily Star UNIVERSITY, ORG, 1
+Imperial Majesty, ORG, 1
+Victoria, PERSON, 1
+Victorian, NORP, 1
+Lorne MacFadyen, PERSON, 1
+The Plaza, FAC, 1
+Stockport, GPE, 1
+Freddie | Daily Mail, ORG, 1
+Marc Anwar&#039;s, PERSON, 1
+Tom Pitfield |, ORG, 1
+Daily Mail Online Power, ORG, 1
+the US Space Weather Prediction Center, ORG, 1
+Colorado, GPE, 1
+Kevin |, PERSON, 1
+Andrew, PERSON, 1
+50-year-old, DATE, 1
+Guardian Australia, ORG, 1
+Afghan, NORP, 1
+Pyongyang, GPE, 1
+North Korea.&#13, GPE, 1
+Cue Card, PERSON, 1
+Coneygree, ORG, 1
+Sara Bradstock, PERSON, 1
+BUFF FORGET Poldark, ORG, 1
+JACK P. SHEPHERD, PERSON, 1
+Albert Square's, FAC, 1
+Stacey Slater, PERSON, 1
+Shard, FAC, 1
+Borough High Street, GPE, 1
+Southwark Street, FAC, 1
+Marshalsea Road, FAC, 1
+Metropolitan Police, ORG, 1
+Borough High Street, ORG, 1
+7.52am, DATE, 1
+around 9am, TIME, 1
+midnight, TIME, 1
+Tim | Daily Mail, ORG, 1
+over a quarter, DATE, 1
+Geoffrey, PERSON, 1
+Highbury, NORP, 1
+Brooke Vincent's, PERSON, 1
+BROOKE Vincent’s, PERSON, 1
+Sophie Webste, ORG, 1
+Peter Baldwin's, PERSON, 1
+82, CARDINAL, 1
+Peter Baldwin, PERSON, 1
+Derek Wilton, PERSON, 1
+21 years, DATE, 1
+747,381, MONEY, 1
+last October, DATE, 1
+Scott, ORG, 1
+Nathan | Daily Mail Online Shooting, ORG, 1
+Bethany)and, GPE, 1
+Christopher Harper, PERSON, 1
+Gary | Daily Star SARAH Platt, ORG, 1
+Ex-Coronation Street, ORG, 1
+Calendar, PERSON, 1
+1964 to 1987, DATE, 1
+Leo, PERSON, 1
+cul-de-sac, PERSON, 1
+ANTELOPE, ORG, 1
+early this morning, TIME, 1
+Kristin Bauer, PERSON, 1
+an Office Depot, ORG, 1
+Storyline, GPE, 1
+Neil Docking, PERSON, 1
+Crossroads, GPE, 1
+Maxine Evans, PERSON, 1
+Storyline, PRODUCT, 1
+Oxford Street, ORG, 1
+Jacqueline Bouvier, PERSON, 1
+John F Kennedy, PERSON, 1
+Martin’s Tavern, ORG, 1
+Georgetown, GPE, 1
+the University of California, Los Angeles, ORG, 1
+National Television Awards - Mirror, EVENT, 1
+the United Kingdom, GPE, 1
+December 31 this year, DATE, 1
+Carla Connor | TV & Radio, ORG, 1
+Porto, GPE, 1
+Ranieri, ORG, 1
+Ms Coleman, PERSON, 1
+Prince Harry, PERSON, 1
+McGettigan, PERSON, 1
+Guinness, ORG, 1
+Chelsea Football Club’s, ORG, 1
+More than 50 years, DATE, 1
+Coronas, ORG, 1
+East 17, DATE, 1
+the McGettigan Group, ORG, 1
+a bin , PERSON, 1
+almost three years, DATE, 1
+Bedford, ORG, 1
+The Guardian Prison Service, ORG, 1
+a day after a decade, DATE, 1
+the City of London, GPE, 1
+Moorgate Tube, PERSON, 1
+about 1.45pm, CARDINAL, 1
+Coleman Street, FAC, 1
+Catherine Tyld, PERSON, 1
+Crewe, GPE, 1
+Lucy Jo Hudson, PERSON, 1
+KYM Marsh, PRODUCT, 1
+ASDA, ORG, 1
+the La Oficina, EVENT, 1
+the Little Mermaid, PRODUCT, 1
+Queen Victoria | Celebrity News, PERSON, 1
+the War of the Worlds, EVENT, 1
+The Guardian Prison Officers Association, ORG, 1
+Wetherby, NORP, 1
+Sylvain Longchambon, ORG, 1
+Dancing on Ice, ORG, 1
+Grim, ORG, 1
+22 weeks, DATE, 1
+Jane Dawson, PERSON, 1
+JANE DAWSON, PERSON, 1
+Barry Chuckle, PERSON, 1
+the Chuckle Brothers, ORG, 1
+007, CARDINAL, 1
+Idris Elba, PERSON, 1
+Tom Hiddleston, PERSON, 1
+the Broadcast Awards 2016, EVENT, 1
+Got Talent, ORG, 1
+Bruce Jones, ORG, 1
+62, DATE, 1
+Tyne, GPE, 1
+Wear, PERSON, 1
+States, GPE, 1
+the American Civil War, EVENT, 1
+1861-1865, DATE, 1
+season, DATE, 1
+Axed Corrie, PERSON, 1
+Calum Logan's, PERSON, 1
+Bernie, PERSON, 1
+’s, NORP, 1
+just a few months ago, DATE, 1
+Kelloe, GPE, 1
+BRITISH, NORP, 1
+Man City’s, GPE, 1
+Craig Tinker, PERSON, 1
+Viewer’s, ORG, 1
+Kush, PERSON, 1
+Todd - Daily Star, ORG, 1
+Marc Anwar’s, PERSON, 1
+Himalayan, NORP, 1
+11 years old, DATE, 1
+February 29 2012, DATE, 1
+East Asian, NORP, 1
+Alfie, ORG, 1
+nine months ago, DATE, 1
+Billy Mahew, PERSON, 1
+Coronation Street SPOILER - Mary, ORG, 1
+Stephanie Beacham, PERSON, 1
+69, DATE, 1
+Dynasty, DATE, 1
+Antony Cotton's, PERSON, 1
+Enid Dunn, PERSON, 1
+three years ago, DATE, 1
+Extra Camp, ORG, 1
+’: the Queen’s, WORK_OF_ART, 1
+John Powell, PERSON, 1
+AFP.Police, ORG, 1
+| Daily Mail Online Broadcasters, ORG, 1
+JANUARY 19, DATE, 1
+34 years, DATE, 1
+one year, DATE, 1
+thousands of pounds, MONEY, 1
+Lloyd and Sandra Cordoza, ORG, 1
+Daily Mail Online Drug, ORG, 1
+Guildford Crown Court, ORG, 1
+Steve McDondald, PERSON, 1
+William Roach, PERSON, 1
+Janet Tansley, PERSON, 1
+Iraqi, NORP, 1
+her days, DATE, 1
+Bake Off, PERSON, 1
+Coronation Street SPOILER - Maria, ORG, 1
+Kylie Platt – The Sun Coronation Street, PERSON, 1
+the last three years, DATE, 1
+Twitter |, ORG, 1
+two weeks ago, DATE, 1
+The Capitol Visitor Center, ORG, 1
+The Sun KYM Marsh, ORG, 1
+Secret Operation Orb, PERSON, 1
+Prince Charles', PERSON, 1
+94th, ORDINAL, 1
+Dartmoor, ORG, 1
+Flaviu, PERSON, 1
+Plymouth, GPE, 1
+July 7, DATE, 1
+Benjamin Mee, PERSON, 1
+Sun, GPE, 1
+2 years, DATE, 1
+Har…, WORK_OF_ART, 1
+Daily Mail Online Appearing, ORG, 1
+Chris Bucktin, PERSON, 1
+Daniel Barlow, PERSON, 1
+Coronation Street - Is David, FAC, 1
+Online Les, PERSON, 1
+Dustin Gee, PERSON, 1
+Angry Nick, PERSON, 1
+Oklahoma City, GPE, 1
+The Sun SEX, WORK_OF_ART, 1
+&quot;racially offensive&quot, ORG, 1
+Brazilian, NORP, 1
+Oswaldo Cruz Foundation, ORG, 1
+as many as one, CARDINAL, 1
+ten, CARDINAL, 1
+July.&#13, ORG, 1
+Macca CORONATION Street’s, ORG, 1
+Beckett, PERSON, 1
+Beckett, GPE, 1
+Kylie Platt’s, ORG, 1
+HOLLYWOOD, GPE, 1
+Last week, DATE, 1
+Joan, PERSON, 1
+Channel 4, ORG, 1
+Macca Hibbs, PERSON, 1
+David Gest’s, PERSON, 1
+York, GPE, 1
+FIRST, ORDINAL, 1
+Bill Roche, PERSON, 1
+Chris Froome, PERSON, 1
+Tour de France, PERSON, 1
+Team Sky, PERSON, 1
+Chris Froome's, PERSON, 1
+bin, PERSON, 1
+Rhea Bailey ', PERSON, 1
+Opinion, Pictures, ORG, 1
+Video - Mirror, ORG, 1
+September 2011, DATE, 1
+14 February 2013, DATE, 1
+19, CARDINAL, 1
+Comedy Central's, ORG, 1
+Thom Evans', PERSON, 1
+Kelly Brook's, PERSON, 1
+Tape, PERSON, 1
+31, CARDINAL, 1
+four million, CARDINAL, 1
+Chefs of Coronation, ORG, 1
+Birmingham University, ORG, 1
+the Chefs of Coronation, ORG, 1
+South Africa - Mirror, GPE, 1
+February, DATE, 1
+THREE MONTHS, DATE, 1
+December 2014, DATE, 1
+Mark Chapman’s, PERSON, 1
+True Detective, ORG, 1
+Stacey Feeley, PERSON, 1
+Traverse City, GPE, 1
+the Manchester Cathedral, ORG, 1
+up to 1.1 million, CARDINAL, 1
+Pub Landlady - played, PERSON, 1
+Classic, PRODUCT, 1
+The Two Ronnies, EVENT, 1
+Daily Mail Online Eva Price, ORG, 1
+Bank Holiday Monday's, EVENT, 1
+472, CARDINAL, 1
+Maria - Mirror, ORG, 1
+March 17, 2015, DATE, 1
+the preceding decade, DATE, 1
+Saturday Night Takeaway - Latest news, WORK_OF_ART, 1
+June 2002, DATE, 1
+Ant and Dec, ORG, 1
+50 years, DATE, 1
+Ahmed, PERSON, 1
+Laura Kuenssberg, PERSON, 1
+about 90 minutes, TIME, 1
+about 12.30pm, CARDINAL, 1
+House of Lords, ORG, 1
+Thames, ORG, 1
+David Bowie, PERSON, 1
+about £30,000, MONEY, 1
+Al Pacino, PERSON, 1
+Michael Caine, PERSON, 1
+Judi Dench.&#13, ORG, 1
+Complex, NORP, 1
+Ibiza, PERSON, 1
+474,000, CARDINAL, 1
+200k, PRODUCT, 1
+Coronation Street Samia, ORG, 1
+Phelan CORONATION Street’s, PERSON, 1
+McIn, NORP, 1
+50, DATE, 1
+Jack P Shepard, PERSON, 1
+17, DATE, 1
+Defiant, GPE, 1
+PDA, ORG, 1
+Vernon Kay ', PERSON, 1
+Corrie - Daily Star, ORG, 1
+Harry's Christening, ORG, 1
+Nickelback, ORG, 1
+O2, CARDINAL, 1
+nearly four hours, TIME, 1
+four-year, DATE, 1
+Corrie’s Roots, ORG, 1
+Butlins, ORG, 1
+Francis McDonnell, PERSON, 1
+47-hour, TIME, 1
+Kylie Platt | Daily Star PAULA Lane, ORG, 1
+Walford’s, ORG, 1
+Penny, PERSON, 1
+Kirk Sutherland's, PERSON, 1
+Prenzlauerberg, PERSON, 1
+Glasgow, PERSON, 1
+another Christmas Day, DATE, 1
+at least three, CARDINAL, 1
+Mecidiyekoy, GPE, 1
+The O2 Arena, FAC, 1
+more than four hours, TIME, 1
+Kylie Platt leave Coronation Street, PERSON, 1
+Jordan, GPE, 1
+Weatherfie, PERSON, 1
+300, CARDINAL, 1
+The Sun Ex-Coronation Street, ORG, 1
+Greater Manchester Police, ORG, 1
+Michael Gove, PERSON, 1
+The Independent Theresa, ORG, 1
+60%, PERCENT, 1
+Mrs Leadsom, PERSON, 1
+ICM, ORG, 1
+Coronation Street Bev Callard, ORG, 1
+Giovanni Pernice | Daily Mail Online, ORG, 1
+’ Live World Tour, WORK_OF_ART, 1
+The Lowry Theatre, ORG, 1
+The Sun Lockdown, ORG, 1
+Chrissie, WORK_OF_ART, 1
+Bernice, GPE, 1
+Lawrence, PERSON, 1
+the Carters on Johnn’s, WORK_OF_ART, 1
+last day, DATE, 1
+Teen, PERSON, 1
+SCHOOLGIRL, ORG, 1
+8am, TIME, 1
+Alpi, NORP, 1
+O2 Arena, FAC, 1
+Gemma Winter - Mirror Online Actress, ORG, 1
+Cathy Williams, PERSON, 1
+Izzy Armstrong's Star, PERSON, 1
+Star Trek, WORK_OF_ART, 1
+Clacton County High School, GPE, 1
+CREEPY, ORG, 1
+Coronatio, ORG, 1
+Philip Schofield, ORG, 1
+Christine Bleakley CORONATION Street, PERSON, 1
+Helen Worth’s, PERSON, 1
+Gail Rodwell , PERSON, 1
+Johnny Connor, ORG, 1
+2000, MONEY, 1
+Mediterranean, LOC, 1
+Connors, ORG, 1
+46, CARDINAL, 1
+Esther Warren - has, PERSON, 1
+the age of 46, DATE, 1
+22, CARDINAL, 1
+CORONATION Street, EVENT, 1
+Dr Bailey, PERSON, 1
+Daily Star ZEEDAN, WORK_OF_ART, 1
+Seventeen, CARDINAL, 1
+just two days, DATE, 1
+600, CARDINAL, 1
+Winson Green, ORG, 1
+West Midlands, GPE, 1
+six nights, DATE, 1
+Writer John Stevenson, PERSON, 1
+CHRISTOPHER WILSON, PERSON, 1
+Coronation St | Daily Star SHE’S, ORG, 1
+Samantha Jones, PERSON, 1
+Callum - Mirror, ORG, 1
+Sinead, PERSON, 1
+Chesney’s, ORG, 1
+November, DATE, 1
+Deidre Barlow's, PERSON, 1
+HMP Birmingham, LOC, 1
+12-hour, TIME, 1
+HMP Birmingham , PERSON, 1
+Hilda Ogden and Auntie Wainwright, FAC, 1
+Carver’s, ORG, 1
+this season, DATE, 1
+two thousand miles, QUANTITY, 1
+Amanda Holden, PERSON, 1
+Kyle Slater's, PERSON, 1
+DENISE Welch, PERSON, 1
+the Square, FAC, 1
+Rhian Sugden's, PERSON, 1
+Spanish, LANGUAGE, 1
+Sophie | TV & Radio, ORG, 1
+Cielo, PERSON, 1
+Jamie Birmingham, PERSON, 1
+RIP Hilda Ogden:, PERSON, 1
+Sparkle, ORG, 1
+KYM Marsh, PERSON, 1
+Corbyn, ORG, 1
+| World, ORG, 1
+Mitt Romney, PERSON, 1
+Mormon, NORP, 1
+Abi, ORG, 1
+Max - Mirror Online, ORG, 1
+Beverley Hills, PERSON, 1
+overnight, TIME, 1
+eight nights, DATE, 1
+US Park Police, ORG, 1
+West Executive Drive, ORG, 1
+Secret Service, ORG, 1
+District of, ORG, 1
+Columbia Fire, ORG, 1
+Doug Buchanan, PERSON, 1
+the Secret Service, ORG, 1
+every week, DATE, 1
+Paddy Jihadi', FAC, 1
+| Press | News, ORG, 1
+Kildare Now's, ORG, 1
+Paddy Jihaddy, WORK_OF_ART, 1
+27 years, DATE, 1
+HRT, ORG, 1
+Nancy Banks-Smith, PERSON, 1
+Andrews Air Force Base, FAC, 1
+Lockdown, GPE, 1
+99, DATE, 1
+Manchester 103's, LAW, 1
+Manchester's, WORK_OF_ART, 1
+John Rees-Evans, PERSON, 1
+Q&A - hours, TIME, 1
+Peter Whittle, PERSON, 1
+five-year, DATE, 1
+Lee Boardman, PERSON, 1
+Jennifer James, PERSON, 1
+SAS, ORG, 1
+nine weeks, DATE, 1
+Michael Le Vell', PERSON, 1
+Stuttgart, ORG, 1
+Stuttgart, GPE, 1
+Bild, PERSON, 1
+Jimmy Kimmel, PERSON, 1
+Johnny Depp | Daily Mail Online, PERSON, 1
+Jimmy Kimmel Live, PERSON, 1
+Sean Ward SPLIT |, PERSON, 1
+this Friday, DATE, 1
+Rare, PERSON, 1
+| News, ORG, 1
+Michael Cogswell, PERSON, 1
+33-minute, TIME, 1
+the Louis Armstrong House Museum, ORG, 1
+Maria | TV & Radio, ORG, 1
+Tom Hanks, PERSON, 1
+The Sun THE Simpsons, ORG, 1
+Nick Tilsley - Five, PERSON, 1
+BEN Price, PERSON, 1
+Alexandra Wheeler, PERSON, 1
+the week of 9 January, DATE, 1
+Kym Marsh, ORG, 1
+Western, NORP, 1
+Sydney, GPE, 1
+tens of thousands, CARDINAL, 1
+Wilmslow, GPE, 1
+eight-month-old, DATE, 1
+11, CARDINAL, 1
+Justin Trudeau, PERSON, 1
+Saskatchewan, GPE, 1
+Trudeau, PERSON, 1
+Shayne Ward |, FAC, 1
+Bet Lynch, ORG, 1
+December 1974, DATE, 1
+Bet Lynch &, ORG, 1
+LEANNE Battersby, PERSON, 1
+LAST night, TIME, 1
+Beverly Callard, PERSON, 1
+two year old, DATE, 1
+two-year-old, DATE, 1
+Carpathian Lynx, PERSON, 1
+Flaviu, ORG, 1
+Dartmoor Zoo, ORG, 1
+Cornwall, ORG, 1
+Commons, PRODUCT, 1
+Zsa Zsa Gabor, PERSON, 1
+Independence High School, ORG, 1
+Glendale, GPE, 1
+8.30am, CARDINAL, 1
+Antonino Fernández, PERSON, 1
+Manchester, LAW, 1
+MICHAEL Rodwell, PERSON, 1
+Joel Beckett, PERSON, 1
+Walford for Coronation Street, ORG, 1
+Daily Express CAZ, ORG, 1
+Geo, PRODUCT, 1
+Baker Street Tube, ORG, 1
+the London Fire Brigade, ORG, 1
+8pm, TIME, 1
+about fifteen minutes, TIME, 1
+Milo, ORG, 1
+Halesowen, GPE, 1
+the West Midlands, LOC, 1
+South America, LOC, 1
+Coming Community College, ORG, 1
+Carla Connor DIE, PERSON, 1
+New Year's Day, EVENT, 1
+Indiana, GPE, 1
+Cruz, PERSON, 1
+Sanders, ORG, 1
+Corriet, ORG, 1
+Coronation Street - Kevin Ratcliffe - Liverpool Echo, FAC, 1
+Argentinian, NORP, 1
+Hollyoaks’ Sophie Austin, ORG, 1
+just four months, DATE, 1
+SHAYNE WARD, ORG, 1
+Derek Saunders, PERSON, 1
+Aidan Turner - Mirror, PERSON, 1
+The Sun MAJOR Army, ORG, 1
+Wiltshire, ORG, 1
+Tidworth, GPE, 1
+Phoenix, GPE, 1
+| Daily Mail Online Shooting, ORG, 1
+Bethany, LOC, 1
+the ENTIRE COUNRY, ORG, 1
+Remain, ORG, 1
+McDonald’s, ORG, 1
+11-hour, TIME, 1
+The Metropolitan Police, ORG, 1
+6.20am, CARDINAL, 1
+Rocky Horror Show, PERSON, 1
+GEORGIA MAY FOOTE, ORG, 1
+the Rocky Horror Show, ORG, 1
+Jess Wright, PERSON, 1
+Jessica Wright's, PERSON, 1
+Aurora, PERSON, 1
+Caithness, ORG, 1
+South Wales, GPE, 1
+Sylvain Longchambon - Mirror, PERSON, 1
+Irishman, NORP, 1
+17, CARDINAL, 1
+Coronation Street Gail, ORG, 1
+Bat, PERSON, 1
+20-year, DATE, 1
+David Norris, PERSON, 1
+Kylie Platt | Metro, PERSON, 1
+14 years, DATE, 1
+be - Mirror Online Toyah Battersby, ORG, 1
+Casualty, ORG, 1
+these days, DATE, 1
+Michelle | TV & Radio, ORG, 1
+William the Conqueror, PERSON, 1
+Berllan Deg, PERSON, 1
+next winter, DATE, 1
+ski seasons, DATE, 1
+last year’s, DATE, 1
+Best Actor, PERSON, 1
+Lacey Turner, PERSON, 1
+Best Actress, ORG, 1
+Best Newcomer, PERSON, 1
+Bonnie Langford, PERSON, 1
+the Lowry Theatre, FAC, 1
+Louisville, GPE, 1
+first day, DATE, 1
+Daily Mail Online Advocating, ORG, 1
+Mancunian, NORP, 1
+| Daily Mail Online Producers, ORG, 1
+Stephen Powell, PERSON, 1
+Pontypridd, PERSON, 1
+Gareth Gates, ORG, 1
+Manchester | Daily Mail Online Gareth Gates, ORG, 1
+Manchester earlier, DATE, 1
+Calais, PERSON, 1
+Prenzlauerberg, GPE, 1
+Health & Families, ORG, 1
+Lifestyle |, PERSON, 1
+Mind, PERSON, 1
+OCD, ORG, 1
+’ve, ORG, 1
+CENTRAL Paris, LOC, 1
+The Boulevard de la Madeleine, FAC, 1
+MANCHESTER CITY, GPE, 1
+Pep Guardiola, PERSON, 1
+Eileen’s, ORG, 1
+Shane Wayne, PERSON, 1
+| Pictures | Pics |, ORG, 1
+Kym Marsh |, ORG, 1
+Trump-Sanders, ORG, 1
+Winter Ball, PERSON, 1
+Bill Tarmey's, PERSON, 1
+Ashton, ORG, 1
+Jack Duckworth - which, PERSON, 1
+400,000, MONEY, 1
+Gossip & More | Daily Star MEET Coronation Street's, ORG, 1
+48, DATE, 1
+more than 230, CARDINAL, 1
+Daily Mail Online Brooke, ORG, 1
+Ross Kemp, PERSON, 1
+9am today, TIME, 1
+Becky McDonald, PERSON, 1
+Coronation Street - Mirror Online Vicky Entwistle, FAC, 1
+HE MAY, DATE, 1
+six feet, QUANTITY, 1
+British Parliament, ORG, 1
+of Happy Valley, WORK_OF_ART, 1
+BBC1’s, ORG, 1
+LAST week, DATE, 1
+430k, MONEY, 1
+just £430,000, MONEY, 1
+Alison King's, ORG, 1
+39, DATE, 1
+Salford's, ORG, 1
+Lowry Theatre, ORG, 1
+Jo, PERSON, 1
+Burger King, ORG, 1
+Universe, PERSON, 1
+BBC1, PERSON, 1
+DeadEnders, ORG, 1
+Zoo Leipzig, PERSON, 1
+CATHERINE Tyldesley, PERSON, 1
+DOG CORONATION Street’s, ORG, 1
+Labrador, GPE, 1
+Andy’s, ORG, 1
+Cain’s, ORG, 1
+Thomas, PERSON, 1
+Michael Bolton's, PERSON, 1
+Fathers and Daughters, ORG, 1
+Brake, ORG, 1
+Andrey Karlov, PERSON, 1
+Daily Star A ZOO, WORK_OF_ART, 1
+Ab Fab, PERSON, 1
+Absolutely Fabulous, ORG, 1
+Sam Allardyce, PERSON, 1
+2, MONEY, 1
+THE FOOTBALL ASSOCIATION, ORG, 1
+Sam Allardyce's, PERSON, 1
+Fabulous, ORG, 1
+Harry, PERSON, 1
+a tough past year, DATE, 1
+Varian’s, ORG, 1
+Roger Varian, PERSON, 1
+Postponed, GPE, 1
+the Coronation Cup, EVENT, 1
+Epsom, ORG, 1
+the King George, ORG, 1
+last season, DATE, 1
+The Sun PALM Beach International Airport, ORG, 1
+Uncle, PERSON, 1
+Richard Moore, PERSON, 1
+Senior Military Knight, ORG, 1
+Coronation Street - Sally Dynevor, ORG, 1
+over 30 years, DATE, 1
+' two days, DATE, 1
+the coming weeks -, DATE, 1
+the Isle of Sheppey, ORG, 1
+The Prison Officers Association, ORG, 1
+Mike Rolfe, PERSON, 1
+Swaleside, WORK_OF_ART, 1
+Labour, ORG, 1
+Batley & Spen FORMER, ORG, 1
+an Academy Award, WORK_OF_ART, 1
+Max | TV & Radio, ORG, 1
+Max Turner, PERSON, 1
+Harry McDermott, PERSON, 1
+Carol Harvey, PERSON, 1
+Daily Mail Online Public Health England's, ORG, 1
+Dilys Morgan, PERSON, 1
+Westminster, GPE, 1
+Michael Rodwell - Mirror, PERSON, 1
+GLAD Corrie, ORG, 1
+next month's, DATE, 1
+Conservative, NORP, 1
+Sarah Lancashire - Mirror Online, PERSON, 1
+Axed Coronation Street, ORG, 1
+FIRE, ORG, 1
+Fans, NORP, 1
+Brendan’s, ORG, 1
+Simon Gregson KYM Marsh, PERSON, 1
+Michelle Macdonald, PERSON, 1
+40-y, DATE, 1
+Will Cathy, PERSON, 1
+Metro News Tragedy, ORG, 1
+World Health Organisation ', ORG, 1
+United Nations, ORG, 1
+Journal, ORG, 1
+Citizen Khan, PERSON, 1
+Zeedan, ORG, 1
+Rana - Mirror, ORG, 1
+Caz | Daily Mail Online Coronation Street's, ORG, 1
+Manchester Pride | Daily Mail Online Coronation Street, ORG, 1
+Manchester Pride, ORG, 1
+Carly, GPE, 1
+Duncan, PERSON, 1
+Stacey, PERSON, 1
+another week, DATE, 1
+Frankel | Sport |, ORG, 1
+day four, DATE, 1
+Dettori, PERSON, 1
+the first two days, DATE, 1
+Group One, ORG, 1
+Theron, PERSON, 1
+Orewa, GPE, 1
+Les Dennis' Coronation Street, ORG, 1
+Gail Platt's, PERSON, 1
+Royal Caribbean, ORG, 1
+Craig Tinker’s, PERSON, 1
+Beth Tinker, PERSON, 1
+Lisa Ge, PERSON, 1
+Telegraph Watch, WORK_OF_ART, 1
+Capitol Hill, LOC, 1
+The Media Column: How ITN, ORG, 1
+Ant & Dec, ORG, 1
+The Independent Its ITN Productions, ORG, 1
+24, MONEY, 1
+ITN’s, ORG, 1
+John Hardie, PERSON, 1
+Broadcast News, ORG, 1
+News.&#13, ORG, 1
+ITN Productions, ORG, 1
+Suzuki, PERSON, 1
+Ant &, ORG, 1
+Dec, PERSON, 1
+Saturday Night Takeaway, WORK_OF_ART, 1
+Geordie, PERSON, 1
+Aidan - Mirror Online, ORG, 1
+Brendan, PERSON, 1
+Tony Warren MBE at, PERSON, 1
+Lana, PERSON, 1
+THE British Soap Awards, ORG, 1
+FIVE years, DATE, 1
+Rosie W, PERSON, 1
+last Friday, DATE, 1
+Daily Star THINGS, WORK_OF_ART, 1
+BEVERLEY Callard, ORG, 1
+Salisbury Plain, LOC, 1
+5pm last night, TIME, 1
+Wiltshire Police, ORG, 1
+The Sun LEANNE Battersby’s, ORG, 1
+Ryan Thomas's, PERSON, 1
+7, DATE, 1
+the King Power Stadium, ORG, 1
+Ma, PERSON, 1
+Suspicious Package Causes White House, ORG, 1
+Shayne Ward |, ORG, 1
+Robert Vaughn - Latest, PERSON, 1
+Napoleon Solo, PERSON, 1
+UNCLE, PERSON, 1
+Hustle and Coronation Street, ORG, 1
+Vaughn, PERSON, 1
+November 11 2016, DATE, 1
+Hinterland, GPE, 1
+Welsh, PERSON, 1
+Welsh book Council's, ORG, 1
+n-Og Awards, ORG, 1
+The Sun CATHERINE Tyldesley, WORK_OF_ART, 1
+more than ten years, DATE, 1
+Prince Charles, PERSON, 1
+Shayne Ward | Daily Mail Online Her Coronation Street, ORG, 1
+Creepy, ORG, 1
+Ohio State, ORG, 1
+BORIS Johnson, PERSON, 1
+Cabinet, ORG, 1
+2017, CARDINAL, 1
+Sarah Platt FINALLY, PERSON, 1
+explosive week, DATE, 1
+David, ORG, 1
+an explosive week, DATE, 1
+Furious Coronation Street, ORG, 1
+Salford, ORG, 1
+350million, MONEY, 1
+Kinnock, ORG, 1
+Jeremy Corbyn&rsquo;s, PERSON, 1
+Gary Windass', PERSON, 1
+Kylie Platt's ', PERSON, 1
+Majorca, ORG, 1
+Sally Webster's, PERSON, 1
+Ciaran McCarthy, PERSON, 1
+Keighley, PERSON, 1
+Jane Thomas, PERSON, 1
+Patrick, ORG, 1
+Lucas, GPE, 1
+Coronation Street Sarah, FAC, 1
+Platt, FAC, 1
+Ryan Thomas - Latest, PERSON, 1
+at least two months, DATE, 1
+Coronation Street - Mirror Online Piers, FAC, 1
+90 minutes, TIME, 1
+Greece, GPE, 1
+the European Commission, ORG, 1
+early days, DATE, 1
+Batley and Spen, ORG, 1
+17,506, CARDINAL, 1
+16,537, CARDINAL, 1
+6,057, CARDINAL, 1
+Alma Halliwell, PERSON, 1
+seven-year, DATE, 1
+£2.5 million, MONEY, 1
+9,000, CARDINAL, 1
+the next year or so, DATE, 1
+Liam Fox, PERSON, 1
+Nick Miles, PERSON, 1
+Navy, ORG, 1
+60 feet, QUANTITY, 1
+San Diego’s, GPE, 1
+the Air Force One, FAC, 1
+40 years, DATE, 1
+Instagram | Celebrity News, ORG, 1
+Coronation Street - Bosses ', ORG, 1
+SEVEN, CARDINAL, 1
+Mirror Online Viewers, ORG, 1
+Mirror, ORG, 1
+Billy about Todd in Coronation Street, PERSON, 1
+Kylie Platt funeral Coronation Street Bootylicious, PERSON, 1
+Destiny’s Child, ORG, 1
+Polish, NORP, 1
+Marta, GPE, 1
+Sundays, DATE, 1
+Prestwich, GPE, 1
+Rovers, ORG, 1
+18 years, DATE, 1
+last year's, DATE, 1
+Andy - Mirror, PERSON, 1
+58, DATE, 1
+Friday 15 April, DATE, 1
+Bethany Platt’s, GPE, 1
+The week, DATE, 1
+The Sunday Times Going, ORG, 1
+LIVERPOOL STREET LOCKDOWN, ORG, 1
+SUSPICIOUS, ORG, 1
+London Liverpool Street, ORG, 1
+just hours, TIME, 1
+90 per cent, MONEY, 1
+George Osborne's, PERSON, 1
+Critics, PERSON, 1
+Phelan on Coronation Street, ORG, 1
+years ago, DATE, 1
+MICHAEL Rodwell’s, PERSON, 1
+63-year-old, DATE, 1
+Family Fortunes, ORG, 1
+Aidan Connor | Daily Mail, ORG, 1
+At least one, CARDINAL, 1
+Winter Ball, EVENT, 1
+FRENCH, NORP, 1
+Normandy, GPE, 1
+Anthony McVay Simpson, PERSON, 1
+ZeedanNazir, ORG, 1
+CATHERINE Tyldesley, PERSON, 1
+pound;2 million, CARDINAL, 1
+| Pictures | Pics | Daily Express Streets, ORG, 1
+Kim’s, ORG, 1
+1980, DATE, 1
+Eva Price - here's, PERSON, 1
+Eva Prince, PERSON, 1
+Copa America Centenario Jesus Corona, ORG, 1
+ten minutes, TIME, 1
+South Americans, NORP, 1
+Copa, PERSON, 1
+Jack Duckworth, PERSON, 1
+Bill Tarmey’s, PERSON, 1
+PUB - Mirror, ORG, 1
+Greater Manchester ‘, GPE, 1
+Corr, ORG, 1
+zero, CARDINAL, 1
+CORONATION Street’s Bethany Platt, ORG, 1
+Michael Rodwell - ", PERSON, 1
+the Coronation Street, LOC, 1
+Glasgow FORGET Friends Fest, ORG, 1
+Corrie Fest, PERSON, 1
+Kabin, PERSON, 1
+Earl, PERSON, 1
+last night’s I’m a Celebrity:, TIME, 1
+Robert | TV & Radio, ORG, 1
+Mary | TV & Radio, ORG, 1
+Daily Express SHE'S, ORG, 1
+Jimmi Harkishin, PERSON, 1
+UNIVERSITY, ORG, 1
+Kunta Kinte, PERSON, 1
+Chesney, PERSON, 1
+LBD - Mirror, ORG, 1
+Biggles, GPE, 1
+Harry Elton, PERSON, 1
+Elton, PERSON, 1
+Warren, GPE, 1
+Brooke Vincent - Latest, PERSON, 1
+Sian Piowers, PERSON, 1
+Mark Wright MICHELLE Keegan, PERSON, 1
+earlier in, TIME, 1
+Eiffel Tower, PERSON, 1
+Sheridan Smith, PERSON, 1
+Funny Girl, PRODUCT, 1
+SHERIDAN, ORG, 1
+40, CARDINAL, 1
+Angela, PERSON, 1
+Toxteth, DATE, 1
+Neil, PERSON, 1
+Lou Platt’s, PERSON, 1
+Brian Tilsly, PERSON, 1
+24-hour, TIME, 1
+Terry Bridger, PERSON, 1
+Manchester | Daily Mail Online Catherine Tyldesley, ORG, 1
+VIP, ORG, 1
+Whitney, FAC, 1
+Sun FANS, ORG, 1
+FORGET, ORG, 1
+Kristina Rihanoff, PERSON, 1
+Channel Five, ORG, 1
+Cheshire | Daily Mail, ORG, 1
+Sylvain, GPE, 1
+Delamere Manor, ORG, 1
+three year, DATE, 1
+Boohoo FORMER Coronation Street, ORG, 1
+twelve week, DATE, 1
+Alex Bains, PERSON, 1
+the from 1997, DATE, 1
+five-month, DATE, 1
+Asgardi, ORG, 1
+the Duchess of Cambridge, ORG, 1
+Toronto, GPE, 1
+RYAN THOMAS’s, ORG, 1
+EIGHT, ORG, 1
+August 2014, DATE, 1
+Rosie Webster - Daily Star, PERSON, 1
+Weatherfi, PERSON, 1
+Barbican, NORP, 1
+London Police, ORG, 1
+4pm, TIME, 1
+Stephen McDonell, PERSON, 1
+Celebrity First Dates, PERSON, 1
+Celebrity First Dates, ORG, 1
+Sacked, ORG, 1
+Sun Sacked, ORG, 1
+Toyah | TV & Radio, ORG, 1
+Topshop, ORG, 1
+one week, DATE, 1
+Lana Martin, PERSON, 1
+Carla STOPS, PERSON, 1
+Nick | TV & Radio, ORG, 1
+as early as next month, DATE, 1
+Mia, PERSON, 1
+Obese, NORP, 1
+5 years, DATE, 1
+£32 million, MONEY, 1
+Aidan | TV & Radio, ORG, 1
+Denver Airport West, FAC, 1
+Denver International Airport - America's, FAC, 1
+Coronation Street - Johnny Connor, ORG, 1
+Tony Warren MBE's, PERSON, 1
+24, CARDINAL, 1
+Drew McMaster, PERSON, 1
+Commonwealth, GPE, 1
+Todd and Billy, ORG, 1
+DEATH THREATS, PRODUCT, 1
+Todd Grimshaw CORONATION Street, PERSON, 1
+Nasa, GPE, 1
+Helen Worth - who, PERSON, 1
+Gail McIntyre -, PERSON, 1
+Pauline Fowler's, PERSON, 1
+Roy Cropper's, PERSON, 1
+the Icahn School of Medicine, ORG, 1
+Hilda Ogden | Coronation Street, ORG, 1
+Liverpool Street, FAC, 1
+the Square Mile, LOC, 1
+Bishopsgate between Wormwood Street, ORG, 1
+about 10.30pm, CARDINAL, 1
+New Street, LOC, 1
+11.45pm, CARDINAL, 1
+Rohingya Muslim, NORP, 1
+Burmese, NORP, 1
+Rakhine, PERSON, 1
+more than two months, DATE, 1
+George, PERSON, 1
+Faye Brooks, PERSON, 1
+Peter - Mirror, ORG, 1
+Steve McDonald REVEALED, PERSON, 1
+the end of Friday's, DATE, 1
+Liz McDonald - Mirror, PERSON, 1
+Coronation St | Daily Star, ORG, 1
+Anna CORONATION Street’s, ORG, 1
+Gary Windass , PERSON, 1
+Trump | Comment | The Times, ORG, 1
+Metro News, ORG, 1
+Billy Mayhew's, PERSON, 1
+Sarah Platt hostage, PERSON, 1
+Peter Barlow BRAWLS, PERSON, 1
+Christmas Day CHRISTMAS, DATE, 1
+National TV Award | Daily Mail Online Joined, ORG, 1
+Laurence Akers, PERSON, 1
+St Tropez |, ORG, 1
+the end of last summer, DATE, 1
+two-month, DATE, 1
+Jude MARY Taylor, PERSON, 1
+an extra SIXTH, DATE, 1
+each week, DATE, 1
+Michelle Mone, PERSON, 1
+Janet Street Porter, PERSON, 1
+Lady Mone, PERSON, 1
+Michael Le Vell's, PERSON, 1
+A Celebrity | TV & Radio, WORK_OF_ART, 1
+pVC, PERSON, 1
+Mary - Mirror Online, ORG, 1
+Lorraine CORONATION Street’s, PERSON, 1
+Marc Anward, PERSON, 1
+FURIOUS, ORG, 1
+the Cannon Brewery, PRODUCT, 1
+Neepsend Lane, FAC, 1
+RIP, ORG, 1
+Coronation Street' - Mirror Online Antony Cotton, FAC, 1
+100k, CARDINAL, 1
+London Ambulance Service, ORG, 1
+London Fire Brigade, ORG, 1
+the British Transport Police, ORG, 1
+2pm, TIME, 1
+A British Transport Police, ORG, 1
+Kylie Platt’s death, ORG, 1
+Lisa George, PERSON, 1
+Daran Little, PERSON, 1
+Damascus, GPE, 1
+the Coronation Street, ORG, 1
+Steve McDonald ‘, PERSON, 1
+Michelle - Mirror Online, ORG, 1
+last month’s, DATE, 1
+Las Vegas, GPE, 1
+Coronation Street CORONATION Street, FAC, 1
+the Christmas period, DATE, 1
+the winter months, DATE, 1
+Caz Hammond's, PERSON, 1
+Bet, PERSON, 1
+Southport - Liverpool Echo Toxteth-, ORG, 1
+Patrick Blake, PERSON, 1
+The Sun SOAPS, ORG, 1
+Pat Butcher, PERSON, 1
+CORONATION STREET’s, ORG, 1
+HOLLYOAKS, ORG, 1
+1.2867, MONEY, 1
+11.30am, DATE, 1
+half, CARDINAL, 1
+1.3017, MONEY, 1
+more than 1 cent, MONEY, 1
+1.177, MONEY, 1
+12.30pm, CARDINAL, 1
+Rosie Webster - Liverpool Echo Actress, PERSON, 1
+Jack Webster, PERSON, 1
+Millions, CARDINAL, 1
+Underground, FAC, 1
+Stanley, PERSON, 1
+Radio 2, ORG, 1
+Marylebone, GPE, 1
+Coronation Street - Wales Online, FAC, 1
+Bill Roache - Mirror, PERSON, 1
+Anne as Deirdre, PRODUCT, 1
+England I’m, WORK_OF_ART, 1
+Sun FEW, ORG, 1
+DENISE, PERSON, 1
+13 days, DATE, 1
+the toughest year, DATE, 1
+10 YEARS, DATE, 1
+Barcelona - Mirror Online, ORG, 1
+Andrew Sachs', PERSON, 1
+the Fawlty Towers and, ORG, 1
+86, CARDINAL, 1
+30 per cent, MONEY, 1
+15 per cent, MONEY, 1
+22 per cent, MONEY, 1
+The Sun Billy Buff, ORG, 1
+20 October, DATE, 1
+World Economic Forum, EVENT, 1
+WEF, ORG, 1
+Cherylee Houston, PERSON, 1
+Me Before, WORK_OF_ART, 1

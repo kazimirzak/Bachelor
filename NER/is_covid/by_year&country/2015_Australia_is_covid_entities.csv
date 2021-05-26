@@ -1,0 +1,206 @@
+entity, label, count
+Brussels, GPE, 20
+Paris, GPE, 11
+Australia, GPE, 8
+Belgian, NORP, 7
+Melbourne, GPE, 7
+Belgium, GPE, 5
+two, CARDINAL, 5
+Johnny Depp, PERSON, 5
+Corona, GPE, 4
+US, GPE, 4
+16, CARDINAL, 3
+Sydney, GPE, 3
+Irish, NORP, 3
+five, CARDINAL, 3
+Boo, ORG, 3
+Monday, DATE, 3
+Two, CARDINAL, 3
+Sydney Boys High School Sydney Boys High School, FAC, 2
+BrusselsLockdown, ORG, 2
+ACCC, ORG, 2
+No.1, CARDINAL, 2
+Philadelphia, GPE, 2
+Islamic, NORP, 2
+Iranian, NORP, 2
+Kurdish, NORP, 2
+Christmas Island, LOC, 2
+Brisbane, GPE, 2
+Thursday, DATE, 2
+morning, TIME, 2
+Australian, NORP, 2
+Aidan O'Brien, PERSON, 2
+Pistol, PERSON, 2
+Barnaby Joyce, PERSON, 2
+Vic, ORG, 2
+LA, GPE, 2
+first, ORDINAL, 2
+Victoria, GPE, 2
+TWO, CARDINAL, 2
+Friday, DATE, 2
+Cox Plate, ORG, 2
+Fremantle, ORG, 2
+Parramatta, ORG, 2
+Queensland, GPE, 2
+Coronation Drive, FAC, 2
+one, CARDINAL, 2
+Western Australia, ORG, 2
+Wednesday, DATE, 1
+afternoon, TIME, 1
+Indonesian Government -, ORG, 1
+The Indonesian Government, ORG, 1
+Foot, GPE, 1
+FMD, ORG, 1
+ABC News Twitter, ORG, 1
+another day, DATE, 1
+Fyshwick Mail Centre, FAC, 1
+More than 100, CARDINAL, 1
+the Fyshwick Mail Centre, FAC, 1
+more than a year, DATE, 1
+Liberians, NORP, 1
+ISIS, ORG, 1
+Matt Damon, PERSON, 1
+THE Australian Defence Force, ORG, 1
+SCHOOL, ORG, 1
+Salah Abdeslam, PERSON, 1
+BRUSSELS, ORG, 1
+Birrilee Court, ORG, 1
+Grovedale, GPE, 1
+Collins St, PERSON, 1
+Southern Cross Station, ORG, 1
+Collins St, GPE, 1
+James Maasdorp -, PERSON, 1
+ABC News, ORG, 1
+Australian Broadcasting Corporation, ORG, 1
+James Maasdorp, PERSON, 1
+ABC News Online, ORG, 1
+2008, DATE, 1
+South Africa, GPE, 1
+2003, DATE, 1
+Bachelor of Journalism and Bachelor of Arts, ORG, 1
+The University of Queensland, ORG, 1
+James, PERSON, 1
+three, CARDINAL, 1
+A-League, ORG, 1
+Formula One, ORG, 1
+Bathurst, GPE, 1
+Grandstand, GPE, 1
+St Leger, PERSON, 1
+Cup, EVENT, 1
+seven years, DATE, 1
+second day, DATE, 1
+second, ORDINAL, 1
+Indiana University — Purdue University Indianapolis, ORG, 1
+Indiana, GPE, 1
+ABC News Amber Heard, ORG, 1
+Bill Issa, PERSON, 1
+Bob, PERSON, 1
+Bui, ORG, 1
+Australian Army, ORG, 1
+Brisbane, PERSON, 1
+the Australian Army, ORG, 1
+East Hills, GPE, 1
+Joseph Banks High, PERSON, 1
+EAST Hills, GPE, 1
+Panania, GPE, 1
+Joseph Banks High School, PERSON, 1
+Melbourne Zoo - ABC News, ORG, 1
+More than a dozen, CARDINAL, 1
+the Melbourne Zoo, ORG, 1
+23-hour, TIME, 1
+three months, DATE, 1
+Metropolitan Remand Centre, ORG, 1
+Brisbane Kelvin Grove, PERSON, 1
+ABC News Melon, ORG, 1
+Saint-Denis, PERSON, 1
+Lisa Millar, PERSON, 1
+the early hours, TIME, 1
+the Saint-Denis, FAC, 1
+Hollywood, GPE, 1
+Ms Heard, PERSON, 1
+the Southport Magistrates Court, ORG, 1
+earlier this year, DATE, 1
+Pistol, ORG, 1
+Heard, PERSON, 1
+the Gold Coast, LOC, 1
+Malcolm Turnbull, PERSON, 1
+Christmas, DATE, 1
+Ashbygate, ORG, 1
+Labor, ORG, 1
+Venice, GPE, 1
+$379 million, MONEY, 1
+Post Entry Quarantine, ORG, 1
+this morning, TIME, 1
+Hillary Clinton’s, PERSON, 1
+820, MONEY, 1
+HILLARY Clinton, PERSON, 1
+NYC, ORG, 1
+Bergdorf Goodman, ORG, 1
+A820, PERSON, 1
+John Barrett Salon, PERSON, 1
+2015, DATE, 1
+Arod, PERSON, 1
+European, NORP, 1
+year, DATE, 1
+Tuesday, DATE, 1
+four-year-old, DATE, 1
+Newmarket Quarantine Station, ORG, 1
+Belgians, NORP, 1
+Twtter, ORG, 1
+overnight, TIME, 1
+| SBS News Soldiers, ORG, 1
+the third day, DATE, 1
+the tenth day, DATE, 1
+St Andrew's, PERSON, 1
+Cathedral School, ORG, 1
+Sydney’s, GPE, 1
+Horticulture Innovation Australia, ORG, 1
+Chinese, NORP, 1
+ABC News Horticulture, ORG, 1
+China, GPE, 1
+the Chinese Quarantine Association, ORG, 1
+Northern Hospital, LOC, 1
+The Northern Hospital at, ORG, 1
+Sydney&rsquo;s, ORG, 1
+half, CARDINAL, 1
+Australia SYDNEY, GPE, 1
+Benjamin Bray, PERSON, 1
+38 million, CARDINAL, 1
+Quarantined Queensland, FAC, 1
+684,000, MONEY, 1
+today, DATE, 1
+close to $700,000, MONEY, 1
+Panama Tropical, ORG, 1
+4, CARDINAL, 1
+Montrugue, GPE, 1
+Liege, GPE, 1
+Toowong, GPE, 1
+Plot, ORG, 1
+Port Phillip Prison Inmates, FAC, 1
+Port Phillip Prison, FAC, 1
+Utah, GPE, 1
+Denver, GPE, 1
+America, GPE, 1
+Qfly, PERSON, 1
+eight, CARDINAL, 1
+Perth, PERSON, 1
+around eight, CARDINAL, 1
+Perth, ORG, 1
+more than two months, DATE, 1
+thousands, CARDINAL, 1
+Boxing Day, EVENT, 1
+12 years, DATE, 1
+the only days, DATE, 1
+Christine Graham, PERSON, 1
+Christmas Day, DATE, 1
+Steven Devisscher's, PERSON, 1
+more than 200, CARDINAL, 1
+Saturday, DATE, 1
+night, TIME, 1
+last night, TIME, 1
+Black Death, ORG, 1
+thousands of years, DATE, 1
+the Black Death, ORG, 1
+Bronze Age, ORG, 1
+more than 3,000 years earlier, DATE, 1
+UK, GPE, 1

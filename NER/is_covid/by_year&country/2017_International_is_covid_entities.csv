@@ -1,0 +1,537 @@
+entity, label, count
+Corona, GPE, 12
+Tuesday, DATE, 10
+White House, ORG, 10
+Monday, DATE, 9
+RT USA News, ORG, 8
+two, CARDINAL, 8
+Friday, DATE, 8
+U.S., GPE, 8
+Reuters, ORG, 8
+Wednesday, DATE, 8
+British, NORP, 7
+Constellation Brands, ORG, 7
+Chicago, GPE, 6
+London, GPE, 6
+US, GPE, 5
+UK, GPE, 5
+Saturday, DATE, 5
+Parliament, ORG, 5
+April, DATE, 5
+one, CARDINAL, 5
+Delaware, GPE, 5
+California, GPE, 5
+Betty Price, PERSON, 4
+Thursday, DATE, 4
+Redstone Arsenal, ORG, 4
+Alabama, GPE, 4
+Navy, ORG, 4
+Indian, NORP, 4
+millions, CARDINAL, 4
+The White House, ORG, 4
+CNBC, ORG, 4
+first, ORDINAL, 4
+Canada, GPE, 4
+the United States, GPE, 4
+China, GPE, 3
+Houston, GPE, 3
+2, CARDINAL, 3
+Texas, GPE, 3
+RAF Mildenhall, ORG, 3
+CNN, ORG, 3
+Buckingham Palace, FAC, 3
+Texas Tech, ORG, 3
+Las Vegas, GPE, 3
+Britain, GPE, 3
+ABC News, ORG, 3
+Somalia, GPE, 3
+Sunday, DATE, 3
+the White House, ORG, 3
+three days, DATE, 3
+Svedka, GPE, 3
+Huntsville, GPE, 3
+Florida, GPE, 3
+UC Berkeley, ORG, 3
+Three, CARDINAL, 3
+Ohio, GPE, 3
+GOP, ORG, 2
+Georgia, GPE, 2
+Hong Kong, GPE, 2
+Merck, ORG, 2
+Tom Frieden, PERSON, 2
+Philippines, GPE, 2
+Resorts World Manila, ORG, 2
+Paris, GPE, 2
+Hollywood, GPE, 2
+Medtronic, ORG, 2
+2014, DATE, 2
+1,000, MONEY, 2
+Netflix, GPE, 2
+10 years ago, DATE, 2
+Rikers Island, LOC, 2
+Somali, NORP, 2
+Al Jazeera, ORG, 2
+New Jersey, GPE, 2
+Middle East, LOC, 2
+thousands, CARDINAL, 2
+morning, TIME, 2
+Pennsylvania Avenue, FAC, 2
+Cameroon, PERSON, 2
+more than four, CARDINAL, 2
+Virginia State University, ORG, 2
+Ireland, GPE, 2
+Hurricane Ophelia, ORG, 2
+Donald Trump, PERSON, 2
+Bill Gates, PERSON, 2
+RT World News, ORG, 2
+Jack Daniel's, ORG, 2
+Nebraska, GPE, 2
+19%, PERCENT, 2
+nearly a fifth, CARDINAL, 2
+more than a third, CARDINAL, 2
+Hannover Airport, FAC, 2
+Germany, GPE, 2
+161, CARDINAL, 2
+dozens, CARDINAL, 2
+RT Newsline, PERSON, 2
+EPA, ORG, 2
+DHA, ORG, 2
+Maryland, GPE, 2
+3, CARDINAL, 2
+Thailand, GPE, 2
+New York, GPE, 2
+London Bridge, FAC, 2
+›, CARDINAL, 2
+Orlando, GPE, 2
+Super Bowl, EVENT, 2
+second, ORDINAL, 2
+Australia, GPE, 2
+10, CARDINAL, 2
+North America, LOC, 2
+Hamas, ORG, 2
+Charlottesville, GPE, 2
+Canadian, NORP, 2
+Prince Charles, PERSON, 2
+Liz Dawn, PERSON, 2
+Havana, GPE, 2
+UN, ORG, 2
+Jewish, NORP, 2
+Memphis Grizzlies, GPE, 2
+Tony Allen, PERSON, 2
+Mexico, GPE, 2
+Army, ORG, 2
+0.25%, PERCENT, 2
+Daily Mail, ORG, 1
+Oxford Circus, ORG, 1
+Oxford Street, ORG, 1
+The Daily Mail, ORG, 1
+Health, ORG, 1
+Tom Price, PERSON, 1
+Christmas, DATE, 1
+San Diego’s, GPE, 1
+Hotel Del Coronado, PERSON, 1
+Xi Jinping, PERSON, 1
+20th, ORDINAL, 1
+Chinese, NORP, 1
+July 1, DATE, 1
+Two, CARDINAL, 1
+One, CARDINAL, 1
+Stafford, ORG, 1
+Alabama Army, ORG, 1
+the US Army's, ORG, 1
+Decorated Navy, ORG, 1
+San Diego Union Tribune, ORG, 1
+Joseph John Schmidt III, PERSON, 1
+42-year-old, DATE, 1
+23 years, DATE, 1
+East County, GPE, 1
+Elton John Slams Lawmaker's ', PERSON, 1
+Betty Price's, PERSON, 1
+Elton John, PERSON, 1
+Vault7, PERSON, 1
+CIA’s, ORG, 1
+CIA, ORG, 1
+Houston’s Ben Taub Hospital, ORG, 1
+RT USA News Police, ORG, 1
+Ben Taub Hospital, ORG, 1
+HPD, ORG, 1
+Art Acevedo, PERSON, 1
+CDC, ORG, 1
+Al Jazeera Fire, ORG, 1
+Circus, ORG, 1
+2km, QUANTITY, 1
+Eiffel Tower, FAC, 1
+PHOTOS, ORG, 1
+RT World News A, ORG, 1
+French, NORP, 1
+tonight, TIME, 1
+$6 billion, MONEY, 1
+$42.9 billion, MONEY, 1
+Covidien, ORG, 1
+RT USA News Panic, ORG, 1
+RT, GPE, 1
+Saudi Arabia, GPE, 1
+RT Business News Arrests, ORG, 1
+Saudi Arabia's, GPE, 1
+North Indian, NORP, 1
+RT World, ORG, 1
+Punjab, ORG, 1
+Haryana, PERSON, 1
+DAILY MAIL, ORG, 1
+22 degree, QUANTITY, 1
+a week ago, DATE, 1
+22, CARDINAL, 1
+Cocaine, ORG, 1
+Angioplasty, ORG, 1
+Netflix, ORG, 1
+first quarter, DATE, 1
+New York City's, GPE, 1
+Department of Correction, ORG, 1
+Peter Thorne, PERSON, 1
+the New York Police Department, ORG, 1
+Some 22, CARDINAL, 1
+UCLA, ORG, 1
+1918, DATE, 1
+million, CARDINAL, 1
+WannaCry, ORG, 1
+James Stavridis, PERSON, 1
+Luxury, ORG, 1
+World, ORG, 1
+World War III, EVENT, 1
+MTV, ORG, 1
+The MTV Video Music Awards, ORG, 1
+this year, DATE, 1
+New York City, GPE, 1
+8 p.m. EDT, TIME, 1
+August 30, 2020, DATE, 1
+years past, DATE, 1
+1,000, CARDINAL, 1
+VIDEOS, ORG, 1
+between 700 and 1,000, CARDINAL, 1
+2020, DATE, 1
+Muslim, NORP, 1
+Gerald Howarth, PERSON, 1
+today, DATE, 1
+Secret Service, ORG, 1
+’  — RT UK News A, WORK_OF_ART, 1
+US Air Force, FAC, 1
+afternoon, TIME, 1
+The Ministry of Defence (MoD, ORG, 1
+Suffolk, GPE, 1
+Tyson Foods, ORG, 1
+Tens of thousands, CARDINAL, 1
+Tennessee, GPE, 1
+30, CARDINAL, 1
+six-mile, QUANTITY, 1
+The U.S. Department of Agriculture, ORG, 1
+73,500, CARDINAL, 1
+72-year-old, DATE, 1
+Burnham, PRODUCT, 1
+April 2, DATE, 1
+Maine State Police, ORG, 1
+7, CARDINAL, 1
+3%, PERCENT, 1
+61%, PERCENT, 1
+Scientists, NORP, 1
+about 840, CARDINAL, 1
+2014-15, DATE, 1
+Liberia, GPE, 1
+Sierra Leone, ORG, 1
+more than 17,000, CARDINAL, 1
+Egypt Mourns, PERSON, 1
+44, CARDINAL, 1
+last night, TIME, 1
+Abdel Fattah, PERSON, 1
+el-Sisi, PERSON, 1
+HILL, ORG, 1
+The Secret Service, ORG, 1
+the White House, FAC, 1
+The Service Service, ORG, 1
+the North Fence of, ORG, 1
+Lafayette Park, LOC, 1
+English, LANGUAGE, 1
+Video - ABC News, ORG, 1
+RT Viral, ORG, 1
+1, CARDINAL, 1
+RT Newsline, ORG, 1
+about an hour, TIME, 1
+SWAT, PERSON, 1
+Tom Brady, PERSON, 1
+Bill Belichick, PERSON, 1
+HOUSTON, GPE, 1
+Zuckerberg, PERSON, 1
+Facebook Live:, WORK_OF_ART, 1
+WSJ, ORG, 1
+Mark Zuckerberg, PERSON, 1
+Maldives, ORG, 1
+Al Jazeera Soldiers, ORG, 1
+Joe Manchin, PERSON, 1
+95%, PERCENT, 1
+HHS, ORG, 1
+the James T. Vaughn Correctional Center, FAC, 1
+Smyrna, GPE, 1
+The state Department of Corrections, ORG, 1
+30mn, ORDINAL, 1
+a year, DATE, 1
+next 15 years, DATE, 1
+the Munich Security Conference, ORG, 1
+Microsoft, ORG, 1
+Elizabeth II, PERSON, 1
+91-year-old, DATE, 1
+two days, DATE, 1
+1952, DATE, 1
+RT USA News The National Institutes of Health, ORG, 1
+NIH, ORG, 1
+three-year, DATE, 1
+GOF, ORG, 1
+Moore, PRODUCT, 1
+Roy Moore, PERSON, 1
+Republican, NORP, 1
+Reuters Constellation Brands Inc, ORG, 1
+Modelo, PERSON, 1
+Brown-Forman Corp, ORG, 1
+RT USA News Two, ORG, 1
+the Tecumseh State Correctional Institution, ORG, 1
+several hours, TIME, 1
+Brazil, GPE, 1
+Brazilian, NORP, 1
+Michel Temer, PERSON, 1
+later this month, DATE, 1
+NBC News, ORG, 1
+Kate, PERSON, 1
+LONDON, GPE, 1
+Trump, PERSON, 1
+WISN, ORG, 1
+Joseph Jakubowski, PERSON, 1
+Janvesille, GPE, 1
+Angelina Jolie, PERSON, 1
+Brad Pitt - ABC News Actress, PERSON, 1
+Pitt, PERSON, 1
+Georgia State, GPE, 1
+Oct. 17, DATE, 1
+the University of Texas Southwestern, ORG, 1
+At least 35, CARDINAL, 1
+Philippine, NORP, 1
+ABC News Resorts World, ORG, 1
+6th day, DATE, 1
+St. Louis, GPE, 1
+St. Louis Galleria, GPE, 1
+hundreds, CARDINAL, 1
+Hyde Park, FAC, 1
+Hyde Park Corner, FAC, 1
+Reuters.com, ORG, 1
+Sun, ORG, 1
+NASA/GSFC/SDO, ORG, 1
+the Mayo Clinic, ORG, 1
+Wisconsin High School, ORG, 1
+Middle School and Community Center, ORG, 1
+5, CARDINAL, 1
+At least three, CARDINAL, 1
+Edgewood, GPE, 1
+- Reuters India, ORG, 1
+the sentencing on, DATE, 1
+Thailand Fights to Prevent, ORG, 1
+Outbreak, ORG, 1
+1896, DATE, 1
+May 26, 1896, DATE, 1
+Czar Nicholas II, PERSON, 1
+Charles Henry Dow, PERSON, 1
+German, NORP, 1
+The Redstone Arsenal U.S. Army, ORG, 1
+Ala., GPE, 1
+two-hour, TIME, 1
+night, TIME, 1
+RT’s, ORG, 1
+Polly Boiko, PERSON, 1
+Serbia, GPE, 1
+Serbian, NORP, 1
+Belgrade, GPE, 1
+three, CARDINAL, 1
+The Cook County Sheriff's Department, ORG, 1
+more than 200, CARDINAL, 1
+KDFW, ORG, 1
+North Texas, LOC, 1
+North Lake College, ORG, 1
+Irving, ORG, 1
+5001, DATE, 1
+North MacArthur Boulevard, PERSON, 1
+just before noon, TIME, 1
+45 minutes, TIME, 1
+Debra Clayton, PERSON, 1
+As many as 15, CARDINAL, 1
+Pine Hills, GPE, 1
+annual, DATE, 1
+Cook County, GPE, 1
+Ill., GPE, 1
+Cook County Jail, GPE, 1
+Mexican, NORP, 1
+Corona Familiar, PERSON, 1
+Hispanic, NORP, 1
+next year, DATE, 1
+Chris Christie, PERSON, 1
+Sierra Leone, LOC, 1
+Christie, ORG, 1
+last week, DATE, 1
+James..., PERSON, 1
+Mistaken, PERSON, 1
+California Air Force, ORG, 1
+Travis Air Force Base, ORG, 1
+more than an hour, TIME, 1
+Milo Yiannopoulos, ORG, 1
+U.C. Berkeley, PERSON, 1
+Shot Dead, PERSON, 1
+Son, Police Say A, ORG, 1
+Rhode Island, GPE, 1
+New Hampshire's, GPE, 1
+UPI, ORG, 1
+Lockdown, ORG, 1
+Kentucky Oaks, GPE, 1
+Magic Millions, ORG, 1
+RT USA News More than 97,000, ORG, 1
+the day, DATE, 1
+Guardian, ORG, 1
+the Niger Delta University Teaching Hospital, ORG, 1
+Okolobiri, PERSON, 1
+Yenagoa, PERSON, 1
+Bayelsa State, GPE, 1
+NDUTH, ORG, 1
+Okolobiri, ORG, 1
+France, GPE, 1
+Americas, LOC, 1
+Ponce de Leon, PERSON, 1
+1513, DATE, 1
+1527, DATE, 1
+1539, DATE, 1
+1540, DATE, 1
+Cabrillo, ORG, 1
+1542, DATE, 1
+Spanish, NORP, 1
+about two hours, TIME, 1
+Travis Air Force Base, FAC, 1
+9, CARDINAL, 1
+Hundreds, CARDINAL, 1
+the University of California, Berkeley, ORG, 1
+nine, CARDINAL, 1
+NEW YORK, ORG, 1
+the Naval Special Warfare, FAC, 1
+Coronado, GPE, 1
+this week, DATE, 1
+Naval Criminal Investigative Service, ORG, 1
+the Naval Special Warfare Center, EVENT, 1
+Oct. 12, DATE, 1
+N. Carolina, GPE, 1
+RT USA News Multiple, ORG, 1
+North Carolina's, GPE, 1
+Pasquotank Correctional Institute, ORG, 1
+North Carolina, GPE, 1
+Ammonia, GPE, 1
+Fernie, GPE, 1
+British Columbia, GPE, 1
+JFK, PERSON, 1
+the National Archives, ORG, 1
+25-year, DATE, 1
+Filipino, NORP, 1
+CNN Philippines, ORG, 1
+Gaza, GPE, 1
+Al Jazeera Gaza, ORG, 1
+24-hour, TIME, 1
+America, GPE, 1
+American, NORP, 1
+Va., GPE, 1
+RT USA News Schools, ORG, 1
+Virginia, GPE, 1
+FBI, ORG, 1
+Alcohol company Constellation Brands, ORG, 1
+Canopy Growth Corporation, ORG, 1
+Jim Cramer, PERSON, 1
+Robert Sands, PERSON, 1
+Lockdown Following Shooting Near Parliament, ORG, 1
+Corona Jim Cramer, PERSON, 1
+Rob Sands, PERSON, 1
+al-Shabab, PERSON, 1
+Royalty & Church of England, ORG, 1
+100 years’, DATE, 1
+RT World News China, ORG, 1
+a century, DATE, 1
+Avian Influenza A(H7N9, ORG, 1
+79, CARDINAL, 1
+January, DATE, 1
+192, CARDINAL, 1
+Coronation Street', FAC, 1
+77, CARDINAL, 1
+Vera Duckworth, ORG, 1
+Coronation Street, FAC, 1
+more than 30 years, DATE, 1
+77, DATE, 1
+Dawn, PERSON, 1
+Monday night, TIME, 1
+Trump, ORG, 1
+Thai, NORP, 1
+the end of 2017, DATE, 1
+Maha Vajiralongkorn, PERSON, 1
+the end of the year, DATE, 1
+Corona Tobacco, ORG, 1
+Cuba, GPE, 1
+Alexandre Meneghini, PERSON, 1
+Arizona Air Force Base -, FAC, 1
+Arizona, GPE, 1
+nearly two hours, TIME, 1
+Davis-Monthan Air Force Base, ORG, 1
+Tucson, GPE, 1
+ONS, ORG, 1
+Reuters Britain, ORG, 1
+the three months to January, DATE, 1
+2011, DATE, 1
+WHO, ORG, 1
+Milo, ORG, 1
+University of California, Berkeley, ORG, 1
+Breitbart, ORG, 1
+Milo Yiannopoulos, PERSON, 1
+Yiannopoulos, GPE, 1
+RT Op-ed, PERSON, 1
+SUN, ORG, 1
+PLAGUE, ORG, 1
+Medieval, PERSON, 1
+one third, CARDINAL, 1
+Europe, LOC, 1
+the 13th and 14th centuries, DATE, 1
+Breakingviews - Constellation Brands, ORG, 1
+Colorado, GPE, 1
+Washington, GPE, 1
+years, DATE, 1
+Big Tobacco, ORG, 1
+Illinois, GPE, 1
+Illinois’, FAC, 1
+two-year, DATE, 1
+Capitol, FAC, 1
+seven, CARDINAL, 1
+Cameroon, WORK_OF_ART, 1
+Russian, NORP, 1
+Russian Foreign Ministry, ORG, 1
+Maria Zakharova, PERSON, 1
+the UN Committee on Information, ORG, 1
+Columbus, GPE, 1
+18-year-old, DATE, 1
+100, CARDINAL, 1
+AP, ORG, 1
+ALBUQUERQUE, ORG, 1
+N.M., GPE, 1
+Albuquerque, GPE, 1
+Smith Coronas, PERSON, 1
+Boston, GPE, 1
+Tom Hanks, PERSON, 1
+John Mayer, PERSON, 1
+this summer, DATE, 1
+British Parliament, ORG, 1
+the House of Commons, ORG, 1
+Nick Carey, ORG, 1
+Lieberman, PERSON, 1
+Joe Lieberman, PERSON, 1
+Ohio University's, ORG, 1
+Midwest, LOC, 1
+Reuters Australia's, ORG, 1
+BRC - Reuters, ORG, 1
+Another White House, ORG, 1
+Fox News, ORG, 1
+about 12:45 p.m., TIME, 1
+Westminster Bridge, PERSON, 1
