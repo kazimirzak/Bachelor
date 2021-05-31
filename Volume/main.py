@@ -115,7 +115,7 @@ if __name__ == '__main__':
         }, {
             '$match': {
                 'year': {
-                    '$gte': 2020
+                    '$lt': 2020
                 }
             }
         }, {
@@ -174,24 +174,11 @@ if __name__ == '__main__':
     outlet = []
     month_year = []
     ratio = []
-    for thing in get_data(num_of_covid_day):
+    for thing in get_data(num_of_vaccine_day):
         country.append(thing['country'])
         outlet.append(thing['outlet'])
         month_year.append(f"{datetime.date(1900, thing['month'], 1).strftime('%b')}-{thing['year']}")
         ratio.append(thing['ratio'])
     data = {"Country": country, "Outlet": outlet, "Month-Year": month_year, "Ratio": ratio}
     df = pd.DataFrame(data=data)
-    df.to_csv('covid_ratio.csv')
-    #print(df)
-    #fig, axes = plt.subplots()
-    #sns.boxplot(x='year-month', y='Ratio', ax=axes, grid=False)
-    #axes.set_title("Volume of Vaccine Articles")
-    #axes.set_xlabel("Month and year")
-    #axes.set_ylabel("Percentage")
-    #plt.show()
-    # df = df.set_index('Date')
-    #plot = df.boxplot(by=zlabel, column=[ylabel], grid=False, showmeans=True)
-    #plot.set_ylabel(ylabel)
-    #plot.set_xlabel(zlabel)
-    #plot.set_title("Coverage of vaccines in 2020")
-    #plt.show()
+    df.to_csv('vaccine_ratio_pre2020.csv')

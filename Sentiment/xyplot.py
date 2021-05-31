@@ -3,7 +3,13 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-sns.set(rc={'figure.figsize': (11, 4)})
+plt.rcParams.update({
+    "text.usetex": True,
+    "font.family": "sans-serif",
+    "font.sans-serif": ["Helvetica"]})
+sns.set(rc={'font.size': 10, 'axes.titlesize': 16, 'axes.labelsize': 10, 'figure.figsize': (11.7, 8.27)})
+sns.set(font_scale=1.25)
+sns.set_style('ticks')
 
 # 21
 NUM_OF_POINTS = 1001
@@ -48,4 +54,5 @@ if __name__ == '__main__':
     ax.set_title('Sentiment of Vaccines')
     ax.set_ylabel('Ratio')
     ax.set_xlabel('Vader compound score')
-    plt.show()
+    plt.savefig('E:\\bachelor\\dataIsButyful\\OfficialPics\\sentiment.png', bbox_inches='tight')
+

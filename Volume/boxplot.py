@@ -1,27 +1,37 @@
-from pymongo import MongoClient
-import time
 import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
-import datetime
 
 
-sns.set(rc={'figure.figsize': (11, 4)})
-#sns.set_style('ticks')
+plt.rcParams.update({
+    "text.usetex": True,
+    "font.family": "sans-serif",
+    "font.sans-serif": ["Helvetica"]})
+sns.set(rc={'font.size': 10, 'axes.titlesize': 16, 'axes.labelsize': 10, 'figure.figsize': (11.7, 8.27)})
+sns.set(font_scale=1.25)
+sns.set_style('ticks')
 
 
 if __name__ == '__main__':
     print("Lets fuck shit up")
     files = {
         'covid_ratio.csv': {
-            'title': 'Volume of Covid articles',
+            'title': 'Volume of Covid articles 2020-2021',
             'xlabel': '',
-            'ylabel': 'Ratio'
+            'ylabel': 'Ratio',
+            'rotate': True,
         },
         'vaccine_ratio.csv': {
-            'title': 'Volume of vaccine articles',
+            'title': 'Volume of vaccine articles 2020-2021',
             'xlabel': '',
-            'ylabel': 'Ratio'
+            'ylabel': 'Ratio',
+            'rotate': True
+        },
+        'vaccine_ratio_pre2020.csv': {
+            'title': 'Volume of vaccine articles pre-2020',
+            'xlabel': '',
+            'ylabel': 'Ratio',
+            'rotate': True
         }
     }
     for file, options in files.items():
@@ -35,4 +45,6 @@ if __name__ == '__main__':
         ax.set_ylabel(options['ylabel'])
         plt.setp(ax.artists, edgecolor='black', facecolor='w')
         plt.setp(ax.lines, color='black')
-        plt.show()
+        if options['rotate']:
+            plt.xticks(rotation=90)
+        plt.savefig('E:\\bachelor\\dataIsButyful\\OfficialPics\\' + file + '.png', bbox_inches='tight')

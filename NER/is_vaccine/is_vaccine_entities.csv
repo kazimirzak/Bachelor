@@ -52,7 +52,7 @@ Russian, NORP, 1076
 Ireland, GPE, 1073
 Chinese, NORP, 1064
 Trump, ORG, 1042
-Johnson & Johnson, ORG, 1040
+Johnson \& Johnson, ORG, 1040
 this week, DATE, 1020
 European, NORP, 1018
 Brazil, GPE, 989
@@ -226,7 +226,7 @@ Italian, NORP, 201
 a year, DATE, 200
 South Korea, GPE, 199
 African, NORP, 199
-Johnson & Johnson's, ORG, 199
+Johnson \& Johnson's, ORG, 199
 Hungary, GPE, 199
 Britons, PERSON, 197
 24, CARDINAL, 196
@@ -359,7 +359,7 @@ nine, CARDINAL, 122
 10 million, CARDINAL, 121
 COVID-19 Vaccine, PERSON, 120
 a day, DATE, 120
-Johnson & Johnson’s, ORG, 120
+Johnson \& Johnson’s, ORG, 120
 Berlin, GPE, 120
 Sputnik, PERSON, 119
 CVS, ORG, 119
@@ -607,7 +607,7 @@ Cuba, GPE, 68
 Papua New Guinea, GPE, 67
 50%, PERCENT, 67
 90 percent, PERCENT, 67
-the Johnson & Johnson, ORG, 67
+the Johnson \& Johnson, ORG, 67
 79%, PERCENT, 67
 the Serum Institute of India, ORG, 66
 six months, DATE, 66
@@ -894,7 +894,7 @@ two-thirds, CARDINAL, 41
 Uganda, GPE, 41
 Bill, PERSON, 41
 8, CARDINAL, 41
-| TV & Radio, ORG, 41
+| TV \& Radio, ORG, 41
 New York’s, GPE, 41
 Charles Michel, PERSON, 41
 80s, DATE, 41
@@ -1240,7 +1240,7 @@ January 2021, DATE, 28
 130, CARDINAL, 28
 Pfizer Inc's, ORG, 28
 Morgan Stanley, ORG, 28
-US & Canada, ORG, 28
+US \& Canada, ORG, 28
 Vatican, ORG, 28
 last week's, DATE, 28
 the World Health Organization's, ORG, 28
@@ -1271,7 +1271,7 @@ the age of 65, DATE, 27
 COVID Vaccine, PERSON, 27
 Rwanda, GPE, 27
 four days, DATE, 27
-Science & Tech News, ORG, 27
+Science \& Tech News, ORG, 27
 about half, CARDINAL, 27
 Cook County, GPE, 27
 a year ago, DATE, 27
@@ -1450,7 +1450,7 @@ Ivanka Trump, PERSON, 23
 Kayleigh McEnany, PERSON, 23
 each week, DATE, 23
 Donald, PERSON, 23
-Fox & Friends, ORG, 23
+Fox \& Friends, ORG, 23
 Northland, ORG, 23
 16, DATE, 23
 Antonio Guterres, PERSON, 23
@@ -1843,7 +1843,7 @@ eight months, DATE, 17
 Nebraska, GPE, 17
 up to 300 million, MONEY, 17
 Dec. 14, DATE, 17
-Johnson & Johnson COVID, ORG, 17
+Johnson \& Johnson COVID, ORG, 17
 NI, ORG, 17
 the World Trade Organization, ORG, 17
 Hillicon Valley, LOC, 17
@@ -1949,7 +1949,7 @@ more than 300, CARDINAL, 16
 Waterloo Region, GPE, 16
 Vaughan Gething, PERSON, 16
 Kim Jong-un, PERSON, 16
-| Science & Tech News, ORG, 16
+| Science \& Tech News, ORG, 16
 Syrian, NORP, 16
 Alexandria Ocasio-Cortez, PERSON, 16
 One-third, CARDINAL, 16
@@ -1980,7 +1980,7 @@ Brisbane, PERSON, 16
 PHE, ORG, 16
 the end of this month, DATE, 16
 New York City’s, GPE, 16
-US & Canada News, ORG, 16
+US \& Canada News, ORG, 16
 Robert Peston, PERSON, 16
 ‘The Story’, WORK_OF_ART, 16
 Jonas Salk, PERSON, 16
@@ -2306,7 +2306,7 @@ This Morning, WORK_OF_ART, 13
 U.S.-China, GPE, 13
 Biden, GPE, 13
 David Begnaud, PERSON, 13
-City & Business, ORG, 13
+City \& Business, ORG, 13
 Ngozi Okonjo-Iweala, PERSON, 13
 Somalia, GPE, 13
 ' - Mirror Online, ORG, 13
@@ -2381,7 +2381,7 @@ the US Centers for Disease Control and Prevention, ORG, 13
 High Court, ORG, 13
 $1.2 billion, MONEY, 13
 David Perdue, PERSON, 13
-DW Business – Europe & America, ORG, 13
+DW Business – Europe \& America, ORG, 13
 Mark Walport, PERSON, 13
 Jan. 1, DATE, 13
 Benzinga, PERSON, 13
@@ -2477,7 +2477,7 @@ Jacob Rees-Mogg, PERSON, 12
 Breakthrough, GPE, 12
 Mediterranean, LOC, 12
 November 19, DATE, 12
-| US & Canada News, ORG, 12
+| US \& Canada News, ORG, 12
 "1,950", CARDINAL, 12
 Vladimir Duthiers, PERSON, 12
 the University of Texas Medical Branch, ORG, 12
@@ -2802,7 +2802,7 @@ early winter, DATE, 11
 31 million, CARDINAL, 11
 Nick Ferrari, PERSON, 11
 Andrés Manuel López, PERSON, 11
-The Johnson & Johnson, ORG, 11
+The Johnson \& Johnson, ORG, 11
 Eli Lilly, ORG, 11
 Kevin McCarthy, PERSON, 11
 $160 billion, MONEY, 11
@@ -2884,7 +2884,7 @@ more than 400, CARDINAL, 10
 Mount Sinai Hospital, ORG, 10
 The Justice Department, ORG, 10
 Native Americans, NORP, 10
-the Johnson & Johnson COVID-19, ORG, 10
+the Johnson \& Johnson COVID-19, ORG, 10
 TheHill Pfizer, PERSON, 10
 Dec. 4, DATE, 10
 African Union, ORG, 10
@@ -3450,7 +3450,7 @@ Bavarian, NORP, 8
 "140,000", CARDINAL, 8
 Biden Covid, PERSON, 8
 the White House Coronavirus Task Force, ORG, 8
-Merck & Co, ORG, 8
+Merck \& Co, ORG, 8
 Operation Warp Speed, EVENT, 8
 the Second World War, EVENT, 8
 Ms Sturgeon, PERSON, 8
@@ -4180,7 +4180,7 @@ Malcolm Turnbull, PERSON, 7
 Matt Canavan, PERSON, 7
 Jan. 28, DATE, 7
 10th, ORDINAL, 7
-| Ents & Arts News, ORG, 7
+| Ents \& Arts News, ORG, 7
 SAN FRANCISCO, GPE, 7
 at least five, CARDINAL, 7
 Kristen Choi, PERSON, 7
@@ -4440,7 +4440,7 @@ Guelph, PERSON, 6
 Butantan Institute, ORG, 6
 The Washington Post Trump, ORG, 6
 0.1%, PERCENT, 6
-the Bill & Melinda Gates Foundation, ORG, 6
+the Bill \& Melinda Gates Foundation, ORG, 6
 12 percent, PERCENT, 6
 116, CARDINAL, 6
 Jan. 2, DATE, 6
@@ -4501,7 +4501,7 @@ at least 14, CARDINAL, 6
 Ark., GPE, 6
 Tucker Carlson Tonight', WORK_OF_ART, 6
 Cornell University, ORG, 6
-DW Business - Europe & America, ORG, 6
+DW Business - Europe \& America, ORG, 6
 "9,000", CARDINAL, 6
 49-year-old, DATE, 6
 6 feet, QUANTITY, 6
@@ -4536,7 +4536,7 @@ three weeks ago, DATE, 6
 46 million, CARDINAL, 6
 Beira, GPE, 6
 40-year-old, DATE, 6
-Fox News Johnson & Johnson, ORG, 6
+Fox News Johnson \& Johnson, ORG, 6
 the Public Health Agency of Canada, ORG, 6
 Anthony Costello, PERSON, 6
 May 8, DATE, 6
@@ -4710,14 +4710,14 @@ N.M., GPE, 6
 Hamilton, GPE, 6
 Susan Hopkins, PERSON, 6
 1960s, DATE, 6
-TheHill Johnson & Johnson, ORG, 6
+TheHill Johnson \& Johnson, ORG, 6
 65-year-old, DATE, 6
 Defense Department, ORG, 6
 Philippe Lamberts, PERSON, 6
 $1.1 billion, MONEY, 6
 Zheng Zhongwei, PERSON, 6
 Phase Three, ORG, 6
-Johnson & Johnson Covid, ORG, 6
+Johnson \& Johnson Covid, ORG, 6
 Pfizer-BioNTech’s, ORG, 6
 nearly 3%, PERCENT, 6
 SINGLE, ORG, 6
@@ -4987,7 +4987,7 @@ Milley, PERSON, 6
 Rosa Flores, PERSON, 6
 Jenna Ellis, PERSON, 6
 30 minutes, TIME, 6
-Merck & Co., ORG, 6
+Merck \& Co., ORG, 6
 18 to 55, DATE, 6
 Schwab, PERSON, 6
 Oxford Vaccine, ORG, 6
@@ -5091,7 +5091,7 @@ James Brokenshire, PERSON, 5
 up to, MONEY, 5
 PepsiCo, ORG, 5
 At least 36, CARDINAL, 5
-Ents & Arts News, ORG, 5
+Ents \& Arts News, ORG, 5
 one third, CARDINAL, 5
 Gordon Brown, PERSON, 5
 Carlin, GPE, 5
@@ -5159,7 +5159,7 @@ the next few years, DATE, 5
 Lanzhou, GPE, 5
 More than five million, CARDINAL, 5
 The Beat, WORK_OF_ART, 5
-Merck & Co Inc, ORG, 5
+Merck \& Co Inc, ORG, 5
 Covid vaccine - Daily Star, PERSON, 5
 3.8%, PERCENT, 5
 Fox News Scientists, ORG, 5
@@ -6573,7 +6573,7 @@ Bexsero, ORG, 4
 Nearly one million, CARDINAL, 4
 two-months, DATE, 4
 age 30, DATE, 4
-Johnson & Johnson CFO, ORG, 4
+Johnson \& Johnson CFO, ORG, 4
 34 million, CARDINAL, 4
 U.S.-Mexico, ORG, 4
 AstraZeneca-Oxford, PRODUCT, 4
@@ -7117,7 +7117,7 @@ Bahamas, GPE, 4
 Politicians, NORP, 4
 More than 170, CARDINAL, 4
 April 18, DATE, 4
-| City & Business, ORG, 4
+| City \& Business, ORG, 4
 "more than 3,100", CARDINAL, 4
 about 18 months, DATE, 4
 under 30, DATE, 4
@@ -7586,7 +7586,7 @@ Tier 4, PRODUCT, 3
 RT USA News A, ORG, 3
 Joyce, PERSON, 3
 about five years, DATE, 3
-"Novavax, Johnson & Johnson", ORG, 3
+"Novavax, Johnson \& Johnson", ORG, 3
 BBC News A, ORG, 3
 Friends', ORG, 3
 Cowboys, ORG, 3
@@ -7613,7 +7613,7 @@ Mireya Villarreal, PERSON, 3
 Navajo Nation, ORG, 3
 Gus Perna, PERSON, 3
 David Heymann, PERSON, 3
-the London School of Hygiene & Tropical Medicine, ORG, 3
+the London School of Hygiene \& Tropical Medicine, ORG, 3
 under 45, DATE, 3
 Murray, ORG, 3
 Jim Carrey, PERSON, 3
@@ -7895,7 +7895,7 @@ About half, CARDINAL, 3
 4bn, MONEY, 3
 Madagascan, NORP, 3
 38 million, CARDINAL, 3
-| US & Canada, ORG, 3
+| US \& Canada, ORG, 3
 Lisbon, GPE, 3
 the US Centers for Disease Control, ORG, 3
 12 April, DATE, 3
@@ -8086,7 +8086,7 @@ Aspen Pharmacare, PERSON, 3
 "January 30, 2021", DATE, 3
 Up to one, CARDINAL, 3
 195, CARDINAL, 3
-Wells Fargo & Co, ORG, 3
+Wells Fargo \& Co, ORG, 3
 JPM, ORG, 3
 "Wednesday, March 17", DATE, 3
 BenzingaClick, ORG, 3
@@ -8948,7 +8948,7 @@ Volodymyr Zelenskiy's, PERSON, 3
 Yukon’s, ORG, 3
 MIAMI, ORG, 3
 as many weeks, DATE, 3
-| Health | Life & Style | Daily Express, ORG, 3
+| Health | Life \& Style | Daily Express, ORG, 3
 12-15 year, DATE, 3
 Reuters Preliminary, ORG, 3
 "1,750", CARDINAL, 3
@@ -9117,7 +9117,7 @@ Blood-Clot Concerns - WSJ, ORG, 3
 Henrietta Lacks, ORG, 3
 Camp David, FAC, 3
 Nikole Killion, PERSON, 3
-Red & Blue, ORG, 3
+Red \& Blue, ORG, 3
 Croydon, GPE, 3
 WEEKS, GPE, 3
 96.4%, PERCENT, 3
@@ -9930,7 +9930,7 @@ the beginning of December, DATE, 3
 Johnson &, ORG, 3
 Brighter, PERSON, 3
 7.4 billion euros, MONEY, 3
-The Bill & Melinda Gates Foundation, ORG, 3
+The Bill \& Melinda Gates Foundation, ORG, 3
 Montenegro, GPE, 3
 David Ho, PERSON, 3
 59 percent, PERCENT, 3
@@ -10235,7 +10235,7 @@ Combat, ORG, 3
 More than 90%, PERCENT, 3
 Refresher, PERSON, 3
 Jackson Health System, ORG, 3
-Novavax and Johnson & Johnson, ORG, 3
+Novavax and Johnson \& Johnson, ORG, 3
 Boris Johnson - Mirror, PERSON, 3
 "680,000", CARDINAL, 3
 Daily Mail Online Ministers, ORG, 3
@@ -10454,7 +10454,7 @@ the age of 17, DATE, 2
 first hundred days, DATE, 2
 Roz Brewer, ORG, 2
 Up to 90 Percent, PERCENT, 2
-Chicago Tribune Johnson & Johnson, ORG, 2
+Chicago Tribune Johnson \& Johnson, ORG, 2
 Londoners, LAW, 2
 Saga Cruises, PERSON, 2
 "Tuesday, December 8", DATE, 2
@@ -10702,7 +10702,7 @@ Jeanine, PERSON, 2
 October 2021, DATE, 2
 China National Biotec Group Company, ORG, 2
 Fingers, PERSON, 2
-The Boston Globe Johnson & Johnson’s, ORG, 2
+The Boston Globe Johnson \& Johnson’s, ORG, 2
 June 10, DATE, 2
 Liverpool - Liverpool Echo, ORG, 2
 Séamas, ORG, 2
@@ -10861,7 +10861,7 @@ Eastern, NORP, 2
 Serhat Unal, PERSON, 2
 some 20 million, CARDINAL, 2
 636, CARDINAL, 2
-Johnson & Johnson’s Janssen, ORG, 2
+Johnson \& Johnson’s Janssen, ORG, 2
 Nancy Mace, PERSON, 2
 German Health Ministry, ORG, 2
 about 95 percent, PERCENT, 2
@@ -10930,7 +10930,7 @@ at least one billion, MONEY, 2
 CBC News Network, ORG, 2
 1 percent, PERCENT, 2
 Bureau of Prisons, ORG, 2
-Russia & China, ORG, 2
+Russia \& China, ORG, 2
 1 million mark, MONEY, 2
 Kīngi Tuheitia, PERSON, 2
 TheHill Rick Bright, PERSON, 2
@@ -11152,7 +11152,7 @@ St Thomas' Hospital, ORG, 2
 The Washington Post Being, ORG, 2
 about 60, CARDINAL, 2
 Baltimore, PERSON, 2
-| Reuters Merck & Co Inc <MRK.N>, ORG, 2
+| Reuters Merck \& Co Inc <MRK.N>, ORG, 2
 next Christmas, DATE, 2
 any day, DATE, 2
 1.95B, MONEY, 2
@@ -11259,7 +11259,7 @@ Cyberattack, PERSON, 2
 The New York Times New, ORG, 2
 FAZ, ORG, 2
 Oxford Univ, ORG, 2
-JPMorgan Chase & Co., ORG, 2
+JPMorgan Chase \& Co., ORG, 2
 as early as Friday, DATE, 2
 Savannah Guthrie, GPE, 2
 The Irish Sun A, ORG, 2
@@ -11327,7 +11327,7 @@ $2.1 Billion, MONEY, 2
 "only 5,000", CARDINAL, 2
 Amy Coney Barrett, PERSON, 2
 "1,410", CARDINAL, 2
-The Boston Globe Johnson & Johnson, ORG, 2
+The Boston Globe Johnson \& Johnson, ORG, 2
 Swoop Aero, PERSON, 2
 Massachusetts VA, ORG, 2
 Youngner, PERSON, 2
@@ -11449,7 +11449,7 @@ Scentre, GPE, 2
 the Canada Pension Plan Investment Board, ORG, 2
 Gates, WORK_OF_ART, 2
 ABC News European Commission, ORG, 2
-The Washington Post Johnson & Johnson, ORG, 2
+The Washington Post Johnson \& Johnson, ORG, 2
 THE EUROPEAN MEDICINES AGENCY, ORG, 2
 Guardian Radio, ORG, 2
 another 18 months, DATE, 2
@@ -11526,7 +11526,7 @@ Leigh Matthews, PERSON, 2
 Ian, PERSON, 2
 CONAKRY, ORG, 2
 Ann Hogan, PERSON, 2
-Merck & Co Inc's, ORG, 2
+Merck \& Co Inc's, ORG, 2
 under 35, DATE, 2
 Household, PERSON, 2
 64-year-olds, DATE, 2
@@ -11776,7 +11776,7 @@ Boris Johnson , PERSON, 2
 one half, CARDINAL, 2
 Jeremy Clarkson, PERSON, 2
 Vaccine Vials, WORK_OF_ART, 2
-The Star Johnson & Johnson, ORG, 2
+The Star Johnson \& Johnson, ORG, 2
 Sputnik V Covid, ORG, 2
 as low as 8 per cent, PERCENT, 2
 optimistic&quot, GPE, 2
@@ -12196,7 +12196,7 @@ BBC News Countries, ORG, 2
 Prime Time's, PERSON, 2
 the British Medical Association, ORG, 2
 $80 million, MONEY, 2
-the Johnson & Johnson COVID, ORG, 2
+the Johnson \& Johnson COVID, ORG, 2
 this month', DATE, 2
 Tanya Plibersek, PERSON, 2
 Ashland, GPE, 2
@@ -12624,7 +12624,7 @@ Michael Weber, PERSON, 2
 "more than 2,500", CARDINAL, 2
 North Shore University Hospital, ORG, 2
 Buckley, ORG, 2
-Stop & Shop, ORG, 2
+Stop \& Shop, ORG, 2
 The Globe and Mail Vaccination, ORG, 2
 Interior, ORG, 2
 UAE, ORG, 2
@@ -12814,7 +12814,7 @@ Joe Rogan, PERSON, 2
 Holocaust, DATE, 2
 L.A. Times, ORG, 2
 7.4 million, CARDINAL, 2
-Chicago Tribune Johnson & Johnson’s, ORG, 2
+Chicago Tribune Johnson \& Johnson’s, ORG, 2
 The year 2020, DATE, 2
 Co, PERSON, 2
 the Centers for, ORG, 2
@@ -12830,7 +12830,7 @@ COVID-19 vaccine - The Boston Globe, PRODUCT, 2
 Manny Alvarez, PERSON, 2
 the Vaccine Education Center at, ORG, 2
 London Marathon, ORG, 2
-JOHNSON & JOHNSON, ORG, 2
+JOHNSON \& JOHNSON, ORG, 2
 60th, ORDINAL, 2
 Rock of Gibraltar, ORG, 2
 "today, January 4", DATE, 2
@@ -13114,7 +13114,7 @@ the week ended March 7, DATE, 2
 4.3 million, CARDINAL, 2
 Charles Evans, PERSON, 2
 Tiny, ORG, 2
-The U.S. Food & Drug Administration, ORG, 2
+The U.S. Food \& Drug Administration, ORG, 2
 Dan Andrews, PERSON, 2
 5000, MONEY, 2
 Michael Rowland, PERSON, 2
@@ -13210,7 +13210,7 @@ as early as Thursday, DATE, 2
 Bond University, ORG, 2
 Chris Del Mar, PERSON, 2
 DW Business – Africa, ORG, 2
-BioNTech & Pfizer, ORG, 2
+BioNTech \& Pfizer, ORG, 2
 Fox Business Network's, ORG, 2
 Guelph’s, ORG, 2
 192, CARDINAL, 2
@@ -13389,7 +13389,7 @@ Irish Taoiseach, ORG, 2
 Juan Guaido, PERSON, 2
 the U.S. Treasury Department, ORG, 2
 World Immunization Week, EVENT, 2
-FDA Probes Cause of Failed Johnson & Johnson, ORG, 2
+FDA Probes Cause of Failed Johnson \& Johnson, ORG, 2
 Vaccine Batch, PERSON, 2
 ATP, ORG, 2
 the Health Australia Party, ORG, 2
@@ -13640,7 +13640,7 @@ George H.W. Bush, PERSON, 2
 Amhara, GPE, 2
 Coy, ORG, 2
 78 years ago, DATE, 2
-Fox News Johnson & Johnson’s, ORG, 2
+Fox News Johnson \& Johnson’s, ORG, 2
 February 21, DATE, 2
 Plasma, GPE, 2
 Reuters Austria, PERSON, 2
@@ -13865,7 +13865,7 @@ the US Army, ORG, 2
 The Washington Post Shots, ORG, 2
 SAINT-HERBLAIN, ORG, 2
 The Independent Government, ORG, 2
-Fisher & Paykel Healthcare, ORG, 2
+Fisher \& Paykel Healthcare, ORG, 2
 Ainsworths, PERSON, 2
 Loretta Lynn, PERSON, 2
 The New York Times States, ORG, 2
@@ -13935,7 +13935,7 @@ Schools, ORG, 2
 Cigarette, ORG, 2
 NPR Recent, ORG, 2
 Kazianis, PERSON, 2
-Johnson & Johnson , ORG, 2
+Johnson \& Johnson , ORG, 2
 Tara Moriarty, PERSON, 2
 decades ago, DATE, 2
 CBS News Lawmakers, ORG, 2
@@ -14119,7 +14119,7 @@ the Horn of Africa, LOC, 2
 "nearly 9,000", CARDINAL, 2
 Idi Amin, PERSON, 2
 "about 400,000", CARDINAL, 2
-Merck & Co's, ORG, 2
+Merck \& Co's, ORG, 2
 Zendal, NORP, 2
 the Isle of Wight, ORG, 2
 The Star LONDON, PERSON, 2
@@ -14977,7 +14977,7 @@ Waterloo Public Health, ORG, 2
 Johnson&Johnson, PRODUCT, 2
 "An estimated 4,300", CARDINAL, 2
 KTVU, ORG, 2
-Fox & Friends', ORG, 2
+Fox \& Friends', ORG, 2
 Pramila Jayapal, PERSON, 2
 Jim Jordan, PERSON, 2
 Michael Safi, PERSON, 2
@@ -15026,7 +15026,7 @@ Opposition, ORG, 2
 Stanley, ORG, 2
 $600 billion, MONEY, 2
 $600 million, MONEY, 2
-UK Tech Firm Launches Covid & Vaccination Passport, ORG, 2
+UK Tech Firm Launches Covid \& Vaccination Passport, ORG, 2
 The Boston Globe Residents, ORG, 2
 Anne Longfield, PERSON, 2
 Aylesbury, GPE, 2
@@ -15035,7 +15035,7 @@ Kier Starmer, PERSON, 2
 "Wednesday, September 16| Latest News", DATE, 2
 Slaoui’s, ORG, 2
 Larry Elliott, PERSON, 2
-Johnson & Johnson Vaccine, ORG, 2
+Johnson \& Johnson Vaccine, ORG, 2
 "1,371", CARDINAL, 2
 'coming days', DATE, 2
 $1.2 Billion, MONEY, 2
@@ -15075,7 +15075,7 @@ only four, CARDINAL, 2
 more than 10%, PERCENT, 2
 Sixty percent, PERCENT, 2
 Tui Group, ORG, 2
-Johnson & Johnson Vaccine Could Be A 'Game Changer', ORG, 2
+Johnson \& Johnson Vaccine Could Be A 'Game Changer', ORG, 2
 the Voice of the Mirror, ORG, 2
 Vaccine Hesitancy -, PERSON, 2
 64-year-old, DATE, 2
@@ -15320,7 +15320,7 @@ Niagara, GPE, 2
 Mylan NV, ORG, 2
 the British Medical Journal, ORG, 2
 75-year-olds, DATE, 2
-the U.S.-based Merck & Co., ORG, 2
+the U.S.-based Merck \& Co., ORG, 2
 The "American Rescue Plan”, LAW, 2
 TEN million, CARDINAL, 2
 July of 2021, DATE, 2
@@ -15467,7 +15467,7 @@ Ms Bingham, PERSON, 2
 the Center for Infectious Disease Research Policy, ORG, 2
 Twenty-five, CARDINAL, 2
 the spring of 2021, DATE, 2
-Johnson & Johnson&#39;s, ORG, 2
+Johnson \& Johnson&#39;s, ORG, 2
 Covid-denying, PERSON, 2
 1000, MONEY, 2
 Gilead’s, ORG, 2
@@ -15744,7 +15744,7 @@ Christmas season, DATE, 2
 NT, DATE, 2
 Fox News FOX Business, ORG, 2
 Janssen, LOC, 2
-Daily Mail Online Johnson & Johnson, ORG, 2
+Daily Mail Online Johnson \& Johnson, ORG, 2
 up to a month, DATE, 2
 Bondi, PERSON, 2
 NSW Police, ORG, 2
@@ -15843,7 +15843,7 @@ the end of a year, DATE, 2
 this holiday, DATE, 2
 Beatrice Bakery, PERSON, 2
 Kendra Scott, PERSON, 2
-Bed Bath & Beyond, ORG, 2
+Bed Bath \& Beyond, ORG, 2
 Grandma, PERSON, 2
 Aurora Health, ORG, 2
 up to 14 days, DATE, 2
@@ -16150,7 +16150,7 @@ Covid vaccine - Wales Online, PERSON, 2
 any given year, DATE, 2
 The Boston Globe New York City, ORG, 2
 $900 Billion, MONEY, 2
-FDA Approves Johnson & Johnson Single-Dose Vaccine, ORG, 2
+FDA Approves Johnson \& Johnson Single-Dose Vaccine, ORG, 2
 nearly two thirds, CARDINAL, 2
 Rosenberg, PERSON, 2
 under five years, DATE, 2
@@ -16215,7 +16215,7 @@ Kashkari, PERSON, 2
 Channel 12, ORG, 2
 David Fisman, PERSON, 2
 Clalit, GPE, 2
-Johnson & Johnson COVID-19, ORG, 2
+Johnson \& Johnson COVID-19, ORG, 2
 Zika, LOC, 2
 1843, DATE, 2
 Melgen, ORG, 2
@@ -16345,7 +16345,7 @@ The Washington Post Medical, ORG, 2
 Aoife Bennett, PERSON, 2
 Bittencourt, GPE, 2
 KENOVA, PERSON, 2
-Griffith & Feil Drug, ORG, 2
+Griffith \& Feil Drug, ORG, 2
 1892, DATE, 2
 summer 2020, DATE, 2
 DUNCAN, PERSON, 2
@@ -17072,7 +17072,7 @@ Reddy’s Laboratories Ltd., ORG, 1
 BSE, ORG, 1
 500124, CARDINAL, 1
 DRREDDY, ORG, 1
-Noodles & Company, ORG, 1
+Noodles \& Company, ORG, 1
 Western Australian, NORP, 1
 November 2021, DATE, 1
 "3,995", CARDINAL, 1
@@ -17185,7 +17185,7 @@ Tynwald, ORG, 1
 Financial and Business News | Markets Insider Cyclical, ORG, 1
 Oxford, GPE, 1
 Eve Switzer, PERSON, 1
-another 6 weeks & ', DATE, 1
+another 6 weeks \& ', DATE, 1
 six or seven weeks, DATE, 1
 Dr Catherine, PERSON, 1
 Limit Patent Protections, ORG, 1
@@ -17640,14 +17640,14 @@ Renée El-Gabalawy, PERSON, 1
 Jordana Sommer, PERSON, 1
 the University of Manitoba, ORG, 1
 Trump Nixes Early COVID-19 Vaccinations, ORG, 1
-Johnson & Johns, ORG, 1
+Johnson \& Johns, ORG, 1
 Ros Grant, PERSON, 1
 Inkberrow, GPE, 1
 Worcestershire, GPE, 1
 Mary Devenney, PERSON, 1
 TheHill Black, ORG, 1
 P&G, ORG, 1
-| Reuters Procter & Gamble Co, ORG, 1
+| Reuters Procter \& Gamble Co, ORG, 1
 Finian McGrath's, ORG, 1
 McGrath &#, ORG, 1
 "4,876", CARDINAL, 1
@@ -17932,7 +17932,7 @@ House Task Force, PRODUCT, 1
 European Union Vaccine Fiasco, ORG, 1
 Damian Hinds, ORG, 1
 the next week and a half, DATE, 1
-"Amazon, Barnes & Noble", ORG, 1
+"Amazon, Barnes \& Noble", ORG, 1
 14 December, DATE, 1
 over 80, CARDINAL, 1
 CTV News Pharmaceutical, ORG, 1
@@ -18579,7 +18579,7 @@ Swee Tan, PERSON, 1
 PHARMAC’s, ORG, 1
 at least 101, CARDINAL, 1
 20pc Public Health England, ORG, 1
-the London School of Hygiene & Tropical Medicine, ORG, 1
+the London School of Hygiene \& Tropical Medicine, ORG, 1
 "Monday, December", DATE, 1
 'over a decade', DATE, 1
 49-year-olds, DATE, 1
@@ -18963,7 +18963,7 @@ Stephane Bancels, ORG, 1
 seven-months-old, DATE, 1
 Sun MORRISVILLE, PERSON, 1
 Montgomery County’s, GPE, 1
-CNN Johnson & Johnson's, ORG, 1
+CNN Johnson \& Johnson's, ORG, 1
 Omar Rips Colleagues, PERSON, 1
 Getting Vaccinated Before Public, ORG, 1
 July 31st, DATE, 1
@@ -18975,7 +18975,7 @@ all - Los Angeles Times Lay, ORG, 1
 Stephanie Nimmo, PERSON, 1
 South-West London, LOC, 1
 Chicago Tribune Frustrated, ORG, 1
-CIA & HPV, ORG, 1
+CIA \& HPV, ORG, 1
 Hawks A, ORG, 1
 North Carolinians, NORP, 1
 Defense Council, ORG, 1
@@ -19068,7 +19068,7 @@ ABC News Companies, ORG, 1
 COVID-19 Single, PERSON, 1
 more than 75 percent, PERCENT, 1
 Indian Groups Demand, ORG, 1
-Johnson & Johnson Announces Acceleration, ORG, 1
+Johnson \& Johnson Announces Acceleration, ORG, 1
 Clinical Trial to Begin, PERSON, 1
 Janssen Pharmaceutical Companies, ORG, 1
 1/2a, CARDINAL, 1
@@ -19281,7 +19281,7 @@ Ann Lee, PERSON, 1
 age 65 to 60, DATE, 1
 European AstraZeneca, ORG, 1
 November 2013, DATE, 1
-| Reuters Merck & Co Inc, ORG, 1
+| Reuters Merck \& Co Inc, ORG, 1
 15 million - NZ, CARDINAL, 1
 Tanaiste Leo, PERSON, 1
 Pat Fitzpatrick, PERSON, 1
@@ -19461,7 +19461,7 @@ another single-day, DATE, 1
 South America - Mirror, LOC, 1
 Jennie McAlpine - Mirror Online Campaigners, PERSON, 1
 Jennie McAlpine, PERSON, 1
-TheHill Johnson & Johnson's, ORG, 1
+TheHill Johnson \& Johnson's, ORG, 1
 The Globe and Mail Distributing, ORG, 1
 Biden Joe Biden, PERSON, 1
 the Defence Production Act, LAW, 1
@@ -20031,7 +20031,7 @@ PRIVILEGED ACCESS, ORG, 1
 More than 1.1 million, CARDINAL, 1
 Boston Children's Hospital, ORG, 1
 Al Jazeera Stadiums, ORG, 1
-Johnson & Johnson Announces Coronavirus Vaccine Candidate Possible, ORG, 1
+Johnson \& Johnson Announces Coronavirus Vaccine Candidate Possible, ORG, 1
 U.S. Agrees, ORG, 1
 EU Australia, ORG, 1
 The Washington Post Lagging, ORG, 1
@@ -20275,7 +20275,7 @@ May 24, DATE, 1
 the Indo-Pacific region, ORG, 1
 The Guardian Hari Shukla, ORG, 1
 Gaffe Comes, PERSON, 1
-France & Netherlands, ORG, 1
+France \& Netherlands, ORG, 1
 up to 400 million, QUANTITY, 1
 HHS Release, ORG, 1
 "64,138", CARDINAL, 1
@@ -20301,7 +20301,7 @@ Fox News Developing, ORG, 1
 Tara Hills, PERSON, 1
 two months before this year's, DATE, 1
 "Night - Wednesday, September", DATE, 1
-Covid | TV & Radio, ORG, 1
+Covid | TV \& Radio, ORG, 1
 Nick Jonas, PERSON, 1
 AstraZeneca , ORG, 1
 222%, PERCENT, 1
@@ -20580,7 +20580,7 @@ Justin Trudeau - The Washington Post, PERSON, 1
 COVID-19 Security, ORG, 1
 The U.S. East Coast, ORG, 1
 ' Keir Starmer, WORK_OF_ART, 1
-Fox News Merck & Co., ORG, 1
+Fox News Merck \& Co., ORG, 1
 Ashley Chapman, PERSON, 1
 Romesh Ranganathan, PERSON, 1
 Front Line, ORG, 1
@@ -21203,7 +21203,7 @@ Rhett Krawitt's, PERSON, 1
 This afternoon, TIME, 1
 Janis Mackey Frayer, PERSON, 1
 Rhinomed, PERSON, 1
-Russian Sputnik V & Chinese Sinopharm, PERSON, 1
+Russian Sputnik V \& Chinese Sinopharm, PERSON, 1
 Vaccine Scandal - WSJ, PERSON, 1
 Mosques, ORG, 1
 MOSQUES, ORG, 1
@@ -21212,7 +21212,7 @@ its initial months, DATE, 1
 Dodger Stadium: Hours of Traffic, FAC, 1
 Los Angeles’s, GPE, 1
 The Guardian Medics, ORG, 1
-Daily Mail Online Johnson & Johnson's, ORG, 1
+Daily Mail Online Johnson \& Johnson's, ORG, 1
 Daily Mail Online Social , ORG, 1
 The Tasmanian Government, ORG, 1
 Four-fifths, CARDINAL, 1
@@ -21250,7 +21250,7 @@ Lotto, PERSON, 1
 the Golden Ticket at, WORK_OF_ART, 1
 Charlie and the Chocolate Factory, WORK_OF_ART, 1
 Sonja Diaz, PERSON, 1
-the Latino Policy & Politics Initiative, ORG, 1
+the Latino Policy \& Politics Initiative, ORG, 1
 eight-fold, QUANTITY, 1
 Shortened Trial - The New York Times, PERSON, 1
 The Washington Post Desmon, ORG, 1
@@ -21710,7 +21710,7 @@ Gabriella Peralta, LOC, 1
 The Guardian Singer’s, ORG, 1
 An estimated 20 million, QUANTITY, 1
 600k, PRODUCT, 1
-JOHNSON & Johnson, ORG, 1
+JOHNSON \& Johnson, ORG, 1
 NABILA, ORG, 1
 Emmanuel Macron - who, PERSON, 1
 29.12.2020, CARDINAL, 1
@@ -21732,7 +21732,7 @@ more than 145, CARDINAL, 1
 21 or 28 days, DATE, 1
 David Bull, PERSON, 1
 Peter Baker, PERSON, 1
-Johnson & Johnson Begins Final-Stage Testing, ORG, 1
+Johnson \& Johnson Begins Final-Stage Testing, ORG, 1
 Vaccine  - WSJ J&J, PERSON, 1
 Always Seen, PERSON, 1
 between today and 30 April, DATE, 1
@@ -21931,7 +21931,7 @@ Rhondda, GPE, 1
 the US.McKesson Corp, ORG, 1
 "some 130,000", CARDINAL, 1
 ITV News Ministers, ORG, 1
-Thomas Cook & Virgin Atlantic | Travel News, ORG, 1
+Thomas Cook \& Virgin Atlantic | Travel News, ORG, 1
 Thomas Cook, PERSON, 1
 "only 26,325", CARDINAL, 1
 the week of Feb. 1, DATE, 1
@@ -22315,7 +22315,7 @@ Cambridge AI, ORG, 1
 33, MONEY, 1
 The Globe and Mail Warm, ORG, 1
 Covid vaccine row, PERSON, 1
-BBC Breakfast | TV & Radio, ORG, 1
+BBC Breakfast | TV \& Radio, ORG, 1
 Housing, ORG, 1
 Muslim Britons, ORG, 1
 The Lloyds Bank Business Barometer, ORG, 1
@@ -22357,7 +22357,7 @@ Leader of, ORG, 1
 THREE QUARTERS, CARDINAL, 1
 "Monday, December 21| Latest News", DATE, 1
 just 14%, PERCENT, 1
-Johnson & Johnson Executive, ORG, 1
+Johnson \& Johnson Executive, ORG, 1
 SOUTH AFRICA, GPE, 1
 Robert Kilgour, PERSON, 1
 Renaissance Care, ORG, 1
@@ -22440,7 +22440,7 @@ Coronavirus – Channel 4 News, ORG, 1
 Ayshah Tull, ORG, 1
 'end of winter', DATE, 1
 98 Percent, PERCENT, 1
-Johnson & Johnson Early Trial, ORG, 1
+Johnson \& Johnson Early Trial, ORG, 1
 Centres for Disease Control and Prevention, ORG, 1
 Squirrel, PERSON, 1
 Looney Toons, ORG, 1
@@ -22518,7 +22518,7 @@ Lindt, NORP, 1
 as many as 130, CARDINAL, 1
 Attend Games Without a Coronavirus Vaccine, WORK_OF_ART, 1
 Seaton Hall University, ORG, 1
-"Life, Liberty & Levin", ORG, 1
+"Life, Liberty \& Levin", ORG, 1
 Night - Wednesday, DATE, 1
 Tokyo Summer Olympics, EVENT, 1
 Reuters NHS England, ORG, 1
@@ -22633,7 +22633,7 @@ Marylou Sudders, PERSON, 1
 Fox News Biotechnology, ORG, 1
 a Nursing Home: 'I Hope Everybody Takes It' -, ORG, 1
 Merck Stops, ORG, 1
-Vaccine Program Due To Disappointing Data Merck & Co., ORG, 1
+Vaccine Program Due To Disappointing Data Merck \& Co., ORG, 1
 V590, PERSON, 1
 the fourth quarter of 2020, DATE, 1
 Merck Research Laboratories, ORG, 1
@@ -23072,7 +23072,7 @@ the Vatican City State, GPE, 1
 "Wednesday, August 5, 2020", DATE, 1
 more than 240, CARDINAL, 1
 Change.org, ORG, 1
-Reuters Merck & Co Inc, ORG, 1
+Reuters Merck \& Co Inc, ORG, 1
 Michael Frankl, PERSON, 1
 Vaccine Executive Order, ORG, 1
 Joan Myles, PERSON, 1
@@ -23117,7 +23117,7 @@ Tognatti, PERSON, 1
 THE European Medicines Agency, ORG, 1
 | Euronews Doctors, ORG, 1
 older than 60, CARDINAL, 1
-Brussels | TV & Radio, ORG, 1
+Brussels | TV \& Radio, ORG, 1
 Trillet-Noir MEP, ORG, 1
 preventative&quot, GPE, 1
 January of 2020, DATE, 1
@@ -23358,7 +23358,7 @@ Juliet Eilperin, PERSON, 1
 Ryan Pfeffer, PERSON, 1
 Game of Thrones, WORK_OF_ART, 1
 Diane Harpell, PERSON, 1
-Hungary & Slovakia, ORG, 1
+Hungary \& Slovakia, ORG, 1
 "only around 10,000", CARDINAL, 1
 less than one third, CARDINAL, 1
 Michael Saunders, PERSON, 1
@@ -23422,7 +23422,7 @@ the Vancouver Canucks, ORG, 1
 PARK, GPE, 1
 Covid-19 Reinfection Documented, PERSON, 1
 36 weeks, DATE, 1
-Johnson & Johnson Doses, ORG, 1
+Johnson \& Johnson Doses, ORG, 1
 well over 34 million, MONEY, 1
 The Globe and Mail Florida, ORG, 1
 NYT - Business Insider, ORG, 1
@@ -23907,7 +23907,7 @@ Twelve weeks, DATE, 1
 John Kiely's, PERSON, 1
 John Kiely, PERSON, 1
 Limerick’s, ORG, 1
-Johnson & Johnson Expects, ORG, 1
+Johnson \& Johnson Expects, ORG, 1
 Covid Vaccine Results Soon, PERSON, 1
 Lags, PERSON, 1
 J.&J.’s, ORG, 1
@@ -24136,7 +24136,7 @@ Throat Specialist, PERSON, 1
 Carsten Watzl, PERSON, 1
 the German Society for Immunology, ORG, 1
 Sharp, ORG, 1
-’ than US & EU, ORG, 1
+’ than US \& EU, ORG, 1
 ' - Mirror Online Chloe Brookes-Holder, ORG, 1
 RT Sport News American, ORG, 1
 ten to, CARDINAL, 1
@@ -24326,7 +24326,7 @@ the Linux Foundation, ORG, 1
 Drummond Reed, PERSON, 1
 15-0year-olds, CARDINAL, 1
 TENS of millions, MONEY, 1
-Covid jab & 5, ORG, 1
+Covid jab \& 5, ORG, 1
 Peter Wearing, PERSON, 1
 Brexit Brussels, PERSON, 1
 the Oxford University Covid, ORG, 1
@@ -24813,7 +24813,7 @@ Undermines Public Health Health, ORG, 1
 Allure, ORG, 1
 "More than 107,000", CARDINAL, 1
 Vaccine Guidelines ‘Sounds Like, PERSON, 1
-the F.D.A. Johnson & Johnson, ORG, 1
+the F.D.A. Johnson \& Johnson, ORG, 1
 zur Hausen:, PERSON, 1
 as much as 24%, PERCENT, 1
 around 2%, PERCENT, 1
@@ -24854,7 +24854,7 @@ Eric Huang, PERSON, 1
 Bayer - ABC News, ORG, 1
 Heinsberg, GPE, 1
 Pearson, ORG, 1
-Drugmaker Merck & Co, ORG, 1
+Drugmaker Merck \& Co, ORG, 1
 Themis Bioscience, PERSON, 1
 three years', DATE, 1
 Keith Chappell, PERSON, 1
@@ -24877,7 +24877,7 @@ about 30 percent, PERCENT, 1
 Jim Kenney’s, PERSON, 1
 Stories, ORG, 1
 Daily Star Education, ORG, 1
-Johnson & Johnson Begins Final Stage Trial, ORG, 1
+Johnson \& Johnson Begins Final Stage Trial, ORG, 1
 "175,721", CARDINAL, 1
 Vaccine Plan, PERSON, 1
 Brit Rock, GPE, 1
@@ -25025,7 +25025,7 @@ The UK’s National Health Service, ORG, 1
 Mary University, PERSON, 1
 Noemi Lukacs, PERSON, 1
 Szirak, PERSON, 1
-English & Scientific, ORG, 1
+English \& Scientific, ORG, 1
 $10.7-billion, MONEY, 1
 Ernie Steeves, PERSON, 1
 Over 3.8million, NORP, 1
@@ -25188,7 +25188,7 @@ Barron, PERSON, 1
 Lofgren, PERSON, 1
 Scott Samlan, PERSON, 1
 NW Indiana 24/7, ORG, 1
-ER & Hospital, ORG, 1
+ER \& Hospital, ORG, 1
 Hammond, GPE, 1
 Yorkville High School, ORG, 1
 Sepkowitz, PERSON, 1
@@ -25452,7 +25452,7 @@ Angela Rayner, PERSON, 1
 over-70s-, PERSON, 1
 25.3 per cent, MONEY, 1
 66m, CARDINAL, 1
-HIV & Ebola, ORG, 1
+HIV \& Ebola, ORG, 1
 The Scotsman Manufacturing, ORG, 1
 Fourth of July Independence Day, DATE, 1
 2nd year, DATE, 1
@@ -25470,7 +25470,7 @@ earlier this month - before, DATE, 1
 Co Clare, PERSON, 1
 Roselyn Kerley, PERSON, 1
 Only 61%, PERCENT, 1
-Johnson & Johnson Begins Distribution of Millions of Doses of Single-Shot Vaccine, ORG, 1
+Johnson \& Johnson Begins Distribution of Millions of Doses of Single-Shot Vaccine, ORG, 1
 the next several years’, DATE, 1
 Pope Christmas, DATE, 1
 130 million pounds, MONEY, 1
@@ -25479,7 +25479,7 @@ The Walter Reed Army Institute of Research, ORG, 1
 Privacy International, ORG, 1
 Gov't Partners, PERSON, 1
 five to seven months, DATE, 1
-Johnon & Johnson, ORG, 1
+Johnon \& Johnson, ORG, 1
 Fox News U.S. Surgeon, ORG, 1
 The Geopolitics Of Vaccine, ORG, 1
 15 February 2021, DATE, 1
@@ -25514,7 +25514,7 @@ Warner’s, ORG, 1
 roughly 650, CARDINAL, 1
 the Institute for Policy Studies, ORG, 1
 Peter Atwater, PERSON, 1
-the College of William & Mary, ORG, 1
+the College of William \& Mary, ORG, 1
 K, ORG, 1
 Upside Arnone, ORG, 1
 her days, DATE, 1
@@ -25565,7 +25565,7 @@ Around 30 million, CARDINAL, 1
 $65m, MONEY, 1
 $65 million, MONEY, 1
 HLTF, ORG, 1
-London & Dublin, ORG, 1
+London \& Dublin, ORG, 1
 the Gloucestershire Royal Hospital, FAC, 1
 Gloucester, GPE, 1
 Group A Streptococcus, ORG, 1
@@ -25581,7 +25581,7 @@ World Health Organisation | World News, ORG, 1
 Stephane Bancel , LOC, 1
 Alejandro Cravioto, PERSON, 1
 between 8 and 12 weeks, DATE, 1
-May | US & Canada News, ORG, 1
+May | US \& Canada News, ORG, 1
 Merck &, ORG, 1
 "223,726", CARDINAL, 1
 "165,844", CARDINAL, 1
@@ -25718,7 +25718,7 @@ West Yorkshire Police Federation, ORG, 1
 Guardian EMA’s, ORG, 1
 Miranda Devine, PERSON, 1
 Plus: Prepare, WORK_OF_ART, 1
-Hague & Prince Philip's, ORG, 1
+Hague \& Prince Philip's, ORG, 1
 Nikos Dendias, PERSON, 1
 EU Foreign Ministers, ORG, 1
 Herald Parents, ORG, 1
@@ -25989,7 +25989,7 @@ the Columbia River, LOC, 1
 Portland International Airport, FAC, 1
 Portland Trail Blazers, FAC, 1
 Amazon Locker, ORG, 1
-"Life, Liberty & Levin -", ORG, 1
+"Life, Liberty \& Levin -", ORG, 1
 "Sunday, September 20|", DATE, 1
 "‘Life, Liberty, &amp", WORK_OF_ART, 1
 Levin’, PERSON, 1
@@ -26011,7 +26011,7 @@ Sean Clarke, PERSON, 1
 Daines, PERSON, 1
 'early Christmas, DATE, 1
 Progress, PRODUCT, 1
-Johnson and & Johnson, ORG, 1
+Johnson and \& Johnson, ORG, 1
 Met Office, ORG, 1
 INTERNATIONALISM, NORP, 1
 Daily Mail Online Nottinghamshire, ORG, 1
@@ -26316,7 +26316,7 @@ Verizon Fios, ORG, 1
 Zeman, PERSON, 1
 Milos Zeman, PERSON, 1
 Zeman, ORG, 1
-AstraZeneca & Sputnik, ORG, 1
+AstraZeneca \& Sputnik, ORG, 1
 Soviet Union AstraZeneca-Oxford, ORG, 1
 Green, GPE, 1
 Virginia Clinic Gave Patients Empty Shots Instead, ORG, 1
@@ -26347,7 +26347,7 @@ Thomas Plofchan, PERSON, 1
 Oath Keepers militia, ORG, 1
 the Oath Keepers, ORG, 1
 Plofchan, PERSON, 1
-Pfizer & AstraZeneca Covid, ORG, 1
+Pfizer \& AstraZeneca Covid, ORG, 1
 Soviet Union Experts, ORG, 1
 "2,750", MONEY, 1
 Rare, ORG, 1
@@ -26559,7 +26559,7 @@ Just one month ago, DATE, 1
 Fox News Congo's, ORG, 1
 more than 680, CARDINAL, 1
 six weeks', DATE, 1
-COVID-19 - Washington Times Johnson & Johnson's, ORG, 1
+COVID-19 - Washington Times Johnson \& Johnson's, ORG, 1
 Vaccines Must Be Ready, PERSON, 1
 Bernama, ORG, 1
 5.8 million, CARDINAL, 1
@@ -27066,7 +27066,7 @@ more five months, DATE, 1
 Furious Britain, GPE, 1
 The Star CHARLOTTETOWN - Health, ORG, 1
 Eldorado Resorts, PERSON, 1
-Regeneron Johnson & Johnson, ORG, 1
+Regeneron Johnson \& Johnson, ORG, 1
 "219,000", CARDINAL, 1
 "350,322", CARDINAL, 1
 Chester Village, GPE, 1
@@ -27152,7 +27152,7 @@ the beginning of autumn, DATE, 1
 Biden ABC, PERSON, 1
 jab day, DATE, 1
 Ian Lipkin, PERSON, 1
-the Center for Infection & Immunity, ORG, 1
+the Center for Infection \& Immunity, ORG, 1
 Vaccine Works -, PERSON, 1
 The New York Times Using, ORG, 1
 Australia Australia’s, ORG, 1
@@ -27176,7 +27176,7 @@ Vaccine Trial Moderna, PERSON, 1
 Investigational New Drug, ORG, 1
 IND, ORG, 1
 mRNA-1273).The FDA, ORG, 1
-Māori Primary Health Providers & DHB, ORG, 1
+Māori Primary Health Providers \& DHB, ORG, 1
 Kōhao Health, ORG, 1
 9.30am, CARDINAL, 1
 nearly 13.4 million, CARDINAL, 1
@@ -27209,7 +27209,7 @@ Slow Burn, PERSON, 1
 Golden Hour, PERSON, 1
 Lonely Weekend, PERSON, 1
 more than $350 million, MONEY, 1
-Vaccine Johnson & Johnson, ORG, 1
+Vaccine Johnson \& Johnson, ORG, 1
 Less Than a Year, DATE, 1
 Peter Kuras, PERSON, 1
 Nursing-Home Residents Await, ORG, 1
@@ -27672,8 +27672,8 @@ an extra week, DATE, 1
 An estimated 10 million, QUANTITY, 1
 Warning Sign, WORK_OF_ART, 1
 about 24 hours, TIME, 1
-Johnson & Johnson Readies, ORG, 1
-WSJ Johnson & Johnson’s, ORG, 1
+Johnson \& Johnson Readies, ORG, 1
+WSJ Johnson \& Johnson’s, ORG, 1
 Nine Democrats Defect, ORG, 1
 12 months', DATE, 1
 Miriam Stoppard - Irish Mirror Online Researchers, PERSON, 1
@@ -27750,7 +27750,7 @@ Tens, LOC, 1
 Warp Speed', WORK_OF_ART, 1
 Liz Palmer, PERSON, 1
 Michael Gove’s, PERSON, 1
-"Masks, Johnson & Johnson", ORG, 1
+"Masks, Johnson \& Johnson", ORG, 1
 TheJournal.ie Nobel Peace, WORK_OF_ART, 1
 Dolly, GPE, 1
 Covid vaccines - Liverpool Echo Bruce Rauner, PERSON, 1
@@ -27922,7 +27922,7 @@ minus 68, CARDINAL, 1
 Centigrade, EVENT, 1
 ’ | The Independent Top, WORK_OF_ART, 1
 Stephane Bancel, GPE, 1
-Bosnia & Serbia, ORG, 1
+Bosnia \& Serbia, ORG, 1
 every 3 years, DATE, 1
 Moderna Pfizer's, PERSON, 1
 Stock, ORG, 1
@@ -28042,7 +28042,7 @@ Fears $1.2 billion, MONEY, 1
 post-JobKeeper, ORG, 1
 "March 12, 2021 - Stay", DATE, 1
 Prof Jonathan Van-Tam, PERSON, 1
-Trudeau Johnson & Johnson, ORG, 1
+Trudeau Johnson \& Johnson, ORG, 1
 Elizabeth Gray, PERSON, 1
 the morning of January 15, TIME, 1
 Essex Coroners' Court, ORG, 1
@@ -28067,7 +28067,7 @@ the World Health Organisation Regional Committee for Europe, ORG, 1
 FDA Advisory Committee, ORG, 1
 "Ballycumber, Co Offaly", ORG, 1
 EU MILAN, ORG, 1
-Land Rovers & Chinooks THE Army, ORG, 1
+Land Rovers \& Chinooks THE Army, ORG, 1
 Land Rovers and Chinooks, ORG, 1
 Operation Delta Force, FAC, 1
 the Oakland A's, ORG, 1
@@ -28190,7 +28190,7 @@ a few days this month, DATE, 1
 Michael Pirolo, PERSON, 1
 Jacqueline Pirolo, PERSON, 1
 Rolando Aedo, PERSON, 1
-the Greater Miami Convention & Visitors Bureau, ORG, 1
+the Greater Miami Convention \& Visitors Bureau, ORG, 1
 about 97%, PERCENT, 1
 nearly 20%, PERCENT, 1
 Letting, WORK_OF_ART, 1
@@ -28265,7 +28265,7 @@ Hassan Vally, PERSON, 1
 La Trobe University, ORG, 1
 the Kaiser Permanente Washington Health Research, ORG, 1
 Vancouver Sun Nothing, ORG, 1
-"Life, Liberty & Levin", WORK_OF_ART, 1
+"Life, Liberty \& Levin", WORK_OF_ART, 1
 0.37 per cent, MONEY, 1
 Alex Arthur MBE:, PERSON, 1
 Alex Salmond's, PERSON, 1
@@ -28338,7 +28338,7 @@ the FT.Sixty percent, ORG, 1
 an estimated 812 million, CARDINAL, 1
 3.20, MONEY, 1
 the Serum Institute’s, ORG, 1
-”Johnson & Johnson, ORG, 1
+”Johnson \& Johnson, ORG, 1
 the second and third quarters of this year, DATE, 1
 Merriam-Webster Moderna, PERSON, 1
 the\u00a0FDA, ORG, 1
@@ -28447,7 +28447,7 @@ Only 17%, PERCENT, 1
 "Tonight - Friday, February 26|", DATE, 1
 1-year ago, DATE, 1
 Dara Khosrowshahi Seeks, PERSON, 1
-Bono & Penelope Cruz, ORG, 1
+Bono \& Penelope Cruz, ORG, 1
 BONO, ORG, 1
 The Scotsman Relatives, ORG, 1
 Fox News Two, ORG, 1
@@ -28514,7 +28514,7 @@ Food and Drugs Agency, ORG, 1
 12 per cent, MONEY, 1
 around 125 million, CARDINAL, 1
 some 198 million, CARDINAL, 1
-Mirror Online Johnson & Johnson, ORG, 1
+Mirror Online Johnson \& Johnson, ORG, 1
 Special Report, WORK_OF_ART, 1
 Brianna Keilar Spits Fire, ORG, 1
 Vaccine Skepticism: 'Propaganda TV', WORK_OF_ART, 1
@@ -28526,7 +28526,7 @@ $4 million dollars, MONEY, 1
 Gregory Clenn, PERSON, 1
 May I Visit Her, WORK_OF_ART, 1
 the New York TimesProbably, ORG, 1
-The Centers for Medicare & Medicaid Services, ORG, 1
+The Centers for Medicare \& Medicaid Services, ORG, 1
 Michael Wasserman, PERSON, 1
 the California Association of Long Term Care Medicine, ORG, 1
 Wasserman, PERSON, 1
@@ -28538,7 +28538,7 @@ Avalon Health Care Group, ORG, 1
 Von Preyss-Friedman, PERSON, 1
 Joshua Uy, PERSON, 1
 the University of Pennsylvania Medical School, ORG, 1
-Renaissance Healthcare & Rehabilitation Center, ORG, 1
+Renaissance Healthcare \& Rehabilitation Center, ORG, 1
 The Boston Globe The Black Boston COVID-19 Coalition, ORG, 1
 only 4 percent, PERCENT, 1
 Trump Biden, PERSON, 1
@@ -28561,7 +28561,7 @@ Tier, ORG, 1
 just 30 percent, PERCENT, 1
 Late yesterday, DATE, 1
 Sydney van, PERSON, 1
-Johnson & Johnson COVID Vaccine, ORG, 1
+Johnson \& Johnson COVID Vaccine, ORG, 1
 Minnesota MINNEAPOLIS, LOC, 1
 "Some 5,000", CARDINAL, 1
 later in, DATE, 1
@@ -28823,7 +28823,7 @@ Eñepa, ORG, 1
 San José de Kayamá, GPE, 1
 Bolivar, GPE, 1
 inFebruary 2020, DATE, 1
-- Los Angeles Times Johnson & Johnson, ORG, 1
+- Los Angeles Times Johnson \& Johnson, ORG, 1
 THIS week, DATE, 1
 Johnson British, PERSON, 1
 Rejects Anti-Vaxxer, PERSON, 1
@@ -28874,7 +28874,7 @@ COVID-19 Vaccine’s, PERSON, 1
 19 February, DATE, 1
 The Washington Post Tedros, ORG, 1
 Vaccination Drive | Time India, FAC, 1
-Johnson & Johnson - The Boston Globe, ORG, 1
+Johnson \& Johnson - The Boston Globe, ORG, 1
 26.02.2021, CARDINAL, 1
 Almost 600, CARDINAL, 1
 Sherri Pel, PERSON, 1
@@ -28950,7 +28950,7 @@ Electoral Commission, ORG, 1
 > Lankford, PERSON, 1
 > Kennedy, PERSON, 1
 > Blackburn, PERSON, 1
-Mallorca & Menorca, ORG, 1
+Mallorca \& Menorca, ORG, 1
 2.3 per cent, MONEY, 1
 LondonLive - Mirror Online Bosses, ORG, 1
 The Star PRAGUE, ORG, 1
@@ -28998,7 +28998,7 @@ Aviva Stadium, FAC, 1
 43.82, MONEY, 1
 Soviet Union Mexico, GPE, 1
 ITV News Programmes, ORG, 1
-Inside Johnson & Johnson’s Nonstop Hunt, ORG, 1
+Inside Johnson \& Johnson’s Nonstop Hunt, ORG, 1
 0.48%, PERCENT, 1
 Aer Lingus, ORG, 1
 provED, ORG, 1
@@ -29243,7 +29243,7 @@ Bill InstagramTuesday, PERSON, 1
 "More than 77,000", CARDINAL, 1
 Elizabeth Brockway, PERSON, 1
 The Daily Beast/GettyA, ORG, 1
-the Johnson & Johson, ORG, 1
+the Johnson \& Johson, ORG, 1
 ’84, DATE, 1
 The Scotsman Few, ORG, 1
 -Border, PRODUCT, 1
@@ -29294,7 +29294,7 @@ Colson Whitehead - CBS News, PERSON, 1
 Al Asad Airbase, ORG, 1
 Colson Whitehead, PERSON, 1
 the GOP Doctors Caucus, ORG, 1
-Redfield & Wilton Strategies, ORG, 1
+Redfield \& Wilton Strategies, ORG, 1
 MailOnline, ORG, 1
 Hunter Valley, LOC, 1
 Debbie Lesko, PERSON, 1
@@ -29415,7 +29415,7 @@ Resumption, ORG, 1
 Karen Hudson-Samuels, PERSON, 1
 WGPR-TV, ORG, 1
 Volunteers in Final Testing Phase, WORK_OF_ART, 1
-&quot;Johnson & Johnson, ORG, 1
+&quot;Johnson \& Johnson, ORG, 1
 CimaVax, ORG, 1
 the Molecular Engineering Center, ORG, 1
 The New York Times Trying, ORG, 1
@@ -29727,7 +29727,7 @@ Almost 20 years ago, DATE, 1
 Free File, WORK_OF_ART, 1
 Free File, PERSON, 1
 Tax Administration, ORG, 1
-H & R Block, ORG, 1
+H \& R Block, ORG, 1
 each weekend, DATE, 1
 TurboTax, ORG, 1
 Supply, PERSON, 1
@@ -29832,7 +29832,7 @@ Jan. 25 - Chicago, DATE, 1
 900pc, PRODUCT, 1
 Jessica Biel Opposes, PERSON, 1
 Vaccine Bill - The New York Times, PERSON, 1
-Johnson & Johnson Vaccines, ORG, 1
+Johnson \& Johnson Vaccines, ORG, 1
 Compared - The Atlantic, ORG, 1
 more than 1900, CARDINAL, 1
 Australia Italy, GPE, 1
@@ -29880,7 +29880,7 @@ West Birmingham NHS Trust, ORG, 1
 Shabi Ahmad, PERSON, 1
 Herald Vaccines, ORG, 1
 Bruce Clark, PERSON, 1
-Drugmaker Merck & Co., ORG, 1
+Drugmaker Merck \& Co., ORG, 1
 only 3.9 million, CARDINAL, 1
 Space Race, WORK_OF_ART, 1
 Variant Vaccine, PERSON, 1
@@ -29977,7 +29977,7 @@ The Washington Post Mascots, ORG, 1
 Marc MacSharry - Independent.ie, PERSON, 1
 Another Study Shows There's No Link Between the Measles Vaccine, WORK_OF_ART, 1
 pre-K, ORG, 1
-Russian & Chinese, ORG, 1
+Russian \& Chinese, ORG, 1
 Almost $330 million, MONEY, 1
 the &quot;fast track&quot, ORG, 1
 review&quot, PERSON, 1
@@ -30633,7 +30633,7 @@ Physician Up, PERSON, 1
 Just weeks later, DATE, 1
 October Thursday, DATE, 1
 Buy Additional, GPE, 1
-Doses of Johnson & Johnson's, ORG, 1
+Doses of Johnson \& Johnson's, ORG, 1
 Year End - WSJ, ORG, 1
 | Distribution of Eli Lilly, ORG, 1
 Fauci's, ORG, 1
@@ -30652,7 +30652,7 @@ ITV Wales', ORG, 1
 Sharp End Vaughan Gething, WORK_OF_ART, 1
 Al Jazeera Bank, ORG, 1
 Austria SUSPENDS, PERSON, 1
-Johnson & Johnson Halts, ORG, 1
+Johnson \& Johnson Halts, ORG, 1
 Morten Boedskov, PERSON, 1
 "three, four months", DATE, 1
 as low as 7%, PERCENT, 1
@@ -30913,7 +30913,7 @@ Rotunda, GPE, 1
 𝚃𝚘𝚡𝚒𝚌 𝚆𝚘𝚘𝚍𝚎𝚗 𝚆𝚘𝚖𝚊𝚗, PERSON, 1
 "January 8, 2021", DATE, 1
 America’s Frontline Doctors, ORG, 1
-Trump & #, ORG, 1
+Trump \& #, ORG, 1
 MAGAforever, MONEY, 1
 Getty, ORG, 1
 the Beverly Hills Courier, ORG, 1
@@ -30963,7 +30963,7 @@ U.S. - Trudeau Canada, ORG, 1
 Trudeau's Liberal, ORG, 1
 Airline Ryanair, ORG, 1
 'fall of, DATE, 1
-Anthony Fauci & Others Set, PERSON, 1
+Anthony Fauci \& Others Set, PERSON, 1
 Discovery &, PRODUCT, 1
 VODKA, ORG, 1
 ANIMALS, GPE, 1
@@ -31594,7 +31594,7 @@ Swansea - Wales Online Infection, ORG, 1
 Jerry Walkowiak, PERSON, 1
 Mount Pleasant, GPE, 1
 441, CARDINAL, 1
-The Boston Globe The Johnson & Johnson, ORG, 1
+The Boston Globe The Johnson \& Johnson, ORG, 1
 Ben Blackwell, PERSON, 1
 | Express.co.uk EUROPEAN Union, ORG, 1
 Brexiteer Richard Tice, PERSON, 1
@@ -31622,7 +31622,7 @@ Iris Gorfinkel, PERSON, 1
 Ronny Gal, PERSON, 1
 "8,269", CARDINAL, 1
 Vaccination Card - WSJ, PERSON, 1
-easyJet & Virgin Atlantic, ORG, 1
+easyJet \& Virgin Atlantic, ORG, 1
 Virgin Atlantic, LOC, 1
 Malthouse, ORG, 1
 Kit Malthouse, PERSON, 1
@@ -31679,7 +31679,7 @@ less than a month ago, DATE, 1
 Joe  , PERSON, 1
 GREENE King, ORG, 1
 Marston’s, ORG, 1
-Mitchells & Butlers, ORG, 1
+Mitchells \& Butlers, ORG, 1
 Neighbours, ORG, 1
 39;96pc, MONEY, 1
 cover&#39, PRODUCT, 1
@@ -31732,7 +31732,7 @@ Mammogram, ORG, 1
 Chicago Tribune Female, ORG, 1
 Fox News Britain, ORG, 1
 COVID-19 Older, PERSON, 1
-Johnson & Johnson Pauses, ORG, 1
+Johnson \& Johnson Pauses, ORG, 1
 Vaccine Trials Due to, ORG, 1
 earlier this morning, TIME, 1
 "At least 600,000", CARDINAL, 1
@@ -31855,7 +31855,7 @@ Invoking, ORG, 1
 Nearly 95%, PERCENT, 1
 Early Data Shows, ORG, 1
 "Sunday, January 31|", DATE, 1
-Russian Army & Kremlin, ORG, 1
+Russian Army \& Kremlin, ORG, 1
 Floridian, NORP, 1
 60 years of age or older, DATE, 1
 The Boston Globe Workers, ORG, 1
@@ -31925,7 +31925,7 @@ D.C. Congressional, ORG, 1
 MECCA, ORG, 1
 early-December, DATE, 1
 80 to 75, DATE, 1
-Jones & Morten, ORG, 1
+Jones \& Morten, ORG, 1
 Kathryn, GPE, 1
 Neale, ORG, 1
 Brigitte, ORG, 1
@@ -31957,7 +31957,7 @@ Helsinki, GPE, 1
 around a dozen, CARDINAL, 1
 Richard Engle, PERSON, 1
 May Persons, ORG, 1
-Macron & Merkel, ORG, 1
+Macron \& Merkel, ORG, 1
 "About 670,000", CARDINAL, 1
 The Boston Globe Rev., ORG, 1
 Gloria White-Hammond M.D., PERSON, 1
@@ -32098,7 +32098,7 @@ Sanofi MARCY, PERSON, 1
 IKHALA, ORG, 1
 Maria Piparinen, PERSON, 1
 Ikhala, PERSON, 1
-Johnson & Johnson Begins, ORG, 1
+Johnson \& Johnson Begins, ORG, 1
 Saint John - New Brunswick, GPE, 1
 Saint John, GPE, 1
 "April 1, 2021", DATE, 1
@@ -32128,7 +32128,7 @@ Biden Harris, ORG, 1
 the second quarter of the year - and, DATE, 1
 up to 600 millions, CARDINAL, 1
 Facui, PERSON, 1
-Taoiseach Johnson & Johnson, ORG, 1
+Taoiseach Johnson \& Johnson, ORG, 1
 "roughly 2,000", CARDINAL, 1
 327, CARDINAL, 1
 National Guard to Vaccinate Americans 'Almost, ORG, 1
@@ -32242,7 +32242,7 @@ before end of season, DATE, 1
 PCE, ORG, 1
 BusinessDesk, ORG, 1
 The New York Times Planes, ORG, 1
-UK & US, ORG, 1
+UK \& US, ORG, 1
 ARL, ORG, 1
 Delta Amacuro, ORG, 1
 "March 3, 2021", DATE, 1
@@ -32365,7 +32365,7 @@ Dogs’ Trust, ORG, 1
 STEPHEN POLLARD, PERSON, 1
 The Oval, FAC, 1
 September 11, DATE, 1
-Johnson & Johnson - Business Insider, ORG, 1
+Johnson \& Johnson - Business Insider, ORG, 1
 the Restaurant Association of Ireland, ORG, 1
 RT Sport News Sprint, ORG, 1
 2021 Olympic Games, EVENT, 1
@@ -32477,7 +32477,7 @@ ABC News The Centre for Disease Control, WORK_OF_ART, 1
 under a month, DATE, 1
 Less than 50%, PERCENT, 1
 RT USA News Mounting, ORG, 1
-Business – Europe & Asia, ORG, 1
+Business – Europe \& Asia, ORG, 1
 RT Op-ed Lockdowns, PERSON, 1
 The Washington Post Global, ORG, 1
 at least $2 billion, MONEY, 1
@@ -32504,7 +32504,7 @@ Mark Woolh, PERSON, 1
 ENTIRE REGIONS, ORG, 1
 Sweden’s Uppsala University, ORG, 1
 492, CARDINAL, 1
-Sierra Leone Johnson & Johnson, ORG, 1
+Sierra Leone Johnson \& Johnson, ORG, 1
 1.3billion, MONEY, 1
 300bn, PERSON, 1
 - Washington Times A Food and Drug Administration, ORG, 1
@@ -33128,7 +33128,7 @@ Fox News Final, ORG, 1
 Health Department - CBS News, ORG, 1
 BRITISH American Tobacco, ORG, 1
 Gladys Berejiklian’s, GPE, 1
-Black & Asian, ORG, 1
+Black \& Asian, ORG, 1
 Mairia Cahill, PERSON, 1
 interview Sinn Féin’s, ORG, 1
 the War of Independence, EVENT, 1
@@ -33279,7 +33279,7 @@ Indigeneous, ORG, 1
 Brookings, ORG, 1
 730, CARDINAL, 1
 At least 117 million, CARDINAL, 1
-The Measles & Rubella Initiative, ORG, 1
+The Measles \& Rubella Initiative, ORG, 1
 U.S. Drug-Pricing Practices - WSJ, ORG, 1
 7.4%, PERCENT, 1
 10.5%, PERCENT, 1
@@ -33447,7 +33447,7 @@ Up to 100 million, CARDINAL, 1
 Harry interview Latest news, PERSON, 1
 "March 10, 2021 - Stay", DATE, 1
 a European Union, ORG, 1
-Vaccine | Latest Health News & Updates, ORG, 1
+Vaccine | Latest Health News \& Updates, ORG, 1
 Los Angeles Times Northridge Hospital Medical Center, ORG, 1
 Vaccine Guidelines - The New York Times, PERSON, 1
 | CTV News World Health Organization, ORG, 1
@@ -33785,7 +33785,7 @@ Molly Michael, PERSON, 1
 ‼️The White House, ORG, 1
 Sasse, ORG, 1
 Incompetence, ORG, 1
-COVID-19 | Science & Tech News, ORG, 1
+COVID-19 | Science \& Tech News, ORG, 1
 "over 800,000", CARDINAL, 1
 COVID-19 vaccine - The Boston Globe First Draft, PRODUCT, 1
 Vaccine Fight, ORG, 1
@@ -33897,7 +33897,7 @@ Mike Mullaney, PERSON, 1
 London Life, ORG, 1
 Amy Tan, PERSON, 1
 Bailey The, PERSON, 1
-Inside Johnson & Johnson's, ORG, 1
+Inside Johnson \& Johnson's, ORG, 1
 Andy McCarthy, PERSON, 1
 Andrew McCarthy, PERSON, 1
 Joints for Jabs, WORK_OF_ART, 1
@@ -33926,7 +33926,7 @@ the final day of this year, DATE, 1
 a year or so, DATE, 1
 Alex Azar, ORG, 1
 577, CARDINAL, 1
-| TheHill Johnson & Johnson’s, ORG, 1
+| TheHill Johnson \& Johnson’s, ORG, 1
 Cozy Bear, WORK_OF_ART, 1
 Sydney Airport State, FAC, 1
 $145.6 million, MONEY, 1
@@ -34279,7 +34279,7 @@ Jan 28, DATE, 1
 Trans Mountain, FAC, 1
 The Boston Globe Disability, ORG, 1
 Russia′s Sputnik V COVID, PERSON, 1
-Johnson & Johnson Applies, ORG, 1
+Johnson \& Johnson Applies, ORG, 1
 Christchurch - NZ Herald Leftover, ORG, 1
 The Globe and Mail Heightened, ORG, 1
 Tran, PERSON, 1
@@ -34375,7 +34375,7 @@ Alberto Nuñez Feijóo, PERSON, 1
 'Weeks, DATE, 1
 India Approves AstraZeneca COVID-19 Vaccine For Emergency Use : Coronavirus Updates, ORG, 1
 "NPR Almost 150,000", ORG, 1
-Merck & French Pasteur Institute, ORG, 1
+Merck \& French Pasteur Institute, ORG, 1
 RT World News With Pfizer, ORG, 1
 Institut Pasteur, PERSON, 1
 More than 27.6 million, CARDINAL, 1
@@ -34406,7 +34406,7 @@ Yonhap, PERSON, 1
 Kim Jong-un's, PERSON, 1
 Ri Sol Ju, PERSON, 1
 Yonhap, ORG, 1
-Measles Vaccine News & Videos, ORG, 1
+Measles Vaccine News \& Videos, ORG, 1
 half a year’, DATE, 1
 Donall, PERSON, 1
 Brexit | Business | The Times All, ORG, 1
@@ -34623,7 +34623,7 @@ Maria Lally, PERSON, 1
 California Evidence, ORG, 1
 Peter Welch, PERSON, 1
 a U.S. Food and Drug Administration, ORG, 1
-Fox & Friends First, ORG, 1
+Fox \& Friends First, ORG, 1
 "only 454,000", CARDINAL, 1
 Luke Mogelson, PERSON, 1
 @NewYorker https://t.co/1oMDOXIKHi, GPE, 1
@@ -35112,7 +35112,7 @@ Brian Stanley, PERSON, 1
 HALF | Daily Mail, ORG, 1
 the University of Western Australia, ORG, 1
 summer this week, DATE, 1
-DW Business - Europe & Africa, ORG, 1
+DW Business - Europe \& Africa, ORG, 1
 Deutsche, ORG, 1
 7.2 Billion Dollar, MONEY, 1
 Paschi - WHO, ORG, 1
@@ -35150,7 +35150,7 @@ TheHill Johnson, PERSON, 1
 CBS News Company, ORG, 1
 a record day, DATE, 1
 16 March 2017, DATE, 1
-Unichem & Life, ORG, 1
+Unichem \& Life, ORG, 1
 Nearly one third, CARDINAL, 1
 Southern Illinois University, ORG, 1
 William Halford, PERSON, 1
@@ -35696,7 +35696,7 @@ The Boston Globe Part, ORG, 1
 Only 68, CARDINAL, 1
 "Nearly 700,000", CARDINAL, 1
 Immunologist Dr., ORG, 1
-| City & Business | Finance, ORG, 1
+| City \& Business | Finance, ORG, 1
 Independent Warning, ORG, 1
 The Boston Globe Vir Biotechnology, ORG, 1
 TheHill Federal Reserve, ORG, 1
@@ -35780,7 +35780,7 @@ nearly 8 years, DATE, 1
 nearly eight years, DATE, 1
 Australia |, ORG, 1
 RT World News Making, ORG, 1
-| Awesome Activities & Fun Facts, ORG, 1
+| Awesome Activities \& Fun Facts, ORG, 1
 N Africa, GPE, 1
 Balearic Islands, ORG, 1
 Sky News Spain, LOC, 1
@@ -35909,7 +35909,7 @@ ABC NEWS, ORG, 1
 between the ages of 0 to 5, DATE, 1
 CBC News Human, ORG, 1
 at least 133, CARDINAL, 1
-THE JOHNSON & JOHNSON, ORG, 1
+THE JOHNSON \& JOHNSON, ORG, 1
 $3.2 billion, MONEY, 1
 the Biggest Cause, ORG, 1
 Knocknagree, PERSON, 1
@@ -36542,7 +36542,7 @@ Frontline Workers, PERSON, 1
 People Over 74, ORG, 1
 Midsummer, PERSON, 1
 NPR Officials, ORG, 1
-| Euronews Johnson & Johnson, ORG, 1
+| Euronews Johnson \& Johnson, ORG, 1
 a fourth day, DATE, 1
 "3,327.77", CARDINAL, 1
 U.S. NIH, ORG, 1
@@ -36554,7 +36554,7 @@ theirrecommendations, CARDINAL, 1
 Cwm Taf Morgannwg University Health Board, ORG, 1
 Soren Brostrom, PERSON, 1
 Several European, NORP, 1
-Johnson & Johnson Johnson & Jonhson's, ORG, 1
+Johnson \& Johnson Johnson \& Jonhson's, ORG, 1
 Guy Verhofstad, ORG, 1
 Guy Verhoftstad, GPE, 1
 Florida Keys, ORG, 1
@@ -37000,7 +37000,7 @@ Covid vaccine Hannu Rajaniemi, PERSON, 1
 Vaccine Effort, WORK_OF_ART, 1
 - Los Angeles Times Developers, ORG, 1
 Roger Federer, PERSON, 1
-Schulich School of Medicine & Dentistry, ORG, 1
+Schulich School of Medicine \& Dentistry, ORG, 1
 the Canada Foundation for Innovation, ORG, 1
 Durham County, GPE, 1
 Sheriff Clarence Birkhead, ORG, 1
@@ -37296,7 +37296,7 @@ Cargo Airlines -, ORG, 1
 "6,295", CARDINAL, 1
 Some 81, CARDINAL, 1
 Angus Dalgleish, PERSON, 1
-The Globe and Mail Johnson & Johnson, ORG, 1
+The Globe and Mail Johnson \& Johnson, ORG, 1
 LloydsPharmacy, ORG, 1
 Laura Dowling, PERSON, 1
 15 hours, TIME, 1
@@ -37390,7 +37390,7 @@ The Star Moderna, PERSON, 1
 Hundreds of millions of dollars, MONEY, 1
 Pfizer' - Daily Star, ORG, 1
 U.S. Trump, ORG, 1
-Johnson & Johnson - Independent.ie Small, ORG, 1
+Johnson \& Johnson - Independent.ie Small, ORG, 1
 Betty Bumpers, PERSON, 1
 Dale Bumpers, PERSON, 1
 the Department of Correction, ORG, 1
@@ -37595,7 +37595,7 @@ CBC News Federal Intergovernmental Affairs, ORG, 1
 Barnet, GPE, 1
 a dismal year, DATE, 1
 the Australian Council of Trade Unions, ORG, 1
-Europe Johnson & Johnson, ORG, 1
+Europe Johnson \& Johnson, ORG, 1
 several months later, DATE, 1
 late this summer, DATE, 1
 Adam Kamradt-Scott, PERSON, 1
@@ -37731,7 +37731,7 @@ US , FAC, 1
 Wake Tech’s, FAC, 1
 StarMed Healthcare, ORG, 1
 Wednesday to Friday, DATE, 1
-Reuters Merck & Co, ORG, 1
+Reuters Merck \& Co, ORG, 1
 Steven Mnuchin’s, PERSON, 1
 Visa, ORG, 1
 Thomson Reuters, ORG, 1
@@ -37830,7 +37830,7 @@ the last two quarters, DATE, 1
 the first quarter of 2019, DATE, 1
 the last quarter of 2018, DATE, 1
 Andrew Pierce, PERSON, 1
-’ | TV & Radio, ORG, 1
+’ | TV \& Radio, ORG, 1
 ANDREW Pierce, PERSON, 1
 14M, ORG, 1
 Coronavirus Vaccine Research Efforts Alibaba Group Holdings Ltd., ORG, 1
@@ -38259,7 +38259,7 @@ NGAN, ORG, 1
 his seventh week, DATE, 1
 $128 billion, MONEY, 1
 Nearly $15 billion, MONEY, 1
-the Child Care & Development Block Grant, ORG, 1
+the Child Care \& Development Block Grant, ORG, 1
 "as much as $3,600", MONEY, 1
 the Affordable Care Act For, WORK_OF_ART, 1
 Affordable Care Act’s, WORK_OF_ART, 1
@@ -38385,7 +38385,7 @@ Covid vaccine EX Coronation Street, PERSON, 1
 Sky News Taking, ORG, 1
 Outraged, ORG, 1
 bin  , PERSON, 1
-WHO & EMA, ORG, 1
+WHO \& EMA, ORG, 1
 Scientist Katalin Karikó, PERSON, 1
 A Hard-Hit New York County A Mass Vaccination Site |, WORK_OF_ART, 1
 Rockland County’s, GPE, 1
@@ -38460,7 +38460,7 @@ the L.A. County Department of Public Health, ORG, 1
 Bono’s One Campaign Launches ‘Pandemica’ Series to Raise Awareness, ORG, 1
 Vaccine Access Crisis - Independent.ie Bono’s One Campaign Launches ‘Pandemica’ Series to Raise Awareness, WORK_OF_ART, 1
 Vaccine Access Crisis, WORK_OF_ART, 1
-Jones & Sherson, ORG, 1
+Jones \& Sherson, ORG, 1
 Neale, GPE, 1
 Kathryn Stephenson, PERSON, 1
 Giving Smokers Priority Access, ORG, 1
@@ -38699,7 +38699,7 @@ Photos, GPE, 1
 Videos - ABC News, ORG, 1
 The Ad Council Prepares Big Campaign On Getting The Coronavirus Vaccine, ORG, 1
 Ari Shapiro, PERSON, 1
-Green Lights Johnson & Johnson Shots, ORG, 1
+Green Lights Johnson \& Johnson Shots, ORG, 1
 The UN World Health Organization (WHO, ORG, 1
 Marina Horvath, LOC, 1
 Westminster Magistrates' Court, ORG, 1
@@ -38999,7 +38999,7 @@ Putin Hacked Our Coronavirus Vaccine, WORK_OF_ART, 1
 The Dumbest Story, WORK_OF_ART, 1
 Daily Star The UK Government, WORK_OF_ART, 1
 JD, PERSON, 1
-UK & AstraZeneca, ORG, 1
+UK \& AstraZeneca, ORG, 1
 Sharing Medicine, WORK_OF_ART, 1
 Mé, PERSON, 1
 The Money: Markets, WORK_OF_ART, 1
@@ -39084,7 +39084,7 @@ Samoa | Daily Mail Online Government, ORG, 1
 11.01.2021, DATE, 1
 Bethell, PERSON, 1
 the European Championship, ORG, 1
-Johnson & Johnson´s, ORG, 1
+Johnson \& Johnson´s, ORG, 1
 Fox News Oncologist, ORG, 1
 Bloomsbury, ORG, 1
 Andrew Stewart, PERSON, 1
@@ -39142,7 +39142,7 @@ first five weeks, DATE, 1
 9.25, CARDINAL, 1
 9.45, CARDINAL, 1
 Alberta Budget, ORG, 1
-Sept | US & Canada News, ORG, 1
+Sept | US \& Canada News, ORG, 1
 '12 week, DATE, 1
 the UK Government's, ORG, 1
 "Over 478,000", CARDINAL, 1
@@ -39159,7 +39159,7 @@ Biden Set, PERSON, 1
 "47,000", MONEY, 1
 Al Jazeera Bitcoin, ORG, 1
 The U.S. Approves, ORG, 1
-Labour & Plaid Cymru, ORG, 1
+Labour \& Plaid Cymru, ORG, 1
 Plaid Cymru, PERSON, 1
 Sister Calls For Booze Ban Until Virus Vaccine, ORG, 1
 Rachel, PERSON, 1
@@ -39198,7 +39198,7 @@ showers&quot, ORG, 1
 the Food And Drug Administration, ORG, 1
 Tottenham Hotspur, PERSON, 1
 New Zealander, ORG, 1
-MERCK & CO, ORG, 1
+MERCK \& CO, ORG, 1
 Imbokodo, PERSON, 1
 Mosaico, GPE, 1
 as early as 2020, DATE, 1
@@ -39231,7 +39231,7 @@ Sky News Dominic Raab, ORG, 1
 Tedros Adhanom Ghebre, PERSON, 1
 PUB, ORG, 1
 Greene King, ORG, 1
-CNN & Dems, ORG, 1
+CNN \& Dems, ORG, 1
 Rockland County Executive Ed Day, ORG, 1
 two-million mark, MONEY, 1
 The London School of Hygiene and Tropical Medicine, ORG, 1
@@ -39472,7 +39472,7 @@ about 30-billion dollars, MONEY, 1
 Australia - Daily Star, ORG, 1
 Jeanine Pirro&#39;s, PERSON, 1
 Monday - hours, TIME, 1
-COVID Johnson & Johnson, ORG, 1
+COVID Johnson \& Johnson, ORG, 1
 Dr, FAC, 1
 Fox News Nadhim Zahawi, ORG, 1
 Jonathan Van-Tam - Wales, PERSON, 1
@@ -39526,7 +39526,7 @@ Stella Kyriakides, ORG, 1
 Sauder School of Business, ORG, 1
 Chikungunya, ORG, 1
 Banks, PERSON, 1
-Washington Times Johnson & Johnson, ORG, 1
+Washington Times Johnson \& Johnson, ORG, 1
 a U.S. Centers for Disease Control and Prevention, ORG, 1
 Fox News Baylor College of Medicine's, ORG, 1
 November 10, DATE, 1
@@ -39875,7 +39875,7 @@ Morgan Lewis, ORG, 1
 ABC News Heavy, ORG, 1
 Westminster Hospital, ORG, 1
 Jessica Biel Weighs, PERSON, 1
-Mills & Morten, ORG, 1
+Mills \& Morten, ORG, 1
 RNZ Parliament's, ORG, 1
 Stephen Mills, PERSON, 1
 UMR Research, ORG, 1
@@ -39888,7 +39888,7 @@ Australia AUSTRALIANS, ORG, 1
 Whistleblower, ORG, 1
 January 2023, DATE, 1
 "20,130", CARDINAL, 1
-The Washington Post The Standard & Poor's, ORG, 1
+The Washington Post The Standard \& Poor's, ORG, 1
 Man’s, ORG, 1
 the World Health Organisation (WHO) Cancer Programme, ORG, 1
 Only about one million, QUANTITY, 1
@@ -39930,7 +39930,7 @@ Robinhood, ORG, 1
 190, MONEY, 1
 summer 2015, DATE, 1
 500-odd, CARDINAL, 1
-Reuters Drugmaker Merck & Co, ORG, 1
+Reuters Drugmaker Merck \& Co, ORG, 1
 IndyCar, ORG, 1
 This evening, TIME, 1
 DeSantis Himself Fact-Checks Jen Psaki, PERSON, 1
@@ -40245,7 +40245,7 @@ NPR Worries, ORG, 1
 409, CARDINAL, 1
 HAVE, ORG, 1
 The Shot: Race for the Vaccine, WORK_OF_ART, 1
-Israel & Morocco, ORG, 1
+Israel \& Morocco, ORG, 1
 Dateline Coventry, ORG, 1
 Mick Wallace, PERSON, 1
 the last three or four weeks, DATE, 1
@@ -40871,7 +40871,7 @@ Punjabi, ORG, 1
 Urdu, GPE, 1
 ITV News University Hospital Coventry, ORG, 1
 1MDB, CARDINAL, 1
-Overlake Medical Center & Clinics, ORG, 1
+Overlake Medical Center \& Clinics, ORG, 1
 about 110, CARDINAL, 1
 "more than $10,000", MONEY, 1
 AstraZeneca - The Globe and Mail Pharmaceutical, ORG, 1
@@ -40957,7 +40957,7 @@ job - Wales, ORG, 1
 $8.1 billion, MONEY, 1
 Charlie Demar, PERSON, 1
 Medicago Inc., ORG, 1
-West & Central Africa, ORG, 1
+West \& Central Africa, ORG, 1
 Lone Wolf, PERSON, 1
 5.1bn, MONEY, 1
 98.9 percent, PERCENT, 1
@@ -40973,7 +40973,7 @@ the past three days, DATE, 1
 San Diego Zoo SAN DIEGO, ORG, 1
 The San Diego Zoo, ORG, 1
 COVID Vaccine Update, PERSON, 1
-Johnson & Johnson Trial Suffers Setback, ORG, 1
+Johnson \& Johnson Trial Suffers Setback, ORG, 1
 Samoan, GPE, 1
 "February 23, 2021", DATE, 1
 decade-long, DATE, 1
@@ -41118,7 +41118,7 @@ About 90%, PERCENT, 1
 "1,114", CARDINAL, 1
 "541,908", CARDINAL, 1
 "15,564", CARDINAL, 1
-LLY & PFE's, ORG, 1
+LLY \& PFE's, ORG, 1
 Coronavirus Updates, ORG, 1
 Seattle Genetics, ORG, 1
 "Nov. 14-20, 2020", DATE, 1
@@ -41514,7 +41514,7 @@ Wales Online Muslim Doctors Cymru, ORG, 1
 those same 30 seconds, TIME, 1
 John Barrowman, PERSON, 1
 Port Talbot, GPE, 1
-Videos & Articles Mandatory Vaccination, ORG, 1
+Videos \& Articles Mandatory Vaccination, ORG, 1
 "21,450", CARDINAL, 1
 the Lone Star State, ORG, 1
 Brits SERIAL, LOC, 1
@@ -41755,7 +41755,7 @@ Oxford University-AstraZeneca COVID-19, ORG, 1
 ER Physician, ORG, 1
 Eugene Robinson, PERSON, 1
 just £7, MONEY, 1
-Johnson & Johnson - of, ORG, 1
+Johnson \& Johnson - of, ORG, 1
 Hardline, ORG, 1
 RTS, ORG, 1
 90M, PERCENT, 1
@@ -41803,7 +41803,7 @@ Standard Ireland, GPE, 1
 Van-Tam |, ORG, 1
 Sheriff, ORG, 1
 RT UK News Civil, ORG, 1
-Hollywood & Media Line-Cutters Force COVID Vaccine Site, ORG, 1
+Hollywood \& Media Line-Cutters Force COVID Vaccine Site, ORG, 1
 ' year ahead, DATE, 1
  year, DATE, 1
 Drugmaker Pauses, ORG, 1
@@ -41908,7 +41908,7 @@ French - ', DATE, 1
 Trump Narrows Search for Coronavirus Vaccine, ORG, 1
 jab - Mirror Online Family, ORG, 1
 Qanta Ahmed Boston, PERSON, 1
-FOX & Friends Weekend, ORG, 1
+FOX \& Friends Weekend, ORG, 1
 About 1-in-4, CARDINAL, 1
 Sarah Sanders, PERSON, 1
 Susan Rice, PERSON, 1
@@ -41958,7 +41958,7 @@ Tokyo Olympic Games 2021, EVENT, 1
 Pox Vaccine, PERSON, 1
 the Southern District, LOC, 1
 1 July, DATE, 1
-Besser & Morita, ORG, 1
+Besser \& Morita, ORG, 1
 Golden State, GPE, 1
 Doering, WORK_OF_ART, 1
 New Day, EVENT, 1
@@ -42011,7 +42011,7 @@ around 1 million barrels, QUANTITY, 1
 Covid Deaths Soar, PERSON, 1
 The Scotsman Data, ORG, 1
 Limerick City, GPE, 1
-FDA Johnson & Johnson's, ORG, 1
+FDA Johnson \& Johnson's, ORG, 1
 John Fitzsimons, PERSON, 1
 jab - Mirror Online Terminator, ORG, 1
 NEXT MONTH -, DATE, 1
@@ -42180,8 +42180,8 @@ Stanford University’s, ORG, 1
 ’ Council, ORG, 1
 "well over 500,000", CARDINAL, 1
 New Orleans Archdiocese, GPE, 1
-Avoid Johnson & Johnson COVID Vaccine, ORG, 1
-Janssen/Johnson & Johnson, ORG, 1
+Avoid Johnson \& Johnson COVID Vaccine, ORG, 1
+Janssen/Johnson \& Johnson, ORG, 1
 Religion News Service, ORG, 1
 the U.S. Conference of Catholic Bishops, ORG, 1
 the National Catholic Bioethics Center, ORG, 1
@@ -42352,7 +42352,7 @@ Major-General, ORG, 1
 East Hollywood, LOC, 1
 another million, CARDINAL, 1
 Reuters Oxford, PERSON, 1
-England & Wales, ORG, 1
+England \& Wales, ORG, 1
 Nearly 19, CARDINAL, 1
 Federal, ORG, 1
 Mount Sinai Medical Center, ORG, 1
@@ -42451,7 +42451,7 @@ Joe Fryer, PERSON, 1
 Only around one third, CARDINAL, 1
 Martensville, GPE, 1
 Allison Adamus, PERSON, 1
-Pfizer & BioNTech’s, ORG, 1
+Pfizer \& BioNTech’s, ORG, 1
 Sputnik V Top US, ORG, 1
 ICE The Department of Homeland Security, ORG, 1
 Covid vaccine An, PERSON, 1
@@ -42653,7 +42653,7 @@ the Brexit Protocol, LAW, 1
 14 MILLION, CARDINAL, 1
 almost 14 million, CARDINAL, 1
 100k, MONEY, 1
-The Overlake Medical Center & Clinics, ORG, 1
+The Overlake Medical Center \& Clinics, ORG, 1
 up to $472 million, MONEY, 1
 Recruiter Hays, PERSON, 1
 The Guardian Surges, ORG, 1
@@ -42744,7 +42744,7 @@ Fawkner Park, LOC, 1
 Carl Hansen, PERSON, 1
 AbCellera Biologics Inc., ORG, 1
 50 year-old, DATE, 1
-Merkel & Putin, ORG, 1
+Merkel \& Putin, ORG, 1
 Covid vaccine MARVIN HAGLER, PERSON, 1
 Marvelous Marvin, PERSON, 1
 Hagler, PERSON, 1
@@ -42908,7 +42908,7 @@ Exclusive: Covid, LAW, 1
 Isreali, NORP, 1
 Prof Arnon Afek, PERSON, 1
 Prof Eyal Leshem, PERSON, 1
-Sheba's Institute for Travel & Tropical Medicine, ORG, 1
+Sheba's Institute for Travel \& Tropical Medicine, ORG, 1
 New Approach, GPE, 1
 Dow Jones Sets New Record, ORG, 1
 ′a, PERSON, 1
@@ -42938,7 +42938,7 @@ Sept 9, DATE, 1
 100 MILLION, CARDINAL, 1
 May - The Globe and Mail U.S., ORG, 1
 Sky News Vaccination, ORG, 1
-MHRA (Medicines & Healthcare, ORG, 1
+MHRA (Medicines \& Healthcare, ORG, 1
 Health products Regulatory Authority, ORG, 1
 Government Can’t Deliver Safe Vaccines for Children, WORK_OF_ART, 1
 the Communist Party’s, ORG, 1
@@ -43029,7 +43029,7 @@ Herald Meredith, PERSON, 1
 over 30 years, DATE, 1
 Dr Shiu’s, PERSON, 1
 287, CARDINAL, 1
-Cambridge University's Institute of Therapeutic Immunology & Infectious Disease, ORG, 1
+Cambridge University's Institute of Therapeutic Immunology \& Infectious Disease, ORG, 1
 Brit GP, ORG, 1
 Ian Hodgins, PERSON, 1
 Buckfastleigh Medical Centre, ORG, 1
@@ -43178,7 +43178,7 @@ Grizelda George, PERSON, 1
 Jan Mortimer, PERSON, 1
 Jenny van Tinteren, PERSON, 1
 Minneapolis Federal Reserve, ORG, 1
-Sun Johnson & Johnson, ORG, 1
+Sun Johnson \& Johnson, ORG, 1
 the Jabs Army, ORG, 1
 Athletes, GPE, 1
 the B/Victoria, ORG, 1
@@ -43216,7 +43216,7 @@ normal - Chicago Tribune, ORG, 1
 1.8million, CARDINAL, 1
 Massachusetts Eye, ORG, 1
 CoviVac, PERSON, 1
-Sputnik V & EpiVacCorona, ORG, 1
+Sputnik V \& EpiVacCorona, ORG, 1
 the Chumakov Scientific Center, ORG, 1
 Al Jazeera Trump’s, ORG, 1
 Vexed, GPE, 1
@@ -43724,7 +43724,7 @@ Human Services, ORG, 1
 "ABC News More than 800,000", WORK_OF_ART, 1
 13-19, DATE, 1
 five to eight years, DATE, 1
-US & Belgium, ORG, 1
+US \& Belgium, ORG, 1
 at least October, DATE, 1
 "almost 40,000", CARDINAL, 1
 Lewisham, GPE, 1
@@ -43927,7 +43927,7 @@ Celebrity Cruises, PERSON, 1
 the full 2020/21 winter, DATE, 1
 Azamara, PERSON, 1
 2020/21 winter, DATE, 1
-Australia & New Zealand, ORG, 1
+Australia \& New Zealand, ORG, 1
 6.13, MONEY, 1
 4.82, MONEY, 1
 $175.6 million, MONEY, 1
@@ -43959,7 +43959,7 @@ Christina Antoniou, PERSON, 1
 K - National | Globalnews.ca To date, ORG, 1
 "more than 720,000", CARDINAL, 1
 "997,265", CARDINAL, 1
-the National Institute of Allergy & Infectious Diseases, ORG, 1
+the National Institute of Allergy \& Infectious Diseases, ORG, 1
 "84,000", CARDINAL, 1
 75 cents, MONEY, 1
 48.61, MONEY, 1
@@ -44174,7 +44174,7 @@ Some 84.8 million, CARDINAL, 1
 BBC News Charts, ORG, 1
 26.08.2020, CARDINAL, 1
 Kamala Harris Accepts VP Nomination: ', PERSON, 1
-The Globe and Mail Johnson & Johnson’s, ORG, 1
+The Globe and Mail Johnson \& Johnson’s, ORG, 1
 Worth Getting, PERSON, 1
 Bikini, GPE, 1
 Liziane Gutierrez, PERSON, 1
@@ -44433,7 +44433,7 @@ Dana Remus, PERSON, 1
 Chris Kang, PERSON, 1
 Demand Justice, ORG, 1
 Commission VP, ORG, 1
-Political Commentators Jones & Sherson, ORG, 1
+Political Commentators Jones \& Sherson, ORG, 1
 Trish Sherson, PERSON, 1
 Sherson Willis, PERSON, 1
 Scally Dr, PERSON, 1
@@ -44529,7 +44529,7 @@ Guantanamo Bay | Daily Mail, FAC, 1
 Al Qaeda, ORG, 1
 "more than 164,000", CARDINAL, 1
 Hayley Mathews, PERSON, 1
-Johnson & Jo, ORG, 1
+Johnson \& Jo, ORG, 1
 "6,994", CARDINAL, 1
 between Dec. 14 and Jan. 13, DATE, 1
 Angela Merkel CANCELS, ORG, 1
@@ -44832,7 +44832,7 @@ Dan Patterson, PERSON, 1
 before Canada Day, DATE, 1
 Ten weeks, DATE, 1
 CFD, ORG, 1
-Oxford Uni & AstraZeneca's, ORG, 1
+Oxford Uni \& AstraZeneca's, ORG, 1
 about three days, DATE, 1
 Guardian Hearing, ORG, 1
 Montefiore New Rochelle, FAC, 1
@@ -45137,7 +45137,7 @@ CBS News Hospital, ORG, 1
 Managing Covid, PERSON, 1
 STATIN, ORG, 1
 34-month, DATE, 1
-Medicines Law & Policy, ORG, 1
+Medicines Law \& Policy, ORG, 1
 Abby Johnson, PERSON, 1
 RESCUE, ORG, 1
 Tucker COVID, ORG, 1
@@ -45261,7 +45261,7 @@ Square One’, FAC, 1
 Tedros Warns, PERSON, 1
 VPM1002, ORG, 1
 just THREE hours, TIME, 1
-MONTHS | TV & Radio, ORG, 1
+MONTHS | TV \& Radio, ORG, 1
 more than a quarter-million, DATE, 1
 The Globe and Mail Anything, ORG, 1
 their 70 years, DATE, 1
@@ -45272,7 +45272,7 @@ the Royal Australian College, ORG, 1
 Covid - Wales Online Police, ORG, 1
 Pogaar, NORP, 1
 Tour de France, ORG, 1
-Johnson & Johnson - Los Angeles Times South Africa's, ORG, 1
+Johnson \& Johnson - Los Angeles Times South Africa's, ORG, 1
 Ross Memorial Hospital, ORG, 1
 Lindsay Exhibition - Peterborough, PERSON, 1
 the Lindsay Exhibition, FAC, 1
@@ -45367,7 +45367,7 @@ long&quot, ORG, 1
 Saturday Night Live: Timothée Chalamet, WORK_OF_ART, 1
 Television &, ORG, 1
 approximately seven, CARDINAL, 1
-Johnson & Johnson - The New York Times, ORG, 1
+Johnson \& Johnson - The New York Times, ORG, 1
 FEBRUARY, DATE, 1
 Sinovac Life Sciences, ORG, 1
 Rare Win, ORG, 1
@@ -45775,7 +45775,7 @@ last three weeks, DATE, 1
 the week of January 25, DATE, 1
 aged 12 to 15 years old, DATE, 1
 Bank of America Corp, ORG, 1
-JPMorgan Chase & Co, ORG, 1
+JPMorgan Chase \& Co, ORG, 1
 late last night, TIME, 1
 Louisiana BATON ROUGE, ORG, 1
 Happy New Year, EVENT, 1
@@ -46161,7 +46161,7 @@ Vaccine Development: How Long Will Protection Last, ORG, 1
 about 1.7 million, CARDINAL, 1
 Chemistry, GPE, 1
 401, CARDINAL, 1
-Sept Johnson & Johnson, ORG, 1
+Sept Johnson \& Johnson, ORG, 1
 US The Food and Drug Administration, ORG, 1
 Deborah Orr |, PERSON, 1
 Angela Merkel &, PERSON, 1
@@ -46227,7 +46227,7 @@ over 11 years, DATE, 1
 100 miles, QUANTITY, 1
 ‘four to five years, DATE, 1
 at least the end of 2024, DATE, 1
-The New York Times Johnson & Johnson’s, ORG, 1
+The New York Times Johnson \& Johnson’s, ORG, 1
 Gamaleya Research Institute, ORG, 1
 a Serious Allergic Reaction, ORG, 1
 Lindy Jones, PERSON, 1
@@ -46442,7 +46442,7 @@ around 11am, TIME, 1
 eleventh-century, DATE, 1
 Feldon Lane Surgery, FAC, 1
 Halesowen, GPE, 1
-Johnson & Johnson COVID Vaccine Efficacy, ORG, 1
+Johnson \& Johnson COVID Vaccine Efficacy, ORG, 1
 "around 44,000", CARDINAL, 1
 charge - Washington Times, ORG, 1
 "More than 2,200\u00a0Americans", CARDINAL, 1
@@ -46450,7 +46450,7 @@ the National Vaccine Injury Compensation Program, ORG, 1
 Only 2, CARDINAL, 1
 Waltz, PERSON, 1
 Michael Waltz, PERSON, 1
-Fox & Friends Weekend, ORG, 1
+Fox \& Friends Weekend, ORG, 1
 Soviet Union Germany, GPE, 1
 Boxing's Olympic, ORG, 1
 The Sun’s Ja, ORG, 1
@@ -46499,7 +46499,7 @@ Gareth Williams, PERSON, 1
 94 or 95%, PERCENT, 1
 Beacon Hospital, FAC, 1
 AstraZeneca DID, ORG, 1
-British & Dutch, ORG, 1
+British \& Dutch, ORG, 1
 BBC News Vital, ORG, 1
 "Almost 300,000", CARDINAL, 1
 "at least 851,095", CARDINAL, 1
@@ -46622,7 +46622,7 @@ Exclusive--Rand Paul: Persuasion Is the Hallmark of a Free Society I, LAW, 1
 Every Country's, ORG, 1
 "1,936", CARDINAL, 1
 Alexander Nuyken, PERSON, 1
-Videos & Articles Vaccination, ORG, 1
+Videos \& Articles Vaccination, ORG, 1
 Sky News Doctors, ORG, 1
 GOP Doctors Caucus, ORG, 1
 Pfizer-BioTech, PERSON, 1
@@ -46738,7 +46738,7 @@ the past 60 years, DATE, 1
 the Republican party, ORG, 1
 Small Business Administration, ORG, 1
 ElectionBiden, ORG, 1
-"Plan For Harassment, Shootings & ViolenceDon’t", ORG, 1
+"Plan For Harassment, Shootings \& ViolenceDon’t", ORG, 1
 Baron Cohen, PERSON, 1
 The "Borat, WORK_OF_ART, 1
 Isla Fisher, PERSON, 1
@@ -46757,7 +46757,7 @@ Niki Ashton, PERSON, 1
 "Some 21,600", CARDINAL, 1
 44bn, MONEY, 1
 Keith Hamilton, PERSON, 1
-Smith & Wesson's, ORG, 1
+Smith \& Wesson's, ORG, 1
 Bandung, GPE, 1
 West Java, GPE, 1
 Syringes, GPE, 1
@@ -46930,7 +46930,7 @@ Anne O. Krueger, PERSON, 1
 optimistic&quot, ORG, 1
 99.96 per cent, MONEY, 1
 Overview of Saskatchewan’s, ORG, 1
-Immunise Infants & Teens, ORG, 1
+Immunise Infants \& Teens, ORG, 1
 Hemel Hempstead, PERSON, 1
 Taylor Greene’s, PERSON, 1
 TheHill Biopharmaceutical, ORG, 1
@@ -46939,7 +46939,7 @@ India’s Covaxin, ORG, 1
 $US1.73 billion, MONEY, 1
 North Dublin, GPE, 1
 Obama administration&#39;s, PERSON, 1
-a &quot;Fox & Friends&quot, ORG, 1
+a &quot;Fox \& Friends&quot, ORG, 1
 Altai, LOC, 1
 the United States's, GPE, 1
 ’ - Chicago Tribune Timeline, ORG, 1
@@ -46986,7 +46986,7 @@ Senate Judiciary Committee, ORG, 1
 Smartmatic, LOC, 1
 Early last month, DATE, 1
 Trump�, ORG, 1
-Foley & Lardner LLP, ORG, 1
+Foley \& Lardner LLP, ORG, 1
 Mitchell, PRODUCT, 1
 Volunteer� Lawyer Specializes, ORG, 1
 Chapman, PRODUCT, 1
@@ -47069,7 +47069,7 @@ COVID-19 Vaccine Waiver, PERSON, 1
 the Commonwealth Human Rights Initiative, ORG, 1
 CHRI, ORG, 1
 The Frankfurter Allgemeine Zeitung, WORK_OF_ART, 1
-European & UK, ORG, 1
+European \& UK, ORG, 1
 The Globe and Mail Paul Molinaro, ORG, 1
 17.05.2018, DATE, 1
 Elissa Prichep, PERSON, 1
@@ -47292,7 +47292,7 @@ Torch Songs, ORG, 1
 BBC Radio 1’s, ORG, 1
 Blaenavon, ORG, 1
 Torch Song, ORG, 1
-Years & Years, ORG, 1
+Years \& Years, ORG, 1
 Olly Alexander, PERSON, 1
 Joni Mitchell’s, PERSON, 1
 | Morning Newsletter Plus, ORG, 1
@@ -47628,7 +47628,7 @@ Uxbridge, GPE, 1
 at least 10 million, CARDINAL, 1
 Teen Brothers Describe Experience, ORG, 1
 Dana McIntosh, PERSON, 1
-Daily Mail Online Merck & Co, ORG, 1
+Daily Mail Online Merck \& Co, ORG, 1
 303, CARDINAL, 1
 BBC News Nadhim Zahawi, ORG, 1
 as early as April 5, DATE, 1
@@ -47806,7 +47806,7 @@ another 24 million, CARDINAL, 1
 Luke Connolly, PERSON, 1
 The Big Apple’s, ORG, 1
 The NYC Vaccine, PRODUCT, 1
-Vaccine Begins Human Testing - WSJ Merck & Co., ORG, 1
+Vaccine Begins Human Testing - WSJ Merck \& Co., ORG, 1
 April 8, DATE, 1
 TOKYO, ORDINAL, 1
 Scientists Develop New Cat Allergy Vaccine Swiss, ORG, 1
@@ -48108,7 +48108,7 @@ Jasmine Kudji, PERSON, 1
 Rotavirus Vaccine, PERSON, 1
 February 16, DATE, 1
 New Brunswick | Globalnews.ca ', GPE, 1
-Pfizer & AstraZeneca, ORG, 1
+Pfizer \& AstraZeneca, ORG, 1
 RT World News Competitors, ORG, 1
 Daily Mail Online ADRIAN VINKEN, ORG, 1
 ROYAL, ORG, 1
@@ -48552,7 +48552,7 @@ the French Government, ORG, 1
 Cai Nebe, PERSON, 1
 ’ - National | Globalnews.ca Canada's, WORK_OF_ART, 1
 An estimated 93.6%, PERCENT, 1
-FDA & CDC, ORG, 1
+FDA \& CDC, ORG, 1
 Covid &, ORG, 1
 PM Latest, PERSON, 1
 Gatwick, PERSON, 1
@@ -48605,7 +48605,7 @@ next fiscal year, DATE, 1
 Chang Shu, PERSON, 1
 Hang Seng, ORG, 1
 as much as 3.6%, PERCENT, 1
-Hong Kong Exchanges & Clearing Ltd., GPE, 1
+Hong Kong Exchanges \& Clearing Ltd., GPE, 1
 First Trading Tax Hike, ORG, 1
 1993, DATE, 1
 "HK$10,000Loan", NORP, 1
@@ -48632,7 +48632,7 @@ Trump-era, ORG, 1
 Just two days, DATE, 1
 Ann Widdecombe - ', PERSON, 1
 13bn, MONEY, 1
-The Guardian Johnson & Johnson, ORG, 1
+The Guardian Johnson \& Johnson, ORG, 1
 "88,000", CARDINAL, 1
 US Congress - France, ORG, 1
 The Globe and Mail Epidemiologists, ORG, 1
@@ -48821,7 +48821,7 @@ Johns Hopkins Researcher Calls, ORG, 1
 up to 100 miles, QUANTITY, 1
 BrewDog, PERSON, 1
 BrewDog, ORG, 1
-CBC News Johnson & Johnson, ORG, 1
+CBC News Johnson \& Johnson, ORG, 1
 RNZ News International, ORG, 1
 more than four hours, TIME, 1
 CTV News Undocumented, ORG, 1
@@ -48838,7 +48838,7 @@ Sky News Test, ORG, 1
 Provisional Consent, ORG, 1
 the Market Authorisation Holder, ORG, 1
 "1,062", CARDINAL, 1
-Herald Johnson & Johnson, ORG, 1
+Herald Johnson \& Johnson, ORG, 1
 "1,044", CARDINAL, 1
 UK Bloc, FAC, 1
 Patrons At Risk After North Carolina Restaurant, WORK_OF_ART, 1
@@ -48944,7 +48944,7 @@ Andrew “Twiggy” Forrest, PERSON, 1
 over a year’, DATE, 1
 Covigenix, ORG, 1
 early April 2021, DATE, 1
-France & Germany, ORG, 1
+France \& Germany, ORG, 1
 RT World News Tensions, ORG, 1
 more than a quarter million, DATE, 1
 "Tuesday, August 25 - CNN", DATE, 1
@@ -48971,7 +48971,7 @@ Coons, PERSON, 1
 Chris Coons, PERSON, 1
 D-DE, ORG, 1
 10-15 percent, PERCENT, 1
-Astrazeneca Johnson & Johnson, ORG, 1
+Astrazeneca Johnson \& Johnson, ORG, 1
 Ferwerda, ORG, 1
 112-year-old, DATE, 1
 Hazel Plummer, PERSON, 1
@@ -49033,7 +49033,7 @@ the Stollery Children’s Hospital, FAC, 1
 The Globe and Mail Multivalent, ORG, 1
 Christmas' - Daily Star, DATE, 1
 South Waziristan, LOC, 1
-Covaxin & AstraZeneca, ORG, 1
+Covaxin \& AstraZeneca, ORG, 1
 RT — RT World News India’s, ORG, 1
 2 months early 'Simultaneously, DATE, 1
 Susanna Reid', PERSON, 1
@@ -49100,7 +49100,7 @@ More than 43% percent, PERCENT, 1
 Ambrose Evans-Pritchard, PERSON, 1
 Stewart Cole, PERSON, 1
 70-75 percent, PERCENT, 1
-Johnson & Johnson's ', ORG, 1
+Johnson \& Johnson's ', ORG, 1
 Schumpeter - The, PERSON, 1
 | Reuters Takeda Pharmaceutical, ORG, 1
 ASSOCIATED PRESS, ORG, 1
@@ -49197,7 +49197,7 @@ The Joint Committee, ORG, 1
 the National Institutes of..., ORG, 1
 Europe Measles, FAC, 1
 TEN months, DATE, 1
-Wales Online Johnson & Johnson, ORG, 1
+Wales Online Johnson \& Johnson, ORG, 1
 Mona Carlisle, PERSON, 1
 Muslim Parents Withdraw Children, ORG, 1
 Non-Halal', ORG, 1
@@ -49428,7 +49428,7 @@ Formula, GPE, 1
 Kingdom, GPE, 1
 Sputnik V Drug, ORG, 1
 COVID-19 Symptoms, ORG, 1
-"Treatments, Testing & Vaccines", ORG, 1
+"Treatments, Testing \& Vaccines", ORG, 1
 NRd-1629, ORG, 1
 Marc Sanchez, PERSON, 1
 Charlie Sheen | Time, PERSON, 1
@@ -49653,7 +49653,7 @@ Moderna Melissa Owens, PERSON, 1
 the McKesson Corporation, ORG, 1
 Shepherdsville, GPE, 1
 Timothy D Easley, PERSON, 1
-the Johnson & Johnson’s, ORG, 1
+the Johnson \& Johnson’s, ORG, 1
 Last October, DATE, 1
 More than 28.6 million, CARDINAL, 1
 "515,000", CARDINAL, 1
@@ -49784,7 +49784,7 @@ David Gauke, PERSON, 1
 ABC News Lily O'Connell, ORG, 1
 the NSW Government, ORG, 1
 | CTV News Vaccinations, ORG, 1
-Johnson & Johson, ORG, 1
+Johnson \& Johson, ORG, 1
 AstraZeneca U, ORG, 1
 Nine, ORG, 1
 three and a half decades, DATE, 1
@@ -50133,13 +50133,13 @@ Ellis, LOC, 1
 just a few months ago, DATE, 1
 National Immunisation Program | SBS News, ORG, 1
 Herald New EU, ORG, 1
-Mass. Stop & Shop, ORG, 1
+Mass. Stop \& Shop, ORG, 1
 The Boston Globe Some Walmart, ORG, 1
 Trudeau - The Globe and Mail Borders, ORG, 1
 598, CARDINAL, 1
 ’ fall, DATE, 1
 Sun With Canada, ORG, 1
-EU Johnson & Johnson, ORG, 1
+EU Johnson \& Johnson, ORG, 1
 Kim Roberts, PERSON, 1
 The Boston Globe Zika, ORG, 1
 the Senate Appropriations, ORG, 1
@@ -50353,7 +50353,7 @@ Covid vaccine - Mirror Online Emmerdale, PERSON, 1
 Brigitte Osterath, PERSON, 1
 Andrew Lloyd Webber ', PERSON, 1
 Katko, PERSON, 1
-Varney & Company, ORG, 1
+Varney \& Company, ORG, 1
 Diane Macedo, GPE, 1
 Vaccine Mess - The New York Times, PERSON, 1
 Roop, PERSON, 1
@@ -50362,7 +50362,7 @@ Peter MacCallum Cancer Centre, ORG, 1
 POLITICO-Harvard, ORG, 1
 Horacio Arruda, PERSON, 1
 The Globe and Mail Conventional, ORG, 1
-Merck Sharp & Dohme, ORG, 1
+Merck Sharp \& Dohme, ORG, 1
 Miguel Lago, PERSON, 1
 ITV News Approval, ORG, 1
 Indiana Pacers Game, ORG, 1
@@ -50450,7 +50450,7 @@ Shaun Hendy, PERSON, 1
 Anfield Stadium, FAC, 1
 U.S. Health Agencies Intensify Fight Against Zika Virus :, ORG, 1
 NPR The Centers for Disease Control and Prevention and the National Institutes of Health, ORG, 1
-Hague & McDonnell, ORG, 1
+Hague \& McDonnell, ORG, 1
 Josh Johnston, PERSON, 1
 the Asheville Waldorf School, ORG, 1
 Reuters Romania, PERSON, 1
@@ -50836,7 +50836,7 @@ No Jab No Fly, WORK_OF_ART, 1
 Tracy Livingston, PERSON, 1
 the NZ Outdoors Party, ORG, 1
 Tracy, PERSON, 1
-Works at Johnson & Johnson, ORG, 1
+Works at Johnson \& Johnson, ORG, 1
 Remainer Blackadder, PERSON, 1
 Tony Robinson, PERSON, 1
 Brexiteers, PRODUCT, 1
@@ -50872,7 +50872,7 @@ a Steady Stream of Cases - The New York Times, ORG, 1
 Anthony Fauci APOLOGISES, PERSON, 1
 Vinny Smith, PERSON, 1
 40k, MONEY, 1
-Dubai & India AN, ORG, 1
+Dubai \& India AN, ORG, 1
 CBS News Drug, ORG, 1
 Vaccinate 70%, PERCENT, 1
 16 to 18, DATE, 1
@@ -51122,7 +51122,7 @@ ABC News One of, WORK_OF_ART, 1
 Sun's Jabs Army UBER, ORG, 1
 up to £15, MONEY, 1
 Latinos - Los Angeles Times, ORG, 1
-DW Business – Europe & Asia, ORG, 1
+DW Business – Europe \& Asia, ORG, 1
 Suez Canal - Renewable, ORG, 1
 Keys Bruce Rauner, PERSON, 1
 Ocean Reef Club, ORG, 1
@@ -51544,7 +51544,7 @@ Vaccine Priority Groups Timeline, ORG, 1
 Line, GPE, 1
 US States, GPE, 1
 Indigo, ORG, 1
-Indigo Books & Music Inc., ORG, 1
+Indigo Books \& Music Inc., ORG, 1
 San Diego's, GPE, 1
 A WORLD Health Organisation, ORG, 1
 seven billion, CARDINAL, 1
@@ -51641,7 +51641,7 @@ Middletown, GPE, 1
 Woonsocket - The Boston Globe, ORG, 1
 SEBASTIAN Kurz, PERSON, 1
 Ashish, PERSON, 1
-UK & EU, ORG, 1
+UK \& EU, ORG, 1
 Neighborhood, GPE, 1
 Al Jazeera Warning, ORG, 1
 RT World News Philippine, ORG, 1
@@ -51683,7 +51683,7 @@ the month before, DATE, 1
 Bin Laden - BBC, PERSON, 1
 Countries, ORG, 1
 Variant First Seen, PERSON, 1
-US & European, ORG, 1
+US \& European, ORG, 1
 RT World News Biotech, ORG, 1
 Obama-Biden, PERSON, 1
 Michael Grynbaum, PERSON, 1
@@ -51862,7 +51862,7 @@ Cooler Uses Spacecraft Insulation, ORG, 1
 The "Cold Chain" In Hot Spots : Goats and Soda :, WORK_OF_ART, 1
 NPR Typically, ORG, 1
 Johnson | News, PERSON, 1
-Andrew Neil | TV & Radio, PERSON, 1
+Andrew Neil | TV \& Radio, PERSON, 1
 "MORE THAN 250,000", CARDINAL, 1
 Inovio Pharmaceuticals’, ORG, 1
 The Boston Globe Novavax Inc., ORG, 1
@@ -51914,7 +51914,7 @@ the Terrence Higgins Trust, ORG, 1
 Commons Treasury, ORG, 1
 Times Ireland, GPE, 1
 Late on, TIME, 1
-Pfizer & BioNTech, ORG, 1
+Pfizer \& BioNTech, ORG, 1
 Saskatoon, LOC, 1
 Institution, ORG, 1
 the Medical Research Council’s Centre for Virus Research, ORG, 1
@@ -51993,7 +51993,7 @@ Finian, PERSON, 1
 Tuesday that Christmas, DATE, 1
 Central Texas, LOC, 1
 Scandi, ORG, 1
-Bricks & Mortar, ORG, 1
+Bricks \& Mortar, ORG, 1
 Daily Show, EVENT, 1
 the last 48 hours, TIME, 1
 less that three weeks, DATE, 1
@@ -52016,7 +52016,7 @@ Scoop News Vaccine, ORG, 1
 CAMBRIDGE, GPE, 1
 NEXT MONTH - Huge, DATE, 1
 Mavericks, ORG, 1
-Johnson & Johnson - Washington Times, ORG, 1
+Johnson \& Johnson - Washington Times, ORG, 1
 900b, MONEY, 1
 Trump - The Boston Globe Congress, ORG, 1
 Marcy L'Etoike, PERSON, 1
@@ -52042,7 +52042,7 @@ Fourth Election, ORG, 1
 Two Years -, DATE, 1
 the 90 percent, PERCENT, 1
 £61 million, MONEY, 1
-4M Johnson & Johnson COVID, ORG, 1
+4M Johnson \& Johnson COVID, ORG, 1
 3 to 4 million, MONEY, 1
 22 February, DATE, 1
 Covid vaccine hunt, PERSON, 1
@@ -52072,7 +52072,7 @@ the Global Day of Prayer, DATE, 1
 The Guardian Inovio Pharmaceuticals, ORG, 1
 958, CARDINAL, 1
 "Only 190,000", CARDINAL, 1
-$885 Million - WSJ Eli Lilly & Co., MONEY, 1
+$885 Million - WSJ Eli Lilly \& Co., MONEY, 1
 Boehringer Ingelheim Vetmedica Inc.’s, ORG, 1
 The Boston Globe Robert F. Kennedy Jr., ORG, 1
 Kerri Schwartz, PERSON, 1
@@ -52199,7 +52199,7 @@ Graphic Packaging, PERSON, 1
 more than eight years, DATE, 1
 them.)"Members, DATE, 1
 Aaron Cooper, PERSON, 1
-Jenner & Block, ORG, 1
+Jenner \& Block, ORG, 1
 the Senate Intelligence Committee, ORG, 1
 Public Citizen, PERSON, 1
 the Securities and Exchange Commission, ORG, 1
@@ -52364,7 +52364,7 @@ the third week of January, DATE, 1
 the House Committee on Energy and Commerce’s, ORG, 1
 DRC&#39;s, ORG, 1
 August 2018, DATE, 1
-Johnson & Johnson COVID Vaccine Could Bring Herd Immunity, ORG, 1
+Johnson \& Johnson COVID Vaccine Could Bring Herd Immunity, ORG, 1
 Becerra, PERSON, 1
 860, MONEY, 1
 Republican Vaccine Skeptics, ORG, 1
@@ -52395,7 +52395,7 @@ up to 252 million, CARDINAL, 1
 252 million, CARDINAL, 1
 at least 352 million, MONEY, 1
 1954, DATE, 1
-Health News - Health & Families - The Independent, ORG, 1
+Health News - Health \& Families - The Independent, ORG, 1
 2020–2021, CARDINAL, 1
 State Dominic Raab, ORG, 1
 more than 1 billion pounds, MONEY, 1
@@ -52405,7 +52405,7 @@ West Africa's, GPE, 1
 Lake Chad, PERSON, 1
 the Greenhouse Theater, FAC, 1
 North Side, LOC, 1
-&quot;Judy & Liza.&quot, ORG, 1
+&quot;Judy \& Liza.&quot, ORG, 1
 Ian Brown's, PERSON, 1
 Fauci Is, PERSON, 1
 Beirut’s, ORG, 1
@@ -52729,7 +52729,7 @@ NowThis, PERSON, 1
 1 million to 1.5 million, CARDINAL, 1
 Sept. 22, DATE, 1
 @NateSilver538, NORP, 1
-| Reuters Merck & Co Inc <MRK.N, ORG, 1
+| Reuters Merck \& Co Inc <MRK.N, ORG, 1
 McKee, PERSON, 1
 DuPage County, GPE, 1
 "about 13,000", CARDINAL, 1
@@ -52755,7 +52755,7 @@ Guardian Stock, ORG, 1
 NHS Vaccination Centres, ORG, 1
 Covid vaccine - CNN, PERSON, 1
 Healthy Americans, PERSON, 1
-Patrick Vallance | Science & Tech, PERSON, 1
+Patrick Vallance | Science \& Tech, PERSON, 1
 EDINBURGH, ORG, 1
 "around 13,000", CARDINAL, 1
 six days in a row, DATE, 1
@@ -53047,7 +53047,7 @@ Jeopardy, PRODUCT, 1
 Trebek, PERSON, 1
 The Globe and Mail European Commission, ORG, 1
 CBC Radio Provinces, ORG, 1
-Inside Johnson & Johnson’s, ORG, 1
+Inside Johnson \& Johnson’s, ORG, 1
 "all 33,000", CARDINAL, 1
 GIBRALTAR, ORG, 1
 Yahaira Alicea, PERSON, 1
@@ -53124,7 +53124,7 @@ Trump Must Stop Criticizing Scientists Amid COVID-19 Vaccine Talks: Experts, ORG
 Boston VA, ORG, 1
 envelope&quot, PERSON, 1
 Beacon Hospital: 'Weekend, ORG, 1
-Johnson & Johnson Begins Phase, ORG, 1
+Johnson \& Johnson Begins Phase, ORG, 1
 Vaccine Expert Adel Mahmoud Took, PERSON, 1
 Princeton, PERSON, 1
 Trudeau - National | Globalnews.ca Canada, ORG, 1
@@ -53240,7 +53240,7 @@ ten-week-old, DATE, 1
 Dane, ORG, 1
 flu - Videos - CBS News, ORG, 1
 Congratulations USA, ORG, 1
-England | Science & Tech News, ORG, 1
+England | Science \& Tech News, ORG, 1
 Financial and Business News | Markets Insider Global, ORG, 1
 "The next, tenth season", DATE, 1
 Taoiseach Micheál Martin, EVENT, 1
@@ -53261,7 +53261,7 @@ Reopen - The New York Times, ORG, 1
 A-Levels, ORG, 1
 late Tuesday night, TIME, 1
 €36m, MONEY, 1
-Covid Seen & Heard, ORG, 1
+Covid Seen \& Heard, ORG, 1
 Montrose, ORG, 1
 05.03.2021, CARDINAL, 1
 134 million, CARDINAL, 1
@@ -53396,7 +53396,7 @@ Mohsen Fakrizadeh, PERSON, 1
 Mullen, PERSON, 1
 Covid crisis &, ORG, 1
 DOMINIC Cummings, ORG, 1
-the Johnson & Johnson COVID Vaccine, ORG, 1
+the Johnson \& Johnson COVID Vaccine, ORG, 1
 Covid Vaccine Help, PERSON, 1
 Overwhelmed States, GPE, 1
 at least 92, CARDINAL, 1
@@ -53584,7 +53584,7 @@ election 2019, DATE, 1
 Coalition - ABC News Labor, ORG, 1
 the National Party, ORG, 1
 Kassidi Kurill's, PERSON, 1
-Yahoo Medical Contributor & Columbia University, ORG, 1
+Yahoo Medical Contributor \& Columbia University, ORG, 1
 Rajiv Biswas, PERSON, 1
 RT USA News Following, ORG, 1
 2 billion of, MONEY, 1
@@ -53802,7 +53802,7 @@ Daily Mail Online Department, ORG, 1
 6.8million, CARDINAL, 1
 Bruce Y. Lee, PERSON, 1
 PHICOR, ORG, 1
-CUNY Graduate School of Public Health & Health Policy, ORG, 1
+CUNY Graduate School of Public Health \& Health Policy, ORG, 1
 the National Palace, ORG, 1
 573, CARDINAL, 1
 The Guardian Royal Society, ORG, 1
@@ -53913,7 +53913,7 @@ approximately six, CARDINAL, 1
 Wellington-Dufferin-Guelph, ORG, 1
 PHILADELPHIA, PERSON, 1
 17.03.2020, DATE, 1
-Janssen-Johnson & Johnson's, ORG, 1
+Janssen-Johnson \& Johnson's, ORG, 1
 July - Business Insider Inside, DATE, 1
 ABC News Samoa, ORG, 1
 British Cathedral, ORG, 1
@@ -54035,7 +54035,7 @@ Multi, GPE, 1
 $440 million, MONEY, 1
 about nine, CARDINAL, 1
 The Boston Globe Since Massachusetts, ORG, 1
-the Middlesex Jail & House of Correction, ORG, 1
+the Middlesex Jail \& House of Correction, ORG, 1
 Billerica, GPE, 1
 ASTI, ORG, 1
 Andrea Edlow, PERSON, 1
@@ -54263,7 +54263,7 @@ Congress Trump Jr., PERSON, 1
 the Republic, GPE, 1
 "53,775", CARDINAL, 1
 501, CARDINAL, 1
-Health News - Health & Families -, ORG, 1
+Health News - Health \& Families -, ORG, 1
 Southland, FAC, 1
 Andrew Swanson-Dobbs, PERSON, 1
 Southland, GPE, 1
@@ -54274,7 +54274,7 @@ CHRIS, PERSON, 1
 a summer holiday, DATE, 1
 CBC Radio Peace Corps, ORG, 1
 Lon Kightlinger , PERSON, 1
-Holland & Belgium, ORG, 1
+Holland \& Belgium, ORG, 1
 the middle of June, DATE, 1
 next week - NZ, DATE, 1
 Herald Chickenpox, ORG, 1
@@ -54333,7 +54333,7 @@ South Africa, ORG, 1
 Trump Signs Coronavirus, PERSON, 1
 "today, Wednesday, February", DATE, 1
 the District - The Washington Post HHS, LOC, 1
-Pfizer & Moderna, ORG, 1
+Pfizer \& Moderna, ORG, 1
 RT World News Vaccines, ORG, 1
 Vaunted Ebola Vaccine, ORG, 1
 Covid Vaccine Dose to Everyone, PERSON, 1
@@ -54351,7 +54351,7 @@ Phoebe Dynevor, ORG, 1
 season 2 of 'Bridgerton', DATE, 1
 $11 billion, MONEY, 1
 only $3.6 billion, MONEY, 1
-McKinsey & Co., ORG, 1
+McKinsey \& Co., ORG, 1
 more than 1.3 million, CARDINAL, 1
 Lawrence Mkhize, PERSON, 1
 2024."The, CARDINAL, 1
@@ -54765,7 +54765,7 @@ Chicago Tribune The United Center, ORG, 1
 Bondi, GPE, 1
 Sydney’s, ORG, 1
 Jomana Karadsheh, PERSON, 1
-Oracle & Co, ORG, 1
+Oracle \& Co, ORG, 1
 Stephen Lewis, PERSON, 1
 Big Pharma - National | Globalnews.ca, ORG, 1
 Nicola Sturgeon EU, ORG, 1
@@ -54840,7 +54840,7 @@ Singaporean, NORP, 1
 Sun Long-term, PERSON, 1
 Lisa Freeman, PERSON, 1
 Produce, ORG, 1
-Bill & Melinda Gates Foundation, ORG, 1
+Bill \& Melinda Gates Foundation, ORG, 1
 S. African, NORP, 1
 KABUL, GPE, 1
 Covid NEARLY, PERSON, 1

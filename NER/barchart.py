@@ -4,7 +4,13 @@ import seaborn as sns
 import os
 import math
 
-sns.set(rc={'figure.figsize': (11, 4)})
+plt.rcParams.update({
+    "text.usetex": True,
+    "font.family": "sans-serif",
+    "font.sans-serif": ["Helvetica"]})
+sns.set(rc={'font.size': 10, 'axes.titlesize': 10, 'axes.labelsize': 10, 'figure.figsize': (11.7, 8.27)})
+sns.set(font_scale=1.25)
+sns.set_style('ticks')
 
 
 def plot_top_30(df, title, hue=False):
@@ -33,17 +39,25 @@ def plot_top_30(df, title, hue=False):
             calculated_height[(k, v[i])] = val
     for p in ax.patches:
         if (p.get_x(), p.get_height()) in calculated_height:
+            offset = -(len(str(calculated_height[(p.get_x(), p.get_height())])) * 4)
+            # Uncomment if you wanna redo graph for either vaccine person or covid person, cba trying to figure out
+            # how to get the to work dynamically.
+            #if p.get_height() <= abs(offset) * fig.dpi * 0.25: # VACCINE PERSON
+            #if p.get_height() <= abs(offset) * fig.dpi * 4: # COVID PERSON
+            #    offset = offset * -1
             ax.annotate(format(calculated_height[(p.get_x(), p.get_height())], '.0f'),
                         (p.get_x() + p.get_width() / 2., p.get_height()),
                         ha='center',
                         va='center',
-                        xytext=(0, 9),
-                        textcoords='offset points')
+                        xytext=(0, offset),
+                        textcoords='offset pixels',
+                        rotation=90)
     ax.set_title(title)
     ax.set_ylabel('Quantity')
     ax.set_xlabel('')
     plt.xticks(rotation=90)
-    plt.show()
+    #plt.show()
+    plt.savefig('E:\\bachelor\\dataIsButyful\\OfficialPics\\' + title + '.png', bbox_inches='tight')
 
 
 def plot_top_30_org(df, title):
@@ -98,7 +112,7 @@ def plot_events_by_country(label):
     ax.set_title(title)
     ax.set_xlabel('Country')
     ax.set_ylabel('Quantity')
-    plt.show()
+    plt.savefig('E:\\bachelor\\dataIsButyful\\OfficialPics\\WWII' + label + '.png', bbox_inches='tight')
 
 
 if __name__ == '__main__':
@@ -109,11 +123,11 @@ if __name__ == '__main__':
     covid.rename(columns={'label': 'Label'}, inplace=True)
     plot_top_30(vaccine, 'Named entities for vaccine articles', True)
     plot_top_30(covid, 'Named entities for Covid articles', True)
-    #plot_top_30_org(vaccine, 'Organization entities for vaccine articles')
-    #plot_top_30_org(covid, 'Organization entities for Covid articles')
+    plot_top_30_org(vaccine, 'Organization entities for vaccine articles')
+    plot_top_30_org(covid, 'Organization entities for Covid articles')
     #plot_top_30_person(vaccine, 'Person entities for vaccine articles')
     #plot_top_30_person(covid, 'Person entities for Covid articles')
-    #plot_top_30_event(vaccine, 'Event entities for vaccine articles')
-    #plot_top_30_event(covid, 'Event entities for Covid Articles')
-    #plot_events_by_country('is_vaccine')
-    #plot_events_by_country('is_covid')
+    plot_top_30_event(vaccine, 'Event entities for vaccine articles')
+    plot_top_30_event(covid, 'Event entities for Covid Articles')
+    plot_events_by_country('is_vaccine')
+    plot_events_by_country('is_covid')

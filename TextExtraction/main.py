@@ -62,22 +62,22 @@ def read_from_database(label, keyword):
                 '$or': [
                     {
                         'title': {
-                            '$regex': f'.*World War II.*',
-                            '$options': 'i'
+                            '$regex': f'.*EU.*',
+                            '$options': ''
                         }
                     }, {
                         'description': {
-                            '$regex': f'.*World War II.*',
-                            '$options': 'i'
+                            '$regex': f'.*EU.*',
+                            '$options': ''
                         }
                     }, {
                         'title': {
-                            '$regex': f'.*WWII.*',
+                            '$regex': f'.*European Union.*',
                             '$options': 'i'
                         }
                     }, {
                         'description': {
-                            '$regex': f'.*WWII.*',
+                            '$regex': f'.*European Union.*',
                             '$options': 'i'
                         }
                     }
@@ -91,33 +91,13 @@ def read_from_database(label, keyword):
 
 if __name__ == '__main__':
     print("Lets fuck shit up!")
-    labels = ['is_covid', 'is_vaccine']
+    labels = ['is_vaccine']
     keywords = ['amazon']
     for label_ in labels:
         for keyword_ in keywords:
-            data = get_data([
-                {
-                    '$project': {
-                        'year': {'$year': '$date'},
-                        label_: 1
-                    }
-                }, {
-                    '$match': {
-                        'year': {'$gte': 2020},
-                        label_: True
-                    }
-                }, {
-                    '$group': {
-                        '_id': None,
-                        'count': {'$sum': 1}
-                    }
-                }
-            ])
-            for i in data:
-                print(i)
             print(label_, keyword_)
             data = read_from_database(label_, keyword_)
-            with codecs.open(f"{label_}_WWWWWWW.txt", 'w', encoding='utf-8') as file:
+            with codecs.open(f"{label_}_EU.txt", 'w', encoding='utf-8') as file:
                 for i in data:
                     file.write(str(i))
                     file.write("\n")
